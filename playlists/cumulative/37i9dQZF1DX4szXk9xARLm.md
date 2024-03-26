@@ -4,7 +4,7 @@
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-60 songs - 3 hr 17 min
+61 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Ha Khouya](https://open.spotify.com/track/1eEWmjCWjFtWhL36HKdjsc) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ha Khouya](https://open.spotify.com/album/6XQsDdlTch6XLivTtooFzL) | 2:57 | 2024-03-10 |  |
 | [HARAZEEK](https://open.spotify.com/track/4KkZaDtLIuCiCUH6Zwy0rx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Amr Saad](https://open.spotify.com/artist/1hrucExvTdqEfvm2NSjMzv) | [HARAZEEK](https://open.spotify.com/album/0CGER7nFUzj3GFGKK3UJD0) | 2:38 | 2024-03-10 |  |
 | [Haseb Ya Tayeb \- Music from Khyanet Ahd TV Series](https://open.spotify.com/track/6a4fiwOKwLgTeZQX25P0vU) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Haseb Ya Tayeb \(Music from Khyanet Ahd TV Series\)](https://open.spotify.com/album/5UKvTirwj6tAdCYWfvOyvo) | 3:57 | 2024-03-10 |  |
+| [Hat7areb Meen \(From Selat Rahem Series\)](https://open.spotify.com/track/7fP0vL4oUUlysez0UEna9k) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Hat7areb Meen \(From Selat Rahem Series\)](https://open.spotify.com/album/5GI8UYo7NuzgaIv6sYmxVQ) | 3:05 | 2024-03-25 |  |
 | [Houwa](https://open.spotify.com/track/0yRZBgfcq7lAMl34Kn9WlY) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa](https://open.spotify.com/album/7BpNyAXToxtSKfkO8sRshM) | 3:31 | 2024-03-10 |  |
 | [Kan Tri9i Bayn](https://open.spotify.com/track/4MbMh3PtcqOcwqoC0Yhh2i) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Kan Tri9i Bayn](https://open.spotify.com/album/4T15gRes7qBvuEjIptdoCH) | 3:17 | 2024-03-10 |  |
 | [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/track/571hMdqSYlYZNa4i4Y0IpS) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Boustan Magdy](https://open.spotify.com/artist/2hY97UqOlQK2wyIAXkx2Ep) | [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/album/5wnmqhy2eKLnqEYqAHZ7O4) | 3:14 | 2024-03-10 |  |
@@ -36,7 +37,7 @@
 | [Lw](https://open.spotify.com/track/21pRBYqcpAHzzyrSrX2HCb) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Lw](https://open.spotify.com/album/1zHi1zlyhdrFkM00DoDNVL) | 3:21 | 2024-03-10 |  |
 | [Ma Houwa Jari](https://open.spotify.com/track/5Veho0QUWxN6rKnTK4DuxQ) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Ma Houwa Jari](https://open.spotify.com/album/6hY9L40UJ5E7hfY4f0nUlA) | 2:14 | 2024-03-10 |  |
 | [Maksour Albi \- مكسور قلبي \- From Eshret Omor Series \- من مسلسل عشرة عمر](https://open.spotify.com/track/7DrQNFN993CYcTZlUbY4ft) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Maksour Albi \- مكسور قلبي \(From Eshret Omor Series \- من مسلسل عشرة عمر\)](https://open.spotify.com/album/5xX7kQ7GkCUF1B9lW8XzS2) | 2:41 | 2024-03-10 |  |
-| [Mansethosh Men Mosalsal El Aghar](https://open.spotify.com/track/6MlT8xS8aHcgbqLQMJhywZ) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Mansethosh Men Mosalsal El Aghar](https://open.spotify.com/album/1rZN80PcHL3z8cS9X0RyAx) | 4:00 | 2024-03-10 |  |
+| [Mansethosh Men Mosalsal El Aghar](https://open.spotify.com/track/6MlT8xS8aHcgbqLQMJhywZ) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Mansethosh Men Mosalsal El Aghar](https://open.spotify.com/album/1rZN80PcHL3z8cS9X0RyAx) | 4:00 | 2024-03-10 | 2024-03-26 |
 | [Millionaire \- Music from 100 Wesh TV Series](https://open.spotify.com/track/7vuO4IR9VCoXa1NvlgOISv) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub) | [Millionaire \(Music from 100 Wesh TV Series\)](https://open.spotify.com/album/6aA8kq3KuqnDQNlg0gVY0L) | 4:41 | 2024-03-10 |  |
 | [Moujat El Babour](https://open.spotify.com/track/5bFAK2BB8tKl9GDtA74AJy) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Moujat El Babour](https://open.spotify.com/album/4EWXSX7uIJtZfOkEXeiPvi) | 3:30 | 2024-03-10 |  |
 | [Nadl Wa Ayouta](https://open.spotify.com/track/3bAXyTXlTRVQb6phnvqoLe) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Nadl Wa Ayouta](https://open.spotify.com/album/5m9EAV3iDupQ90jeGYRQRM) | 2:36 | 2024-03-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 320960,
+  "num_followers": 320959,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGExOGE2MDg3MzA2NjA2NTBhZDdhOTAzNzg0ZWU2Y2RkZmUwYzUw",
+  "snapshot_id": "MCwyZmFlZDdkMzdkNjVmMmE4NmY5NmVmNDVmY2NlNjczOGI4Mzg0OTNk",
   "tracks": [
     {
       "added_at": "2023-11-22 17:23:28",
@@ -315,26 +315,6 @@
     {
       "added_at": "2023-11-22 17:23:28",
       "album": {
-        "name": "TAKE IT OFF",
-        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        }
-      ],
-      "duration_ms": 194604,
-      "name": "TAKE IT OFF",
-      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
-    },
-    {
-      "added_at": "2023-11-22 17:23:28",
-      "album": {
         "name": "Still Sleepless",
         "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
       },
@@ -423,6 +403,26 @@
     {
       "added_at": "2023-11-22 17:23:28",
       "album": {
+        "name": "TAKE IT OFF",
+        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 194604,
+      "name": "TAKE IT OFF",
+      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
+    },
+    {
+      "added_at": "2023-11-22 17:23:28",
+      "album": {
         "name": "More Baby",
         "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
       },
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-11-22 17:23:28",
       "album": {
+        "name": "Bayside",
+        "url": "https://open.spotify.com/album/6zkyKkJPiRV3EiAuTg6aQC"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Bayside - Radio Edit",
+      "url": "https://open.spotify.com/track/7hYW4hKuPkfaLbzTpg9hQB"
+    },
+    {
+      "added_at": "2023-11-22 17:23:28",
+      "album": {
         "name": "Feel Again",
         "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/1q3qh7hEJrPmPH7uOteYSr"
-    },
-    {
-      "added_at": "2023-11-22 17:23:28",
-      "album": {
-        "name": "Bayside",
-        "url": "https://open.spotify.com/album/6zkyKkJPiRV3EiAuTg6aQC"
-      },
-      "artists": [
-        {
-          "name": "Obsk\u00fcr",
-          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "Bayside - Radio Edit",
-      "url": "https://open.spotify.com/track/7hYW4hKuPkfaLbzTpg9hQB"
     },
     {
       "added_at": "2023-11-22 17:23:28",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2023-11-22 17:23:28",
       "album": {
+        "name": "Not In Love (feat. LOWES)",
+        "url": "https://open.spotify.com/album/6bPw3hRULbo1TP1718uPGo"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "LOWES",
+          "url": "https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g"
+        }
+      ],
+      "duration_ms": 223129,
+      "name": "Not In Love (feat. LOWES)",
+      "url": "https://open.spotify.com/track/28MLM0VRhhcqtWzxsNLvwu"
+    },
+    {
+      "added_at": "2023-11-22 17:23:28",
+      "album": {
         "name": "beachin",
         "url": "https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 194568,
       "name": "beachin",
       "url": "https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF"
-    },
-    {
-      "added_at": "2023-11-22 17:23:28",
-      "album": {
-        "name": "Not In Love (feat. LOWES)",
-        "url": "https://open.spotify.com/album/6bPw3hRULbo1TP1718uPGo"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "LOWES",
-          "url": "https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g"
-        }
-      ],
-      "duration_ms": 223129,
-      "name": "Not In Love (feat. LOWES)",
-      "url": "https://open.spotify.com/track/28MLM0VRhhcqtWzxsNLvwu"
     },
     {
       "added_at": "2023-11-22 17:23:28",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-11-22 17:23:28",
       "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/3tUqZawXHgIOYvRgrvpa9n"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 156210,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3Ez1aIT6ljEWE0W3qNhl62"
+    },
+    {
+      "added_at": "2023-11-22 17:23:28",
+      "album": {
         "name": "Asking (feat. Clementine Douglas) [Joshwa Remix]",
         "url": "https://open.spotify.com/album/1RotBVyL3ROSBdHQ5soI2L"
       },
@@ -1459,18 +1475,18 @@
     {
       "added_at": "2023-11-22 17:23:28",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/3tUqZawXHgIOYvRgrvpa9n"
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
         }
       ],
-      "duration_ms": 156210,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3Ez1aIT6ljEWE0W3qNhl62"
+      "duration_ms": 215645,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF"
     },
     {
       "added_at": "2023-11-22 17:23:28",
@@ -1487,22 +1503,6 @@
       "duration_ms": 126660,
       "name": "Ladybug",
       "url": "https://open.spotify.com/track/2VWs3tTCpvPIPwwgpG68Gj"
-    },
-    {
-      "added_at": "2023-11-22 17:23:28",
-      "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm"
-      },
-      "artists": [
-        {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
-        }
-      ],
-      "duration_ms": 215645,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF"
     },
     {
       "added_at": "2023-11-22 17:23:28",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-11-22 17:23:28",
       "album": {
-        "name": "Out The Door",
-        "url": "https://open.spotify.com/album/4R53BlPojGyGmWd0UVIH9Y"
-      },
-      "artists": [
-        {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Out The Door",
-      "url": "https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK"
-    },
-    {
-      "added_at": "2023-11-22 17:23:28",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/0PX69mVcjK2diUjMw6S3fW"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 228387,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/15w5T3xUU5hWsAJ07ibn5B"
+    },
+    {
+      "added_at": "2023-11-22 17:23:28",
+      "album": {
+        "name": "Out The Door",
+        "url": "https://open.spotify.com/album/4R53BlPojGyGmWd0UVIH9Y"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Out The Door",
+      "url": "https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK"
     },
     {
       "added_at": "2023-11-22 17:23:28",

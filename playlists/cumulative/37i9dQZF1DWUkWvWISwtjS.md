@@ -4,7 +4,7 @@
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-107 songs - 5 hr 21 min
+108 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Namorada Reserva \- Ao Vivo](https://open.spotify.com/track/5GHA824FwkHeBl5u1T6kLj) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [No Pelo Em Campo Grande \(ao Vivo\)](https://open.spotify.com/album/2Kk36Wo3Ie2fAHwleHygie) | 2:56 | 2023-10-13 |  |
 | [Nem Dormindo Consigo Te Esquecer \- Ao Vivo](https://open.spotify.com/track/0vZ3wHAmzRceAHLYb6Lc66) | [Gian & Giovani](https://open.spotify.com/artist/7tt5q9c2cUFczKNK5pEbZb) | [Uma História de Sucesso \(Ao Vivo\)](https://open.spotify.com/album/3uVTCtPfywIOAodrHWeRuV) | 5:24 | 2023-10-13 |  |
 | [Nessas Horas \- Ao Vivo](https://open.spotify.com/track/1MnUXXQEuzlJFNF5xMH1XQ) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia 2 \(Ao Vivo\)](https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN) | 3:28 | 2023-10-13 |  |
+| [Noites Frustradas \- Ao Vivo](https://open.spotify.com/track/5sby99lbxTE3F2RA3YWGyM) | [Jads & Jadson](https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Noites Frustradas \(Ao Vivo\)](https://open.spotify.com/album/2pr2utTIV4RJNcrI7fafEv) | 3:16 | 2023-10-13 |  |
 | [Nosso cupido foi Deus](https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Nosso cupido foi Deus](https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH) | 3:06 | 2023-10-13 | 2024-01-30 |
 | [Notificação Preferida \- Ao Vivo](https://open.spotify.com/track/3tA0vALUwrzkTgHcm9j6oJ) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:02 | 2023-10-13 |  |
 | [Não Deixo Não](https://open.spotify.com/track/74i0ocFuhVOLp3f5kNKjeT) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Coisa De Louco EP](https://open.spotify.com/album/4loAIuNE5Czk1DKMUPfPj4) | 3:24 | 2023-10-13 |  |
@@ -110,7 +111,7 @@
 | [Tijolão \- Ao Vivo](https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tijolão \(ao Vivo\)](https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49) | 2:55 | 2023-10-13 |  |
 | [Trincadinho \- Ao Vivo](https://open.spotify.com/track/5qjMyKkmosPBws5cImS9Zz) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:20 | 2023-10-13 |  |
 | [Tô Com Moral No Céu! \- Ao Vivo](https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Intensamente Hoje!](https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh) | 2:50 | 2023-10-13 |  |
-| [Vai Lá](https://open.spotify.com/track/0s2DOPKPVg3VBodWBsXwF0) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Ws Em Casa 2](https://open.spotify.com/album/7f45wEiSd2W7zCLM07pvkn) | 2:45 | 2023-10-13 |  |
+| [Vai Lá](https://open.spotify.com/track/0s2DOPKPVg3VBodWBsXwF0) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Ws Em Casa 2](https://open.spotify.com/album/7f45wEiSd2W7zCLM07pvkn) | 2:45 | 2023-10-13 | 2024-03-26 |
 | [Volta Marcada](https://open.spotify.com/track/0V0k5MpqZ55XwJRTQq2GbM) | [Juan Marcus & Vinícius](https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Volta Marcada](https://open.spotify.com/album/3tGRBso3V5BMLM65tFSy9a) | 2:47 | 2023-10-13 |  |
 | [Volta Por Baixo \- Ao Vivo](https://open.spotify.com/track/1MparvKC8QIDwu06iO3qVr) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo No Ibirapuera](https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f) | 3:12 | 2023-10-13 | 2024-01-26 |
 | [Áudio \- Ao Vivo em Brasília](https://open.spotify.com/track/4v6SAnzwEr7s2m0gFQnJFJ) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo em Brasília](https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7) | 3:10 | 2023-10-13 |  |

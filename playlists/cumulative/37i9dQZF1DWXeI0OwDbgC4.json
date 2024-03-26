@@ -100,6 +100,28 @@
     {
       "album": {
         "name": "BEST SHE'S EVER SEEN",
+        "url": "https://open.spotify.com/album/5MTo08dl10Bl3cDCqNwnTI"
+      },
+      "artists": [
+        {
+          "name": "asiris",
+          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+        },
+        {
+          "name": "Jude Barclay",
+          "url": "https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "BEST SHE'S EVER SEEN",
+      "url": "https://open.spotify.com/track/6cWGUbR0kYBp1AvPNo64zV"
+    },
+    {
+      "album": {
+        "name": "BEST SHE'S EVER SEEN",
         "url": "https://open.spotify.com/album/1TCORtUkYIGDV6HTeP3DSJ"
       },
       "artists": [
@@ -1918,7 +1940,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 179954,
       "name": "Why",
       "url": "https://open.spotify.com/track/2BEk1FVrYVPicOo4rLzpfm"

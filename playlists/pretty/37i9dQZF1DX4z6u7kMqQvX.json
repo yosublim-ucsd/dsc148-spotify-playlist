@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 105759,
+  "num_followers": 105769,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjJjNDliYjY5NWYzZDRhYzI1NTA1ZjBlZmVjMWI5ZjAwZDZhNDQw",
+  "snapshot_id": "MCxiMDZjZDM4M2NjMGRhMjQzNzkzNGFhNmM2MGY2ZGRkNjQ1NGZkMmM4",
   "tracks": [
     {
       "added_at": "2024-02-29 22:12:31",
@@ -59,26 +59,6 @@
     {
       "added_at": "2024-02-29 22:12:31",
       "album": {
-        "name": "MEMORIA FUTURO",
-        "url": "https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 221390,
-      "name": "Respiro (Cap. 8)",
-      "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
-    },
-    {
-      "added_at": "2024-02-29 22:12:31",
-      "album": {
         "name": "Departamento",
         "url": "https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj"
       },
@@ -95,6 +75,26 @@
       "duration_ms": 234866,
       "name": "Departamento",
       "url": "https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f"
+    },
+    {
+      "added_at": "2024-02-29 22:12:31",
+      "album": {
+        "name": "MEMORIA FUTURO",
+        "url": "https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 221390,
+      "name": "Respiro (Cap. 8)",
+      "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
     },
     {
       "added_at": "2024-02-29 22:12:31",
@@ -479,26 +479,6 @@
     {
       "added_at": "2024-02-29 22:12:31",
       "album": {
-        "name": "Chica Acuario",
-        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 207163,
-      "name": "Chica Acuario",
-      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
-    },
-    {
-      "added_at": "2024-02-29 22:12:31",
-      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 197506,
       "name": "Cuando Estamos los Dos",
       "url": "https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd"
+    },
+    {
+      "added_at": "2024-02-29 22:12:31",
+      "album": {
+        "name": "Chica Acuario",
+        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 207163,
+      "name": "Chica Acuario",
+      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
     },
     {
       "added_at": "2024-02-29 22:12:31",
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-02-29 22:12:31",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM"
-      },
-      "artists": [
-        {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 184736,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0"
-    },
-    {
-      "added_at": "2024-02-29 22:12:31",
-      "album": {
         "name": "No Te Puedo Decir Que No",
         "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 183888,
       "name": "No Te Puedo Decir Que No",
       "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
+    },
+    {
+      "added_at": "2024-02-29 22:12:31",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 184736,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0"
     },
     {
       "added_at": "2024-02-29 22:12:31",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-02-29 22:12:31",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 207809,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
-    },
-    {
-      "added_at": "2024-02-29 22:12:31",
-      "album": {
         "name": "Madre Padre Marte",
         "url": "https://open.spotify.com/album/7jio1zy0Bp4PiUXKdwfDMk"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 212574,
       "name": "Aparato",
       "url": "https://open.spotify.com/track/4wl4H1WNxfxJveag7dGkQU"
+    },
+    {
+      "added_at": "2024-02-29 22:12:31",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
+      },
+      "artists": [
+        {
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+        }
+      ],
+      "duration_ms": 207809,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
     },
     {
       "added_at": "2024-02-29 22:12:31",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-02-29 22:12:31",
       "album": {
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 250790,
+      "name": "Te Dej\u00e9 una Carta",
+      "url": "https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC"
+    },
+    {
+      "added_at": "2024-02-29 22:12:31",
+      "album": {
         "name": "Everyone's In Love With You (Spotify Singles)",
         "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 150000,
       "name": "Everyone's In Love With You - Spotify Singles",
       "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
-    },
-    {
-      "added_at": "2024-02-29 22:12:31",
-      "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 250790,
-      "name": "Te Dej\u00e9 una Carta",
-      "url": "https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC"
     },
     {
       "added_at": "2024-02-29 22:12:31",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-02-29 22:12:31",
       "album": {
-        "name": "17 Canciones para Autopista",
-        "url": "https://open.spotify.com/album/3WFYSQRWwDzbJxs8HR3RhC"
-      },
-      "artists": [
-        {
-          "name": "Perez",
-          "url": "https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed"
-        }
-      ],
-      "duration_ms": 224520,
-      "name": "Ahinoa",
-      "url": "https://open.spotify.com/track/7ezFSRjTh80pqJ4xYN59yr"
-    },
-    {
-      "added_at": "2024-02-29 22:12:31",
-      "album": {
         "name": "GUIAME",
         "url": "https://open.spotify.com/album/057ObaWRT9nY13cHAEggco"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 198676,
       "name": "GUIAME",
       "url": "https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v"
+    },
+    {
+      "added_at": "2024-02-29 22:12:31",
+      "album": {
+        "name": "17 Canciones para Autopista",
+        "url": "https://open.spotify.com/album/3WFYSQRWwDzbJxs8HR3RhC"
+      },
+      "artists": [
+        {
+          "name": "Perez",
+          "url": "https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed"
+        }
+      ],
+      "duration_ms": 224520,
+      "name": "Ahinoa",
+      "url": "https://open.spotify.com/track/7ezFSRjTh80pqJ4xYN59yr"
     },
     {
       "added_at": "2024-02-29 22:12:31",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-02-29 22:12:31",
       "album": {
-        "name": "Que te hizo ir",
-        "url": "https://open.spotify.com/album/7yNGmtpwKnOGypQH0fKpSb"
-      },
-      "artists": [
-        {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Que te hizo ir",
-      "url": "https://open.spotify.com/track/318miXWdK50Nqu2onTsOiO"
-    },
-    {
-      "added_at": "2024-02-29 22:12:31",
-      "album": {
         "name": "en diciembre (me haces falta)",
         "url": "https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 237261,
       "name": "en diciembre (me haces falta)",
       "url": "https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu"
+    },
+    {
+      "added_at": "2024-02-29 22:12:31",
+      "album": {
+        "name": "Que te hizo ir",
+        "url": "https://open.spotify.com/album/7yNGmtpwKnOGypQH0fKpSb"
+      },
+      "artists": [
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Que te hizo ir",
+      "url": "https://open.spotify.com/track/318miXWdK50Nqu2onTsOiO"
     },
     {
       "added_at": "2024-02-29 22:12:31",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-02-29 22:12:31",
       "album": {
-        "name": "ReconoceR",
-        "url": "https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu"
-      },
-      "artists": [
-        {
-          "name": "Pamela Rodriguez",
-          "url": "https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC"
-        }
-      ],
-      "duration_ms": 147933,
-      "name": "Ligera Love",
-      "url": "https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ"
-    },
-    {
-      "added_at": "2024-02-29 22:12:31",
-      "album": {
         "name": "Los Abrazos son Instantes Decisivos Vol. II",
         "url": "https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 224492,
       "name": "Polvo de estrellas",
       "url": "https://open.spotify.com/track/3SAaPKojF6MTyxoLd5WCXa"
+    },
+    {
+      "added_at": "2024-02-29 22:12:31",
+      "album": {
+        "name": "ReconoceR",
+        "url": "https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu"
+      },
+      "artists": [
+        {
+          "name": "Pamela Rodriguez",
+          "url": "https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC"
+        }
+      ],
+      "duration_ms": 147933,
+      "name": "Ligera Love",
+      "url": "https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ"
     },
     {
       "added_at": "2024-02-29 22:12:31",

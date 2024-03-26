@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,715 songs - 1 day 11 hr 40 min
+1,716 songs - 1 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,6 +492,7 @@
 | [Entrance](https://open.spotify.com/track/6dGdoxILQLlzY53ioebL8J) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Beyond](https://open.spotify.com/album/2SNyPk3oJs7OPDHJoCxM8I) | 1:06 | 2022-01-12 |  |
 | [Epiphany](https://open.spotify.com/track/0wfJf6rBNeWbEqxCDPIpPF) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Epiphany](https://open.spotify.com/album/2gKqOBWk3TJpK6kxaoloNR) | 1:01 | 2022-06-18 |  |
 | [Epiphany](https://open.spotify.com/track/3Le8RtrEcTAeunCW7lP4I7) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Afternoons](https://open.spotify.com/album/67GF4s8iNVzIFneqrd8UsL) | 1:00 | 2024-02-11 |  |
+| [Essence](https://open.spotify.com/track/49yHrK9pviTmcZinHw8vgt) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Essence](https://open.spotify.com/album/11sYrMdC2WR4zdAW0mk5fW) | 1:00 | 2024-03-25 |  |
 | [Eternal](https://open.spotify.com/track/0U6EeKfcfOfr4YFAwZf89n) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Eternal](https://open.spotify.com/album/2ZIQufrOHWVRU6j6HSUznQ) | 1:00 | 2024-02-21 |  |
 | [Eternal \- Cello Version](https://open.spotify.com/track/71VFERRJh5OoP2y3tmqEF9) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Eternal](https://open.spotify.com/album/2ZIQufrOHWVRU6j6HSUznQ) | 1:00 | 2024-02-21 |  |
 | [Eternal Lights](https://open.spotify.com/track/7GKshtIrk5XPndYI1dZkf9) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Moments](https://open.spotify.com/album/6u831RiIAfoxHs2kG8Bzwm) | 1:01 | 2022-06-01 |  |

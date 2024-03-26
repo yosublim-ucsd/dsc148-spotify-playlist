@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 18910,
+  "2024-03-26": 18912,
   "date_first_scraped": "2021-12-29",
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
   "name": "This Is Mr Eazi",
@@ -1659,7 +1659,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 160304,
       "name": "Mandela",
       "url": "https://open.spotify.com/track/4KsipOlFHPF7Qo29auvXXL"
@@ -2997,7 +2997,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 159000,
       "name": "We Dey",
       "url": "https://open.spotify.com/track/21pyLwhAiXgqYvKXRmI6h3"

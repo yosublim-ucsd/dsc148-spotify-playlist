@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : St Graal
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,373 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,384 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Hooligan](https://open.spotify.com/track/5INfcVg4x5o8Qfo8LD0nvY) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Pop Sauvage](https://open.spotify.com/album/1HkAZ5h4jCXuRKa239zPuw) | 3:32 |
 | 50 | [Human](https://open.spotify.com/track/0eud4SBuWHvNdu7FEddykC) | [Nili Hadida](https://open.spotify.com/artist/6WEbJueFZyzOeg2O6oNPE9) | [Human vs Machine](https://open.spotify.com/album/1YjIR9gq3Q6PYnHq1kuKMf) | 3:04 |
 
-Snapshot ID: `MCwyN2NiYzAxYzYyMDMyMmI0ZGUwZTI0OThlZmJhZDk2MWE3OGEwZTRl`
+Snapshot ID: `MCw1OTE0NWM2YTMxZDk3YWUzYWMxYjQzMjRlMzFkYzM4Zjc4Yzg4YjQy`

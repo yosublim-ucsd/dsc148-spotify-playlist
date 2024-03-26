@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,339 likes - 175 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,429 likes - 175 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [Comfortable](https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Comfortable](https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s) | 3:48 |
 | 175 | [Smoke + Mirrors](https://open.spotify.com/track/01XlfD9gD7LPpm65rhSPQh) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [Smoke + Mirrors](https://open.spotify.com/album/6QmEMg5ikjjN5XVAwFvH9W) | 2:02 |
 
-Snapshot ID: `MCxhNmRlMzhkMzUxNjQxNzNmZDZkMzAyNzRiMDNjMGRhY2FlMzI1MzUx`
+Snapshot ID: `MCxkNDA4YzkwYzgwY2VhNmFmZWY4M2NjMjUzN2JkNTE1OTNhOTIyMDM1`

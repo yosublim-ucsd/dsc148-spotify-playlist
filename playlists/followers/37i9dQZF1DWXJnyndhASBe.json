@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 504661,
+  "2024-03-26": 504975,
   "date_first_scraped": "2023-09-23",
   "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kubi Producent, bambi, Fukaj, stickxr",
   "name": "RAP GENERACJA",
@@ -3947,6 +3947,24 @@
     {
       "album": {
         "name": "Osobowo\u015bci Dwie",
+        "url": "https://open.spotify.com/album/2SVlS4bupwamLaoeEig71t"
+      },
+      "artists": [
+        {
+          "name": "Fagata",
+          "url": "https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120206,
+      "name": "Osobowo\u015bci Dwie",
+      "url": "https://open.spotify.com/track/3T49zcFvZaEgJK8bAOJwCb"
+    },
+    {
+      "album": {
+        "name": "Osobowo\u015bci Dwie",
         "url": "https://open.spotify.com/album/0fLTEd864o6kivzzDVpLFz"
       },
       "artists": [
@@ -3957,7 +3975,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 120206,
       "name": "Osobowo\u015bci Dwie",
       "url": "https://open.spotify.com/track/7aOlTkaPvU28uIfq12QPWG"

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/skylardigginssmith/\">Skylar Diggins-Smith</a>",
-  "num_followers": 8665,
+  "num_followers": 8670,
   "original_name": "Skylar Diggins' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzEwNTgwZTNhZjgzZjg4OTBkOTcyOTFiNjkzYmIzZmYyZWEyY2I2",
+  "snapshot_id": "MCxlNWFjN2IwYTljMGIxMTIwYmRjYzE2ODRlY2MxMWY5MjRlNzg0MGIx",
   "tracks": [
     {
       "added_at": "2022-10-02 02:05:19",
@@ -847,34 +847,6 @@
     {
       "added_at": "2022-10-02 02:05:19",
       "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
-        }
-      ],
-      "duration_ms": 272068,
-      "name": "MOOD 4 EVA (feat. Oumou Sangar\u00e9)",
-      "url": "https://open.spotify.com/track/7oqftogUN82Q7VNy2TmTJW"
-    },
-    {
-      "added_at": "2022-10-02 02:05:19",
-      "album": {
         "name": "It's About Time",
         "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
       },
@@ -903,6 +875,34 @@
       "duration_ms": 219946,
       "name": "Nat King Cole (Originals)",
       "url": "https://open.spotify.com/track/1DO2DASHJl61O13YFMTZLf"
+    },
+    {
+      "added_at": "2022-10-02 02:05:19",
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "duration_ms": 272068,
+      "name": "MOOD 4 EVA (feat. Oumou Sangar\u00e9)",
+      "url": "https://open.spotify.com/track/7oqftogUN82Q7VNy2TmTJW"
     }
   ],
   "unique_name": "Skylar Diggins' Taste",

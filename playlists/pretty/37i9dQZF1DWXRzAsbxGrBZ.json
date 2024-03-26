@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 48898,
+  "num_followers": 48982,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzI3MzliMzc1ZjRmNDJjMmNmMTFjMDExMTNiODZjYjg2NjQ3MWIz",
+  "snapshot_id": "MCxhMjI4NTJjOWY3NzhmOWQ5NWZiYmUwMmI4ZWI0ZDJkZDVhODdhNjYz",
   "tracks": [
     {
       "added_at": "2024-03-15 05:25:16",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "Feel Good EP",
-        "url": "https://open.spotify.com/album/42QNc5GHCJuJEDuWRiPi9a"
-      },
-      "artists": [
-        {
-          "name": "Pando G",
-          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
-        }
-      ],
-      "duration_ms": 392855,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/5CorwaqtOJRLBaUocl7v5t"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
         "name": "OVGSREPUBLIC",
         "url": "https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 453711,
       "name": "Octave",
       "url": "https://open.spotify.com/track/0VnmFajFeWDUE2FO9jPIAy"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
+        "name": "Feel Good EP",
+        "url": "https://open.spotify.com/album/42QNc5GHCJuJEDuWRiPi9a"
+      },
+      "artists": [
+        {
+          "name": "Pando G",
+          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
+        }
+      ],
+      "duration_ms": 392855,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/5CorwaqtOJRLBaUocl7v5t"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -407,6 +407,30 @@
       "duration_ms": 332000,
       "name": "My Heartbeat For You",
       "url": "https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
+        "name": "Oh Mdali (feat. PlayMaster & Smallistic, Malungelo)",
+        "url": "https://open.spotify.com/album/0N93xeV4Ed2JTYy83gySqr"
+      },
+      "artists": [
+        {
+          "name": "Kaylow",
+          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
+        },
+        {
+          "name": "Malungelo",
+          "url": "https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4"
+        },
+        {
+          "name": "Playmaster & Smallistic",
+          "url": "https://open.spotify.com/artist/7m3YBqfwRPB1Ys5h3fMbEC"
+        }
+      ],
+      "duration_ms": 361078,
+      "name": "Oh Mdali (feat. PlayMaster & Smallistic, Malungelo)",
+      "url": "https://open.spotify.com/track/1DW5ZAmJrdvOIrIGTvBwhz"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -479,54 +503,6 @@
       "duration_ms": 395709,
       "name": "Love I Know",
       "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
-        "name": "Oh Mdali (feat. PlayMaster & Smallistic, Malungelo)",
-        "url": "https://open.spotify.com/album/0N93xeV4Ed2JTYy83gySqr"
-      },
-      "artists": [
-        {
-          "name": "Kaylow",
-          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
-        },
-        {
-          "name": "Malungelo",
-          "url": "https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4"
-        },
-        {
-          "name": "Playmaster & Smallistic",
-          "url": "https://open.spotify.com/artist/7m3YBqfwRPB1Ys5h3fMbEC"
-        }
-      ],
-      "duration_ms": 361078,
-      "name": "Oh Mdali (feat. PlayMaster & Smallistic, Malungelo)",
-      "url": "https://open.spotify.com/track/1DW5ZAmJrdvOIrIGTvBwhz"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
-        "name": "Ingoma",
-        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        },
-        {
-          "name": "Mr.Cantata",
-          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
-        },
-        {
-          "name": "Bikie",
-          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
-        }
-      ],
-      "duration_ms": 430538,
-      "name": "Ingoma - Original Mix",
-      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -607,6 +583,30 @@
       "duration_ms": 387494,
       "name": "To The World",
       "url": "https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
+        "name": "Ingoma",
+        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        },
+        {
+          "name": "Mr.Cantata",
+          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
+        },
+        {
+          "name": "Bikie",
+          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
+        }
+      ],
+      "duration_ms": 430538,
+      "name": "Ingoma - Original Mix",
+      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
+        "name": "The Savior",
+        "url": "https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc"
+      },
+      "artists": [
+        {
+          "name": "Zhane",
+          "url": "https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p"
+        }
+      ],
+      "duration_ms": 411127,
+      "name": "The Savior - Original Mix",
+      "url": "https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
         "name": "This Is The Way (We Dance)",
         "url": "https://open.spotify.com/album/1Rn5VSLmJWNMIgb1mBxWuK"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "The Savior",
-        "url": "https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc"
+        "name": "Time to Dance",
+        "url": "https://open.spotify.com/album/0zP0o4TYEjt3vM9u3SNEXV"
       },
       "artists": [
         {
-          "name": "Zhane",
-          "url": "https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p"
+          "name": "DJ Cleo",
+          "url": "https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y"
         }
       ],
-      "duration_ms": 411127,
-      "name": "The Savior - Original Mix",
-      "url": "https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5"
+      "duration_ms": 470867,
+      "name": "Time To Dance",
+      "url": "https://open.spotify.com/track/29ycplqUCPpRNEevsdpEQ7"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -763,18 +779,18 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "Time to Dance",
-        "url": "https://open.spotify.com/album/0zP0o4TYEjt3vM9u3SNEXV"
+        "name": "Old but New Last Episode",
+        "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
       },
       "artists": [
         {
-          "name": "DJ Cleo",
-          "url": "https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y"
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
         }
       ],
-      "duration_ms": 470867,
-      "name": "Time To Dance",
-      "url": "https://open.spotify.com/track/29ycplqUCPpRNEevsdpEQ7"
+      "duration_ms": 412264,
+      "name": "Sunday Showers",
+      "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -791,22 +807,6 @@
       "duration_ms": 459731,
       "name": "Flute Activation - Original Mix",
       "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
-        "name": "Old but New Last Episode",
-        "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 412264,
-      "name": "Sunday Showers",
-      "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
+        "name": "Deep Within",
+        "url": "https://open.spotify.com/album/6OcILwpGGNkbvXlzB6KECP"
+      },
+      "artists": [
+        {
+          "name": "Tebza De SouL",
+          "url": "https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG"
+        }
+      ],
+      "duration_ms": 436981,
+      "name": "Deep Within",
+      "url": "https://open.spotify.com/track/0voE1Kh5SUOiTUiSq4XbYS"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
         "name": "Little Me",
         "url": "https://open.spotify.com/album/6GbR420ApY1NvLE1PdafQn"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 437415,
       "name": "Little Me - Extended Mix",
       "url": "https://open.spotify.com/track/04Xamzbh9Mv4yd0nqkahbU"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
-        "name": "Deep Within",
-        "url": "https://open.spotify.com/album/6OcILwpGGNkbvXlzB6KECP"
-      },
-      "artists": [
-        {
-          "name": "Tebza De SouL",
-          "url": "https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG"
-        }
-      ],
-      "duration_ms": 436981,
-      "name": "Deep Within",
-      "url": "https://open.spotify.com/track/0voE1Kh5SUOiTUiSq4XbYS"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
+        "name": "Emulate",
+        "url": "https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js"
+      },
+      "artists": [
+        {
+          "name": "Jason Scoble",
+          "url": "https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg"
+        }
+      ],
+      "duration_ms": 469614,
+      "name": "Emulate - Original Mix",
+      "url": "https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
         "name": "Seeking",
         "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 397355,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
-        "name": "Emulate",
-        "url": "https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js"
-      },
-      "artists": [
-        {
-          "name": "Jason Scoble",
-          "url": "https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg"
-        }
-      ],
-      "duration_ms": 469614,
-      "name": "Emulate - Original Mix",
-      "url": "https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk"
     }
   ],
   "unique_name": "Deep House Session",

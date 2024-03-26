@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Josh Abbott Band",
-  "num_followers": 415377,
+  "num_followers": 415369,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWEwMTcxNzI1MzgwYWM3OGRlODJhOWFlZDcwYTc5Mzg4MThjZWNk",
+  "snapshot_id": "MCw3ZTEzZGIyMTRlNTZlYzk5MDhlNGMyYzkzYjM4NTRlNTMwMWU2YmIy",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Something's Gonna Kill Me",
-        "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 183680,
-      "name": "Something's Gonna Kill Me",
-      "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Happier Alone",
         "url": "https://open.spotify.com/album/3AtxQNOTzdsCm9qUwJVX5j"
       },
@@ -247,22 +231,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Change the Game",
-        "url": "https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 208901,
-      "name": "Change The Game",
-      "url": "https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Long Live Cowgirls (with Cody Johnson)",
         "url": "https://open.spotify.com/album/5zxTZhMN5oGzbGnXtfrfCN"
       },
@@ -279,6 +247,38 @@
       "duration_ms": 184746,
       "name": "Long Live Cowgirls (with Cody Johnson)",
       "url": "https://open.spotify.com/track/16LGRLfaVIC5rT2ZvLk0gd"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Change the Game",
+        "url": "https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 208901,
+      "name": "Change The Game",
+      "url": "https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Something's Gonna Kill Me",
+        "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 183680,
+      "name": "Something's Gonna Kill Me",
+      "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Outlaws and Mustangs",
-        "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 240025,
-      "name": "Outlaws and Mustangs",
-      "url": "https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Pretty Little Poison",
         "url": "https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 189013,
       "name": "West Texas Weather",
       "url": "https://open.spotify.com/track/4SKO7VBkJOwyfLNzYC8CkB"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Outlaws and Mustangs",
+        "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 240025,
+      "name": "Outlaws and Mustangs",
+      "url": "https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Mean Old Sun",
-        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg"
       },
       "artists": [
         {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
         }
       ],
-      "duration_ms": 248706,
-      "name": "Mean Old Sun",
-      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
+      "duration_ms": 204141,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg"
+        "name": "Mean Old Sun",
+        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
       },
       "artists": [
         {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 204141,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd"
+      "duration_ms": 248706,
+      "name": "Mean Old Sun",
+      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Wherever I Am",
-        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
+        "name": "Saddest Town in Texas",
+        "url": "https://open.spotify.com/album/6YVJ3LQTCbhOrjc6xujrEC"
       },
       "artists": [
         {
-          "name": "Kolton Moore & the Clever Few",
-          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+          "name": "Rusty Gear",
+          "url": "https://open.spotify.com/artist/1e9q9D5SODSTajOBo1VQqh"
         }
       ],
-      "duration_ms": 253101,
-      "name": "Wherever I Am",
-      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
+      "duration_ms": 212731,
+      "name": "Saddest Town in Texas",
+      "url": "https://open.spotify.com/track/3WeWNp3vXMssbXzeGSczGz"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Saddest Town in Texas",
-        "url": "https://open.spotify.com/album/6YVJ3LQTCbhOrjc6xujrEC"
+        "name": "Wherever I Am",
+        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
       },
       "artists": [
         {
-          "name": "Rusty Gear",
-          "url": "https://open.spotify.com/artist/1e9q9D5SODSTajOBo1VQqh"
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
         }
       ],
-      "duration_ms": 212731,
-      "name": "Saddest Town in Texas",
-      "url": "https://open.spotify.com/track/3WeWNp3vXMssbXzeGSczGz"
+      "duration_ms": 253101,
+      "name": "Wherever I Am",
+      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Neon",
-        "url": "https://open.spotify.com/album/5Xrp5MjicsTHkqSjdkfnfg"
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
       "artists": [
         {
-          "name": "Mikayla Lane",
-          "url": "https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl"
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
         }
       ],
-      "duration_ms": 209320,
-      "name": "Neon",
-      "url": "https://open.spotify.com/track/1ChqTJSMsQ7C1XZRl394QY"
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+        "name": "Neon",
+        "url": "https://open.spotify.com/album/5Xrp5MjicsTHkqSjdkfnfg"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Mikayla Lane",
+          "url": "https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl"
         }
       ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+      "duration_ms": 209320,
+      "name": "Neon",
+      "url": "https://open.spotify.com/track/1ChqTJSMsQ7C1XZRl394QY"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Barely A Two Lane Road",
-        "url": "https://open.spotify.com/album/1uQFI2ysX9M76YuC8tJZTD"
-      },
-      "artists": [
-        {
-          "name": "Catie Offerman",
-          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
-        }
-      ],
-      "duration_ms": 228777,
-      "name": "Barely A Two Lane Road",
-      "url": "https://open.spotify.com/track/21JxM9SvVVZnmEkc9GSbLJ"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Dancin' With The Devil",
         "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 178848,
       "name": "Dancin' With The Devil",
       "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Barely A Two Lane Road",
+        "url": "https://open.spotify.com/album/1uQFI2ysX9M76YuC8tJZTD"
+      },
+      "artists": [
+        {
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+        }
+      ],
+      "duration_ms": 228777,
+      "name": "Barely A Two Lane Road",
+      "url": "https://open.spotify.com/track/21JxM9SvVVZnmEkc9GSbLJ"
     },
     {
       "added_at": "2024-03-22 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 14964,
+  "num_followers": 14966,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWEyNjk0YThmNDNhYWYxZTY0MmUzMTBhZmE2NTEwZGE0N2I3ZjRi",
+  "snapshot_id": "MCw1ODkyMThkNDM1NzY5YjA2MmM5ZjNkNjc1Y2RmMTFlYTUxYmFkZjEw",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "I Can't Hardly Stand It",
+      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Acme",
         "url": "https://open.spotify.com/album/48ntDGYHTJIyCtCB6znUQq"
       },
@@ -155,6 +171,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "All You Can Eat!!",
+        "url": "https://open.spotify.com/album/6PEL9tRZqgzzxq3RmpOm9O"
+      },
+      "artists": [
+        {
+          "name": "Left Lane Cruiser",
+          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Crackalacka",
+      "url": "https://open.spotify.com/track/6cxujOKEfegpNfIhb7Ma6v"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Moanin'",
         "url": "https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7"
       },
@@ -180,9 +212,9 @@
           "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
         }
       ],
-      "duration_ms": 163133,
-      "name": "I Can't Hardly Stand It",
-      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
+      "duration_ms": 160506,
+      "name": "The Way I Walk",
+      "url": "https://open.spotify.com/track/6dyku3NZZukkS8yhzWG9TU"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -203,38 +235,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "All You Can Eat!!",
-        "url": "https://open.spotify.com/album/6PEL9tRZqgzzxq3RmpOm9O"
-      },
-      "artists": [
-        {
-          "name": "Left Lane Cruiser",
-          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
-        }
-      ],
-      "duration_ms": 237173,
-      "name": "Crackalacka",
-      "url": "https://open.spotify.com/track/6cxujOKEfegpNfIhb7Ma6v"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH"
-      },
-      "artists": [
-        {
-          "name": "The Jon Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
-        }
-      ],
-      "duration_ms": 154933,
-      "name": "Ditch",
-      "url": "https://open.spotify.com/track/3CzyTczZzTeJsFadFNh2po"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Dual Mono",
         "url": "https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk"
       },
@@ -247,22 +247,6 @@
       "duration_ms": 247306,
       "name": "Too Much Sorrow",
       "url": "https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 160506,
-      "name": "The Way I Walk",
-      "url": "https://open.spotify.com/track/6dyku3NZZukkS8yhzWG9TU"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -295,6 +279,22 @@
       "duration_ms": 138413,
       "name": "Frog Went a Courtin'",
       "url": "https://open.spotify.com/track/5mTijfc5CMHsXVwHWkVuTl"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH"
+      },
+      "artists": [
+        {
+          "name": "The Jon Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+        }
+      ],
+      "duration_ms": 154933,
+      "name": "Ditch",
+      "url": "https://open.spotify.com/track/3CzyTczZzTeJsFadFNh2po"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH"
-      },
-      "artists": [
-        {
-          "name": "The Jon Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
-        }
-      ],
-      "duration_ms": 186093,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/0Vv2svfsXBbOeh0GMlqLGT"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Talking 'bout",
         "url": "https://open.spotify.com/album/3XehbkA49rI1F8wb6CirBe"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH"
+      },
+      "artists": [
+        {
+          "name": "The Jon Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/0Vv2svfsXBbOeh0GMlqLGT"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Root Damage",
         "url": "https://open.spotify.com/album/3lONx9tNtCCo47EkD0mYJf"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "I Know You Be Houserockin'",
-        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
-      },
-      "artists": [
-        {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Early in the Morning",
-      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Ultraglide In Black",
         "url": "https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z"
       },
@@ -507,22 +491,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Too Much Guitar",
-        "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
-      },
-      "artists": [
-        {
-          "name": "Reigning Sound",
-          "url": "https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t"
-        }
-      ],
-      "duration_ms": 123013,
-      "name": "Get It!",
-      "url": "https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Moanin'",
         "url": "https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7"
       },
@@ -535,6 +503,38 @@
       "duration_ms": 188546,
       "name": "Like That",
       "url": "https://open.spotify.com/track/0MqI4KwV5TMSO6rIhe2f3w"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "I Know You Be Houserockin'",
+        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
+      },
+      "artists": [
+        {
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Early in the Morning",
+      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Too Much Guitar",
+        "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
+      },
+      "artists": [
+        {
+          "name": "Reigning Sound",
+          "url": "https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t"
+        }
+      ],
+      "duration_ms": 123013,
+      "name": "Get It!",
+      "url": "https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
+      },
+      "artists": [
+        {
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "(Sometimes You Got to Be) Gentle",
+      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "The Kids Are All Square - This Is Hip & Girlsville",
         "url": "https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 135400,
       "name": "Ida Honey (Tell Me You'll Be Mine)",
       "url": "https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
-      },
-      "artists": [
-        {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "(Sometimes You Got to Be) Gentle",
-      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
     },
     {
       "added_at": "2022-03-28 20:14:58",

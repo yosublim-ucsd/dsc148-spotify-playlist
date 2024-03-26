@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: 艾薇 \(Ivy Lee\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,730 likes - 72 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,737 likes - 72 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [王牌 \- fun cover](https://open.spotify.com/track/09edMlAdNVUx4dAK2R8ob8) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [王牌 \(fun cover\)](https://open.spotify.com/album/0X0fBZY95nbmPNgqfE0UAC) | 3:52 |
 | 72 | [愛很複雜](https://open.spotify.com/track/4tlyqJipNqfYrWnHIFrEpn) | [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO), [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [愛很複雜](https://open.spotify.com/album/647uHXR97wxl7fb1wuJKdh) | 3:09 |
 
-Snapshot ID: `MCwyY2I1ZDgzOWJkZmIwMmE4ZTM5NWEzOThiMjZiMzNmNzkyMWRkNTVk`
+Snapshot ID: `MCw3OTk4M2QxNjQ5NThkMGM1NGQ5NTJkNDQyZGE1ZjNjYTQzN2JmZjVj`

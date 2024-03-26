@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: V
 
-3,344 songs - 8 day 3 hr 15 min
+3,345 songs - 8 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,8 @@
 | [Atreides](https://open.spotify.com/track/09VbN3VONpX2Hep03vPnna) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [Atreides](https://open.spotify.com/album/1c4q27XDZguGJikpPIuPl4) | 3:30 | 2023-04-30 | 2023-05-08 |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-18 | 2023-07-03 |
 | [AUGHOST](https://open.spotify.com/track/3CIC4Hhu4OTH8o5Qx3BB7b) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [koizumi kyoko](https://open.spotify.com/artist/3eNfif7D047aRloRtNn4sL) | [i ai ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6hvYxf47rTGD9q1FFlAp89) | 4:37 | 2024-03-14 | 2024-03-22 |
-| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-03 |  |
+| [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-24 |  |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-03 | 2024-03-26 |
 | [Automatic](https://open.spotify.com/track/5WcjMhF7LXWW6qWRSOoIoO) | [Def Tech](https://open.spotify.com/artist/7CifQjntMwkU4kfV85zTnS) | [Automatic](https://open.spotify.com/album/3YhJjRi6fhoZUIO9A82lnY) | 3:20 | 2023-07-23 | 2023-08-14 |
 | [AVIATION \(feat\. Ryohei & Foggy\-D\)](https://open.spotify.com/track/1LW2YLm8LwSNvAs4vjfgGy) | [Void\_Chords](https://open.spotify.com/artist/7CHOrOaEA09yNN1PLPlibc), [Foggy\-D](https://open.spotify.com/artist/1Bwew87T63T5lBDlY6pkfR), [Ryohei](https://open.spotify.com/artist/47OCXTMJtBmJcufjuBNvvV) | [AVIATION \(feat\. Ryohei & Foggy\-D\)](https://open.spotify.com/album/0wAphdRPRMnRXvkTmTp7C6) | 4:26 | 2023-05-14 | 2023-05-23 |
 | [Awakening Light](https://open.spotify.com/track/3jOrPlMZacOQY4KFaJJlSl) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Awakening Light](https://open.spotify.com/album/3Kps4YJFy6c9njCQ9IMoU5) | 3:31 | 2023-11-19 | 2023-11-27 |

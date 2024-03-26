@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=aWeU7zC4RpiTW2j8Oj2Y7g">Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,100 likes - 68 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,161 likes - 68 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 67 | [OMG](https://open.spotify.com/track/3CAQP8IhTPv8fXRamPeWsE) | [2lee Stark](https://open.spotify.com/artist/6YfEEVzlV2j4KImBCRI0TV), [Da Les](https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy) | [OMG](https://open.spotify.com/album/2IwvyIBW41gelAr2nHwY0N) | 3:55 |
 | 68 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
 
-Snapshot ID: `MCxhYmE2MTE3MTRmZjQ0MWU5Y2Q1MjM1NzZkM2E3ODYzNzFjNDg1MzBj`
+Snapshot ID: `MCw3OGUzNDc4YTQ2MmExMWFhMDNiMmQ3OWViZDIzMzlhYmE3ZThjN2M2`

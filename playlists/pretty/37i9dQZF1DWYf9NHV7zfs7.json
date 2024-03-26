@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Diego Torres",
-  "num_followers": 48130,
+  "num_followers": 48174,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTBkMTU1Y2JkYTY5MTZiNGEzZGIyMDQ5Mzk0MDAxZGNjMDc2ODNj",
+  "snapshot_id": "MCxkNWQ3M2EyYTJiZjY1OTFmYTQyZDNjOTA0ODNjNzAwZjdjZWU1NjE3",
   "tracks": [
     {
       "added_at": "2024-03-22 14:09:51",
@@ -155,22 +155,18 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
-        "name": "QUEREME",
-        "url": "https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7"
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
       },
       "artists": [
         {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        },
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
         }
       ],
-      "duration_ms": 194840,
-      "name": "QUEREME",
-      "url": "https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA"
+      "duration_ms": 186666,
+      "name": "Mejor Que Ayer",
+      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -195,18 +191,22 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
+        "name": "QUEREME",
+        "url": "https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7"
       },
       "artists": [
         {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Mejor Que Ayer",
-      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
+      "duration_ms": 194840,
+      "name": "QUEREME",
+      "url": "https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -223,6 +223,22 @@
       "duration_ms": 144272,
       "name": "Superpoder",
       "url": "https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL"
+    },
+    {
+      "added_at": "2024-03-22 14:09:51",
+      "album": {
+        "name": "Lo Que Hoy Quieras",
+        "url": "https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 175218,
+      "name": "Lo Que Hoy Quieras",
+      "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -263,22 +279,6 @@
       "duration_ms": 236000,
       "name": "V\u00e1monos De Viaje",
       "url": "https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA"
-    },
-    {
-      "added_at": "2024-03-22 14:09:51",
-      "album": {
-        "name": "Lo Que Hoy Quieras",
-        "url": "https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 175218,
-      "name": "Lo Que Hoy Quieras",
-      "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -331,22 +331,18 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
-        "name": "Departamento",
-        "url": "https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj"
+        "name": "El Otro",
+        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
       },
       "artists": [
         {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        },
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+          "name": "Chano",
+          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
         }
       ],
-      "duration_ms": 234866,
-      "name": "Departamento",
-      "url": "https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f"
+      "duration_ms": 161000,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/7zsgBOY20sX0Z8L4RTdU3Y"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -371,22 +367,6 @@
       "duration_ms": 157418,
       "name": "Verte",
       "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
-    },
-    {
-      "added_at": "2024-03-22 14:09:51",
-      "album": {
-        "name": "El Otro",
-        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
-      },
-      "artists": [
-        {
-          "name": "Chano",
-          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/7zsgBOY20sX0Z8L4RTdU3Y"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -427,18 +407,38 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
-        "name": "Sue\u00f1o Dorado",
-        "url": "https://open.spotify.com/album/5iAfktdcKxeETNbaxEWckh"
+        "name": "Obsesionario",
+        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
       },
       "artists": [
         {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
         }
       ],
-      "duration_ms": 231426,
-      "name": "Sin Principio Ni Final",
-      "url": "https://open.spotify.com/track/6ihwy1c6tsMC6AWANIrhH2"
+      "duration_ms": 216386,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/0oH7QF9L9fzDy6EFWlivCC"
+    },
+    {
+      "added_at": "2024-03-22 14:09:51",
+      "album": {
+        "name": "Departamento",
+        "url": "https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        },
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Departamento",
+      "url": "https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -455,6 +455,22 @@
       "duration_ms": 152560,
       "name": "Dame Chance (Rayuela)",
       "url": "https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe"
+    },
+    {
+      "added_at": "2024-03-22 14:09:51",
+      "album": {
+        "name": "Sue\u00f1o Dorado",
+        "url": "https://open.spotify.com/album/5iAfktdcKxeETNbaxEWckh"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 231426,
+      "name": "Sin Principio Ni Final",
+      "url": "https://open.spotify.com/track/6ihwy1c6tsMC6AWANIrhH2"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -479,22 +495,6 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
-        "name": "Obsesionario",
-        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
-      },
-      "artists": [
-        {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/0oH7QF9L9fzDy6EFWlivCC"
-    },
-    {
-      "added_at": "2024-03-22 14:09:51",
-      "album": {
         "name": "A la Vez",
         "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
       },
@@ -511,18 +511,18 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
-        "name": "El Big Blue",
-        "url": "https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4"
+        "name": "Hola Mundo",
+        "url": "https://open.spotify.com/album/2vOG6M8f7AgiER72EjEdRd"
       },
       "artists": [
         {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
         }
       ],
-      "duration_ms": 192880,
-      "name": "Mi Fiesta",
-      "url": "https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK"
+      "duration_ms": 160013,
+      "name": "Tus Horas M\u00e1gicas",
+      "url": "https://open.spotify.com/track/1Qqe3XZRmmhqu53349GmCB"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -583,42 +583,18 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
-        "name": "SEROTONINA (DELUXE)",
-        "url": "https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY"
+        "name": "El Big Blue",
+        "url": "https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4"
       },
       "artists": [
         {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 214393,
-      "name": "PARA AMARTE A TI (DELUXE)",
-      "url": "https://open.spotify.com/track/38q1ojvehzTRFMBvS1lAqu"
-    },
-    {
-      "added_at": "2024-03-22 14:09:51",
-      "album": {
-        "name": "Hola Mundo",
-        "url": "https://open.spotify.com/album/2vOG6M8f7AgiER72EjEdRd"
-      },
-      "artists": [
-        {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        }
-      ],
-      "duration_ms": 160013,
-      "name": "Tus Horas M\u00e1gicas",
-      "url": "https://open.spotify.com/track/1Qqe3XZRmmhqu53349GmCB"
+      "duration_ms": 192880,
+      "name": "Mi Fiesta",
+      "url": "https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -655,6 +631,30 @@
       "duration_ms": 120759,
       "name": "Si Me Disculpo Ahora",
       "url": "https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF"
+    },
+    {
+      "added_at": "2024-03-22 14:09:51",
+      "album": {
+        "name": "SEROTONINA (DELUXE)",
+        "url": "https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 214393,
+      "name": "PARA AMARTE A TI (DELUXE)",
+      "url": "https://open.spotify.com/track/38q1ojvehzTRFMBvS1lAqu"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
-        "name": "Vida Lejana",
-        "url": "https://open.spotify.com/album/0MjJOhgZD9wBqy0sMPtmXk"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Volar\u00e9",
-      "url": "https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY"
-    },
-    {
-      "added_at": "2024-03-22 14:09:51",
-      "album": {
         "name": "Un T\u00e9 De Tilo Por Favor",
         "url": "https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 184080,
       "name": "Algo Tiene",
       "url": "https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3"
+    },
+    {
+      "added_at": "2024-03-22 14:09:51",
+      "album": {
+        "name": "Vida Lejana",
+        "url": "https://open.spotify.com/album/0MjJOhgZD9wBqy0sMPtmXk"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Volar\u00e9",
+      "url": "https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -899,6 +899,26 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
+        "name": "Quiromancia",
+        "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 213948,
+      "name": "Las Flores (feat. Los Aut\u00e9nticos Decadentes)",
+      "url": "https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK"
+    },
+    {
+      "added_at": "2024-03-22 14:09:51",
+      "album": {
         "name": "LA FORMA DE TUS HUESOS",
         "url": "https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3"
       },
@@ -927,6 +947,22 @@
       "duration_ms": 167640,
       "name": "Detox",
       "url": "https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M"
+    },
+    {
+      "added_at": "2024-03-22 14:09:51",
+      "album": {
+        "name": "Pensando en Ti",
+        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -963,38 +999,34 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
-        "name": "Quiromancia",
-        "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
+        "name": "Desde el Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6qqF989mpKkNu6XkG73bg2"
       },
       "artists": [
         {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        },
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
         }
       ],
-      "duration_ms": 213948,
-      "name": "Las Flores (feat. Los Aut\u00e9nticos Decadentes)",
-      "url": "https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK"
+      "duration_ms": 144000,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/4goMiemP1T7MguxhnRwj9z"
     },
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
-        "name": "Pensando en Ti",
-        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
+        "name": "INTERMITENTE",
+        "url": "https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
         }
       ],
-      "duration_ms": 173206,
-      "name": "Pensando en Ti",
-      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
+      "duration_ms": 169451,
+      "name": "En Un Loop",
+      "url": "https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -1011,22 +1043,6 @@
       "duration_ms": 202492,
       "name": "Me Diste la Espalda",
       "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
-    },
-    {
-      "added_at": "2024-03-22 14:09:51",
-      "album": {
-        "name": "Desde el Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6qqF989mpKkNu6XkG73bg2"
-      },
-      "artists": [
-        {
-          "name": "Robleis",
-          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/4goMiemP1T7MguxhnRwj9z"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
-        "name": "INTERMITENTE",
-        "url": "https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 169451,
-      "name": "En Un Loop",
-      "url": "https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS"
-    },
-    {
-      "added_at": "2024-03-22 14:09:51",
-      "album": {
         "name": "La Cobra",
         "url": "https://open.spotify.com/album/6pO1MphOTB3YjetIXCu2qP"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 188227,
       "name": "La Cobra",
       "url": "https://open.spotify.com/track/598iUd0iLrNtDMzdyMXnUO"
-    },
-    {
-      "added_at": "2024-03-22 14:09:51",
-      "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 229943,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 229943,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
+    },
+    {
+      "added_at": "2024-03-22 14:09:51",
+      "album": {
         "name": "Tarde o Temprano",
         "url": "https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 213127,
       "name": "Tarde o Temprano",
       "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
+    },
+    {
+      "added_at": "2024-03-22 14:09:51",
+      "album": {
+        "name": "Manantial",
+        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
+      },
+      "artists": [
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        }
+      ],
+      "duration_ms": 267960,
+      "name": "Coraz\u00f3n Salvaje",
+      "url": "https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -1179,42 +1195,6 @@
       "duration_ms": 193021,
       "name": "Altar",
       "url": "https://open.spotify.com/track/1insvPZ3iQa5iTixWUpAMr"
-    },
-    {
-      "added_at": "2024-03-22 14:09:51",
-      "album": {
-        "name": "Manantial",
-        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
-      },
-      "artists": [
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        }
-      ],
-      "duration_ms": 267960,
-      "name": "Coraz\u00f3n Salvaje",
-      "url": "https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf"
-    },
-    {
-      "added_at": "2024-03-22 14:09:51",
-      "album": {
-        "name": "Monoambiente en Capital",
-        "url": "https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        },
-        {
-          "name": "Nico Cotton",
-          "url": "https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc"
-        }
-      ],
-      "duration_ms": 181087,
-      "name": "Monoambiente en Capital",
-      "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -1307,6 +1287,26 @@
       "duration_ms": 149610,
       "name": "La Ara\u00f1a",
       "url": "https://open.spotify.com/track/0V8rl5jHgjdhglRjpG7cbj"
+    },
+    {
+      "added_at": "2024-03-22 14:09:51",
+      "album": {
+        "name": "Monoambiente en Capital",
+        "url": "https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        },
+        {
+          "name": "Nico Cotton",
+          "url": "https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc"
+        }
+      ],
+      "duration_ms": 181087,
+      "name": "Monoambiente en Capital",
+      "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
     },
     {
       "added_at": "2024-03-22 14:09:51",

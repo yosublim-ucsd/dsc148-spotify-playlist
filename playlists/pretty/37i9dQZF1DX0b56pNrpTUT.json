@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 13315,
+  "num_followers": 13332,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzk4ZDkwZjE4OTMxM2JmYzRhNTQ0NDM0NWI3NDg2ZjQ4NWI1YTI1",
+  "snapshot_id": "MCw5ZTY1YjJkOGY5YjFiMjQzNjEwNjEwZjU4NDU0NWZjYzFlYmE1ZDY1",
   "tracks": [
     {
       "added_at": "2023-07-18 18:13:51",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-07-18 18:13:51",
       "album": {
-        "name": "If Orange Was A Place",
-        "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/2dFqK2ZkYB9Xc47gr3xXWl"
-    },
-    {
-      "added_at": "2023-07-18 18:13:51",
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 222383,
       "name": "quiero sentirme bien",
       "url": "https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm"
+    },
+    {
+      "added_at": "2023-07-18 18:13:51",
+      "album": {
+        "name": "If Orange Was A Place",
+        "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/2dFqK2ZkYB9Xc47gr3xXWl"
     },
     {
       "added_at": "2023-07-18 18:13:51",

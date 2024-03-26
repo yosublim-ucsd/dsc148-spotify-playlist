@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 92401,
+  "2024-03-26": 92541,
   "date_first_scraped": "2021-12-28",
   "description": "Mengenang Ade Paloh (1976 - 2024) melalui rangkaian karya dan suaranya",
   "name": "Memorindie",
@@ -634,6 +634,42 @@
     },
     {
       "album": {
+        "name": "Ports Of Lima",
+        "url": "https://open.spotify.com/album/6egRSbA1aglow6mdAqEAQE"
+      },
+      "artists": [
+        {
+          "name": "Sore",
+          "url": "https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293333,
+      "name": "Ernestito",
+      "url": "https://open.spotify.com/track/6KJMo4cHIDuuzw3cgfaDYM"
+    },
+    {
+      "album": {
+        "name": "Ports Of Lima",
+        "url": "https://open.spotify.com/album/6egRSbA1aglow6mdAqEAQE"
+      },
+      "artists": [
+        {
+          "name": "Sore",
+          "url": "https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252866,
+      "name": "Essensimo",
+      "url": "https://open.spotify.com/track/5bnaKO2Z9mDRLGjqK7RXDl"
+    },
+    {
+      "album": {
         "name": "Centralismo",
         "url": "https://open.spotify.com/album/4cgfCWFWpaUsbNouFsKdsr"
       },
@@ -724,6 +760,24 @@
     },
     {
       "album": {
+        "name": "Los Skut Leboys",
+        "url": "https://open.spotify.com/album/2y7GNu8un0dk53CP4jnV4U"
+      },
+      "artists": [
+        {
+          "name": "Sore",
+          "url": "https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250909,
+      "name": "Gesneriana",
+      "url": "https://open.spotify.com/track/4jazdSJh7enogGmipPHYDA"
+    },
+    {
+      "album": {
         "name": "V2.05",
         "url": "https://open.spotify.com/album/72g5NvgwUJDA45iqYPltFG"
       },
@@ -739,6 +793,24 @@
       "duration_ms": 257000,
       "name": "Hanya Kau",
       "url": "https://open.spotify.com/track/3UfR1fCPSLK4AXyl5QtKqN"
+    },
+    {
+      "album": {
+        "name": "Quo Vadis, SORE?",
+        "url": "https://open.spotify.com/album/53TkUEJhzjqYY6ljR3XoKS"
+      },
+      "artists": [
+        {
+          "name": "Sore",
+          "url": "https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207750,
+      "name": "Hayya The Great",
+      "url": "https://open.spotify.com/track/2yJOF7LndHE56BhPaO0Djm"
     },
     {
       "album": {

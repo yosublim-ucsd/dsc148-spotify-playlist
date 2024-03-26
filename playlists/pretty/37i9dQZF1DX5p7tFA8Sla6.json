@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 55772,
+  "num_followers": 55777,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmU5YjVhNzhmNmQ3NWI5NWQ3MGQzMmRhN2E3NTQ0MmNiNmI2Mzg0",
+  "snapshot_id": "MCxjMmVhOWY1N2RlZDE4YzdlNDc2ZDk4M2M4MWVlN2U2NjBkMDFkYjUz",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -195,6 +195,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Funkentelechy Vs. The Placebo Syndrome",
+        "url": "https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "duration_ms": 346666,
+      "name": "Flash Light",
+      "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -227,22 +243,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Zapp",
-        "url": "https://open.spotify.com/album/1y7wSbPgFFeLxbpf5v5CIY"
-      },
-      "artists": [
-        {
-          "name": "Zapp",
-          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
-        }
-      ],
-      "duration_ms": 311120,
-      "name": "More Bounce to the Ounce",
-      "url": "https://open.spotify.com/track/1LiwqqaafXkNQuWGW3HeId"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of The Dazz Band",
         "url": "https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG"
       },
@@ -255,6 +255,22 @@
       "duration_ms": 287000,
       "name": "Let It Whip",
       "url": "https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Zapp",
+        "url": "https://open.spotify.com/album/1y7wSbPgFFeLxbpf5v5CIY"
+      },
+      "artists": [
+        {
+          "name": "Zapp",
+          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
+        }
+      ],
+      "duration_ms": 311120,
+      "name": "More Bounce to the Ounce",
+      "url": "https://open.spotify.com/track/1LiwqqaafXkNQuWGW3HeId"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -275,22 +291,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Funkentelechy Vs. The Placebo Syndrome",
-        "url": "https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd"
-      },
-      "artists": [
-        {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
-        }
-      ],
-      "duration_ms": 346666,
-      "name": "Flash Light",
-      "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Tuxedo",
         "url": "https://open.spotify.com/album/6A0IarahNWMnEcJ1Q6sn7d"
       },
@@ -307,22 +307,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Tower Of Power",
-        "url": "https://open.spotify.com/album/731Q7pBo9WEQyM52gUe0kJ"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 304733,
-      "name": "What Is Hip?",
-      "url": "https://open.spotify.com/track/66TSoVnJ1P9Tyok03zUlTr"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "The Best of Delegation",
         "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 269640,
       "name": "Put a Little Love On Me",
       "url": "https://open.spotify.com/track/6EOAOGls9pIdUJsrqytcXK"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Tower Of Power",
+        "url": "https://open.spotify.com/album/731Q7pBo9WEQyM52gUe0kJ"
+      },
+      "artists": [
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        }
+      ],
+      "duration_ms": 304733,
+      "name": "What Is Hip?",
+      "url": "https://open.spotify.com/track/66TSoVnJ1P9Tyok03zUlTr"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -435,22 +435,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Get On The Good Foot",
-        "url": "https://open.spotify.com/album/49ibE9W9vxZBPBV7wtZKFi"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Cold Sweat",
-      "url": "https://open.spotify.com/track/3GWM2gYAWWBrrh1h9F8DEc"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Young Sick Camellia",
         "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 290422,
       "name": "GotItBad",
       "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Get On The Good Foot",
+        "url": "https://open.spotify.com/album/49ibE9W9vxZBPBV7wtZKFi"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Cold Sweat",
+      "url": "https://open.spotify.com/track/3GWM2gYAWWBrrh1h9F8DEc"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -499,22 +499,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Mothership Connection",
-        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
-      },
-      "artists": [
-        {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
-        }
-      ],
-      "duration_ms": 461160,
-      "name": "P-Funk (Wants To Get Funked Up)",
-      "url": "https://open.spotify.com/track/0GIfaHgivfBCV67eYF996A"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Graham Central Station",
         "url": "https://open.spotify.com/album/4ZYY6rKxpgH76mdF0u3hvj"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 462466,
       "name": "Bustin' Loose",
       "url": "https://open.spotify.com/track/3SJkwOKNpMz1z9nEICH6xa"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Mothership Connection",
+        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "duration_ms": 461160,
+      "name": "P-Funk (Wants To Get Funked Up)",
+      "url": "https://open.spotify.com/track/0GIfaHgivfBCV67eYF996A"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -739,22 +739,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "What We Got Together",
-        "url": "https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18"
-      },
-      "artists": [
-        {
-          "name": "Brother Strut",
-          "url": "https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Funk That Junk",
-      "url": "https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Jeannie's Getdown",
         "url": "https://open.spotify.com/album/0cpAnAv6dKdeFDe6aGR8kg"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 186348,
       "name": "A Message from the Meters",
       "url": "https://open.spotify.com/track/0M1tkc80T0So48tBpXjhcq"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "What We Got Together",
+        "url": "https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18"
+      },
+      "artists": [
+        {
+          "name": "Brother Strut",
+          "url": "https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Funk That Junk",
+      "url": "https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -911,6 +911,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "My Radio Sure Sounds Good To Me",
+        "url": "https://open.spotify.com/album/5DldGiP8hbKtAjGzzcdYEq"
+      },
+      "artists": [
+        {
+          "name": "Larry Graham & Graham Central Station",
+          "url": "https://open.spotify.com/artist/6NodJUvzLqPU2HtPLhDuf5"
+        }
+      ],
+      "duration_ms": 227946,
+      "name": "Boogie Witcha, Baby",
+      "url": "https://open.spotify.com/track/5NqRwz0rPh3aK4iWyJLXxy"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Bedrock",
         "url": "https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb"
       },
@@ -941,38 +957,6 @@
       "url": "https://open.spotify.com/track/01xhntcYe1f5EqHc2T7pep"
     },
     {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "My Radio Sure Sounds Good To Me",
-        "url": "https://open.spotify.com/album/5DldGiP8hbKtAjGzzcdYEq"
-      },
-      "artists": [
-        {
-          "name": "Larry Graham & Graham Central Station",
-          "url": "https://open.spotify.com/artist/6NodJUvzLqPU2HtPLhDuf5"
-        }
-      ],
-      "duration_ms": 227946,
-      "name": "Boogie Witcha, Baby",
-      "url": "https://open.spotify.com/track/5NqRwz0rPh3aK4iWyJLXxy"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Death or Devotion",
-        "url": "https://open.spotify.com/album/5u4QWSGcNGl7u9c4PMBbIj"
-      },
-      "artists": [
-        {
-          "name": "The Motet",
-          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
-        }
-      ],
-      "duration_ms": 365200,
-      "name": "Highly Compatible",
-      "url": "https://open.spotify.com/track/2ODU2nsPtVrNIEmBGqhLaH"
-    },
-    {
       "added_at": "2019-09-20 18:33:34",
       "album": {
         "name": "Stay Good",
@@ -995,6 +979,22 @@
       "duration_ms": 231963,
       "name": "Funk Ain't Ova",
       "url": "https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Death or Devotion",
+        "url": "https://open.spotify.com/album/5u4QWSGcNGl7u9c4PMBbIj"
+      },
+      "artists": [
+        {
+          "name": "The Motet",
+          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
+        }
+      ],
+      "duration_ms": 365200,
+      "name": "Highly Compatible",
+      "url": "https://open.spotify.com/track/2ODU2nsPtVrNIEmBGqhLaH"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Controversy",
-        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Let's Work",
-      "url": "https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Birth Day",
         "url": "https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 383746,
       "name": "I Can Understand It",
       "url": "https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Controversy",
+        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Let's Work",
+      "url": "https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99"
     },
     {
       "added_at": "2019-09-06 07:01:00",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Confident (feat. The MB's)",
+        "url": "https://open.spotify.com/album/0dnIxietsEIhuml8hJKopn"
+      },
+      "artists": [
+        {
+          "name": "Cliff Beach",
+          "url": "https://open.spotify.com/artist/66gjb8G6USA4sI4bZPrJ3Z"
+        },
+        {
+          "name": "The MB's",
+          "url": "https://open.spotify.com/artist/4adlPXwO2sPi7h6Rgz3krz"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "Confident (feat. The MB's)",
+      "url": "https://open.spotify.com/track/28YkfGOg7FmjJpokMe9wS6"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Funk Ain't Ova",
         "url": "https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 296880,
       "name": "Dance Or Die",
       "url": "https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Confident (feat. The MB's)",
-        "url": "https://open.spotify.com/album/0dnIxietsEIhuml8hJKopn"
-      },
-      "artists": [
-        {
-          "name": "Cliff Beach",
-          "url": "https://open.spotify.com/artist/66gjb8G6USA4sI4bZPrJ3Z"
-        },
-        {
-          "name": "The MB's",
-          "url": "https://open.spotify.com/artist/4adlPXwO2sPi7h6Rgz3krz"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "Confident (feat. The MB's)",
-      "url": "https://open.spotify.com/track/28YkfGOg7FmjJpokMe9wS6"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Breaks from the Border",
-        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "Take What You Need",
-      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
       },
@@ -1267,22 +1251,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Death or Devotion",
-        "url": "https://open.spotify.com/album/5u4QWSGcNGl7u9c4PMBbIj"
-      },
-      "artists": [
-        {
-          "name": "The Motet",
-          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "Death Or Devotion",
-      "url": "https://open.spotify.com/track/78jwdIEclJN3SrQzwKzubf"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Stay Good",
         "url": "https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7"
       },
@@ -1303,6 +1271,38 @@
       "duration_ms": 332661,
       "name": "Miss Mess",
       "url": "https://open.spotify.com/track/47agFZSo5O4c6ZEJfgfH8k"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Breaks from the Border",
+        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "Take What You Need",
+      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Death or Devotion",
+        "url": "https://open.spotify.com/album/5u4QWSGcNGl7u9c4PMBbIj"
+      },
+      "artists": [
+        {
+          "name": "The Motet",
+          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "Death Or Devotion",
+      "url": "https://open.spotify.com/track/78jwdIEclJN3SrQzwKzubf"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Vs.",
-        "url": "https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY"
-      },
-      "artists": [
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Daniel Merriweather",
-          "url": "https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN"
-        }
-      ],
-      "duration_ms": 224832,
-      "name": "Losin' Streak (feat. Daniel Merriweather)",
-      "url": "https://open.spotify.com/track/2cyTtLjjuO9j9M3gyWJ8Du"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Dirty Word",
         "url": "https://open.spotify.com/album/3hLGxazNwkFKTsaGAm3Jcj"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 273880,
       "name": "Water",
       "url": "https://open.spotify.com/track/1qB1AGK7AbUKkCgHi0AqrF"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Vs.",
+        "url": "https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Daniel Merriweather",
+          "url": "https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN"
+        }
+      ],
+      "duration_ms": 224832,
+      "name": "Losin' Streak (feat. Daniel Merriweather)",
+      "url": "https://open.spotify.com/track/2cyTtLjjuO9j9M3gyWJ8Du"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Life In The City",
-        "url": "https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio"
-      },
-      "artists": [
-        {
-          "name": "Turkuaz",
-          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "Superstatic",
-      "url": "https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Pocket (Radio Edit)",
         "url": "https://open.spotify.com/album/7IeXmD7Qhgz7uvrHprmV4q"
       },
@@ -1559,22 +1543,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Lab Experiments, Vol. 2",
-        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
+        "name": "Life In The City",
+        "url": "https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio"
       },
       "artists": [
         {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Kaiit",
-          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
+          "name": "Turkuaz",
+          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
         }
       ],
-      "duration_ms": 211615,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
+      "duration_ms": 245413,
+      "name": "Superstatic",
+      "url": "https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1615,6 +1595,26 @@
       "duration_ms": 281133,
       "name": "Just Say Nothing",
       "url": "https://open.spotify.com/track/6oBOx9S6xhHbAkznP2wiNC"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Lab Experiments, Vol. 2",
+        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Kaiit",
+          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
+        }
+      ],
+      "duration_ms": 211615,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
     },
     {
       "added_at": "2019-08-22 14:26:16",

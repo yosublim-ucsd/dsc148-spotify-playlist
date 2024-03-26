@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 70601,
+  "num_followers": 70599,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzkwMywzZjE5YjA3MDE0ZTZkZjRhODBlMDYyMTAyMGY2N2IyM2ExMTIzM2Fl",
+  "snapshot_id": "MzkwNCw1OTk3MjgzZmZhYjFkMWU0YTAyYzg5OWU5NWRlODdmYmE3YzRkZWUw",
   "tracks": [
+    {
+      "added_at": "2024-03-25 20:04:35",
+      "album": {
+        "name": "What's That You Say",
+        "url": "https://open.spotify.com/album/0jxUWFmE7joKf1FXJ4nwUr"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        }
+      ],
+      "duration_ms": 223008,
+      "name": "What's That You Say",
+      "url": "https://open.spotify.com/track/5EnZk5P9NHp8Fz4aSaAu1N"
+    },
     {
       "added_at": "2024-03-22 11:09:49",
       "album": {

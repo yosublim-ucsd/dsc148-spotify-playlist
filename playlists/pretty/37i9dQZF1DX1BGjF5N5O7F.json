@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 562892,
+  "num_followers": 562888,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWY3YjNmZDdjNTMwNzM3MzhmYzFhN2JiMGIzOTA4Y2M1ZTBlY2U1",
+  "snapshot_id": "MCw3ODI5MzFlMDk0ZDU5OTNiZTJiOTU2YTFhMWJjNDZhOTA1NWE0MDVi",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 238520,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "The Wisp Sings: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/4VNB4ehPs8SKVVn6QAvHp2"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 313252,
       "name": "The Wisp Sings",
       "url": "https://open.spotify.com/track/7nDXmx3FuyeX7FI7PFl2iX"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Nina Cried Power - EP",
-        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 259253,
-      "name": "NFWMB",
-      "url": "https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 205657,
       "name": "You Needed Love, I Needed You",
       "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Nina Cried Power - EP",
+        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 259253,
+      "name": "NFWMB",
+      "url": "https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9"
     },
     {
       "added_at": "2024-02-09 05:00:00",

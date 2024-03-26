@@ -15301,6 +15301,24 @@
     },
     {
       "album": {
+        "name": "What's That You Say",
+        "url": "https://open.spotify.com/album/0jxUWFmE7joKf1FXJ4nwUr"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223008,
+      "name": "What's That You Say",
+      "url": "https://open.spotify.com/track/5EnZk5P9NHp8Fz4aSaAu1N"
+    },
+    {
+      "album": {
         "name": "Where Have All the Cowboys Gone?",
         "url": "https://open.spotify.com/album/4ZuBJsJFKXabAqCOpLYhBY"
       },

@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 459577,
+  "num_followers": 459663,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2FmODRiMzE2NWQxNDYyMzcyZjRiYzBmNjQ3YjAxZTg5M2Q3YmIy",
+  "snapshot_id": "MCxlYjljMDc0OWRjOGRhMWNhOGQ2NTQ2MjVlZGRhZDkzY2FiYzNlNDJl",
   "tracks": [
     {
       "added_at": "2024-02-13 23:11:41",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
+        "name": "ZABA",
+        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Gooey",
+      "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
         "name": "You're Somebody Else",
         "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 260986,
-      "name": "American Money",
-      "url": "https://open.spotify.com/track/4AewKenHXKBt643p473xCk"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Mechanical Bull (Expanded Edition)",
         "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
       },
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "ZABA",
-        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
         }
       ],
-      "duration_ms": 289306,
-      "name": "Gooey",
-      "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
+      "duration_ms": 260986,
+      "name": "American Money",
+      "url": "https://open.spotify.com/track/4AewKenHXKBt643p473xCk"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -411,6 +411,22 @@
       "duration_ms": 201233,
       "name": "Neon Pill",
       "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 160244,
+      "name": "Edge of the Earth",
+      "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -435,22 +451,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "xx",
         "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
       },
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Blame My Ex",
-        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
       "artists": [
         {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 160244,
-      "name": "Edge of the Earth",
-      "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Blossom (Deluxe)",
-        "url": "https://open.spotify.com/album/72xhsdVmVWFXJuSjABjqtC"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/6acDlNeA06MCVCzsTVGr9V"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Arrow",
         "url": "https://open.spotify.com/album/1mupITVP9mYqKBHjWWDN1W"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 308066,
       "name": "Only for You",
       "url": "https://open.spotify.com/track/4KwvTXx3yR0FA4LGfxD4xP"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Blossom (Deluxe)",
+        "url": "https://open.spotify.com/album/72xhsdVmVWFXJuSjABjqtC"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/6acDlNeA06MCVCzsTVGr9V"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 163050,
+      "name": "Perspective",
+      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
         "name": "The Way",
         "url": "https://open.spotify.com/album/3js2aCcAc96FwVGfTLoL8i"
       },
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Perspective",
-        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 163050,
-      "name": "Perspective",
-      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Nothing But Thieves (Deluxe)",
         "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
       },
@@ -1063,22 +1063,6 @@
       "duration_ms": 315491,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
-        "name": "The Million Masks Of God",
-        "url": "https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "Telepath",
-      "url": "https://open.spotify.com/track/2i8fcnTT5iItxMNwa8mfr3"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1143,6 +1127,22 @@
       "duration_ms": 196707,
       "name": "Alone in the Mountains",
       "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "The Million Masks Of God",
+        "url": "https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/2i8fcnTT5iItxMNwa8mfr3"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Oregon / Harvard",
-        "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 198413,
-      "name": "Oregon",
-      "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 155000,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/0uVrbmcAomoohVaFnBSRid"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Oregon / Harvard",
+        "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 198413,
+      "name": "Oregon",
+      "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1275,6 +1275,22 @@
       "duration_ms": 185120,
       "name": "Psychos",
       "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Asphalt Meadows",
+        "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 168186,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1323,22 +1339,6 @@
       "duration_ms": 159711,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
-        "name": "Asphalt Meadows",
-        "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 168186,
-      "name": "Pepper",
-      "url": "https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Never Had to Leave",
-        "url": "https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7"
-      },
-      "artists": [
-        {
-          "name": "Matt Maeson",
-          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Cry Baby",
-      "url": "https://open.spotify.com/track/3epaLFj2ClmXnvcuxHsih5"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Help Me To Feel Again",
         "url": "https://open.spotify.com/album/7JaJz2pFwuOs6XdjydJqAR"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 262383,
       "name": "Help Me To Feel Again",
       "url": "https://open.spotify.com/track/6eYJIGCwT3hFY5Fz8KI8c6"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Never Had to Leave",
+        "url": "https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7"
+      },
+      "artists": [
+        {
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/3epaLFj2ClmXnvcuxHsih5"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc"
-      },
-      "artists": [
-        {
-          "name": "The Brinks",
-          "url": "https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz"
-        }
-      ],
-      "duration_ms": 205129,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "West Coast",
         "url": "https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 251872,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc"
+      },
+      "artists": [
+        {
+          "name": "The Brinks",
+          "url": "https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz"
+        }
+      ],
+      "duration_ms": 205129,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 228735,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/3K8q99Bi8C6OYQbmUEaeR2"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 266906,
       "name": "Big Ideas",
       "url": "https://open.spotify.com/track/4xXJhn3Z0HXzA1OfH20mwP"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
-        "name": "I See You",
-        "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 228735,
-      "name": "I See You",
-      "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Love Gloom",
-        "url": "https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7"
-      },
-      "artists": [
-        {
-          "name": "Night Riots",
-          "url": "https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y"
-        }
-      ],
-      "duration_ms": 235334,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/5iRNyVceIz0DTdpSafiBM8"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Time Will Wait For No One",
         "url": "https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 215786,
       "name": "Desert Snow",
       "url": "https://open.spotify.com/track/4VaX0McHsjpr23rARe2cJU"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Love Gloom",
+        "url": "https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7"
+      },
+      "artists": [
+        {
+          "name": "Night Riots",
+          "url": "https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y"
+        }
+      ],
+      "duration_ms": 235334,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/5iRNyVceIz0DTdpSafiBM8"
     },
     {
       "added_at": "2024-02-13 23:11:41",

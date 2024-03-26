@@ -1,12 +1,12 @@
 {
   "description": "Crossing over like Allen I. Cover: Tyla",
-  "num_followers": 2059889,
+  "num_followers": 2060413,
   "original_name": "Signed XOXO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjExYjdiZTY5ZTcxMjNiNWVlNmYyMTkzOWMzMzA3YTRjOTBhNzYy",
+  "snapshot_id": "MCwwN2JiYTczZTZiYmVkYzM0OWYxNGVlZTM5YTgzNTJiYWRiM2EwYjVh",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -139,22 +139,6 @@
       "duration_ms": 231338,
       "name": "act ii: date @ 8 (feat. Drake) - remix",
       "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "CALYPSO",
-        "url": "https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 188314,
-      "name": "CALYPSO",
-      "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -607,6 +591,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 188314,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "light! (with Lil Nas X & 9lives)",
         "url": "https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 157866,
       "name": "Cupid's Guidance",
       "url": "https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT"
+    },
+    {
+      "added_at": "2024-03-25 19:13:35",
+      "album": {
+        "name": "MONEY! (Money Money, Green Green)",
+        "url": "https://open.spotify.com/album/2RVKC6Ji7sQfRb4iMCu8gX"
+      },
+      "artists": [
+        {
+          "name": "Kaytoven",
+          "url": "https://open.spotify.com/artist/4DDuVAfwHpJyGSmNUHRTGm"
+        }
+      ],
+      "duration_ms": 78036,
+      "name": "MONEY! (Money Money, Green Green)",
+      "url": "https://open.spotify.com/track/40MPZ79Nb7wBZqA9PzLVy0"
     },
     {
       "added_at": "2024-03-22 04:00:00",

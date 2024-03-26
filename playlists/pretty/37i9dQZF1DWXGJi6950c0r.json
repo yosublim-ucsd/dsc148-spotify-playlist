@@ -1,12 +1,12 @@
 {
   "description": "A m\u00ed no me importa el dinero, tengo lo que yo m\u00e1s quiero #ZodiacoSpotify Foto: Ricky Martin",
-  "num_followers": 44200,
+  "num_followers": 44215,
   "original_name": "Capricornio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTM0ZjgzNTAyNmMwYTNmMDQwODFlMDc1NWNmODVlNWZjYzJhODQx",
+  "snapshot_id": "MCwxODdjMTZhNDNmM2Q0MjgzZGRkNTdhYTk4YWQ1NGY0ODA5MTBlNjky",
   "tracks": [
     {
       "added_at": "2019-12-27 01:15:45",
@@ -203,22 +203,6 @@
     {
       "added_at": "2019-12-27 01:15:45",
       "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Mi Primer Millon",
-      "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
-    },
-    {
-      "added_at": "2019-12-27 01:15:45",
-      "album": {
         "name": "Promises (with Sam Smith)",
         "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 213309,
       "name": "Promises (with Sam Smith)",
       "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
+    },
+    {
+      "added_at": "2019-12-27 01:15:45",
+      "album": {
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Mi Primer Millon",
+      "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
     },
     {
       "added_at": "2019-12-27 01:15:45",

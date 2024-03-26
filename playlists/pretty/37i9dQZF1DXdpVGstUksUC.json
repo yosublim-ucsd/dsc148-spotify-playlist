@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 539603,
+  "num_followers": 539638,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmZlNjc5YWEzMTc2YjU1NmM2MzEwNjFhZGMyYmUzNzhjMTA5YWY5",
+  "snapshot_id": "MCw1ZDNlMGVhNjc0Njg2NDU0YjFkZTZkNDAyZjliYWFlZGE0NTk1M2Ji",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Rated R - Deluxe Edition",
+        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "The Lost Art Of Keeping A Secret",
+      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "From Beale Street to Oblivion",
         "url": "https://open.spotify.com/album/0NwhaAWEFAeUuZ7lrCCXFx"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 343160,
       "name": "Dragonaut",
       "url": "https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Rated R - Deluxe Edition",
-        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "The Lost Art Of Keeping A Secret",
-      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 352440,
+      "name": "Song For The Dead",
+      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Welcome to Sky Valley",
         "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
       },
@@ -343,38 +359,6 @@
       "duration_ms": 320333,
       "name": "Albatross",
       "url": "https://open.spotify.com/track/3CtKSQyQPdzA2u7n9tjJw2"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 352440,
-      "name": "Song For The Dead",
-      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Blast Tyrant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7oyuh0TWCDf6rbsG4Elsi8"
-      },
-      "artists": [
-        {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
-        }
-      ],
-      "duration_ms": 325026,
-      "name": "The Regulator",
-      "url": "https://open.spotify.com/track/0ni8h8HAJNFwuL9cMWR9XN"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -427,18 +411,34 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
+        "name": "Queens of the Stone Age",
+        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
       },
       "artists": [
         {
-          "name": "Witchcraft",
-          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 309986,
-      "name": "Deconstruction",
-      "url": "https://open.spotify.com/track/0IOu6NlseiiSm1VaEEbVOt"
+      "duration_ms": 277808,
+      "name": "Regular John",
+      "url": "https://open.spotify.com/track/0R0m9mTXa81zp1qtcU3dSR"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Blast Tyrant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7oyuh0TWCDf6rbsG4Elsi8"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 325026,
+      "name": "The Regulator",
+      "url": "https://open.spotify.com/track/0ni8h8HAJNFwuL9cMWR9XN"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -455,6 +455,38 @@
       "duration_ms": 317033,
       "name": "Cabin Fever",
       "url": "https://open.spotify.com/track/4lmnpR0Z7kc7ktKOwlPFsi"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The Action Is Go",
+        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Evil Eye",
+      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
+      },
+      "artists": [
+        {
+          "name": "Witchcraft",
+          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
+        }
+      ],
+      "duration_ms": 309986,
+      "name": "Deconstruction",
+      "url": "https://open.spotify.com/track/0IOu6NlseiiSm1VaEEbVOt"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -491,38 +523,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Queens of the Stone Age",
-        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 277808,
-      "name": "Regular John",
-      "url": "https://open.spotify.com/track/0R0m9mTXa81zp1qtcU3dSR"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Gravity X",
-        "url": "https://open.spotify.com/album/7JPXSQ3BJGE67TgYpUQKcV"
-      },
-      "artists": [
-        {
-          "name": "Truckfighters",
-          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
-        }
-      ],
-      "duration_ms": 449946,
-      "name": "Desert Cruiser",
-      "url": "https://open.spotify.com/track/41cBKTG12qtlYEgQRBqOaq"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "ILION",
         "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
       },
@@ -539,34 +539,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Action Is Go",
-        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
+        "name": "Gravity X",
+        "url": "https://open.spotify.com/album/7JPXSQ3BJGE67TgYpUQKcV"
       },
       "artists": [
         {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+          "name": "Truckfighters",
+          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
         }
       ],
-      "duration_ms": 210866,
-      "name": "Evil Eye",
-      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
-      },
-      "artists": [
-        {
-          "name": "Witchcraft",
-          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
-        }
-      ],
-      "duration_ms": 317600,
-      "name": "An Alternative to Freedom",
-      "url": "https://open.spotify.com/track/0fATnWJXdt6ke5kR2klu7g"
+      "duration_ms": 449946,
+      "name": "Desert Cruiser",
+      "url": "https://open.spotify.com/track/41cBKTG12qtlYEgQRBqOaq"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -651,6 +635,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
+      },
+      "artists": [
+        {
+          "name": "Witchcraft",
+          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
+        }
+      ],
+      "duration_ms": 317600,
+      "name": "An Alternative to Freedom",
+      "url": "https://open.spotify.com/track/0fATnWJXdt6ke5kR2klu7g"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Sunrise On The Sufferbus",
         "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Dead Roots Stirring",
-        "url": "https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp"
-      },
-      "artists": [
-        {
-          "name": "Elder",
-          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
-        }
-      ],
-      "duration_ms": 580237,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Dopes To Infinity",
         "url": "https://open.spotify.com/album/6Dh8ASautDuCAtsWebqyGS"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 392000,
       "name": "Look To Your Orb For The Warning",
       "url": "https://open.spotify.com/track/5WQLx09gJM4Dsf65C9hAhI"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Dead Roots Stirring",
+        "url": "https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp"
+      },
+      "artists": [
+        {
+          "name": "Elder",
+          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
+        }
+      ],
+      "duration_ms": 580237,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Super Van Vacation",
-        "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
-      },
-      "artists": [
-        {
-          "name": "1000mods",
-          "url": "https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89"
-        }
-      ],
-      "duration_ms": 529232,
-      "name": "Road to Burn",
-      "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Warp Riders",
         "url": "https://open.spotify.com/album/4APeNJPvYBUTRTF3OLUCUT"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 249333,
       "name": "Tres Brujas",
       "url": "https://open.spotify.com/track/0A2xPmHDRHDaWWwACMmPTA"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Super Van Vacation",
+        "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
+      },
+      "artists": [
+        {
+          "name": "1000mods",
+          "url": "https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89"
+        }
+      ],
+      "duration_ms": 529232,
+      "name": "Road to Burn",
+      "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "No Comfort",
-        "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
-      },
-      "artists": [
-        {
-          "name": "Monolord",
-          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
-        }
-      ],
-      "duration_ms": 314656,
-      "name": "The Last Leaf",
-      "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Macho Libre",
         "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 230653,
       "name": "Leftovers",
       "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "No Comfort",
+        "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
+      },
+      "artists": [
+        {
+          "name": "Monolord",
+          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
+        }
+      ],
+      "duration_ms": 314656,
+      "name": "The Last Leaf",
+      "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Burning Village",
+        "url": "https://open.spotify.com/album/5XEU2cfXUc3WUdo4vyS8mh"
+      },
+      "artists": [
+        {
+          "name": "Mountain Witch",
+          "url": "https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y"
+        }
+      ],
+      "duration_ms": 282217,
+      "name": "The Dead Won't Sleep",
+      "url": "https://open.spotify.com/track/2oeQxYynk2yTM9xeGx1ifl"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Love Like Machines",
         "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 349330,
       "name": "GNT",
       "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Burning Village",
-        "url": "https://open.spotify.com/album/5XEU2cfXUc3WUdo4vyS8mh"
-      },
-      "artists": [
-        {
-          "name": "Mountain Witch",
-          "url": "https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y"
-        }
-      ],
-      "duration_ms": 282217,
-      "name": "The Dead Won't Sleep",
-      "url": "https://open.spotify.com/track/2oeQxYynk2yTM9xeGx1ifl"
     },
     {
       "added_at": "2024-02-09 05:00:00",

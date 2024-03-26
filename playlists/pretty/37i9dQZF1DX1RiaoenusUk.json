@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 26384,
+  "num_followers": 26395,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjA3N2IyNDZmNWRmMWQ4MjRhNDU0MjBiOGYyMGJhNDNhMTk0ZWIy",
+  "snapshot_id": "MCw1ZDY2ODFiNDZjZmFmY2VhYTg2MmEyMDdjZTNhZTg2ZGMxOTkxYjE4",
   "tracks": [
     {
       "added_at": "2024-01-12 16:14:58",
@@ -139,38 +139,6 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Versus",
-        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 259506,
-      "name": "Jugo",
-      "url": "https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
-        "name": "En Una",
-        "url": "https://open.spotify.com/album/6OSoJXtvqLZO0miIj3zhTs"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 249731,
-      "name": "En Una",
-      "url": "https://open.spotify.com/track/47EtZNpOtwE80IQA0X9Izd"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
         "name": "Lev\u00e1ntate y Anda",
         "url": "https://open.spotify.com/album/49OWyv7bujYuq4ipISG2pW"
       },
@@ -195,6 +163,38 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
+        "name": "En Una",
+        "url": "https://open.spotify.com/album/6OSoJXtvqLZO0miIj3zhTs"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 249731,
+      "name": "En Una",
+      "url": "https://open.spotify.com/track/47EtZNpOtwE80IQA0X9Izd"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
+        "name": "Funky Magazine",
+        "url": "https://open.spotify.com/album/0dpvI4sK6dte5X32dELM95"
+      },
+      "artists": [
+        {
+          "name": "Militantes del Climax",
+          "url": "https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv"
+        }
+      ],
+      "duration_ms": 164350,
+      "name": "Funky Magazine",
+      "url": "https://open.spotify.com/track/7FTyR0xZtVCXgjYYrGtvlj"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
         "name": "S\u00fabete",
         "url": "https://open.spotify.com/album/165o9uGgipzLXM0QFz2bzE"
       },
@@ -211,6 +211,22 @@
       "duration_ms": 213750,
       "name": "S\u00fabete",
       "url": "https://open.spotify.com/track/7DhJiiZcX2DYMpq1f5vZBa"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 259506,
+      "name": "Jugo",
+      "url": "https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -235,22 +251,6 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Eco (feat. Funky Torinos)",
-        "url": "https://open.spotify.com/album/5iN5lxXt3Bxw0Pd8bEtiRH"
-      },
-      "artists": [
-        {
-          "name": "Willy Crook",
-          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
-        }
-      ],
-      "duration_ms": 286080,
-      "name": "Back to Life",
-      "url": "https://open.spotify.com/track/5ABGgarzrlJ7bebh8wzOvr"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
         "name": "De Antes",
         "url": "https://open.spotify.com/album/2AKkV1ilSMfchUx4e1Wknl"
       },
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Funky Magazine",
-        "url": "https://open.spotify.com/album/0dpvI4sK6dte5X32dELM95"
+        "name": "Eco (feat. Funky Torinos)",
+        "url": "https://open.spotify.com/album/5iN5lxXt3Bxw0Pd8bEtiRH"
       },
       "artists": [
         {
-          "name": "Militantes del Climax",
-          "url": "https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv"
+          "name": "Willy Crook",
+          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
         }
       ],
-      "duration_ms": 164350,
-      "name": "Funky Magazine",
-      "url": "https://open.spotify.com/track/7FTyR0xZtVCXgjYYrGtvlj"
+      "duration_ms": 286080,
+      "name": "Back to Life",
+      "url": "https://open.spotify.com/track/5ABGgarzrlJ7bebh8wzOvr"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Prescription For Soul",
-        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
-      },
-      "artists": [
-        {
-          "name": "Doctorfunk",
-          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Gotta Get Funky",
-      "url": "https://open.spotify.com/track/7aFBO4VuZsGqyTrWBAAp7j"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
         "name": "Jurassik Funk",
         "url": "https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 286440,
       "name": "Pick Up On Your Line",
       "url": "https://open.spotify.com/track/2dM7ASP6qqUlDvAKnQSEgr"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
+        "name": "Prescription For Soul",
+        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
+      },
+      "artists": [
+        {
+          "name": "Doctorfunk",
+          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Gotta Get Funky",
+      "url": "https://open.spotify.com/track/7aFBO4VuZsGqyTrWBAAp7j"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
+        "name": "Guacamole",
+        "url": "https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 279399,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/3LBvCd7GSvDJYxeJpgcuAu"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
         "name": "Sinestesia",
         "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 293013,
       "name": "Liviano Como el Viento",
       "url": "https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
-        "name": "Guacamole",
-        "url": "https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 279399,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/3LBvCd7GSvDJYxeJpgcuAu"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+        "name": "Kaos & Armon\u00eda",
+        "url": "https://open.spotify.com/album/7sqQCuwceUleWHIo5BXPKb"
       },
       "artists": [
         {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+          "name": "Orion XL",
+          "url": "https://open.spotify.com/artist/5M9UirTedNlelMd00Rv1PP"
+        },
+        {
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
         }
       ],
-      "duration_ms": 190790,
-      "name": "Aceituna",
-      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
+      "duration_ms": 221506,
+      "name": "Eco en el Silencio",
+      "url": "https://open.spotify.com/track/0Uxk4YeBgyqwWSQag0g8LS"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1047,22 +1051,18 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Kaos & Armon\u00eda",
-        "url": "https://open.spotify.com/album/7sqQCuwceUleWHIo5BXPKb"
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
       },
       "artists": [
         {
-          "name": "Orion XL",
-          "url": "https://open.spotify.com/artist/5M9UirTedNlelMd00Rv1PP"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 221506,
-      "name": "Eco en el Silencio",
-      "url": "https://open.spotify.com/track/0Uxk4YeBgyqwWSQag0g8LS"
+      "duration_ms": 190790,
+      "name": "Aceituna",
+      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Aeronave",
-        "url": "https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s"
-      },
-      "artists": [
-        {
-          "name": "Aeronave",
-          "url": "https://open.spotify.com/artist/16E1xP8EmdxO16UHGeRQG7"
-        }
-      ],
-      "duration_ms": 355506,
-      "name": "Aeronave",
-      "url": "https://open.spotify.com/track/5tcINAPrFrvnFbIuR67xNI"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
         "name": "Flecha Verde",
         "url": "https://open.spotify.com/album/3c1p52P7u2HB76AMZSVgE2"
       },
@@ -1115,6 +1099,42 @@
       "duration_ms": 183215,
       "name": "Flecha Verde",
       "url": "https://open.spotify.com/track/2qOap48YXxJbXkUBBTtg2p"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
+        "name": "Peluche Peligroso",
+        "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
+      },
+      "artists": [
+        {
+          "name": "Acus",
+          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
+        },
+        {
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
+        }
+      ],
+      "duration_ms": 227221,
+      "name": "La Buena Vida",
+      "url": "https://open.spotify.com/track/3KnVVquGyEkY3ECjuBMZMK"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
+        "name": "Aeronave",
+        "url": "https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s"
+      },
+      "artists": [
+        {
+          "name": "Aeronave",
+          "url": "https://open.spotify.com/artist/16E1xP8EmdxO16UHGeRQG7"
+        }
+      ],
+      "duration_ms": 355506,
+      "name": "Aeronave",
+      "url": "https://open.spotify.com/track/5tcINAPrFrvnFbIuR67xNI"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1147,42 +1167,6 @@
       "duration_ms": 337573,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/2OzRdN6EUUfVBl7QACp6B1"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
-        "name": "Peluche Peligroso",
-        "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
-      },
-      "artists": [
-        {
-          "name": "Acus",
-          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
-        },
-        {
-          "name": "Julieta Rada",
-          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
-        }
-      ],
-      "duration_ms": 227221,
-      "name": "La Buena Vida",
-      "url": "https://open.spotify.com/track/3KnVVquGyEkY3ECjuBMZMK"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
-        "name": "Ya Lo Estoy Deseando",
-        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 202591,
-      "name": "C\u00f3mo",
-      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1239,6 +1223,22 @@
       "duration_ms": 284213,
       "name": "The Thrill is Gone",
       "url": "https://open.spotify.com/track/7tMloZGLwMyeqS6EXtshxS"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
+        "name": "Ya Lo Estoy Deseando",
+        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 202591,
+      "name": "C\u00f3mo",
+      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G"
-      },
-      "artists": [
-        {
-          "name": "Sophie Sobral & Factor Paraca\u00eddas",
-          "url": "https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
         "name": "A Pesar de la Tormenta",
         "url": "https://open.spotify.com/album/4CMImKp9OiSozGXqoN6EdW"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 175549,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/5fJf0XNVVyCXZDkkIhTkfI"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G"
+      },
+      "artists": [
+        {
+          "name": "Sophie Sobral & Factor Paraca\u00eddas",
+          "url": "https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
-      },
-      "artists": [
-        {
-          "name": "Goro Wins",
-          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Traffic (Groovin' de bondi)",
-      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
         "name": "Get Porn",
         "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 343362,
       "name": "Get Porn",
       "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
+      },
+      "artists": [
+        {
+          "name": "Goro Wins",
+          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Traffic (Groovin' de bondi)",
+      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1523,22 +1523,6 @@
       "duration_ms": 239387,
       "name": "7 Am",
       "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
-      },
-      "artists": [
-        {
-          "name": "Croupier Funk",
-          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1591,6 +1575,22 @@
       "duration_ms": 190373,
       "name": "Aire",
       "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
+      },
+      "artists": [
+        {
+          "name": "Croupier Funk",
+          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
+        }
+      ],
+      "duration_ms": 230250,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
     },
     {
       "added_at": "2024-01-12 16:14:58",

@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 3316676,
+  "2024-03-26": 3316872,
   "date_first_scraped": "2022-10-25",
   "description": "This is The Beatles. The essential tracks, all in one playlist.",
   "name": "This Is The Beatles",
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 139560,
       "name": "Help! - Remastered 2009",
       "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 173946,
       "name": "I Saw Her Standing There - Remastered 2009",
       "url": "https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 478 songs - 1 day 7 hr 12 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 481 songs - 1 day 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -486,5 +486,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 476 | [Metronomic Underground](https://open.spotify.com/track/0n9D5BLKdwCbSOLWZISiZN) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup](https://open.spotify.com/album/0haIl1ZqGy5akbazF8nxLs) | 7:54 |
 | 477 | [For Your Consideration](https://open.spotify.com/track/7cQ4rqHX5LBC8fDbxxwK6e) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 3:00 |
 | 478 | [Nonbinary](https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:19 |
+| 479 | [La rue](https://open.spotify.com/track/6lzDycd60SJ7H8y6wuESGl) | [Cortex](https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew) | [Troupeau bleu](https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB) | 4:27 |
+| 480 | [Dark Ear](https://open.spotify.com/track/4pzkDLgql51eVBPU0T0QMQ) | [Nevermen](https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq) | [Nevermen](https://open.spotify.com/album/6B2zFE8keFSYZkNlani62g) | 3:35 |
+| 481 | [Manhattan](https://open.spotify.com/track/0dYTYyBD0j1neoklCctt1s) | [Jerskin Fendrix](https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW) | [Winterreise](https://open.spotify.com/album/23tjIW6fzlYMWfc55QHSAs) | 7:26 |
 
-Snapshot ID: `MTQ1Nyw4ZTMzN2QzNTM5NGQ3OGQ2YTMzZThiOThjOGZmMDBlNjVjNDE3NGVk`
+Snapshot ID: `MTQ2MCxlNmIxM2JhYmJjZTMyNDVlNTA0ZTRjYWQwZDdkZmQ1MGI2NDkwYWQw`

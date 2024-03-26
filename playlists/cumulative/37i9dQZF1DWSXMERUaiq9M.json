@@ -3112,7 +3112,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 203684,
       "name": "No Type",
       "url": "https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU"
@@ -3134,6 +3134,28 @@
       "duration_ms": 191328,
       "name": "Nothing Is Easy",
       "url": "https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH"
+    },
+    {
+      "album": {
+        "name": "Ode To The Bouncer (Hard Techno Edit)",
+        "url": "https://open.spotify.com/album/3rU4QBfwX89HyLrfNk1wWF"
+      },
+      "artists": [
+        {
+          "name": "Remon Verhoeve",
+          "url": "https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T"
+        },
+        {
+          "name": "Studio Killers",
+          "url": "https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197298,
+      "name": "Ode To The Bouncer - Hard Techno Edit",
+      "url": "https://open.spotify.com/track/0x3c6okTJMGsYmTYtz8NDA"
     },
     {
       "album": {

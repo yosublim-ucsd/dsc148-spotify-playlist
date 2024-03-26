@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Glass Beams  Artwork: Elsy Wameyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,452 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,447 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 38 | [Void](https://open.spotify.com/track/1CzmFWbcszrwTsJesVo9QK) | [Marcus Whale](https://open.spotify.com/artist/5nLohk63L8J7ZMnmOt3z44) | [Ecstasy](https://open.spotify.com/album/7dAsE8cCm2lnSXtKt3bLRp) | 3:49 |
 | 39 | [GOING HOME](https://open.spotify.com/track/4acl5sNVeq3j8Khbe8DNrH) | [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P) | [GOING HOME](https://open.spotify.com/album/6JWVBMqHaTsqKvP5lwykIl) | 2:36 |
 | 40 | [Victor](https://open.spotify.com/track/65m5o6gZSyNdRnTeL4XAfV) | [ChillCheney](https://open.spotify.com/artist/6swN0KYBE4WO1wmad1Y9cz), [Leo Abisaab](https://open.spotify.com/artist/0XBJji2rWQzb6Qmor8TE2V) | [Victor](https://open.spotify.com/album/1KLCSQ5BRXIFVzfkmucepm) | 3:05 |
-| 41 | [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 |
+| 41 | [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 |
 | 42 | [Sin](https://open.spotify.com/track/7eIuWMQQPeb2lTr5abymA9) | [Takara](https://open.spotify.com/artist/0s4pACwkFS6Zo2zKs0YpYx) | [Sin](https://open.spotify.com/album/1eRTfeJrkM2VkaNb2gMvx7) | 3:20 |
 | 43 | [Way We Move](https://open.spotify.com/track/2ErfAQ6YUGZz30MSEt2sxe) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Way We Move](https://open.spotify.com/album/0esnJlYUVMGwyowszBnKQa) | 3:41 |
 | 44 | [THANK GOD! FOR ASTROLOGY!](https://open.spotify.com/track/3sNRUmiiZBa21zat5emMO9) | [Merryn Jeann](https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT) | [DOG BEACH](https://open.spotify.com/album/2QsAoMMPHazYtCObBvriN2) | 3:14 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 98 | [5 In The Morning](https://open.spotify.com/track/3FW2ZVOIDAKAH48EJRB5RH) | [Sailor Goon](https://open.spotify.com/artist/1FZj2HbeTP7F5xOqIrPKKZ), [POETIK](https://open.spotify.com/artist/32yy4XQE2Pnziuq7rc58EA), [BIGGs 685](https://open.spotify.com/artist/1iIdYSoOB5dhc90R9ENrjM) | [5 In The Morning](https://open.spotify.com/album/4Ef0syAM5UUL0NNvHZp0hL) | 3:27 |
 | 99 | [COOLAID](https://open.spotify.com/track/3gzU9BgGq1EUdtiqnsaJ9K) | [coolthekid](https://open.spotify.com/artist/72VGlD2XP1a2eGhsZx2VaE) | [COOLAID](https://open.spotify.com/album/25H8ho70NGeKXFYC0IYm1A) | 2:59 |
 
-Snapshot ID: `MCw1MTA5Y2Q2Y2M4ODZkMjNiNjAzM2JiNDg4OTA4OWJiZTZhYTliYWE2`
+Snapshot ID: `MCwwMjE5NmUzNmQzMjdlZDNiY2QwZTY3YzVjNGVhNmEzNzFkZDgwMTNk`

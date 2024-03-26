@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. \nCo-curada por Lali.",
-  "num_followers": 40298,
+  "num_followers": 40302,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDE2ZWYwYWFlNTE0ZTZkMGExYjYwM2Y2MjJlOTI2Yzc1MThkYzk3",
+  "snapshot_id": "MCxiMTE2ZTg0YTc2MTU3OGU0ZDk2ZDNjYzlmMDk2MDEwY2ViNDFhNDcy",
   "tracks": [
     {
       "added_at": "2024-03-11 16:56:02",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-03-11 16:56:02",
       "album": {
-        "name": "CULTURA FAM\u00c9LICA",
-        "url": "https://open.spotify.com/album/7z8JY0oZEWjeDI055rNyHo"
-      },
-      "artists": [
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        }
-      ],
-      "duration_ms": 128001,
-      "name": "RANDOM",
-      "url": "https://open.spotify.com/track/48PQSdzE98cMWsHGmjDgJs"
-    },
-    {
-      "added_at": "2024-03-11 16:56:02",
-      "album": {
         "name": "PURA",
         "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 111994,
       "name": "Breaking Bad",
       "url": "https://open.spotify.com/track/51lUwiop70vQfBtif5sFsW"
+    },
+    {
+      "added_at": "2024-03-11 16:56:02",
+      "album": {
+        "name": "CULTURA FAM\u00c9LICA",
+        "url": "https://open.spotify.com/album/7z8JY0oZEWjeDI055rNyHo"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "duration_ms": 128001,
+      "name": "RANDOM",
+      "url": "https://open.spotify.com/track/48PQSdzE98cMWsHGmjDgJs"
     },
     {
       "added_at": "2024-03-11 16:56:02",

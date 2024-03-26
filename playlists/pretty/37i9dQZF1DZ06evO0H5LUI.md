@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H5LUI.md) - [plain]
 
 > This is Leon Leiden\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,842 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,846 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H5LUI.md) - [plain]
 | 26 | [Limones](https://open.spotify.com/track/32jT4VCmaCugsi2DxaAcrI) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:56 |
 | 27 | [Pantyblue](https://open.spotify.com/track/7vK7uAw183CuwkcCeGqK5h) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [SUPER ESTRELLAS](https://open.spotify.com/album/09qxG7QLNUM8SHYXX878Xe) | 3:04 |
 | 28 | [FATALITY](https://open.spotify.com/track/6SPQL7Kz0hiXyWzaYIw3Ga) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:31 |
-| 29 | [Qué Más Da](https://open.spotify.com/track/14WCJzq5yQhdtDrcGm2WcZ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Qué Más Da](https://open.spotify.com/album/3GEkEU52GYJsCPXm4UFpUi) | 3:15 |
-| 30 | [Florecita Rockera](https://open.spotify.com/track/7i59viEVeGVJfyYS59V7oG) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Thalia's Mixtape](https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf) | 2:44 |
+| 29 | [Florecita Rockera](https://open.spotify.com/track/7i59viEVeGVJfyYS59V7oG) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Thalia's Mixtape](https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf) | 2:44 |
+| 30 | [Qué Más Da](https://open.spotify.com/track/14WCJzq5yQhdtDrcGm2WcZ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Qué Más Da](https://open.spotify.com/album/3GEkEU52GYJsCPXm4UFpUi) | 3:15 |
 | 31 | [Mala Vida](https://open.spotify.com/track/3QUsNIAM9lH8uLlDwI5tNN) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mala Vida](https://open.spotify.com/album/1WybN2EANyfkYsthhI5djM) | 2:50 |
 | 32 | [COMOSINADA](https://open.spotify.com/track/2v4RtwYOiTbvtQUueyU9Bz) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:50 |
 | 33 | [Alberca](https://open.spotify.com/track/73xHU7nyAIeaNxdzPlVmeR) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Alberca / ILY <3](https://open.spotify.com/album/56rLIEkSkRChif7JpHRVlj) | 2:04 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H5LUI.md) - [plain]
 | 35 | [Estamos Aquí](https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estamos Aquí](https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu) | 3:02 |
 | 36 | [NUTELLA](https://open.spotify.com/track/13BZfskMSABepXzgrp4ErP) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:32 |
 | 37 | [Manzana](https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Manzana](https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70) | 2:53 |
-| 38 | [Mereces Menos](https://open.spotify.com/track/6FbX0SETk8Pd70ZSXOWFEq) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mereces Menos](https://open.spotify.com/album/5mkSWQ0dQ0wRMk9QOV1dF1) | 3:00 |
-| 39 | [Que Lo Cura](https://open.spotify.com/track/36mtuYkGjzPaFlKFzDfnga) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Que Lo Cura](https://open.spotify.com/album/62bcFkIA81hnoWDo9nhYxQ) | 3:23 |
+| 38 | [Que Lo Cura](https://open.spotify.com/track/36mtuYkGjzPaFlKFzDfnga) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Que Lo Cura](https://open.spotify.com/album/62bcFkIA81hnoWDo9nhYxQ) | 3:23 |
+| 39 | [Mereces Menos](https://open.spotify.com/track/6FbX0SETk8Pd70ZSXOWFEq) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mereces Menos](https://open.spotify.com/album/5mkSWQ0dQ0wRMk9QOV1dF1) | 3:00 |
 | 40 | [ASMR](https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ASMR](https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En) | 3:01 |
 | 41 | [La Habanera](https://open.spotify.com/track/4t1wJfxOwUBsMpYVPnQhQm) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [El Morro Que Hace Música](https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3) | 2:32 |
 | 42 | [Niña de Mis Ojos](https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Niña de Mis Ojos](https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H5LUI.md) - [plain]
 | 49 | [Savana](https://open.spotify.com/track/1W7DaHbDQXBReaBCFylleA) | [Atl Garza](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Una Fresa](https://open.spotify.com/album/4wI5wYLCNe0HamNt0YAoZs) | 2:48 |
 | 50 | [Para Mi](https://open.spotify.com/track/51rJeK97OprHwFCGYxtgnX) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [El Morro Que Hace Música](https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3) | 2:37 |
 
-Snapshot ID: `Mjg1MjEzNzAsMDAwMDAwMDAwZjMxZGNiNGVmZjY2ZGFiMTY3MGE0MzdkYTVmNjRiYg==`
+Snapshot ID: `Mjg1MjI4ODgsMDAwMDAwMDBiODg4MGFhMGNjOGQxODE2MWYyOGU3NzMxMzlmNzFkYQ==`

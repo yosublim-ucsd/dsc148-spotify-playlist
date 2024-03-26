@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 60324,
+  "num_followers": 60349,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWExMjY0MzQ2ZWZjODRkYTRlYWRhMzAyM2ExMmIyZThlYTk4ZTY1",
+  "snapshot_id": "MCwxOTljMzU2YjA4MGRhYWQ1NTAyZjc0NjFlNDkxN2ZjMjM1MGE4MDU0",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Keep On Hoping",
-        "url": "https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "Keep On Hoping - Piano Choir Version",
-      "url": "https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 264604,
       "name": "We Have Overcome",
       "url": "https://open.spotify.com/track/5kw4tBzuZmZpmlzDHjAuAn"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Keep On Hoping",
+        "url": "https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "Keep On Hoping - Piano Choir Version",
+      "url": "https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "I Will Remember",
-        "url": "https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB"
-      },
-      "artists": [
-        {
-          "name": "KJ Scriven",
-          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
-        }
-      ],
-      "duration_ms": 351646,
-      "name": "I Will Remember",
-      "url": "https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Hymns for Eventide",
         "url": "https://open.spotify.com/album/77zIuv0Pxuvsn1QSPpAuRp"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 213370,
       "name": "Nearer My God to Thee - Eventide Mix",
       "url": "https://open.spotify.com/track/5dsnVbeWMJCp4T3HNYZwZa"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "I Will Remember",
+        "url": "https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB"
+      },
+      "artists": [
+        {
+          "name": "KJ Scriven",
+          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
+        }
+      ],
+      "duration_ms": 351646,
+      "name": "I Will Remember",
+      "url": "https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Echoes of Wonder",
+        "url": "https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/1Sd7Qaw9EwlePYzSTaofKY"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "At the Table",
         "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 217088,
       "name": "Just Come",
       "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Echoes of Wonder",
-        "url": "https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV"
-      },
-      "artists": [
-        {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/1Sd7Qaw9EwlePYzSTaofKY"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Contemporary Worship Hits",
-        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
-      },
-      "artists": [
-        {
-          "name": "Holy Communion Instrumental Duo",
-          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
-        }
-      ],
-      "duration_ms": 143453,
-      "name": "10,000 Reasons (Bless the Lord)",
-      "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "those lil god songs i posted on ig",
         "url": "https://open.spotify.com/album/0s9S70ptWvOQlECSs5ORT4"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 230284,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Contemporary Worship Hits",
+        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
+      },
+      "artists": [
+        {
+          "name": "Holy Communion Instrumental Duo",
+          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
+        }
+      ],
+      "duration_ms": 143453,
+      "name": "10,000 Reasons (Bless the Lord)",
+      "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Phone to Logos",
-        "url": "https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG"
-      },
-      "artists": [
-        {
-          "name": "Porya Hatami",
-          "url": "https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ"
-        }
-      ],
-      "duration_ms": 447355,
-      "name": "Pomegranates",
-      "url": "https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Psalm 68",
         "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 252000,
       "name": "Psalm 68",
       "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Phone to Logos",
+        "url": "https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG"
+      },
+      "artists": [
+        {
+          "name": "Porya Hatami",
+          "url": "https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ"
+        }
+      ],
+      "duration_ms": 447355,
+      "name": "Pomegranates",
+      "url": "https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "All the Bright Lights",
+        "url": "https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7"
+      },
+      "artists": [
+        {
+          "name": "All The Bright Lights",
+          "url": "https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj"
+        }
+      ],
+      "duration_ms": 330226,
+      "name": "Wilora Lake",
+      "url": "https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "The Worship Initiative, Vol. 28 (Live)",
         "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 391413,
       "name": "Abba - Live",
       "url": "https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "All the Bright Lights",
-        "url": "https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7"
-      },
-      "artists": [
-        {
-          "name": "All The Bright Lights",
-          "url": "https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj"
-        }
-      ],
-      "duration_ms": 330226,
-      "name": "Wilora Lake",
-      "url": "https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Fields",
-        "url": "https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s"
-      },
-      "artists": [
-        {
-          "name": "Carinthia",
-          "url": "https://open.spotify.com/artist/5EeqUStk4qDhsJk5RY2AQU"
-        }
-      ],
-      "duration_ms": 411933,
-      "name": "Every Mountain View",
-      "url": "https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 237466,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Fields",
+        "url": "https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s"
+      },
+      "artists": [
+        {
+          "name": "Carinthia",
+          "url": "https://open.spotify.com/artist/5EeqUStk4qDhsJk5RY2AQU"
+        }
+      ],
+      "duration_ms": 411933,
+      "name": "Every Mountain View",
+      "url": "https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh"
     },
     {
       "added_at": "2023-07-28 04:02:00",

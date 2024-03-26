@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: VivaOla
 
-1,443 songs - 3 day 17 hr 21 min
+1,444 songs - 3 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 3:42 | 2023-05-30 |  |
 | [BORDER](https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BORDER](https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9) | 2:55 | 2023-06-06 | 2023-09-06 |
 | [BOSSA TIME](https://open.spotify.com/track/006WrHfwZ3cgSthmExQDZu) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [BOSSA TIME](https://open.spotify.com/album/3QXgU2OMgl7zjFTgd0gi3b) | 3:26 | 2023-08-29 | 2023-09-28 |
-| [bottoⅧ](https://open.spotify.com/track/0CMxmQmnMhPGLUu0yW2Ooo) | [野口文](https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha) | [botto](https://open.spotify.com/album/49TkMwgkpHNDtVFTbZ8HQN) | 1:44 | 2023-09-19 |  |
+| [bottoⅧ](https://open.spotify.com/track/0CMxmQmnMhPGLUu0yW2Ooo) | [野口文](https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha) | [botto](https://open.spotify.com/album/49TkMwgkpHNDtVFTbZ8HQN) | 1:44 | 2023-09-19 | 2024-03-26 |
 | [Bow!Kiss!Begin!](https://open.spotify.com/track/2pBp8CZYnee9wwTIJhLmK0) | [NEST](https://open.spotify.com/artist/7cZUI7Ws3XStbuUFNEzpfm) | [The Market on One Intense Sunny Day](https://open.spotify.com/album/02GGoIF7iW3bLTi6f9G2qF) | 2:38 | 2023-09-05 | 2023-09-13 |
 | [Bow!Kiss!Begin!](https://open.spotify.com/track/4UY9IhvtTaiWRkg5DxLOSE) | [NEST](https://open.spotify.com/artist/7cZUI7Ws3XStbuUFNEzpfm) | [The Market on One Intense Sunny Day](https://open.spotify.com/album/34hn5rRDVjXTYOF1gookeX) | 2:38 | 2023-09-05 | 2023-09-07 |
 | [boyhood](https://open.spotify.com/track/1Yp1nZOzYx87rAIEcyGsie) | [suL](https://open.spotify.com/artist/73fjcRCtc5eAzmKahfvi16) | [boyhood](https://open.spotify.com/album/2Ijss7j9amt9eeupiOlhrt) | 3:25 | 2024-01-23 | 2024-01-31 |
@@ -1375,6 +1375,7 @@
 | [真夜中コインランドリー](https://open.spotify.com/track/1OOFL0B8a0t5Pnt8mn6t7d) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [ヘブン 2](https://open.spotify.com/album/3EcZ1KhltY8f2uK3o0tII4) | 3:16 | 2023-11-29 | 2023-11-30 |
 | [眠らないでよ feat\. 原田郁子](https://open.spotify.com/track/0zwJIjcKcpkWqIJj9DwBzZ) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [眠らないでよ feat\. 原田郁子](https://open.spotify.com/album/6kSvRLfGtkjgoQDGcseEOr) | 4:17 | 2023-04-04 | 2023-04-06 |
 | [眠り過ぎたお昼](https://open.spotify.com/track/08Br2Hpst0Ig7gNgQ7BnSW) | [エンヤコーラーズ](https://open.spotify.com/artist/2VmYWki0mkdmHAgbacjdZE) | [眠り過ぎたお昼](https://open.spotify.com/album/01PE7XC46VnXGb0TlCZlew) | 3:36 | 2023-08-15 | 2023-08-23 |
+| [眩しい、眩しすぎる](https://open.spotify.com/track/0GgTd7vT5PgAmLhNl49i9k) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:52 | 2024-03-19 |  |
 | [眩しい、眩しすぎる](https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [眩しい、眩しすぎる \- Single](https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW) | 3:54 | 2023-08-29 | 2024-03-23 |
 | [眩しい日々へ](https://open.spotify.com/track/2rGS41CsfRBGPoCtyqLWlK) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [眩しい日々へ](https://open.spotify.com/album/0J0UZyf07GTJVw4kJcKB1D) | 4:55 | 2023-12-19 | 2024-01-31 |
 | [瞬間の隙間](https://open.spotify.com/track/6UiXevFevbSL3LxOPFtd35) | [古宮夏希](https://open.spotify.com/artist/0GmicRpT8M7ucN6VvmHC9n) | [SAIL AWAY / 瞬間の隙間](https://open.spotify.com/album/7MyIE0nzxxNdRzVjtXysnb) | 2:38 | 2024-02-29 | 2024-03-13 |

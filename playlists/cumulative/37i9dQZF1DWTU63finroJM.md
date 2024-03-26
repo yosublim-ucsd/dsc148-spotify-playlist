@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Ege Can Sal.
 
-1,277 songs - 2 day 22 hr 28 min
+1,278 songs - 2 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [DANS LE WAY](https://open.spotify.com/track/3WDx6AjGrZyrOygj6RCoHf) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [VOUS ÊTES PAS CONTENTS ? TRIPLÉ !](https://open.spotify.com/album/1sXTto4AKCeNd8yKON0lHh) | 3:44 | 2022-03-24 | 2022-04-17 |
 | [Das Schönste](https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Das Schönste](https://open.spotify.com/album/0dfp3yQuCLIew36PHgcpI1) | 1:36 | 2023-02-17 | 2023-03-04 |
 | [Dat heb jij gedaan](https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ) | 3:31 | 2022-04-12 | 2022-04-18 |
-| [daughter](https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [daughter](https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE) | 3:23 | 2023-10-13 |  |
+| [daughter](https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [daughter](https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE) | 3:23 | 2023-10-13 | 2024-03-26 |
 | [De l'air](https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [De l'air](https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV) | 3:05 | 2022-03-24 | 2022-08-02 |
 | [De la Cueva a los Olivos](https://open.spotify.com/track/5HxlKgVbbQqSfoXYB72Gq3) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Pureza](https://open.spotify.com/album/3hTQf3Mj4ty2N69RCZ07D8) | 3:37 | 2023-02-08 | 2023-10-06 |
 | [dear abbey](https://open.spotify.com/track/6lB7gr1uRPWAV4UN6OgseI) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [dear abbey](https://open.spotify.com/album/3OVI7GQjwC5CsXpyjE1Hn9) | 3:54 | 2023-05-30 | 2023-09-16 |
@@ -1106,6 +1106,7 @@
 | [Wien](https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [MINI](https://open.spotify.com/album/7w1GycA2X3co1x2JLj1G6e) | 2:16 | 2023-03-03 | 2023-06-10 |
 | [Wil Je Dat Ik Blijf](https://open.spotify.com/track/1OHmMT2JfYPqKJs6NAq8PY) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Wil Je Dat Ik Blijf](https://open.spotify.com/album/7l16ZGPtMRoVMwAJPxFI1o) | 2:58 | 2024-01-19 |  |
 | [Will You Be My Love \~ 問問 \- WBL系列影集第一季<永遠的第一名>片頭曲](https://open.spotify.com/track/22AmTAbvl3IjUodDT3JInW) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 3:21 | 2022-02-03 | 2022-03-17 |
+| [Wind](https://open.spotify.com/track/1nUQzkNDpCd4eNi2md8pHC) | [Jawnino](https://open.spotify.com/artist/0nnECIkl6LBEbZdov3nTEj), [Cold](https://open.spotify.com/artist/19M16Pbk613BUHKwOEilfv) | [Wind](https://open.spotify.com/album/5hkOTZ6DIF7ywDsXSnkI6H) | 3:06 | 2024-03-22 |  |
 | [Winter Summer](https://open.spotify.com/track/5m38Gw5jWEsaWGLi6ogSmF) | [Jhn McFly](https://open.spotify.com/artist/7zznl279cpu0bbWfEjBq5c), [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Winter Summer](https://open.spotify.com/album/4Gf3zFl4xUzN11HbjzIwz2) | 2:12 | 2022-09-08 | 2022-11-26 |
 | [Wish](https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [You \(Are\) Mean a Lot to Me](https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq) | 4:31 | 2022-08-26 | 2023-05-31 |
 | [Wonder \(903艾爾絲懷疑仙境主題曲\)](https://open.spotify.com/track/6FlGnCo8PvCnIWfGoaLLn7) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [Wonder \(903艾爾絲懷疑仙境主題曲\)](https://open.spotify.com/album/35OO6oauvdOfXuby4YxcmB) | 1:49 | 2022-04-07 | 2022-08-02 |

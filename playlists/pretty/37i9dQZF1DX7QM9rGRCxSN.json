@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 30105,
+  "num_followers": 30113,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTczM2IxNjIzMzIzMjAzNjJjMmFkNmM0ZjU5NjA0ODE3NDgzZDRk",
+  "snapshot_id": "MCwwN2ZmNmQ2Y2NlNWE3Yzc0YjNjNGJiMDE1MmVhZTBhMTFiNWMyYmMy",
   "tracks": [
     {
       "added_at": "2024-02-02 05:19:16",
@@ -293,22 +293,6 @@
       "url": "https://open.spotify.com/track/03DwGjU8lK4wiDdgSett0i"
     },
     {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "tdbn",
-      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
-    },
-    {
       "added_at": "2023-11-24 06:00:00",
       "album": {
         "name": "Rizoma",
@@ -327,6 +311,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "tdbn",
+      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Unidad De Desplazamiento",
         "url": "https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz"
       },
@@ -339,22 +339,6 @@
       "duration_ms": 279800,
       "name": "Santos Que Yo Te Pinte",
       "url": "https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Sintetica",
-        "url": "https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe"
-      },
-      "artists": [
-        {
-          "name": "Nudozurdo",
-          "url": "https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0"
-        }
-      ],
-      "duration_ms": 273493,
-      "name": "Mil Espejos",
-      "url": "https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -391,6 +375,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "Sintetica",
+        "url": "https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe"
+      },
+      "artists": [
+        {
+          "name": "Nudozurdo",
+          "url": "https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0"
+        }
+      ],
+      "duration_ms": 273493,
+      "name": "Mil Espejos",
+      "url": "https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Lejos de M\u00ed",
         "url": "https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk"
       },
@@ -403,22 +403,6 @@
       "duration_ms": 196630,
       "name": "Lejos de M\u00ed",
       "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "vampiro",
-        "url": "https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4"
-      },
-      "artists": [
-        {
-          "name": "Kiddie Gang",
-          "url": "https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg"
-        }
-      ],
-      "duration_ms": 178275,
-      "name": "vampiro",
-      "url": "https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -439,6 +423,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "vampiro",
+        "url": "https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4"
+      },
+      "artists": [
+        {
+          "name": "Kiddie Gang",
+          "url": "https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg"
+        }
+      ],
+      "duration_ms": 178275,
+      "name": "vampiro",
+      "url": "https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Especial",
         "url": "https://open.spotify.com/album/5KeUNMEECvCWzmtJSmXprZ"
       },
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Gemelos C\u00f3ctel",
-      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Super 8",
         "url": "https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 550600,
       "name": "La Caja Del Diablo",
       "url": "https://open.spotify.com/track/3WTgg65LmPNVXN3eyVdX8P"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Gemelos C\u00f3ctel",
+      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Cielos Desconocidos",
-        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 328040,
-      "name": "Hasta Que el Tiempo No Nos Separe",
-      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 255860,
       "name": "Los D\u00edas Que No Est\u00e1s",
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Cielos Desconocidos",
+        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
+      },
+      "artists": [
+        {
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+        }
+      ],
+      "duration_ms": 328040,
+      "name": "Hasta Que el Tiempo No Nos Separe",
+      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Ghost In The Machine",
         "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 298122,
       "name": "What\u2019s holding you?",
       "url": "https://open.spotify.com/track/2dv9U9fWdxk7wKLi2gPpSW"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "La Carretera",
-        "url": "https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 251595,
-      "name": "La Carretera",
-      "url": "https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Como Rei Ayanami",
         "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 177354,
       "name": "Como Rei Ayanami",
       "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "La Carretera",
+        "url": "https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko"
+      },
+      "artists": [
+        {
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+        }
+      ],
+      "duration_ms": 251595,
+      "name": "La Carretera",
+      "url": "https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww"
     }
   ],
   "unique_name": "Shoegaze & Dreampop en espa\u00f1ol",

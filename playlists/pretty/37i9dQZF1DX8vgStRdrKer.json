@@ -1,12 +1,12 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/4HHLYB6bM6IuVvr2uOKj3P?si=dZwcyL4NTwS3bnIqUWGHOA\">Delight Munachy</a>",
-  "num_followers": 7863,
+  "num_followers": 7893,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGM4MjEzZWE5N2MzY2JmODE4NTk4ZDU2NTU0ZWNhMDNhNDgxOTUy",
+  "snapshot_id": "MCwwYWI5OGEyMjBiZDQ1NmFlZDVmNDUxMTJjMjJhZjFhMDk4ZGI5NjZl",
   "tracks": [
     {
       "added_at": "2024-02-02 00:01:00",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/4DubS31RXrubsxE486uBPi"
     },
     {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Pain To Praise",
-        "url": "https://open.spotify.com/album/7A5B9Z5YL8mhRxglK0rljH"
-      },
-      "artists": [
-        {
-          "name": "Nsikan Louis",
-          "url": "https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Pain To Praise",
-      "url": "https://open.spotify.com/track/2W1o9Q1zRVlPz1GYzGLXKM"
-    },
-    {
       "added_at": "2024-03-08 00:01:00",
       "album": {
         "name": "I Testify (Live)",
@@ -449,20 +433,20 @@
       "url": "https://open.spotify.com/track/2hXrCdY4qSLeYLIgIhm5LI"
     },
     {
-      "added_at": "2024-02-23 00:01:00",
+      "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Na God I Dey Praise (Craze)",
-        "url": "https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz"
+        "name": "Pain To Praise",
+        "url": "https://open.spotify.com/album/7A5B9Z5YL8mhRxglK0rljH"
       },
       "artists": [
         {
-          "name": "Chioma Jesus",
-          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+          "name": "Nsikan Louis",
+          "url": "https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B"
         }
       ],
-      "duration_ms": 218644,
-      "name": "Na God I Dey Praise (Craze)",
-      "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
+      "duration_ms": 225000,
+      "name": "Pain To Praise",
+      "url": "https://open.spotify.com/track/2W1o9Q1zRVlPz1GYzGLXKM"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -501,20 +485,36 @@
       "url": "https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC"
     },
     {
-      "added_at": "2024-03-08 00:01:00",
+      "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
+        "name": "Na God I Dey Praise (Craze)",
+        "url": "https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz"
       },
       "artists": [
         {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
         }
       ],
-      "duration_ms": 168777,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
+      "duration_ms": 218644,
+      "name": "Na God I Dey Praise (Craze)",
+      "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "duration_ms": 177255,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -537,60 +537,36 @@
       "url": "https://open.spotify.com/track/2uHY9QxXldmXdbhvvEOf6J"
     },
     {
-      "added_at": "2024-03-15 00:01:00",
+      "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp"
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
       },
       "artists": [
         {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
         }
       ],
-      "duration_ms": 177255,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
+      "duration_ms": 168777,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
     },
     {
-      "added_at": "2024-03-01 00:01:00",
+      "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "The Gift, Vol. 1",
-        "url": "https://open.spotify.com/album/2YCDh7g2M3KWcDZUKKRUH1"
+        "name": "Ngiyamazi Umhlengi Wam (Live At Cedarwoods of Sandton, 2023)",
+        "url": "https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG"
       },
       "artists": [
         {
-          "name": "Brenden Praise",
-          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
-        },
-        {
-          "name": "Free 2 Wrshp",
-          "url": "https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt"
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
         }
       ],
-      "duration_ms": 186239,
-      "name": "Mercy (Hlabelela)",
-      "url": "https://open.spotify.com/track/03ex4OAmmBM2ci5W0q2kHm"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Blessed Year",
-        "url": "https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Vin Mokay",
-          "url": "https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz"
-        }
-      ],
-      "duration_ms": 184337,
-      "name": "Blessed Year",
-      "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
+      "duration_ms": 239506,
+      "name": "Ngiyamazi Umhlengi Wami - Live At Cedarwoods of Sandton, 2023",
+      "url": "https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -617,6 +593,26 @@
       "url": "https://open.spotify.com/track/2J8OaxMbjG25WPenQNWv5s"
     },
     {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "The Gift, Vol. 1",
+        "url": "https://open.spotify.com/album/2YCDh7g2M3KWcDZUKKRUH1"
+      },
+      "artists": [
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        },
+        {
+          "name": "Free 2 Wrshp",
+          "url": "https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt"
+        }
+      ],
+      "duration_ms": 186239,
+      "name": "Mercy (Hlabelela)",
+      "url": "https://open.spotify.com/track/03ex4OAmmBM2ci5W0q2kHm"
+    },
+    {
       "added_at": "2024-03-08 00:01:00",
       "album": {
         "name": "Alagbara",
@@ -633,20 +629,24 @@
       "url": "https://open.spotify.com/track/1GWjrdfcIbN4l1AJHwwTAR"
     },
     {
-      "added_at": "2024-02-23 00:01:00",
+      "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Ngiyamazi Umhlengi Wam (Live At Cedarwoods of Sandton, 2023)",
-        "url": "https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG"
+        "name": "Blessed Year",
+        "url": "https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW"
       },
       "artists": [
         {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Vin Mokay",
+          "url": "https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz"
         }
       ],
-      "duration_ms": 239506,
-      "name": "Ngiyamazi Umhlengi Wami - Live At Cedarwoods of Sandton, 2023",
-      "url": "https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG"
+      "duration_ms": 184337,
+      "name": "Blessed Year",
+      "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -663,42 +663,6 @@
       "duration_ms": 268830,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Unconditional Love (feat. Niiella)",
-        "url": "https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Niiella",
-          "url": "https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou"
-        }
-      ],
-      "duration_ms": 226017,
-      "name": "Unconditional Love (feat. Niiella)",
-      "url": "https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL"
-    },
-    {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
-        "name": "Jesus To The City, Vol. 2 (Live)",
-        "url": "https://open.spotify.com/album/23pioDsK0GY8oM0lRTaFuU"
-      },
-      "artists": [
-        {
-          "name": "Mmuso Worship",
-          "url": "https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "Jeso O Ntekane (Reprise) - Live",
-      "url": "https://open.spotify.com/track/2snbZ33cTV6xQ5c42d6LST"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -725,6 +689,42 @@
       "url": "https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I"
     },
     {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Jesus To The City, Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/23pioDsK0GY8oM0lRTaFuU"
+      },
+      "artists": [
+        {
+          "name": "Mmuso Worship",
+          "url": "https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "Jeso O Ntekane (Reprise) - Live",
+      "url": "https://open.spotify.com/track/2snbZ33cTV6xQ5c42d6LST"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Unconditional Love (feat. Niiella)",
+        "url": "https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Niiella",
+          "url": "https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou"
+        }
+      ],
+      "duration_ms": 226017,
+      "name": "Unconditional Love (feat. Niiella)",
+      "url": "https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL"
+    },
+    {
       "added_at": "2024-01-12 00:01:00",
       "album": {
         "name": "The Ground We Stand On",
@@ -739,22 +739,6 @@
       "duration_ms": 253558,
       "name": "Holy (Most High)",
       "url": "https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Mess into a Message",
-        "url": "https://open.spotify.com/album/1adkr7tTpDZWRAmDHoQhLz"
-      },
-      "artists": [
-        {
-          "name": "Chidiya Ohiagu",
-          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
-        }
-      ],
-      "duration_ms": 197101,
-      "name": "Mess into a Message",
-      "url": "https://open.spotify.com/track/76aJBXDHpUhWS3xOeqKlSw"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -775,6 +759,22 @@
       "duration_ms": 146820,
       "name": "Eagles",
       "url": "https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Mess into a Message",
+        "url": "https://open.spotify.com/album/1adkr7tTpDZWRAmDHoQhLz"
+      },
+      "artists": [
+        {
+          "name": "Chidiya Ohiagu",
+          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
+        }
+      ],
+      "duration_ms": 197101,
+      "name": "Mess into a Message",
+      "url": "https://open.spotify.com/track/76aJBXDHpUhWS3xOeqKlSw"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ"
     },
     {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx"
-      },
-      "artists": [
-        {
-          "name": "Emahoy Tsege Mariam Gebru",
-          "url": "https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9"
-        }
-      ],
-      "duration_ms": 243321,
-      "name": "Tenkou! Why Feel Sorry?",
-      "url": "https://open.spotify.com/track/1CpY1MgTJFWzXVpXU19L89"
-    },
-    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "BBTNTL",
@@ -847,6 +831,22 @@
       "duration_ms": 169621,
       "name": "BBTNTL",
       "url": "https://open.spotify.com/track/2oJktKr5udS1gtY8egIBPx"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx"
+      },
+      "artists": [
+        {
+          "name": "Emahoy Tsege Mariam Gebru",
+          "url": "https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9"
+        }
+      ],
+      "duration_ms": 243321,
+      "name": "Tenkou! Why Feel Sorry?",
+      "url": "https://open.spotify.com/track/1CpY1MgTJFWzXVpXU19L89"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -921,6 +921,22 @@
       "url": "https://open.spotify.com/track/4edGYsHaOG3PjJpyrbFdKz"
     },
     {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "iZono Zami",
+        "url": "https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b"
+      },
+      "artists": [
+        {
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+        }
+      ],
+      "duration_ms": 319334,
+      "name": "iZono Zami",
+      "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
+    },
+    {
       "added_at": "2024-03-01 00:01:00",
       "album": {
         "name": "Overwhelming Victory",
@@ -935,22 +951,6 @@
       "duration_ms": 281227,
       "name": "My Future and Hope",
       "url": "https://open.spotify.com/track/2yYmdb2fPecJFrS9erTpvb"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "The Ground We Stand On",
-        "url": "https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr"
-      },
-      "artists": [
-        {
-          "name": "Mahalia Buchanan",
-          "url": "https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC"
-        }
-      ],
-      "duration_ms": 512893,
-      "name": "The Ground We Stand On",
-      "url": "https://open.spotify.com/track/1iSVjVNGUwNDT8mFfqBMr5"
     }
   ],
   "unique_name": "Redeemed",

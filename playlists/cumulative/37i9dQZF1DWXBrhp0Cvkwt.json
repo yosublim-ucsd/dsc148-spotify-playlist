@@ -1727,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "I Can't Handle Change",
+        "url": "https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX"
+      },
+      "artists": [
+        {
+          "name": "Roar",
+          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198213,
+      "name": "I Can't Handle Change",
+      "url": "https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9"
+    },
+    {
+      "album": {
         "name": "I Don't Love You Anymore",
         "url": "https://open.spotify.com/album/62k92kGO3npVzJ7g3FC1WY"
       },
@@ -3530,7 +3548,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 196986,
       "name": "Waiting For Never",
       "url": "https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx"

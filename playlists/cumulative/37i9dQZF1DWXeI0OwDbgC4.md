@@ -4,7 +4,7 @@
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-105 songs - 5 hr 55 min
+106 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [already gone](https://open.spotify.com/track/5s1mXKAscJsC5aizCMbwKC) | [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [already gone](https://open.spotify.com/album/7KH9YyGGUqn3geIoty1rLz) | 3:31 | 2023-01-31 |  |
 | [Be Nice](https://open.spotify.com/track/5Dky4RsXGTWbNhaJ3Povd4) | [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Be Nice](https://open.spotify.com/album/0LmA15MGeELnk6x4MTc353) | 2:55 | 2024-02-03 |  |
 | [Beautifully Broken](https://open.spotify.com/track/2j5iN3PBDJrboveBmEEwfg) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Beautifully Broken](https://open.spotify.com/album/4TisM8f1MV8XSE7U5iQ69I) | 3:23 | 2023-01-31 |  |
+| [BEST SHE'S EVER SEEN](https://open.spotify.com/track/6cWGUbR0kYBp1AvPNo64zV) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2), [Jude Barclay](https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW) | [BEST SHE'S EVER SEEN](https://open.spotify.com/album/5MTo08dl10Bl3cDCqNwnTI) | 3:15 | 2024-02-03 |  |
 | [BEST SHE'S EVER SEEN](https://open.spotify.com/track/699L9uIlm2O2MKJbF88jBB) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2), [Jude Barclay](https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW) | [BEST SHE'S EVER SEEN](https://open.spotify.com/album/1TCORtUkYIGDV6HTeP3DSJ) | 3:15 | 2024-02-03 | 2024-03-24 |
 | [Boring People](https://open.spotify.com/track/34n2HfHMrHlN8wRJTPTWCc) | [sunnytheduo](https://open.spotify.com/artist/22PL7GHGfcMNB75oLBkFR2) | [Boring People](https://open.spotify.com/album/2n2RVSI0VghVBvPzdyw9iN) | 3:10 | 2024-02-03 |  |
 | [BOY](https://open.spotify.com/track/7iGrKpj5zy19UO9df2Jeg2) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [BOY](https://open.spotify.com/album/3PNldCPGN8Bbds6vaJUYLJ) | 3:02 | 2024-02-03 |  |
@@ -107,7 +108,7 @@
 | [Walk Away](https://open.spotify.com/track/1OUXLM84JFCDmliq4YGefC) | [Erica Mason](https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Lite Pole](https://open.spotify.com/artist/4VcphREP0VLTCdji1JEUHl) | [Walk Away](https://open.spotify.com/album/1HRBLYxSqYQGK2Z0LJOSXD) | 3:02 | 2023-01-31 |  |
 | [What Faith Can Do](https://open.spotify.com/track/58nLgrkgVsVA4w5dWsFgR2) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [It Is Well \(Expanded Edition\)](https://open.spotify.com/album/23nxQxj7M00ktsNdLE2e1D) | 3:53 | 2023-01-31 |  |
 | [Who You?](https://open.spotify.com/track/767ZVjUmigWt8JUmG39x6W) | [Lil Goat](https://open.spotify.com/artist/40zuFXVJaYmGFpEXojbUiV) | [Who You?](https://open.spotify.com/album/0uChoKiStNm7HLTvt6Bvtd) | 2:21 | 2023-01-31 |  |
-| [Why](https://open.spotify.com/track/2BEk1FVrYVPicOo4rLzpfm) | [IsaiahLaRoi](https://open.spotify.com/artist/3o50w5mSnTFy6gmqGEu2Yv) | [Why](https://open.spotify.com/album/0aTMGqRZ9jajpwbWDOplqz) | 2:59 | 2024-02-03 |  |
+| [Why](https://open.spotify.com/track/2BEk1FVrYVPicOo4rLzpfm) | [IsaiahLaRoi](https://open.spotify.com/artist/3o50w5mSnTFy6gmqGEu2Yv) | [Why](https://open.spotify.com/album/0aTMGqRZ9jajpwbWDOplqz) | 2:59 | 2024-02-03 | 2024-03-26 |
 | [Why Am I Not Yours](https://open.spotify.com/track/3E5F6g4wXD7D8tkyZa6mnt) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [an Anecdote of Love and All that Lies Within](https://open.spotify.com/album/5UjR03cOSRrwzj2abbu0DM) | 3:44 | 2023-01-31 |  |
 | [With You Through It All](https://open.spotify.com/track/5qFEcVgJ8hxgSYkYDYZrnh) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [With You Through It All](https://open.spotify.com/album/1JZmkqZ73hsY63GKjeBH0g) | 3:48 | 2024-02-03 |  |
 | [wrong guy](https://open.spotify.com/track/4etUdOH5dWmMRFXWXAKVf6) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn) | [wrong guy](https://open.spotify.com/album/7wB4wYIzp3WG8ofLQjObSK) | 1:52 | 2024-02-03 |  |

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: DSP
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,903 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,904 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SAINTS.](https://open.spotify.com/track/5KINxCiI2Uqy4gWAyjGOyb) | [Trip](https://open.spotify.com/artist/0hbVJum7eC65vjCpq5qw8j), [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [SAINTS.](https://open.spotify.com/album/1wJNIJtUnKeuKGpFbhJT1o) | 3:21 |
-| 2 | [Next Up Australia \- S1\-E11](https://open.spotify.com/track/3n1Im8So7I41RGnj2g7UHA) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up Australia \- S1\-E11](https://open.spotify.com/album/1ppk8v1IHfi3CZg3ZDPTWn) | 2:50 |
-| 3 | [CHAMPIONSH\*T](https://open.spotify.com/track/66Po89QR7n52bkS1l5y0qc) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg) | [CHAMPIONSH\*T](https://open.spotify.com/album/5G9MfsgH8AEmBHCXtxXiK1) | 3:34 |
-| 4 | [Midnight Flex](https://open.spotify.com/track/4fqtief1hnDKzEGg57HcG6) | [DHEM](https://open.spotify.com/artist/7IBJMFXUXm17K33eaYxxnK), [TBG](https://open.spotify.com/artist/2ms7zUvy3rQyctemMkWrdZ), [Benny the Greek](https://open.spotify.com/artist/4pxPebMzRgjtE7jYT9C1Xr) | [Midnight Flex](https://open.spotify.com/album/6lKH1EcnQiGje529wOJOs3) | 3:13 |
-| 5 | [Drills](https://open.spotify.com/track/0wFPH5ExVGll8hvpFvaau5) | [21 District](https://open.spotify.com/artist/3IEOQjCTM1WHX7NopGRW7R) | [Drills](https://open.spotify.com/album/3PlQQujK43v3a5kgqwVMcz) | 3:38 |
-| 6 | [G SLIDE](https://open.spotify.com/track/4dLNJOoQiAmIHdqo0z7Vrj) | [Lukan Raisey](https://open.spotify.com/artist/0bwxbNKufvEMi1wcb5dkMR), [NES](https://open.spotify.com/artist/22WlrYL0HlsvlWjdTaBlwx) | [G SLIDE](https://open.spotify.com/album/76ziLrPkBassRJzG9UM9kL) | 2:29 |
-| 7 | [Get This Money](https://open.spotify.com/track/5sIrMZ6w6IFPz8a1mwVwbT) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Get This Money](https://open.spotify.com/album/48V3QRGOHau4uNtltrdYl3) | 2:34 |
+| 1 | [Midnight Flex](https://open.spotify.com/track/4fqtief1hnDKzEGg57HcG6) | [DHEM](https://open.spotify.com/artist/7IBJMFXUXm17K33eaYxxnK), [TBG](https://open.spotify.com/artist/2ms7zUvy3rQyctemMkWrdZ), [Benny the Greek](https://open.spotify.com/artist/4pxPebMzRgjtE7jYT9C1Xr) | [Midnight Flex](https://open.spotify.com/album/6lKH1EcnQiGje529wOJOs3) | 3:13 |
+| 2 | [CHAMPIONSH\*T](https://open.spotify.com/track/66Po89QR7n52bkS1l5y0qc) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg) | [CHAMPIONSH\*T](https://open.spotify.com/album/5G9MfsgH8AEmBHCXtxXiK1) | 3:34 |
+| 3 | [Next Up Australia \- S1\-E11](https://open.spotify.com/track/3n1Im8So7I41RGnj2g7UHA) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up Australia \- S1\-E11](https://open.spotify.com/album/1ppk8v1IHfi3CZg3ZDPTWn) | 2:50 |
+| 4 | [Drills](https://open.spotify.com/track/0wFPH5ExVGll8hvpFvaau5) | [21 District](https://open.spotify.com/artist/3IEOQjCTM1WHX7NopGRW7R) | [Drills](https://open.spotify.com/album/3PlQQujK43v3a5kgqwVMcz) | 3:38 |
+| 5 | [Get This Money](https://open.spotify.com/track/5sIrMZ6w6IFPz8a1mwVwbT) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Get This Money](https://open.spotify.com/album/48V3QRGOHau4uNtltrdYl3) | 2:34 |
+| 6 | [SAINTS.](https://open.spotify.com/track/5KINxCiI2Uqy4gWAyjGOyb) | [Trip](https://open.spotify.com/artist/0hbVJum7eC65vjCpq5qw8j), [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [SAINTS.](https://open.spotify.com/album/1wJNIJtUnKeuKGpFbhJT1o) | 3:21 |
+| 7 | [G SLIDE](https://open.spotify.com/track/4dLNJOoQiAmIHdqo0z7Vrj) | [Lukan Raisey](https://open.spotify.com/artist/0bwxbNKufvEMi1wcb5dkMR), [NES](https://open.spotify.com/artist/22WlrYL0HlsvlWjdTaBlwx) | [G SLIDE](https://open.spotify.com/album/76ziLrPkBassRJzG9UM9kL) | 2:29 |
 | 8 | [Como Eso \(Like That\)](https://open.spotify.com/track/0C2XzsKMLpeBqfKmt7K4Iu) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb), [King Roman](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [Como Eso \(Like That\)](https://open.spotify.com/album/2FRM0bSqwaYOyidMlDSZ9a) | 2:51 |
 | 9 | [Season](https://open.spotify.com/track/5uR3k8Gcg4NIUHIp07z9La) | [Miko Mal](https://open.spotify.com/artist/1Eb4Yx0nxEYO46IwWAqLM7) | [Season](https://open.spotify.com/album/7G8ltSBmt7bv8oKH8lbl8o) | 2:53 |
 | 10 | [Back to Back](https://open.spotify.com/track/1IdyeqRZL64acaATS8sK2m) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [Back to Back](https://open.spotify.com/album/5a53nDA0g6X0w2jV8xsNh0) | 2:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 79 | [Do Sum'n](https://open.spotify.com/track/4TBlHSM8c4eu8sCqVEnQrC) | [Tokyo Vendetta](https://open.spotify.com/artist/0qYhGiA7BARkaoJbklqLG7) | [Do Sum'n](https://open.spotify.com/album/1OEYOF7Snu4j7lXxmShqLe) | 3:19 |
 | 80 | [Meet Me at the Bottom \(ft\. Open Till L8\)](https://open.spotify.com/track/0jco6ujuz4TmpWZXdvT54R) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc), [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Meet Me at the Bottom \(ft\. Open Till L8\)](https://open.spotify.com/album/6MOb4PzNkF7yOOGAB2HqaB) | 2:40 |
 
-Snapshot ID: `MCw1MjJiNmY4Y2RjNzRkMDU2YTRhOTQ3NjE2MWEwNmNhNjkzOTFiZjA3`
+Snapshot ID: `MCxmZDE5M2FmZTAxMjNkOTU2NzVjYmNmNjJlNWIyYzRiZjFhZDNiNTJm`

@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: Galdive. Artwork by Isu Kim.",
-  "num_followers": 1188862,
+  "num_followers": 1188951,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDgwYjA0OTdjNGFkMGMxNzQwNWY2MTMxNWIzZTJhNDllMjdlZTJk",
+  "snapshot_id": "MCxlODk2ODU2N2ZkOGZjNTBlYWNiMGRkYjQyNzRiNThlMjIyZTJjNmVl",
   "tracks": [
     {
       "added_at": "2024-03-13 14:30:25",
@@ -55,6 +55,22 @@
       "duration_ms": 222270,
       "name": "Move On",
       "url": "https://open.spotify.com/track/6vTzONIAVZMzG9UGAtv7Xv"
+    },
+    {
+      "added_at": "2024-03-20 14:38:22",
+      "album": {
+        "name": "Y SI SOMOS NOVIOS???",
+        "url": "https://open.spotify.com/album/5qKUVvVIRgD3CBa2L0x0Go"
+      },
+      "artists": [
+        {
+          "name": "PARDOPARDO",
+          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
+        }
+      ],
+      "duration_ms": 153117,
+      "name": "Y SI SOMOS NOVIOS???",
+      "url": "https://open.spotify.com/track/3IGNEoTp4uV1HtcvdfxrSL"
     },
     {
       "added_at": "2024-03-20 14:38:22",
@@ -109,38 +125,6 @@
       "url": "https://open.spotify.com/track/3JdQ3LToili2ajempvrwCD"
     },
     {
-      "added_at": "2024-03-20 14:38:22",
-      "album": {
-        "name": "Y SI SOMOS NOVIOS???",
-        "url": "https://open.spotify.com/album/5qKUVvVIRgD3CBa2L0x0Go"
-      },
-      "artists": [
-        {
-          "name": "PARDOPARDO",
-          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
-        }
-      ],
-      "duration_ms": 153117,
-      "name": "Y SI SOMOS NOVIOS???",
-      "url": "https://open.spotify.com/track/3IGNEoTp4uV1HtcvdfxrSL"
-    },
-    {
-      "added_at": "2024-03-20 14:38:22",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/74aipGQuzmhuy3hRFYvmOJ"
-      },
-      "artists": [
-        {
-          "name": "Bagetti",
-          "url": "https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/3WXWwVIU7e9MElcPwVdPgE"
-    },
-    {
       "added_at": "2024-03-13 14:30:25",
       "album": {
         "name": "Qu\u00e9 M\u00e1s Da",
@@ -187,6 +171,22 @@
       "duration_ms": 219808,
       "name": "First To Try",
       "url": "https://open.spotify.com/track/5yrxE9LDTrrM8mGTgurAis"
+    },
+    {
+      "added_at": "2024-03-20 14:38:22",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/74aipGQuzmhuy3hRFYvmOJ"
+      },
+      "artists": [
+        {
+          "name": "Bagetti",
+          "url": "https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/3WXWwVIU7e9MElcPwVdPgE"
     },
     {
       "added_at": "2024-03-06 15:59:43",
@@ -269,34 +269,6 @@
       "url": "https://open.spotify.com/track/7admpnx6uCD1rkkcxlJEJH"
     },
     {
-      "added_at": "2024-03-20 14:38:22",
-      "album": {
-        "name": "Kenny World Deluxe",
-        "url": "https://open.spotify.com/album/186G03iM52cPFJdKvgDjRd"
-      },
-      "artists": [
-        {
-          "name": "Rot Ken",
-          "url": "https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5"
-        },
-        {
-          "name": "Tony Shhnow",
-          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
-        },
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        },
-        {
-          "name": "oksurf",
-          "url": "https://open.spotify.com/artist/7p6kSroBqiTLRWSd1yBpun"
-        }
-      ],
-      "duration_ms": 181391,
-      "name": "Last Time Speaking",
-      "url": "https://open.spotify.com/track/3qhnypWslWY0hWbXiEi1eW"
-    },
-    {
       "added_at": "2024-03-13 14:30:25",
       "album": {
         "name": "Something (Practically) / Tape My Mouth",
@@ -311,6 +283,22 @@
       "duration_ms": 286857,
       "name": "Something (Practically)",
       "url": "https://open.spotify.com/track/23uwpMxRrhQiLPzMkuOfBq"
+    },
+    {
+      "added_at": "2024-03-13 14:30:25",
+      "album": {
+        "name": "Rester",
+        "url": "https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 297530,
+      "name": "Rester",
+      "url": "https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos"
     },
     {
       "added_at": "2024-03-20 14:38:22",
@@ -427,6 +415,34 @@
     {
       "added_at": "2024-03-20 14:38:22",
       "album": {
+        "name": "Kenny World Deluxe",
+        "url": "https://open.spotify.com/album/186G03iM52cPFJdKvgDjRd"
+      },
+      "artists": [
+        {
+          "name": "Rot Ken",
+          "url": "https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5"
+        },
+        {
+          "name": "Tony Shhnow",
+          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        },
+        {
+          "name": "oksurf",
+          "url": "https://open.spotify.com/artist/7p6kSroBqiTLRWSd1yBpun"
+        }
+      ],
+      "duration_ms": 181391,
+      "name": "Last Time Speaking",
+      "url": "https://open.spotify.com/track/3qhnypWslWY0hWbXiEi1eW"
+    },
+    {
+      "added_at": "2024-03-20 14:38:22",
+      "album": {
         "name": "Zodiac 13",
         "url": "https://open.spotify.com/album/5pnrPb0afNwHXXG78XeHWQ"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 170997,
       "name": "teh guitar beat",
       "url": "https://open.spotify.com/track/0V0QaCbNq1NkO6dSeo0lFa"
-    },
-    {
-      "added_at": "2024-03-13 14:30:25",
-      "album": {
-        "name": "Rester",
-        "url": "https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 297530,
-      "name": "Rester",
-      "url": "https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos"
     },
     {
       "added_at": "2024-03-20 14:51:07",

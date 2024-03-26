@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-419 songs - 1 day 6 hr 53 min
+420 songs - 1 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Et si je t’aime](https://open.spotify.com/track/5iPebTaUmx7x5KwwamTNh5) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [Late Night Tales: Belle and Sebastian, Vol\. 2](https://open.spotify.com/album/4Is3XZYpVDmda45V81MO5b) | 2:06 | 2023-07-10 |  |
 | [Et ta mère](https://open.spotify.com/track/2HEr6PARUW822o9VLx25mg) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD) | [Prison Dorée \(Nouvelle Edition\)](https://open.spotify.com/album/0O5XAR0ds6FBbRTtG36mlL) | 2:49 | 2023-07-10 |  |
 | [Ethanopium](https://open.spotify.com/track/37bD7wEkP1171bmlacMb0i) | [Dengue Fever](https://open.spotify.com/artist/3wFHDAXLsjvclEtifEV7F5) | [Dengue Fever \(Deluxe Version\)](https://open.spotify.com/album/3u2DHmi3LIIvbxZ6ij54Hl) | 4:36 | 2023-07-10 |  |
+| [Ethiopian Sunshower](https://open.spotify.com/track/63latgxl7SzKQiTPFIC5MS) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Brian Jackson JID008](https://open.spotify.com/album/7dObAQ0LpLXqNXiVcON7yd) | 3:07 | 2024-03-08 |  |
 | [Ethiopian Sunshower](https://open.spotify.com/track/75CX3f4OzPcS1qpKbX2OoV) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Brian Jackson JID008](https://open.spotify.com/album/2dwDeg0FDSN2Q1xv0dbv84) | 3:07 | 2023-07-10 | 2024-02-28 |
 | [Ever So Lonely / Eyes / Ocean](https://open.spotify.com/track/6PeTYB1Wiv5ijg46xkPBdE) | [Sheila Chandra](https://open.spotify.com/artist/7eYoqLpLD211aYrxb64AzN) | [Weaving My Ancestors' Voices \(Real World Gold\)](https://open.spotify.com/album/18xHLkID2nZIjqAGCrKVs6) | 3:24 | 2023-07-10 |  |
 | [Exodus](https://open.spotify.com/track/1lRkDJ9hMuiE1GZOlbgkam) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 7:40 | 2024-01-19 |  |
@@ -289,7 +290,7 @@
 | [O Pato](https://open.spotify.com/track/64g3ZB9jPWOZKIyGhtzMGq) | [Bahia Bahia Bahia](https://open.spotify.com/artist/5MbdV2ChR2UTRO6yczv6gj) | [A Rã EP](https://open.spotify.com/album/304Bab3sFlZCbt76DhqXh2) | 3:57 | 2023-07-10 |  |
 | [Oba, Lá Vem Ela](https://open.spotify.com/track/4u0Xdy7BizHLrcPIf7c6h2) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Favourites: From Samba Esquema Novo 1963 To Africa Brasil 1976](https://open.spotify.com/album/1jJXtCHztoIKiSG8IbLmq0) | 4:14 | 2023-07-10 |  |
 | [Olvídame](https://open.spotify.com/track/0S7YJBN4QRwXLLRTAhlhew) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Aliboria](https://open.spotify.com/artist/7snXGTX2QLVH8buiuH8t2L) | [Misturas](https://open.spotify.com/album/0A5zpH2SoNiRGBZf3WAyZJ) | 3:48 | 2023-07-10 |  |
-| [On Verra Ça](https://open.spotify.com/track/75Gx2dMhqrWgllUR6R6HEM) | [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Emma Africa](https://open.spotify.com/album/2aNywleIIBlI85CODNdi4J) | 3:26 | 2023-07-10 |  |
+| [On Verra Ça](https://open.spotify.com/track/75Gx2dMhqrWgllUR6R6HEM) | [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Emma Africa](https://open.spotify.com/album/2aNywleIIBlI85CODNdi4J) | 3:26 | 2023-07-10 | 2024-03-26 |
 | [Once in a Lifetime](https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:48 | 2023-07-10 |  |
 | [Onyeka \(Baby\)](https://open.spotify.com/track/398G0odwKJ892uyEYDlMBh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:22 | 2023-07-10 |  |
 | [Open Your Eyes](https://open.spotify.com/track/0aRBk8abP2vA3wl7GV74SA) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb) | [Curiche](https://open.spotify.com/album/0iecitdzBzxPqDUar9vOBT) | 7:59 | 2023-07-10 | 2024-01-15 |

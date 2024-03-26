@@ -4,7 +4,7 @@
 
 > Tú me dejaste caer pero el perreo me levantó.
 
-121 songs - 7 hr 6 min
+123 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [No Se De Ella "My Space"](https://open.spotify.com/track/32SmDHzbqYRAhX9Jq4gDnT) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings \(Armageddon Edition\)](https://open.spotify.com/album/5P7eeivoVmpnalOUtwzj4h) | 3:42 | 2021-09-24 |  |
 | [Noche De Entierro](https://open.spotify.com/track/7mq7GryHrPNGMGbAn9fVoG) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Hector](https://open.spotify.com/artist/46EVasHDUzMdhBXeQ7r0W2), [Tonny Tun Tun](https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t) | [Los Benjamins \- La Continuacion](https://open.spotify.com/album/5IsjHngPrl7LI1001ZUjTM) | 4:23 | 2021-09-24 |  |
 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 | 2021-09-24 |  |
-| [Pam Pam](https://open.spotify.com/track/3syMVJoaLhRKAw9r9ZB9qD) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [20 Number 1's Now](https://open.spotify.com/album/4POWs8wn88db9OmY9strlo) | 3:53 | 2021-09-24 |  |
+| [Pam Pam](https://open.spotify.com/track/6d8owCU2kQ63h5bB8YYjv3) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Juntos Otra Vez](https://open.spotify.com/album/2zlrwEhyQvCZJH4zfAwasJ) | 3:47 | 2023-04-20 |  |
+| [Pam Pam](https://open.spotify.com/track/3syMVJoaLhRKAw9r9ZB9qD) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [20 Number 1's Now](https://open.spotify.com/album/4POWs8wn88db9OmY9strlo) | 3:53 | 2021-09-24 | 2024-03-26 |
 | [Pegao](https://open.spotify.com/track/2cOLPCuhMrTzrErYHwVFAj) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Wisin Y Yandel Presentan: Los Vaqueros](https://open.spotify.com/album/5gHKtewt6CtuGLiAj2m3XC) | 3:52 | 2021-09-24 |  |
 | [Perdóname](https://open.spotify.com/track/4JOcMuy5myeEaNCKlu5j19) | [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX), [Demphra](https://open.spotify.com/artist/6iWtjkkeqeuVyPlFTVXMxh) | [Perdóname](https://open.spotify.com/album/1QT53Qn2B1mQFF7CfNONXw) | 4:03 | 2021-09-24 | 2022-07-29 |
 | [Perdóname](https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Nuevas Metas](https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE) | 4:02 | 2022-02-11 |  |
@@ -96,7 +97,8 @@
 | [Rakata](https://open.spotify.com/track/1hUxy4xuXlzRENHPg5Qqdb) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mas Flow 2 \(International Version\)](https://open.spotify.com/album/06wangppKC5zu161TzLrnB) | 2:51 | 2021-09-24 | 2022-07-29 |
 | [Rakata](https://open.spotify.com/track/0mHrQV5Tu8cjioNpNGG7N1) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/3TheioK614VC2aRMhfKS6h) | 2:52 | 2022-09-30 | 2022-11-13 |
 | [Rakata](https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 2:52 | 2022-02-11 |  |
-| [Rompe](https://open.spotify.com/track/56hK473uZQtJ1tNCm3faR5) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [20 Number 1's Now](https://open.spotify.com/album/4POWs8wn88db9OmY9strlo) | 3:08 | 2021-09-24 |  |
+| [Rompe](https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino En Directo](https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy) | 3:08 | 2023-04-20 |  |
+| [Rompe](https://open.spotify.com/track/56hK473uZQtJ1tNCm3faR5) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [20 Number 1's Now](https://open.spotify.com/album/4POWs8wn88db9OmY9strlo) | 3:08 | 2021-09-24 | 2024-03-26 |
 | [Salió El Sol](https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 5:15 | 2021-09-24 |  |
 | [Saoco](https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Sobreviviente](https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh) | 3:04 | 2022-02-11 |  |
 | [Sensacion Del Bloque](https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Reggaeton Rulers: Los Que Ponen](https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da) | 3:02 | 2021-09-24 |  |

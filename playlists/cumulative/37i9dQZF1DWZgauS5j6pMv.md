@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: TWRP
 
-403 songs - 23 hr 45 min
+404 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,8 @@
 | [Misbehavin](https://open.spotify.com/track/5UUri9iMQ2azakPfszxSmI) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [C.J\. Robertson](https://open.spotify.com/artist/34uwNRMPQrWJwdgZdRYYO2) | [Misbehavin](https://open.spotify.com/album/3E6enR1PQzg6wQjFEioHKS) | 3:02 | 2021-04-23 | 2022-06-18 |
 | [Mixer](https://open.spotify.com/track/0fZaiLx3nhwBKWMNXgbM15) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer \(Acoustic\)](https://open.spotify.com/album/5KP3FrGCzQUttYU3A8IIWV) | 3:12 | 2020-11-20 | 2022-04-09 |
 | [Moments We Share](https://open.spotify.com/track/052gcgPQL6p1XXenRhDl4b) | [Deep Aztec](https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw) | [Moments We Share](https://open.spotify.com/album/1etOlL757UIGiYb3kFKlFN) | 3:20 | 2021-06-18 | 2022-01-29 |
-| [Monoxide](https://open.spotify.com/track/4NgC18dc6UottMk5mM0Vm6) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [MacKenzie](https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY), [Canoed\_sun](https://open.spotify.com/artist/0Fy8tUfccxSuqfnILrqlzO) | [Monoxide](https://open.spotify.com/album/06lzzmqcqpzK6Ga4VpXrof) | 3:12 | 2024-01-19 |  |
+| [Monoxide](https://open.spotify.com/track/4NgC18dc6UottMk5mM0Vm6) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [MacKenzie](https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY), [Canoed\_sun](https://open.spotify.com/artist/0Fy8tUfccxSuqfnILrqlzO) | [Monoxide](https://open.spotify.com/album/06lzzmqcqpzK6Ga4VpXrof) | 3:12 | 2024-01-19 | 2024-03-26 |
+| [Monoxide](https://open.spotify.com/track/7DjW87ErMGMT2PIstq7gYG) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [MacKenzie](https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY), [Canoed\_sun](https://open.spotify.com/artist/0Fy8tUfccxSuqfnILrqlzO) | [Liberation](https://open.spotify.com/album/4FV6Mo4LSbN4YX6TSi8shV) | 3:12 | 2024-01-19 |  |
 | [Moonlight](https://open.spotify.com/track/43XQxLhbUFqqCtRYiKCdCx) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Moonlight](https://open.spotify.com/album/4peKAwsBT7Tct2QcZqAXtG) | 3:25 | 2021-06-18 | 2022-01-29 |
 | [Morning Light \- K, Le Maestro Remix](https://open.spotify.com/track/0iOeXgdhbqkBiU5UdQmkz1) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f), [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7) | [Morning Light \(K, Le Maestro Remix\)](https://open.spotify.com/album/30i6n4M5qEDajv8jGoVDXl) | 3:35 | 2024-01-12 |  |
 | [Movin' Nowhere](https://open.spotify.com/track/4XyL6Cadk1bBXWREirnS73) | [Ian Santillano](https://open.spotify.com/artist/2dXwRDSHl1AmQuX73h8omy) | [Movin' Nowhere](https://open.spotify.com/album/7pHcGqCRiK9o9iewDsgvkk) | 4:19 | 2022-03-25 | 2023-03-04 |

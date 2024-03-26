@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 171716,
+  "2024-03-26": 171845,
   "date_first_scraped": "2021-12-30",
   "description": "The melancholic and soft sound of Jazz.",
   "name": "Jazz Noir",
@@ -896,6 +896,28 @@
     },
     {
       "album": {
+        "name": "Know What I Mean?",
+        "url": "https://open.spotify.com/album/439SsuO2Esw1G67Xuw1HPS"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373973,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/6w7WXCEaDvfM5FdRoi1j5k"
+    },
+    {
+      "album": {
         "name": "Know What I Mean? [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
       },
@@ -911,7 +933,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 377546,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/6UVl12QoQEOGjJCocfBJyn"
@@ -1567,7 +1589,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 523266,
       "name": "Little Girl Blue",
       "url": "https://open.spotify.com/track/4y3Rmu6XbLeUi95ym34PGq"
@@ -2535,7 +2557,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 343000,
       "name": "When Joanna Loved Me",
       "url": "https://open.spotify.com/track/2rxK2vd9P8QM1TEbyGFjoY"

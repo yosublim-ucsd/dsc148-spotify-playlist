@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 450303,
+  "2024-03-26": 450258,
   "date_first_scraped": "2023-01-15",
   "description": "The best in modern punk rock music. Cover: Drahla",
   "name": "The Punk List",
@@ -623,7 +623,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 176902,
       "name": "Bye Bye Big Bear",
       "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
@@ -1521,6 +1521,24 @@
       "duration_ms": 198000,
       "name": "Fingernails",
       "url": "https://open.spotify.com/track/5SYxTY6mv8cUKUsTJk1jAD"
+    },
+    {
+      "album": {
+        "name": "Super Sn\u00f5\u00f5per",
+        "url": "https://open.spotify.com/album/2zgNt2Z61ZncG9IPbEiWQL"
+      },
+      "artists": [
+        {
+          "name": "Sn\u00f5\u00f5per",
+          "url": "https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115152,
+      "name": "Fitness",
+      "url": "https://open.spotify.com/track/68HKFIxG8001tRdzgReDde"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,073 likes - 128 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,079 likes - 128 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 127 | [DREAMING](https://open.spotify.com/track/401gRMsxqq2I1sbVMfj0FM) | [CHRIS LYNN](https://open.spotify.com/artist/6ZVcRPWf6D8PmUH2uFpcWp) | [DREAMING](https://open.spotify.com/album/115wQuGSLSvvpP1HPzGY3I) | 2:36 |
 | 128 | [Double Team](https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Double Team](https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V) | 3:51 |
 
-Snapshot ID: `MCxjM2Y4MjkyY2ZlNTJjNjZjYjcyMThhODU1YzQ5ZmRkYmM2ZmMxY2Zk`
+Snapshot ID: `MCw1YWM5NTBkMzBmYTg0YWI3MWJjNDJhYjJiMTFlN2ZmNDVjODc1ODg4`

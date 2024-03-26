@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 332012,
+  "num_followers": 332045,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWExNWU3NzBiN2UzZWY5ZjFhMzA3MDllNzkxNDVlZDQ4OTNlZWQ3",
+  "snapshot_id": "MCwxYzEzNmNlZGQzYWYzMjE3Y2Y1MzM3NDhlODg5YTJmMTQ5YWQ2ZTY5",
   "tracks": [
     {
       "added_at": "2024-01-16 15:01:27",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-01-16 15:01:27",
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 253120,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
+    },
+    {
+      "added_at": "2024-01-16 15:01:27",
+      "album": {
         "name": "Unearthed",
         "url": "https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e"
       },
@@ -395,38 +411,18 @@
     {
       "added_at": "2024-01-16 15:01:27",
       "album": {
-        "name": "Seventeen Going Under (Acoustic)",
-        "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
+        "name": "Anthem Of The Peaceful Army",
+        "url": "https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        },
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
         }
       ],
-      "duration_ms": 270840,
-      "name": "Seventeen Going Under - Acoustic",
-      "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
-    },
-    {
-      "added_at": "2024-01-16 15:01:27",
-      "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 253120,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
+      "duration_ms": 281306,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/2KN0Kgfb15aNLR0p2J4pkr"
     },
     {
       "added_at": "2024-01-16 15:01:27",
@@ -447,18 +443,22 @@
     {
       "added_at": "2024-01-16 15:01:27",
       "album": {
-        "name": "Anthem Of The Peaceful Army",
-        "url": "https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX"
+        "name": "Seventeen Going Under (Acoustic)",
+        "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
       "artists": [
         {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 281306,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/2KN0Kgfb15aNLR0p2J4pkr"
+      "duration_ms": 270840,
+      "name": "Seventeen Going Under - Acoustic",
+      "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
     },
     {
       "added_at": "2024-01-16 15:01:27",

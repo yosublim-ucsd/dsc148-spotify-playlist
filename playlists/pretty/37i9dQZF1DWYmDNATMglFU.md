@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. DE'WAYNE
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,342 likes - 81 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,244 likes - 81 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 80 | [SHE LOVES ME, SHE LOVES ME NOT](https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [SHE LOVES ME, SHE LOVES ME NOT](https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr) | 3:02 |
 | 81 | [REAL SUPER DARK](https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:29 |
 
-Snapshot ID: `MCw0ZGZkMmFlYTczOTI4NjQxMTQ2NGU1YTgyN2M1ZDcwNmJiNWU0OTA5`
+Snapshot ID: `MCwyNTc5ZWRlZmRlOTM1ZjlmNTEzYzY0MTIzYTVjZjA3NzYxNGRiODg3`

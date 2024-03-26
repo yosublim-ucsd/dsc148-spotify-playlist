@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2336400,
+  "num_followers": 2336384,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjRiOGQ2YTA4ZmVlOTM5OTIyNzUzNTljMzhlMTFmN2ZjY2RkNDdh",
+  "snapshot_id": "MCwyMzdmZmRiYWIyM2Y0MTFlNTdhNmIxOGY0MDY2MjNlYWQ3N2UyYjI0",
   "tracks": [
     {
       "added_at": "2024-02-27 23:55:21",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-02-27 23:55:21",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "Lay It on Me",
-      "url": "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
-    },
-    {
-      "added_at": "2024-02-27 23:55:21",
-      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 273560,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
+    },
+    {
+      "added_at": "2024-02-27 23:55:21",
+      "album": {
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
     },
     {
       "added_at": "2024-02-27 23:55:21",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-02-27 23:55:21",
       "album": {
-        "name": "Remind Me Tomorrow",
-        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 265920,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
+      "duration_ms": 215493,
+      "name": "Lay It on Me",
+      "url": "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
     },
     {
       "added_at": "2024-02-27 23:55:21",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-02-27 23:55:21",
       "album": {
+        "name": "Shaken By A Low Sound",
+        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        }
+      ],
+      "duration_ms": 201506,
+      "name": "Ain't No Grave",
+      "url": "https://open.spotify.com/track/0ymhUnNSuTEdKCRYEVpWOS"
+    },
+    {
+      "added_at": "2024-02-27 23:55:21",
+      "album": {
         "name": "Jade Bird",
         "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
       },
@@ -667,18 +683,18 @@
     {
       "added_at": "2024-02-27 23:55:21",
       "album": {
-        "name": "Shaken By A Low Sound",
-        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
       },
       "artists": [
         {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
         }
       ],
-      "duration_ms": 201506,
-      "name": "Ain't No Grave",
-      "url": "https://open.spotify.com/track/0ymhUnNSuTEdKCRYEVpWOS"
+      "duration_ms": 241800,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg"
     },
     {
       "added_at": "2024-02-27 23:55:21",
@@ -743,22 +759,6 @@
       "duration_ms": 156080,
       "name": "Caesar Knows",
       "url": "https://open.spotify.com/track/7skCLVpO2PbGfPib1FgD5C"
-    },
-    {
-      "added_at": "2024-02-27 23:55:21",
-      "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 241800,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg"
     },
     {
       "added_at": "2024-02-27 23:55:21",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-02-27 23:55:21",
       "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/53XIkqGsvjR2WayoVSvz6l"
-      },
-      "artists": [
-        {
-          "name": "The Wallflowers",
-          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
-        }
-      ],
-      "duration_ms": 234694,
-      "name": "Roots And Wings",
-      "url": "https://open.spotify.com/track/6p2ptJ8ZTeN7Qi7I64oG74"
-    },
-    {
-      "added_at": "2024-02-27 23:55:21",
-      "album": {
         "name": "Half Moon Light",
         "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2024-02-27 23:55:21",
       "album": {
-        "name": "Absolute Zero",
-        "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/53XIkqGsvjR2WayoVSvz6l"
       },
       "artists": [
         {
-          "name": "Little Green Cars",
-          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+          "name": "The Wallflowers",
+          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
         }
       ],
-      "duration_ms": 300960,
-      "name": "My Love Took Me Down To the River To Silence Me",
-      "url": "https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q"
+      "duration_ms": 234694,
+      "name": "Roots And Wings",
+      "url": "https://open.spotify.com/track/6p2ptJ8ZTeN7Qi7I64oG74"
     },
     {
       "added_at": "2024-02-27 23:55:21",
@@ -1111,6 +1095,22 @@
       "duration_ms": 194000,
       "name": "Awake",
       "url": "https://open.spotify.com/track/3HJ5NJAWtxLPAru4wGGN7A"
+    },
+    {
+      "added_at": "2024-02-27 23:55:21",
+      "album": {
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
+      },
+      "artists": [
+        {
+          "name": "Little Green Cars",
+          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+        }
+      ],
+      "duration_ms": 300960,
+      "name": "My Love Took Me Down To the River To Silence Me",
+      "url": "https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q"
     },
     {
       "added_at": "2024-02-27 23:55:21",

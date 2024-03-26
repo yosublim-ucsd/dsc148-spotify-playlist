@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: FAST BOY, R3HAB
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,828 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,921 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 79 | [Home](https://open.spotify.com/track/4YrB46WduA4TYnSdtk6URa) | [THORE](https://open.spotify.com/artist/3gv3HaxW0wEJLeDymQGXBt), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN) | [Home](https://open.spotify.com/album/5e9zMuKIBPtl9CStL34g9Y) | 3:11 |
 | 80 | [Hold](https://open.spotify.com/track/0HVWPPXF5rPXyUKAMNN5K2) | [TwoSides](https://open.spotify.com/artist/1K9jLPrfh7R7jykAV79ivA) | [Hold](https://open.spotify.com/album/6e8nVQU821w444dPdgikQm) | 2:45 |
 
-Snapshot ID: `MCxmZTYzMTY1MzRhNTg1YjVjMzgxOGJlZDUyOGE5NjUzY2ViMDRkNGY4`
+Snapshot ID: `MCxiNjY5ZDE1MjM5MGVhNjg4YWM5ODFkZWQ1ZTVhMWZmMTVkY2U1OGRh`

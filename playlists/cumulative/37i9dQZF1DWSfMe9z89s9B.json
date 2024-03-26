@@ -6228,7 +6228,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 172040,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/7hfl0aCqTLiOtJa3bOgTzA"
@@ -6528,7 +6528,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 146332,
       "name": "fingerprints",
       "url": "https://open.spotify.com/track/4VT53Nt4LR3znRIUu4ALs5"
@@ -9132,6 +9132,24 @@
       "duration_ms": 132640,
       "name": "hurt (feat. Somni)",
       "url": "https://open.spotify.com/track/03SQMh0CFBDYSrqmbk5hWH"
+    },
+    {
+      "album": {
+        "name": "hurt people",
+        "url": "https://open.spotify.com/album/69ZEIS1kDJhmKemxug7aP8"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143700,
+      "name": "hurt people",
+      "url": "https://open.spotify.com/track/49bYOKCM7bc4rgtxh0hxLg"
     },
     {
       "album": {
@@ -17314,6 +17332,28 @@
       "duration_ms": 217000,
       "name": "Sputnik",
       "url": "https://open.spotify.com/track/12PiiW8Kbvjl8P64KI8rCD"
+    },
+    {
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/38UFOxnEdJVaNsMqeOVePI"
+      },
+      "artists": [
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        },
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235630,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/2QKzMseogTEJuEqVkESSUS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 
 > This is Avril Lavigne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,384 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,548 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 | 49 | [Mercury In Retrograde](https://open.spotify.com/track/5myAAZYPPELEl2aiGoW0sx) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 2:09 |
 | 50 | [I Don't Give \- from the American Wedding Original Soundtrack](https://open.spotify.com/track/3CBcW92ksj33KqTMqldMam) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go \(20th Anniversary Edition\)](https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs) | 3:39 |
 
-Snapshot ID: `Mjg1MjEzNzEsMDAwMDAwMDA0NzM2YzI2NGUyMjVhZWRlZjMxOTUxZjIyNzNmZjBlZg==`
+Snapshot ID: `Mjg1MjI4ODgsMDAwMDAwMDBiZjNmMTYzNWMyOGFkMzA1ZWRiNGE2MDgxZWFkODdmMA==`

@@ -4,7 +4,7 @@
 
 > The state of shoegaze\. Gazing at pedals, soaring celestially high\. Cover: Wisp
 
-577 songs - 1 day 13 hr 33 min
+578 songs - 1 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 | 2023-04-14 | 2023-11-28 |
 | [Drift](https://open.spotify.com/track/61iCA0ReZHTA7f8ZaKZyEg) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Aurora](https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd) | 4:07 | 2021-10-19 | 2023-01-14 |
 | [Drive All Night](https://open.spotify.com/track/7wRbH2GlXe9dZQBdhWzkco) | [Joyer](https://open.spotify.com/artist/6h4r9Vtm0iLRTFyJrj6zcF) | [Drive All Night](https://open.spotify.com/album/2eKgVsjsHyuKupvTRHTrfT) | 2:59 | 2024-01-12 | 2024-02-24 |
-| [drown](https://open.spotify.com/track/6kf8AGQdxUmEx2mwJESQPN) | [Paradise Blossom](https://open.spotify.com/artist/69CROBu60QZWX8uig8XpDb) | [drown](https://open.spotify.com/album/1jJAYDO1JbuJvlnhAl8jW8) | 2:55 | 2024-01-12 |  |
+| [drown](https://open.spotify.com/track/3CGM4X26XQf8J9PI30o1VB) | [Paradise Blossom](https://open.spotify.com/artist/69CROBu60QZWX8uig8XpDb) | [drown](https://open.spotify.com/album/31O4a5pvYzcY0tVBHZJgw0) | 2:55 | 2024-01-12 |  |
+| [drown](https://open.spotify.com/track/6kf8AGQdxUmEx2mwJESQPN) | [Paradise Blossom](https://open.spotify.com/artist/69CROBu60QZWX8uig8XpDb) | [drown](https://open.spotify.com/album/1jJAYDO1JbuJvlnhAl8jW8) | 2:55 | 2024-01-12 | 2024-03-26 |
 | [dying to reach you](https://open.spotify.com/track/5Nj6R7pA8n8h2a0HHszyxh) | [Andrew Garden](https://open.spotify.com/artist/52edEK1d76neXRL7odUZwi) | [dying to reach you](https://open.spotify.com/album/5pqb3WFzAHPmQQ4Sg03X2S) | 3:04 | 2023-09-25 |  |
 | [Días Grises](https://open.spotify.com/track/0nTmbWN8jqJ6XNcG2i5rCq) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [Días Grises](https://open.spotify.com/album/04o1UCwDFrOPmHEE9iRQKy) | 2:39 | 2022-04-09 | 2022-07-28 |
 | [Ease](https://open.spotify.com/track/0i5zjtoRR0U2715BEgUsdS) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Whirr & Nothing \(Split Version\)](https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo) | 3:26 | 2021-10-19 | 2023-01-14 |

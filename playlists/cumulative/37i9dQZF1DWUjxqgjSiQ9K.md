@@ -4,7 +4,7 @@
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:202VnAr2CvQpJJrYXK78jk">Sarai Rivera</a> y <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells</a>
 
-561 songs - 1 day 19 hr 19 min
+562 songs - 1 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [N M L D](https://open.spotify.com/track/154CpmxmOFK8PEJi34OsVz) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [N M L D](https://open.spotify.com/album/67cTUGjcB8T8h2CeWVkItA) | 3:02 | 2023-02-03 | 2023-03-25 |
 | [Nada](https://open.spotify.com/track/3P09VuL6OIqf52ddF9KRWG) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Nada](https://open.spotify.com/album/2mbyB4D1yofDtI6Sx9VwvI) | 3:00 | 2022-07-01 | 2023-06-24 |
 | [Nada Incierto](https://open.spotify.com/track/5x0HWiFyJbi0NywHfcXtBW) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Nada Incierto](https://open.spotify.com/album/77xEGnWdaZouqBYcGa1ax9) | 3:24 | 2022-05-20 | 2022-08-20 |
+| [Nada Me Falta](https://open.spotify.com/track/33hXUiCSd9O3fEqVMqPLND) | [ULLOΛ](https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt), [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Transition](https://open.spotify.com/album/61PUASiDNYYrePoCrDvGGX) | 3:20 | 2024-03-25 |  |
 | [Nada Me Falta](https://open.spotify.com/track/5cPNz2RrxEjftzZq20f5uY) | [ULLOΛ](https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt), [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Nada Me Falta](https://open.spotify.com/album/6kqhmAjPKDK2XVF19uwNRR) | 3:20 | 2024-03-08 |  |
 | [Nada Me Separa \(Acústico\) \[Live\]](https://open.spotify.com/track/6p8A1hIMBWiWtWv2LVjV3s) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8) | [Acústicos \[Live\]](https://open.spotify.com/album/49Mz04oe56Yi2Oux06i5X8) | 5:12 | 2022-02-25 | 2022-03-26 |
 | [Nadie Como Tu](https://open.spotify.com/track/1dotiu27mLh3JT8PU0fKHC) | [Josh Lopez](https://open.spotify.com/artist/0qSGHbYMTrls3ruaGGemBE), [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Nadie Como Tu](https://open.spotify.com/album/5XVVwXBJ98tiN2jscvJ0Zo) | 4:08 | 2022-09-30 | 2022-10-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,411 likes - 100 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,474 likes - 100 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 9 | [Give Me the Night](https://open.spotify.com/track/5gaUkg5JNk8c4mr2jnpX8H) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Give Me the Night](https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh) | 5:01 |
 | 10 | [Hot Stuff \- 12" Version](https://open.spotify.com/track/2Vnw8zKmjhr1jczUeaqiQg) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \(Deluxe Edition\)](https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6) | 6:47 |
 | 11 | [Just an Illusion](https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6) | 6:27 |
-| 12 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 |
-| 13 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 6:15 |
+| 12 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 6:15 |
+| 13 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 |
 | 14 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Step II](https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo) | 6:40 |
 | 15 | [Outstanding \- Original 12" Mix](https://open.spotify.com/track/6korvxtUEyt590jUFOfADm) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The 12" Collection And More \(Funk Essentials\)](https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH) | 6:15 |
 | 16 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 40 | [Keep It Up](https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz) | [Milton Wright](https://open.spotify.com/artist/4eG9wzNICW94sPzkTP5MYt) | [Friends and Buddies](https://open.spotify.com/album/1JbsHszs163wrSgCpJUpxa) | 4:12 |
 | 41 | [Aaj Shanibar](https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA) | [Rupa](https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh) | [Disco Jazz](https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt) | 7:59 |
 | 42 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
-| 43 | [Enjoy Your Life](https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [I Want to Feel Your Love](https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk) | 6:18 |
-| 44 | [Why I Came to California](https://open.spotify.com/track/6jZXAOHmvseRsqxYCbexTJ) | [Leon Ware](https://open.spotify.com/artist/3DwcX6M6GF3KGWbVmfNp8G) | [Leon Ware](https://open.spotify.com/album/4kMmUIUc2k7H3t7DimHhqE) | 4:10 |
+| 43 | [Why I Came to California](https://open.spotify.com/track/6jZXAOHmvseRsqxYCbexTJ) | [Leon Ware](https://open.spotify.com/artist/3DwcX6M6GF3KGWbVmfNp8G) | [Leon Ware](https://open.spotify.com/album/4kMmUIUc2k7H3t7DimHhqE) | 4:10 |
+| 44 | [Enjoy Your Life](https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [I Want to Feel Your Love](https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk) | 6:18 |
 | 45 | [Greetings](https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:13 |
 | 46 | [Disco Dancer](https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL) | 6:56 |
 | 47 | [It Looks Like Love](https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY) | [Goody Goody](https://open.spotify.com/artist/6eFek3d0IKoYQvVCqpS5z3) | [Goody Goody](https://open.spotify.com/album/0X6uATczHL4Bz1y1lruCVC) | 6:23 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 53 | [I Believe In Miracles \- 7" Version](https://open.spotify.com/track/7cnurYkLGrwfZyoQDmo0e1) | [Jackson Sisters](https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ) | [Jackson Sisters \(Expanded Edition\)](https://open.spotify.com/album/4FEznXemFQRRv1lf0aH8OZ) | 2:57 |
 | 54 | [The Sweetest Meditation](https://open.spotify.com/track/4n1qwgVWwYIFLuCEfzwnrT) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN) | [Harmonies](https://open.spotify.com/album/2EVOE2I0qXDO4qtY7driBe) | 5:54 |
 | 55 | [I Can't Get Along Without You](https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te) | [Vance and Suzzanne](https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe) | [I Can't Get Along Without You](https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ) | 6:40 |
-| 56 | [The Magnificent Dance](https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 5:37 |
-| 57 | [Love Has Come Around](https://open.spotify.com/track/0jA2HEWkUZFo0lyQ0NsBi0) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Love Has Come Around \- Finest Moments](https://open.spotify.com/album/7BFPbUysgfYdNs0Zs9CqI1) | 7:52 |
+| 56 | [Love Has Come Around](https://open.spotify.com/track/0jA2HEWkUZFo0lyQ0NsBi0) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Love Has Come Around \- Finest Moments](https://open.spotify.com/album/7BFPbUysgfYdNs0Zs9CqI1) | 7:52 |
+| 57 | [The Magnificent Dance](https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 5:37 |
 | 58 | [Hafi Deo](https://open.spotify.com/track/35MRd8ShKOIqbfklIgeaSb) | [Tabu Ley Rochereau](https://open.spotify.com/artist/7hYOOcRqfNzeE2CTpajd5a) | [Mangase / Hafi Deo](https://open.spotify.com/album/05NjfB8sXBGCxkU4Dmwumq) | 9:30 |
 | 59 | [Is It All over My Face? \(Female Version\) \(2012 \- Remaster\)](https://open.spotify.com/track/7lwTSaPgRxgnlkmFCSKtIw) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/4G6WjvXgMQQFskCBBQFi7N) | 7:07 |
 | 60 | [Exotica Dance Club](https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [World](https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80) | 5:27 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 64 | [Mysteries of the World](https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv) | [Mysteries of the World](https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN) | 5:30 |
 | 65 | [Don't Go Lose It Baby](https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Pure Sounds of Africa](https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab) | 6:53 |
 | 66 | [Get It Right](https://open.spotify.com/track/0Q3vW513PoBhndb8MszDP2) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right \(Expanded Edition\)](https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH) | 6:15 |
-| 67 | [Face 2 Face](https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR) | [Silk Rhodes](https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY) | [Silk Rhodes](https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr) | 2:25 |
-| 68 | [Enjoy Your Life](https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm) | 6:16 |
+| 67 | [Enjoy Your Life](https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm) | 6:16 |
+| 68 | [Face 2 Face](https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR) | [Silk Rhodes](https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY) | [Silk Rhodes](https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr) | 2:25 |
 | 69 | [Watchin' Out](https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ) | [Split Decision Band](https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf) | [Watchin' Out](https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz) | 3:15 |
 | 70 | [Let's Start The Dance](https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7) | [Bohannon](https://open.spotify.com/artist/3opvWF0Koer2VPIJVOqnU6) | [Summertime Groove](https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB) | 5:52 |
 | 71 | [Missing You](https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Charles Webster \- Coast2Coast](https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO) | 6:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [Lypso Illusion](https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9) | 4:44 |
 | 100 | [Ashewo Ara](https://open.spotify.com/track/0xnN6Hy5feKHIKdAbH7F7F) | [Kabbala](https://open.spotify.com/artist/4BwyiOrl6JLvblu0RhIWee) | [Ashewo Ara](https://open.spotify.com/album/16zlOZC4ck0f6p2NHsZFmN) | 6:01 |
 
-Snapshot ID: `MCwyYmE3OTYzYTY3NGZmNDExZDBhZmY5YWNhZTc4ZDFkNDQxOTRmZTBl`
+Snapshot ID: `MCwyNTNmY2U0MTA4ZjFhMzg3ZDBhZTI3ZDliNWVkMzAxYjRlYjcxYTRj`

@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 659763,
+  "num_followers": 660321,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDg5Mjk5ZTM3NTRmOTNjZjQ5YzA1YjZkN2U1Mzg0NzQ2MmViZjgz",
+  "snapshot_id": "MCwxOTc2NmFlZGFmMzFhNDYzN2Y1MTNiZDZiYzVlMWM5OGM5NmU2NjA5",
   "tracks": [
     {
       "added_at": "2024-03-19 00:08:42",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 277573,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
+      "duration_ms": 234493,
+      "name": "Man! I Feel Like A Woman!",
+      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
     },
     {
       "added_at": "2024-03-19 00:08:42",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 210772,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+      "duration_ms": 277573,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
     },
     {
       "added_at": "2024-03-19 00:08:42",
@@ -343,18 +343,18 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 234493,
-      "name": "Man! I Feel Like A Woman!",
-      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
+      "duration_ms": 210772,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2024-03-19 00:08:42",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 287266,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
+    },
+    {
+      "added_at": "2024-03-19 00:08:42",
+      "album": {
         "name": "Here's To The Good Times...This Is How We Roll",
         "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 220906,
       "name": "This Is How We Roll",
       "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
-    },
-    {
-      "added_at": "2024-03-19 00:08:42",
-      "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 287266,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
     },
     {
       "added_at": "2024-03-19 00:08:42",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+        "name": "Golden Road",
+        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
       },
       "artists": [
         {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 235426,
-      "name": "Watching You",
-      "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
+      "duration_ms": 323040,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g"
     },
     {
       "added_at": "2024-03-19 00:08:42",
@@ -747,18 +747,18 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "Golden Road",
-        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
         }
       ],
-      "duration_ms": 323040,
-      "name": "Somebody Like You",
-      "url": "https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g"
+      "duration_ms": 235426,
+      "name": "Watching You",
+      "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
     },
     {
       "added_at": "2024-03-19 00:08:42",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "Some Hearts",
-        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 226493,
-      "name": "Jesus, Take the Wheel",
-      "url": "https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87"
-    },
-    {
-      "added_at": "2024-03-19 00:08:42",
-      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 226493,
+      "name": "Jesus, Take the Wheel",
+      "url": "https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87"
+    },
+    {
+      "added_at": "2024-03-19 00:08:42",
+      "album": {
         "name": "Pure Country",
         "url": "https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 212000,
       "name": "I Cross My Heart - Pure Country Soundtrack Version",
       "url": "https://open.spotify.com/track/6FHXJu99aQAUnivEjPhuUR"
-    },
-    {
-      "added_at": "2024-03-19 00:08:42",
-      "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
     },
     {
       "added_at": "2024-03-19 00:08:42",
@@ -955,6 +939,22 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
+    },
+    {
+      "added_at": "2024-03-19 00:08:42",
+      "album": {
         "name": "Coal Miner's Daughter",
         "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 180960,
       "name": "Coal Miner's Daughter - Single Version",
       "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
+    },
+    {
+      "added_at": "2024-03-19 00:08:42",
+      "album": {
+        "name": "Livin' It Up",
+        "url": "https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Love Without End, Amen",
+      "url": "https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi"
     },
     {
       "added_at": "2024-03-19 00:08:42",
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5HvSGPXR4k3PHspJrJTIqw"
-      },
-      "artists": [
-        {
-          "name": "Mark Wills",
-          "url": "https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "19 Somethin' - Greatest Hits Version",
-      "url": "https://open.spotify.com/track/0ElpjZyX8YBiXuYcDC1Ci9"
-    },
-    {
-      "added_at": "2024-03-19 00:08:42",
-      "album": {
         "name": "Taylor Swift",
         "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "Livin' It Up",
-        "url": "https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5HvSGPXR4k3PHspJrJTIqw"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Mark Wills",
+          "url": "https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Love Without End, Amen",
-      "url": "https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi"
+      "duration_ms": 200466,
+      "name": "19 Somethin' - Greatest Hits Version",
+      "url": "https://open.spotify.com/track/0ElpjZyX8YBiXuYcDC1Ci9"
     },
     {
       "added_at": "2024-03-19 00:08:42",
@@ -1375,38 +1375,6 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
-    },
-    {
-      "added_at": "2024-03-19 00:08:42",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/43KDShB3LKQv7r6Lq2OR9u"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Should've Been A Cowboy",
-      "url": "https://open.spotify.com/track/4EDBgrYqYQ6b50yhJWKsHp"
-    },
-    {
-      "added_at": "2024-03-19 00:08:42",
-      "album": {
         "name": "Number One Hits",
         "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
@@ -1439,6 +1407,38 @@
       "duration_ms": 200493,
       "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/6ANPIv5r3vdWntrmFa6H6M"
+    },
+    {
+      "added_at": "2024-03-19 00:08:42",
+      "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
+    },
+    {
+      "added_at": "2024-03-19 00:08:42",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/43KDShB3LKQv7r6Lq2OR9u"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Should've Been A Cowboy",
+      "url": "https://open.spotify.com/track/4EDBgrYqYQ6b50yhJWKsHp"
     },
     {
       "added_at": "2024-03-19 00:08:42",

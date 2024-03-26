@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 150889,
+  "num_followers": 150943,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2YwNGUwMGE0ZDdiOTkzMGVkNWRjZjE0ZDU2NzU2NzkwN2ZjMTk1",
+  "snapshot_id": "MCxmOGQyY2U0NjA4NmU3MzE5Y2RiZTE5OGVhOWVmN2RmY2I0YjExOWRi",
   "tracks": [
     {
       "added_at": "2024-03-01 11:54:01",
@@ -639,30 +639,6 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
-        "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "Kevin Lyttle",
-          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
-        }
-      ],
-      "duration_ms": 159161,
-      "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
-      "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
         "name": "Balling (feat. Songer, Mr Traumatik, Devilman & OneDa) [Edit]",
         "url": "https://open.spotify.com/album/775Vio9oXjiTAbh7Ad15ay"
       },
@@ -739,6 +715,30 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
+        "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
+        "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Kevin Lyttle",
+          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
+        }
+      ],
+      "duration_ms": 159161,
+      "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
+      "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
         "name": "OUTSIDER",
         "url": "https://open.spotify.com/album/0gAyGESgFfil520X4zmk1v"
       },
@@ -807,30 +807,6 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Freedom 2",
-        "url": "https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN"
-      },
-      "artists": [
-        {
-          "name": "Kwengface",
-          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
-        },
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        },
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 206931,
-      "name": "Freedom 2",
-      "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
         "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
         "url": "https://open.spotify.com/album/1XTzHBeO7yYUnkkYN6i0V1"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 160000,
       "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
       "url": "https://open.spotify.com/track/3PIFmXwdhCKITMmWQqXhef"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
+        "name": "Freedom 2",
+        "url": "https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN"
+      },
+      "artists": [
+        {
+          "name": "Kwengface",
+          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
+        },
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 206931,
+      "name": "Freedom 2",
+      "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
+        "name": "Off The Ground",
+        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "duration_ms": 242750,
+      "name": "Off The Ground",
+      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
         "name": "Run (Part 1)",
         "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 135085,
       "name": "Run (Part 1)",
       "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
-        "name": "Off The Ground",
-        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 242750,
-      "name": "Off The Ground",
-      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Baddest",
-        "url": "https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        }
-      ],
-      "duration_ms": 223008,
-      "name": "Baddest",
-      "url": "https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 242760,
       "name": "Vibration (feat. AR/CO)",
       "url": "https://open.spotify.com/track/75xoQG7rwVC2xNGZOfg2mh"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
+        "name": "Baddest",
+        "url": "https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        }
+      ],
+      "duration_ms": 223008,
+      "name": "Baddest",
+      "url": "https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Release Me",
-        "url": "https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        },
-        {
-          "name": "INDI",
-          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
-        }
-      ],
-      "duration_ms": 216551,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
         "name": "Their Law The Singles 1990 - 2005",
         "url": "https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 307813,
       "name": "Voodoo People - Pendulum Mix",
       "url": "https://open.spotify.com/track/7C0PzxbsQx59DgGVRsquwJ"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "INDI",
+          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
+        }
+      ],
+      "duration_ms": 216551,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Supersonic (Basstripper Remix)",
-        "url": "https://open.spotify.com/album/2QJuzV5qlzbQtFJhRRmgNG"
-      },
-      "artists": [
-        {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
-        },
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 224232,
-      "name": "Supersonic - Basstripper Remix",
-      "url": "https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
         "name": "Know What It Means",
         "url": "https://open.spotify.com/album/0AaRkGHFB4D8PsZylovt0d"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 160000,
       "name": "Know What It Means",
       "url": "https://open.spotify.com/track/1FIFWiHNLtohEAnuFgNgJf"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
+        "name": "Supersonic (Basstripper Remix)",
+        "url": "https://open.spotify.com/album/2QJuzV5qlzbQtFJhRRmgNG"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 224232,
+      "name": "Supersonic - Basstripper Remix",
+      "url": "https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
+        "name": "Party President",
+        "url": "https://open.spotify.com/album/0VLlG23D8mtxGHuctstrO8"
+      },
+      "artists": [
+        {
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+        }
+      ],
+      "duration_ms": 187112,
+      "name": "Party President",
+      "url": "https://open.spotify.com/track/0rEUglmFNvBAtg0w3mo3CS"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
         "name": "Let U Know (feat. Charlotte Plank)",
         "url": "https://open.spotify.com/album/5kRPPrLyW4iXoAuz1GKfOQ"
       },
@@ -1559,34 +1575,26 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Party President",
-        "url": "https://open.spotify.com/album/0VLlG23D8mtxGHuctstrO8"
+        "name": "Lively (feat. Jaykae & Blair Muir)",
+        "url": "https://open.spotify.com/album/0Z8jfqzvBnUHiSfVBXXniD"
       },
       "artists": [
         {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
-        }
-      ],
-      "duration_ms": 187112,
-      "name": "Party President",
-      "url": "https://open.spotify.com/track/0rEUglmFNvBAtg0w3mo3CS"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
-        "name": "Cluster",
-        "url": "https://open.spotify.com/album/5X9rtUQlk7f04F9dsra2el"
-      },
-      "artists": [
+          "name": "Double Lz",
+          "url": "https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS"
+        },
         {
-          "name": "Tantrum Desire",
-          "url": "https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS"
+          "name": "Jaykae",
+          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
+        },
+        {
+          "name": "Blair Muir",
+          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
         }
       ],
-      "duration_ms": 249795,
-      "name": "Cluster",
-      "url": "https://open.spotify.com/track/47sojOFHCWJuDCDj3MFGnc"
+      "duration_ms": 152343,
+      "name": "Lively (feat. Jaykae & Blair Muir)",
+      "url": "https://open.spotify.com/track/4LNJEZ4PEOZH6jyJuKEaUP"
     }
   ],
   "unique_name": "Proper Naughty ",

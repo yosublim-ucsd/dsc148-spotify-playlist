@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s?si=Et7S8MXZTN2doZpfcRdFEg">Mmuso Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,439 likes - 50 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,707 likes - 50 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [We Raise A Sound](https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [We Raise A Sound](https://open.spotify.com/album/6IKqbpqiyP91QFtvKTKLEU) | 7:12 |
 | 50 | [Hewale Lala\(Song of Strength\)](https://open.spotify.com/track/5pIM4uYNroyQPTgQnnvZzs) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Hewale Lala\(Song of Strength\)](https://open.spotify.com/album/0eHwsy7wGdv6Ch4rqqdtTu) | 4:40 |
 
-Snapshot ID: `MCxjYzMzNzRiMGEwMTBjMWJhMGM4YmE3NzUwMmM5MTE2ZDgwNjVlMzdm`
+Snapshot ID: `MCw0ZjI5ZDI0NjY3OGQyOGJiMTk0Mzg5NzczN2MzZTk1ZjM5MzIyYWJi`

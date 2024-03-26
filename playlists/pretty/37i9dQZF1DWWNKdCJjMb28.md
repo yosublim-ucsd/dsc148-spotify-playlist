@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNKdCJjMb28.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/karencivil/?hl=en">Karen Civil</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,154 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,185 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNKdCJjMb28.md) - [plain]
 | 20 | [Pussy Talk](https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:38 |
 | 21 | [Hussle & Motivate](https://open.spotify.com/track/2hVtGnJeHOo0EqjzYXNFg5) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 4:18 |
 | 22 | [Trouble on My Mind](https://open.spotify.com/track/3DzlR0kXE6shimFVhSwI4A) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Fear of God II: Let Us Pray](https://open.spotify.com/album/6ZS2NOEZ7XwlNlKWK2dzPM) | 3:32 |
-| 23 | [Too Deep](https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 3:20 |
-| 24 | [Quicksand](https://open.spotify.com/track/4iCZ6Cr76For1TuHUQ90r8) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Street Sermons](https://open.spotify.com/album/2GEF3N9pOsKD9jLnZj07HN) | 3:44 |
+| 23 | [Cinderella \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:00 |
+| 24 | [Too Deep](https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 3:20 |
 | 25 | [Dark Conversation](https://open.spotify.com/track/5lQvcmJHBcCHMFEusim8bH) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 2:24 |
-| 26 | [Cinderella \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:00 |
-| 27 | [Christopher Walking](https://open.spotify.com/track/2IT0T0EqPaUxasjl2o8J2G) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 3:10 |
+| 26 | [Christopher Walking](https://open.spotify.com/track/2IT0T0EqPaUxasjl2o8J2G) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 3:10 |
+| 27 | [Quicksand](https://open.spotify.com/track/4iCZ6Cr76For1TuHUQ90r8) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Street Sermons](https://open.spotify.com/album/2GEF3N9pOsKD9jLnZj07HN) | 3:44 |
 | 28 | [I Am What I Am \(feat\. Fivio Foreign\)](https://open.spotify.com/track/6FKbgWZ7KgpSk7tvFP7eEc) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Welcome to O'Block](https://open.spotify.com/album/7gGJ9rNtigRF53dsFo48Wp) | 3:38 |
 | 29 | [Steppin On Niggas](https://open.spotify.com/track/7FtZFla3ZH6PqsAJ9MvVCM) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 2:20 |
 | 30 | [Throat Baby \(Go Baby\) \(with DaBaby & City Girls\) \- Remix](https://open.spotify.com/track/15C4TnrrVdym7UykxQIOTZ) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Throat Baby \(Go Baby\) \(with DaBaby & City Girls\) \[Remix\]](https://open.spotify.com/album/7CaoMilK1vM4KvbbvRVggD) | 3:31 |
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNKdCJjMb28.md) - [plain]
 | 41 | [Chanel Slides \(feat\. Kash Doll\)](https://open.spotify.com/track/0Q7oKGmOMygeemUaUr6lYJ) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Big Dreez](https://open.spotify.com/album/6LTCFCmcHl9RgVCjWKghNS) | 2:54 |
 | 42 | [Amen](https://open.spotify.com/track/3axVR1ayqtT1UIqjsRtOqp) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Jeezy](https://open.spotify.com/artist/10ZP74NjhScq9YiNxJkmhi), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Fear of God II: Let Us Pray](https://open.spotify.com/album/6ZS2NOEZ7XwlNlKWK2dzPM) | 4:36 |
 | 43 | [Paint The Town Red](https://open.spotify.com/track/3ZX9CjDVbITSTlKqbLSDBk) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Young Jefe 3](https://open.spotify.com/album/2rnt0fBBFJ9ByEPnewCPr5) | 3:26 |
-| 44 | [Yessirski](https://open.spotify.com/track/1c3Zkz6wzRAakKaYY6F3iw) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Demons R Us](https://open.spotify.com/album/7dHyTBvxC5obeBab5LKvQO) | 3:20 |
-| 45 | [U See Us](https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 3:25 |
+| 44 | [U See Us](https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 3:25 |
+| 45 | [Yessirski](https://open.spotify.com/track/1c3Zkz6wzRAakKaYY6F3iw) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Demons R Us](https://open.spotify.com/album/7dHyTBvxC5obeBab5LKvQO) | 3:20 |
 | 46 | [SUPABIEN](https://open.spotify.com/track/5rxgQs8vyfy4z3IErxGscx) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 1:43 |
 | 47 | [I Don't Stress](https://open.spotify.com/track/2FJnGx6mOQh7bB1dKj4IpI) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 4:21 |
 | 48 | [Blessings](https://open.spotify.com/track/7rctLyDUHeuSCXbSTniwL9) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 2:52 |
 | 49 | [Lonely Vibes](https://open.spotify.com/track/0fH67n0kMHc2Zm6bHdagwG) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Lonely Vibes](https://open.spotify.com/album/1svFbTEhnqACSVV5JZSFxE) | 3:16 |
 
-Snapshot ID: `MCwwMjI4NTZiMzZlMmE5YTMwZmI1NWU1YjlkY2E4NTk2ZmI3MWVhMmQ4`
+Snapshot ID: `MCxhZTY0NzE5NGE1YmNkNWM3NWI2NGNiNDNmZjJjOWU3YTcyNmJhNjEz`

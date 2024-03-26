@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,162 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,225 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 25 | [DVNO \- Radio Edit](https://open.spotify.com/track/1wVBZxnCo8ZkGaFqPJEmz2) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [DVNO](https://open.spotify.com/album/10y4ioZQOQoIEkFOMxElJr) | 3:11 |
 | 26 | [Poison Lips](https://open.spotify.com/track/1NJ1jm3uNRrF4JZHpaX1CD) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Flashmob](https://open.spotify.com/album/2RlP2H89edcTGhVcpGPINj) | 3:54 |
 | 27 | [Mothership Reconnection \(feat\. Parliament/Funkadelic\) \- \(Daft Punk Remix\)](https://open.spotify.com/track/5aWVNrjqFHCATLIhS2na3t) | [Scott Grooves](https://open.spotify.com/artist/7hwWjHjLHvhSDngoe2Pkbe), [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH), [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 4:00 |
-| 28 | [Gym tonic \- Original](https://open.spotify.com/track/4DgPcCPpxVN28ZOQBZBhu4) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Paradise](https://open.spotify.com/album/2ZHeCVucwVH7H3qC4abtTd) | 6:12 |
+| 28 | [Gym Tonic](https://open.spotify.com/track/1la1gHPyj0Soug4W3Z25zO) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Paradise](https://open.spotify.com/album/7vg6C4k2yd8E0bOPCoEVTg) | 6:12 |
 | 29 | [Feeling for You](https://open.spotify.com/track/0UHhtA7tNKZaEPh7hYZVGP) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [1999 \(Deluxe Edition\)](https://open.spotify.com/album/2HKgnzlGIJddpRwDlxit43) | 4:37 |
 | 30 | [Pocket Piano](https://open.spotify.com/track/4oyQ6vDzJMFYhmO9p5qrjE) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Pocket Piano](https://open.spotify.com/album/5dMTP9ZttPAmkLpgYR18Ax) | 4:34 |
 | 31 | [Baby I'm Yours](https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [By Your Side](https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT) | 3:35 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 37 | [Look](https://open.spotify.com/track/0GVQb2UqgxEUrXidPgklFj) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Sexuality](https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA) | 4:34 |
 | 38 | [Adore](https://open.spotify.com/track/5z44PxNBSF4Bd50jE5K6Mb) | [I:Cube](https://open.spotify.com/artist/2HNNSjjaK20NZ9PDZ2EMwU) | [Adore](https://open.spotify.com/album/0Hmwqb6SRtliaK6XbhUAZx) | 7:02 |
 | 39 | [Peace and Tranquility to Earth](https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR) | [Roudoudou](https://open.spotify.com/artist/6YTtkGLYyAHNUGD8PVL6SL) | [Listener's Digest](https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB) | 4:13 |
-| 40 | [Edony \- Clap your Hands](https://open.spotify.com/track/6KB39k2DejOxaIxOp5qwji) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Hossam Ramzy](https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD) | [Africanism](https://open.spotify.com/album/1Ty46CHvm7P0XOks0hvG8d) | 8:11 |
+| 40 | [Edony \(Clap your Hands\) \- Clap Your Hands](https://open.spotify.com/track/3hhOOCxdlaC7c6Te9Gr5sV) | [Africanism](https://open.spotify.com/artist/3E9XtGFNNweLtiR8y5aZO5), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Hossam Ramzy](https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD) | [Edony](https://open.spotify.com/album/3pYTrDeyR1Jn3pVy0HjOqF) | 8:11 |
 | 41 | [The Child \- Radio Edit](https://open.spotify.com/track/137Ve8N4t05BGoL1JiObsi) | [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [The Child](https://open.spotify.com/album/5xSSe8xbmsaTbcTbVul1Mq) | 3:40 |
 | 42 | [Am I Wrong](https://open.spotify.com/track/3JIrefSf1HEDk4dccWWHQ3) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Tempovision](https://open.spotify.com/album/39WwIm6bjNLXKdlYQYU1q5) | 3:51 |
 | 43 | [Signatune \- Thomas Bangalter Edit](https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Lucky Boy At Night](https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 49 | [The Sound of Violence](https://open.spotify.com/track/0mJXMlZntHgMGKUyrPkMcp) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [Au Rêve \(Deluxe Edition\)](https://open.spotify.com/album/5At8zb3djitRXkrKQ8Wo97) | 7:13 |
 | 50 | [Cut Dick](https://open.spotify.com/track/4sqZAKBTC4a2x1Ivil7h36) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 2:51 |
 
-Snapshot ID: `MCxiYzZkZjFmMjRmNGU5MmU5YjA0YjllNDU3MTRjMjg3YmE3ODcwM2Iz`
+Snapshot ID: `MCxmNTNjNDc5YmZkMTUwYWQ0ZjZhMTc5ZTY5NjgwNjU4MmJhOGUzNzBj`

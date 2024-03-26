@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 42372,
+  "num_followers": 42402,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTVmMzUzZDk0NjM2MzIzNjRiMmQ2MjRiNGFkMmQ5NjAzZTkzOTdl",
+  "snapshot_id": "MCwzNWUyYzI1NjQ5MWU2YTQ4ODQ3YWY4ODI3MTdhOTVkZmQzMWIzN2Rm",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Amor, amor",
-        "url": "https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
-          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Otra vez me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Amanda Portales la Novia del Per\u00fa",
         "url": "https://open.spotify.com/album/30eO7WmS3tMRiY9MLfLWMn"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 217533,
       "name": "Vaso de Cristal",
       "url": "https://open.spotify.com/track/2trFtYxzQR6FnNfwuHLpXf"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Amor, amor",
+        "url": "https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
+          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Otra vez me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -367,38 +367,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Papito Por Qu\u00e9 Me Dejaste..!",
-        "url": "https://open.spotify.com/album/210Yb6y0gEDDRZd8EM3pAc"
-      },
-      "artists": [
-        {
-          "name": "Wendy Sulca",
-          "url": "https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "Cerveza, Cerveza",
-      "url": "https://open.spotify.com/track/2OqmtWMjw5Jm3BQxtzvMmu"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Los Errantes",
-        "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
-      },
-      "artists": [
-        {
-          "name": "Los Errantes",
-          "url": "https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr"
-        }
-      ],
-      "duration_ms": 192973,
-      "name": "Chuquibambinita",
-      "url": "https://open.spotify.com/track/3vhm0bQl9Ag22O2XUKaef8"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Para Ti",
         "url": "https://open.spotify.com/album/4HU9eCiuTHoxRANEAlQ8xu"
       },
@@ -415,6 +383,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Papito Por Qu\u00e9 Me Dejaste..!",
+        "url": "https://open.spotify.com/album/210Yb6y0gEDDRZd8EM3pAc"
+      },
+      "artists": [
+        {
+          "name": "Wendy Sulca",
+          "url": "https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2"
+        }
+      ],
+      "duration_ms": 274506,
+      "name": "Cerveza, Cerveza",
+      "url": "https://open.spotify.com/track/2OqmtWMjw5Jm3BQxtzvMmu"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Como Siempre Con El Mayor Cari\u00f1o",
         "url": "https://open.spotify.com/album/6wvfzD7OBcegaxiW28Q5gn"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 224773,
       "name": "Adi\u00f3s Pueblo De Ayacucho",
       "url": "https://open.spotify.com/track/43qqoWGmOa8UAXJZtScAfe"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Los Errantes",
+        "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
+      },
+      "artists": [
+        {
+          "name": "Los Errantes",
+          "url": "https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr"
+        }
+      ],
+      "duration_ms": 192973,
+      "name": "Chuquibambinita",
+      "url": "https://open.spotify.com/track/3vhm0bQl9Ag22O2XUKaef8"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Sobreviviendo",
-        "url": "https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R"
-      },
-      "artists": [
-        {
-          "name": "Antologia",
-          "url": "https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6"
-        }
-      ],
-      "duration_ms": 377280,
-      "name": "Sobreviviendo",
-      "url": "https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Lo Mejor del Incomparable...Mario Mendoza",
         "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
       },
@@ -787,34 +771,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Mis \u00c9xitos Eternos Vol. 2",
-        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
+        "name": "Sobreviviendo",
+        "url": "https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R"
       },
       "artists": [
         {
-          "name": "Edwin Montoya",
-          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
+          "name": "Antologia",
+          "url": "https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6"
         }
       ],
-      "duration_ms": 222973,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Bodas de Plata: Concierto en Vivo",
-        "url": "https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Arqu\u00ednigo",
-          "url": "https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Despu\u00e9s de Mi Qu\u00e9 Importa",
-      "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
+      "duration_ms": 377280,
+      "name": "Sobreviviendo",
+      "url": "https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -831,6 +799,22 @@
       "duration_ms": 340584,
       "name": "La Cornuda",
       "url": "https://open.spotify.com/track/6OzTUt05pxFJAFJjGPxqU5"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Bodas de Plata: Concierto en Vivo",
+        "url": "https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Arqu\u00ednigo",
+          "url": "https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Despu\u00e9s de Mi Qu\u00e9 Importa",
+      "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -863,6 +847,22 @@
       "duration_ms": 239853,
       "name": "Sirwana",
       "url": "https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Mis \u00c9xitos Eternos Vol. 2",
+        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
+      },
+      "artists": [
+        {
+          "name": "Edwin Montoya",
+          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Huaylash Macho",
-        "url": "https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz"
-      },
-      "artists": [
-        {
-          "name": "Eusebio \"Chato\" Grados",
-          "url": "https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Huaylash Macho",
-      "url": "https://open.spotify.com/track/2wIRGGoFZ43qlGKd5c0gnE"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Papito Por Qu\u00e9 Me Dejaste..!",
         "url": "https://open.spotify.com/album/210Yb6y0gEDDRZd8EM3pAc"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 250868,
       "name": "La Tetita",
       "url": "https://open.spotify.com/track/2kOOUxPrMxVNCQrjkBJoMz"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Huaylash Macho",
+        "url": "https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz"
+      },
+      "artists": [
+        {
+          "name": "Eusebio \"Chato\" Grados",
+          "url": "https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Huaylash Macho",
+      "url": "https://open.spotify.com/track/2wIRGGoFZ43qlGKd5c0gnE"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

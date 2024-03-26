@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: Inayah",
-  "num_followers": 43224,
+  "num_followers": 43220,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODhmMTcwZmM2ZDY3YmZmMWQ1YmFkMjliM2ZiN2UyM2RjYWM5NDA4",
+  "snapshot_id": "MCw1NGQ0ZDRiNTNmYmM2ZTljNWEyNDA5MWY5Nzc2YzZkN2M4ODRjNjFk",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -213,6 +213,22 @@
       "url": "https://open.spotify.com/track/4tIiZ0Tw8rs10U4VWhF0tW"
     },
     {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "When It Comes To You",
+        "url": "https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 168075,
+      "name": "When It Comes To You",
+      "url": "https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm"
+    },
+    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Life On Earth - EP",
@@ -231,22 +247,6 @@
       "duration_ms": 211373,
       "name": "White Tee (with NO1-NOAH)",
       "url": "https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "When It Comes To You",
-        "url": "https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 168075,
-      "name": "When It Comes To You",
-      "url": "https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -361,6 +361,42 @@
       "url": "https://open.spotify.com/track/5IwLjYaHO04YqP9SZRmIi4"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Impromptu",
+        "url": "https://open.spotify.com/album/7JVvi1AzVjB8l5pQaDb1b3"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "duration_ms": 185159,
+      "name": "Impromptu",
+      "url": "https://open.spotify.com/track/52brDlLtV8OmnqsPZQpOFu"
+    },
+    {
+      "added_at": "2023-09-01 04:55:52",
+      "album": {
+        "name": "Sixtape 3",
+        "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "duration_ms": 156030,
+      "name": "Doin Yo Stuff",
+      "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
+    },
+    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Still Over It",
@@ -377,20 +413,20 @@
       "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Impromptu",
-        "url": "https://open.spotify.com/album/7JVvi1AzVjB8l5pQaDb1b3"
+        "name": "Fridayy",
+        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
       },
       "artists": [
         {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         }
       ],
-      "duration_ms": 185159,
-      "name": "Impromptu",
-      "url": "https://open.spotify.com/track/52brDlLtV8OmnqsPZQpOFu"
+      "duration_ms": 183705,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/7bUdqWKa9h02dNfnj3YfAO"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -417,42 +453,6 @@
       "url": "https://open.spotify.com/track/47ssddfj7Ug6hO9Ol2AXGu"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Fridayy",
-        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 183705,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/7bUdqWKa9h02dNfnj3YfAO"
-    },
-    {
-      "added_at": "2023-09-01 04:55:52",
-      "album": {
-        "name": "Sixtape 3",
-        "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        }
-      ],
-      "duration_ms": 156030,
-      "name": "Doin Yo Stuff",
-      "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
-    },
-    {
       "added_at": "2023-07-14 17:29:23",
       "album": {
         "name": "Down Bad",
@@ -467,6 +467,22 @@
       "duration_ms": 175348,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/3YSBjkziV3Ad1PDb937iod"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "NEGLIGENT",
+        "url": "https://open.spotify.com/album/1PnBzRz589IzGfNYcoKAwU"
+      },
+      "artists": [
+        {
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+        }
+      ],
+      "duration_ms": 204144,
+      "name": "NEGLIGENT",
+      "url": "https://open.spotify.com/track/38rL1N6TYmh1UFPKYHKjeA"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -487,22 +503,6 @@
       "duration_ms": 176385,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "NEGLIGENT",
-        "url": "https://open.spotify.com/album/1PnBzRz589IzGfNYcoKAwU"
-      },
-      "artists": [
-        {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
-        }
-      ],
-      "duration_ms": 204144,
-      "name": "NEGLIGENT",
-      "url": "https://open.spotify.com/track/38rL1N6TYmh1UFPKYHKjeA"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -535,6 +535,26 @@
       "duration_ms": 174545,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Don't Give It Away",
+        "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 206143,
+      "name": "Don't Give It Away (with Chris Brown)",
+      "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -587,26 +607,6 @@
       "duration_ms": 143360,
       "name": "Sin on Purpose",
       "url": "https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Don't Give It Away",
-        "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 206143,
-      "name": "Don't Give It Away (with Chris Brown)",
-      "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -781,40 +781,20 @@
       "url": "https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Escape Plan",
-        "url": "https://open.spotify.com/album/62DboXMp5tBqZGDVxdaiVy"
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
       "artists": [
         {
-          "name": "Kali Claire",
-          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
-        },
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 215249,
-      "name": "Escape Plan",
-      "url": "https://open.spotify.com/track/2QtQLiOD8Wy6iG7pRiyrfN"
-    },
-    {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "it's not you, it's me",
-        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 120493,
-      "name": "cascade road",
-      "url": "https://open.spotify.com/track/0tkJrvooVHw5r7MrUaCWjh"
+      "duration_ms": 162506,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/1LADKWKeq6I21w6j9wDSad"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -837,20 +817,24 @@
       "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+        "name": "Escape Plan",
+        "url": "https://open.spotify.com/album/62DboXMp5tBqZGDVxdaiVy"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Kali Claire",
+          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
+        },
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
         }
       ],
-      "duration_ms": 162506,
-      "name": "How Does It Feel",
-      "url": "https://open.spotify.com/track/1LADKWKeq6I21w6j9wDSad"
+      "duration_ms": 215249,
+      "name": "Escape Plan",
+      "url": "https://open.spotify.com/track/2QtQLiOD8Wy6iG7pRiyrfN"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -903,6 +887,22 @@
       "duration_ms": 213736,
       "name": "LMK",
       "url": "https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "it's not you, it's me",
+        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 120493,
+      "name": "cascade road",
+      "url": "https://open.spotify.com/track/0tkJrvooVHw5r7MrUaCWjh"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1193,38 +1193,6 @@
       "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
     },
     {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Spin Again",
-        "url": "https://open.spotify.com/album/4gZVLOdSn4kqeJ8fInPZdh"
-      },
-      "artists": [
-        {
-          "name": "Layton Greene",
-          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
-        }
-      ],
-      "duration_ms": 248872,
-      "name": "Spin Again",
-      "url": "https://open.spotify.com/track/6HiEe3hSKazKZOscOZjcyN"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Addiction",
-        "url": "https://open.spotify.com/album/3cyVtGHoaRIWfrfqBItC9t"
-      },
-      "artists": [
-        {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
-        }
-      ],
-      "duration_ms": 163720,
-      "name": "Addiction",
-      "url": "https://open.spotify.com/track/6dEHTCK6SyciGXCStYmoJb"
-    },
-    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Before We Crash",
@@ -1239,6 +1207,22 @@
       "duration_ms": 229447,
       "name": "Better Than Him",
       "url": "https://open.spotify.com/track/6vucaejrSd21jHkXo3tHUu"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Spin Again",
+        "url": "https://open.spotify.com/album/4gZVLOdSn4kqeJ8fInPZdh"
+      },
+      "artists": [
+        {
+          "name": "Layton Greene",
+          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
+        }
+      ],
+      "duration_ms": 248872,
+      "name": "Spin Again",
+      "url": "https://open.spotify.com/track/6HiEe3hSKazKZOscOZjcyN"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "They Gon Lie",
-        "url": "https://open.spotify.com/album/2nZfTjkq0HQprN86XdcK5w"
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/3cyVtGHoaRIWfrfqBItC9t"
       },
       "artists": [
         {
-          "name": "Lyrica Anderson",
-          "url": "https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh"
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
         }
       ],
-      "duration_ms": 137260,
-      "name": "They Gon Lie",
-      "url": "https://open.spotify.com/track/2YMBu5oURKQ0uSKW8x80o3"
+      "duration_ms": 163720,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/6dEHTCK6SyciGXCStYmoJb"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1307,6 +1291,38 @@
       "duration_ms": 198620,
       "name": "Luv To A Fck Song",
       "url": "https://open.spotify.com/track/6qDNh0axas6ZxjnMraUasM"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Fkn Him Too",
+        "url": "https://open.spotify.com/album/5j4weAU6Kpktlx2fD5gHua"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        }
+      ],
+      "duration_ms": 170079,
+      "name": "Fkn Him Too",
+      "url": "https://open.spotify.com/track/1PQ3QK3tTsknvnw1LppFv1"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "They Gon Lie",
+        "url": "https://open.spotify.com/album/2nZfTjkq0HQprN86XdcK5w"
+      },
+      "artists": [
+        {
+          "name": "Lyrica Anderson",
+          "url": "https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh"
+        }
+      ],
+      "duration_ms": 137260,
+      "name": "They Gon Lie",
+      "url": "https://open.spotify.com/track/2YMBu5oURKQ0uSKW8x80o3"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1331,22 +1347,6 @@
       "duration_ms": 152000,
       "name": "Come To Me",
       "url": "https://open.spotify.com/track/6PZRy35ohzFTVfrpAEzmHf"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Fkn Him Too",
-        "url": "https://open.spotify.com/album/5j4weAU6Kpktlx2fD5gHua"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        }
-      ],
-      "duration_ms": 170079,
-      "name": "Fkn Him Too",
-      "url": "https://open.spotify.com/track/1PQ3QK3tTsknvnw1LppFv1"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1481,22 +1481,6 @@
       "url": "https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Needs & Wants",
-        "url": "https://open.spotify.com/album/0zkjSOELuXwL9w41jcf2WA"
-      },
-      "artists": [
-        {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        }
-      ],
-      "duration_ms": 185719,
-      "name": "Needs & Wants",
-      "url": "https://open.spotify.com/track/0X0bYJxGG2NBLH93PQvOi3"
-    },
-    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "Smoke, Drink, Break Up (feat. Wale)",
@@ -1517,6 +1501,22 @@
       "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
     },
     {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Needs & Wants",
+        "url": "https://open.spotify.com/album/0zkjSOELuXwL9w41jcf2WA"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        }
+      ],
+      "duration_ms": 185719,
+      "name": "Needs & Wants",
+      "url": "https://open.spotify.com/track/0X0bYJxGG2NBLH93PQvOi3"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Body Talk",
@@ -1531,22 +1531,6 @@
       "duration_ms": 198367,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/4M3Dm3KwX3nfXQ0w82w3da"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "T.B.D.",
-        "url": "https://open.spotify.com/album/18Xm1iSbMb5srLntraenBP"
-      },
-      "artists": [
-        {
-          "name": "Solomon Headen",
-          "url": "https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "T.B.D.",
-      "url": "https://open.spotify.com/track/21PVx9jD4ylrKTXgdntOz0"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1565,6 +1549,22 @@
       "url": "https://open.spotify.com/track/1i5hcCnWCHYu2mvUq04OPP"
     },
     {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "T.B.D.",
+        "url": "https://open.spotify.com/album/18Xm1iSbMb5srLntraenBP"
+      },
+      "artists": [
+        {
+          "name": "Solomon Headen",
+          "url": "https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "T.B.D.",
+      "url": "https://open.spotify.com/track/21PVx9jD4ylrKTXgdntOz0"
+    },
+    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "How Many",
@@ -1581,22 +1581,6 @@
       "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Simple Girls",
-        "url": "https://open.spotify.com/album/5c64XM7HgyFkKFK6V5feMY"
-      },
-      "artists": [
-        {
-          "name": "Devvon Terrell",
-          "url": "https://open.spotify.com/artist/4WcJL1x8azi1Qkv4jc6fhH"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Simple Girls",
-      "url": "https://open.spotify.com/track/7y1mzezUl5HfAvWYSs7Qu1"
-    },
-    {
       "added_at": "2023-07-14 17:29:23",
       "album": {
         "name": "Timeless",
@@ -1611,6 +1595,22 @@
       "duration_ms": 194160,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Simple Girls",
+        "url": "https://open.spotify.com/album/5c64XM7HgyFkKFK6V5feMY"
+      },
+      "artists": [
+        {
+          "name": "Devvon Terrell",
+          "url": "https://open.spotify.com/artist/4WcJL1x8azi1Qkv4jc6fhH"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Simple Girls",
+      "url": "https://open.spotify.com/track/7y1mzezUl5HfAvWYSs7Qu1"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -1645,6 +1645,22 @@
       "url": "https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1"
     },
     {
+      "added_at": "2023-09-08 05:11:32",
+      "album": {
+        "name": "ISN'T THE SAME",
+        "url": "https://open.spotify.com/album/2pBuZonuiDcOeLNg2SDdOX"
+      },
+      "artists": [
+        {
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+        }
+      ],
+      "duration_ms": 156624,
+      "name": "ISN'T THE SAME",
+      "url": "https://open.spotify.com/track/5c5WpahqfyGJ7ZibFt8Es7"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Love Scars II",
@@ -1663,22 +1679,6 @@
       "duration_ms": 161684,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
-    },
-    {
-      "added_at": "2023-09-08 05:11:32",
-      "album": {
-        "name": "ISN'T THE SAME",
-        "url": "https://open.spotify.com/album/2pBuZonuiDcOeLNg2SDdOX"
-      },
-      "artists": [
-        {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
-        }
-      ],
-      "duration_ms": 156624,
-      "name": "ISN'T THE SAME",
-      "url": "https://open.spotify.com/track/5c5WpahqfyGJ7ZibFt8Es7"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1749,22 +1749,6 @@
       "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Kissing On Your Tattoos",
-        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 153599,
-      "name": "Kissing On Your Tattoos",
-      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
-    },
-    {
       "added_at": "2023-06-16 05:24:07",
       "album": {
         "name": "who's loving you?",
@@ -1779,6 +1763,26 @@
       "duration_ms": 219662,
       "name": "PT. II (DRAKE & DRIVE)",
       "url": "https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Pusha Baby",
+        "url": "https://open.spotify.com/album/2SsQf8gs5PCqlTYOH8pgrg"
+      },
+      "artists": [
+        {
+          "name": "Teon Gibbs",
+          "url": "https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm"
+        },
+        {
+          "name": "40k",
+          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
+        }
+      ],
+      "duration_ms": 141375,
+      "name": "Pusha Baby",
+      "url": "https://open.spotify.com/track/2C8PDog5rQmuepQbjxkWpL"
     }
   ],
   "unique_name": "Some Kinda Way",

@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 259462,
+  "num_followers": 259477,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTU5YmQ1ZjZhNWRjODZhOGY3MjI0YzY2NzNiNjM0ZjZjMzEyOTFj",
+  "snapshot_id": "MCxkYjRhYWIwOGE3MzllM2I3NTlkMjU2ZThhNjkyZTliOGY5ZTNkYWIy",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -187,6 +187,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
+      },
+      "artists": [
+        {
+          "name": "In Love With a Ghost",
+          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
+        }
+      ],
+      "duration_ms": 199603,
+      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
+      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "D97",
         "url": "https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 230000,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
-      },
-      "artists": [
-        {
-          "name": "In Love With a Ghost",
-          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
-        }
-      ],
-      "duration_ms": 199603,
-      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
-      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -555,6 +555,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Needy Bees",
+      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Naps",
         "url": "https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 101469,
       "name": "The Falls",
       "url": "https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Needy Bees",
-      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -747,22 +747,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Island -EP",
-        "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
-      },
-      "artists": [
-        {
-          "name": "Nuit Oce\u0101n",
-          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
-        }
-      ],
-      "duration_ms": 185758,
-      "name": "Together Alone",
-      "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Small Clan",
         "url": "https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 232312,
       "name": "Yellow Dust",
       "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Island -EP",
+        "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
+      },
+      "artists": [
+        {
+          "name": "Nuit Oce\u0101n",
+          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
+        }
+      ],
+      "duration_ms": 185758,
+      "name": "Together Alone",
+      "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -851,6 +851,26 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Fleur",
+        "url": "https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        },
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 259423,
+      "name": "Fleur",
+      "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Home (feat. LEES)",
         "url": "https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 218311,
       "name": "White Gemini",
       "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Fleur",
-        "url": "https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        },
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 259423,
-      "name": "Fleur",
-      "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/69tms8bn7pYZck6hJw6X1e"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/0id4OAtEVPbvZHLuTErrF0"
-      },
-      "artists": [
-        {
-          "name": "Hazey Eyes",
-          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "Our Story",
-      "url": "https://open.spotify.com/track/3Q2L3ElOwMYki1aEV5kBQw"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "With You",
@@ -1015,6 +999,22 @@
       "duration_ms": 145208,
       "name": "With You",
       "url": "https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/0id4OAtEVPbvZHLuTErrF0"
+      },
+      "artists": [
+        {
+          "name": "Hazey Eyes",
+          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "Our Story",
+      "url": "https://open.spotify.com/track/3Q2L3ElOwMYki1aEV5kBQw"
     },
     {
       "added_at": "2019-05-24 08:01:00",

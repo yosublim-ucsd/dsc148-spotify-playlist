@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: P'tit Belliveau",
-  "num_followers": 40028,
+  "num_followers": 40034,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTA5N2E5ZDlhYzBlZmNkZWJlYTUwN2NiMWJmOTY0MDJiNWRiZDU2",
+  "snapshot_id": "MCw4OTAxMmRmYjdmYWJkNjFiZmU0NWJjYTE5NmFiYzNjMzAwMDNjMmYz",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Faut que tu m'aimes",
+        "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "duration_ms": 192998,
+      "name": "Faut que tu m'aimes",
+      "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/6PaR3f33lA3iXdy59U7g2m"
       },
@@ -695,42 +711,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "P.M.R.",
-        "url": "https://open.spotify.com/album/7lRwTBtOa4iiN9jOXfwKxR"
-      },
-      "artists": [
-        {
-          "name": "Fresh",
-          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
-        },
-        {
-          "name": "Kaaris",
-          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "MAUVAIS PAYEUR",
-      "url": "https://open.spotify.com/track/6O305YQaWEWfaU1S0nTcx6"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Faut que tu m'aimes",
-        "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
-      },
-      "artists": [
-        {
-          "name": "Styleto",
-          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
-        }
-      ],
-      "duration_ms": 192998,
-      "name": "Faut que tu m'aimes",
-      "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "blue (yes, i love you)",
         "url": "https://open.spotify.com/album/17xBNG2Bgr4VVGlVIXH8NV"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 102000,
       "name": "blue (yes, i love you)",
       "url": "https://open.spotify.com/track/7znfQHTZ1tut2V17waMNTl"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "P.M.R.",
+        "url": "https://open.spotify.com/album/7lRwTBtOa4iiN9jOXfwKxR"
+      },
+      "artists": [
+        {
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        },
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "MAUVAIS PAYEUR",
+      "url": "https://open.spotify.com/track/6O305YQaWEWfaU1S0nTcx6"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "_jun perseides",
-        "url": "https://open.spotify.com/album/4EHRNl8rET8Ve72UQB2cLe"
+        "name": "Je pense \u00e0 vous",
+        "url": "https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4"
       },
       "artists": [
         {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
         }
       ],
-      "duration_ms": 176040,
-      "name": "_jun perseides",
-      "url": "https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10"
+      "duration_ms": 172263,
+      "name": "Je pense \u00e0 vous",
+      "url": "https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

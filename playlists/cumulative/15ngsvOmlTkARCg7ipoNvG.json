@@ -8745,6 +8745,24 @@
     },
     {
       "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/11sYrMdC2WR4zdAW0mk5fW"
+      },
+      "artists": [
+        {
+          "name": "Melody Lake",
+          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60459,
+      "name": "Essence",
+      "url": "https://open.spotify.com/track/49yHrK9pviTmcZinHw8vgt"
+    },
+    {
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/2ZIQufrOHWVRU6j6HSUznQ"
       },

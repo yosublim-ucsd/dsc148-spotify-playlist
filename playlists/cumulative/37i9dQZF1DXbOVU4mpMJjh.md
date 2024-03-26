@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,122 songs - 3 day 4 hr 0 min
+1,123 songs - 3 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Embraced by Night](https://open.spotify.com/track/6h0ZKvA9lL7aPDNl4s6e7v) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Embraced by Night](https://open.spotify.com/album/0RZijEhRfQKs7m9YXafzzG) | 3:03 | 2024-03-08 |  |
 | [Emerald Dreamscape](https://open.spotify.com/track/6y3A2C5g4NtmSTGPA1dn6c) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Emerald Dreamscape](https://open.spotify.com/album/5QKH9vfQVg0WzHc9vZBd6k) | 2:58 | 2023-12-08 |  |
 | [Empty Embrace](https://open.spotify.com/track/23M3EyLMK59mwAftJcWjJX) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [Empty Embrace](https://open.spotify.com/album/7tZNqPtohwikYeyXWlMLhd) | 3:05 | 2023-04-14 |  |
+| [Endless](https://open.spotify.com/track/4JKlhfRIqQkvJsAhnLvThW) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Endless](https://open.spotify.com/album/0yKp48RlWbcV0h443MVXAJ) | 3:26 | 2024-03-22 |  |
 | [English Rose](https://open.spotify.com/track/1vNFoWu3d80MnNkgjlaQ7k) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [English Rose](https://open.spotify.com/album/1Glhi5IB4ukDTgnfuzTwdX) | 3:06 | 2023-06-08 |  |
 | [Enigmatic Echoes](https://open.spotify.com/track/4VQpucRkBAU0sU5XMD28uq) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Enigmatic Echoes](https://open.spotify.com/album/32GcUaTDK6U07ohK8p0iSF) | 4:05 | 2023-09-22 |  |
 | [Enlightenment](https://open.spotify.com/track/0q4SJUYOp0Er9fvREdDyDv) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Sound Sun Pleasure](https://open.spotify.com/album/0KGHyCya07zjceVwQ33O7x) | 5:05 | 2022-04-14 | 2022-04-27 |
@@ -1099,7 +1100,7 @@
 | [Worrisome Heart](https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Worrisome Heart](https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y) | 4:21 | 2022-04-14 | 2022-08-30 |
 | [Worry and Gossip](https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Worry and Gossip](https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV) | 3:41 | 2023-10-13 |  |
 | [Would You Be So Kind](https://open.spotify.com/track/5rdkWQtSU6UT2Fg6MuwsNa) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [Would You Be So Kind](https://open.spotify.com/album/7KkBDxCXqxEOkpFi4WaXtX) | 4:05 | 2023-12-08 |  |
-| [Would You Mind?](https://open.spotify.com/track/4CC7JBuwQKHCSCxf5hc6SK) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Would You Mind?](https://open.spotify.com/album/4gwpfTc34g72SU0lUN34di) | 3:34 | 2024-03-08 |  |
+| [Would You Mind?](https://open.spotify.com/track/4CC7JBuwQKHCSCxf5hc6SK) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Would You Mind?](https://open.spotify.com/album/4gwpfTc34g72SU0lUN34di) | 3:34 | 2024-03-08 | 2024-03-26 |
 | [Wrap Your Troubles In Dreams](https://open.spotify.com/track/7H6doSNNykKJH1ewJxW4FL) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Wrap Your Troubles In Dreams](https://open.spotify.com/album/5BMDLUvkvvkaxOVWKDnM7Q) | 2:49 | 2023-06-08 |  |
 | [Yesteryear](https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Yesteryear](https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD) | 4:19 | 2023-03-09 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/3rGH9xLvAP2R6445FaLVs8) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [You Are Too Beautiful](https://open.spotify.com/album/33NCFfEVLRuMZduy6wUiQA) | 3:18 | 2023-05-25 |  |

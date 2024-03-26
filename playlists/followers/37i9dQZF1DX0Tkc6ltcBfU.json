@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 1203993,
+  "2024-03-26": 1204270,
   "date_first_scraped": "2021-12-21",
   "description": "The hottest out the south. Cover: GloRilla",
   "name": "No Cap",
@@ -3985,6 +3985,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
       "date_added": "2024-03-22",
@@ -5931,6 +5935,32 @@
       "duration_ms": 112560,
       "name": "Everybody Shooters Too",
       "url": "https://open.spotify.com/track/1gkObbz6CmnnCmT914LXFC"
+    },
+    {
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226946,
+      "name": "Everyday Hustle",
+      "url": "https://open.spotify.com/track/3Vg7nPYlOrCkcV1abKbRQ1"
     },
     {
       "album": {
@@ -10069,7 +10099,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 133125,
       "name": "INSANE",
       "url": "https://open.spotify.com/track/3zyPKGiLhdw9SpBTCuffNW"
@@ -11805,6 +11835,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
       "date_added": "2024-03-22",
@@ -21293,6 +21327,14 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "date_added": "2024-03-22",

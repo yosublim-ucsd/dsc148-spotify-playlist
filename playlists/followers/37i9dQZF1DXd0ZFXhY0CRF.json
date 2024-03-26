@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 740542,
+  "2024-03-26": 740693,
   "date_first_scraped": "2021-12-21",
   "description": "The women whose music and influence have rocked our world. Cover: Hayley Williams of Paramore",
   "name": "Women of Rock",
@@ -4183,10 +4183,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 197013,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf"
+    },
+    {
+      "album": {
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197533,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/28rmYerSDjX81r5KCevY7G"
     },
     {
       "album": {

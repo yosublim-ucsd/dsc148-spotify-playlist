@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 
 > The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,570 likes - 66 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,712 likes - 66 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 2 | [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 3:58 |
 | 3 | [インフェルノ](https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [インフェルノ](https://open.spotify.com/album/137FjNv5TRNvbW6D17bQc1) | 3:32 |
 | 4 | [secret base \~君がくれたもの\~ \(10 years after Ver.\)](https://open.spotify.com/track/4rPmTBTX1wobDkGYXKvcGR) | [本間芽衣子（CV.茅野愛衣）](https://open.spotify.com/artist/6Ft6iUd8wRclZv2vqqwJ1u), [安城鳴子（CV.戸松 遥）](https://open.spotify.com/artist/4Yk6VO0E6sRSsHQ48l71V6), [鶴見知利子（CV.早見沙織）](https://open.spotify.com/artist/1auIZlPiXupfHjk1B3nm74) | [secret base \~君がくれたもの\~](https://open.spotify.com/album/3QfuS80shCRvZHSzRfpEHU) | 5:52 |
-| 5 | [ピースサイン](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 |
+| 5 | [ピースサイン \- Peace Sign](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 |
 | 6 | [Zenzenzense \- movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:45 |
 | 7 | [コネクト](https://open.spotify.com/track/3DZG4wc2NQbgjR2m8iXpG1) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:30 |
 | 8 | [Go! Go! Maniac \(From "K\-On!!\)](https://open.spotify.com/track/2RrbTYtbCTdUhTNak4HN9h) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Go! Go! Maniac \(From "K\-ON!!\)](https://open.spotify.com/album/2y7Bktloeww6fRNdXQz0iL) | 4:11 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 65 | [ぼくのフレンド](https://open.spotify.com/track/5AH0F230K1ab9TPYUA3wR5) | [mewhan](https://open.spotify.com/artist/13tttiaoECFPQKEigVnYU6) | [自己スキーマ](https://open.spotify.com/album/7qCWMC5KQ3SDii2P3u2Z7M) | 4:11 |
 | 66 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/3MpAKiHm0dzxRBSBwJ3PBC) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [20112012](https://open.spotify.com/album/3DW6bLcegm87OVIDKCVnZ8) | 3:54 |
 
-Snapshot ID: `MCxkMTM3Nzk0OThhYTQ4ZTMyMTMwZWJiMmY5YWVmYTViMWZjMDBjOWJh`
+Snapshot ID: `MCwyMGU5ZmE0MWQ3ZDY2ZDQyZjUyZWNkMmQ3M2NmOWJkNDJiYzY1MjRk`

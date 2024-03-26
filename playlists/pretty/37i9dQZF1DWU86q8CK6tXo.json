@@ -1,12 +1,12 @@
 {
   "description": "Maren Morris is taking over to celebrate Women's History Month on EQUAL US!",
-  "num_followers": 52288,
+  "num_followers": 52334,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGU2MDI0MDJlYmE4NzliMGMyNGFlZmViMzZkNjAxZWM5NjlhZmFj",
+  "snapshot_id": "MCwyNzYyYTdlMWEyMjZiNGUzY2NlODY5MzYyNDI1YjFhNGJhNzljYjY1",
   "tracks": [
     {
       "added_at": "2024-03-14 21:16:21",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-03-14 21:16:21",
       "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+    },
+    {
+      "added_at": "2024-03-14 21:16:21",
+      "album": {
         "name": "CONTIGO (with Ti\u00ebsto)",
         "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
       },
@@ -255,22 +271,6 @@
     {
       "added_at": "2024-03-14 21:16:21",
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
-    },
-    {
-      "added_at": "2024-03-14 21:16:21",
-      "album": {
         "name": "Made For Me",
         "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
       },
@@ -283,22 +283,6 @@
       "duration_ms": 188000,
       "name": "Made For Me",
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
-    },
-    {
-      "added_at": "2024-03-14 21:16:21",
-      "album": {
-        "name": "What Happens Now?",
-        "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
     },
     {
       "added_at": "2024-03-14 21:16:21",
@@ -623,6 +607,22 @@
     {
       "added_at": "2024-03-14 21:16:21",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/2496dUob7BIgG26HjYbl6f"
+      },
+      "artists": [
+        {
+          "name": "SMITH",
+          "url": "https://open.spotify.com/artist/4XOIQF9cT5At4H0qcjhVL7"
+        }
+      ],
+      "duration_ms": 213518,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/30MkXkQ5C5Oy17YlH09XF2"
+    },
+    {
+      "added_at": "2024-03-14 21:16:21",
+      "album": {
         "name": "it\u2019s not you, it\u2019s me",
         "url": "https://open.spotify.com/album/0BDjNDdizBQAGbIRyBBeEA"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 305006,
       "name": "not enough (with Brent Faiyaz)",
       "url": "https://open.spotify.com/track/0PW454qKfnxKnkVF5pcDLX"
-    },
-    {
-      "added_at": "2024-03-14 21:16:21",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/2496dUob7BIgG26HjYbl6f"
-      },
-      "artists": [
-        {
-          "name": "SMITH",
-          "url": "https://open.spotify.com/artist/4XOIQF9cT5At4H0qcjhVL7"
-        }
-      ],
-      "duration_ms": 213518,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/30MkXkQ5C5Oy17YlH09XF2"
     },
     {
       "added_at": "2024-03-14 21:16:21",
@@ -903,6 +887,26 @@
       "duration_ms": 192400,
       "name": "go!",
       "url": "https://open.spotify.com/track/1Zz1uVTuMfulHplPaWsB4d"
+    },
+    {
+      "added_at": "2024-03-14 21:16:21",
+      "album": {
+        "name": "This Is My Life (Bontan Remix)",
+        "url": "https://open.spotify.com/album/280MVEV8ylL30zAvcIbegG"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "duration_ms": 181992,
+      "name": "This Is My Life",
+      "url": "https://open.spotify.com/track/4X4x3S7PuYXd9Mn8QB3pNx"
     }
   ],
   "unique_name": "EQUAL US",

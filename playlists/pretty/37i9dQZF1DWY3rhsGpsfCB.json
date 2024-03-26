@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 19566,
+  "num_followers": 19581,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzg1MTBiZWQ1YzY0OGI0YmU2OTZiMjMzZTQ5MGQzNGRmMzcwODMy",
+  "snapshot_id": "MCxkOWE2NWQxMjYwM2Q4MTMyY2Y2YmE2NDg0MWMxMzk1ODdiODk4NzA3",
   "tracks": [
     {
       "added_at": "2024-03-22 00:01:00",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "R e a l W o m a n",
+        "url": "https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "R e a l W o m a n",
+      "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "Ruin",
         "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 181646,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "R e a l W o m a n",
-        "url": "https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "R e a l W o m a n",
-      "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -203,22 +203,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Hyp\u00e9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
+        "name": "Not An Angel",
+        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 157402,
-      "name": "Hyp\u00e9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
+      "duration_ms": 185639,
+      "name": "Not An Angel",
+      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -239,6 +235,26 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "Hyp\u00e9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 157402,
+      "name": "Hyp\u00e9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 244446,
       "name": "Let Me Calm Down (feat. J. Cole)",
       "url": "https://open.spotify.com/track/44gmXwbdHjwQsQvsiraj14"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "That's You",
-        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 251038,
-      "name": "That's You",
-      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Not An Angel",
-        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
+        "name": "That's You",
+        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 185639,
-      "name": "Not An Angel",
-      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
+      "duration_ms": 251038,
+      "name": "That's You",
+      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "COMING HOME",
-        "url": "https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 195875,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/0UqEAKC6380mgNiIZ7dSN9"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "I Wish (feat. Libianca)",
         "url": "https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 163813,
       "name": "I Wish (feat. Libianca)",
       "url": "https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "COMING HOME",
+        "url": "https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 195875,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/0UqEAKC6380mgNiIZ7dSN9"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
-        "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 201347,
-      "name": "Risk It All - From the Original Motion Picture \u201cThe Color Purple\u201d",
-      "url": "https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/0gk7hvi9elX9iuiNuxmcNu"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 162313,
       "name": "Wild Ride - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
+        "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 201347,
+      "name": "Risk It All - From the Original Motion Picture \u201cThe Color Purple\u201d",
+      "url": "https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1027,8 +1027,8 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "I Hate That I Care",
-        "url": "https://open.spotify.com/album/76PLp48INGRaOBffDFT5t3"
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
       },
       "artists": [
         {
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
         }
       ],
-      "duration_ms": 166200,
-      "name": "I Hate That I Care",
-      "url": "https://open.spotify.com/track/2PQSqRFBhbPtQ39sHRbZkE"
+      "duration_ms": 164196,
+      "name": "Give A Little Kindness",
+      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
-      },
-      "artists": [
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 164196,
-      "name": "Give A Little Kindness",
-      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Routine Lover",
         "url": "https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 168510,
       "name": "Routine Lover",
       "url": "https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "I Hate That I Care",
+        "url": "https://open.spotify.com/album/76PLp48INGRaOBffDFT5t3"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "I Hate That I Care",
+      "url": "https://open.spotify.com/track/2PQSqRFBhbPtQ39sHRbZkE"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1247,30 +1247,6 @@
       "duration_ms": 207727,
       "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
       "url": "https://open.spotify.com/track/1kVcV9KNy7u0aHsmjHRsce"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Foreigner (Remix)",
-        "url": "https://open.spotify.com/album/5uGTNlBHY623RJaSi1c5ZR"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "Foreigner - Remix",
-      "url": "https://open.spotify.com/track/6XgQzX1QmQO5m7uVXqWEHE"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1311,6 +1287,30 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "Foreigner (Remix)",
+        "url": "https://open.spotify.com/album/5uGTNlBHY623RJaSi1c5ZR"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Foreigner - Remix",
+      "url": "https://open.spotify.com/track/6XgQzX1QmQO5m7uVXqWEHE"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "Put It Down",
         "url": "https://open.spotify.com/album/7ig0qv5ZtpaX7NPAe4nok0"
       },
@@ -1327,26 +1327,6 @@
       "duration_ms": 165340,
       "name": "Put It Down",
       "url": "https://open.spotify.com/track/62eaGs2P7yf3R5z14KIcNl"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "L.I.T (Lost In Translation)",
-        "url": "https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "40 Days",
-      "url": "https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1383,6 +1363,26 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "L.I.T (Lost In Translation)",
+        "url": "https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "40 Days",
+      "url": "https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v"
     },
     {
       "added_at": "2024-03-22 00:01:00",

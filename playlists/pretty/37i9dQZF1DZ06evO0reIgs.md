@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,506 likes - 51 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,512 likes - 51 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 27 | [As 25 Horas de Le Mans](https://open.spotify.com/track/4I5M8Y32OkiQ3YIakP0HTN) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [As 25 Horas de Le Mans](https://open.spotify.com/album/0bH3nq5jLOk2PwSqUA3A5Z) | 3:14 |
 | 28 | [Insônia](https://open.spotify.com/track/2k6GseLRHaO4UcUBlTMORl) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp) | [Ciclo Vicioso](https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ) | 3:26 |
 | 29 | [Meus Olhos](https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Meus Olhos](https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw) | 3:08 |
-| 30 | [Vai Partir](https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Efeito Violeta](https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx) | 2:57 |
-| 31 | [A Culpa É Minha](https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR) | [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Culpa É Minha](https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO) | 3:17 |
+| 30 | [A Culpa É Minha](https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR) | [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Culpa É Minha](https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO) | 3:17 |
+| 31 | [Vai Partir](https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Efeito Violeta](https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx) | 2:57 |
 | 32 | [Tão Forte](https://open.spotify.com/track/1hbmVcjivTpi9i72mywUD0) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp) | [Ciclo Vicioso](https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ) | 3:02 |
 | 33 | [Sorria \(Faixa Bônus\) \- Ao Vivo](https://open.spotify.com/track/7gf10dQJDlAwOcezGQkLMi) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Não é Só Isso \(Ao Vivo\)](https://open.spotify.com/album/7lrkQh5Pu4778kx6sx6Yll) | 4:39 |
 | 34 | [Por Aqui](https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:37 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 50 | [O Troco \- Ao Vivo](https://open.spotify.com/track/44dzl8rVR1mMPccqsc0rdV) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Troco \(Ao Vivo\)](https://open.spotify.com/album/0qmayW0UP1sJLj6eX0g1EM) | 3:11 |
 | 51 | [Tiffany](https://open.spotify.com/track/6ee2iBWXIUgfzQrSbk1mwk) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY) | [Tiffany](https://open.spotify.com/album/4ksjeDtwyGRzn8xvBeabae) | 2:59 |
 
-Snapshot ID: `Mjg1MjEzNzEsMDAwMDAwMDA2ZjRmNmE4MDMyMzRlMmI1NTdkYWNkN2E0NjJhZDM1Mw==`
+Snapshot ID: `Mjg1MjI4ODksMDAwMDAwMDAzYTA2MzVlMTcxMGM3YjQ1NThjOTM5YTRiN2UxMDEyYw==`

@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 4958,
+  "2024-03-26": 4963,
   "date_first_scraped": "2023-11-04",
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
   "name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
@@ -880,6 +880,28 @@
     },
     {
       "album": {
+        "name": "HESITATING",
+        "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
+      },
+      "artists": [
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134706,
+      "name": "SHIT SHOW (feat. Leellamarz)",
+      "url": "https://open.spotify.com/track/2fX6NGjW9s8EukBuwZG5Y5"
+    },
+    {
+      "album": {
         "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
       },
@@ -1021,7 +1043,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 219653,
       "name": "Twenty (Prod. Jung Key)",
       "url": "https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO"

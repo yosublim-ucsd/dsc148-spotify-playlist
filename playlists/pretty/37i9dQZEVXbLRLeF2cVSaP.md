@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,479 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,491 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Можно я с тобой](https://open.spotify.com/track/4CvrZAA0I1rG4tlvwYydi4) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой](https://open.spotify.com/album/7Kc9koYXi87S1nPJ9EOZmK) | 2:12 |
+| 1 | [Можно я с тобой \(can i come with you\)](https://open.spotify.com/track/4CvrZAA0I1rG4tlvwYydi4) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой \(can i come with you\)](https://open.spotify.com/album/7Kc9koYXi87S1nPJ9EOZmK) | 2:12 |
 | 2 | [Последняя Любовь](https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Последняя Любовь](https://open.spotify.com/album/59CC4ZIo1kH4AG9WsXLoJY) | 2:42 |
 | 3 | [ПОДАРОК](https://open.spotify.com/track/1Mm9DXmUXT2xiCQAZPEEaK) | [АКУЛИЧ](https://open.spotify.com/artist/5DUv28BBZb6uQ0VLaZ36XZ), [Молодой Платон](https://open.spotify.com/artist/3yUI9YVLxfPiQHOv07gwAi) | [ПОДАРОК](https://open.spotify.com/album/6CgHw7fVn7IGRn6UxLbIf3) | 2:39 |
 | 4 | [juice](https://open.spotify.com/track/2PXxdh7WHZAlONZW8P3H2h) | [daryana](https://open.spotify.com/artist/5GVO9K6Iaebk8oQnXGTzqL) | [juice](https://open.spotify.com/album/704AHdqt76FvWV8EFSPtDV) | 1:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
 | 50 | [Black Siemens](https://open.spotify.com/track/3mhA3HuRldiEtTvCpJ2Act) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [Black Siemens](https://open.spotify.com/album/1TOJ9ovpiEAt7RAAykYVRy) | 3:10 |
 
-Snapshot ID: `NzY0NjQ0ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY0NzMxMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

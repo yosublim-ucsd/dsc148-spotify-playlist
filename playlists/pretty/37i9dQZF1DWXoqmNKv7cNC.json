@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mujeres mexicanas a todo volumen! ",
-  "num_followers": 103297,
+  "num_followers": 103284,
   "original_name": "EQUAL M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGFmOGZiZTRlNWU2YTQ3ZjlhMmY0Y2ZmYjIzYzE1ODRmNzU3ZDQ1",
+  "snapshot_id": "MCwwYjg5NGRlMTQzMTRhODZiOGM5MDdhNWVlNDNhYmEwYTJlNjVjNTMy",
   "tracks": [
     {
       "added_at": "2024-03-22 06:00:00",
@@ -143,26 +143,6 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 211791,
-      "name": "MILAMORES",
-      "url": "https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
         "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
         "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
       },
@@ -179,18 +159,22 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Ojo X Ojo",
-        "url": "https://open.spotify.com/album/3z2e4ob5NdNuKyyGhOgB5W"
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
       },
       "artists": [
         {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 181106,
-      "name": "Ojo X Ojo",
-      "url": "https://open.spotify.com/track/0W4yC1CrhJVQCpcFrB6oGU"
+      "duration_ms": 211791,
+      "name": "MILAMORES",
+      "url": "https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -215,6 +199,38 @@
       "duration_ms": 204613,
       "name": "Continental",
       "url": "https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Ojo X Ojo",
+        "url": "https://open.spotify.com/album/3z2e4ob5NdNuKyyGhOgB5W"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "Ojo X Ojo",
+      "url": "https://open.spotify.com/track/0W4yC1CrhJVQCpcFrB6oGU"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 204426,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/6VfjKPhMwcPJYTBgB3k7xo"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -247,22 +263,6 @@
       "duration_ms": 171750,
       "name": "Yo no Necesito de Mucho",
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 204426,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/6VfjKPhMwcPJYTBgB3k7xo"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "Nada me cansa",
+        "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 122553,
+      "name": "Nada me cansa",
+      "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "Sol",
         "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 194148,
       "name": "M\u00e1scara de Ni\u00f1a",
       "url": "https://open.spotify.com/track/4i2Gvi7vMbrr1IGvSfUSYd"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "Nada me cansa",
-        "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 122553,
-      "name": "Nada me cansa",
-      "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/6DQlYPl1V2Ar7ct0GCpIgI"
+      },
+      "artists": [
+        {
+          "name": "Karina Galicia",
+          "url": "https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z"
+        }
+      ],
+      "duration_ms": 162983,
+      "name": "V\u00e9rtigo",
+      "url": "https://open.spotify.com/track/1HDJnfVdx1gcziU6ZhEZcd"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/3PKLQmB3kl3OubFIdkV01O"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 232895,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/6PpeVjbkQh759WPQVvieZU"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/6DQlYPl1V2Ar7ct0GCpIgI"
-      },
-      "artists": [
-        {
-          "name": "Karina Galicia",
-          "url": "https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z"
-        }
-      ],
-      "duration_ms": 162983,
-      "name": "V\u00e9rtigo",
-      "url": "https://open.spotify.com/track/1HDJnfVdx1gcziU6ZhEZcd"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "OTM",
+        "url": "https://open.spotify.com/album/5bgM2zZ6BIezZgLGJP1s50"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 127208,
+      "name": "OTM",
+      "url": "https://open.spotify.com/track/7wnSvBYZF4YZbM92M6tyBy"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/50HwL1s1yIlbECtQ3SznIs"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 249600,
       "name": "El Espejo Y El Oro",
       "url": "https://open.spotify.com/track/2ntloEnUxFOFgQ6lh6Xlob"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "OTM",
-        "url": "https://open.spotify.com/album/5bgM2zZ6BIezZgLGJP1s50"
-      },
-      "artists": [
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 127208,
-      "name": "OTM",
-      "url": "https://open.spotify.com/track/7wnSvBYZF4YZbM92M6tyBy"
     },
     {
       "added_at": "2024-03-22 06:00:00",

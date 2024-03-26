@@ -1,12 +1,12 @@
 {
   "description": "todo mundo odeia o igor",
-  "num_followers": 1363215,
+  "num_followers": 1363982,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzA0NjVhMjFiNmI2MWMyZmExZWMxYmNjZGUyZWIzYWYzNmI1NTFl",
+  "snapshot_id": "MCw5MmNkMTAyZjUwNDExMTIwOWZmYzA0ZmE2NDJjODdiMGVlNjBlZThm",
   "tracks": [
     {
       "added_at": "2024-03-22 11:49:01",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2024-03-22 11:49:01",
       "album": {
+        "name": "Nois \u00e9 Nois",
+        "url": "https://open.spotify.com/album/42I7nPQNGF5TxZiP8Esk2X"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Nois \u00e9 Nois",
+      "url": "https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA"
+    },
+    {
+      "added_at": "2024-03-22 11:49:01",
+      "album": {
         "name": "Cart\u00e3o Black",
         "url": "https://open.spotify.com/album/23R4fvlUILMwCpu3tpgiMH"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 159973,
       "name": "Cart\u00e3o Black",
       "url": "https://open.spotify.com/track/12YCtLHGk6tP6RbHDHflCs"
-    },
-    {
-      "added_at": "2024-03-22 11:49:01",
-      "album": {
-        "name": "Nois \u00e9 Nois",
-        "url": "https://open.spotify.com/album/42I7nPQNGF5TxZiP8Esk2X"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Nois \u00e9 Nois",
-      "url": "https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA"
     },
     {
       "added_at": "2024-03-22 11:49:01",
@@ -1267,6 +1267,38 @@
     {
       "added_at": "2024-03-22 11:49:01",
       "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Dj Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 200039,
+      "name": "Ela joga no 7",
+      "url": "https://open.spotify.com/track/4ML8zKHATI6s31xmdQD0Qa"
+    },
+    {
+      "added_at": "2024-03-22 11:49:01",
+      "album": {
         "name": "Fernando de Noronha",
         "url": "https://open.spotify.com/album/1txWGY681VHHA99JdD7LcH"
       },
@@ -1323,38 +1355,6 @@
     {
       "added_at": "2024-03-22 11:49:01",
       "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Dj Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 200039,
-      "name": "Ela joga no 7",
-      "url": "https://open.spotify.com/track/4ML8zKHATI6s31xmdQD0Qa"
-    },
-    {
-      "added_at": "2024-03-22 11:49:01",
-      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -1379,6 +1379,26 @@
       "duration_ms": 186947,
       "name": "Ai Calica",
       "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
+    },
+    {
+      "added_at": "2024-03-22 11:49:01",
+      "album": {
+        "name": "Distante",
+        "url": "https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD"
     },
     {
       "added_at": "2024-03-22 11:49:01",
@@ -1439,26 +1459,6 @@
     {
       "added_at": "2024-03-22 11:49:01",
       "album": {
-        "name": "Distante",
-        "url": "https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Distante",
-      "url": "https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD"
-    },
-    {
-      "added_at": "2024-03-22 11:49:01",
-      "album": {
         "name": "RICKNELSO",
         "url": "https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR"
       },
@@ -1483,6 +1483,26 @@
       "duration_ms": 165230,
       "name": "L\u00e1 no PPG",
       "url": "https://open.spotify.com/track/6Oj0oJD4feRnzrAbcYqURl"
+    },
+    {
+      "added_at": "2024-03-22 11:49:01",
+      "album": {
+        "name": "Kamehameha",
+        "url": "https://open.spotify.com/album/0t1RQSdcT6YhZVoNvTcUHu"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "DJ Thi Marquez",
+          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Kamehameha",
+      "url": "https://open.spotify.com/track/1V8utCbISlbpINEMvEd7nc"
     },
     {
       "added_at": "2024-03-22 11:49:01",
@@ -1523,26 +1543,6 @@
     {
       "added_at": "2024-03-22 11:49:01",
       "album": {
-        "name": "Kamehameha",
-        "url": "https://open.spotify.com/album/0t1RQSdcT6YhZVoNvTcUHu"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "DJ Thi Marquez",
-          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Kamehameha",
-      "url": "https://open.spotify.com/track/1V8utCbISlbpINEMvEd7nc"
-    },
-    {
-      "added_at": "2024-03-22 11:49:01",
-      "album": {
         "name": "Disposi\u00e7\u00e3o e Atividade",
         "url": "https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU"
       },
@@ -1567,42 +1567,6 @@
       "duration_ms": 164874,
       "name": "Disposi\u00e7\u00e3o e Atividade",
       "url": "https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ"
-    },
-    {
-      "added_at": "2024-03-22 11:49:01",
-      "album": {
-        "name": "Todo Mundo Odeia o IG",
-        "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        }
-      ],
-      "duration_ms": 164138,
-      "name": "Ol\u00e1, Mo\u00e7a",
-      "url": "https://open.spotify.com/track/7umgf0NrHZgIAI0ep64sLc"
     },
     {
       "added_at": "2024-03-22 11:49:01",
@@ -1643,6 +1607,74 @@
       "duration_ms": 294418,
       "name": "Sereia",
       "url": "https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf"
+    },
+    {
+      "added_at": "2024-03-22 11:49:01",
+      "album": {
+        "name": "Perdas & Ganhos",
+        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 162506,
+      "name": "Celine",
+      "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
+    },
+    {
+      "added_at": "2024-03-22 11:49:01",
+      "album": {
+        "name": "Todo Mundo Odeia o IG",
+        "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "duration_ms": 164138,
+      "name": "Ol\u00e1, Mo\u00e7a",
+      "url": "https://open.spotify.com/track/7umgf0NrHZgIAI0ep64sLc"
     },
     {
       "added_at": "2024-03-22 11:49:01",
@@ -1715,38 +1747,6 @@
     {
       "added_at": "2024-03-22 11:49:01",
       "album": {
-        "name": "Perdas & Ganhos",
-        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 162506,
-      "name": "Celine",
-      "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
-    },
-    {
-      "added_at": "2024-03-22 11:49:01",
-      "album": {
         "name": "Homenagem Aos Rel\u00edquias 6",
         "url": "https://open.spotify.com/album/6gircmXubpamNOojqAYziw"
       },
@@ -1799,6 +1799,30 @@
     {
       "added_at": "2024-03-22 11:49:01",
       "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 229326,
+      "name": "Melhor S\u00f3",
+      "url": "https://open.spotify.com/track/2fwDJWwEr9gKzVZAP3gjM9"
+    },
+    {
+      "added_at": "2024-03-22 11:49:01",
+      "album": {
         "name": "Set Ajc 2",
         "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
       },
@@ -1847,46 +1871,6 @@
     {
       "added_at": "2024-03-22 11:49:01",
       "album": {
-        "name": "VIP",
-        "url": "https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 130800,
-      "name": "VIP",
-      "url": "https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3"
-    },
-    {
-      "added_at": "2024-03-22 11:49:01",
-      "album": {
-        "name": "Contradi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 229326,
-      "name": "Melhor S\u00f3",
-      "url": "https://open.spotify.com/track/2fwDJWwEr9gKzVZAP3gjM9"
-    },
-    {
-      "added_at": "2024-03-22 11:49:01",
-      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 178407,
       "name": "2023",
       "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
+    },
+    {
+      "added_at": "2024-03-22 11:49:01",
+      "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 130800,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3"
     }
   ],
   "unique_name": "creme",

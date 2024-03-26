@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1220129,
+  "num_followers": 1220257,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDVjODQ0YThjNjczZmMwMWI1ZmI2MDgyMmViZjZhMDRmMDJiN2Nl",
+  "snapshot_id": "MCxkZDdiYzRiYzdlMjQ5MDNmYmI3YjdmNGMxYjAwNDlmNzI1NmFhOWZk",
   "tracks": [
     {
       "added_at": "2024-03-20 08:21:42",
@@ -159,6 +159,38 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
+        "name": "Turn Up The Quiet",
+        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3ts3nBCGF7K9JvSjWVQfX8"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
         "name": "Got You on My Mind",
         "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
       },
@@ -195,38 +227,6 @@
       "duration_ms": 283093,
       "name": "When I Fall in Love (feat. Chris Botti)",
       "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/3ts3nBCGF7K9JvSjWVQfX8"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
-        "name": "Turn Up The Quiet",
-        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "This Dream Of You",
-        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 319226,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "Around The City",
         "url": "https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 240413,
       "name": "Save Your Love For Me",
       "url": "https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
+        "name": "This Dream Of You",
+        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 319226,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "Language of Love",
-        "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 213447,
-      "name": "There You Are (Second Chance)",
-      "url": "https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "Grover's Hat Project",
         "url": "https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0"
       },
@@ -823,6 +807,22 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
+        "name": "Language of Love",
+        "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 213447,
+      "name": "There You Are (Second Chance)",
+      "url": "https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
         "name": "OK Crooner",
         "url": "https://open.spotify.com/album/13yp37PL2hnN1fP25AFB6J"
       },
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "I've Got You Under My Skin",
-        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 209848,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "Date With A Dream",
         "url": "https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "Language Of Love",
-        "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
+        "name": "I've Got You Under My Skin",
+        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
       },
       "artists": [
         {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
         }
       ],
-      "duration_ms": 256174,
-      "name": "Language Of Love",
-      "url": "https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8"
+      "duration_ms": 209848,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -951,6 +935,22 @@
       "duration_ms": 290653,
       "name": "Memories of You",
       "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
+        "name": "Language Of Love",
+        "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 256174,
+      "name": "Language Of Love",
+      "url": "https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "Sings The Rodgers & Hart Songbook",
-        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 229365,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
+        "name": "Sings The Rodgers & Hart Songbook",
+        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "Blame It On My Youth",
-        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "Li'l Darlin",
         "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 355120,
       "name": "From This Moment On",
       "url": "https://open.spotify.com/track/70xqHGcL0BI5UCUFXIjqc2"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
+        "name": "Blame It On My Youth",
+        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -1643,6 +1643,42 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
+        "name": "A New Path",
+        "url": "https://open.spotify.com/album/6f661pRqdOU9WDFmPZID3Q"
+      },
+      "artists": [
+        {
+          "name": "Elisabeth Melander",
+          "url": "https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm"
+        },
+        {
+          "name": "Martin Berggren",
+          "url": "https://open.spotify.com/artist/7qYAe49Oc3fZSX7fF0Zmmj"
+        },
+        {
+          "name": "David Andersson",
+          "url": "https://open.spotify.com/artist/0bG2MvtD9GWZgG1YPenh2A"
+        },
+        {
+          "name": "Andreas Baw",
+          "url": "https://open.spotify.com/artist/5b6rqJbzt7BdzmBlAa5qxI"
+        },
+        {
+          "name": "Inge Petersson-Lindb\u00e4ck",
+          "url": "https://open.spotify.com/artist/3sF12c1sk1dw0igDvK7EK2"
+        },
+        {
+          "name": "Bergdalakvartetten",
+          "url": "https://open.spotify.com/artist/4WMeBii3eR8cZJ0kP0SP1C"
+        }
+      ],
+      "duration_ms": 348740,
+      "name": "A New Path",
+      "url": "https://open.spotify.com/track/4g0fsmqHLOP8QyiyEA9m6k"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo"
       },
@@ -1707,42 +1743,6 @@
       "duration_ms": 251000,
       "name": "First Time",
       "url": "https://open.spotify.com/track/2sTr8pJwET8lswcaE3fdQz"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
-        "name": "A New Path",
-        "url": "https://open.spotify.com/album/6f661pRqdOU9WDFmPZID3Q"
-      },
-      "artists": [
-        {
-          "name": "Elisabeth Melander",
-          "url": "https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm"
-        },
-        {
-          "name": "Martin Berggren",
-          "url": "https://open.spotify.com/artist/7qYAe49Oc3fZSX7fF0Zmmj"
-        },
-        {
-          "name": "David Andersson",
-          "url": "https://open.spotify.com/artist/0bG2MvtD9GWZgG1YPenh2A"
-        },
-        {
-          "name": "Andreas Baw",
-          "url": "https://open.spotify.com/artist/5b6rqJbzt7BdzmBlAa5qxI"
-        },
-        {
-          "name": "Inge Petersson-Lindb\u00e4ck",
-          "url": "https://open.spotify.com/artist/3sF12c1sk1dw0igDvK7EK2"
-        },
-        {
-          "name": "Bergdalakvartetten",
-          "url": "https://open.spotify.com/artist/4WMeBii3eR8cZJ0kP0SP1C"
-        }
-      ],
-      "duration_ms": 348740,
-      "name": "A New Path",
-      "url": "https://open.spotify.com/track/4g0fsmqHLOP8QyiyEA9m6k"
     },
     {
       "added_at": "2024-03-20 08:21:42",

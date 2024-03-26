@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3707785,
+  "num_followers": 3707966,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDc0ZmNkYzFiYTU3YjdlM2Q5YTAxNDE5ZGVlZTNjZjYwMzM0NDdi",
+  "snapshot_id": "MCwwMTExYTIxMTU5YTdhNWRkZGUzZWEyZDllMzRhY2IyY2U4ZmU0ZjNl",
   "tracks": [
     {
       "added_at": "2024-03-22 04:01:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Spring Embers",
+        "url": "https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 212459,
+      "name": "Spring Embers",
+      "url": "https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/1BBT9e9UssKGz49zmGAFRH"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 168398,
       "name": "With You",
       "url": "https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Spring Embers",
-        "url": "https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 212459,
-      "name": "Spring Embers",
-      "url": "https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Ray Of Solar (Mau P Remix)",
-        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Ray Of Solar - Mau P Remix",
-      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/5W23C2gErmU9mf8BHEPdhr"
       },
@@ -875,6 +855,26 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Ray Of Solar (Mau P Remix)",
+        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Ray Of Solar - Mau P Remix",
+      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/0UBMDH6SZpQCvGq42yjRtp"
       },
@@ -891,26 +891,6 @@
       "duration_ms": 165952,
       "name": "Reason",
       "url": "https://open.spotify.com/track/6D8hNLZL3lz5Cp392mjrlG"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Cold Enough For Snow",
-        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 251731,
-      "name": "Glasshouse (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -979,6 +959,26 @@
       "duration_ms": 249012,
       "name": "I Can Make It",
       "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Cold Enough For Snow",
+        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 251731,
+      "name": "Glasshouse (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "All My Friends",
-        "url": "https://open.spotify.com/album/1LclfXDVjTM6b39cCVlLgG"
-      },
-      "artists": [
-        {
-          "name": "Arinity",
-          "url": "https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy"
-        },
-        {
-          "name": "LissA",
-          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
-        }
-      ],
-      "duration_ms": 172331,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/1Foh6n4d1Vs8oWw9PNYye8"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Running In A Dream",
         "url": "https://open.spotify.com/album/0QwLVfeowQtETeolwF7V5x"
       },
@@ -1171,22 +1151,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Where did you go",
-        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1LclfXDVjTM6b39cCVlLgG"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "Arinity",
+          "url": "https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy"
         },
         {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Where did you go",
-      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
+      "duration_ms": 172331,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/1Foh6n4d1Vs8oWw9PNYye8"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1207,6 +1187,26 @@
       "duration_ms": 212906,
       "name": "IOU",
       "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Where did you go",
+        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Where did you go",
+      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a"
+      },
+      "artists": [
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "Before Dawn",
         "url": "https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 198574,
       "name": "Before Dawn",
       "url": "https://open.spotify.com/track/4eAz5Na2BaEVpPxhOrq5pc"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a"
-      },
-      "artists": [
-        {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
-        }
-      ],
-      "duration_ms": 194730,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "The Chase (Edit)",
-        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "The Chase (Edit)",
-      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Rule The World",
         "url": "https://open.spotify.com/album/1tXbZl7KpKIsBcNfYi2qth"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 176341,
       "name": "Rule The World",
       "url": "https://open.spotify.com/track/5h0uSprKS095tjlzkVhG3t"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "The Chase (Edit)",
+        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "The Chase (Edit)",
+      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Manzanita",
+        "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        }
+      ],
+      "duration_ms": 164433,
+      "name": "Manzanita",
+      "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/1xV4Z9H7ZUvnrf526Udsw2"
       },
@@ -1447,18 +1463,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Manzanita",
-        "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
+        "name": "Breaking Apart",
+        "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
       },
       "artists": [
         {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 164433,
-      "name": "Manzanita",
-      "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
+      "duration_ms": 275958,
+      "name": "Breaking Apart",
+      "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1499,26 +1519,6 @@
       "duration_ms": 247447,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3w9Y8pn8IslbbCL970xMcy"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Breaking Apart",
-        "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
-      },
-      "artists": [
-        {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 275958,
-      "name": "Breaking Apart",
-      "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Rave",
+        "url": "https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 288387,
+      "name": "Rave",
+      "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "Highest Love",
         "url": "https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 297374,
       "name": "Highest Love",
       "url": "https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Rave",
-        "url": "https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 288387,
-      "name": "Rave",
-      "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "snowfall",
-        "url": "https://open.spotify.com/album/77vLEdWiuJQt9oyPG84csK"
-      },
-      "artists": [
-        {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
-        }
-      ],
-      "duration_ms": 141785,
-      "name": "snowfall",
-      "url": "https://open.spotify.com/track/2e3KEsdhY5S2RDl593dbOE"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Must Be Dreaming",
         "url": "https://open.spotify.com/album/7bplOyFHY3tfZUgUr1KcCp"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 262221,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "snowfall",
+        "url": "https://open.spotify.com/album/77vLEdWiuJQt9oyPG84csK"
+      },
+      "artists": [
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        }
+      ],
+      "duration_ms": 141785,
+      "name": "snowfall",
+      "url": "https://open.spotify.com/track/2e3KEsdhY5S2RDl593dbOE"
     },
     {
       "added_at": "2024-03-22 04:01:00",

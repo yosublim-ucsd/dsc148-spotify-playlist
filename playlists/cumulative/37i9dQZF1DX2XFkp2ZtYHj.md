@@ -4,13 +4,14 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-217 songs - 9 hr 11 min
+223 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A brotherly bond](https://open.spotify.com/track/6DReunGeNcEntHHBqFXVK3) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [A brotherly bond](https://open.spotify.com/album/1EO0TG4JY9dnJe7KXi0vL3) | 2:04 | 2023-10-18 |  |
 | [A Day In June](https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus) | [Half Giant](https://open.spotify.com/artist/3nEq4JXO2GPqB7n95OacSk) | [A Day In June](https://open.spotify.com/album/7ssXeTKWZ23Y7g6CKzKrvd) | 2:00 | 2023-10-18 |  |
 | [A Path to Light](https://open.spotify.com/track/3I2YenkJ3pTUrCSgCmzkfX) | [Sylvan Riley](https://open.spotify.com/artist/5gjHc1ZN85jbDWD5KBh2Va) | [A Path to Light](https://open.spotify.com/album/5gi00HffqWDPjJToA1tPT8) | 2:22 | 2023-10-18 |  |
+| [A place of peace](https://open.spotify.com/track/1BhXzIRZGi3qdKoFUFfFfs) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [A place of peace](https://open.spotify.com/album/6cgDCpcdalyujS9oZjK7f4) | 2:40 | 2024-03-25 |  |
 | [A Song in D Minor](https://open.spotify.com/track/1EA7xsn5BkqM4rwZCaSiTM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Song in D Minor](https://open.spotify.com/album/62MuvulljSXeo7VowDXfEX) | 3:23 | 2023-10-18 |  |
 | [A Soulful Journey](https://open.spotify.com/track/12anw5aeRQWbQVZINMKaoo) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [A Soulful Journey](https://open.spotify.com/album/3nNSJxyQHDBzYOrWrtaP2q) | 2:44 | 2024-02-21 |  |
 | [A tale to tell](https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [A tale to tell](https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc) | 2:10 | 2023-10-18 |  |
@@ -58,6 +59,7 @@
 | [Danse tout la nuit](https://open.spotify.com/track/3ja48XMPsI7C2TxHxS0UZQ) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Danse tout la nuit](https://open.spotify.com/album/1rmNlzudVpC7TrS89E6m5a) | 2:56 | 2023-10-18 |  |
 | [Del Mar](https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Del Mar](https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ) | 2:40 | 2023-10-18 |  |
 | [Displacement](https://open.spotify.com/track/2nUvXZC2yPa7tv9lfwNgDm) | [Maximilian Power](https://open.spotify.com/artist/58F0bW6KZx2P6sXbPvn2i6) | [Displacement](https://open.spotify.com/album/3BPVaQ5np2VwXbTxGYiE2S) | 2:26 | 2023-10-18 |  |
+| [Domes on the horizon](https://open.spotify.com/track/3oGszxPqZw7HDFBPUKGMhX) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Domes on the horizon](https://open.spotify.com/album/0z90JjgNr0EUPxjyiG1smN) | 2:39 | 2024-03-25 |  |
 | [Dormendi](https://open.spotify.com/track/2fhJokmG2tWLEIspaOyWzL) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Dormendi](https://open.spotify.com/album/1IKp4YnhKuAaIZDAbzkCc9) | 2:26 | 2023-10-18 |  |
 | [Dreamscape](https://open.spotify.com/track/2NBflxsb2XJnTEBrFXy5XF) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Dreamscape](https://open.spotify.com/album/6NATzdC2BiLCImkdKA16jM) | 2:26 | 2023-10-18 |  |
 | [Dreamt, far hope...](https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Dreamt, far hope...](https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF) | 2:19 | 2023-10-18 |  |
@@ -70,8 +72,10 @@
 | [Elysian](https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Elysian](https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ) | 2:19 | 2023-10-18 |  |
 | [Emerald](https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew) | [Agatha Messina](https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI) | [Emerald](https://open.spotify.com/album/68F0SS9ueRjE4NUhAReYDE) | 2:17 | 2024-02-21 |  |
 | [Enchanted](https://open.spotify.com/track/4VFWqPpohVxrvj0X30zY7M) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Enchanted](https://open.spotify.com/album/1Ok4CK8AVQH0v7KAVkmHSS) | 2:16 | 2023-10-18 |  |
+| [Equinox](https://open.spotify.com/track/4wv3ixqGPuO0Rdbf3Ut0PU) | [Marco Apicella](https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms) | [Equinox](https://open.spotify.com/album/7HngB2j6G8OPPegkEIEBXY) | 2:58 | 2024-03-25 |  |
 | [Erzählung](https://open.spotify.com/track/7KGvAbdvYZEtTOCIWNG205) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [Erzählung](https://open.spotify.com/album/38CElXf2rWdFfn6wGN2Efb) | 2:51 | 2023-10-18 |  |
 | [Esperanza](https://open.spotify.com/track/5Mh54AIaFYYUMT3RGBJurm) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Esperanza](https://open.spotify.com/album/5jIyI96vqZTFgY0OoS2m1s) | 2:01 | 2023-10-18 |  |
+| [Evening Kiss](https://open.spotify.com/track/7oRhmSpKMqtKiwehArtSuV) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Evening Kiss](https://open.spotify.com/album/1Np1NDLsb96CWB9xBnOHiR) | 3:16 | 2024-03-25 |  |
 | [Everyday](https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Everyday](https://open.spotify.com/album/6wtmiUX46vgAtAZ64UHtK2) | 2:19 | 2023-10-18 |  |
 | [Evoke](https://open.spotify.com/track/5nH4IicA1G7pxIfgHPZNp0) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Evoke](https://open.spotify.com/album/6C8bQ1SVXBEbc2bTJDndJH) | 2:14 | 2023-10-18 |  |
 | [Faded](https://open.spotify.com/track/4C9kR80niObXQuXV2xb430) | [Michel Couture](https://open.spotify.com/artist/6qKPv4O4fkzGQhybUN1Vug) | [Faded](https://open.spotify.com/album/5pgeHYd16IazzjwyxLLpEg) | 2:07 | 2023-10-18 |  |
@@ -131,6 +135,7 @@
 | [Ma danse avec toi](https://open.spotify.com/track/0DZwhqf4al0ykWMR9azxz5) | [Oscar Latreux](https://open.spotify.com/artist/3sdfC805aK4OSRQ5YdlDLK) | [Ma danse avec toi](https://open.spotify.com/album/1g81bFVcK5rzjJuG4pzzRx) | 2:05 | 2023-10-18 |  |
 | [Med solen i øynene](https://open.spotify.com/track/0jw7ZhzCPQVAR6b7rQT1QJ) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Med solen i øynene](https://open.spotify.com/album/1ryTkAZErijdDtxLoMHklz) | 2:27 | 2023-10-18 |  |
 | [Melancholy](https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Melancholy](https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3) | 3:34 | 2023-10-18 |  |
+| [Mellow Nocturne](https://open.spotify.com/track/2NNmPTE5H2BmMqnjGDgoMv) | [Kristján Sigurðsson](https://open.spotify.com/artist/3BdsSsPWnueaOw8P8cdbBi) | [Mellow Nocturne](https://open.spotify.com/album/2LP08KCpqVFanr8HIAHlnO) | 2:00 | 2024-03-25 |  |
 | [Memoirs](https://open.spotify.com/track/1SyAYIrYK269TynosiAY1L) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Memoirs](https://open.spotify.com/album/0yvsOmzn4odyU2em1bj652) | 2:53 | 2023-12-13 |  |
 | [Mélange Weaved](https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Mélange Weaved](https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq) | 2:06 | 2023-10-18 |  |
 | [Nampara](https://open.spotify.com/track/13ZOm83FYYkh6801bZGoPB) | [Noah Walsh](https://open.spotify.com/artist/58pG5qSAHNUCZRBNdNL2PY) | [Nampara](https://open.spotify.com/album/4VLKt2x4Lj7zkgnWNNRqFP) | 3:50 | 2023-10-18 |  |
@@ -147,6 +152,7 @@
 | [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 | 2023-10-18 |  |
 | [Passion and Fire](https://open.spotify.com/track/5tTv0eBtH62dVailpRZ46C) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Passion and Fire](https://open.spotify.com/album/55AHv4KY3jolnloSltgAou) | 2:24 | 2023-10-18 |  |
 | [Paths](https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Paths](https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC) | 2:52 | 2023-10-18 |  |
+| [Perfect Timing](https://open.spotify.com/track/6LUP8h81Gl3GzEMU7OaWxZ) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Perfect Timing](https://open.spotify.com/album/3IsqmVQFD31pAnxaKjmT4i) | 2:40 | 2024-03-25 |  |
 | [Pneuma](https://open.spotify.com/track/66AEotuooy840dzHKyW9Ks) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Pneuma](https://open.spotify.com/album/264KiTwubNhJtDZByhbqKI) | 2:21 | 2023-10-18 |  |
 | [Poema](https://open.spotify.com/track/7a2UsjQknwvctwlSYhiikH) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Poema](https://open.spotify.com/album/3mcNY82C2lWEMJPWv7NYiX) | 2:01 | 2023-10-18 |  |
 | [Poletje](https://open.spotify.com/track/3VJ0vnnH8Q4OeUsLpAae3s) | [Valbona Ceferin](https://open.spotify.com/artist/2iH6SSywrGgmHMA5ODnZcJ) | [Poletje](https://open.spotify.com/album/3VaIqSs3sZT75qKjysHgUP) | 2:16 | 2023-10-18 |  |

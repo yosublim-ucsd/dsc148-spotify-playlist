@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,277 likes - 100 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,916 likes - 100 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 99 | [yupyupyup! \- sped up](https://open.spotify.com/track/06okRLQyfhbdVcAjVZjWyE) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [yupyupyup!](https://open.spotify.com/album/7tpUVeVU3i2FgYLhTwfYud) | 1:09 |
 | 100 | [DREAMSCAPE](https://open.spotify.com/track/4KXtgsfFfjLWCiyqdwUwQh) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [cyberia](https://open.spotify.com/artist/0HZkYrBotoNqUyH6B9aDaE) | [DREAMSCAPE](https://open.spotify.com/album/6lIObPGguCyVTQf8f1RVag) | 2:00 |
 
-Snapshot ID: `MCxjZjdmMTIwNGEzNDk1NTdiZWRlY2YyNzE1ZTQ3NTIzODY3NmEyOWEz`
+Snapshot ID: `MCxjY2Y4OTQwNTVkODk1NjkyZWI3OThhMWU5YTY2ZjIzYjE2OTliNDI3`

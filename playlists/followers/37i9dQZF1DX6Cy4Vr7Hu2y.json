@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 957855,
+  "2024-03-26": 957952,
   "date_first_scraped": "2021-12-21",
   "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: (G)I-DLE) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "EQUAL K-Pop",
@@ -393,6 +393,24 @@
       "duration_ms": 215026,
       "name": "AURA",
       "url": "https://open.spotify.com/track/4jP982FpZoDv729D0X8BiN"
+    },
+    {
+      "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/2Abu3BsKcVE3bSdXk6Cukx"
+      },
+      "artists": [
+        {
+          "name": "Kim NamJoo",
+          "url": "https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158066,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/2TAK1QNGElbN2fIy6UOu4J"
     },
     {
       "album": {
@@ -3637,7 +3655,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 180320,
       "name": "MOONLIGHT SUNRISE",
       "url": "https://open.spotify.com/track/5IN9W6eUfk3014My9awagX"
@@ -5701,7 +5719,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 235392,
       "name": "The day was beautiful",
       "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
@@ -6725,7 +6743,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-21",
+      "date_removed": null,
       "duration_ms": 237680,
       "name": "YES or YES",
       "url": "https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9"

@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 153908,
+  "2024-03-26": 153944,
   "date_first_scraped": "2023-07-29",
   "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
   "name": "This Is Lil Nas X",
@@ -137,7 +137,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 154997,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"
@@ -159,7 +159,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 114893,
       "name": "Panini",
       "url": "https://open.spotify.com/track/1000nHvUdawXuUHgBod4Wv"

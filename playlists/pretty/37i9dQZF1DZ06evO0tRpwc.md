@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 
 > This is Daniela Araújo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,353 likes - 52 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,355 likes - 52 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 | 45 | [Sintonia](https://open.spotify.com/track/2yKjWCsYFa4ohq2EjvdsYu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Catarse: Lado B](https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt) | 3:22 |
 | 46 | [Seja o Centro](https://open.spotify.com/track/6IX12PDdTOA5YgESL8bTqV) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 3:29 |
 | 47 | [Você Consegue Sim](https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Acústico, Vol\. 2](https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB) | 3:19 |
-| 48 | [Bem Melhor =\) \(Fogo\) \- Piano e Voz](https://open.spotify.com/track/3K7q49Ism6zlVIS03yHc0Y) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs) | [Bem Melhor =\) \(Fogo\)](https://open.spotify.com/album/1geA7zrjdcCV7MN1vLlsMS) | 3:17 |
-| 49 | [Agosto](https://open.spotify.com/track/3R43RMacWkMUFF1KrSQynL) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Agosto](https://open.spotify.com/album/0prdRbt3UnxKHVvWB4gkR2) | 5:02 |
-| 50 | [Lo Que Hace Falta](https://open.spotify.com/track/4QqyzeKCR16fgCz4RGgVEN) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Nexus VII](https://open.spotify.com/album/2R3mfkFyi2rdOHqVhdE5fw) | 4:45 |
+| 48 | [Agosto](https://open.spotify.com/track/3R43RMacWkMUFF1KrSQynL) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Agosto](https://open.spotify.com/album/0prdRbt3UnxKHVvWB4gkR2) | 5:02 |
+| 49 | [Lo Que Hace Falta](https://open.spotify.com/track/4QqyzeKCR16fgCz4RGgVEN) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Nexus VII](https://open.spotify.com/album/2R3mfkFyi2rdOHqVhdE5fw) | 4:45 |
+| 50 | [Junho](https://open.spotify.com/track/2fOehLLcslyjeaI4QKP35A) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 4:02 |
 | 51 | [Está Tudo Bem](https://open.spotify.com/track/0bvMua9rdpjzLYmKCgLuK4) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Acústico, Vol\. 1](https://open.spotify.com/album/1bmhKa2YvWFQgfYrxddKD5) | 5:31 |
-| 52 | [Junho](https://open.spotify.com/track/2fOehLLcslyjeaI4QKP35A) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 4:02 |
+| 52 | [Abba](https://open.spotify.com/track/58NQJq6MIMpgrF5ytneVo4) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Abba](https://open.spotify.com/album/2FWnd1O8LVTNgri202OR2W) | 4:23 |
 
-Snapshot ID: `Mjg1MjEzNzAsMDAwMDAwMDA5YmQ3ZWQ0NzkxZDdiNjc2ODU2NjljNDgwMWQ3YmIwZQ==`
+Snapshot ID: `Mjg1MjI4ODgsMDAwMDAwMDAyYTljZDRiMDJkYzllZGNlNmRiNDQ1YWU0OGQxNjQ0Nw==`

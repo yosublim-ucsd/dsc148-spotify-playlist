@@ -1,12 +1,12 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 113078,
+  "num_followers": 113110,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjE4MWFkNTAzZDdjNmMxNjI1MWNmOTEwNjJmZjRjZGU5OTM3Mjc4",
+  "snapshot_id": "MCw2OWE5Yzk1YmI1NTcxMWRmYWQ2ZjI0ZGU0MzE0OTUyMmFiZmMxNzM0",
   "tracks": [
     {
       "added_at": "2024-03-22 03:01:00",
@@ -79,6 +79,22 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "HEAVY",
+        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "ICU (with Justin Timberlake) [Remix]",
         "url": "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7"
       },
@@ -95,6 +111,38 @@
       "duration_ms": 218566,
       "name": "ICU (with Justin Timberlake) - Remix",
       "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Be My Summer",
+        "url": "https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 186540,
+      "name": "Be My Summer",
+      "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Tread Carefully",
+      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -131,22 +179,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Tread Carefully",
-      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -159,38 +191,6 @@
       "duration_ms": 204920,
       "name": "Falling or flying",
       "url": "https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "HEAVY",
-        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "Be My Summer",
-        "url": "https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 186540,
-      "name": "Be My Summer",
-      "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -243,18 +243,18 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 132213,
-      "name": "Broken is the man",
-      "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
+      "duration_ms": 204133,
+      "name": "DYING 4 YOUR LOVE",
+      "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
-        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "DYING 4 YOUR LOVE",
-      "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -347,6 +331,38 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 132213,
+      "name": "Broken is the man",
+      "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "HEAVY",
+        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 130981,
+      "name": "SATISFACTION",
+      "url": "https://open.spotify.com/track/0HMMmXVEAoQyS3BbjKi6tF"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -447,6 +463,22 @@
       "duration_ms": 222089,
       "name": "A Muse",
       "url": "https://open.spotify.com/track/7HdUnaN512R9oB2QyL8Brl"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "HEAVY",
+        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "NOTHING EVEN MATTERS",
+      "url": "https://open.spotify.com/track/5URTJ8nizZVFDSJVnyPjXf"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -627,22 +659,18 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "I Left My Heart In Ladera",
-        "url": "https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN"
+        "name": "One Night Stand",
+        "url": "https://open.spotify.com/album/3S2wJtXUAyA87jlBVxJMN4"
       },
       "artists": [
         {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+          "name": "Marsha Ambrosius",
+          "url": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
         }
       ],
-      "duration_ms": 135189,
-      "name": "Glad I Found You",
-      "url": "https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM"
+      "duration_ms": 256924,
+      "name": "One Night Stand",
+      "url": "https://open.spotify.com/track/2CDGP4sWDuaYkRB8C48dJA"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -663,6 +691,42 @@
       "duration_ms": 185753,
       "name": "Wet Dreamz",
       "url": "https://open.spotify.com/track/2OhVsFUxkFIp8LuBTjH2Rs"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "I Left My Heart In Ladera",
+        "url": "https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 135189,
+      "name": "Glad I Found You",
+      "url": "https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Julie.",
+      "url": "https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -691,22 +755,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Julie.",
-      "url": "https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "N\u00fc Moon",
         "url": "https://open.spotify.com/album/1l9aiypXkyhJx58NTJQz6O"
       },
@@ -719,22 +767,6 @@
       "duration_ms": 185983,
       "name": "Blu Moon",
       "url": "https://open.spotify.com/track/3FajiZIT42FPDBs2xhwhql"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "Nothing Even Matters",
-        "url": "https://open.spotify.com/album/6zDsHTY8HvN8tTNb1me4bY"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Nothing Even Matters",
-      "url": "https://open.spotify.com/track/19LSoauRHOQHDuXvPdi9QH"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -807,18 +839,18 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "One Night Stand",
-        "url": "https://open.spotify.com/album/3S2wJtXUAyA87jlBVxJMN4"
+        "name": "But You Caint Use My Phone (Mixtape)",
+        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
       },
       "artists": [
         {
-          "name": "Marsha Ambrosius",
-          "url": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 256924,
-      "name": "One Night Stand",
-      "url": "https://open.spotify.com/track/2CDGP4sWDuaYkRB8C48dJA"
+      "duration_ms": 310809,
+      "name": "What\u2019s Yo Phone Number / Telephone - Medley / Ghost Of Screw Mix",
+      "url": "https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -835,22 +867,6 @@
       "duration_ms": 225298,
       "name": "He Will Follow You With His Eyes",
       "url": "https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "But You Caint Use My Phone (Mixtape)",
-        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 310809,
-      "name": "What\u2019s Yo Phone Number / Telephone - Medley / Ghost Of Screw Mix",
-      "url": "https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -915,6 +931,22 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/7LzMXczfHrBcokv1j6FZev"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "Slow (feat. J Valentine)",
         "url": "https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl"
       },
@@ -931,22 +963,6 @@
       "duration_ms": 200212,
       "name": "Slow (feat. J Valentine)",
       "url": "https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Ready",
-      "url": "https://open.spotify.com/track/7LzMXczfHrBcokv1j6FZev"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Letter To Ur Ex",
-        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 134279,
-      "name": "Letter To Ur N(ex)t",
-      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Love and Be Loved",
         "url": "https://open.spotify.com/album/3ynGv03Sdz2FIWxsLPhVJ3"
       },
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "Letter To Ur Ex",
+        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 134279,
+      "name": "Letter To Ur N(ex)t",
+      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "Starfruit",
         "url": "https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Stay Here Tonight",
-      "url": "https://open.spotify.com/track/35osWEtUUselhnoFpwA3X2"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Back Home",
         "url": "https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 206304,
       "name": "GLA",
       "url": "https://open.spotify.com/track/15hiUMS0HDjcyWzVlBEh1y"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Stay Here Tonight",
+      "url": "https://open.spotify.com/track/35osWEtUUselhnoFpwA3X2"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1191,42 +1207,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "beat of a slow dance",
-        "url": "https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 234799,
-      "name": "beat of a slow dance",
-      "url": "https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/2BYmwYfn4GAalGxMmhp0nM"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 130981,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/3Dk7R9wRA9Y9uTk8IVnuDi"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Right Time (feat. Reggie Becton)",
         "url": "https://open.spotify.com/album/68GpIwLR39Lkm6B5QqmEIi"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 177371,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/279rl4oKt4TZGxMOaQa34T"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "beat of a slow dance",
+        "url": "https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "duration_ms": 234799,
+      "name": "beat of a slow dance",
+      "url": "https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
-      },
-      "artists": [
-        {
-          "name": "Keke Palmer",
-          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
-        }
-      ],
-      "duration_ms": 186294,
-      "name": "Standards",
-      "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Little Men (Deluxe)",
         "url": "https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 240074,
       "name": "Crash for a Couple",
       "url": "https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
+      },
+      "artists": [
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        }
+      ],
+      "duration_ms": 186294,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Midnight Snacks",
-        "url": "https://open.spotify.com/album/1EEE1VEoFi5y8lqe7NGfHM"
-      },
-      "artists": [
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Midnight Snacks",
-      "url": "https://open.spotify.com/track/7lampoWFogPIJZRxThSOBq"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Let Me See Your Phone",
         "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 202371,
       "name": "Let Me See Your Phone",
       "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Midnight Snacks",
+        "url": "https://open.spotify.com/album/1EEE1VEoFi5y8lqe7NGfHM"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Midnight Snacks",
+      "url": "https://open.spotify.com/track/7lampoWFogPIJZRxThSOBq"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "The Beauty Created",
+        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "duration_ms": 271453,
+      "name": "Come To My Room",
+      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "Type Of Day",
         "url": "https://open.spotify.com/album/0d4KTjthlE8DAfaFpteq6z"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 187541,
       "name": "Type Of Day",
       "url": "https://open.spotify.com/track/7o71W2N5PUPrzUDqigchCI"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "The Beauty Created",
-        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
-        }
-      ],
-      "duration_ms": 271453,
-      "name": "Come To My Room",
-      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
     },
     {
       "added_at": "2024-03-22 03:01:00",

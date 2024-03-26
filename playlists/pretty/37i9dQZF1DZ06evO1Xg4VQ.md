@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 
 > This is Lila Downs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,702 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,703 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 43 | [Los Caminos de la Vida](https://open.spotify.com/track/6c3lhT9ewcn6Vv0J8deA2b) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:25 |
 | 44 | [Perhaps, Perhaps, Perhaps](https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Border](https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc) | 4:45 |
 | 45 | [La Primavera \(feat\. Lila Downs\) \- Directo Acústico](https://open.spotify.com/track/6wr3oc1d5vyzCkaxhoJCNb) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Esto Es Estopa \(Directo Acústico\)](https://open.spotify.com/album/4SiLNaIeJ75aIJz13HjLZr) | 3:21 |
-| 46 | [El Último Trago](https://open.spotify.com/track/1P2AWJckOFVYknyTawpYlL) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:17 |
+| 46 | [Dignificada](https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:46 |
 | 47 | [Son del Chile Frito](https://open.spotify.com/track/1uPt8iweNKc5c6IhGlpiqX) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:35 |
-| 48 | [Dignificada](https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:46 |
+| 48 | [El Último Trago](https://open.spotify.com/track/1P2AWJckOFVYknyTawpYlL) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:17 |
 | 49 | [En el último trago](https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [En El Último Trago](https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6) | 3:27 |
-| 50 | [Solita Solita](https://open.spotify.com/track/35oQ9Cw0aSaaYub1YtJXkh) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:07 |
+| 50 | [Que Seas Feliz \(feat\. Lila Downs\)](https://open.spotify.com/track/6rbIrFizEB9kIdMJYx3tXH) | [Javier Camarena](https://open.spotify.com/artist/13rDolPZ1xlUWBQWxl8cED), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Javier Camarena \- La Voz de México](https://open.spotify.com/album/0XGgZddNyq7ueKObEBKpdg) | 3:11 |
 
-Snapshot ID: `Mjg1MjEzNzAsMDAwMDAwMDAyOGE1Y2U2NGYyNzQ0MTdhZjdlOGEwMzI2M2UzN2JjMA==`
+Snapshot ID: `Mjg1MjI4ODksMDAwMDAwMDAzNTRhYzRlNzJmYjk3NmE0MzVlYWMxNTBkNjkwMGFlZg==`

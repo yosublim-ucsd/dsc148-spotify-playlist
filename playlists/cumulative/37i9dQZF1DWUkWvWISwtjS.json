@@ -1219,6 +1219,28 @@
     },
     {
       "album": {
+        "name": "Noites Frustradas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2pr2utTIV4RJNcrI7fafEv"
+      },
+      "artists": [
+        {
+          "name": "Jads & Jadson",
+          "url": "https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196662,
+      "name": "Noites Frustradas - Ao Vivo",
+      "url": "https://open.spotify.com/track/5sby99lbxTE3F2RA3YWGyM"
+    },
+    {
+      "album": {
         "name": "Nosso cupido foi Deus",
         "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
       },
@@ -1992,7 +2014,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 165976,
       "name": "Vai L\u00e1",
       "url": "https://open.spotify.com/track/0s2DOPKPVg3VBodWBsXwF0"

@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 26847,
+  "2024-03-26": 26879,
   "date_first_scraped": "2022-06-20",
   "description": "The best jazz pianists today. Cover: Aaron Diehl",
   "name": "Jazz Piano Today",
@@ -2143,7 +2143,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 421082,
       "name": "Except For",
       "url": "https://open.spotify.com/track/79sF2WcTynaq58PYWt63WC"
@@ -3397,7 +3397,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 308712,
       "name": "In Place",
       "url": "https://open.spotify.com/track/2EQ4o9Bxfi9R4Xw9pty8Ae"

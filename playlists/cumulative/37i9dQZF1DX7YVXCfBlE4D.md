@@ -4,7 +4,7 @@
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-414 songs - 20 hr 23 min
+415 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [La Gloria Eres Tu](https://open.spotify.com/track/6YHvFkBxyMrAYMcW8cdxn0) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN TAN](https://open.spotify.com/album/1Kb6SN47VZMIos58X7qNBe) | 2:51 | 2021-05-15 | 2022-07-29 |
 | [La Gloria Eres Tu](https://open.spotify.com/track/1CXdivd0mEKDv5TwQV8SYK) | [“Tin\-Tan”](https://open.spotify.com/artist/1E7Dh2Q9EfdPzW86vm1k9S) | [Germán Valdés TIN TAN](https://open.spotify.com/album/56SmppKav3bpJ4pxRMycq5) | 2:48 | 2022-01-21 | 2022-11-13 |
 | [La Gloria Eres Tú](https://open.spotify.com/track/3cLKEKUpFKhlLXCTwZ9IrM) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK) | 2:51 | 2022-01-21 |  |
+| [La Malagueña](https://open.spotify.com/track/1Gz4MmEL9rMyXOj5IulBzI) | [Trio Calaveras](https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs) | [Presentando al Trio Calaveras](https://open.spotify.com/album/6Qj3RB795B1zE48jiYHMZC) | 3:38 | 2024-02-22 |  |
 | [La malagueña \- Remastered](https://open.spotify.com/track/1Ks8E9aDioQVYXXcOcOm2N) | [Trio Calaveras](https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs) | [El preso número 9 \(Remastered\)](https://open.spotify.com/album/7jIILQY6IYM13XKSU7h4lE) | 3:38 | 2021-05-15 | 2024-03-21 |
 | [La Mentira](https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Esencial Ana y Victor](https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn) | 3:05 | 2021-05-15 |  |
 | [La Morena](https://open.spotify.com/track/548xag3N1RRqouKbnrkCex) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 2:55 | 2021-05-15 | 2024-02-23 |
@@ -307,7 +308,7 @@
 | [Piel Canela](https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:17 | 2024-02-22 |  |
 | [Piel Canela](https://open.spotify.com/track/5aJW8qYYA4acvy7HBaIQV8) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Brillantes \- Eydie Gorme Y Los Panchos](https://open.spotify.com/album/2x0Uc0vEeVPsX1z80i3VcO) | 2:18 | 2021-05-15 | 2022-01-22 |
 | [Piel Canela](https://open.spotify.com/track/03TrtnCXvahRxJjwgNUiKZ) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Brillantes \- Trio Los Panchos](https://open.spotify.com/album/1CdWQRBbQ5pf40jL04RGA7) | 2:40 | 2021-05-15 | 2022-01-22 |
-| [Piel Canela](https://open.spotify.com/track/48UC9V0b98S8SjW2DROY7N) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Tesoros Mexicanos](https://open.spotify.com/album/4mjSYg50cQstsFANqUkqaO) | 2:33 | 2024-02-22 |  |
+| [Piel Canela](https://open.spotify.com/track/48UC9V0b98S8SjW2DROY7N) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Tesoros Mexicanos](https://open.spotify.com/album/4mjSYg50cQstsFANqUkqaO) | 2:33 | 2024-02-22 | 2024-03-26 |
 | [Piel Canela](https://open.spotify.com/track/4qLq0mCLaDJ6O4mRXkLdYR) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [XEW La Voz de America Latina](https://open.spotify.com/album/5qRVnMhV3tMJkiFdyCccVs) | 2:33 | 2021-05-15 | 2022-01-22 |
 | [Piensa en Mi](https://open.spotify.com/track/59fak68RqVVzQYAbH9VOym) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/4UlE2kIAik6pcM15aztAhs) | 2:27 | 2021-05-15 | 2022-07-29 |
 | [Piensa en Mi](https://open.spotify.com/track/4XpEUhAR4n6F85VRx2AoTq) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:27 | 2022-01-21 |  |

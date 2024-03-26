@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: THE BOYZ
 
-941 songs - 2 day 3 hr 14 min
+943 songs - 2 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,6 +492,7 @@
 | [LUMINOUS](https://open.spotify.com/track/5LORlaKLGzAAxeIeqxYxPd) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [LUMINOUS](https://open.spotify.com/album/2SK988TDKtheZT9zVozte4) | 3:58 | 2022-09-13 | 2022-10-14 |
 | [LUV LUV LUV \(Korean Version\)](https://open.spotify.com/track/7gFp8lhfCrQCskkTzLaFA6) | [GreatGuys](https://open.spotify.com/artist/5rl5eIP9MogVsjbIVUKK1y) | [RECORD OF YOUTH EP.1 DESTINY](https://open.spotify.com/album/3TDpMWzZ1xDZwYGS42bEnp) | 2:47 | 2023-06-20 | 2023-07-26 |
 | [MACARONI CHEESE](https://open.spotify.com/track/1CqMpf1w1IPWWq4Zxa2RxK) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [MACARONI CHEESE EP](https://open.spotify.com/album/3maKjITApQfhgJ13DflK8e) | 2:25 | 2023-10-17 | 2023-11-29 |
+| [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-03-25 |  |
 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 | 2022-04-12 | 2022-07-09 |
 | [make a secret \- The Greatest Ver.](https://open.spotify.com/track/0Vnvga0n2hceutBl4SuZug) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [make a secret \(The Greatest Ver.\)](https://open.spotify.com/album/4vX6w6HrQ79R7uwU24vasz) | 4:34 | 2022-03-29 | 2022-06-08 |
 | [Make the change](https://open.spotify.com/track/3nV2Yjy2aJjUl74p0tEfWf) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Make the change](https://open.spotify.com/album/2wJfsH5ol2YVGq2biNphzY) | 3:07 | 2022-10-11 | 2023-01-18 |
@@ -705,6 +706,7 @@
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-18 | 2022-04-15 |
 | [SMILEY\-Japanese Ver.\- \(feat.ちゃんみな\)](https://open.spotify.com/track/4RhkH4fGvvEzxvRlUcYH9L) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [SMILEY\-Japanese Ver.\- \(feat.ちゃんみな\)](https://open.spotify.com/album/405JFvqLG79ifF84IKlWJC) | 2:56 | 2023-08-07 | 2023-09-22 |
 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-03-16 | 2023-06-16 |
+| [Smoothie](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM\( \)SCAPE](https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz) | 3:08 | 2024-03-25 |  |
 | [SNEAKERS](https://open.spotify.com/track/1nX1b7kRg5a6XKAq7uQOpr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:59 | 2022-07-15 | 2022-07-29 |
 | [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 | 2022-07-28 | 2022-11-18 |
 | [SO GOOD](https://open.spotify.com/track/0fasNMnIi1u8tNMV9r5IEh) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [SO GOOD](https://open.spotify.com/album/09lXzBFEEydz06FInbZ6ub) | 3:27 | 2022-04-21 | 2022-07-07 |

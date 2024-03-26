@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:Kim Jong Kook\(김종국\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:JUNGWOO\(정우\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,180 songs - 3 day 4 hr 27 min
+1,181 songs - 3 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -829,6 +829,7 @@
 | [Slowly Fall](https://open.spotify.com/track/20iKxZ9WfxHgTB2GVXpQMk) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [A PIECE OF YOUR MIND \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/12I9OaovCrdtLLroBYcnco) | 4:01 | 2021-12-20 | 2022-07-08 |
 | [Small Room \(Feat\. IU\)](https://open.spotify.com/track/4mnfM64nYzPE6h4dM4EMIh) | [SWEET SORROW](https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [SWEET SORROW Single](https://open.spotify.com/album/6LPqxbpFtP3yHI9PLrZigs) | 4:44 | 2022-02-17 | 2022-03-28 |
 | [Small Things](https://open.spotify.com/track/4tnz79vOfi6zwq4sWr2MVD) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Sensory Flows \- The 1st Album](https://open.spotify.com/album/1JTBgKjJ7WnUtYvKVBH5fU) | 3:22 | 2023-01-25 | 2023-03-28 |
+| [Smile Good Bye](https://open.spotify.com/track/1vu1wBqNQrb4xd1LkGZUhP) | [JUNGWOO](https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k) | [Fu Bao and Grandfather, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/63VEhZPp18K6viQ4NNb0Zt) | 3:48 | 2024-03-25 |  |
 | [Snow Blanket](https://open.spotify.com/track/6TOJpU7DiZnzzncC0OCMQG) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Been](https://open.spotify.com/album/0stsEEw9pc3Sd9WqyHGn8N) | 3:27 | 2023-12-28 |  |
 | [Snow Flower](https://open.spotify.com/track/0t3lRe5onWuDCm5533MRZ1) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Snow Flower](https://open.spotify.com/album/3GeRwFsu0S9PKpbzerXDt5) | 5:43 | 2023-01-20 | 2023-02-25 |
 | [snow light](https://open.spotify.com/track/0EyCQNMWu43sU6Iz6b1K9W) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [snow light](https://open.spotify.com/album/795rDvVKt9nAga7CBw6NLi) | 3:57 | 2023-02-06 | 2023-03-28 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos del 6 al 10 de Marzo! Cinco d\u00edas de m\u00fasica en recintos ic\u00f3nicos de la CDMX. Compra tus boletos <a href=\"https://lnk.bio/pitchforkcdmx\"> aqu\u00ed</a>. ",
-  "num_followers": 39549,
+  "num_followers": 39541,
   "original_name": "Pitchfork Music Festival CDMX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjI0OTAyOWU4OWI1MTg4MTA0MmE4MDkxZmZlNmUzNzk3NjQwZGFi",
+  "snapshot_id": "MCw3MDZhMTU3NGEwZTkyNTRmZjZiYTM5NzBiODMwMTE5ZjlkZTVjNGJh",
   "tracks": [
     {
       "added_at": "2024-02-16 18:40:38",
@@ -135,6 +135,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "OFFLINE!",
+        "url": "https://open.spotify.com/album/3STQHyw2nOlIbb1FSgPse8"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 157169,
+      "name": "HAZARD DUTY PAY!",
+      "url": "https://open.spotify.com/track/5dLz8bhINeCWgppiUIcafp"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Lift Your Skinny Fists Like Antennas to Heaven",
         "url": "https://open.spotify.com/album/2rT82YYlV9UoxBYLIezkRq"
       },
@@ -171,38 +187,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Mango Negro",
-        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 272513,
-      "name": "IR",
-      "url": "https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "OFFLINE!",
-        "url": "https://open.spotify.com/album/3STQHyw2nOlIbb1FSgPse8"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 157169,
-      "name": "HAZARD DUTY PAY!",
-      "url": "https://open.spotify.com/track/5dLz8bhINeCWgppiUIcafp"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Night Time, My Time",
         "url": "https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr"
       },
@@ -215,22 +199,6 @@
       "duration_ms": 235066,
       "name": "You\u2019re Not The One",
       "url": "https://open.spotify.com/track/0Px73m5ACfeYHYsAo9YTfP"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "The Agent Intellect",
-        "url": "https://open.spotify.com/album/7wMrFduh4Gyqq3EeeOJL0V"
-      },
-      "artists": [
-        {
-          "name": "Protomartyr",
-          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
-        }
-      ],
-      "duration_ms": 271386,
-      "name": "Pontiac 87",
-      "url": "https://open.spotify.com/track/0x5ubEsolBMOj4Hv7Z5iC9"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -251,6 +219,26 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "SCARING THE HOES: DLC PACK",
+        "url": "https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 178286,
+      "name": "Guess What Bitch, We Back Hoe!",
+      "url": "https://open.spotify.com/track/7uF9nK3u0OB1dWW5ee9qxC"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Serotonin II",
         "url": "https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D"
       },
@@ -263,30 +251,6 @@
       "duration_ms": 219331,
       "name": "Pixel Affection",
       "url": "https://open.spotify.com/track/2c5bFJ82YxgGprGjOq1OaO"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Maps",
-        "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
-      },
-      "artists": [
-        {
-          "name": "billy woods",
-          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
-        },
-        {
-          "name": "Kenny Segal",
-          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
-        },
-        {
-          "name": "Samuel T. Herring",
-          "url": "https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU"
-        }
-      ],
-      "duration_ms": 212147,
-      "name": "FaceTime",
-      "url": "https://open.spotify.com/track/0b2b3WzP0QxuA0R7mKg9CL"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -339,22 +303,58 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "SCARING THE HOES: DLC PACK",
-        "url": "https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO"
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
       },
       "artists": [
         {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
         },
         {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
+        },
+        {
+          "name": "Samuel T. Herring",
+          "url": "https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU"
         }
       ],
-      "duration_ms": 178286,
-      "name": "Guess What Bitch, We Back Hoe!",
-      "url": "https://open.spotify.com/track/7uF9nK3u0OB1dWW5ee9qxC"
+      "duration_ms": 212147,
+      "name": "FaceTime",
+      "url": "https://open.spotify.com/track/0b2b3WzP0QxuA0R7mKg9CL"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Mango Negro",
+        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 272513,
+      "name": "IR",
+      "url": "https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "The Agent Intellect",
+        "url": "https://open.spotify.com/album/7wMrFduh4Gyqq3EeeOJL0V"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "duration_ms": 271386,
+      "name": "Pontiac 87",
+      "url": "https://open.spotify.com/track/0x5ubEsolBMOj4Hv7Z5iC9"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -391,6 +391,46 @@
       "duration_ms": 238000,
       "name": "Barco",
       "url": "https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
+      },
+      "artists": [
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
+        },
+        {
+          "name": "Quelle Chris",
+          "url": "https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi"
+        }
+      ],
+      "duration_ms": 176460,
+      "name": "Soundcheck",
+      "url": "https://open.spotify.com/track/2l4VRzLQkfjdo4CGL9sh2V"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "The Neon Skyline",
+        "url": "https://open.spotify.com/album/41M6R2mWLgqU9aKFUvZv8S"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 185451,
+      "name": "Living Room",
+      "url": "https://open.spotify.com/track/5XCyxMLMuakvS94W6iqLBw"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -435,46 +475,6 @@
       "duration_ms": 288573,
       "name": "Bites on My Neck",
       "url": "https://open.spotify.com/track/3c8QXE2NQBVrtMSTXAofor"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Maps",
-        "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
-      },
-      "artists": [
-        {
-          "name": "billy woods",
-          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
-        },
-        {
-          "name": "Kenny Segal",
-          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
-        },
-        {
-          "name": "Quelle Chris",
-          "url": "https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi"
-        }
-      ],
-      "duration_ms": 176460,
-      "name": "Soundcheck",
-      "url": "https://open.spotify.com/track/2l4VRzLQkfjdo4CGL9sh2V"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "The Neon Skyline",
-        "url": "https://open.spotify.com/album/41M6R2mWLgqU9aKFUvZv8S"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 185451,
-      "name": "Living Room",
-      "url": "https://open.spotify.com/track/5XCyxMLMuakvS94W6iqLBw"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -559,34 +559,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "We Buy Diabetic Test Strips",
-        "url": "https://open.spotify.com/album/74vN8W3NHvyM69AnrL5Arp"
-      },
-      "artists": [
-        {
-          "name": "Armand Hammer",
-          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
-        },
-        {
-          "name": "billy woods",
-          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
-        },
-        {
-          "name": "E L U C I D",
-          "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
-        },
-        {
-          "name": "Cavalier",
-          "url": "https://open.spotify.com/artist/2IwGAkUIwStgnFVH8u1v3o"
-        }
-      ],
-      "duration_ms": 223350,
-      "name": "I Keep A Mirror In My Pocket",
-      "url": "https://open.spotify.com/track/763IJTeglBtae0KprFnzPG"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Vidrio",
         "url": "https://open.spotify.com/album/0fkpb1L4tISjGSYzjRkWOv"
       },
@@ -623,6 +595,34 @@
       "duration_ms": 261863,
       "name": "Coral",
       "url": "https://open.spotify.com/track/1TzgHCMILGjUyGA4EpWM3g"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "We Buy Diabetic Test Strips",
+        "url": "https://open.spotify.com/album/74vN8W3NHvyM69AnrL5Arp"
+      },
+      "artists": [
+        {
+          "name": "Armand Hammer",
+          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
+        },
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "E L U C I D",
+          "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
+        },
+        {
+          "name": "Cavalier",
+          "url": "https://open.spotify.com/artist/2IwGAkUIwStgnFVH8u1v3o"
+        }
+      ],
+      "duration_ms": 223350,
+      "name": "I Keep A Mirror In My Pocket",
+      "url": "https://open.spotify.com/track/763IJTeglBtae0KprFnzPG"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "Venus & Blue",
+        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 186113,
+      "name": "Tu Olor",
+      "url": "https://open.spotify.com/track/4z6iPe5AssQ0rF83oZDt71"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Ser\u00e1 Que Ahora Podremos Entendernos",
         "url": "https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4"
       },
@@ -723,54 +739,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "FYT",
-        "url": "https://open.spotify.com/album/7GnxsWoQIn4gjwASblM82j"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 147173,
-      "name": "FYT",
-      "url": "https://open.spotify.com/track/2yzQ3QoQKTTWdeweOCvZ2H"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Nostalgia del Futuro",
-        "url": "https://open.spotify.com/album/0iCu3vERrSz3pkd8dHOBSu"
-      },
-      "artists": [
-        {
-          "name": "NOIA",
-          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
-        }
-      ],
-      "duration_ms": 205224,
-      "name": "Nostalgia del Futuro",
-      "url": "https://open.spotify.com/track/6x5MEJBkg9YZqqdmzr10mZ"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Venus & Blue",
-        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 186113,
-      "name": "Tu Olor",
-      "url": "https://open.spotify.com/track/4z6iPe5AssQ0rF83oZDt71"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Obrigaggi",
         "url": "https://open.spotify.com/album/7g0kxl7mi7E5YLKiDd1f5t"
       },
@@ -787,18 +755,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Runnin",
-        "url": "https://open.spotify.com/album/7Jd9oUB6lEUrSXdnn2KCeo"
+        "name": "FYT",
+        "url": "https://open.spotify.com/album/7GnxsWoQIn4gjwASblM82j"
       },
       "artists": [
         {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
         }
       ],
-      "duration_ms": 177625,
-      "name": "Runnin",
-      "url": "https://open.spotify.com/track/37KlI45scNKbu1ZXnRwXPj"
+      "duration_ms": 147173,
+      "name": "FYT",
+      "url": "https://open.spotify.com/track/2yzQ3QoQKTTWdeweOCvZ2H"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -851,18 +819,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Relatives In Descent",
-        "url": "https://open.spotify.com/album/5w1LR7cbTKEoCfgB98rkgR"
+        "name": "Runnin",
+        "url": "https://open.spotify.com/album/7Jd9oUB6lEUrSXdnn2KCeo"
       },
       "artists": [
         {
-          "name": "Protomartyr",
-          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
         }
       ],
-      "duration_ms": 163597,
-      "name": "Corpses In Regalia",
-      "url": "https://open.spotify.com/track/6vyxUUHQQkguxWp3bH1JZZ"
+      "duration_ms": 177625,
+      "name": "Runnin",
+      "url": "https://open.spotify.com/track/37KlI45scNKbu1ZXnRwXPj"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -879,6 +847,38 @@
       "duration_ms": 297910,
       "name": "Wako",
       "url": "https://open.spotify.com/track/5XxbL0FQ8PVTxkhO7NAg8s"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Nostalgia del Futuro",
+        "url": "https://open.spotify.com/album/0iCu3vERrSz3pkd8dHOBSu"
+      },
+      "artists": [
+        {
+          "name": "NOIA",
+          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
+        }
+      ],
+      "duration_ms": 205224,
+      "name": "Nostalgia del Futuro",
+      "url": "https://open.spotify.com/track/6x5MEJBkg9YZqqdmzr10mZ"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Relatives In Descent",
+        "url": "https://open.spotify.com/album/5w1LR7cbTKEoCfgB98rkgR"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "duration_ms": 163597,
+      "name": "Corpses In Regalia",
+      "url": "https://open.spotify.com/track/6vyxUUHQQkguxWp3bH1JZZ"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -927,6 +927,22 @@
       "duration_ms": 195037,
       "name": "i/O",
       "url": "https://open.spotify.com/track/7f95Umg9PDh3UIdQgCTOaj"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Il Visore Lunatique",
+        "url": "https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ"
+      },
+      "artists": [
+        {
+          "name": "Descartes A Kant",
+          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "The Peter Pan Syndrome",
+      "url": "https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -983,22 +999,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Il Visore Lunatique",
-        "url": "https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ"
-      },
-      "artists": [
-        {
-          "name": "Descartes A Kant",
-          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "The Peter Pan Syndrome",
-      "url": "https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Ahora Veo M\u00e1s Claro",
         "url": "https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 242735,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1kCj1xjrJSldhN6bSfkDLF"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "GOLLY",
+        "url": "https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3"
+      },
+      "artists": [
+        {
+          "name": "Mengers",
+          "url": "https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n"
+        }
+      ],
+      "duration_ms": 86698,
+      "name": "Celebra",
+      "url": "https://open.spotify.com/track/1PuaidNUXQxNcW1MdksTkE"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "GOLLY",
-        "url": "https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3"
-      },
-      "artists": [
-        {
-          "name": "Mengers",
-          "url": "https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n"
-        }
-      ],
-      "duration_ms": 86698,
-      "name": "Celebra",
-      "url": "https://open.spotify.com/track/1PuaidNUXQxNcW1MdksTkE"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Parted Plains",
         "url": "https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "gisela",
-        "url": "https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR"
-      },
-      "artists": [
-        {
-          "name": "NOIA",
-          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
-        }
-      ],
-      "duration_ms": 190293,
-      "name": "reveal yourself",
-      "url": "https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "GOLLY",
         "url": "https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 325725,
       "name": "Pantitl\u00e1n",
       "url": "https://open.spotify.com/track/0d0HTxy6Exc4mzaDjdj8mh"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "gisela",
+        "url": "https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR"
+      },
+      "artists": [
+        {
+          "name": "NOIA",
+          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
+        }
+      ],
+      "duration_ms": 190293,
+      "name": "reveal yourself",
+      "url": "https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6"
     }
   ],
   "unique_name": "Pitchfork Music Festival CDMX",

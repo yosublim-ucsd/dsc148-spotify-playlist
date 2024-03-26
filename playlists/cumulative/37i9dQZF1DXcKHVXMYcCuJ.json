@@ -826,7 +826,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 258453,
       "name": "Cassiopeia - Bonus Track",
       "url": "https://open.spotify.com/track/2lP3rtlDDTG0mgSuR2oWww"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 162721,
       "name": "Damp",
       "url": "https://open.spotify.com/track/0JWqrfdT8tHqUqSaKwh1do"
@@ -1288,6 +1288,24 @@
       "duration_ms": 208853,
       "name": "Daylily",
       "url": "https://open.spotify.com/track/6AgtouHw1KrKy1PsoLjY3o"
+    },
+    {
+      "album": {
+        "name": "Decay",
+        "url": "https://open.spotify.com/album/6ECwJB9w4fL7X3vtoVTbHw"
+      },
+      "artists": [
+        {
+          "name": "Mirrortalk",
+          "url": "https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279872,
+      "name": "Decay",
+      "url": "https://open.spotify.com/track/3slMJuJsQelR7QrKJIIYci"
     },
     {
       "album": {
@@ -1698,7 +1716,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 172458,
       "name": "Feel the Burn",
       "url": "https://open.spotify.com/track/672ya0WXJAbZvxDp4rD4h3"
@@ -1968,7 +1986,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 173314,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
@@ -2760,7 +2778,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 449655,
       "name": "Innervisions",
       "url": "https://open.spotify.com/track/5DiisEbfcEqNV7UdfADAIq"
@@ -2818,6 +2836,24 @@
       "duration_ms": 177453,
       "name": "Jesus Stole My Girlfriend",
       "url": "https://open.spotify.com/track/5p6GEo6wrwLpicbGyNH1A4"
+    },
+    {
+      "album": {
+        "name": "Violent Picture / Violent Sound",
+        "url": "https://open.spotify.com/album/33xiWD33xTarcUbn8Le2hT"
+      },
+      "artists": [
+        {
+          "name": "Dosser",
+          "url": "https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237580,
+      "name": "Joy Thief",
+      "url": "https://open.spotify.com/track/5E5yM3EuFBCe4pgP9Fg1kN"
     },
     {
       "album": {
@@ -4769,6 +4805,24 @@
     },
     {
       "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276424,
+      "name": "Sequoia",
+      "url": "https://open.spotify.com/track/52sgHE6V4gTMYE97K6m2tm"
+    },
+    {
+      "album": {
         "name": "There Is Only You",
         "url": "https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh"
       },
@@ -6584,7 +6638,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 216893,
       "name": "Why Won't You Admit",
       "url": "https://open.spotify.com/track/4tQpDC9blddFv7ZR4tEzWr"
@@ -6872,7 +6926,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 237133,
       "name": "Zero Day",
       "url": "https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7"

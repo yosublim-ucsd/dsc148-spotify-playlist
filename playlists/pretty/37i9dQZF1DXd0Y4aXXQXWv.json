@@ -1,12 +1,12 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 478355,
+  "num_followers": 478379,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWM4NzljYWRjZTBmYTI5MmVmZjE1YTA2MjViMTFjM2U2MWU3NDJh",
+  "snapshot_id": "MCwwMjRjNzMzYmFlY2NmNzk0ZDc1YzgyZjQyZjA3MDgwZjIzMTJjZWJm",
   "tracks": [
     {
       "added_at": "2024-03-05 21:04:31",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Samedi soir sur la terre (Remastered)",
-        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
+        "name": "Paradize",
+        "url": "https://open.spotify.com/album/0YiSd3JeGUX4VIO8Po9TD4"
       },
       "artists": [
         {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
         }
       ],
-      "duration_ms": 278253,
-      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
-      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
+      "duration_ms": 209413,
+      "name": "J'ai demand\u00e9 \u00e0 la lune",
+      "url": "https://open.spotify.com/track/2QSAj76Ba6aMFX9RlXdUdO"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -367,22 +367,6 @@
       "duration_ms": 185280,
       "name": "Avenir - Radio Edit",
       "url": "https://open.spotify.com/track/7culxZiBjN3w3yXqxgKIpD"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
-        "name": "Paradize",
-        "url": "https://open.spotify.com/album/0YiSd3JeGUX4VIO8Po9TD4"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "J'ai demand\u00e9 \u00e0 la lune",
-      "url": "https://open.spotify.com/track/2QSAj76Ba6aMFX9RlXdUdO"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -415,6 +399,22 @@
       "duration_ms": 194493,
       "name": "La grenade",
       "url": "https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
+        "name": "Samedi soir sur la terre (Remastered)",
+        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 278253,
+      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
+      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Toi + Moi",
-        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
-      },
-      "artists": [
-        {
-          "name": "Gr\u00e9goire",
-          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Toi + Moi",
-      "url": "https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
         "name": "L'Autre",
         "url": "https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 322760,
       "name": "D\u00e9senchant\u00e9e",
       "url": "https://open.spotify.com/track/15XYdD283tK9iyJzL738bn"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
+        "name": "Toi + Moi",
+        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e9goire",
+          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Toi + Moi",
+      "url": "https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Mon paradis",
-        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        }
-      ],
-      "duration_ms": 191506,
-      "name": "On s'attache",
-      "url": "https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
         "name": "Seul",
         "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 211293,
       "name": "Sous le vent",
       "url": "https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
+        "name": "Mon paradis",
+        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "On s'attache",
+      "url": "https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
+        "name": "Quand la musique est bonne",
+        "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "Quand la musique est bonne",
+      "url": "https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
         "name": "Calog3ro",
         "url": "https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF"
       },
@@ -711,38 +727,18 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Quand la musique est bonne",
-        "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
+        "name": "Paris, France (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
       },
       "artists": [
         {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
         }
       ],
-      "duration_ms": 232440,
-      "name": "Quand la musique est bonne",
-      "url": "https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
-        "name": "Je fais de toi mon essentiel",
-        "url": "https://open.spotify.com/album/57zABxgnCQxZRCaLY1RAIH"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Moire",
-          "url": "https://open.spotify.com/artist/5YIaZ0ICxZyNEsATQRsxRk"
-        },
-        {
-          "name": "Anne-Laure Girbal",
-          "url": "https://open.spotify.com/artist/3FM0IXK9lSh0crQZ8oG9CL"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Je fais de toi mon essentiel (avec Anne-Laure Girbal)",
-      "url": "https://open.spotify.com/track/6H4TH5ntp7KzYePysRBcuT"
+      "duration_ms": 273626,
+      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -763,18 +759,22 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Paris, France (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
+        "name": "Je fais de toi mon essentiel",
+        "url": "https://open.spotify.com/album/57zABxgnCQxZRCaLY1RAIH"
       },
       "artists": [
         {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+          "name": "Emmanuel Moire",
+          "url": "https://open.spotify.com/artist/5YIaZ0ICxZyNEsATQRsxRk"
+        },
+        {
+          "name": "Anne-Laure Girbal",
+          "url": "https://open.spotify.com/artist/3FM0IXK9lSh0crQZ8oG9CL"
         }
       ],
-      "duration_ms": 273626,
-      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
+      "duration_ms": 199200,
+      "name": "Je fais de toi mon essentiel (avec Anne-Laure Girbal)",
+      "url": "https://open.spotify.com/track/6H4TH5ntp7KzYePysRBcuT"
     },
     {
       "added_at": "2024-03-05 21:04:31",

@@ -1,15 +1,15 @@
 {
   "description": "Spellistan att ta fram n\u00e4r det \u00e4r dags f\u00f6r dans runt midsommarst\u00e5ngen.",
-  "num_followers": 1025,
+  "num_followers": 1026,
   "original_name": "Dans runt st\u00e5ngen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzQ3ZTQ3NGFhNDk3ZDVlNTcxZWYxMWY3YmM3MmE1MzljZDc5YjUw",
+  "snapshot_id": "MCw3NjBiNDUxNGMwYmE0MTY5ZGM2MDI0MjNkNDIxZDJkM2FkNTVlNGUy",
   "tracks": [
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
       "album": {
         "name": "Sm\u00e5 grodorna",
         "url": "https://open.spotify.com/album/4EuCKwPUyNchi0gIrDef83"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7FqTiv9gX26hiCjoRyBTdd"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
       "album": {
         "name": "Dans kring midsommarst\u00e5ngen",
         "url": "https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/0c74ZBuBLDM8EPeqKboz66"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
       "album": {
         "name": "Barnens f\u00f6rsta s\u00e5nger",
         "url": "https://open.spotify.com/album/6wpWG93I5KEEHfIehhFVmM"
@@ -65,7 +65,23 @@
       "url": "https://open.spotify.com/track/0uTImG08eijXTtYyG8kisA"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "Midsommardanser & lekar",
+        "url": "https://open.spotify.com/album/5S1srIhFiebSLvjbmVIdom"
+      },
+      "artists": [
+        {
+          "name": "Egon Kjerrman med k\u00f6r och orkester",
+          "url": "https://open.spotify.com/artist/0MVzR1WKfkWGTtJXSl4ijD"
+        }
+      ],
+      "duration_ms": 100960,
+      "name": "R\u00e4ven raskar \u00f6ver isen",
+      "url": "https://open.spotify.com/track/0NAaaV8TtKI9tENaOmFuZI"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
       "album": {
         "name": "Pr\u00e4stens lilla kr\u00e5ka",
         "url": "https://open.spotify.com/album/1dnxxDSjSURbR8TlgaOx7E"
@@ -81,7 +97,7 @@
       "url": "https://open.spotify.com/track/6FDARjuebXcy08AMLLftRk"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
       "album": {
         "name": "J\u00e4nta Och Jag Barns\u00e5nger",
         "url": "https://open.spotify.com/album/0zqcliNhJNmQDGI3r8Ws9o"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/3aeTU8sHA9dz7tJbywoIfO"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
       "album": {
         "name": "B\u00e4sta lekarna",
         "url": "https://open.spotify.com/album/33TGbTLQiPsKVY7ryNrIx1"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/6JB4uUbg9ro29Q7xm4QUS8"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
       "album": {
         "name": "Midsommar - Dans runt st\u00e5ngen",
         "url": "https://open.spotify.com/album/4qACfKqnm0xTbXU6Qg2Rzi"
@@ -129,23 +145,7 @@
       "url": "https://open.spotify.com/track/3x53A20DcZX6AlXBqkbqos"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
-      "album": {
-        "name": "Midsommar - Dans runt st\u00e5ngen",
-        "url": "https://open.spotify.com/album/4qACfKqnm0xTbXU6Qg2Rzi"
-      },
-      "artists": [
-        {
-          "name": "Bosse Larsson",
-          "url": "https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi"
-        }
-      ],
-      "duration_ms": 110226,
-      "name": "Karusellen",
-      "url": "https://open.spotify.com/track/2bQAPgQ2U0cg9vzktGrwhp"
-    },
-    {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
       "album": {
         "name": "J\u00e4nta Och Jag Barns\u00e5nger",
         "url": "https://open.spotify.com/album/0zqcliNhJNmQDGI3r8Ws9o"
@@ -161,10 +161,10 @@
       "url": "https://open.spotify.com/track/3Vx96sIMEH0U9xovRyAvAh"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
       "album": {
-        "name": "B\u00e4sta lekarna",
-        "url": "https://open.spotify.com/album/33TGbTLQiPsKVY7ryNrIx1"
+        "name": "Midsommar - Dans runt st\u00e5ngen",
+        "url": "https://open.spotify.com/album/4qACfKqnm0xTbXU6Qg2Rzi"
       },
       "artists": [
         {
@@ -172,12 +172,28 @@
           "url": "https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi"
         }
       ],
-      "duration_ms": 226133,
-      "name": "S\u00e5 g\u00e5r vi runt en eneb\u00e4rabuske - Instrumental",
-      "url": "https://open.spotify.com/track/0mOZVrJKspRSr2gySLuoiT"
+      "duration_ms": 110226,
+      "name": "Karusellen",
+      "url": "https://open.spotify.com/track/2bQAPgQ2U0cg9vzktGrwhp"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "Midsommardanser & lekar",
+        "url": "https://open.spotify.com/album/5S1srIhFiebSLvjbmVIdom"
+      },
+      "artists": [
+        {
+          "name": "Egon Kjerrman med k\u00f6r och orkester",
+          "url": "https://open.spotify.com/artist/0MVzR1WKfkWGTtJXSl4ijD"
+        }
+      ],
+      "duration_ms": 19760,
+      "name": "H\u00e4r dansar jag med lilla v\u00e4nnen min",
+      "url": "https://open.spotify.com/track/2mzYsdYZQ9kXQazbWdgDkd"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
       "album": {
         "name": "99 Sm\u00e5 Visor F\u00f6r Sm\u00e5 Barn",
         "url": "https://open.spotify.com/album/69LGUviXcojk6ZdHFfeiue"
@@ -197,87 +213,23 @@
       "url": "https://open.spotify.com/track/7fs8gSXXO8JRmTZHx5OS2F"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
       "album": {
-        "name": "99 Sm\u00e5 Visor F\u00f6r Sm\u00e5 Barn",
-        "url": "https://open.spotify.com/album/69LGUviXcojk6ZdHFfeiue"
+        "name": "B\u00e4sta lekarna",
+        "url": "https://open.spotify.com/album/33TGbTLQiPsKVY7ryNrIx1"
       },
       "artists": [
-        {
-          "name": "G\u00f6teborgs Symfonietta",
-          "url": "https://open.spotify.com/artist/4nl9UTIL3ppsexgT6bAMuk"
-        },
-        {
-          "name": "Tomas Blank",
-          "url": "https://open.spotify.com/artist/5SSD0QKd5eTn5pnNInsipO"
-        }
-      ],
-      "duration_ms": 21080,
-      "name": "Kom Julia vi g\u00e5",
-      "url": "https://open.spotify.com/track/50rp8JyJDad0p5Jw2gw0Mo"
-    },
-    {
-      "added_at": "2022-09-26 13:51:58",
-      "album": {
-        "name": "Dans kring midsommarst\u00e5ngen",
-        "url": "https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG"
-      },
-      "artists": [
-        {
-          "name": "Erik \u00d6sts Spelmanslag",
-          "url": "https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff"
-        },
         {
           "name": "Bosse Larsson",
           "url": "https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi"
         }
       ],
-      "duration_ms": 78026,
-      "name": "Flickornas st\u00f6rsta n\u00f6je",
-      "url": "https://open.spotify.com/track/4MzIFX1Ua8ITfm8FCw7XC9"
+      "duration_ms": 226133,
+      "name": "S\u00e5 g\u00e5r vi runt en eneb\u00e4rabuske - Instrumental",
+      "url": "https://open.spotify.com/track/0mOZVrJKspRSr2gySLuoiT"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
-      "album": {
-        "name": "Dans kring midsommarst\u00e5ngen",
-        "url": "https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG"
-      },
-      "artists": [
-        {
-          "name": "Erik \u00d6sts Spelmanslag",
-          "url": "https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff"
-        },
-        {
-          "name": "Bosse Larsson",
-          "url": "https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi"
-        }
-      ],
-      "duration_ms": 97400,
-      "name": "Aspel\u00f6v oh lindel\u00f6v",
-      "url": "https://open.spotify.com/track/1pUG6qDr2ihOghgXwOpMmN"
-    },
-    {
-      "added_at": "2022-09-26 13:51:58",
-      "album": {
-        "name": "Dans kring midsommarst\u00e5ngen",
-        "url": "https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG"
-      },
-      "artists": [
-        {
-          "name": "Erik \u00d6sts Spelmanslag",
-          "url": "https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff"
-        },
-        {
-          "name": "Bosse Larsson",
-          "url": "https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi"
-        }
-      ],
-      "duration_ms": 103426,
-      "name": "Gossen skulle aka",
-      "url": "https://open.spotify.com/track/3KQ8Beh0QbZ28fJoWYocKa"
-    },
-    {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
       "album": {
         "name": "Dans kring midsommarst\u00e5ngen",
         "url": "https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG"
@@ -297,7 +249,111 @@
       "url": "https://open.spotify.com/track/6aIM7svSC6hV3zrhSeSNis"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "Jull\u00e5tar barn",
+        "url": "https://open.spotify.com/album/6EGwBTPjZ1qzqa9QOl4DjY"
+      },
+      "artists": [
+        {
+          "name": "Tommy Bark",
+          "url": "https://open.spotify.com/artist/7fj32lELSAtZwh7KoRwmNB"
+        }
+      ],
+      "duration_ms": 45173,
+      "name": "\u00c5 j\u00e4nta \u00e5 ja",
+      "url": "https://open.spotify.com/track/2RgDGClY2hOXVYtTDQuUoi"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "99 Sm\u00e5 Visor F\u00f6r Sm\u00e5 Barn",
+        "url": "https://open.spotify.com/album/69LGUviXcojk6ZdHFfeiue"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6teborgs Symfonietta",
+          "url": "https://open.spotify.com/artist/4nl9UTIL3ppsexgT6bAMuk"
+        },
+        {
+          "name": "Tomas Blank",
+          "url": "https://open.spotify.com/artist/5SSD0QKd5eTn5pnNInsipO"
+        }
+      ],
+      "duration_ms": 21080,
+      "name": "Kom Julia vi g\u00e5",
+      "url": "https://open.spotify.com/track/50rp8JyJDad0p5Jw2gw0Mo"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "Midsommardanser & lekar",
+        "url": "https://open.spotify.com/album/5S1srIhFiebSLvjbmVIdom"
+      },
+      "artists": [
+        {
+          "name": "Egon Kjerrman med k\u00f6r och orkester",
+          "url": "https://open.spotify.com/artist/0MVzR1WKfkWGTtJXSl4ijD"
+        }
+      ],
+      "duration_ms": 59693,
+      "name": "Sk\u00e4ra, sk\u00e4ra havre",
+      "url": "https://open.spotify.com/track/67g7p7iLMFI0sHW4macabS"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "Midsommardanser & lekar",
+        "url": "https://open.spotify.com/album/5S1srIhFiebSLvjbmVIdom"
+      },
+      "artists": [
+        {
+          "name": "Egon Kjerrman med k\u00f6r och orkester",
+          "url": "https://open.spotify.com/artist/0MVzR1WKfkWGTtJXSl4ijD"
+        }
+      ],
+      "duration_ms": 43026,
+      "name": "Kom lilla flicka valsa med mej",
+      "url": "https://open.spotify.com/track/22Zbb1d5DzNMLc7JgbHcZ4"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "Dans kring midsommarst\u00e5ngen",
+        "url": "https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG"
+      },
+      "artists": [
+        {
+          "name": "Erik \u00d6sts Spelmanslag",
+          "url": "https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff"
+        },
+        {
+          "name": "Bosse Larsson",
+          "url": "https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi"
+        }
+      ],
+      "duration_ms": 97400,
+      "name": "Aspel\u00f6v oh lindel\u00f6v",
+      "url": "https://open.spotify.com/track/1pUG6qDr2ihOghgXwOpMmN"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "Midsommardanser & lekar",
+        "url": "https://open.spotify.com/album/5S1srIhFiebSLvjbmVIdom"
+      },
+      "artists": [
+        {
+          "name": "Egon Kjerrman med k\u00f6r och orkester",
+          "url": "https://open.spotify.com/artist/0MVzR1WKfkWGTtJXSl4ijD"
+        }
+      ],
+      "duration_ms": 47573,
+      "name": "H\u00f6ga berg och djupa dalar",
+      "url": "https://open.spotify.com/track/7hkhrvaEkZ8XYAC1OQGyIM"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
       "album": {
         "name": "Barnens favoriter 7",
         "url": "https://open.spotify.com/album/77hch7Cxx55ZVlfcJR8sBW"
@@ -313,7 +369,7 @@
       "url": "https://open.spotify.com/track/2ShziL2WfIGm6HVa6JykMU"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
       "album": {
         "name": "Den svenska sommaren",
         "url": "https://open.spotify.com/album/5P5XwOAYMZleMz7HLqTYlX"
@@ -329,7 +385,7 @@
       "url": "https://open.spotify.com/track/0i9Nnaj8y6geVsGu64jQCm"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
       "album": {
         "name": "B\u00e4sta lekarna",
         "url": "https://open.spotify.com/album/33TGbTLQiPsKVY7ryNrIx1"
@@ -345,7 +401,7 @@
       "url": "https://open.spotify.com/track/0SLD0Zb0sIWpVtDLE0sal8"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
       "album": {
         "name": "Dans kring midsommarst\u00e5ngen",
         "url": "https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG"
@@ -365,7 +421,23 @@
       "url": "https://open.spotify.com/track/7De8IQjqFHJbicUevrtkdK"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "Midsommardanser & lekar",
+        "url": "https://open.spotify.com/album/5S1srIhFiebSLvjbmVIdom"
+      },
+      "artists": [
+        {
+          "name": "Egon Kjerrman med k\u00f6r och orkester",
+          "url": "https://open.spotify.com/artist/0MVzR1WKfkWGTtJXSl4ijD"
+        }
+      ],
+      "duration_ms": 60733,
+      "name": "Flickorna de sm\u00e5 uti dansen de g\u00e5",
+      "url": "https://open.spotify.com/track/1SiFYoypDg0INUm25Zi07F"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
       "album": {
         "name": "Dans kring midsommarst\u00e5ngen",
         "url": "https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG"
@@ -385,7 +457,23 @@
       "url": "https://open.spotify.com/track/6z4eag9lqV1lEm4eTWwuYW"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "Midsommardanser & lekar",
+        "url": "https://open.spotify.com/album/5S1srIhFiebSLvjbmVIdom"
+      },
+      "artists": [
+        {
+          "name": "Egon Kjerrman med k\u00f6r och orkester",
+          "url": "https://open.spotify.com/artist/0MVzR1WKfkWGTtJXSl4ijD"
+        }
+      ],
+      "duration_ms": 42506,
+      "name": "Udden st\u00e5r och sover",
+      "url": "https://open.spotify.com/track/2txM9APyLtNbc5veVQs2XV"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
       "album": {
         "name": "B\u00e4sta lekarna",
         "url": "https://open.spotify.com/album/33TGbTLQiPsKVY7ryNrIx1"
@@ -401,7 +489,23 @@
       "url": "https://open.spotify.com/track/1UljTZNjOmmVenXCaaPEwf"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "Midsommardans kring st\u00e5ngen",
+        "url": "https://open.spotify.com/album/38HzvxbaNLvKQTU3qPwrEu"
+      },
+      "artists": [
+        {
+          "name": "Sjung med oss",
+          "url": "https://open.spotify.com/artist/1s7uksf6Nykh8B6P2RuFlo"
+        }
+      ],
+      "duration_ms": 84546,
+      "name": "Och flickan hon g\u00e5r i dansen",
+      "url": "https://open.spotify.com/track/5kF2PfhdSXaR6Vs4iZ2p9c"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
       "album": {
         "name": "Sommar",
         "url": "https://open.spotify.com/album/7oc5uzYL2PcG9yXihY8fB6"
@@ -417,7 +521,23 @@
       "url": "https://open.spotify.com/track/1YwMkRv4pQwJcDLNQ86p6g"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "Midsommardanser & lekar",
+        "url": "https://open.spotify.com/album/5S1srIhFiebSLvjbmVIdom"
+      },
+      "artists": [
+        {
+          "name": "Egon Kjerrman med k\u00f6r och orkester",
+          "url": "https://open.spotify.com/artist/0MVzR1WKfkWGTtJXSl4ijD"
+        }
+      ],
+      "duration_ms": 71466,
+      "name": "Jag gick mig ut en afton",
+      "url": "https://open.spotify.com/track/4LAgMmmUlt5V0ZRTwdGVmv"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
       "album": {
         "name": "Dans kring midsommarst\u00e5ngen",
         "url": "https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG"
@@ -437,20 +557,140 @@
       "url": "https://open.spotify.com/track/3eh3zxibGqNiZE0EWOTxQt"
     },
     {
-      "added_at": "2022-09-26 13:51:58",
+      "added_at": "2024-03-25 13:00:23",
       "album": {
-        "name": "Musik vi minns",
-        "url": "https://open.spotify.com/album/4WlO54WIrNqdNeS5TZnfBT"
+        "name": "Midsommardans kring st\u00e5ngen",
+        "url": "https://open.spotify.com/album/38HzvxbaNLvKQTU3qPwrEu"
       },
       "artists": [
         {
-          "name": "Lily Berglund",
-          "url": "https://open.spotify.com/artist/4Nyl3xHIedqFlfgIoTfK4n"
+          "name": "Barnparadens",
+          "url": "https://open.spotify.com/artist/3zgrVuDN531rKZ9WUKVkJI"
         }
       ],
-      "duration_ms": 158746,
-      "name": "Upp\u00e5 k\u00e4llarbacken",
-      "url": "https://open.spotify.com/track/68sx2L7W1EHJbWflGm3zcG"
+      "duration_ms": 70094,
+      "name": "Domaredansen",
+      "url": "https://open.spotify.com/track/6c52aaJtiwBcxQkgommJBW"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "Dans kring midsommarst\u00e5ngen",
+        "url": "https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG"
+      },
+      "artists": [
+        {
+          "name": "Erik \u00d6sts Spelmanslag",
+          "url": "https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff"
+        },
+        {
+          "name": "Bosse Larsson",
+          "url": "https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi"
+        }
+      ],
+      "duration_ms": 78026,
+      "name": "Flickornas st\u00f6rsta n\u00f6je",
+      "url": "https://open.spotify.com/track/4MzIFX1Ua8ITfm8FCw7XC9"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "Midsommardanser & lekar",
+        "url": "https://open.spotify.com/album/5S1srIhFiebSLvjbmVIdom"
+      },
+      "artists": [
+        {
+          "name": "Egon Kjerrman med k\u00f6r och orkester",
+          "url": "https://open.spotify.com/artist/0MVzR1WKfkWGTtJXSl4ijD"
+        }
+      ],
+      "duration_ms": 52373,
+      "name": "V\u00e4va vadmal",
+      "url": "https://open.spotify.com/track/52uvtsxNp3esKd5NKflkMh"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "Midsommardanser & lekar",
+        "url": "https://open.spotify.com/album/5S1srIhFiebSLvjbmVIdom"
+      },
+      "artists": [
+        {
+          "name": "Egon Kjerrman med k\u00f6r och orkester",
+          "url": "https://open.spotify.com/artist/0MVzR1WKfkWGTtJXSl4ijD"
+        }
+      ],
+      "duration_ms": 33800,
+      "name": "Du tycker du \u00e4r vacker",
+      "url": "https://open.spotify.com/track/62ZDZdL7ahEuczC4j117zU"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "Midsommardanser & lekar",
+        "url": "https://open.spotify.com/album/5S1srIhFiebSLvjbmVIdom"
+      },
+      "artists": [
+        {
+          "name": "Egon Kjerrman med k\u00f6r och orkester",
+          "url": "https://open.spotify.com/artist/0MVzR1WKfkWGTtJXSl4ijD"
+        }
+      ],
+      "duration_ms": 62266,
+      "name": "Klara solen p\u00e5 himmelen den lyser",
+      "url": "https://open.spotify.com/track/1WRCHXGxLEqhUfxN6gk2sF"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "Midsommardans kring st\u00e5ngen",
+        "url": "https://open.spotify.com/album/38HzvxbaNLvKQTU3qPwrEu"
+      },
+      "artists": [
+        {
+          "name": "Favorit musikanterna",
+          "url": "https://open.spotify.com/artist/77vt7OCAVQIqyWYar0FR1x"
+        }
+      ],
+      "duration_ms": 112346,
+      "name": "Klappa h\u00e4nderna",
+      "url": "https://open.spotify.com/track/3Nz2BvdkZn7dcXoqgxWy1P"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "Dans kring midsommarst\u00e5ngen",
+        "url": "https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG"
+      },
+      "artists": [
+        {
+          "name": "Erik \u00d6sts Spelmanslag",
+          "url": "https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff"
+        },
+        {
+          "name": "Bosse Larsson",
+          "url": "https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi"
+        }
+      ],
+      "duration_ms": 103426,
+      "name": "Gossen skulle aka",
+      "url": "https://open.spotify.com/track/3KQ8Beh0QbZ28fJoWYocKa"
+    },
+    {
+      "added_at": "2024-03-25 13:00:23",
+      "album": {
+        "name": "Midsommardanser & lekar",
+        "url": "https://open.spotify.com/album/5S1srIhFiebSLvjbmVIdom"
+      },
+      "artists": [
+        {
+          "name": "Egon Kjerrman med k\u00f6r och orkester",
+          "url": "https://open.spotify.com/artist/0MVzR1WKfkWGTtJXSl4ijD"
+        }
+      ],
+      "duration_ms": 78733,
+      "name": "Viljen i veta och viljen i f\u00f6rst\u00e5",
+      "url": "https://open.spotify.com/track/5xq6twDsCl77iS6h9K7NKM"
     }
   ],
   "unique_name": "Dans runt st\u00e5ngen",

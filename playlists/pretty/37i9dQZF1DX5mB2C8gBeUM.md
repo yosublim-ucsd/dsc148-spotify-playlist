@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Darlin'](https://open.spotify.com/track/727x6SZXGF0LfU2vi3rjaH) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [We All Grow Up](https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x) | 2:45 |
-| 2 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
+| 2 | [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 |
 | 3 | [Vegas](https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Vegas](https://open.spotify.com/album/2RUdZVnTQeSGB0QVffPJ7m) | 3:00 |
 | 4 | [Lock N Key](https://open.spotify.com/track/6EMXQhhesKZHcR044i5sD2) | [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Season 1: I Love You](https://open.spotify.com/album/6CNLb0lw0fxb8sOw8a7LXt) | 2:09 |
 | 5 | [Down Here](https://open.spotify.com/track/1rit7R4jihrRlOBsXnSTri) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Down Here](https://open.spotify.com/album/7nlknl85Ot1h5XVCYzoDfI) | 2:04 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 156 | [Missing Nothing](https://open.spotify.com/track/3ARM0QYcfyLZuci5WuTynO) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Missing Nothing](https://open.spotify.com/album/2E1kBO77PoakfIp5yUIFpx) | 2:36 |
 | 157 | [A Sinner and A Saint](https://open.spotify.com/track/5uxc8WInrKasHQAZCZwTjG) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [A Sinner and A Saint](https://open.spotify.com/album/6kIKa6DGOj391Vj6KCD156) | 2:39 |
 
-Snapshot ID: `MCxlMjIzYmIwYzIzZjZmYjE0Mzg1ZDcxOWYwZGEzYWIyZWE5ZDcyYTEy`
+Snapshot ID: `MCw2MTU0ZTMzNjEyN2I4ZGE2OTgxNmE4YjIzOWYzZWYxZDgyZTliZWJm`

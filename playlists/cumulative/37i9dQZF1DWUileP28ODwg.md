@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:61SFRZAmfyJhcffwR2Ijuq">Jason Crabb</a>
 
-372 songs - 23 hr 7 min
+373 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [High Up](https://open.spotify.com/track/0drumuKkSeMz3CH5kGfOEl) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [High Up](https://open.spotify.com/album/0xrpWr1M61XiTDFntqEYrz) | 3:00 | 2022-02-25 | 2022-08-27 |
 | [Higher Ground](https://open.spotify.com/track/6uGKLZ6z8ogdfDRDwOReTf) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Episode 1 \- EP](https://open.spotify.com/album/2fARr0hI02WNfm4vL6MsWx) | 3:06 | 2022-02-25 | 2022-03-21 |
 | [Hold Me](https://open.spotify.com/track/6PxIGrqOlGUc5aQjqIsdG5) | [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Hold Me](https://open.spotify.com/album/6OKYLvwDv9IW8wvkvEKKoB) | 3:20 | 2022-08-26 | 2022-10-04 |
-| [Hold Me Jesus](https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c) | [Bellsburg Sessions](https://open.spotify.com/artist/008bteZ1A25Vw1jhUNbibn), [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7), [Andrew Greer](https://open.spotify.com/artist/3gAG5zquZV8QJXqq3Tbj0z), [Bonnie Keen](https://open.spotify.com/artist/4c6YjNzvGYOqNkomC0giwl) | [Hold Me Jesus \(The Songs of Rich Mullins\)](https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T) | 3:51 | 2023-10-06 |  |
+| [Hold Me Jesus](https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c) | [Bellsburg Sessions](https://open.spotify.com/artist/008bteZ1A25Vw1jhUNbibn), [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7), [Andrew Greer](https://open.spotify.com/artist/3gAG5zquZV8QJXqq3Tbj0z), [Bonnie Keen](https://open.spotify.com/artist/4c6YjNzvGYOqNkomC0giwl) | [Hold Me Jesus \(The Songs of Rich Mullins\)](https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T) | 3:51 | 2023-10-06 | 2024-03-26 |
 | [Hold On](https://open.spotify.com/track/27oqAdEmp480usR8hPV5Iq) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Jesus Changed My Life](https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82) | 3:55 | 2023-03-10 |  |
 | [Hold You Tight](https://open.spotify.com/track/5Ra30hSwA5Q2kkYf4yidcq) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Into The Wild](https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b) | 2:55 | 2022-07-08 | 2023-10-07 |
 | [Hold You Tight](https://open.spotify.com/track/71hZRkkUaEMEKGVbHCGiby) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Hold You Tight](https://open.spotify.com/album/1gOje0Ha92U5qcg5FM4HxR) | 2:55 | 2022-02-25 | 2022-05-14 |
@@ -188,6 +188,7 @@
 | [Jesus Does](https://open.spotify.com/track/3DdQcdK52TKydq5tN3Iehd) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [We The Kingdom](https://open.spotify.com/album/0gkEJZHlqciximZV1b9Drp) | 3:54 | 2022-10-01 |  |
 | [Jesus Is Coming Back \(feat\. Mandisa & Jonathan Traylor\)](https://open.spotify.com/track/3nDaOQU9hOkwf1onF3rSuZ) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo), [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Jesus Is Coming Back \(feat\. Mandisa & Jonathan Traylor\)](https://open.spotify.com/album/0zGeEmwuASGbKeKnPdRiWA) | 3:33 | 2022-02-25 | 2023-10-07 |
 | [Joy \(What The World Calls Foolish\)](https://open.spotify.com/track/3pMfn1SOlLgdmZHcOqn8nf) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [Joy \(What The World Calls Foolish\)](https://open.spotify.com/album/2cAJoTaH5QyyILDcUeKPc7) | 7:15 | 2024-03-20 |  |
+| [Joy \(What The World Calls Foolish\) \- Live](https://open.spotify.com/track/59XvMohAPJxOYI2qNnsJ6w) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [Crowns Down \(Live / Deluxe\)](https://open.spotify.com/album/6Mh3CQITw07mEI0JJ0YIP9) | 7:28 | 2024-03-20 |  |
 | [Joy In The Morning](https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Joy In The Morning](https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax) | 3:36 | 2022-06-10 | 2023-10-07 |
 | [Just The Cross](https://open.spotify.com/track/1tKqhzuLzYgmdwGDAbuTJI) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Love Letters From An Empty Tomb](https://open.spotify.com/album/1N8BcblNLY3GiYcmj0gQRw) | 4:57 | 2022-04-22 | 2022-07-09 |
 | [KEEP YOUR WORD](https://open.spotify.com/track/5LLzYBflJbKhaF9GDAkimI) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [KEEP YOUR WORD / GOODBYES](https://open.spotify.com/album/2K3Ed5r7nyX64TYxKlaH4n) | 3:10 | 2022-07-08 | 2023-03-11 |

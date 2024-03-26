@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 472076,
+  "2024-03-26": 472082,
   "date_first_scraped": "2021-12-21",
   "description": "The very best of the alternative rock scene. New and recent favorites. Cover: The Mysterines",
   "name": "New  Alt-Rock Mixtape",
@@ -845,7 +845,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 178404,
       "name": "Burning Down a Denny's",
       "url": "https://open.spotify.com/track/6ekiSQMJqi8bEyZmMvpC2R"
@@ -1123,6 +1123,24 @@
       "duration_ms": 127093,
       "name": "Choking",
       "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
+    },
+    {
+      "album": {
+        "name": "Cultural Consumer III",
+        "url": "https://open.spotify.com/album/1MGErYezO4pfiLNCnslNob"
+      },
+      "artists": [
+        {
+          "name": "BODEGA",
+          "url": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213293,
+      "name": "City Is Taken",
+      "url": "https://open.spotify.com/track/1qXito2dtA0Br1900gfR2z"
     },
     {
       "album": {

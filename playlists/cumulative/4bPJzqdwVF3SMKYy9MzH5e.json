@@ -11407,6 +11407,24 @@
     },
     {
       "album": {
+        "name": "French Girl",
+        "url": "https://open.spotify.com/album/4N8sHmZLrlfaYVyVL0GeL4"
+      },
+      "artists": [
+        {
+          "name": "roro",
+          "url": "https://open.spotify.com/artist/0Y9jBmQGmBdDhlu3bSxECs"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86171,
+      "name": "French Girl",
+      "url": "https://open.spotify.com/track/72Hh1GP6yxzD8XlVlMdfz9"
+    },
+    {
+      "album": {
         "name": "Wlfgrl",
         "url": "https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL"
       },

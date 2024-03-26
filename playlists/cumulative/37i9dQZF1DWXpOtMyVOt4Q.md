@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-242 songs - 14 hr 16 min
+243 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Csay Csay](https://open.spotify.com/track/0cTLKPTA5rwpjrGutKO1r8) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Csay Csay](https://open.spotify.com/album/1Att1v11WfFuJMnaFkQBQe) | 6:01 | 2019-12-16 | 2022-07-29 |
 | [Csay Csay](https://open.spotify.com/track/1enynlph69y9FEW7NVhkO3) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Csay Csay](https://open.spotify.com/album/7t9LroLEtMH5GKu7xtcKVn) | 6:01 | 2019-12-16 | 2022-12-03 |
 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 | 2022-08-31 |  |
-| [dark snowy night \- Slowed & Reverb Version](https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [dark snowy night](https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O) | 3:31 | 2023-09-08 |  |
+| [dark snowy night \- Slowed & Reverb Version](https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [dark snowy night](https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O) | 3:31 | 2023-09-08 | 2024-03-26 |
 | [Dead Metal](https://open.spotify.com/track/7CCPRhIy6VHd4ZmquuIggW) | [Rhys Lindsay](https://open.spotify.com/artist/1LD84W4loy082VZ4Mw7Td8) | [Exo One \(Original Game Soundtrack\)](https://open.spotify.com/album/22rQYIwZ0eL57N6FQ3ixme) | 1:05 | 2023-09-08 | 2024-03-11 |
 | [Distant Memory](https://open.spotify.com/track/7HL7aFk0ONq1QnlnDTtzov) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Distant Memory](https://open.spotify.com/album/5r4tbLxLxxotZV0qRQbpFG) | 2:43 | 2022-08-31 | 2023-04-12 |
 | [Don't Get Any Closer](https://open.spotify.com/track/3A2fblRWcD5rUZEBDLefw0) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Nightmare Ending](https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P) | 9:06 | 2019-12-16 | 2022-09-01 |
@@ -215,6 +215,7 @@
 | [The Beach](https://open.spotify.com/track/41CMzNSRuMlxCxBiFMJhpC) | [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj) | [The Beach](https://open.spotify.com/album/0b7YKgSQgWkVxpYsbd4oBQ) | 2:36 | 2023-09-08 |  |
 | [The Choice](https://open.spotify.com/track/2IXJyG1DX93g2EhFXghz37) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Alan Umstead](https://open.spotify.com/artist/6dwp73sWeoHMobWygzWYDP) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 1:42 | 2019-12-16 | 2022-09-01 |
 | [The hall is dancing](https://open.spotify.com/track/6UnSlwVAEPblKJING6FH5Z) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Transitions](https://open.spotify.com/album/7dopFnnInju2yjJe127paH) | 1:03 | 2023-09-08 |  |
+| [the lonely tree \(slowed\)](https://open.spotify.com/track/0ECFKrZI3VZKPNWGs1CoSq) | [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x) | [the lonely tree](https://open.spotify.com/album/6wGfq6iZAQ1RhX3izONxdS) | 2:45 | 2023-11-29 |  |
 | [the lonely tree \(slowed\)](https://open.spotify.com/track/4Jjsn1g5vJJPdbPuJD2XBM) | [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x) | [the lonely tree](https://open.spotify.com/album/6RPBdWsjsNsJWN9i2M3tDe) | 2:45 | 2023-11-29 | 2024-02-01 |
 | [The Lonely Tree Corecore Depressed](https://open.spotify.com/track/6op1kH6zHU9JJu7vRZwrap) | [Leox](https://open.spotify.com/artist/7c4E98MuM8NBQGrSDC2n9r) | [The Lonely Tree Corecore Depressed](https://open.spotify.com/album/5MS01aBztEzPQLUN5OZhpd) | 1:22 | 2023-11-29 | 2024-02-16 |
 | [The Long Spring](https://open.spotify.com/track/1pRSp8bfk0kruIwrINVZ3u) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Thank You \(Anniversary Compilation\)](https://open.spotify.com/album/5sVNhFHuw3979uDE6QHBXS) | 5:34 | 2019-12-16 | 2022-07-29 |

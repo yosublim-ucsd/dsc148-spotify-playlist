@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-686 songs - 1 day 15 hr 41 min
+687 songs - 1 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Coming Home](https://open.spotify.com/track/2goyAEJ3QSW3I0EjQVNsrA) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Coming Home](https://open.spotify.com/album/4LPip8IbiCE6fguYsmoKyN) | 4:57 | 2023-11-24 | 2024-03-08 |
 | [Crashing](https://open.spotify.com/track/18G8jUP2uoOfUG2fspXF3a) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Crashing](https://open.spotify.com/album/7fvqYjrOm2leglqnKmBtTC) | 3:56 | 2023-05-17 | 2023-08-10 |
 | [Crashing Hard](https://open.spotify.com/track/3zxi11w6lXJgDBmIhhWjpR) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Crashing Hard](https://open.spotify.com/album/3Qmygkn40t7BIgJ6U5eT6i) | 3:37 | 2023-11-09 | 2024-02-22 |
+| [CREATION OF DISGUST](https://open.spotify.com/track/12Ekt7NiSWR0CJWIgVK37m) | [Avance](https://open.spotify.com/artist/7jIewPOjOwffB1mcJIk4vP), [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [CREATION OF DISGUST](https://open.spotify.com/album/0KLFcQSTmJH4V1UWSkue2b) | 3:21 | 2024-03-25 |  |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-10 | 2022-05-21 |
 | [CRY \- Borgore Remix](https://open.spotify.com/track/6ekIi6kltHC195Y4z6vMb0) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Someone You Can Count On \(The Remixes\)](https://open.spotify.com/album/0QWKmiHrLOhsSp2r8vx40l) | 4:18 | 2023-07-17 | 2023-12-14 |
 | [Cyan](https://open.spotify.com/track/0o4GFEcDdhbfGruMLIPOKV) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Malva](https://open.spotify.com/album/5cqyzitY6IgCLjOsRpILx2) | 3:39 | 2022-11-14 | 2023-02-02 |
@@ -510,7 +511,7 @@
 | [Safer Place](https://open.spotify.com/track/3bEcHt8DDUMvK67yrd35Qy) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [LUX](https://open.spotify.com/artist/1xNeaOaf8khvhnxCU4TWcJ) | [Safer Place / Work My Body](https://open.spotify.com/album/473D1rbKmLyh3LtP92FHzs) | 2:52 | 2023-06-21 | 2023-09-26 |
 | [Saganaki](https://open.spotify.com/track/04iOj6dE03qS7icw2Y4qtK) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM) | [Saganaki](https://open.spotify.com/album/6i0N9UHCiTXb8bRI7aKQob) | 3:28 | 2023-04-04 | 2023-06-28 |
 | [Sailor's Cry \- djimboh Remix](https://open.spotify.com/track/7mx7kAWl6N5R7D243wCIJC) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [djimboh](https://open.spotify.com/artist/7cIzAFnvs0ilTGyfFJY8fd) | [A Place For Everything \(The Remixes\)](https://open.spotify.com/album/51aOQOP4DhqzNkXtVCa8RR) | 3:51 | 2022-12-16 | 2023-03-18 |
-| [Sakura \- Misc.Inc Remix](https://open.spotify.com/track/60iuDxgNcrAPXtLBCfmP4f) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Familiar Faces \(Deluxe\)](https://open.spotify.com/album/5ahWGbaQe5qDr1CKJCWOJ5) | 3:07 | 2023-12-12 |  |
+| [Sakura \- Misc.Inc Remix](https://open.spotify.com/track/60iuDxgNcrAPXtLBCfmP4f) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Familiar Faces \(Deluxe\)](https://open.spotify.com/album/5ahWGbaQe5qDr1CKJCWOJ5) | 3:07 | 2023-12-12 | 2024-03-26 |
 | [Same Thing](https://open.spotify.com/track/14jeV71SdC9avzYP9MsrhR) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Danyka Nadeau](https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9) | [Same Thing](https://open.spotify.com/album/2erULkeRVJ8bYVqF2tTmYZ) | 3:41 | 2023-02-07 | 2023-04-27 |
 | [Sapphire](https://open.spotify.com/track/5eit9qX0tK8uLfz3PtGV3l) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Sapphire](https://open.spotify.com/album/7yjFesZrS1IuDwEfs2qe56) | 3:13 | 2023-01-11 | 2023-03-25 |
 | [Save Me](https://open.spotify.com/track/57qREwXYYpVtANx4Vldnux) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Save Me](https://open.spotify.com/album/0BzcyBDEuFW1q3fR8gSf7G) | 3:24 | 2022-08-15 | 2022-10-28 |

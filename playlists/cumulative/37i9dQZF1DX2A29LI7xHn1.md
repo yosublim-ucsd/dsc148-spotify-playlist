@@ -4,7 +4,7 @@
 
 > Crossing over like Allen I\. Cover: Tyla
 
-807 songs - 1 day 16 hr 28 min
+808 songs - 1 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2023-10-27 |  |
 | [Money \(feat\. Juice WRLD & Nicki Minaj\)](https://open.spotify.com/track/6bFsZCWWJaCyE9uly2NhAH) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [BUSINESS IS BUSINESS \(Metro's Version\)](https://open.spotify.com/album/0z2a9VgdVmkr0DInVJUgu6) | 4:26 | 2023-06-30 | 2024-02-24 |
 | [Money Flow \(feat\. BabyTron and Dave Fio\)](https://open.spotify.com/track/2t8etgLcnlQA3pNNNori0n) | [Helluva](https://open.spotify.com/artist/0jN4FCNlkBCQBoSE6Eo5sK), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Dave Fio](https://open.spotify.com/artist/17f6PZrOqGRfyZGtLRrlrH) | [Money Flow \(feat\. BabyTron and Dave Fio\)](https://open.spotify.com/album/7GsqEQvYjf46dClLgdDxqH) | 2:03 | 2022-10-14 | 2022-11-12 |
+| [MONEY! \(Money Money, Green Green\)](https://open.spotify.com/track/40MPZ79Nb7wBZqA9PzLVy0) | [Kaytoven](https://open.spotify.com/artist/4DDuVAfwHpJyGSmNUHRTGm) | [MONEY! \(Money Money, Green Green\)](https://open.spotify.com/album/2RVKC6Ji7sQfRb4iMCu8gX) | 1:18 | 2024-03-25 |  |
 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 | 2024-02-23 | 2024-03-02 |
 | [more than a trend](https://open.spotify.com/track/0yk8VLT5BXbqHK8DZD3xUg) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 1:36 | 2021-12-17 | 2022-06-04 |
 | [MORE THAN FRIENDS](https://open.spotify.com/track/3woWtzkN6KKSfX7VBW6nDg) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [CATCH ME IF YOU CAN](https://open.spotify.com/album/2wCRNE4T5Neq52FhgGB2kl) | 2:18 | 2022-08-01 | 2023-02-11 |

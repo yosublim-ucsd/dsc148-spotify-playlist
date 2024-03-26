@@ -4,7 +4,7 @@
 
 > a fresh & mellow mix from some of today's best singer\-songwriters\. Cover: Bre Kennedy
 
-113 songs - 6 hr 39 min
+114 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,8 +96,9 @@
 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 | 2023-12-08 |  |
 | [Scream Over Everything](https://open.spotify.com/track/3gJFSHvWlq4p97nDzFqaG6) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Scream Over Everything](https://open.spotify.com/album/2rSS5b0a6nLAy6KqfJeYYQ) | 3:16 | 2023-12-08 |  |
 | [Shame](https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 4:11 | 2023-12-08 |  |
-| [Side Effects](https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:43 | 2023-12-08 |  |
+| [Side Effects](https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:43 | 2023-12-08 | 2024-03-26 |
 | [Slow Dancing in a Burning Room \- Acoustic](https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Village Sessions](https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX) | 3:52 | 2023-12-08 |  |
+| [Snow](https://open.spotify.com/track/2mI7H9gV0viQJWtf8j48jS) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf) | 3:38 | 2024-02-23 |  |
 | [South Dakota](https://open.spotify.com/track/3wxqXbquEp4LsURWXWgAcm) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [South Dakota](https://open.spotify.com/album/0DWGKx6P8SrWT1wHH1Yamj) | 2:58 | 2023-12-08 |  |
 | [Stay High](https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:11 | 2023-12-08 |  |
 | [Still as the Night](https://open.spotify.com/track/4DwSzfkzhnT6GF80xHVhQF) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Still as the Night](https://open.spotify.com/album/5l3DHd5gYAwrkmM9OLQDDa) | 3:17 | 2023-12-08 | 2024-02-06 |

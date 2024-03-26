@@ -4,7 +4,7 @@
 
 > Entspannung pur oder viel los? Hier findest du die passenden Beats für deine Pläne!
 
-122 songs - 5 hr 36 min
+123 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2023-09-01 |  |
 | [All Good Things](https://open.spotify.com/track/1sjliewWkSOKKvEVYHPqUk) | [AVA CROWN](https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC), [LUCA \(DE\)](https://open.spotify.com/artist/30qKpLi7U8MxZyEy3HEW26) | [All Good Things](https://open.spotify.com/album/0Wl4Yf9g9gYZtABnPEz4KH) | 2:43 | 2024-01-26 |  |
 | [All Or Nothing](https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [All Or Nothing](https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5) | 2:27 | 2023-09-01 |  |
+| [All Stand Together](https://open.spotify.com/track/21PF64NXwKLq60rpAYgrnb) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [All Stand Together](https://open.spotify.com/album/6Kk0U3JRoniLtiSjypjEVL) | 3:15 | 2024-03-19 |  |
 | [All Stand Together](https://open.spotify.com/track/5Tg7ljm6nxJiBh8jl6cpPz) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [All Stand Together](https://open.spotify.com/album/5eIZT2VKUxB8REoU0V1Qs2) | 3:15 | 2023-11-10 | 2024-03-09 |
 | [All the Things She Said](https://open.spotify.com/track/5EATp50M4LxHiZWzHx4MQK) | [Krmoni](https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz), [BassBears](https://open.spotify.com/artist/3dNqN9ggP6hqIGoVCovVb3) | [All the Things She Said](https://open.spotify.com/album/2GPBEu8Rm0TiPTQfJkzRfZ) | 2:20 | 2023-11-10 | 2023-11-18 |
 | [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 | 2023-09-01 |  |
@@ -45,7 +46,7 @@
 | [Cynical](https://open.spotify.com/track/2kNhZ57JHXkZPZH2rknRyu) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical](https://open.spotify.com/album/17LI3Izac2jjx89l1hqLST) | 3:11 | 2023-12-01 | 2024-03-01 |
 | [Cynical](https://open.spotify.com/track/6VritP6GDDRBFkijEkZWbm) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical](https://open.spotify.com/album/5RJagY9ID50QgTadJyTLuF) | 3:11 | 2024-01-26 |  |
 | [Daydreamer](https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Daydreamer](https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF) | 2:40 | 2023-09-01 | 2023-11-11 |
-| [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 | 2023-09-01 |  |
+| [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 | 2023-09-01 | 2024-03-26 |
 | [Dirty Dancing](https://open.spotify.com/track/464F2a58LTaitVUFKvEm1J) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Dirty Dancing](https://open.spotify.com/album/0nB12E14XrqbxtbteLPuEo) | 2:40 | 2023-09-08 |  |
 | [Disco Cone \(Take It High\) \[ft\. WENZL\]](https://open.spotify.com/track/59IA01UnxFiJhxWXpG24mM) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6), [WENZL](https://open.spotify.com/artist/20TzJXkB1BHRDiazEqsf8r) | [Disco Cone \(Take It High\) \[ft\. WENZL\]](https://open.spotify.com/album/60S00zDlfsP8UPGjMmTSH2) | 2:11 | 2024-03-19 |  |
 | [Dive](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Dive](https://open.spotify.com/album/4kdsVtA4bh3j0E2H0rdUTI) | 2:42 | 2023-09-28 |  |

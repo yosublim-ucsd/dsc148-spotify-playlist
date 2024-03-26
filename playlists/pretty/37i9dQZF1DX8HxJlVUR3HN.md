@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Datcha Mandala
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,305 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,312 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [My Own God](https://open.spotify.com/track/5mN3tAaHPDl4JJEPJw8AEf) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [My Own God](https://open.spotify.com/album/1hGgphPBFh3ZlFZ4wNLHub) | 3:15 |
 | 50 | [Raindrops](https://open.spotify.com/track/2rYwrGzzu9p1t6TKZI5WF2) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Raindrops](https://open.spotify.com/album/5AlTB1HLuVSpwjVmgmizoo) | 2:30 |
 
-Snapshot ID: `MCxiMTQ2ODI0OGIyMzE5NWQzOWViM2IzZDUxNTE1MDQ5NWZhNGNjZjNl`
+Snapshot ID: `MCw3MDg5YWQ2NTQ1OGNiNmRmOTg5ZmM3MjgzYjA1MDkyZTI0NWNkZTgy`

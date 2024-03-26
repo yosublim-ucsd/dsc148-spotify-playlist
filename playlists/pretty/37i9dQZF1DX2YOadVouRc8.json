@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 23001,
+  "num_followers": 23031,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGZmNzYzZmEzM2Y0Mzg5Nzk0ZGNmZjQ4MTYwOWM1YzY5NjIxOGYz",
+  "snapshot_id": "MCxhZjVkYjVkYTVkZTRkZTE2MmQ5ZmM0ZDZhN2FiNTRkMjJkZjUxNGE5",
   "tracks": [
     {
       "added_at": "2024-03-22 00:01:00",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 152307,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 186000,
       "name": "Obaa Sima",
       "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 152307,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -751,6 +751,26 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 176692,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 186000,
       "name": "Angelus",
       "url": "https://open.spotify.com/track/2g43A8NJ0VInfpqUjsb5R6"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 176692,
-      "name": "Zero",
-      "url": "https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -887,6 +887,26 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "AREA BOYZ PRAYER (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "WITH YOU",
         "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 188656,
       "name": "Trumpet",
       "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "AREA BOYZ",
-        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 250920,
-      "name": "AREA BOYZ PRAYER (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "Don't Let Me Down",
+        "url": "https://open.spotify.com/album/46gG6qQ1sqqBIGdRDPE3FG"
+      },
+      "artists": [
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/60MtVesSSqlEdtEgBWex6F"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "Wrist On Freeze",
         "url": "https://open.spotify.com/album/26WFXsghAL2Q78J83hIwjK"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 187500,
       "name": "Wrist On Freeze",
       "url": "https://open.spotify.com/track/0SQhNk3xObQHvq3NFpIbj4"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Don't Let Me Down",
-        "url": "https://open.spotify.com/album/46gG6qQ1sqqBIGdRDPE3FG"
-      },
-      "artists": [
-        {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/60MtVesSSqlEdtEgBWex6F"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "SUPARO (Remix)",
-        "url": "https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx"
-      },
-      "artists": [
-        {
-          "name": "WAYNE FLENORY",
-          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "SUPARO - Remix",
-      "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Boy Alone (Deluxe)",
         "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
       },
@@ -1175,18 +1155,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Mr O\u00falala",
-        "url": "https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby"
+        "name": "SUPARO (Remix)",
+        "url": "https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx"
       },
       "artists": [
         {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+          "name": "WAYNE FLENORY",
+          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
         }
       ],
-      "duration_ms": 149571,
-      "name": "Fashion",
-      "url": "https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK"
+      "duration_ms": 161226,
+      "name": "SUPARO - Remix",
+      "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1211,6 +1195,22 @@
       "duration_ms": 186401,
       "name": "Sweet Life",
       "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Mr O\u00falala",
+        "url": "https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 149571,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/2GaYDilv8Ei7fPAE9U0oVD"
-      },
-      "artists": [
-        {
-          "name": "Iyanya",
-          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 180745,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/1J12nWQKjodPf436e61Orp"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Make E No Cause Fight 3",
         "url": "https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56"
       },
@@ -1339,6 +1319,46 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/2GaYDilv8Ei7fPAE9U0oVD"
+      },
+      "artists": [
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 180745,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/1J12nWQKjodPf436e61Orp"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Risk (feat. Moliy)",
+        "url": "https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh"
+      },
+      "artists": [
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Risk (feat. Moliy)",
+      "url": "https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "L.I.T (Lost In Translation)",
         "url": "https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F"
       },
@@ -1355,6 +1375,26 @@
       "duration_ms": 186586,
       "name": "40 Days",
       "url": "https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/08uN83YmgRrO8MOAgApw8H"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "Buju",
+          "url": "https://open.spotify.com/artist/52m72UOOSfJmiCC8UkrNZw"
+        }
+      ],
+      "duration_ms": 185619,
+      "name": "Confident",
+      "url": "https://open.spotify.com/track/2JyILhFSK1yopuDDxWVMFM"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1423,22 +1463,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Gen-Z Fuji",
-        "url": "https://open.spotify.com/album/0AkymHIm0pp983pVtsz9T9"
-      },
-      "artists": [
-        {
-          "name": "FirstKlaz",
-          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
-        }
-      ],
-      "duration_ms": 122507,
-      "name": "Gen-Z Fuji",
-      "url": "https://open.spotify.com/track/513bT5hsTWaLwIiwktuAPG"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Line Of Fire",
         "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
       },
@@ -1459,22 +1483,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/08uN83YmgRrO8MOAgApw8H"
+        "name": "Gen-Z Fuji",
+        "url": "https://open.spotify.com/album/0AkymHIm0pp983pVtsz9T9"
       },
       "artists": [
         {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
-        },
-        {
-          "name": "Buju",
-          "url": "https://open.spotify.com/artist/52m72UOOSfJmiCC8UkrNZw"
+          "name": "FirstKlaz",
+          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
         }
       ],
-      "duration_ms": 185619,
-      "name": "Confident",
-      "url": "https://open.spotify.com/track/2JyILhFSK1yopuDDxWVMFM"
+      "duration_ms": 122507,
+      "name": "Gen-Z Fuji",
+      "url": "https://open.spotify.com/track/513bT5hsTWaLwIiwktuAPG"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1551,26 +1571,6 @@
       "duration_ms": 160610,
       "name": "CLEAR",
       "url": "https://open.spotify.com/track/10UV0GA408i11E6eSloCb4"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Risk (feat. Moliy)",
-        "url": "https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh"
-      },
-      "artists": [
-        {
-          "name": "Shekhinah",
-          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
-        },
-        {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Risk (feat. Moliy)",
-      "url": "https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB"
     }
   ],
   "unique_name": "Afro Chill",

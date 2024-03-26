@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 90352,
+  "2024-03-26": 90411,
   "date_first_scraped": "2023-10-25",
   "description": "D\u00f2ng ch\u1ea3y c\u1ee7a rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: \u0110en",
   "name": "Hip-hop Vi\u1ec7t",
@@ -205,7 +205,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 167970,
       "name": "Anh Ch\u1ec9 Mu\u1ed1n",
       "url": "https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 200000,
       "name": "B\u1eadt Nh\u1ea1c L\u00ean",
       "url": "https://open.spotify.com/track/0hiQvlWSSTr7n1kc1X2Lus"
@@ -571,6 +571,24 @@
       "duration_ms": 141467,
       "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9 Remix ft. wokeupat4am x kewtiie - Remix",
       "url": "https://open.spotify.com/track/2GgJoD0prtC5Dv4z5BXstc"
+    },
+    {
+      "album": {
+        "name": "Ch\u01b0a Bao Gi\u1edd",
+        "url": "https://open.spotify.com/album/6Q0nObZ1DJ746K31OZiOfM"
+      },
+      "artists": [
+        {
+          "name": "DSK",
+          "url": "https://open.spotify.com/artist/0KqWWEbDa21psQwESpf3pD"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288623,
+      "name": "Ch\u01b0a Bao Gi\u1edd",
+      "url": "https://open.spotify.com/track/75rsMKqFUVEQvhwCL6Qc9m"
     },
     {
       "album": {
@@ -1795,7 +1813,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 234173,
       "name": "M\u00ea Man",
       "url": "https://open.spotify.com/track/5iheFoiJ58bfHDO2w577xK"
@@ -3133,7 +3151,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 243750,
       "name": "XTC (X\u00edch Th\u00eam Ch\u00fat) (Remix)",
       "url": "https://open.spotify.com/track/7fNHfgOxPLcg4mQLhCnOHB"
@@ -3305,7 +3323,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 173195,
       "name": "\u0110\u1ec3 cho anh c\u01b0a",
       "url": "https://open.spotify.com/track/1Y5fE11yvUPL4YCX0J8efO"

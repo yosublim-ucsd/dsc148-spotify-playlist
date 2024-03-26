@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Shakira &amp; Cardi B &quot;Puntería,&quot; Pedro Capó &amp; Carin León  &quot;Existo&quot;, Diego Torres &amp; Carlos Vives  &quot;Kapun&quot;, Enrique Iglesias &amp; Miranda Lambert &quot;Space in My Heart&quot;&quot;
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 54,632 likes - 159 songs - 8 hr 22 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 54,630 likes - 159 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

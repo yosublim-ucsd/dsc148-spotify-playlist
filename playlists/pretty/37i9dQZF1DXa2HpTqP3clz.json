@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
-  "num_followers": 132201,
+  "num_followers": 132218,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGEwYTE4YjhjOTNmY2JjNjE3MmY3ZmZmNGU4MjYyZTlkYTY3YTAx",
+  "snapshot_id": "MCwzMDQ4NGQ0NzI5ZjkzZjg5NmIzOWU0MDkyODgyZmViZDc1OGZmMGZj",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -639,18 +639,30 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+        "name": "Wake Me When It's Over",
+        "url": "https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz"
       },
       "artists": [
         {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        },
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 153327,
-      "name": "Church Street Blues",
-      "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
+      "duration_ms": 258393,
+      "name": "Wake Me When It's Over",
+      "url": "https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -687,30 +699,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Wake Me When It's Over",
-        "url": "https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz"
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
       "artists": [
         {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        },
-        {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
-        },
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        },
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
         }
       ],
-      "duration_ms": 258393,
-      "name": "Wake Me When It's Over",
-      "url": "https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J"
+      "duration_ms": 153327,
+      "name": "Church Street Blues",
+      "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Almost Proud",
+        "url": "https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP"
+      },
+      "artists": [
+        {
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 152786,
+      "name": "Honky Tonk Nights",
+      "url": "https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Stress Dreams",
         "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
       },
@@ -811,22 +831,6 @@
       "duration_ms": 420123,
       "name": "Grow Together",
       "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Long Journey Home / Life To Go",
-        "url": "https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 177453,
-      "name": "Long Journey Home",
-      "url": "https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -851,54 +855,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Bluegrass",
-        "url": "https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO"
+        "name": "Long Journey Home / Life To Go",
+        "url": "https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         }
       ],
-      "duration_ms": 240773,
-      "name": "Still Is Still Moving To Me",
-      "url": "https://open.spotify.com/track/6wMnZNnO4oWJwivp0WvW2W"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Almost Proud",
-        "url": "https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP"
-      },
-      "artists": [
-        {
-          "name": "The Del McCoury Band",
-          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 152786,
-      "name": "Honky Tonk Nights",
-      "url": "https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Congratulations and Condolences",
-        "url": "https://open.spotify.com/album/42nmiNlmPBoCakZzlqBdyD"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 215884,
-      "name": "Congratulations and Condolences",
-      "url": "https://open.spotify.com/track/2lLTQiWMra5nFCeZuFeXWy"
+      "duration_ms": 177453,
+      "name": "Long Journey Home",
+      "url": "https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -951,6 +919,38 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Bluegrass",
+        "url": "https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 240773,
+      "name": "Still Is Still Moving To Me",
+      "url": "https://open.spotify.com/track/6wMnZNnO4oWJwivp0WvW2W"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Congratulations and Condolences",
+        "url": "https://open.spotify.com/album/42nmiNlmPBoCakZzlqBdyD"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 215884,
+      "name": "Congratulations and Condolences",
+      "url": "https://open.spotify.com/track/2lLTQiWMra5nFCeZuFeXWy"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "God Fearing Heathen",
         "url": "https://open.spotify.com/album/6sQipYOa0SqDbcvnahcYpu"
       },
@@ -995,22 +995,6 @@
       "duration_ms": 178973,
       "name": "Any Old Time",
       "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/17wa8FFwa1mZQEp3A97JC7"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 220727,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/5SybEHAzVGgyDpT1Pz8Q6h"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1071,6 +1055,22 @@
       "duration_ms": 229383,
       "name": "Grey Eagle",
       "url": "https://open.spotify.com/track/360q0eHUyinl6hByFYbm2t"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/17wa8FFwa1mZQEp3A97JC7"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 220727,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/5SybEHAzVGgyDpT1Pz8Q6h"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Family Reunion",
-        "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
-      },
-      "artists": [
-        {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
-        }
-      ],
-      "duration_ms": 162697,
-      "name": "Dry Town",
-      "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Stress Dreams",
         "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 481641,
       "name": "Stress Dreams",
       "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Family Reunion",
+        "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 162697,
+      "name": "Dry Town",
+      "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Radio John: Songs of John Hartford",
-        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
-      },
-      "artists": [
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "In Tall Buildings",
-      "url": "https://open.spotify.com/track/7cSbzBovpSOfe19Qbn3qWK"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Ain\u2019t Through Honky Tonkin\u2019 Yet",
         "url": "https://open.spotify.com/album/3sSHGWiYpEhC0W2MvWISop"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 165600,
       "name": "Running Out Of Hope, Arkansas",
       "url": "https://open.spotify.com/track/36I4TdV7yZNZJVOz1WQZpf"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Radio John: Songs of John Hartford",
+        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "In Tall Buildings",
+      "url": "https://open.spotify.com/track/7cSbzBovpSOfe19Qbn3qWK"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 263662,
-      "name": "Sweet Spot",
-      "url": "https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Black Banjo",
         "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Fire in the Dark",
-        "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV"
       },
       "artists": [
         {
-          "name": "Gary Nichols",
-          "url": "https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n"
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Fire in the Dark",
-      "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
+      "duration_ms": 263662,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1403,6 +1387,22 @@
       "duration_ms": 207319,
       "name": "The Heart Wants",
       "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Fire in the Dark",
+        "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
+      },
+      "artists": [
+        {
+          "name": "Gary Nichols",
+          "url": "https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Fire in the Dark",
+      "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "I'll Blame It on the Rain",
-        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
-      },
-      "artists": [
-        {
-          "name": "Hammertowne",
-          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "I'll Blame It on the Rain",
-      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Calling You From My Mountain",
         "url": "https://open.spotify.com/album/3WyCl62CMDBjBleRYVGqnc"
       },
@@ -1723,6 +1707,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "I'll Blame It on the Rain",
+        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
+      },
+      "artists": [
+        {
+          "name": "Hammertowne",
+          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "I'll Blame It on the Rain",
+      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Chasin' Skies",
         "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
       },
@@ -1739,22 +1739,6 @@
       "duration_ms": 158693,
       "name": "Chasin' Skies",
       "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Way Up In The Hills",
-        "url": "https://open.spotify.com/album/5v15OKarMnhpGXwp6wXhbv"
-      },
-      "artists": [
-        {
-          "name": "Sad Daddy",
-          "url": "https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV"
-        }
-      ],
-      "duration_ms": 256506,
-      "name": "Charlie Pickle",
-      "url": "https://open.spotify.com/track/245S2fMRVAQCSZ9idjYvWV"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1795,22 +1779,38 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Love Train",
-        "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
+        "name": "+ 1",
+        "url": "https://open.spotify.com/album/0WerA63tJFged7ZimsZGxZ"
       },
       "artists": [
         {
-          "name": "Dale Ann Bradley",
-          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
+          "name": "Mike Barnett",
+          "url": "https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA"
         },
         {
-          "name": "Rebecca Lynn Howard",
-          "url": "https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD"
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
         }
       ],
-      "duration_ms": 209391,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
+      "duration_ms": 253058,
+      "name": "Anna Marie (feat. Sierra Hull)",
+      "url": "https://open.spotify.com/track/2kVc7E1wVU7hnpPZPmWcoh"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Way Up In The Hills",
+        "url": "https://open.spotify.com/album/5v15OKarMnhpGXwp6wXhbv"
+      },
+      "artists": [
+        {
+          "name": "Sad Daddy",
+          "url": "https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV"
+        }
+      ],
+      "duration_ms": 256506,
+      "name": "Charlie Pickle",
+      "url": "https://open.spotify.com/track/245S2fMRVAQCSZ9idjYvWV"
     }
   ],
   "unique_name": "Grass Roots",

@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 455180,
+  "2024-03-26": 455466,
   "date_first_scraped": "2022-04-20",
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
   "name": "Tantra",
@@ -6377,7 +6377,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 211680,
       "name": "Love and Hate - Nandu Remix",
       "url": "https://open.spotify.com/track/4UX4lVdixYSjR1gBeIyjs3"
@@ -8603,6 +8603,28 @@
       "duration_ms": 491803,
       "name": "Pamparis",
       "url": "https://open.spotify.com/track/7irDOF7IcDhfoQ14kFdpOu"
+    },
+    {
+      "album": {
+        "name": "Pangea",
+        "url": "https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241983,
+      "name": "Pangea (feat. Nathan Nicholson)",
+      "url": "https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Logic1000
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,486 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,526 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [My Crew \(feat\. Flowdan\)](https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [My Crew \(feat\. Flowdan\)](https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np) | 3:25 |
 | 100 | [Free](https://open.spotify.com/track/05dsewKoowRsvsnRjUEXvX) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Free EP](https://open.spotify.com/album/0zZG5gWDyQXDTJUXbpSyxl) | 3:26 |
 
-Snapshot ID: `MCw1MjQzMzQ5M2ExNGRiOGQ0ZWRiZTM2YWE5MjA4MTljMThkMTZkZmI2`
+Snapshot ID: `MCwzZWE1NDhjMDZlMzNkODZmMDY4ODhhZWE3NWU4ZGY0OGVmMmY5NzZm`

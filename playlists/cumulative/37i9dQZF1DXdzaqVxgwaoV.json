@@ -245,6 +245,28 @@
     },
     {
       "album": {
+        "name": "Diomedes - 30 Grandes Exitos",
+        "url": "https://open.spotify.com/album/2VccvTUqLh6SMYgAHKVMuS"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "El Cocha Molina",
+          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230386,
+      "name": "Brindo Con El Alma",
+      "url": "https://open.spotify.com/track/6xa4suLeeRlNhg4w5oZnpj"
+    },
+    {
+      "album": {
         "name": "Historia M\u00fasical - 30 \u00c9xitos",
         "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
       },
@@ -610,7 +632,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 174320,
       "name": "El Bailador",
       "url": "https://open.spotify.com/track/3bvQnI2iqaGMjDz7e35Kdv"
@@ -628,7 +650,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 179426,
       "name": "El Forastero",
       "url": "https://open.spotify.com/track/1cMqeDFxoS32WAGNtfg9di"
@@ -1962,7 +1984,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 211133,
       "name": "Sorbito De Champagne",
       "url": "https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42"

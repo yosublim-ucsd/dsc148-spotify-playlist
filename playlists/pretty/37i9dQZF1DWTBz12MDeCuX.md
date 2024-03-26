@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: 01099
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,059 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,160 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 49 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 |
 | 50 | [„glücklich“](https://open.spotify.com/track/4WC4kyZnG7TxklAKBKUaK1) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [„glücklich“](https://open.spotify.com/album/3WwkJn0W4ZRLKkxeOBx4U8) | 2:44 |
 | 51 | [Past Lives](https://open.spotify.com/track/3oELxRDbAzyvOodhd5FQzB) | [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Past Lives](https://open.spotify.com/album/4jNIqI2lx1BbXDoBzqjqqI) | 2:33 |
-| 52 | [Geld](https://open.spotify.com/track/3JdTladkqJtMRnY1pjYZKV) | [Tua](https://open.spotify.com/artist/1GXnXJCevXK2b7qDAwdU5u), [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [Geld](https://open.spotify.com/album/5ZXoq4rxBzRlfiQou6nmGr) | 2:29 |
+| 52 | [Geld](https://open.spotify.com/track/3JdTladkqJtMRnY1pjYZKV) | [Tua](https://open.spotify.com/artist/1GXnXJCevXK2b7qDAwdU5u), [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj) | [Geld](https://open.spotify.com/album/5ZXoq4rxBzRlfiQou6nmGr) | 2:29 |
 | 53 | [Immer Noch Wach](https://open.spotify.com/track/4GXB1b1WmpXp5lcKx4WBPw) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn), [Pytro](https://open.spotify.com/artist/5yfH3SYskc4FoTAYzjQcGr) | [Immer Noch Wach](https://open.spotify.com/album/7xtWJVTFQ9hX3wLxMA6x3A) | 2:17 |
 | 54 | [Träume vom Alleinsein](https://open.spotify.com/track/41NaCg5GNqct6CpSAefJ72) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT), [nasskalt.](https://open.spotify.com/artist/4XYeJWX6oU3Jqql17bOHX9) | [Träume vom Alleinsein](https://open.spotify.com/album/1l3gJ8VDQtL3mBL93z0GZu) | 2:21 |
 | 55 | [Again \(feat\. XXXTENTACION\)](https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Again \(feat\. XXXTENTACION\)](https://open.spotify.com/album/5UD36hu4fYZ6R8b8crkKL7) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 |
 | 100 | [Cigarette](https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Eulogize](https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE) | 3:38 |
 
-Snapshot ID: `MCw3ZjgxYzE2NzE2YjEzMWM0NDEzYmYxNGY5OTRlZjNhN2Y1Mzc5Zjk0`
+Snapshot ID: `MCwyM2I1Y2FiYmU1MDQ1NGY4OWYwNWRjZjgwNTI1MTg2YzNlMzc5MjI5`

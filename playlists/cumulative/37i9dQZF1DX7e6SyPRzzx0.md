@@ -4,7 +4,7 @@
 
 > Cover: Yeat
 
-76 songs - 3 hr 11 min
+77 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [MMM HMM \(feat\. Sexyy Red\)](https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [MMM HMM \(feat\. Sexyy Red\)](https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI) | 2:38 | 2023-12-01 |  |
 | [Money Addicts](https://open.spotify.com/track/0R5awPL6A2oHJuFI0C0dTr) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Money Addicts](https://open.spotify.com/album/6tAtP9Y2Xj6ImN0THsKIDh) | 1:37 | 2023-12-01 |  |
 | [Monëy so big](https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF) | 2:40 | 2023-12-01 | 2024-03-16 |
-| [noir](https://open.spotify.com/track/5FgmgpMES8hknCpvbHXc3Y) | [sho](https://open.spotify.com/artist/7J931Zo6xntPEBM04BANte) | [noir](https://open.spotify.com/album/1gL2p8oM0ObpobShkMCSlC) | 1:37 | 2024-03-15 |  |
+| [noir](https://open.spotify.com/track/5FgmgpMES8hknCpvbHXc3Y) | [sho](https://open.spotify.com/artist/7J931Zo6xntPEBM04BANte) | [noir](https://open.spotify.com/album/1gL2p8oM0ObpobShkMCSlC) | 1:37 | 2024-03-15 | 2024-03-26 |
+| [noir](https://open.spotify.com/track/72vUc6aIviryxvvs4gV5ag) | [venii](https://open.spotify.com/artist/5V7KZhm5gwGljtq4BTgyOC) | [noir](https://open.spotify.com/album/2O94J43yUri3UqlH0QnYBP) | 1:49 | 2024-03-15 |  |
 | [NOSTYLIST](https://open.spotify.com/track/0MXemkrh7WpAfiafcGQwZO) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2) | 3:00 | 2023-12-01 |  |
 | [off the leash! \(feat\. yvngxchris and Luisss\)](https://open.spotify.com/track/6x3BWyMi95035qz5pB8snv) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Luisss](https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI) | [off the leash!](https://open.spotify.com/album/2udAdxSFdILUt3vK12F48I) | 3:12 | 2023-12-01 |  |
 | [Off The Map](https://open.spotify.com/track/6GNG0YQixWuLE0M5FtrRxY) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [After Me](https://open.spotify.com/album/3cDBVusNMPK33eaTIE5QQg) | 2:21 | 2023-12-01 |  |

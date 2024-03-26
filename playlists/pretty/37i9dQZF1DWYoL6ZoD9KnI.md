@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain]
 
 > The essential tracks from Kenshi Yonezu/ hachi\. 米津玄師/ ハチの代表曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,525 likes - 67 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,567 likes - 67 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain]
 | 17 | [orion](https://open.spotify.com/track/1bIZxrSkbxatnTo8ObcIxX) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 4:41 |
 | 18 | [恥ずかしくってしょうがねえ](https://open.spotify.com/track/64DQr4CorFeWFZMRiKswZv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/1T6osuQ4vFziPrA10uXOfs) | 3:41 |
 | 19 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 |
-| 20 | [ピースサイン](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 |
+| 20 | [ピースサイン \- Peace Sign](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 |
 | 21 | [POP SONG](https://open.spotify.com/track/2wPSiRWMFFeL1FC4MJ3Qxf) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/6KgGPCceeIHDFldBzttiBu) | 3:19 |
 | 22 | [パプリカ](https://open.spotify.com/track/3ZGLU3boyl9emMo2Jlr5Gr) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 3:22 |
 | 23 | [まちがいさがし](https://open.spotify.com/track/1ZjoUsUbGdDrdyofWvSITO) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 4:27 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain]
 | 40 | [迷える羊](https://open.spotify.com/track/6bukiujm3fiAIey2Qieimc) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 3:46 |
 | 41 | [メトロノーム](https://open.spotify.com/track/6DJufb1am2ldhryvhP3dpC) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Bremen](https://open.spotify.com/album/2NntpzUApyESbWpuylSP31) | 4:19 |
 | 42 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
-| 43 | [Neighbourhood](https://open.spotify.com/track/51BDjBKd5QAT7bsPmvDnAh) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [ピースサイン](https://open.spotify.com/album/2p58xu7Y1gvdALDqLeBZ4C) | 3:57 |
+| 43 | [Neighbourhood](https://open.spotify.com/track/51BDjBKd5QAT7bsPmvDnAh) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [ピースサイン \- Peace Sign](https://open.spotify.com/album/2p58xu7Y1gvdALDqLeBZ4C) | 3:57 |
 | 44 | [NANIMONO \(feat\. 米津玄師\)](https://open.spotify.com/track/21YjXHKo8hc5fOK7sYtixB) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [NANIMONO EP](https://open.spotify.com/album/0LER3HsCsaTndOTcsTzAu4) | 4:06 |
 | 45 | [愛麗絲（正式表記はAliceの中国語簡体字表記となります。）](https://open.spotify.com/track/7APmRLL4QCEd7TmAfz2onj) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:09 |
 | 46 | [でしょましょ](https://open.spotify.com/track/0crXUgfQlDabooRgYlk6pO) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [馬と鹿](https://open.spotify.com/album/0qQBqfFObMOxLmumCLDjiw) | 2:52 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain]
 | 50 | [ごめんね](https://open.spotify.com/track/4dvRQjQCOdtEaYH86BEs36) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Flamingo / TEENAGE RIOT](https://open.spotify.com/album/4OaItizwUJOXbPgr7bBSSO) | 3:31 |
 | 51 | [優しい人](https://open.spotify.com/track/7EoBmpSFygVuCCGkXA3wei) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 3:28 |
 | 52 | [シンデレラグレイ](https://open.spotify.com/track/421YV4dHoOY8HaU6nHAuks) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Bremen](https://open.spotify.com/album/2NntpzUApyESbWpuylSP31) | 4:11 |
-| 53 | [ゆめくいしょうじょ](https://open.spotify.com/track/4PDeviRbxQfSDDwP0BAE5O) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [ピースサイン](https://open.spotify.com/album/2p58xu7Y1gvdALDqLeBZ4C) | 4:43 |
+| 53 | [ゆめくいしょうじょ](https://open.spotify.com/track/4PDeviRbxQfSDDwP0BAE5O) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [ピースサイン \- Peace Sign](https://open.spotify.com/album/2p58xu7Y1gvdALDqLeBZ4C) | 4:43 |
 | 54 | [ETA](https://open.spotify.com/track/0XeyTwIqd2GPPcIFpM10IX) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/6KgGPCceeIHDFldBzttiBu) | 4:47 |
 | 55 | [fogbound \( + 池田エライザ \)](https://open.spotify.com/track/7N3SyH4n4kjbMl8gYNs63K) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [池田 エライザ](https://open.spotify.com/artist/5M2zpiu3UmpkILAzG32bCP) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 4:15 |
 | 56 | [ホープランド](https://open.spotify.com/track/7lmF0obAl4R76B5QPhMJrZ) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Bremen](https://open.spotify.com/album/2NntpzUApyESbWpuylSP31) | 5:01 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain]
 | 66 | [マトリョシカ \- ORIGINAL](https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:18 |
 | 67 | [ワンダーランドと羊の歌 \- ORIGINAL](https://open.spotify.com/track/4ZLyjxANuZ87aP9dJqRaik) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 4:47 |
 
-Snapshot ID: `MCw0YzJjMzdkMjA2N2QzOTU4NjE1YThmMjE2NTQ0MzYzMzE1NGYxZWFi`
+Snapshot ID: `MCxhZTM1YzU0MDU0OGE5ZTAwNzk1MDIxZmNiMWVkZTIzMTJmZjA4NzMz`

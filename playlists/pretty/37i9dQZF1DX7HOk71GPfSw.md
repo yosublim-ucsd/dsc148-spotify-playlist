@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > more like hyperstop playing this music please
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,739 likes - 99 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,875 likes - 99 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 98 | [Something bad](https://open.spotify.com/track/6n5lG9tQssEHV5Z5zmaWhR) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [Something bad](https://open.spotify.com/album/7uaXo6DwzXzhrNFwrMU2XR) | 3:14 |
 | 99 | [PRETTY GIRL](https://open.spotify.com/track/2OuCWKJOjKGbvzyJH9wpfd) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [PRETTY GIRL](https://open.spotify.com/album/5rgxsMyFO3NkfG36l2rouo) | 2:26 |
 
-Snapshot ID: `MCw2NGZmNWU1NjQ5OTJlNjQyNDc1NzBiYzU3NTlmODVkMjdkNGRhMjVk`
+Snapshot ID: `MCwyNzBhYTFhMTRiYWM2YzNlODk0MjE0OGY4NWVhNWI2YjU5OTM3MThl`

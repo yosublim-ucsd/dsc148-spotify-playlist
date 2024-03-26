@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-867 songs - 2 day 3 hr 57 min
+869 songs - 2 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,12 +36,13 @@
 | [A Thousand Candles](https://open.spotify.com/track/6FPlA5HOSAyEv7QzfCAVy6) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [A Thousand Candles](https://open.spotify.com/album/49KX5Vrlrqx9q1VmzyBoPa) | 3:35 | 2023-03-09 |  |
 | [A Time For Love](https://open.spotify.com/track/1lj6MFAyOG9mlwmp0EkBAF) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 5:08 | 2022-06-28 | 2022-10-13 |
 | [A Wayfarer's Tale](https://open.spotify.com/track/0RrvMxwdAX6qBQHjR3EEPZ) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [A Wayfarer's Tale](https://open.spotify.com/album/3E7581DaCGTtHOi5KvwYpN) | 3:34 | 2023-10-27 |  |
+| [A Wondrous Day at Sea](https://open.spotify.com/track/1qe1tA11dGRosaBxbKutUr) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [A Wondrous Day at Sea](https://open.spotify.com/album/5pgUveuZNbekDjIK3DXx3k) | 3:22 | 2024-03-22 |  |
 | [Abisko](https://open.spotify.com/track/65zFbHuyUdai6WFwtPAkix) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Abisko](https://open.spotify.com/album/0Lkn1OWDVLcaxHR9hOmyBp) | 2:48 | 2022-06-28 |  |
 | [Above All](https://open.spotify.com/track/2K9iXW1SNMCRLhtG1CZKpV) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Above All](https://open.spotify.com/album/4yHKNMO6qCHvJlj43fHGGQ) | 3:02 | 2023-11-24 |  |
 | [Absence](https://open.spotify.com/track/0q243837xX1qJmXuItLJHd) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Absence](https://open.spotify.com/album/13zi4vABi2RGi71sfTMLll) | 3:11 | 2022-06-28 | 2022-10-08 |
 | [Accidently On Purpose](https://open.spotify.com/track/6Iph7VLWk26M9A1URCSSur) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Accidently On Purpose](https://open.spotify.com/album/2QRYJ2dDOuVtmmq64TSHph) | 2:57 | 2024-01-05 |  |
 | [Across the Ocean](https://open.spotify.com/track/3uAk1bGnkgBOybte47PUm1) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Candles on the Moon](https://open.spotify.com/album/0KtqPp4quy5rDlMfWnRIjL) | 2:43 | 2023-09-22 |  |
-| [Adrift](https://open.spotify.com/track/1bMvqBFGPYsNVRCxYFUkRu) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Adrift](https://open.spotify.com/album/1xbQp1I63p3105CriGuV6n) | 3:46 | 2022-12-30 |  |
+| [Adrift](https://open.spotify.com/track/1bMvqBFGPYsNVRCxYFUkRu) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Adrift](https://open.spotify.com/album/1xbQp1I63p3105CriGuV6n) | 3:46 | 2022-12-30 | 2024-03-26 |
 | [Affection](https://open.spotify.com/track/62LIjQ7uet2hOT9577QYoq) | [Hunter Paige](https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ) | [Affection](https://open.spotify.com/album/0xye9fPdkqLWvaW52XXpg5) | 3:26 | 2023-05-04 |  |
 | [After Hours](https://open.spotify.com/track/3RoPN08vWMKxViEhdoqeuW) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [After Hours](https://open.spotify.com/album/3itxUrPWLTA7nUFpL3LiTS) | 3:32 | 2022-08-30 |  |
 | [After Winter Comes Spring](https://open.spotify.com/track/4Q0cp8Bo5fUe2YKjtyK9S1) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [After Winter Comes Spring](https://open.spotify.com/album/5Mn1kdE6pGip1PyhX1rufH) | 3:31 | 2023-08-10 |  |
@@ -405,7 +406,7 @@
 | [Jazz Junction](https://open.spotify.com/track/1grGYyIWIJ44ApvRXWCvdN) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Jazz Junction](https://open.spotify.com/album/5MjZsGtvLqcNlYpqyaJcL2) | 2:36 | 2024-02-23 |  |
 | [Jazz Noir](https://open.spotify.com/track/34X5CVjvYwM4yaPY1D8bAd) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Jazz Noir](https://open.spotify.com/album/3C4NdEsW6ibEIqZbXkxNf9) | 3:47 | 2023-08-10 |  |
 | [Jazz Odyssey](https://open.spotify.com/track/3n3gfS8H6kpyqF2x5vUdLT) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Jazz Odyssey](https://open.spotify.com/album/3g84J8lIoF12N7cnE9IrXa) | 2:50 | 2023-09-01 |  |
-| [Jazzanooga](https://open.spotify.com/track/3itQmY3qDISKklo9IYsVsq) | [Chattanooga Trio](https://open.spotify.com/artist/3ZXld6SkmayTEPuJygbwy6) | [Jazzanooga](https://open.spotify.com/album/61nhEXYkNaUn6wgJQzNJeO) | 2:47 | 2022-06-28 |  |
+| [Jazzanooga](https://open.spotify.com/track/3itQmY3qDISKklo9IYsVsq) | [Chattanooga Trio](https://open.spotify.com/artist/3ZXld6SkmayTEPuJygbwy6) | [Jazzanooga](https://open.spotify.com/album/61nhEXYkNaUn6wgJQzNJeO) | 2:47 | 2022-06-28 | 2024-03-26 |
 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 | 2023-04-27 |  |
 | [Juliana](https://open.spotify.com/track/54qfiHthTAtNrhaW7mT9tS) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Sweet Apple](https://open.spotify.com/album/5g2sMG9I7tK6T5SYraZLTW) | 3:40 | 2022-11-10 |  |
 | [Juniper Leaves](https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Purple Magnolia](https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f) | 3:25 | 2022-08-30 |  |
@@ -744,6 +745,7 @@
 | [The Foolish Heart](https://open.spotify.com/track/1tNLxWFOh4XBS2xnyVyaCQ) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [The Foolish Heart](https://open.spotify.com/album/7BuobZ0EqYrV7XKEMqFctt) | 3:03 | 2023-12-08 |  |
 | [The Great Ennui](https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [The Great Ennui](https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U) | 3:21 | 2024-02-09 |  |
 | [The Last Call](https://open.spotify.com/track/31ojaZG2e30V671L4Z5ntW) | [Nicholas Fischer](https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb) | [The Last Call](https://open.spotify.com/album/3ifBBmWsuoHqpXnfYJ4YwS) | 3:36 | 2023-08-10 |  |
+| [The Lights](https://open.spotify.com/track/2UmLEYGqKbIjahx7v1EFIa) | [Anthony Hide Trio](https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av) | [The Lights](https://open.spotify.com/album/51rjVgDAsjL0BFbhnbo7a4) | 3:35 | 2024-03-22 |  |
 | [The Masquerade Is Over](https://open.spotify.com/track/3Sg76cvYesfYDtHcMQ2fxn) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [The Masquerade Is Over](https://open.spotify.com/album/0A7QiAU3NJBMHzlZliGrKp) | 4:05 | 2022-06-28 |  |
 | [The Masquerade Is Over](https://open.spotify.com/track/6ifkMfpjxGakTjtOWngjYw) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:59 | 2022-06-28 | 2023-08-13 |
 | [The Meadows](https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [The Meadows](https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6) | 3:15 | 2023-03-02 |  |

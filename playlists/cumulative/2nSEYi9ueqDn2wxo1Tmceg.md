@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-823 songs - 2 day 8 hr 17 min
+824 songs - 2 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -808,6 +808,7 @@
 | [What Do You Do With Memory](https://open.spotify.com/track/7LsIe6I4xo7hQRFq6jhvXl) | [Bill Orcutt](https://open.spotify.com/artist/49ECnwhYzm6Nu97puMvwjG) | [Jump On It](https://open.spotify.com/album/6CkHIFdp0KCUpPIEVxqTQG) | 3:01 | 2023-05-03 | 2023-06-08 |
 | [What Time Is It There](https://open.spotify.com/track/5vrcVk2iIRNizQoSKWttFC) | [The Cat's Miaow](https://open.spotify.com/artist/3uqAgLJSws1rheJ0Lh7Lvt) | [Songs '94\-'98](https://open.spotify.com/album/55jpAUDNg3yUe0FwzkmJ1K) | 2:25 | 2022-07-27 | 2022-09-15 |
 | [What You Don't Want Me to Be](https://open.spotify.com/track/4k9AruafjtBsuwTUA4qQIu) | [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh), [ZekeUltra](https://open.spotify.com/artist/66rjQYZAzWZ9n933ytcoTg) | [What You Don't Want Me to Be](https://open.spotify.com/album/438y9FdSfoFFQIOHVLZs8X) | 4:18 | 2022-09-14 | 2022-10-13 |
+| [What's That You Say](https://open.spotify.com/track/5EnZk5P9NHp8Fz4aSaAu1N) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [What's That You Say](https://open.spotify.com/album/0jxUWFmE7joKf1FXJ4nwUr) | 3:43 | 2024-03-25 |  |
 | [Where Have All The Cowboys Gone?](https://open.spotify.com/track/108OIS5jep6kMSLJ6yf4cc) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Where Have All the Cowboys Gone?](https://open.spotify.com/album/4ZuBJsJFKXabAqCOpLYhBY) | 4:20 | 2023-01-04 | 2023-02-09 |
 | [Where the Water Clears the Illusion](https://open.spotify.com/track/2EBJTMHxHv5YqX6Q7SA1Hg) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Emotional Eternal](https://open.spotify.com/album/0GXQpIFaT0uAi4y59t4nKg) | 3:03 | 2022-06-08 | 2022-06-17 |
 | [Whirlpool Dub \- Adrian Sherwood 'Reset In Dub' Version](https://open.spotify.com/track/3VEOS5yu1PPzfsaIILa2t1) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI), [Adrian Sherwood](https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW) | [Whirlpool Dub \(Adrian Sherwood 'Reset In Dub' Version\)](https://open.spotify.com/album/6xUHnkYQhqTiR3w6AqkESL) | 5:01 | 2023-07-13 | 2023-09-14 |

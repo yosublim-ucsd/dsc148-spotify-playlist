@@ -1,12 +1,12 @@
 {
   "description": "Crank it up. Cover: Brantley Gilbert",
-  "num_followers": 146967,
+  "num_followers": 146964,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTgyMTkwODRmNDRlMTA5MWEzNjNhMzQ1NGMwNDQ5NDdjN2Q3OGU4",
+  "snapshot_id": "MCxjYTYzNTczYjdjMDMwODI3MjM3YTYxZmY1YjUzM2EyODUzYzg1NWRl",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -115,6 +115,26 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Just As I Am (Platinum Edition)",
+        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 221573,
+      "name": "Bottoms Up - Remix",
+      "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Denim",
         "url": "https://open.spotify.com/album/3gTeJEis7kNTvgExDq4GVT"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 225578,
       "name": "Way of Life",
       "url": "https://open.spotify.com/track/3ZSQnPonsWW70HwNkeADRg"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Just As I Am (Platinum Edition)",
-        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 221573,
-      "name": "Bottoms Up - Remix",
-      "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/4aLKh3cUkE7BfK9eUFcKzM"
-      },
-      "artists": [
-        {
-          "name": "Redferrin",
-          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
-        }
-      ],
-      "duration_ms": 189258,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/0zpxJZIcJUZZTAuhpkmas2"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "We The People, Vol. 1",
         "url": "https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 174634,
       "name": "Slow Ride",
       "url": "https://open.spotify.com/track/4C6wFHj4l4an2UCVGXR6c5"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/4aLKh3cUkE7BfK9eUFcKzM"
+      },
+      "artists": [
+        {
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
+        }
+      ],
+      "duration_ms": 189258,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/0zpxJZIcJUZZTAuhpkmas2"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -391,6 +391,30 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Must Be The Country",
+        "url": "https://open.spotify.com/album/5Tlc1AB7MVD2fDcI9P5im6"
+      },
+      "artists": [
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        },
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        }
+      ],
+      "duration_ms": 189837,
+      "name": "Hood",
+      "url": "https://open.spotify.com/track/01kkybO28KUiJN4meC9S7c"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Sweet Southern Sugar",
         "url": "https://open.spotify.com/album/4J4DGZzDABGKm0cQfXxWV3"
       },
@@ -427,42 +451,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Just As I Am (Platinum Edition)",
-        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
+        "name": "Down by the Riverside",
+        "url": "https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+          "name": "Willie Jones",
+          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
         }
       ],
-      "duration_ms": 234880,
-      "name": "Read Me My Rights",
-      "url": "https://open.spotify.com/track/0CrhIYKizM7cLxJVh2AocH"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Must Be The Country",
-        "url": "https://open.spotify.com/album/5Tlc1AB7MVD2fDcI9P5im6"
-      },
-      "artists": [
-        {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
-        },
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        },
-        {
-          "name": "Jermaine Dupri",
-          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
-        }
-      ],
-      "duration_ms": 189837,
-      "name": "Hood",
-      "url": "https://open.spotify.com/track/01kkybO28KUiJN4meC9S7c"
+      "duration_ms": 179741,
+      "name": "Down by the Riverside",
+      "url": "https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Down by the Riverside",
-        "url": "https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC"
-      },
-      "artists": [
-        {
-          "name": "Willie Jones",
-          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
-        }
-      ],
-      "duration_ms": 179741,
-      "name": "Down by the Riverside",
-      "url": "https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "The Bubba Mathis EP",
         "url": "https://open.spotify.com/album/4WKqMQF6Qb0CF24X1xWZ1G"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 211888,
       "name": "Put in Work",
       "url": "https://open.spotify.com/track/7jQIEyRMj8H6QqIOYT0dHV"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Just As I Am (Platinum Edition)",
+        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "Read Me My Rights",
+      "url": "https://open.spotify.com/track/0CrhIYKizM7cLxJVh2AocH"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -547,6 +547,22 @@
       "duration_ms": 158685,
       "name": "John Wayne",
       "url": "https://open.spotify.com/track/2fvmEuEwISvAN0Rg10yjpe"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Thanks for Listening",
+        "url": "https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY"
+      },
+      "artists": [
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        }
+      ],
+      "duration_ms": 200441,
+      "name": "Crank It Up",
+      "url": "https://open.spotify.com/track/3mqrfe5u8PY39YNwlYME25"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -599,22 +615,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Fire & Brimstone",
-        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Fire\u2019t Up",
-      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/3CZ9ox5C5n3dWT4OIX9aTg"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 123762,
       "name": "Confetti",
       "url": "https://open.spotify.com/track/1xnC3VLI8sHm3nh60q4Hzo"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Thanks for Listening",
-        "url": "https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY"
-      },
-      "artists": [
-        {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
-        }
-      ],
-      "duration_ms": 200441,
-      "name": "Crank It Up",
-      "url": "https://open.spotify.com/track/3mqrfe5u8PY39YNwlYME25"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -683,26 +667,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Kings of the Mud",
-        "url": "https://open.spotify.com/album/0ynwiSbuK9fn4JqLbdq0M8"
-      },
-      "artists": [
-        {
-          "name": "Bezz Believe",
-          "url": "https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq"
-        },
-        {
-          "name": "Bubba Sparxxx",
-          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "Kings of the Mud",
-      "url": "https://open.spotify.com/track/54jDc12TvfTZ2fteYPhaWM"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Hog Heaven",
         "url": "https://open.spotify.com/album/4d6JJcqCvlw4XBT5c3gbAf"
       },
@@ -723,22 +687,54 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Dirt Road (Remix) (feat. BRELAND)",
-        "url": "https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo"
+        "name": "Kings of the Mud",
+        "url": "https://open.spotify.com/album/0ynwiSbuK9fn4JqLbdq0M8"
       },
       "artists": [
         {
-          "name": "Kidd G",
-          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+          "name": "Bezz Believe",
+          "url": "https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq"
         },
         {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
         }
       ],
-      "duration_ms": 155866,
-      "name": "Dirt Road (Remix) (feat. BRELAND)",
-      "url": "https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL"
+      "duration_ms": 170526,
+      "name": "Kings of the Mud",
+      "url": "https://open.spotify.com/track/54jDc12TvfTZ2fteYPhaWM"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Fire & Brimstone",
+        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Fire\u2019t Up",
+      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Time to Get Right",
+        "url": "https://open.spotify.com/album/5DULWTKKsU4R7aXFOfo3OB"
+      },
+      "artists": [
+        {
+          "name": "Jessta James",
+          "url": "https://open.spotify.com/artist/35Gl3ugDwfqKvwOrlHcQqK"
+        }
+      ],
+      "duration_ms": 255426,
+      "name": "If That Ain't Country",
+      "url": "https://open.spotify.com/track/2bWaQyC68Bt7FSXCACY2aN"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -763,18 +759,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Time to Get Right",
-        "url": "https://open.spotify.com/album/5DULWTKKsU4R7aXFOfo3OB"
+        "name": "Dirt Road (Remix) (feat. BRELAND)",
+        "url": "https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo"
       },
       "artists": [
         {
-          "name": "Jessta James",
-          "url": "https://open.spotify.com/artist/35Gl3ugDwfqKvwOrlHcQqK"
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
         }
       ],
-      "duration_ms": 255426,
-      "name": "If That Ain't Country",
-      "url": "https://open.spotify.com/track/2bWaQyC68Bt7FSXCACY2aN"
+      "duration_ms": 155866,
+      "name": "Dirt Road (Remix) (feat. BRELAND)",
+      "url": "https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -823,22 +823,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "We The People, Vol. 1",
-        "url": "https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0"
+        "name": "American Rebelution",
+        "url": "https://open.spotify.com/album/0cganQdW9Mj2mJEmNG4949"
       },
       "artists": [
         {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
         },
         {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
         }
       ],
-      "duration_ms": 191669,
-      "name": "Back to Them Backroads",
-      "url": "https://open.spotify.com/track/1VGwVRbEfLsVsKxrRK05Xo"
+      "duration_ms": 232941,
+      "name": "Jack in My Coke",
+      "url": "https://open.spotify.com/track/1w1BSlPEuUFhsYLizhVE0I"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -859,22 +859,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "American Rebelution",
-        "url": "https://open.spotify.com/album/0cganQdW9Mj2mJEmNG4949"
+        "name": "We The People, Vol. 1",
+        "url": "https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0"
       },
       "artists": [
         {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
         },
         {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
         }
       ],
-      "duration_ms": 232941,
-      "name": "Jack in My Coke",
-      "url": "https://open.spotify.com/track/1w1BSlPEuUFhsYLizhVE0I"
+      "duration_ms": 191669,
+      "name": "Back to Them Backroads",
+      "url": "https://open.spotify.com/track/1VGwVRbEfLsVsKxrRK05Xo"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Outlaw In Me",
+        "url": "https://open.spotify.com/album/760sXqdIdCq7C9zHKELKYr"
+      },
+      "artists": [
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        }
+      ],
+      "duration_ms": 279880,
+      "name": "Out Here",
+      "url": "https://open.spotify.com/track/0MWRZAn0iqxue6g7bm72KV"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Hick Hop 101",
         "url": "https://open.spotify.com/album/1fdPeDF1pCecHyPX8JNKbE"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 192214,
       "name": "Rippin It up (feat. Bubba Sparxxx, Boondock Kingz, Porch Matthews & Jawga Boyz)",
       "url": "https://open.spotify.com/track/6BOqVMxqQxkxknO3COfzrG"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Outlaw In Me",
-        "url": "https://open.spotify.com/album/760sXqdIdCq7C9zHKELKYr"
-      },
-      "artists": [
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        }
-      ],
-      "duration_ms": 279880,
-      "name": "Out Here",
-      "url": "https://open.spotify.com/track/0MWRZAn0iqxue6g7bm72KV"
     },
     {
       "added_at": "2024-03-08 05:00:00",

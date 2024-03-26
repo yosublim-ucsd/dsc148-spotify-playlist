@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-924 songs - 2 day 18 hr 25 min
+925 songs - 2 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,7 @@
 | [I Hope You're Not Sleeping as Tightly as You Used to Be](https://open.spotify.com/track/5MIAzuX3MRkFJSf8Od4Dyy) | [Aeuria](https://open.spotify.com/artist/1U8stB5JKpJA7atRjrlVtF) | [Collection](https://open.spotify.com/album/4724X87VNQtZQSovmdwXJR) | 3:22 | 2019-06-21 | 2022-04-21 |
 | [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 | 2021-08-27 |  |
 | [I Need Space](https://open.spotify.com/track/2y6krW4iylDWiKVxTzUJcE) | [M!NT ](https://open.spotify.com/artist/1ghaj9f3HCe4tMU4SVjplQ) | [I Need Space](https://open.spotify.com/album/5P9bG3UUgZXY8NsufEtSJH) | 5:24 | 2019-06-19\* | 2022-04-21 |
-| [I Need Space](https://open.spotify.com/track/3mi4Vz5N9Co1aSuoOIaETz) | [M!NT ](https://open.spotify.com/artist/1ghaj9f3HCe4tMU4SVjplQ) | [I Need Space](https://open.spotify.com/album/7iUlntb6FvS1J72XpLLPBg) | 5:24 | 2023-10-13 |  |
+| [I Need Space](https://open.spotify.com/track/3mi4Vz5N9Co1aSuoOIaETz) | [M!NT ](https://open.spotify.com/artist/1ghaj9f3HCe4tMU4SVjplQ) | [I Need Space](https://open.spotify.com/album/7iUlntb6FvS1J72XpLLPBg) | 5:24 | 2023-10-13 | 2024-03-26 |
 | [I Promise](https://open.spotify.com/track/2FG1ayvioaTgtj8dhcZGCV) | [Fossa Beats](https://open.spotify.com/artist/2J7Bw3q4TQwPwSjNPmASKt), [Thomas White](https://open.spotify.com/artist/4g03rM1dkEDxd2nrURVNML), [LIA](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [I Promise](https://open.spotify.com/album/6RQ3my9LG8W8uO90TZlHhe) | 3:13 | 2019-06-19\* | 2020-10-22 |
 | [I Remember Maine](https://open.spotify.com/track/1YrV8fAkywtQ1fs4GwGewK) | [Swardy](https://open.spotify.com/artist/5iTOaSGMZgJ1U8k6NjmzTx) | [Here on My Own](https://open.spotify.com/album/6c93BbSAJETqKh5THU24qa) | 2:53 | 2019-06-19\* | 2024-03-16 |
 | [I Swear](https://open.spotify.com/track/4xPs6xdv9X9kK09O2cxyMX) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [I Swear](https://open.spotify.com/album/4rrhSoTg6l3TQTqUyLuiie) | 3:54 | 2020-08-26 | 2020-10-22 |
@@ -897,6 +897,7 @@
 | [Wave Propagation](https://open.spotify.com/track/34p5mFJ2yMJJBewufyvq4s) | [10th Letter](https://open.spotify.com/artist/157BopKUKZXtvl8CFdUok2) | [Prism Scale](https://open.spotify.com/album/4FHp17Yu5qXZ5yOnDCmYZt) | 2:47 | 2020-08-26 | 2021-03-06 |
 | [Wave Therapy](https://open.spotify.com/track/3r2tN1OOnJKNso1dse0XQw) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 0:32 | 2023-10-27 | 2023-12-13 |
 | [Waves](https://open.spotify.com/track/6jgTOfIBnT1TdQqUf85OVx) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Waves](https://open.spotify.com/album/5kRDYz9MhpOr3JYgnZBe66) | 3:49 | 2019-05-26\* | 2020-08-26 |
+| [way u make me feel](https://open.spotify.com/track/72jvdR7FrnOLwk1KdbmF2K) | [Maya Q](https://open.spotify.com/artist/7w4cjtjGRbBN9wGWeu0r4J) | [it's only forever](https://open.spotify.com/album/11n9UyyDgZro01qnrMLlC7) | 2:58 | 2024-03-25 |  |
 | [We All Need a Friend](https://open.spotify.com/track/6UKD0o25JviZYk8hXDYmaf) | [Julian Calor](https://open.spotify.com/artist/2y8eOaQNjiIuITkz6zGfgL) | [We All Need a Friend](https://open.spotify.com/album/7ApsWXhi53apgxxrI4b6uK) | 4:04 | 2019-06-22 | 2020-10-22 |
 | [We Are \(우리는\)](https://open.spotify.com/track/1UFD14oaGxtXOLnuD89OEv) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Continua](https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG) | 3:46 | 2023-02-20 | 2023-05-06 |
 | [We Are \(우리는\)](https://open.spotify.com/track/6pi5qNuLjF24MLc8Yk4tFu) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [We Are \(우리는\)](https://open.spotify.com/album/5fHWkEYEMeqoOCYaGB6WH5) | 3:46 | 2022-09-09 | 2023-01-11 |

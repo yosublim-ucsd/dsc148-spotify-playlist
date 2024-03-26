@@ -4,7 +4,7 @@
 
 > Your weekly rock update\. Cover: JJ Wilde
 
-971 songs - 2 day 5 hr 50 min
+972 songs - 2 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,8 @@
 | [Evil Lies](https://open.spotify.com/track/0Am5y6HAFWve4lLv1SeJrJ) | [Redlight King](https://open.spotify.com/artist/6hha7AM7ao3kNpN0VwOXgD) | [In Our Blood](https://open.spotify.com/album/7oZbYefTwTCK3LlU6K6sMM) | 3:22 | 2023-03-03 | 2023-04-29 |
 | [Evil People](https://open.spotify.com/track/12mgWzCmMk1WsQyEctDj2e) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Evil People](https://open.spotify.com/album/4U8HZ4Cw7fyZ2AbLAchzuP) | 3:24 | 2023-10-27 | 2023-12-16 |
 | [Evolution](https://open.spotify.com/track/3khZfJxwsaXAPM4riEPHZB) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution](https://open.spotify.com/album/4Duw84CjAvQ1DVfoEJR4tG) | 4:26 | 2024-01-12 | 2024-02-24 |
-| [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 | 2024-03-01 |  |
+| [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 | 2024-03-22 |  |
+| [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 | 2024-03-01 | 2024-03-26 |
 | [Explode!](https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Grief Chapter](https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU) | 2:31 | 2024-02-16 | 2024-03-23 |
 | [Eye of a Hurricane](https://open.spotify.com/track/6aF4wdL269Vd6Gi27MuXCY) | [Redlight King](https://open.spotify.com/artist/6hha7AM7ao3kNpN0VwOXgD) | [Eye of a Hurricane](https://open.spotify.com/album/2zxMTkLdWuErbJYq51rzEj) | 3:11 | 2023-02-10 | 2023-02-18 |
 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 | 2023-04-28 | 2023-07-15 |

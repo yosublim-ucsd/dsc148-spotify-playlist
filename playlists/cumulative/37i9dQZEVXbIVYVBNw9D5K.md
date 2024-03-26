@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-880 songs - 1 day 19 hr 59 min
+881 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,6 +616,7 @@
 | [Olur Mu](https://open.spotify.com/track/45dj2Fx0LiZgSuXGnyLDRG) | [Gazapizm](https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Olur Mu](https://open.spotify.com/album/5cRthf9NEB9hzVdlZ0mtvm) | 3:29 | 2022-10-22 | 2023-04-29 |
 | [Onca Şeyin Ardından](https://open.spotify.com/track/49h58JmgimzHHqH2BhI0Dk) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [Onca Şeyin Ardından](https://open.spotify.com/album/6ep8BWfknjFe5SpqsWR5RY) | 4:03 | 2021-03-30 | 2021-04-13 |
 | [Onlarla konusuyorum](https://open.spotify.com/track/6upGqMDMW3mn1qFV5rcvkF) | [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [Onlarla konusuyorum](https://open.spotify.com/album/04nTrqYcj0eYVpr6R2CTEC) | 3:31 | 2022-11-12 | 2022-11-15 |
+| [ONLY BUSINESS PHONK](https://open.spotify.com/track/2N04OfEvrvuBLPXEP7foct) | [umutlopes](https://open.spotify.com/artist/0PrzK1viPdHVBRgyVucdyW), [wonken](https://open.spotify.com/artist/0wrxoaVYNmzWz9rMP4Cjyt) | [ONLY BUSINESS PHONK REMIX](https://open.spotify.com/album/2xaCeSXbNt3wI7Z7ryHCmO) | 1:57 | 2024-03-25 |  |
 | [OnlyFans](https://open.spotify.com/track/3zyGddnNteFhuj1fKMg4sZ) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [OnlyFans](https://open.spotify.com/album/3h57TeSLK4QUzobHYeewag) | 2:25 | 2022-10-01 | 2022-12-02 |
 | [Onursuz Olabilir Aşk](https://open.spotify.com/track/0ip8kcOjGy7y3tNUAzC6nP) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Onursuz Olabilir Aşk](https://open.spotify.com/album/6pTan65gXuwuFfzsjo0gsP) | 3:01 | 2021-07-18 | 2021-08-01 |
 | [Or.spu evladiyim](https://open.spotify.com/track/0Hez3aD78FVCD8KFbUFQRc) | [cakal](https://open.spotify.com/artist/2kRZib1bJl6T8HzgrHXclm), [Kahpe Evladı Reckol](https://open.spotify.com/artist/6CK9CeiivSZu1Zfoj9Unyf) | [Or.spu evladiyim](https://open.spotify.com/album/6yKr4nxB5yKVRGNXL1bept) | 2:38 | 2021-05-31 | 2021-06-01 |
@@ -710,7 +711,7 @@
 | [Sen ve Yıldız](https://open.spotify.com/track/3tIoAdD3rSPCYdtR55TXyj) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Sen ve Yıldız](https://open.spotify.com/album/1nQRXlzrnkEN8qJAoj4pra) | 3:18 | 2023-11-04 | 2023-11-06 |
 | [Senden Güzeli Mi Var](https://open.spotify.com/track/4ehQRRPPelxT1hIYAy1pgy) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [VEDA TÜRKÜSÜ](https://open.spotify.com/album/7ei9t3MIlufpCNxN9rS8T2) | 3:23 | 2024-02-03 |  |
 | [Senden Yoksun](https://open.spotify.com/track/1wkZE2BMcfLOajVp5eifgN) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Senden Yoksun](https://open.spotify.com/album/7bGrmrz5TJ8UGuNBD9LfST) | 3:20 | 2022-11-26 | 2022-11-29 |
-| [Seni Dert Etmeler](https://open.spotify.com/track/10n66m41IGjA2ZulKPK7Ew) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Seni Dert Etmeler](https://open.spotify.com/album/6fpzQNhureiJ6bOS2g2gYj) | 3:08 | 2021-03-27\* |  |
+| [Seni Dert Etmeler](https://open.spotify.com/track/10n66m41IGjA2ZulKPK7Ew) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Seni Dert Etmeler](https://open.spotify.com/album/6fpzQNhureiJ6bOS2g2gYj) | 3:08 | 2021-03-27\* | 2024-03-26 |
 | [Seni Her Gördüğümde](https://open.spotify.com/track/5MAv1RGwsagnfxgzB1nYqz) | [Erkin Koray](https://open.spotify.com/artist/4o3Nv2BAyoZkyGaRXv4rT3) | [Mesafeler](https://open.spotify.com/album/3pJ9WVk6gzk3mgNjecQf35) | 3:19 | 2023-08-09 | 2023-08-11 |
 | [Seni Kalbimden Kovdum](https://open.spotify.com/track/34pNakIoVQSuTccHUj1m1q) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Yıllar Affetmez](https://open.spotify.com/album/3MEwxwYMEHjElfE7AEnpfd) | 5:19 | 2022-03-14 | 2022-03-18 |
 | [Seni Kendime Sakladım](https://open.spotify.com/track/4TjX6QIQVSD3j2VAxlR2wa) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Seni Kendime Sakladım](https://open.spotify.com/album/2gvskYWFqq1fW8scp1kdsj) | 4:02 | 2021-10-31 | 2021-11-03 |

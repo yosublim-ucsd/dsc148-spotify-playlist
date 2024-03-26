@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly rock update\. Cover: JJ Wilde
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,112 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,108 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 87 | [Attention](https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Attention](https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH) | 4:11 |
 | 88 | [Surf Scum](https://open.spotify.com/track/4vJlctTcJ1Q5ZyspWVJxnd) | [Passion Mango](https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn) | [Surf Scum](https://open.spotify.com/album/7EVKFyBGSmRzAI2XQK7B9b) | 2:43 |
 | 89 | [Oh Mah Gad!](https://open.spotify.com/track/36mym2nvmQk45l9B7mEWvX) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [Oh Mah Gad!](https://open.spotify.com/album/6HA4esc9cqG9WNF9BbPRTj) | 2:35 |
-| 90 | [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 |
+| 90 | [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 |
 | 91 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 |
 | 92 | [Friendly Fire](https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Friendly Fire](https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM) | 2:56 |
 | 93 | [Waiting On A Twist Of Fate](https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Waiting On A Twist Of Fate](https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Stray](https://open.spotify.com/track/2wb55krslcGE17P1BHeqH1) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Stray](https://open.spotify.com/album/3CCIKTCVsvEzgrU8L7sCj8) | 3:33 |
 | 100 | [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 |
 
-Snapshot ID: `MCxiMGY1YTY3MTA1ZjIxODRhZGIyMTlkOTc3ZWU1ZTk1ZWM0NmVkM2E0`
+Snapshot ID: `MCw0MWRhMTQ2NDIxYWZmMmVhMTM0ZWI5MTJkNzlhNzQ3OTlmYjllMTUy`

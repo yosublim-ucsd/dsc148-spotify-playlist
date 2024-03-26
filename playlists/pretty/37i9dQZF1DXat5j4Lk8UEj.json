@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 490960,
+  "num_followers": 490978,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTc2YmEwMDQwYzY1N2I4NDNiM2U5Yzc1MGIxOTVmMjlkMTI5ZjZl",
+  "snapshot_id": "MCw2MWQ2NDJkYTdiZmU5OWZkYzhlMDNlOTUzMGM4OTk2YzY5NDA3OTM1",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 241194,
-      "name": "Surefire",
-      "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Signs of Light",
         "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 225560,
       "name": "All We Ever Knew",
       "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 241194,
+      "name": "Surefire",
+      "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Wilder Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 221039,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4xmv6NGg9arNPmANOa4cjq"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "By the Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 279373,
       "name": "The Joke",
       "url": "https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 221039,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4xmv6NGg9arNPmANOa4cjq"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 217633,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/7E6IL7WFO9ozoWramet7PE"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "The Belt",
         "url": "https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 223160,
       "name": "Stolen Love",
       "url": "https://open.spotify.com/track/30EGaJNnfgjUuw8kj8fuem"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 217633,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/7E6IL7WFO9ozoWramet7PE"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Cautionary Tale",
-        "url": "https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ"
-      },
-      "artists": [
-        {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Cautionary Tale",
-      "url": "https://open.spotify.com/track/2zEByOH565rMCSacbB56Pd"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Terms of Surrender",
         "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 197596,
       "name": "I Need a Teacher",
       "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Cautionary Tale",
+        "url": "https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ"
+      },
+      "artists": [
+        {
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Cautionary Tale",
+      "url": "https://open.spotify.com/track/2zEByOH565rMCSacbB56Pd"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Happy Birthday, Ratboy",
+        "url": "https://open.spotify.com/album/2MJKg2QIVQtkOSUAme4hjO"
+      },
+      "artists": [
+        {
+          "name": "Ratboys",
+          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+        }
+      ],
+      "duration_ms": 169066,
+      "name": "Go Outside",
+      "url": "https://open.spotify.com/track/2OnKQdktx8Ri0Fhto8lYTk"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Stand For Myself",
         "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 291826,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Happy Birthday, Ratboy",
-        "url": "https://open.spotify.com/album/2MJKg2QIVQtkOSUAme4hjO"
-      },
-      "artists": [
-        {
-          "name": "Ratboys",
-          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "Go Outside",
-      "url": "https://open.spotify.com/track/2OnKQdktx8Ri0Fhto8lYTk"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Weathervanes",
-        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 374834,
-      "name": "This Ain't It",
-      "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 197640,
       "name": "Good Woman",
       "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 374834,
+      "name": "This Ain't It",
+      "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "reason to live",
+        "url": "https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 150577,
+      "name": "reason to live",
+      "url": "https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Animals With Religion",
         "url": "https://open.spotify.com/album/1tgxoOZbeY2AlmqFOmdImr"
       },
@@ -1143,6 +1159,22 @@
       "duration_ms": 235264,
       "name": "Running Home to You",
       "url": "https://open.spotify.com/track/6SC9DUmZnaNyrmARkM0wu5"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Suffering",
+        "url": "https://open.spotify.com/album/14eVN7m47S442flao2wtFa"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Suffering",
+      "url": "https://open.spotify.com/track/5rWxb6qPOhz2qpYDLL7D0H"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1195,22 +1227,6 @@
       "duration_ms": 201240,
       "name": "Black Myself",
       "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Suffering",
-        "url": "https://open.spotify.com/album/14eVN7m47S442flao2wtFa"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Suffering",
-      "url": "https://open.spotify.com/track/5rWxb6qPOhz2qpYDLL7D0H"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "reason to live",
-        "url": "https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 150577,
-      "name": "reason to live",
-      "url": "https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Inwards & Onwards",
         "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
       },
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Quietly Blowing It",
+        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 197305,
+      "name": "Hardlytown",
+      "url": "https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 221706,
       "name": "Seven Hours",
       "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Quietly Blowing It",
-        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 197305,
-      "name": "Hardlytown",
-      "url": "https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "Now is the Time",
+      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Grizfolk",
         "url": "https://open.spotify.com/album/0AfobQJbuAN9JgfcTvF20R"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 204441,
       "name": "The Ripple",
       "url": "https://open.spotify.com/track/6EfxByCmL6EYCtnLIKCOy6"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Absolute Zero",
-        "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
-      },
-      "artists": [
-        {
-          "name": "Little Green Cars",
-          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
-        }
-      ],
-      "duration_ms": 291920,
-      "name": "The John Wayne",
-      "url": "https://open.spotify.com/track/08RiqittsiyAXB9VmrSErU"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
       },
       "artists": [
         {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+          "name": "Little Green Cars",
+          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
         }
       ],
-      "duration_ms": 215493,
-      "name": "Now is the Time",
-      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
+      "duration_ms": 291920,
+      "name": "The John Wayne",
+      "url": "https://open.spotify.com/track/08RiqittsiyAXB9VmrSErU"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1515,22 +1515,6 @@
       "duration_ms": 211348,
       "name": "Rudolph",
       "url": "https://open.spotify.com/track/7kTUoMrKA0duKYHWliWW7k"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "My Entire Life",
-        "url": "https://open.spotify.com/album/0RlHHNuhYu4OAUMmo3gHzO"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 166080,
-      "name": "My Entire Life",
-      "url": "https://open.spotify.com/track/5k3DxjK0pyumrqWiRbSUL0"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "My Entire Life",
+        "url": "https://open.spotify.com/album/0RlHHNuhYu4OAUMmo3gHzO"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 166080,
+      "name": "My Entire Life",
+      "url": "https://open.spotify.com/track/5k3DxjK0pyumrqWiRbSUL0"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Born To Die",
         "url": "https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK"
       },
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Slow Lightning",
-        "url": "https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB"
+        "name": "Gamble for a Rose",
+        "url": "https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA"
       },
       "artists": [
         {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+          "name": "King Charles",
+          "url": "https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5"
         }
       ],
-      "duration_ms": 238186,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr"
+      "duration_ms": 270853,
+      "name": "Gamble for a Rose",
+      "url": "https://open.spotify.com/track/2zqSMjsmbqtm80YwQaPgmY"
     }
   ],
   "unique_name": "Folk Rock Favorites",

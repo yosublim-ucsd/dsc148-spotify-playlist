@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121371,
+  "num_followers": 121372,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWI4NzczNGRmMmM1MGE0MjIwMDY2NzBhZTIxMDgxNzhiNTczNWJj",
+  "snapshot_id": "MCxiOTRkNGEwYzc2OTUzNDBjNGE3ZDc1NzZmZGJkYjAyMmVjODAxN2Nj",
   "tracks": [
     {
       "added_at": "2024-03-21 23:00:00",
@@ -291,38 +291,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Stained Teeth",
-        "url": "https://open.spotify.com/album/1uMVz2UZV5zbRYuPMVcTAA"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 165610,
-      "name": "Stained Teeth",
-      "url": "https://open.spotify.com/track/0Bcvsr304OHC9ZpBJIuFY1"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Endurance / Heart",
-        "url": "https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 200126,
-      "name": "Endurance",
-      "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Reunion",
         "url": "https://open.spotify.com/album/2M9pkurc1jUmSXH95OGixK"
       },
@@ -339,18 +307,18 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Let Love Find Itself / You Blow My Mind",
-        "url": "https://open.spotify.com/album/5PFbIDeJUJm78Bs0Bch5TB"
+        "name": "Endurance / Heart",
+        "url": "https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW"
       },
       "artists": [
         {
-          "name": "KAYYAK",
-          "url": "https://open.spotify.com/artist/0CWKawzjg8jkvZX8HDogla"
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
         }
       ],
-      "duration_ms": 542983,
-      "name": "Let Love Find Itself",
-      "url": "https://open.spotify.com/track/6NLzOMEhcY7jBTHMxZf1Pn"
+      "duration_ms": 200126,
+      "name": "Endurance",
+      "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -395,6 +363,38 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "Stained Teeth",
+        "url": "https://open.spotify.com/album/1uMVz2UZV5zbRYuPMVcTAA"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 165610,
+      "name": "Stained Teeth",
+      "url": "https://open.spotify.com/track/0Bcvsr304OHC9ZpBJIuFY1"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Let Love Find Itself / You Blow My Mind",
+        "url": "https://open.spotify.com/album/5PFbIDeJUJm78Bs0Bch5TB"
+      },
+      "artists": [
+        {
+          "name": "KAYYAK",
+          "url": "https://open.spotify.com/artist/0CWKawzjg8jkvZX8HDogla"
+        }
+      ],
+      "duration_ms": 542983,
+      "name": "Let Love Find Itself",
+      "url": "https://open.spotify.com/track/6NLzOMEhcY7jBTHMxZf1Pn"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Fidelity Radio Club",
         "url": "https://open.spotify.com/album/7eu46qXLNv9FAagjqNhFZb"
       },
@@ -431,6 +431,22 @@
       "duration_ms": 223682,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Hundred Fifty Up",
+        "url": "https://open.spotify.com/album/6LvmyVnczzlxxdC7c9xEvO"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 264192,
+      "name": "Hundred Fifty Up",
+      "url": "https://open.spotify.com/track/3ru2qqEuNU3mCFcr1bgb7C"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -511,22 +527,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Hundred Fifty Up",
-        "url": "https://open.spotify.com/album/6LvmyVnczzlxxdC7c9xEvO"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 264192,
-      "name": "Hundred Fifty Up",
-      "url": "https://open.spotify.com/track/3ru2qqEuNU3mCFcr1bgb7C"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Our Language",
         "url": "https://open.spotify.com/album/5MsxvhXIJxpiXJI2MNF3VE"
       },
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "Little Airplanes",
+        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 330614,
+      "name": "Little Airplanes",
+      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Let Me",
         "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
       },
@@ -595,38 +611,6 @@
       "duration_ms": 415527,
       "name": "Socorro & J\u00fcpiter",
       "url": "https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 182564,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Little Airplanes",
-        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 330614,
-      "name": "Little Airplanes",
-      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -711,6 +695,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 182564,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Chill Executive Officer (CEO), Vol. 20 [Selected by Maykel Piron]",
         "url": "https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu"
       },
@@ -723,6 +723,50 @@
       "duration_ms": 158181,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Solar Nights - The Remixes",
+        "url": "https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Anduze",
+          "url": "https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn"
+        },
+        {
+          "name": "NTEIBINT",
+          "url": "https://open.spotify.com/artist/6fJxi0zWcEG0argPVsSrXw"
+        }
+      ],
+      "duration_ms": 261908,
+      "name": "Athena - NTEIBINT Remix",
+      "url": "https://open.spotify.com/track/0A4kpU4AJnf6l8TEni6RUh"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Electric Visions",
+        "url": "https://open.spotify.com/album/3VMT3Z40rMJ85HkvfsASZb"
+      },
+      "artists": [
+        {
+          "name": "End of Time",
+          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
+        },
+        {
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+        }
+      ],
+      "duration_ms": 369346,
+      "name": "Electric Visions",
+      "url": "https://open.spotify.com/track/6WQ3ZhGLfGWVLNBvu9t29v"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -775,50 +819,6 @@
       "duration_ms": 186340,
       "name": "Tide (feat. Andreya Triana)",
       "url": "https://open.spotify.com/track/4mjno1cpVrlldeElighIIw"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Solar Nights - The Remixes",
-        "url": "https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Anduze",
-          "url": "https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn"
-        },
-        {
-          "name": "NTEIBINT",
-          "url": "https://open.spotify.com/artist/6fJxi0zWcEG0argPVsSrXw"
-        }
-      ],
-      "duration_ms": 261908,
-      "name": "Athena - NTEIBINT Remix",
-      "url": "https://open.spotify.com/track/0A4kpU4AJnf6l8TEni6RUh"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Electric Visions",
-        "url": "https://open.spotify.com/album/3VMT3Z40rMJ85HkvfsASZb"
-      },
-      "artists": [
-        {
-          "name": "End of Time",
-          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
-        },
-        {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
-        }
-      ],
-      "duration_ms": 369346,
-      "name": "Electric Visions",
-      "url": "https://open.spotify.com/track/6WQ3ZhGLfGWVLNBvu9t29v"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -979,30 +979,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Too Many Questions (Remix)",
-        "url": "https://open.spotify.com/album/7k3U9b32T6jfEvb7FhdjpH"
-      },
-      "artists": [
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        },
-        {
-          "name": "Humanice",
-          "url": "https://open.spotify.com/artist/6FRbGY9J3Rz0lgIXD6xRAT"
-        },
-        {
-          "name": "Soble",
-          "url": "https://open.spotify.com/artist/7fCe4NFHPsjmaW9qf4wvMR"
-        }
-      ],
-      "duration_ms": 293529,
-      "name": "Too Many Questions - Soble Remix",
-      "url": "https://open.spotify.com/track/1su02HA4IZMCLuLa8VhFYV"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
       },
@@ -1039,22 +1015,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
-      },
-      "artists": [
-        {
-          "name": "Aydin Genchsoy",
-          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Golven",
         "url": "https://open.spotify.com/album/4hnKYfEXxxRnGlr8PrAkXN"
       },
@@ -1071,6 +1031,46 @@
       "duration_ms": 194421,
       "name": "Golven",
       "url": "https://open.spotify.com/track/50i5vfuzSeaWIcVH5PjPO1"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Too Many Questions (Remix)",
+        "url": "https://open.spotify.com/album/7k3U9b32T6jfEvb7FhdjpH"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        },
+        {
+          "name": "Humanice",
+          "url": "https://open.spotify.com/artist/6FRbGY9J3Rz0lgIXD6xRAT"
+        },
+        {
+          "name": "Soble",
+          "url": "https://open.spotify.com/artist/7fCe4NFHPsjmaW9qf4wvMR"
+        }
+      ],
+      "duration_ms": 293529,
+      "name": "Too Many Questions - Soble Remix",
+      "url": "https://open.spotify.com/track/1su02HA4IZMCLuLa8VhFYV"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
+      },
+      "artists": [
+        {
+          "name": "Aydin Genchsoy",
+          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Coffee (Edit)",
-        "url": "https://open.spotify.com/album/4pNeMokkPtuc5PMsr5oPzB"
-      },
-      "artists": [
-        {
-          "name": "Fouk",
-          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
-        }
-      ],
-      "duration_ms": 235039,
-      "name": "Coffee - Edit",
-      "url": "https://open.spotify.com/track/2LPeOMRJpuKLOLlUcHBDzB"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Eyes on You",
         "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 207500,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Coffee (Edit)",
+        "url": "https://open.spotify.com/album/4pNeMokkPtuc5PMsr5oPzB"
+      },
+      "artists": [
+        {
+          "name": "Fouk",
+          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
+        }
+      ],
+      "duration_ms": 235039,
+      "name": "Coffee - Edit",
+      "url": "https://open.spotify.com/track/2LPeOMRJpuKLOLlUcHBDzB"
     },
     {
       "added_at": "2024-03-21 23:00:00",

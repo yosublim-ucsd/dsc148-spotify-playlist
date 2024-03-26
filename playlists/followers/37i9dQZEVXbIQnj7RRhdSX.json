@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 1068954,
+  "2024-03-26": 1069041,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Italy.",
   "name": "Top 50 - Italy",
@@ -11123,7 +11123,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 133266,
       "name": "Fantasmi (feat. Geolier)",
       "url": "https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW"
@@ -13491,7 +13491,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 128796,
       "name": "GTA (feat. Ghali)",
       "url": "https://open.spotify.com/track/2rWPeV0Wvjx8VpAyOsfgir"
@@ -26344,6 +26344,28 @@
     },
     {
       "album": {
+        "name": "NEI LETTI DEGLI ALTRI",
+        "url": "https://open.spotify.com/album/7tEHuB4Y4KaSAMB1CjTUho"
+      },
+      "artists": [
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153609,
+      "name": "PERSONALE (feat. Geolier)",
+      "url": "https://open.spotify.com/track/27sveRwlAkrG0lKGMKA4of"
+    },
+    {
+      "album": {
         "name": "Pesche",
         "url": "https://open.spotify.com/album/2nq3xlzyNFqUcN8QjvT1Vp"
       },
@@ -34791,7 +34813,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 164192,
       "name": "VERO TONY VERO SOSA",
       "url": "https://open.spotify.com/track/2tADvI8RnFhYln3GVvqGds"

@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,060 songs - 2 day 9 hr 40 min
+1,061 songs - 2 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [F\*CKING SOCIETY](https://open.spotify.com/track/45857Pj90KZO6U0hzjfLfT) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [F\*CKING SOCIETY](https://open.spotify.com/album/2q0daVPSG8ly1LK8MSrFfv) | 4:39 | 2022-04-15 | 2022-07-20 |
 | [Fade into Black](https://open.spotify.com/track/2TnPyV1ZWW66yTng96HXRJ) | [Kindrid](https://open.spotify.com/artist/5ACAhZZPLo1ukYpA4jLO6u) | [Singularity](https://open.spotify.com/album/0t6kU6Etl5eZVKGBI5Nu74) | 5:07 | 2020-09-21\* | 2020-11-03 |
 | [Fade Out \(with MKLA\)](https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Fade Out \(with MKLA\)](https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE) | 3:50 | 2023-08-25 | 2023-12-30 |
-| [Fall Again](https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL) | [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Fall Again](https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0) | 3:26 | 2024-03-04 |  |
+| [Fall Again](https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL) | [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Fall Again](https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0) | 3:26 | 2024-03-04 | 2024-03-26 |
 | [Far From Home](https://open.spotify.com/track/4u5gUi7D1SJy8vcn4eWhWb) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [Far From Home](https://open.spotify.com/album/2KyQLmtmDxAgsrM6XKtuIg) | 2:46 | 2021-09-25 | 2021-10-05 |
 | [Feel It](https://open.spotify.com/track/241KvpSSfpZC6x6opdpPMc) | [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Magnificence](https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N) | [Feel It](https://open.spotify.com/album/6KquMn5PACyBWWC6i2HrZq) | 3:25 | 2020-09-21\* | 2021-01-23 |
 | [Feel Me](https://open.spotify.com/track/2lLq1Ah7lTA4P3SA2OPAsi) | [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH), [Kelsey](https://open.spotify.com/artist/1hr92eQ2ZzoZHa6aUeIye5) | [Feel Me](https://open.spotify.com/album/5u62eQtBVtjV4odYMZylGu) | 3:53 | 2020-11-27 | 2021-02-27 |
@@ -616,6 +616,7 @@
 | [Nostalgia Drive](https://open.spotify.com/track/4VW0j6n5ve0hkkaVJRStbJ) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Game Over](https://open.spotify.com/album/5MyJi199OGruB5b7MprSJb) | 7:52 | 2020-09-21\* | 2020-10-10 |
 | [Not Alone](https://open.spotify.com/track/5ctXnsZojAvfDq75D4N1bz) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [April Bender](https://open.spotify.com/artist/4nEs5Ln0E5g3UtNu8suntA) | [Not Alone](https://open.spotify.com/album/6CdexAmMUIwpGJD7q1wD2a) | 3:16 | 2022-02-11 | 2022-04-02 |
 | [Not Alone](https://open.spotify.com/track/2c0dsTO43eKPOjdNvcgkkj) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone](https://open.spotify.com/album/1AEJK6ci0Hguv28QMRYopC) | 2:40 | 2023-02-10 | 2023-03-29 |
+| [Not Even Love](https://open.spotify.com/track/65s9dLrylbHp60IYIcUZEz) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Not Even Love](https://open.spotify.com/album/3tjAvXx7DnY6tYkzcZ4wXc) | 4:05 | 2024-03-22 |  |
 | [Not In Love \(feat\. LOWES\)](https://open.spotify.com/track/28MLM0VRhhcqtWzxsNLvwu) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Not In Love \(feat\. LOWES\)](https://open.spotify.com/album/6bPw3hRULbo1TP1718uPGo) | 3:43 | 2021-05-15 | 2021-09-18 |
 | [Nothing Hurts \(Afrojack Remix\)](https://open.spotify.com/track/58680i3qsAwKYecyD2zwgq) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Nothing Hurts \(Afrojack Remix\)](https://open.spotify.com/album/4z7l1cSAwCcaDoaxXwNZ9x) | 3:06 | 2022-05-13 | 2022-07-29 |
 | [Nothing Matters \- Kapera Remix](https://open.spotify.com/track/182diZ20hXa9pRtRJv1vyJ) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Kapera](https://open.spotify.com/artist/6pbownHQeZG6xwDSUEjewe) | [Nothing Matters \(Remixes\)](https://open.spotify.com/album/4jUmWgA0Y6GjeAnojjAxYC) | 3:18 | 2021-12-03 | 2022-03-12 |

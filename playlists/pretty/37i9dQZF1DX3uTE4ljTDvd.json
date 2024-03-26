@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Milena Pina",
-  "num_followers": 120337,
+  "num_followers": 120360,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODg5MjllYzcxMTY0YTZhNDQzNzNkZThmNzQ0OTI4N2Q2Nzc0OGY1",
+  "snapshot_id": "MCw1NDJiMTg0ZGVhOTMxZGFkOGRiNWE4MmM0ZmQ3YTlkMGU0OThhMmJk",
   "tracks": [
     {
       "added_at": "2023-12-21 22:17:17",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
+        "name": "S\u00f3 Faz Ajudar",
+        "url": "https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        }
+      ],
+      "duration_ms": 267983,
+      "name": "S\u00f3 Faz Ajudar",
+      "url": "https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
         "name": "Ele Vem",
         "url": "https://open.spotify.com/album/1cEYntMwveI3wIHUXyJXMT"
       },
@@ -435,18 +451,18 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "S\u00f3 Faz Ajudar",
-        "url": "https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv"
+        "name": "Me Mostra Tua Face",
+        "url": "https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx"
       },
       "artists": [
         {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+          "name": "RL Worship",
+          "url": "https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU"
         }
       ],
-      "duration_ms": 267983,
-      "name": "S\u00f3 Faz Ajudar",
-      "url": "https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI"
+      "duration_ms": 384724,
+      "name": "Me Mostra Tua Face",
+      "url": "https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -471,18 +487,18 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Me Mostra Tua Face",
-        "url": "https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx"
+        "name": "\u00c1gape (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4aL4nd5yk53RN33wrEdSru"
       },
       "artists": [
         {
-          "name": "RL Worship",
-          "url": "https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU"
+          "name": "\u00c1quila",
+          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
         }
       ],
-      "duration_ms": 384724,
-      "name": "Me Mostra Tua Face",
-      "url": "https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2"
+      "duration_ms": 573739,
+      "name": "\u00c1gape - Ao Vivo",
+      "url": "https://open.spotify.com/track/3rIDyWXB8u4gJS584dfOSz"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -503,22 +519,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "\u00c1gape (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4aL4nd5yk53RN33wrEdSru"
-      },
-      "artists": [
-        {
-          "name": "\u00c1quila",
-          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
-        }
-      ],
-      "duration_ms": 573739,
-      "name": "\u00c1gape - Ao Vivo",
-      "url": "https://open.spotify.com/track/3rIDyWXB8u4gJS584dfOSz"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Sinal de Amor",
         "url": "https://open.spotify.com/album/4nwqWoQzvdRMQRnxWIuTFt"
       },
@@ -535,26 +535,6 @@
       "duration_ms": 215750,
       "name": "Sinal de Amor",
       "url": "https://open.spotify.com/track/7uyS7PnbHR4QLyKdn3j5tE"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
-        "name": "Sou o Teu Altar",
-        "url": "https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g"
-      },
-      "artists": [
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        },
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Sou o Teu Altar",
-      "url": "https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -647,6 +627,26 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
+        "name": "Sou o Teu Altar",
+        "url": "https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g"
+      },
+      "artists": [
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 275853,
+      "name": "Sou o Teu Altar",
+      "url": "https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
         "name": "Eterno",
         "url": "https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ"
       },
@@ -679,22 +679,18 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
+        "name": "Basta Uma Palavra",
+        "url": "https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N"
       },
       "artists": [
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        },
         {
           "name": "Mateus Pereira",
           "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
         }
       ],
-      "duration_ms": 216131,
-      "name": "Dependente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
+      "duration_ms": 262000,
+      "name": "Basta Uma Palavra",
+      "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -715,22 +711,6 @@
       "duration_ms": 245749,
       "name": "Fogo E Altar",
       "url": "https://open.spotify.com/track/4oddcpptwNmykJqa4A2xcv"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
-        "name": "Basta Uma Palavra",
-        "url": "https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Basta Uma Palavra",
-      "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -811,6 +791,26 @@
       "duration_ms": 245109,
       "name": "Acredito na Promessa",
       "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
+      },
+      "artists": [
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 216131,
+      "name": "Dependente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
-      },
-      "artists": [
-        {
-          "name": "Tamara Pyller",
-          "url": "https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO"
-        }
-      ],
-      "duration_ms": 251936,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Tu Me Fascinas (Ao Vivo)",
         "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Cora\u00e7\u00e3o Cansado de Partir",
-        "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
       },
       "artists": [
         {
-          "name": "Matheus Ferreira",
-          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
+          "name": "Tamara Pyller",
+          "url": "https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO"
         }
       ],
-      "duration_ms": 291500,
-      "name": "Cora\u00e7\u00e3o Cansado de Partir",
-      "url": "https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4"
+      "duration_ms": 251936,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -1043,6 +1027,22 @@
       "duration_ms": 273514,
       "name": "Minha can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Cansado de Partir",
+        "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
+      },
+      "artists": [
+        {
+          "name": "Matheus Ferreira",
+          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "Cora\u00e7\u00e3o Cansado de Partir",
+      "url": "https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4"
     },
     {
       "added_at": "2023-12-21 22:17:17",

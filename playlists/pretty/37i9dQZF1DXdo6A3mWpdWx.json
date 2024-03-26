@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: B*Witched",
-  "num_followers": 815381,
+  "num_followers": 816113,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWE5YjBhYzRmMDUwMzM0ZDI2NmY1YzkxMTgzYTE1YzIwYTFkYWUw",
+  "snapshot_id": "MCw4NTNlNWZlMzMyYzM5Nzk0NTVkZDRiMmQwNGE0YzNmODYxYWUwNGY4",
   "tracks": [
     {
       "added_at": "2024-03-15 19:06:32",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Happy Nation",
-        "url": "https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 255413,
-      "name": "Happy Nation",
-      "url": "https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 270373,
       "name": "What Is Love - 7\" Mix",
       "url": "https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Happy Nation",
+        "url": "https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 255413,
+      "name": "Happy Nation",
+      "url": "https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
         "name": "Black Sunday",
         "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 257359,
       "name": "U Can't Touch This",
       "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 215973,
       "name": "Scatman (ski-ba-bop-ba-dop-bop)",
       "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
+        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
+        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
-        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
+        "name": "Women in Technology",
+        "url": "https://open.spotify.com/album/6z6qZbY7mDuyzstPSCy5Xq"
       },
       "artists": [
         {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+          "name": "White Town",
+          "url": "https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM"
         }
       ],
-      "duration_ms": 240866,
-      "name": "Be My Lover",
-      "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
+      "duration_ms": 259893,
+      "name": "Your Woman",
+      "url": "https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -795,22 +811,6 @@
       "duration_ms": 244093,
       "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
       "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
-        "name": "Women in Technology",
-        "url": "https://open.spotify.com/album/6z6qZbY7mDuyzstPSCy5Xq"
-      },
-      "artists": [
-        {
-          "name": "White Town",
-          "url": "https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM"
-        }
-      ],
-      "duration_ms": 259893,
-      "name": "Your Woman",
-      "url": "https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 285426,
-      "name": "The Riddle",
-      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Move It!",
         "url": "https://open.spotify.com/album/4scvdAWWY9lXFoRL7Bfqff"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 230760,
       "name": "I Like To Move It (feat. The Mad Stuntman) ( Erick \"More\" Album Mix)",
       "url": "https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 285426,
+      "name": "The Riddle",
+      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "Waiting for Tonight",
-      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Pronounced Jah-Nay",
         "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 252400,
       "name": "Hey Mr. D.J.",
       "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "Waiting for Tonight",
+      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
+        "name": "12 Inches Of Snow",
+        "url": "https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW"
+      },
+      "artists": [
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "duration_ms": 268910,
+      "name": "Informer",
+      "url": "https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 285706,
       "name": "Heartbreaker (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
-        "name": "12 Inches Of Snow",
-        "url": "https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW"
-      },
-      "artists": [
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 268910,
-      "name": "Informer",
-      "url": "https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
-      },
-      "artists": [
-        {
-          "name": "CeCe Peniston",
-          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 203440,
       "name": "Doctor Jones",
       "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
+      },
+      "artists": [
+        {
+          "name": "CeCe Peniston",
+          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1787,6 +1787,26 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
         "name": "Homework",
         "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
       },
@@ -1835,22 +1855,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 317080,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "You Got the Love",
         "url": "https://open.spotify.com/album/2FkSbzjwgmF6KvU2tQCOgs"
       },
@@ -1875,6 +1879,22 @@
       "duration_ms": 193600,
       "name": "You Got The Love - New Voyager Radio Edit",
       "url": "https://open.spotify.com/track/1otmOO4ilwTSIUDBnR6wCF"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 317080,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -2003,26 +2023,6 @@
       "duration_ms": 252133,
       "name": "Macarena - Bayside Boys Remix",
       "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
-        "name": "Europop",
-        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Hot Summer Party Mix",
-        "url": "https://open.spotify.com/album/3QOQli73d2qHfw8Y5aS76R"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 223813,
-      "name": "Everybody (Backstreet's Back) - Radio Edit",
-      "url": "https://open.spotify.com/track/7Jg65cOkLoiT7Q4vQqUvIG"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Swing Batta Swing",
         "url": "https://open.spotify.com/album/0BFZy6FBVmJmSK5FjQj2RN"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 239733,
       "name": "Come Baby Come",
       "url": "https://open.spotify.com/track/2b8RCiPb2rtG5AQ1FwyUZX"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Hot Summer Party Mix",
+        "url": "https://open.spotify.com/album/3QOQli73d2qHfw8Y5aS76R"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 223813,
+      "name": "Everybody (Backstreet's Back) - Radio Edit",
+      "url": "https://open.spotify.com/track/7Jg65cOkLoiT7Q4vQqUvIG"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Headliners",
-        "url": "https://open.spotify.com/album/6ptnlw9K2gpKuocxaO8F2N"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Insomnia - Radio Edit",
-      "url": "https://open.spotify.com/track/07sxccsfOMu3ZiNG31pn4d"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Up (Special Edition)",
         "url": "https://open.spotify.com/album/0GeBgrCuLqz4NKMiv1aRez"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 170466,
       "name": "I'm Too Sexy",
       "url": "https://open.spotify.com/track/1MQrMQwfqjgOjXEUaN9AMd"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Headliners",
+        "url": "https://open.spotify.com/album/6ptnlw9K2gpKuocxaO8F2N"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Insomnia - Radio Edit",
+      "url": "https://open.spotify.com/track/07sxccsfOMu3ZiNG31pn4d"
     },
     {
       "added_at": "2024-03-15 19:06:32",

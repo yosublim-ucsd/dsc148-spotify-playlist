@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 77840,
+  "2024-03-26": 77856,
   "date_first_scraped": "2023-08-25",
   "description": "Lluvia sin m\u00e1s",
   "name": "Sonido de Lluvia",
@@ -305,7 +305,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 143161,
       "name": "Bonne nuit pluie",
       "url": "https://open.spotify.com/track/1Tlo1Zhx6afHnjrws8Tgcy"
@@ -870,6 +870,24 @@
     },
     {
       "album": {
+        "name": "Desert Rainsong",
+        "url": "https://open.spotify.com/album/21qoW5JcmcE4JNHGqVh6Rq"
+      },
+      "artists": [
+        {
+          "name": "Zen Sound Garden",
+          "url": "https://open.spotify.com/artist/2Mk95LJtfBy9tTwtM6qHRd"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Desert Rainsong",
+      "url": "https://open.spotify.com/track/3qOFrtd8FqEKGNP8UmzRbD"
+    },
+    {
+      "album": {
         "name": "Regnmannen",
         "url": "https://open.spotify.com/album/61sPEWCE2jjChul4Xs66Tn"
       },
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 148475,
       "name": "Far From The Thunder",
       "url": "https://open.spotify.com/track/6d7442mkq4NhckVGl7EzN9"
@@ -1353,6 +1371,24 @@
       "duration_ms": 170000,
       "name": "Forest Rain",
       "url": "https://open.spotify.com/track/6ADPydLM8fmi6fjO9ZXAb8"
+    },
+    {
+      "album": {
+        "name": "Forest Rain Bath",
+        "url": "https://open.spotify.com/album/4bV38Ax7XtDSfe9wvkjVog"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9sir\u00e9 Renaud",
+          "url": "https://open.spotify.com/artist/25vUptgRQxLAmNDHgXk2be"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Forest Rain Bath",
+      "url": "https://open.spotify.com/track/1CPZo0gX4O1U7CPp8GZ68v"
     },
     {
       "album": {
@@ -1497,6 +1533,24 @@
       "duration_ms": 208000,
       "name": "Get Away Rain",
       "url": "https://open.spotify.com/track/4MRSkeZDLve6VCSTOvKa45"
+    },
+    {
+      "album": {
+        "name": "The Nimbus Part One",
+        "url": "https://open.spotify.com/album/5QU8GSm262qFbE6e0eaiXv"
+      },
+      "artists": [
+        {
+          "name": "Neo Si",
+          "url": "https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Gimme Some Rain",
+      "url": "https://open.spotify.com/track/1KqJ4mOtP0m4E8uRgevKF3"
     },
     {
       "album": {
@@ -2033,7 +2087,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 260735,
       "name": "Light Rain on Wooden Sun Deck",
       "url": "https://open.spotify.com/track/4gAOFrxqx8hoI3SyaHpbcD"
@@ -3823,7 +3877,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 179500,
       "name": "Rain: Evening Sleep",
       "url": "https://open.spotify.com/track/7cC9z5s3lrAFsC15lBnPRR"
@@ -4586,6 +4640,24 @@
     },
     {
       "album": {
+        "name": "Serene Raindrops",
+        "url": "https://open.spotify.com/album/3kgDhW7G20RL1I0SgZH3WR"
+      },
+      "artists": [
+        {
+          "name": "Raindog",
+          "url": "https://open.spotify.com/artist/1grnh5vd3P1gDqLQbU8MdM"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177269,
+      "name": "Serene Raindrops",
+      "url": "https://open.spotify.com/track/1urioq0FGv3e3NuTMMHd51"
+    },
+    {
+      "album": {
         "name": "Rain On The Cobblestone",
         "url": "https://open.spotify.com/album/4zi0Wh076joFe9HESotzxP"
       },
@@ -4813,7 +4885,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 295262,
       "name": "Sons de Chuva",
       "url": "https://open.spotify.com/track/5xZl8rU5Uj0dGc57FzQ2Dv"
@@ -5473,6 +5545,24 @@
       "duration_ms": 130774,
       "name": "Wake Up Rain",
       "url": "https://open.spotify.com/track/726a7JkoT1DetZYi6dGnMF"
+    },
+    {
+      "album": {
+        "name": "Water You Doing",
+        "url": "https://open.spotify.com/album/7tA5eZsOm95Mw8ZnSmhcS7"
+      },
+      "artists": [
+        {
+          "name": "Cloudburst Forest",
+          "url": "https://open.spotify.com/artist/0h9lHXI4UngNxtjICMRXmq"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206147,
+      "name": "Water You Doing",
+      "url": "https://open.spotify.com/track/7EIhbhyxAYYkWNFj7a4f3v"
     },
     {
       "album": {

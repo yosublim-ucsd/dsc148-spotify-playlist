@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY"
+      },
+      "artists": [
+        {
+          "name": "Angela Rowles",
+          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166683,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ"
+    },
+    {
+      "album": {
         "name": "Eeny Meeny Miny Moe",
         "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
       },
@@ -863,6 +881,24 @@
     },
     {
       "album": {
+        "name": "I'll Never Be The Same",
+        "url": "https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg"
+      },
+      "artists": [
+        {
+          "name": "Algot Aelster",
+          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147436,
+      "name": "I'll Never Be The Same",
+      "url": "https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY"
+    },
+    {
+      "album": {
         "name": "I've Grown Accustomed to Her Face",
         "url": "https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ"
       },
@@ -1184,7 +1220,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 154000,
       "name": "Magnificent",
       "url": "https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd"
@@ -1454,7 +1490,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 183659,
       "name": "Patience",
       "url": "https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8"

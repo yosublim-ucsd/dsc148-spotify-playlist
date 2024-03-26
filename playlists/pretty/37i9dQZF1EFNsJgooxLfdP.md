@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4K6JUGERv1pUGgxWwuwj06">Victoria Monét</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,114 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,115 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 99 | [Déjà Vu](https://open.spotify.com/track/1cXStSHado9926qLHI2J61) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Made Of](https://open.spotify.com/album/42GK52roNA9gAe8aLvC5zt) | 2:57 |
 | 100 | [Juke Joint Love](https://open.spotify.com/track/2O7uT2VtjHhV0EvKYSxI5Y) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [International](https://open.spotify.com/album/1Zp6KLtrpzJwyB5zMzg5H1) | 3:03 |
 
-Snapshot ID: `Mjg1MjIyMTAsMDAwMDAwMDA1NTExNTkyMTdmZTk2YTIzNjc4YzQ5ZDlhYWI2M2QxNg==`
+Snapshot ID: `Mjg1MjM2NTAsMDAwMDAwMDAzZTg2M2M4YjU0ZmYwNmM2YTVlZDdiMzViZWM1Yjg3MQ==`

@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 81297,
+  "2024-03-26": 81305,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Guatemala.",
   "name": "Top 50 - Guatemala",
@@ -6775,7 +6775,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -14239,7 +14239,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 262333,
       "name": "Tu \u00daltima Canci\u00f3n",
       "url": "https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7"

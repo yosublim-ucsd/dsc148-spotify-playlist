@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: V
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,931 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,950 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 33 | [Sukideshita.](https://open.spotify.com/track/458E7acH1K8c5wx8AYAnVi) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [ReUnion](https://open.spotify.com/album/7kmoVx9z1qTqZSN4B4svCJ) | 4:10 |
 | 34 | [TAMAMO\-NO\-MAE](https://open.spotify.com/track/2WxpIk5iq2jd1fHucz554x) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [TAMAMO\-NO\-MAE](https://open.spotify.com/album/680bh06P5HMOyGHeRiVWZO) | 3:39 |
 | 35 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
-| 36 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
+| 36 | [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 |
 | 37 | [PEAK TIME](https://open.spotify.com/track/3peqzhgFm194H4IgoW16AK) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [PEAK TIME](https://open.spotify.com/album/4FwXwSS4uIWX2ewAoZko0F) | 3:46 |
 | 38 | [Everything I Am feat\. Furui Riho](https://open.spotify.com/track/1hltBMI48Phwhs7NUDRdq6) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [OVER](https://open.spotify.com/album/6Q9ruxZcM01qWkPMsaHZz0) | 3:31 |
 | 39 | [Wish You Hell](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Dog House](https://open.spotify.com/track/6IkdHPacNBeOdGkePazW1D) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Growing Pains](https://open.spotify.com/album/3VJPWZfdKv6BALZ0b9TxRr) | 3:32 |
 | 100 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
 
-Snapshot ID: `MCxjMWQxMDk1OTQ4NDU1ZDI5MGUzZWFiMTRhZmQxNzc3NTNhY2Q1M2Ex`
+Snapshot ID: `MCw2NmVhYzUwMTFmNDVkM2I3MzE1ODZlM2VmYWIzY2ZhNWVmYjRiYTk0`

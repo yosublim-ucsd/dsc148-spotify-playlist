@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216 likes - 120 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 218 likes - 120 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 72 | [Being Angry](https://open.spotify.com/track/18ViOFeyTJqmQ9wahAvPLv) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Special Edition\)](https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU) | 2:49 |
 | 73 | [Can't Speak \(feat\. Stealth\)](https://open.spotify.com/track/3aHLWrR5KpluBeRn9vKCHY) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Can't Speak \(feat\. Stealth\)](https://open.spotify.com/album/4bFKoubGC6thZpjFgqMeCA) | 4:13 |
 | 74 | [DILF](https://open.spotify.com/track/2Q8Ky0A9wVrjIiQIcUfYz4) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Why Can’t I Have Two? \(2468\) / DILF](https://open.spotify.com/album/5R06NvE2q2iQm8akxCC3F5) | 2:19 |
-| 75 | [Problems](https://open.spotify.com/track/5CUOsDruna0oPEw5Q2axyy) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 3:27 |
-| 76 | [White Noise](https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [White Noise](https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R) | 2:51 |
+| 75 | [White Noise](https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [White Noise](https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R) | 2:51 |
+| 76 | [Problems](https://open.spotify.com/track/5CUOsDruna0oPEw5Q2axyy) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 3:27 |
 | 77 | [Built To Be Bad](https://open.spotify.com/track/5N2hSC9gVqycS9CsCSquKb) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [Built To Be Bad](https://open.spotify.com/album/0WKz4PTSrBqUkmP4xyQyhz) | 3:09 |
 | 78 | [Daydream](https://open.spotify.com/track/5gTmdhzrBZD7Of2418Loxv) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Daydream](https://open.spotify.com/album/5P1po53bsy5NJxQdHB59le) | 3:38 |
 | 79 | [Air](https://open.spotify.com/track/24xjtgb8iTOIicQPckLhV7) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [37 Adventures Presents Odd Numbers Vol\. 1](https://open.spotify.com/album/26hQ13HaEXraD2GTYZ337y) | 4:02 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 119 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 120 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `Mjg1MjIyMTAsMDAwMDAwMDAxMjU3OGI1MjAxZTFjYjZkNzcyZjk4MTE5ZjRjZjU5Ng==`
+Snapshot ID: `Mjg1MjM2NTAsMDAwMDAwMDBmYzFmMjlkNGNjNDIwNDI1NTViMTE3NGNjZGFlYWM0Yg==`

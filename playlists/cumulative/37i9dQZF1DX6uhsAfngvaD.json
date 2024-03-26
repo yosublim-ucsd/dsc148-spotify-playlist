@@ -2021,6 +2021,24 @@
     },
     {
       "album": {
+        "name": "the mould",
+        "url": "https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco"
+      },
+      "artists": [
+        {
+          "name": "mui zyu",
+          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191186,
+      "name": "everything to die for",
+      "url": "https://open.spotify.com/track/5w7pIkf7juDYcl6ejrSvzQ"
+    },
+    {
+      "album": {
         "name": "Faces",
         "url": "https://open.spotify.com/album/4nDoP0Dtjv9HGiPpsjb2z6"
       },
@@ -4110,7 +4128,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 340000,
       "name": "Near",
       "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"

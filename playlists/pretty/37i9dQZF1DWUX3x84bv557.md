@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Amina
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,887 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,891 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,15 +27,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 17 | [Tweeling](https://open.spotify.com/track/0K6NoPuA8DDFTduY5301rV) | [Stenfert](https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8) | [Tweeling](https://open.spotify.com/album/2SoOLLKqw2N5JUXn0UGsaX) | 2:30 |
 | 18 | [Keuzestress](https://open.spotify.com/track/6MQOcrAfVujJ4EzHCrkbZk) | [Raffie](https://open.spotify.com/artist/1Or5JOvZf2PHMx8OmWHXfh) | [Keuzestress](https://open.spotify.com/album/2SbhLqAR0NcZr8mHZNfVfI) | 2:26 |
 | 19 | [Stiekem Hoop Ik](https://open.spotify.com/track/0b4Tsr050Wl9OSv7CFFpY3) | [Lola Cedès](https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0) | [Stiekem Hoop Ik](https://open.spotify.com/album/4VmYndInfCepDtEvkISvcn) | 2:53 |
-| 20 | [Anti\-Social](https://open.spotify.com/track/67R9SI604DJIWTF6UuEBJY) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Anti\-Social](https://open.spotify.com/album/3VTg32BOXuGHU3MHX6qfcX) | 2:29 |
-| 21 | [Handrem](https://open.spotify.com/track/4s72CMCZtnxbRIJPUzdC4C) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk) | [Handrem](https://open.spotify.com/album/4GuDTT55Ir0fHNa2ZRlmlb) | 2:21 |
-| 22 | [1 Minuut](https://open.spotify.com/track/1p1BuKbmgTCQ87dB7Jcqfi) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [1 Minuut](https://open.spotify.com/album/19pkLb6FIBcy1b9pjtiRXH) | 2:33 |
-| 23 | [Gereserveerd Voor 1](https://open.spotify.com/track/7hGlPXc69sbNlRlKM19m8z) | [Giorgio Sanches](https://open.spotify.com/artist/4czBYH5Cx0BFCXixmMsgyU) | [Gereserveerd Voor 1](https://open.spotify.com/album/7JLLnJGZR2DVdj9tibkU27) | 2:43 |
-| 24 | [Verpest](https://open.spotify.com/track/4OXQsETHvL01dQfx3mpCpo) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Verpest](https://open.spotify.com/album/2YBv3ZyINo3Qev4ArgZEZf) | 2:40 |
-| 25 | [Haat Me](https://open.spotify.com/track/50ELw2DvK4J2Z02m0Vphed) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Haat Me](https://open.spotify.com/album/6267wKbOwViwFSSz1PwuJv) | 3:35 |
-| 26 | [Dezelfde Maan](https://open.spotify.com/track/2whP8MoeFeJE7olMwdv1rL) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Dezelfde Maan](https://open.spotify.com/album/1900kIZlwAIYxmGSosvfnR) | 3:05 |
-| 27 | [Nightshift](https://open.spotify.com/track/5pTn0A7SfH8byvT6WzgEsz) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Nightshift](https://open.spotify.com/album/5cKOcVEswbnGAfSDQaopDi) | 2:28 |
-| 28 | [Ralphie](https://open.spotify.com/track/0f2GSOCvtLTWJZNmVSCE1v) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd), [Ghazi](https://open.spotify.com/artist/0WQ05juCyNhLOY4sjYrpTK), [Eyah](https://open.spotify.com/artist/2dQhYDhI8IWPGbwgyqMb2E) | [Ralphie](https://open.spotify.com/album/5FY4guwMoh3L8DDy8dxCmf) | 2:41 |
+| 20 | [Ralphie](https://open.spotify.com/track/0f2GSOCvtLTWJZNmVSCE1v) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd), [Ghazi](https://open.spotify.com/artist/0WQ05juCyNhLOY4sjYrpTK), [Eyah](https://open.spotify.com/artist/2dQhYDhI8IWPGbwgyqMb2E) | [Ralphie](https://open.spotify.com/album/5FY4guwMoh3L8DDy8dxCmf) | 2:41 |
+| 21 | [Anti\-Social](https://open.spotify.com/track/67R9SI604DJIWTF6UuEBJY) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Anti\-Social](https://open.spotify.com/album/3VTg32BOXuGHU3MHX6qfcX) | 2:29 |
+| 22 | [Handrem](https://open.spotify.com/track/4s72CMCZtnxbRIJPUzdC4C) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk) | [Handrem](https://open.spotify.com/album/4GuDTT55Ir0fHNa2ZRlmlb) | 2:21 |
+| 23 | [1 Minuut](https://open.spotify.com/track/1p1BuKbmgTCQ87dB7Jcqfi) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [1 Minuut](https://open.spotify.com/album/19pkLb6FIBcy1b9pjtiRXH) | 2:33 |
+| 24 | [Gereserveerd Voor 1](https://open.spotify.com/track/7hGlPXc69sbNlRlKM19m8z) | [Giorgio Sanches](https://open.spotify.com/artist/4czBYH5Cx0BFCXixmMsgyU) | [Gereserveerd Voor 1](https://open.spotify.com/album/7JLLnJGZR2DVdj9tibkU27) | 2:43 |
+| 25 | [Verpest](https://open.spotify.com/track/4OXQsETHvL01dQfx3mpCpo) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Verpest](https://open.spotify.com/album/2YBv3ZyINo3Qev4ArgZEZf) | 2:40 |
+| 26 | [Haat Me](https://open.spotify.com/track/50ELw2DvK4J2Z02m0Vphed) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Haat Me](https://open.spotify.com/album/6267wKbOwViwFSSz1PwuJv) | 3:35 |
+| 27 | [Dezelfde Maan](https://open.spotify.com/track/2whP8MoeFeJE7olMwdv1rL) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Dezelfde Maan](https://open.spotify.com/album/1900kIZlwAIYxmGSosvfnR) | 3:05 |
+| 28 | [Nightshift](https://open.spotify.com/track/5pTn0A7SfH8byvT6WzgEsz) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Nightshift](https://open.spotify.com/album/5cKOcVEswbnGAfSDQaopDi) | 2:28 |
 | 29 | [Zuinig](https://open.spotify.com/track/1443g2sOZtwR7NjDXlSsBv) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Zuinig](https://open.spotify.com/album/0ocZWxeSCHRdeh5ogUbrdA) | 2:52 |
 | 30 | [Astronaut](https://open.spotify.com/track/3b5o2I34qbat7ky0PMnhvt) | [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW) | [Astronaut](https://open.spotify.com/album/25MGuw8tGf580C2kI1g28C) | 3:03 |
 | 31 | [Warme Herinneringen](https://open.spotify.com/track/2zzI148jQvqo4zm2m3h2X7) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Warme Herinneringen](https://open.spotify.com/album/5hLlVXaIizLyalqdzTkOF5) | 2:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [Kalmeer Me](https://open.spotify.com/track/6kfxfUbKtyZbAdcW3zxz0E) | [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Kalmeer Me](https://open.spotify.com/album/60wpnUXyT43TFowNqrvw5f) | 3:04 |
 | 60 | [23](https://open.spotify.com/track/0z6xrWWeOlsxCwfvDbTuE0) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [23](https://open.spotify.com/album/16H5lY5PLYapy2BXLRQae2) | 2:50 |
 
-Snapshot ID: `MCwzMjlhNzM1ZDZlNDYzZWI4NmU4ZWQyOGFjMDk0N2U4MDgwNzk3YjU1`
+Snapshot ID: `MCwwMDBjMDUyNTM1NTIyNWVkOWI4NmFhYjFhN2Q4NWMzNjY3NDE1ZDRm`

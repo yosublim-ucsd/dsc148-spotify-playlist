@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,724 likes - 39 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,823 likes - 39 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 34 | [Comin' To Your City \- ESPN College Gameday](https://open.spotify.com/track/39DjHTMaFuDAMdXtq09fNN) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Comin' To Your City \(ESPN College Gameday\)](https://open.spotify.com/album/0youbMUrUsYtJdNe6v9UdW) | 1:43 |
 | 35 | [Beer Song \(feat\. Lainey Wilson, Chase Rice & Granger Smith\)](https://open.spotify.com/track/2knMiXaeKybZGQtWUd8TJB) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Beer Song \(feat\. Lainey Wilson, Chase Rice & Granger Smith\)](https://open.spotify.com/album/0ad8YULS4johbf2s4lw15n) | 3:31 |
 | 36 | [Two Sides of Bad](https://open.spotify.com/track/4LyY1jvrnKnIWl3uv94qd1) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 2:50 |
-| 37 | [Let Me Be Your Jesus](https://open.spotify.com/track/1S4gixTGy0wyXv4AB0xmva) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 3:55 |
-| 38 | [I Make Myself](https://open.spotify.com/track/4lY4XM0j4EwIwm4cFoQyNs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 4:34 |
+| 37 | [I Make Myself](https://open.spotify.com/track/4lY4XM0j4EwIwm4cFoQyNs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 4:34 |
+| 38 | [Let Me Be Your Jesus](https://open.spotify.com/track/1S4gixTGy0wyXv4AB0xmva) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 3:55 |
 | 39 | [Gravel](https://open.spotify.com/track/2W08wJxwvaM5k9bjV2cEEI) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 4:22 |
 
-Snapshot ID: `Mjg1MjEzNzAsMDAwMDAwMDA1NGMwMjFjMjNjZWJjODNmMGM1NzQzMTAyYmEwN2Q0Mg==`
+Snapshot ID: `Mjg1MjI4ODksMDAwMDAwMDAzMjk1NmNkMTIzMWMwYTFhYjA3MGE0NDk0MTkwMTBjMw==`

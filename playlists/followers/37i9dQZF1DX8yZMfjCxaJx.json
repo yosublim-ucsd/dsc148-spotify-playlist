@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 214043,
+  "2024-03-26": 214102,
   "date_first_scraped": "2024-01-30",
   "description": "Las favoritas de los patrones. Los Plebes del Rancho, Juanpa Salazar en portada.",
   "name": "Corridos Chakalosos",
@@ -381,6 +381,28 @@
       "duration_ms": 236342,
       "name": "Comandante 09",
       "url": "https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE"
+    },
+    {
+      "album": {
+        "name": "De Hecho",
+        "url": "https://open.spotify.com/album/014yJonHJQZg1Q4NC8qQiz"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        },
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216437,
+      "name": "De Hecho",
+      "url": "https://open.spotify.com/track/4y77SuMNWdhonXsrqz10FR"
     },
     {
       "album": {
@@ -2193,7 +2215,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 176613,
       "name": "Yo Soy El Bueno - En Vivo",
       "url": "https://open.spotify.com/track/7DNJkRM915Hm6B7i1Blhrp"

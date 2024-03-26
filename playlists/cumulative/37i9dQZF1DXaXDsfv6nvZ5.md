@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-460 songs - 1 day 3 hr 54 min
+461 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [614](https://open.spotify.com/track/0rvSQxrzazqTD4zyiiuCXp) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [614](https://open.spotify.com/album/2uf8Of0BwZtWUA9GMAjszQ) | 3:19 | 2024-03-08 |  |
 | [A Change Is Gonna Come](https://open.spotify.com/track/6cFjFN3jw2IoZqY3GO27s6) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [One Night In Miami..\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1i3pkaGXNV3kdn54InaVHF) | 3:01 | 2021-12-03 | 2022-07-24 |
 | [Addicted \(Acoustic\)](https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Addicted \(Acoustic\)](https://open.spotify.com/album/0qPYyDTTx74B8sfEGOYZyh) | 3:05 | 2021-12-03 | 2022-10-01 |
-| [Adonis \- feat\. KIRBY](https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Adonis](https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW) | 3:39 | 2022-11-18 |  |
+| [Adonis \- feat\. KIRBY](https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Adonis](https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW) | 3:39 | 2022-11-18 | 2024-03-26 |
 | [Aged Eyes](https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 4:06 | 2023-03-03 | 2023-10-07 |
 | [Aged Eyes](https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Aged Eyes](https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG) | 4:06 | 2023-03-03 | 2023-05-01 |
 | [All About You](https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [All About You](https://open.spotify.com/album/36Lr1Ipl7w3gn0NdZbRcge) | 3:00 | 2021-12-03 | 2023-08-05 |
@@ -376,6 +376,7 @@
 | [Special Occasion](https://open.spotify.com/track/129zuMM1WITbYkbljPlxaJ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3) | 4:31 | 2023-05-05 | 2023-08-27 |
 | [Special Occasion](https://open.spotify.com/track/45l1Z0SmOABXwgJnswlpoQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/3spsJSmv6raOberLtMg6mJ) | 4:31 | 2023-05-05 | 2023-05-08 |
 | [Spend The Night](https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Spend The Night](https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ) | 3:13 | 2023-09-08 |  |
+| [Star](https://open.spotify.com/track/2QKzMseogTEJuEqVkESSUS) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv), [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Star](https://open.spotify.com/album/38UFOxnEdJVaNsMqeOVePI) | 3:55 | 2024-03-22 |  |
 | [Stay](https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Blue](https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH) | 4:30 | 2022-10-21 |  |
 | [Stay Where You Are](https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ) | 3:29 | 2022-03-11 | 2023-04-02 |
 | [STEREO DRIVER](https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [STEREO DRIVER](https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH) | 3:51 | 2022-09-23 | 2023-05-06 |

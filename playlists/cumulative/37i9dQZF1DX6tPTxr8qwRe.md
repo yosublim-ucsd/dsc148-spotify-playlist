@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Ellise & Ashley Sienna
 
-622 songs - 1 day 4 hr 31 min
+623 songs - 1 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [21st Century Princess](https://open.spotify.com/track/7t5szdTagFPMLCfTFKPG9c) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [21st Century Princess](https://open.spotify.com/album/2CfLW8uWYtXch0ZCdlxHia) | 3:01 | 2023-05-12 | 2023-08-05 |
 | [29](https://open.spotify.com/track/35GQVy9TgNSRFQRTlr0e7m) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/2xMel5JwlO9RiqCANKjCaQ) | 2:43 | 2022-08-19 | 2022-10-08 |
 | [2nd prettiest girl \(in the world\)](https://open.spotify.com/track/353idKXfTcr8L4QosiGD8z) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [2nd prettiest girl \(in the world\)](https://open.spotify.com/album/42ET981Qri753Oh1TbE1Yl) | 2:48 | 2024-02-16 |  |
+| [2WORLDS](https://open.spotify.com/track/0MoTvVdhu4Ocm2Y7yphxPh) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [2WORLDS](https://open.spotify.com/album/0RKIC2QUL8WkDMWWQy3szr) | 2:29 | 2024-03-25 |  |
 | [3 Times](https://open.spotify.com/track/4Dk1ZnnKsxQqAbRHQgeqDx) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [3 Times](https://open.spotify.com/album/75UP0VTcDDi6CSi6VUGqZ8) | 2:27 | 2022-11-18 | 2023-02-11 |
 | [711](https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:29 | 2023-10-20 | 2024-03-23 |
 | [A Series of Unfortunate Events](https://open.spotify.com/track/4jkFpWbEpiS7LBmSidWwUX) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [A Series of Unfortunate Events](https://open.spotify.com/album/791lKGOskm8eOC85qu1XGQ) | 2:45 | 2023-09-08 | 2023-10-21 |
@@ -388,7 +389,7 @@
 | [narcissists](https://open.spotify.com/track/3R47rF1X1DNfk2sOD6WtbE) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [narcissists](https://open.spotify.com/album/3bxmadBCTKM5ehmDVfeMkv) | 1:51 | 2023-07-14 | 2023-08-19 |
 | [Never Dated You](https://open.spotify.com/track/2aXe6ng2bLrWDgS2ko7Rhv) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Never Dated You](https://open.spotify.com/album/1LrGdbVm4nYRbRX4mPZEcU) | 2:01 | 2022-09-16 | 2023-02-04 |
 | [Nightmare](https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Nightmare](https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E) | 2:26 | 2024-01-12 |  |
-| [NO HANDS \(SIDE A\)](https://open.spotify.com/track/322B6Not1OsMLCCxHg6sZl) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES](https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y) | 2:17 | 2023-10-20 |  |
+| [NO HANDS \(SIDE A\)](https://open.spotify.com/track/322B6Not1OsMLCCxHg6sZl) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES](https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y) | 2:17 | 2023-10-20 | 2024-03-26 |
 | [Nosebleed](https://open.spotify.com/track/1ElDn0WlZ4ELXHksk0Z8mu) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Nosebleed](https://open.spotify.com/album/47SX20nouYkuWaMtczHvE7) | 2:13 | 2023-03-31 | 2023-12-09 |
 | [Not Another Rockstar](https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Not Another Rockstar](https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn) | 2:29 | 2022-10-07 | 2023-06-24 |
 | [not my problem](https://open.spotify.com/track/6REifHhHFQcRHdhzOgYwHU) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [not my problem](https://open.spotify.com/album/1RXp2Zm2Mfr16wZgCM52S2) | 2:09 | 2023-01-27 | 2023-07-15 |

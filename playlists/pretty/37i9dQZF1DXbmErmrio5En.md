@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > saturation, distortion, feedBack\. ft\. bixby
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,128 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,156 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 54 | [all out of love](https://open.spotify.com/track/5L9IoRiEwBa9F3cZj4yQQM) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [all out of love](https://open.spotify.com/album/4xldIoQMfWknQAEq3P2ORa) | 2:14 |
 | 55 | [SORRY NOT SORRY](https://open.spotify.com/track/3OXFHBipEmd8hBvGpMjnDW) | [Vorsa](https://open.spotify.com/artist/1gh8GYfxnY6D9nXPQ1Pb6g) | [SORRY NOT SORRY](https://open.spotify.com/album/0bAIDkhhe4kJBYE2A65tiz) | 2:31 |
 | 56 | [down in flames](https://open.spotify.com/track/2Z9wlzmGctkesM88z4m72L) | [saoirse dream](https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf) | [down in flames](https://open.spotify.com/album/0oi0hXy5EOuXw3rfZqoEsI) | 3:56 |
-| 57 | [the life and death of a dog](https://open.spotify.com/track/2NLCeLeI1E4psDqwE7CZEX) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [harry houdini](https://open.spotify.com/album/42L1S5YuqINChXquOm1gKn) | 3:34 |
+| 57 | [the life and death of a dog](https://open.spotify.com/track/6JCc4cH7LZ0XVoOs6uKQEs) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [the life and death of a dog](https://open.spotify.com/album/3zzzsk0VzmLORaVtENlOHY) | 3:34 |
 | 58 | [checkpoint](https://open.spotify.com/track/1MRJdd1VnGWDeX1wtsN9f8) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i used to just cry about it](https://open.spotify.com/album/3TZ7OjH6U6LNDpRr8dM9MC) | 2:12 |
 | 59 | [brown eyes](https://open.spotify.com/track/2pLieFj49thsxTBBquLEz9) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [brown eyes](https://open.spotify.com/album/2ZsjTlwVcwkYgcT0R7GA1X) | 2:06 |
 | 60 | [spit](https://open.spotify.com/track/1ft9HRORvo0uMAoBwqkxgY) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [spit](https://open.spotify.com/album/7hjfEMayKwXCohSb8rVV1C) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 99 | [I Saw U](https://open.spotify.com/track/0QpliqisIqld65GlZA1bJ8) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [I Saw U](https://open.spotify.com/album/6ANbH8704yrpV1gk139qCo) | 2:17 |
 | 100 | [toler](https://open.spotify.com/track/5HkiRFyaFJ2ImSynsmmceS) | [kaido](https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX) | [toler](https://open.spotify.com/album/2IaMfTjA1p8rg5H1GdmDbI) | 1:45 |
 
-Snapshot ID: `MCw1MmQ5MjgwM2I5N2QzMTUxNzlmNGE0ODIwZGMwNzkzYWE3ODkxZDcw`
+Snapshot ID: `MCwwOWY1NTU2NWI5ZDMxZWJmMDA4ZWNjZjQ1YTg4NmM4ZWY2MmUyN2Nk`

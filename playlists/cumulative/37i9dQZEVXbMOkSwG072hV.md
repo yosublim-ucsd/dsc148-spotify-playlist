@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-2,158 songs - 4 day 16 hr 1 min
+2,160 songs - 4 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-02 | 2023-09-09 |
 | [Aulas e Cursos](https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [Aulas e Cursos](https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr) | 3:33 | 2022-04-26 | 2022-05-25 |
 | [Aurora](https://open.spotify.com/track/20AShtCDWSiJw1jyGLxCYM) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 3:25 | 2023-03-28 | 2023-04-05 |
+| [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-25 |  |
 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-17 | 2024-03-25 |
 | [Australiana](https://open.spotify.com/track/1vSi0uIXyYgI35vWkpHZDx) | [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Australiana](https://open.spotify.com/album/55XNEGmV7eGWpsjaHxLHBs) | 2:10 | 2023-05-02 | 2023-05-08 |
 | [Autoestima](https://open.spotify.com/track/6RA5wqeXofVKhJQjRW2qUL) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 2:53 | 2022-02-22 | 2022-03-01 |
@@ -1162,7 +1163,8 @@
 | [MEGA DO MAL CAMINHO](https://open.spotify.com/track/3t4UKYyMOLhsCxmDSRg4go) | [DJ Lp](https://open.spotify.com/artist/4XOIm4tOnLBiWcGXxsZEiT) | [MEGA DO MAL CAMINHO](https://open.spotify.com/album/2MLw5mqo72VWt5KgxhqO2y) | 2:05 | 2022-05-20 | 2022-06-03 |
 | [MEGA DO TIMBALAND](https://open.spotify.com/track/6nm8bUIg4B4M2ssISWOJAG) | [Selton DJ](https://open.spotify.com/artist/0H9tTaXDtqyfFd30C0AyXc) | [MEGA DO TIMBALAND](https://open.spotify.com/album/6Po1oYa7aaTKl1iVpuyB10) | 2:36 | 2022-05-08 | 2022-09-29 |
 | [MEGA DO TIMBALAND](https://open.spotify.com/track/2PTuhsCZhCpvxLfPz58oke) | [Selton DJ](https://open.spotify.com/artist/0H9tTaXDtqyfFd30C0AyXc) | [MEGA DO TIMBALAND](https://open.spotify.com/album/2KIvTugmHL9NLaUvoGGDCC) | 2:36 | 2022-09-28 | 2022-10-22 |
-| [Mega do Trepa](https://open.spotify.com/track/0JpE0YwsH2THeuOiGx50eR) | [DJ YAN DO FLAMENGO](https://open.spotify.com/artist/4e3VXp9wT6m3w46kdcYTmF), [DJ AZIN](https://open.spotify.com/artist/1rw1jDrOlds1ktwgsYTgJN), [Mc CAITAN](https://open.spotify.com/artist/6WCE7KaGxvEI0wHhJDsxUx) | [Buu!](https://open.spotify.com/album/550184heXR0F6UVVpQq01S) | 2:09 | 2024-03-14 |  |
+| [Mega do Trepa](https://open.spotify.com/track/0JpE0YwsH2THeuOiGx50eR) | [DJ YAN DO FLAMENGO](https://open.spotify.com/artist/4e3VXp9wT6m3w46kdcYTmF), [DJ AZIN](https://open.spotify.com/artist/1rw1jDrOlds1ktwgsYTgJN), [Mc CAITAN](https://open.spotify.com/artist/6WCE7KaGxvEI0wHhJDsxUx) | [Buu!](https://open.spotify.com/album/550184heXR0F6UVVpQq01S) | 2:09 | 2024-03-14 | 2024-03-26 |
+| [Mega do Trepa](https://open.spotify.com/track/7IfwSrcU9z2oKaSlV9o2vQ) | [DJ YAN DO FLAMENGO](https://open.spotify.com/artist/4e3VXp9wT6m3w46kdcYTmF), [DJ AZIN](https://open.spotify.com/artist/1rw1jDrOlds1ktwgsYTgJN), [Mc CAITAN](https://open.spotify.com/artist/6WCE7KaGxvEI0wHhJDsxUx) | [Buu!](https://open.spotify.com/album/5ijZwazIMUYGkQcT4gXe4Q) | 2:09 | 2024-03-25 |  |
 | [Mega Ela Me Mamou Com Bala Halls](https://open.spotify.com/track/6HJxvOdJgIWqVbMq1hhOmU) | [DJ Pablo RB](https://open.spotify.com/artist/4N4HofKkmZkBZKITLfNsPW), [Mc Koruja](https://open.spotify.com/artist/44AXaX2aJKSQhMxVTtNb0s), [MC Vini do KX](https://open.spotify.com/artist/2sR8p6GRa6HsGdoUD3dQ9i), [Vitu Único](https://open.spotify.com/artist/0OvvlHjgAiZk3GRGkkK0u6) | [Mega Ela Me Mamou Com Bala Halls](https://open.spotify.com/album/0wVkMLvHexWGHyu8ToYByJ) | 2:06 | 2022-08-16 | 2022-09-02 |
 | [MEGA FUNK \(MARIA MARIAH\) \- DJ Ryder Remix](https://open.spotify.com/track/37Sefc4QQlymwpkn3EuAmI) | [DIQUIO](https://open.spotify.com/artist/4bM9L0VHyz6WgMgOcMyxYz), [DJ Ryder](https://open.spotify.com/artist/5YumCDj6lKjjgfUUz4Bm5K) | [MEGA FUNK \(MARIA MARIAH\) \[DJ Ryder Remix\]](https://open.spotify.com/album/4tJTClj5yXFgYEC9ZoyEEc) | 2:24 | 2024-01-23 | 2024-01-28 |
 | [MEGA FUNK LOST](https://open.spotify.com/track/4kF6c7oMaNnkTlVTPvpipy) | [DJ Maninho](https://open.spotify.com/artist/4XZR4NawJ2XBNzaINpqrI5), [DJ Dudu](https://open.spotify.com/artist/2kge0I5DHgUgkmFXRey3iw) | [MEGA FUNK LOST](https://open.spotify.com/album/5QuEEXjrT3chFSBnsRlsCS) | 2:41 | 2023-10-20 | 2023-11-10 |

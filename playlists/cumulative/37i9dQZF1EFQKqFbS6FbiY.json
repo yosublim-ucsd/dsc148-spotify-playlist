@@ -5137,7 +5137,7 @@
       "artists": [
         {
           "name": "Guilherme Torres",
-          "url": "https://open.spotify.com/artist/75qi8XDXYOFp4JtXEd7L99"
+          "url": "https://open.spotify.com/artist/4D53Ic5ZfpC74aFGK62SHy"
         }
       ],
       "date_added": "2024-02-09",
@@ -7538,6 +7538,24 @@
     {
       "album": {
         "name": "De Bar em Bar",
+        "url": "https://open.spotify.com/album/0MQKywXbkxQAjSHlVSvN03"
+      },
+      "artists": [
+        {
+          "name": "Zezo",
+          "url": "https://open.spotify.com/artist/5R18GNmvBWGTfBAG0Xy8WT"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172715,
+      "name": "Sofrendo em Miami",
+      "url": "https://open.spotify.com/track/45FnqISoTh9QrvbIBsZoIu"
+    },
+    {
+      "album": {
+        "name": "De Bar em Bar",
         "url": "https://open.spotify.com/album/7HfyH5xOczzNsv0oInGzyE"
       },
       "artists": [
@@ -7548,7 +7566,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 172715,
       "name": "Sofrendo em Miami",
       "url": "https://open.spotify.com/track/7iijOlRf0Sl5a4hNXYE0un"

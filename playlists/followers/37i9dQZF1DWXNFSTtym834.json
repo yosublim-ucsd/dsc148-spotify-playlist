@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 1265777,
+  "2024-03-26": 1265948,
   "date_first_scraped": "2022-01-05",
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
   "name": "00s Metal Classics",
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 225933,
       "name": "Distortion Sleep",
       "url": "https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26"
@@ -2481,6 +2481,24 @@
       "duration_ms": 205720,
       "name": "mOBSCENE",
       "url": "https://open.spotify.com/track/1YVuJrfHHmD4ilULhAVqPW"
+    },
+    {
+      "album": {
+        "name": "The Golden Age Of Grotesque",
+        "url": "https://open.spotify.com/album/38FWu0ePBmlNQdpg6WiLld"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205720,
+      "name": "mOBSCENE",
+      "url": "https://open.spotify.com/track/4Ppy0KysTPcXyzyP5JiJDx"
     },
     {
       "album": {

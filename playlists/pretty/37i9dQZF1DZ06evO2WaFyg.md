@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 
 > This is Young Thug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,066 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,110 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 | 47 | [RUN \(feat\. Young Thug\)](https://open.spotify.com/track/4EPfeopXB7rDQGR4ae0Xmt) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 4:45 |
 | 48 | [Chanel \(Go Get It\) \[feat\. Gunna & Lil Baby\]](https://open.spotify.com/track/0kCBorRrKZkSztd9m0QI3r) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Slime Language](https://open.spotify.com/album/4OHfmMUq6xwCo8zfQuc9Rf) | 3:21 |
 | 49 | [Want Me Dead \(feat\. 21 Savage\)](https://open.spotify.com/track/3GXjlz7evuodm50dfiDDWo) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:14 |
-| 50 | [1000 Miles](https://open.spotify.com/track/0mML7BvfV5Gnfd65OdVtJB) | [Alek Sandar](https://open.spotify.com/artist/7iKaa1hqYHYwiD5Zqasb7p), [Marco Nobel](https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [1000 Miles](https://open.spotify.com/album/6lXpFK3dOV7kS8F4YUBmBt) | 2:48 |
-| 51 | [Climax \(feat\. 6lack\)](https://open.spotify.com/track/4N9QsmvQJcGwJHAmDmBttU) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [On the Run](https://open.spotify.com/album/6VCDStheOuhrQaoYbHP2iO) | 3:09 |
+| 50 | [Climax \(feat\. 6lack\)](https://open.spotify.com/track/4N9QsmvQJcGwJHAmDmBttU) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [On the Run](https://open.spotify.com/album/6VCDStheOuhrQaoYbHP2iO) | 3:09 |
+| 51 | [1000 Miles](https://open.spotify.com/track/0mML7BvfV5Gnfd65OdVtJB) | [Alek Sandar](https://open.spotify.com/artist/7iKaa1hqYHYwiD5Zqasb7p), [Marco Nobel](https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [1000 Miles](https://open.spotify.com/album/6lXpFK3dOV7kS8F4YUBmBt) | 2:48 |
 
-Snapshot ID: `Mjg1MjEzNzEsMDAwMDAwMDBkZGUxNGE3OTA2NTkyNDM1NTI2OTgxYjkzNGRmNGY3Yw==`
+Snapshot ID: `Mjg1MjI4ODksMDAwMDAwMDA4ODc5YTFkMjRmMzI5MTAwNzZjYjJlMjIxZTA1OWQ4ZQ==`

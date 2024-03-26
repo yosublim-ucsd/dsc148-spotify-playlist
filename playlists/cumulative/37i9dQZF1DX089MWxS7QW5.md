@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Tabber\(태버\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: dori\)
 
-312 songs - 17 hr 21 min
+316 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [dysmorphia \(Prod\. Jay Dope\)](https://open.spotify.com/track/7uCK6TUGn9MQRAo6CbLjWk) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:53 | 2022-11-09 | 2023-03-28 |
 | [Everytime](https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Everytime](https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0) | 2:42 | 2022-07-07 | 2022-11-15 |
 | [excuses](https://open.spotify.com/track/24ZZsTtsIqEYxhVXL8k75e) | [G\. Nine](https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa) | [excuses](https://open.spotify.com/album/7vrkB5apr0lk3SAihR9xxA) | 2:51 | 2022-05-28 | 2022-06-10 |
+| [Fake Happy](https://open.spotify.com/track/7z45AkgscpK9Vh5WyfF3iP) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Fake Happy](https://open.spotify.com/album/3Yrgk8MqQG9YCUls0iSLHv) | 2:50 | 2024-03-25 |  |
 | [Falling](https://open.spotify.com/track/7uWkMOwv9Vxu4dA8LXbVK3) | [Chaeree](https://open.spotify.com/artist/1I4Yi8vC8L81PN5DteKnoZ) | [Falling](https://open.spotify.com/album/0W2tomlU7AZNbr2wVe1gpY) | 2:59 | 2023-03-27 | 2023-09-19 |
 | [Fancy \- Spotify Singles](https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Fancy \- Spotify Singles](https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq) | 3:13 | 2024-03-15 |  |
 | [Fantasy](https://open.spotify.com/track/1FUPXTw0698wKHMBElun5B) | [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc) | [Fantasy](https://open.spotify.com/album/6QlBmmJZzTUhfTFmRQ8bUS) | 2:48 | 2023-02-14 | 2023-08-18 |
@@ -122,6 +123,7 @@
 | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/track/4FPWDZRRREW99mWChTCyYr) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/album/3eexqM5OLi0HlN3JDyqZhx) | 2:39 | 2022-05-28 | 2022-08-13 |
 | [glass](https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [glass](https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe) | 3:28 | 2022-05-28 | 2022-08-13 |
 | [Goldfish \(Feat\. Blueny of OuiOui\)](https://open.spotify.com/track/0A44VMmhs42WXCNYJGeDLM) | [yiyona](https://open.spotify.com/artist/5UxbxMzCNo2m4oyAN4GYCv), [Blueny](https://open.spotify.com/artist/3yHT48fEq1Uhl1kgcnIyD0) | [Goldfish \(Feat\. Blueny of OuiOui\)](https://open.spotify.com/album/7JSpdJ3tkyGR7rb34jUaTY) | 3:16 | 2022-12-15 | 2023-07-08 |
+| [Good Night \(feat\. Claire Young\)](https://open.spotify.com/track/3cYii2G5OJVFwDN598fYs2) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Claire Young](https://open.spotify.com/artist/2EAeGGLucN4aHbThuV2MgA) | [Good Night](https://open.spotify.com/album/0S365TsIKb9yDT5DERw3Yh) | 3:31 | 2024-03-25 |  |
 | [Got U](https://open.spotify.com/track/1y4h8bOTQWK7wxtczxy9wx) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [LUV SIGN](https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6) | 3:45 | 2022-10-14 | 2023-03-28 |
 | [Groove Back \(Feat\. Gaeko\)](https://open.spotify.com/track/6ee02p5ioFpkeKDdDGOhkJ) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Groove Missing](https://open.spotify.com/album/4GLHfJaztzxV9FVsL5yef0) | 3:32 | 2022-11-25 | 2023-02-15 |
 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 | 2022-06-18 | 2022-10-05 |
@@ -238,8 +240,10 @@
 | [Scent](https://open.spotify.com/track/1neROuQxafANebAEXLRFWf) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Scent](https://open.spotify.com/album/3xgGdTJNMCDOb2KpqL5ul0) | 2:08 | 2023-01-18 | 2023-08-18 |
 | [Seed](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 4:15 | 2023-05-05 | 2023-10-17 |
 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 | 2022-07-04 | 2022-10-08 |
+| [SIDE](https://open.spotify.com/track/6tQxgxb63XBelPTNtD02I2) | [blessed.](https://open.spotify.com/artist/54Y80c5eEYbnlvCmIPKf6W) | [SIDE](https://open.spotify.com/album/6GO5T0RNrBgnwppYd0CLO3) | 3:50 | 2024-03-25 |  |
 | [Sing for Love \(feat\. amin, Saula & H!\)](https://open.spotify.com/track/1L9RCVv1btqs0A75MKVmHP) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Saula](https://open.spotify.com/artist/46GT1NQLJZsnVuxWKwuLET), [H!](https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ) | [I wanna be your deepest heart](https://open.spotify.com/album/7INMtslivPf4Op0LaJ8X6T) | 3:05 | 2023-09-08 | 2023-12-19 |
 | [Siren](https://open.spotify.com/track/2Oygz6GbZrGjUgfyXSxZLO) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 2:47 | 2023-02-10 | 2023-02-15 |
+| [Sketch](https://open.spotify.com/track/2HXdn9Zi25cfTyjaSxoomQ) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [Cinema Pt\. 2](https://open.spotify.com/album/2CPsUAUJvUIFuqK5zlQZa9) | 3:17 | 2024-03-25 |  |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-08 | 2023-12-19 |
 | [Someday \(feat\. LONE\)](https://open.spotify.com/track/2vVZfbqv0mqqHp91uXXHIT) | [LimJi](https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z), [LONE](https://open.spotify.com/artist/2DvgXhVqY3hUx5Y9F4cu0H) | [Someday](https://open.spotify.com/album/2JNjZUP1C7eWQGR438w1ib) | 2:58 | 2024-03-08 |  |
 | [something](https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [something](https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s) | 3:38 | 2023-11-06 |  |

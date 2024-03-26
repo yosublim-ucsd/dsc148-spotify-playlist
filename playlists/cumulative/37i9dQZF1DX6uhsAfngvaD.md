@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-390 songs - 1 day 0 hr 35 min
+391 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Even True Love](https://open.spotify.com/track/47v05paasX7rOW6U7kZmvV) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA) | 4:46 | 2022-07-06 | 2023-09-02 |
 | [Even True Love](https://open.spotify.com/track/79PaJyGdIi8XN6d9tp2YlT) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Even True Love](https://open.spotify.com/album/4cMrZSmZziTfor1wqUZgGV) | 4:46 | 2020-08-09 | 2022-07-28 |
 | [everything to die for](https://open.spotify.com/track/05x8IQafuKgd3icfkyprxh) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [everything to die for](https://open.spotify.com/album/2wP6cJwvwsHdwLmnvR0Pr2) | 3:11 | 2024-02-21 | 2024-03-08 |
+| [everything to die for](https://open.spotify.com/track/5w7pIkf7juDYcl6ejrSvzQ) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [the mould](https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco) | 3:11 | 2024-02-21 |  |
 | [Faces](https://open.spotify.com/track/1bnzho2GEO8gOg1j0a8Tnq) | [No Swoon](https://open.spotify.com/artist/3th2nHK122HxCbpATSNXfp) | [Faces](https://open.spotify.com/album/4nDoP0Dtjv9HGiPpsjb2z6) | 4:55 | 2019-11-19\* | 2021-03-06 |
 | [Falling Apart Without You](https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Falling Apart Without You](https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr) | 3:23 | 2023-05-10 |  |
 | [Famous Enough to Die](https://open.spotify.com/track/0hsKYjt75TyaB0QXTFE2Fd) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Famous Enough to Die](https://open.spotify.com/album/00ed3pj0roOngfB8vGp0Ls) | 2:46 | 2020-08-09 | 2020-12-22 |
@@ -231,7 +232,7 @@
 | [Molécula \- En Vivo Desde Estudio 13](https://open.spotify.com/track/3x6mOyz5QEjExVGBVMFIWz) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [E13 Sessions \(En Vivo\)](https://open.spotify.com/album/2TVLxcxIxcp6wSQIr4s8nj) | 3:45 | 2020-11-06 | 2022-07-05 |
 | [Mrs Magic](https://open.spotify.com/track/45BBlVHECwB0uNt7BsJ97r) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/1q7N3YyxCng8awmwE3dNn5) | 3:28 | 2020-11-25 | 2020-12-22 |
 | [Nadine](https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [Heaven Sent \(Between Heavens B\-Sides\)](https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I) | 3:19 | 2024-01-26 |  |
-| [Near](https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE), [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 5:40 | 2023-05-10 |  |
+| [Near](https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE), [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 5:40 | 2023-05-10 | 2024-03-26 |
 | [Never Enough](https://open.spotify.com/track/7bogCrQMfTovtzuHx0Nszr) | [Low Hummer](https://open.spotify.com/artist/2bI3bjQZZKrlKYfiBczobD) | [Never Enough](https://open.spotify.com/album/07ac7JEnYJ2PeAsZPSuo7h) | 3:48 | 2021-02-06 | 2022-07-28 |
 | [never had a place](https://open.spotify.com/track/1FMRyPDszjHQ3p3UfkX3vL) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [never had a place](https://open.spotify.com/album/7r1I04mtKaXE6UwZSH23DX) | 2:53 | 2022-04-01 | 2023-01-19 |
 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 | 2022-02-24 |  |

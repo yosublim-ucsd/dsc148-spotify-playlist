@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Caballo Prieto Azabache en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,610 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,622 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Cuando Todo Daba Igual](https://open.spotify.com/track/2TBlxrvQuDvr8v7p0SGw8H) | [Porretas](https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk) | [Cuando Todo Daba Igual](https://open.spotify.com/album/4OEBDiH3XzxgmqPJSYNWqG) | 3:15 |
 | 50 | [Hasta la polla](https://open.spotify.com/track/6qCgAfcOxKpbUlelzJKupr) | [Becarios](https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU) | [Hasta la polla](https://open.spotify.com/album/4JcRs3OrWNz2cxwlPDoFvg) | 3:17 |
 
-Snapshot ID: `MCw5ZmE4YjljOGQzZTYyZWQzY2IxOWM0OGRlYWUzN2RiMGZhMDJiNDU5`
+Snapshot ID: `MCw0NmE1YmIzZWI4ZWYwMDNjZjE1OWZiY2ZjYjcyN2ZiZGE0MTIwMzUy`

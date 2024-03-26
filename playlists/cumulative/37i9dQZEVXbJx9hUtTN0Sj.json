@@ -266,6 +266,24 @@
     {
       "album": {
         "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
+    },
+    {
+      "album": {
+        "name": "What Happens Now?",
         "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
       },
       "artists": [
@@ -1110,6 +1128,24 @@
       "duration_ms": 171124,
       "name": "dans tes bras II (Lady Killers II)",
       "url": "https://open.spotify.com/track/7oXkxS9f50ZKBQvzftseXE"
+    },
+    {
+      "album": {
+        "name": "Dansie Geet Dom",
+        "url": "https://open.spotify.com/album/7070l0rMnuk9HyyhlB9QMI"
+      },
+      "artists": [
+        {
+          "name": "Boer Harm",
+          "url": "https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Dansie Geet Dom",
+      "url": "https://open.spotify.com/track/35e9WqhVlY7pVZGX7HtEYQ"
     },
     {
       "album": {
@@ -3430,7 +3466,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 145680,
       "name": "Saison 2",
       "url": "https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv"
@@ -3633,6 +3669,24 @@
     },
     {
       "album": {
+        "name": "Smart (Remixes)",
+        "url": "https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166384,
+      "name": "Smart",
+      "url": "https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ"
+    },
+    {
+      "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
       },
@@ -3662,7 +3716,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"

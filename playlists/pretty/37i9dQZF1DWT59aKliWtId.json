@@ -1,12 +1,12 @@
 {
   "description": "a high-quality alternative blend ft. Mt. Joy",
-  "num_followers": 103557,
+  "num_followers": 103574,
   "original_name": "Grade A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTBiZTdlNTgyYmMwMGIxNDVjMmVlNmY2ZWNjYzEwZDZlYTRmZDU3",
+  "snapshot_id": "MCw5NzUwNWJhZDBiODhlZjI1MjU5MDhkNmQwMDY2MDExYzZhMTFhMzI1",
   "tracks": [
     {
       "added_at": "2024-03-18 22:34:47",
@@ -295,6 +295,26 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 169467,
+      "name": "Spotless (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "White Horse",
         "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 169467,
-      "name": "Spotless (feat. The Lumineers)",
-      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Cardinal",
+      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "Highway Queen",
         "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 249560,
       "name": "Capricorn",
       "url": "https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Cardinal",
-      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Call Me What You Like",
-        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Call Me What You Like",
-      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "A Love International",
         "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 255100,
       "name": "A Love International",
       "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Call Me What You Like",
+        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Call Me What You Like",
+      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "No Strings",
-        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "No Strings",
-      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Missing Out",
         "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 217320,
       "name": "Missing Out",
       "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "No Strings",
+        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 274347,
-      "name": "Salad",
-      "url": "https://open.spotify.com/track/4wHo9RDSY0elxbeiMpYNLN"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "F*ck My Life Up Again",
         "url": "https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 258626,
       "name": "F*ck My Life Up Again",
       "url": "https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 274347,
+      "name": "Salad",
+      "url": "https://open.spotify.com/track/4wHo9RDSY0elxbeiMpYNLN"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Prove It To You",
-      "url": "https://open.spotify.com/track/0w9eE1YhhHG4pTGK2eaWhs"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 196066,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Prove It To You",
+      "url": "https://open.spotify.com/track/0w9eE1YhhHG4pTGK2eaWhs"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "We Make Hits",
-        "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 182606,
-      "name": "We Make Hits",
-      "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Habits",
         "url": "https://open.spotify.com/album/6EiqbvEYWkkB7xmYwGQ3u6"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 211693,
       "name": "Habits - Radio Edit",
       "url": "https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "We Make Hits",
+        "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 182606,
+      "name": "We Make Hits",
+      "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "I'm Leaving",
-      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Revelator",
         "url": "https://open.spotify.com/album/1Vjsf4qWhQhRH3VBPEQs0d"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 293290,
       "name": "Revelator",
       "url": "https://open.spotify.com/track/4akOHAXlPBcIjImF1N7KDi"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "I'm Leaving",
+      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Playing Favorites",
-        "url": "https://open.spotify.com/album/2R7crs7YbXoJrjzb7IOEEq"
-      },
-      "artists": [
-        {
-          "name": "Sheer Mag",
-          "url": "https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1"
-        }
-      ],
-      "duration_ms": 181791,
-      "name": "Playing Favorites",
-      "url": "https://open.spotify.com/track/6GPwJ2oOTW4AKZHorpokjl"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Coming Home (Ballad of the Shire)",
         "url": "https://open.spotify.com/album/2gNks1RYLTStziHLRWewFY"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 194757,
       "name": "Coming Home (Ballad of the Shire)",
       "url": "https://open.spotify.com/track/5eZVBnHekzKt790vYQeBDH"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Playing Favorites",
+        "url": "https://open.spotify.com/album/2R7crs7YbXoJrjzb7IOEEq"
+      },
+      "artists": [
+        {
+          "name": "Sheer Mag",
+          "url": "https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1"
+        }
+      ],
+      "duration_ms": 181791,
+      "name": "Playing Favorites",
+      "url": "https://open.spotify.com/track/6GPwJ2oOTW4AKZHorpokjl"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1975,18 +1975,18 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Wild Days",
-        "url": "https://open.spotify.com/album/0p7Ovi78Z8SEfl7easPLF3"
+        "name": "White Lies, White Jesus And You",
+        "url": "https://open.spotify.com/album/4PxGWmuTtzAxkPCzmWQ5Al"
       },
       "artists": [
         {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
         }
       ],
-      "duration_ms": 219349,
-      "name": "Wild Days",
-      "url": "https://open.spotify.com/track/4J1zHD22PDW4Jdw6XYXs28"
+      "duration_ms": 264926,
+      "name": "White Lies, White Jesus And You",
+      "url": "https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Wild Days",
+        "url": "https://open.spotify.com/album/0p7Ovi78Z8SEfl7easPLF3"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        }
+      ],
+      "duration_ms": 219349,
+      "name": "Wild Days",
+      "url": "https://open.spotify.com/track/4J1zHD22PDW4Jdw6XYXs28"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "Cuero Dudes / Beauty Opens Doors",
         "url": "https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr"
       },
@@ -2019,42 +2035,6 @@
       "duration_ms": 298921,
       "name": "Cuero Dudes",
       "url": "https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "White Lies, White Jesus And You",
-        "url": "https://open.spotify.com/album/4PxGWmuTtzAxkPCzmWQ5Al"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 264926,
-      "name": "White Lies, White Jesus And You",
-      "url": "https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Danzig With Myself",
-        "url": "https://open.spotify.com/album/5vlpxtN3xTFxPMI1y1Ly0u"
-      },
-      "artists": [
-        {
-          "name": "The Dandy Warhols",
-          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
-        },
-        {
-          "name": "Frank Black",
-          "url": "https://open.spotify.com/artist/5Q8gM5SMBT2LAoZ5LzqAvH"
-        }
-      ],
-      "duration_ms": 235960,
-      "name": "Danzig With Myself",
-      "url": "https://open.spotify.com/track/6kgsE8vtnBj7z3gS1qo8Ni"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2079,6 +2059,26 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Danzig With Myself",
+        "url": "https://open.spotify.com/album/5vlpxtN3xTFxPMI1y1Ly0u"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        },
+        {
+          "name": "Frank Black",
+          "url": "https://open.spotify.com/artist/5Q8gM5SMBT2LAoZ5LzqAvH"
+        }
+      ],
+      "duration_ms": 235960,
+      "name": "Danzig With Myself",
+      "url": "https://open.spotify.com/track/6kgsE8vtnBj7z3gS1qo8Ni"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "Reflector",
         "url": "https://open.spotify.com/album/2ZSufO9lQ6fZpTSc7FM0Br"
       },
@@ -2091,22 +2091,6 @@
       "duration_ms": 234760,
       "name": "Dance In The Desert",
       "url": "https://open.spotify.com/track/2trvgxS2JsJGFQoPVaKYfO"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Night In",
-        "url": "https://open.spotify.com/album/5qfu1icLSwAFmYoehJ3kYN"
-      },
-      "artists": [
-        {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
-        }
-      ],
-      "duration_ms": 207506,
-      "name": "Night In",
-      "url": "https://open.spotify.com/track/3Qt9dcvy6bNpbl6nmiioDd"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2139,6 +2123,22 @@
       "duration_ms": 243520,
       "name": "Go Getter",
       "url": "https://open.spotify.com/track/6UWvbA3Jx5ubUTFumQibEs"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Night In",
+        "url": "https://open.spotify.com/album/5qfu1icLSwAFmYoehJ3kYN"
+      },
+      "artists": [
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        }
+      ],
+      "duration_ms": 207506,
+      "name": "Night In",
+      "url": "https://open.spotify.com/track/3Qt9dcvy6bNpbl6nmiioDd"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2223,18 +2223,18 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Say It Like You Mean It",
-        "url": "https://open.spotify.com/album/60Dn3hJOYD75S9SahrlWp9"
+        "name": "Pull the Rope",
+        "url": "https://open.spotify.com/album/3Xc6YhaNwQ8CxdSGrpw80l"
       },
       "artists": [
         {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+          "name": "Ibibio Sound Machine",
+          "url": "https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c"
         }
       ],
-      "duration_ms": 224444,
-      "name": "Say It Like You Mean It",
-      "url": "https://open.spotify.com/track/3XcEhWqxe04Qgpnsp4qUbc"
+      "duration_ms": 209360,
+      "name": "Pull the Rope",
+      "url": "https://open.spotify.com/track/7CfIoH458ApkgA24pHNsED"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2255,6 +2255,22 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Say It Like You Mean It",
+        "url": "https://open.spotify.com/album/60Dn3hJOYD75S9SahrlWp9"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "Say It Like You Mean It",
+      "url": "https://open.spotify.com/track/3XcEhWqxe04Qgpnsp4qUbc"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "Faith Crisis Pt 1",
         "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
       },
@@ -2267,22 +2283,6 @@
       "duration_ms": 211855,
       "name": "Highlands",
       "url": "https://open.spotify.com/track/3juc8eQreETBUlYYXy5jhd"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Pull the Rope",
-        "url": "https://open.spotify.com/album/3Xc6YhaNwQ8CxdSGrpw80l"
-      },
-      "artists": [
-        {
-          "name": "Ibibio Sound Machine",
-          "url": "https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "Pull the Rope",
-      "url": "https://open.spotify.com/track/7CfIoH458ApkgA24pHNsED"
     },
     {
       "added_at": "2024-03-18 22:34:47",

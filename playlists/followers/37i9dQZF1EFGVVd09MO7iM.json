@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 3164,
+  "2024-03-26": 3163,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp\">Pharrell Williams</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Pharrell Williams",
@@ -1267,6 +1267,24 @@
       "duration_ms": 257053,
       "name": "By Design",
       "url": "https://open.spotify.com/track/5FxVTEpoBress37MmlMhbZ"
+    },
+    {
+      "album": {
+        "name": "The Story of Sonny Boy Slim",
+        "url": "https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60053,
+      "name": "BYOB",
+      "url": "https://open.spotify.com/track/5DDUcpsmDzDUdFLeOaPW3l"
     },
     {
       "album": {
@@ -6485,7 +6503,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 260240,
       "name": "Popular Demand (Popeyes) (feat. Cam'ron & Pharrell Williams)",
       "url": "https://open.spotify.com/track/2h8qcBOJA5rwykIXBck24Z"

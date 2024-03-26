@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Galdive\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,188,862 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,188,951 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bloom](https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Bloom](https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5) | 3:53 |
 | 2 | [Cycle](https://open.spotify.com/track/0Ztt74lg0tja20ejpi3dMX) | [Peel](https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ) | [Cycle](https://open.spotify.com/album/3ehiC7eZbvKT7fXwxmA7SC) | 3:33 |
 | 3 | [Move On](https://open.spotify.com/track/6vTzONIAVZMzG9UGAtv7Xv) | [Temm](https://open.spotify.com/artist/1TCG4phIm3YNXPLzKhHPoD) | [Move On](https://open.spotify.com/album/3OA28iQCKxCSiuIkWaykhZ) | 3:42 |
-| 4 | [Young](https://open.spotify.com/track/1YaD5RptFvZSFkSgcYONHJ) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Young](https://open.spotify.com/album/5BveF9ohNHphAnVKlMqMNe) | 3:34 |
-| 5 | [WAKE UP](https://open.spotify.com/track/6Rn0E6cj7o9y1HreiMv0Aw) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [WAKE UP](https://open.spotify.com/album/3mI0rvBdda0WogdFHQI2Uu) | 2:44 |
-| 6 | [i'll be fine'](https://open.spotify.com/track/3JdQ3LToili2ajempvrwCD) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Nyla](https://open.spotify.com/artist/5aRVHPggfK1ejfaVLYb9Xe) | [i'll be fine'](https://open.spotify.com/album/1Ztl27sDRwIq80pjAbwucu) | 2:00 |
-| 7 | [Y SI SOMOS NOVIOS???](https://open.spotify.com/track/3IGNEoTp4uV1HtcvdfxrSL) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [Y SI SOMOS NOVIOS???](https://open.spotify.com/album/5qKUVvVIRgD3CBa2L0x0Go) | 2:33 |
-| 8 | [Dawn](https://open.spotify.com/track/3WXWwVIU7e9MElcPwVdPgE) | [Bagetti](https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1) | [Dawn](https://open.spotify.com/album/74aipGQuzmhuy3hRFYvmOJ) | 2:35 |
-| 9 | [Qué Más Da](https://open.spotify.com/track/2L7EazniDPDv5UZZdcCBcA) | [Sofia Cordoba](https://open.spotify.com/artist/4tskMdZP6z8sUf46Q4ThqM) | [Qué Más Da](https://open.spotify.com/album/2WyN5yIB3Izq1c5xODMywD) | 2:34 |
-| 10 | [Pulling Teeth](https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pulling Teeth](https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x) | 3:31 |
-| 11 | [First To Try](https://open.spotify.com/track/5yrxE9LDTrrM8mGTgurAis) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [First To Try](https://open.spotify.com/album/7glhknlRQ5q59zUCMjGvSx) | 3:39 |
+| 4 | [Y SI SOMOS NOVIOS???](https://open.spotify.com/track/3IGNEoTp4uV1HtcvdfxrSL) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [Y SI SOMOS NOVIOS???](https://open.spotify.com/album/5qKUVvVIRgD3CBa2L0x0Go) | 2:33 |
+| 5 | [Young](https://open.spotify.com/track/1YaD5RptFvZSFkSgcYONHJ) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Young](https://open.spotify.com/album/5BveF9ohNHphAnVKlMqMNe) | 3:34 |
+| 6 | [WAKE UP](https://open.spotify.com/track/6Rn0E6cj7o9y1HreiMv0Aw) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [WAKE UP](https://open.spotify.com/album/3mI0rvBdda0WogdFHQI2Uu) | 2:44 |
+| 7 | [i'll be fine'](https://open.spotify.com/track/3JdQ3LToili2ajempvrwCD) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Nyla](https://open.spotify.com/artist/5aRVHPggfK1ejfaVLYb9Xe) | [i'll be fine'](https://open.spotify.com/album/1Ztl27sDRwIq80pjAbwucu) | 2:00 |
+| 8 | [Qué Más Da](https://open.spotify.com/track/2L7EazniDPDv5UZZdcCBcA) | [Sofia Cordoba](https://open.spotify.com/artist/4tskMdZP6z8sUf46Q4ThqM) | [Qué Más Da](https://open.spotify.com/album/2WyN5yIB3Izq1c5xODMywD) | 2:34 |
+| 9 | [Pulling Teeth](https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pulling Teeth](https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x) | 3:31 |
+| 10 | [First To Try](https://open.spotify.com/track/5yrxE9LDTrrM8mGTgurAis) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [First To Try](https://open.spotify.com/album/7glhknlRQ5q59zUCMjGvSx) | 3:39 |
+| 11 | [Dawn](https://open.spotify.com/track/3WXWwVIU7e9MElcPwVdPgE) | [Bagetti](https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1) | [Dawn](https://open.spotify.com/album/74aipGQuzmhuy3hRFYvmOJ) | 2:35 |
 | 12 | [Pieces](https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Pieces](https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2) | 2:58 |
 | 13 | [Whatchu Say ?](https://open.spotify.com/track/38Myszu0cRqEwZbzUWE80J) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [Whatchu Say ?](https://open.spotify.com/album/4emUcj6mqDLRpNUMLVTpfY) | 2:38 |
 | 14 | [That Energy](https://open.spotify.com/track/4goO2EkCJh6Gw3ufpJ4jZt) | [Emerson Azarian](https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j) | [That Energy](https://open.spotify.com/album/0Ecmcz27yUk82z7MJSILBX) | 2:54 |
 | 15 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
 | 16 | [Dance With U](https://open.spotify.com/track/7admpnx6uCD1rkkcxlJEJH) | [Leo Brown](https://open.spotify.com/artist/44NtFX5OfUfdUIVYoGE3ND) | [Dance With U](https://open.spotify.com/album/48IwGFznorkRVpsRtqqatu) | 2:51 |
-| 17 | [Last Time Speaking](https://open.spotify.com/track/3qhnypWslWY0hWbXiEi1eW) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [oksurf](https://open.spotify.com/artist/7p6kSroBqiTLRWSd1yBpun) | [Kenny World Deluxe](https://open.spotify.com/album/186G03iM52cPFJdKvgDjRd) | 3:01 |
-| 18 | [Something \(Practically\)](https://open.spotify.com/track/23uwpMxRrhQiLPzMkuOfBq) | [Edgehill](https://open.spotify.com/artist/0lzGqksyREdfUObGjLYLcT) | [Something \(Practically\) / Tape My Mouth](https://open.spotify.com/album/4oZhA997LWyuwzpLtIdCEV) | 4:46 |
+| 17 | [Something \(Practically\)](https://open.spotify.com/track/23uwpMxRrhQiLPzMkuOfBq) | [Edgehill](https://open.spotify.com/artist/0lzGqksyREdfUObGjLYLcT) | [Something \(Practically\) / Tape My Mouth](https://open.spotify.com/album/4oZhA997LWyuwzpLtIdCEV) | 4:46 |
+| 18 | [Rester](https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Rester](https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M) | 4:57 |
 | 19 | [Indie Rockera](https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV) | [Tobias Indigo](https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc) | [Indie Rockera](https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC) | 3:41 |
 | 20 | [Die For You](https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Die For You](https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx) | 4:05 |
 | 21 | [aguardiente](https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd) | [Miranda del Sol](https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7) | [aguardiente](https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch) | 2:51 |
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 23 | [cross my heart \(hope to die\)](https://open.spotify.com/track/7qt0s5OswWIDJBlLHmiKNi) | [Mackenzie Arromba](https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq) | [cross my heart \(hope to die\)](https://open.spotify.com/album/2OPo2MAbCCUWp3TS4N7nld) | 2:40 |
 | 24 | [Faith](https://open.spotify.com/track/1SMbbkmy371096e60XcstR) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Faith](https://open.spotify.com/album/16PKaDC9hWFS5qCNiFbHaR) | 3:39 |
 | 25 | [Mero Mero](https://open.spotify.com/track/0DEhpnXCQButZJDhQ7KXrA) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Mero Mero](https://open.spotify.com/album/2T2iIfXu2G1ndz3qgTrD1P) | 2:34 |
-| 26 | [Zodiac 13](https://open.spotify.com/track/79U8WWKFkPFaKhCk0VPkWE) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Zodiac 13](https://open.spotify.com/album/5pnrPb0afNwHXXG78XeHWQ) | 2:52 |
-| 27 | [teh guitar beat](https://open.spotify.com/track/0V0QaCbNq1NkO6dSeo0lFa) | [kieth dragon](https://open.spotify.com/artist/29FsTPXA34cka7l1DNPVYD) | [teh guitar beat](https://open.spotify.com/album/6EWgv5VgESEykwHEC6lPHG) | 2:50 |
-| 28 | [Rester](https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Rester](https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M) | 4:57 |
+| 26 | [Last Time Speaking](https://open.spotify.com/track/3qhnypWslWY0hWbXiEi1eW) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [oksurf](https://open.spotify.com/artist/7p6kSroBqiTLRWSd1yBpun) | [Kenny World Deluxe](https://open.spotify.com/album/186G03iM52cPFJdKvgDjRd) | 3:01 |
+| 27 | [Zodiac 13](https://open.spotify.com/track/79U8WWKFkPFaKhCk0VPkWE) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Zodiac 13](https://open.spotify.com/album/5pnrPb0afNwHXXG78XeHWQ) | 2:52 |
+| 28 | [teh guitar beat](https://open.spotify.com/track/0V0QaCbNq1NkO6dSeo0lFa) | [kieth dragon](https://open.spotify.com/artist/29FsTPXA34cka7l1DNPVYD) | [teh guitar beat](https://open.spotify.com/album/6EWgv5VgESEykwHEC6lPHG) | 2:50 |
 | 29 | [Should've Gone Naij](https://open.spotify.com/track/6L1leksDiTuCqoYMWXaaU4) | [Damzz](https://open.spotify.com/artist/0gIUtcSvpmZsNEGo3rusf4) | [Should've Gone Naij](https://open.spotify.com/album/14YK8jvNXIMzNnBkje84JU) | 2:13 |
 | 30 | [Dead Inside](https://open.spotify.com/track/06jCPWlKJ0q8geGRTpud87) | [Sadie Fine](https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc) | [Dead Inside](https://open.spotify.com/album/6KgSvhhfjP2lViOfbYIkcB) | 3:44 |
 | 31 | [PALOMINO](https://open.spotify.com/track/3cqhuqp6N9D3XoAsL0kCC4) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [PALOMINO](https://open.spotify.com/album/4UElHgLdeGzNnv9d55NYRZ) | 2:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Deadweight](https://open.spotify.com/track/1w1aj51V8JWJv3DbtSS8sp) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [Deadweight](https://open.spotify.com/album/150Iwj3k9W8N1YiZkETUVo) | 3:01 |
 | 100 | [City](https://open.spotify.com/track/67upU8uOiheMRpgYK6Ru8W) | [Tobias Defoe](https://open.spotify.com/artist/4UWYwl77CmLOHrz7Zehl2l) | [City](https://open.spotify.com/album/2kKVo48OHlMQdbhBK3ZHT1) | 2:43 |
 
-Snapshot ID: `MCwwMDgwYjA0OTdjNGFkMGMxNzQwNWY2MTMxNWIzZTJhNDllMjdlZTJk`
+Snapshot ID: `MCxlODk2ODU2N2ZkOGZjNTBlYWNiMGRkYjQyNzRiNThlMjIyZTJjNmVl`

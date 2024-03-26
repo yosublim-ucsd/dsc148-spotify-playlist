@@ -1,12 +1,12 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 14969,
+  "num_followers": 14968,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2JiODU3ODYzN2UzMzVlZTcwNDVmNmNmOTBmNjA3ZDNlZjAzNzdj",
+  "snapshot_id": "MCw4MGY4NDg2ZTMwZTEzNzMyYTU4NzMzMzUyMDUyZDhhZjIwMTBlYTYy",
   "tracks": [
     {
       "added_at": "2024-03-08 06:40:15",
@@ -239,26 +239,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "OO",
-        "url": "https://open.spotify.com/album/20WQSlujuTbzd9d5V46mkc"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 207492,
-      "name": "Complex (Feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/3v7M2SwKHQZ8domnAQV2DJ"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "Take You Home - SM STATION",
         "url": "https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 265586,
       "name": "To You My Light (feat. LEE RAON)",
       "url": "https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "OO",
+        "url": "https://open.spotify.com/album/20WQSlujuTbzd9d5V46mkc"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 207492,
+      "name": "Complex (Feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/3v7M2SwKHQZ8domnAQV2DJ"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -343,6 +343,26 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 217412,
+      "name": "Palette (feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
         "name": "H1-KEYnote #2 [Deeper]",
         "url": "https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 221638,
       "name": "Trust Me (MIDZY)",
       "url": "https://open.spotify.com/track/4ckfsMiX0wBKwaxIJCXxsJ"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 217412,
-      "name": "Palette (feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
         "name": "Red Diary Page.1",
         "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
       },
@@ -535,18 +551,18 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+        "name": "Still the Same",
+        "url": "https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "KYUL",
+          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
         }
       ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
+      "duration_ms": 148002,
+      "name": "Still the Same",
+      "url": "https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -567,22 +583,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "Still the Same",
-        "url": "https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu"
-      },
-      "artists": [
-        {
-          "name": "KYUL",
-          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
-        }
-      ],
-      "duration_ms": 148002,
-      "name": "Still the Same",
-      "url": "https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "Webtoon YEONNOM OST Part.1",
         "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 220996,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "Love poem",
+        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 258238,
+      "name": "Love poem",
+      "url": "https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -679,22 +695,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "Love poem",
-        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 258238,
-      "name": "Love poem",
-      "url": "https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "Fighting!",
         "url": "https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "DAESUNG Special Single",
-        "url": "https://open.spotify.com/album/7Ct13dmiE5fMReh3v3FTxe"
-      },
-      "artists": [
-        {
-          "name": "DAESUNG",
-          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
-        }
-      ],
-      "duration_ms": 198280,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/0E8sOJGcMtUVxAJ4PYul2U"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "A-TEEN2 Part.1",
         "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 210000,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "DAESUNG Special Single",
+        "url": "https://open.spotify.com/album/7Ct13dmiE5fMReh3v3FTxe"
+      },
+      "artists": [
+        {
+          "name": "DAESUNG",
+          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "duration_ms": 198280,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/0E8sOJGcMtUVxAJ4PYul2U"
     },
     {
       "added_at": "2024-03-08 06:40:15",

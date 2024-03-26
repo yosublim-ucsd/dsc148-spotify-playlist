@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Shabaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,387 likes - 100 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,511 likes - 100 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Final Voyage](https://open.spotify.com/track/6pBaX9CnZJ4KBkojIQ325L) | [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [The Southern Suite](https://open.spotify.com/album/6s49yqVpAtx05F2J16ciYr) | 6:18 |
 | 100 | [Dogtown](https://open.spotify.com/track/5ktCZMdlQ5jf1o6vqKFSso) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [Stings](https://open.spotify.com/album/6VinTZHoP04RXMsQk3W4A4) | 6:30 |
 
-Snapshot ID: `MCxjZTg0NTVkODY3MGM0NGRjOTAzODhiM2NlNzExZTc4YWRkM2EwOTlj`
+Snapshot ID: `MCwyYWQ5NmM5Y2RhZTc0ODY0M2JjOWM2NmI1NzQ3MDU2ZjM0M2ZlM2U0`

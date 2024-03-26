@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: TWRP
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,747 likes - 102 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,976 likes - 102 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 19 | [Lights Out](https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Lights Out](https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf) | 4:01 |
 | 20 | [Time Machine \(feat\. Thundercat & James Fauntleroy\)](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine \(feat\. Thundercat & James Fauntleroy\)](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 |
 | 21 | [LOVEなシーン](https://open.spotify.com/track/4estL78KTBFufDAXcqwCO6) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ), [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [LOVEなシーン](https://open.spotify.com/album/0ZDyXn23bL5gr9DnGev03Z) | 5:19 |
-| 22 | [Monoxide](https://open.spotify.com/track/4NgC18dc6UottMk5mM0Vm6) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [MacKenzie](https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY), [Canoed\_sun](https://open.spotify.com/artist/0Fy8tUfccxSuqfnILrqlzO) | [Monoxide](https://open.spotify.com/album/06lzzmqcqpzK6Ga4VpXrof) | 3:12 |
+| 22 | [Monoxide](https://open.spotify.com/track/7DjW87ErMGMT2PIstq7gYG) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [MacKenzie](https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY), [Canoed\_sun](https://open.spotify.com/artist/0Fy8tUfccxSuqfnILrqlzO) | [Liberation](https://open.spotify.com/album/4FV6Mo4LSbN4YX6TSi8shV) | 3:12 |
 | 23 | [Somebody's Watching You \- XL Middleton Remix](https://open.spotify.com/track/0JC1eqLPqwpTxTVURfBI1R) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Somebody's Watching You \(XL Middleton Remix\)](https://open.spotify.com/album/0ewP62EoyU6j6uAZANB9DZ) | 3:35 |
 | 24 | [Saturday Night \(Need You Now\)](https://open.spotify.com/track/5HYNZhR70lfA1dzvQoXCBM) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Saturday Night \(Need You Now\)](https://open.spotify.com/album/22ZdsViHpBmUCQqxzQxPov) | 4:13 |
 | 25 | [Heavy \(Wake the Wild Remix\)](https://open.spotify.com/track/2HStqTtRnHeqwNoq2lvdsh) | [Dance Yourself Clean](https://open.spotify.com/artist/6Cj1snEd81rwhRQgFormQc), [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Heavy \(Wake the Wild Remix\)](https://open.spotify.com/album/1pDoHLUbVmhNTndhoEPjnG) | 3:31 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 101 | [Bullseye](https://open.spotify.com/track/0nxkE2MFVrm7UpdzgQ0CJO) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Bullseye](https://open.spotify.com/album/5Xl95STYauCnKb1qvbt1mm) | 2:17 |
 | 102 | [Come and Get It \- A COLORS SHOW](https://open.spotify.com/track/4exwQETG1yC3KPp8t57C9q) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Come and Get It \- A COLORS SHOW](https://open.spotify.com/album/6ESzAJ6LlsxURRRiDpJRsb) | 2:25 |
 
-Snapshot ID: `MCxlY2QxOTIwMWE4NDQ5NWYwMjY3ZWMyMWU1ZmQ3ZDVjOTMyZmFlOGJk`
+Snapshot ID: `MCxkMGZjZjg3MmZjYmY4NDQ0NDAyYzMzMGM2Zjk1ZTJkYjVmMTI4ZWIx`

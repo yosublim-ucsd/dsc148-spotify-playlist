@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: MELE
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,689 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,730 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [kinder der nacht](https://open.spotify.com/track/3uxG06gDBW1An1QO5tIlQ1) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [zweitausenddreiundzwanzig](https://open.spotify.com/album/1JQsKRv7NuZ9QwepJ9sRl7) | 2:25 |
 | 75 | [Wie ich es sag](https://open.spotify.com/track/6FtJu1XmUSjRtlUAugl1Qu) | [Jante](https://open.spotify.com/artist/5HKZFz9gyymN1JTB7jbadX), [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Wie ich es sag](https://open.spotify.com/album/0kroYRJo2kAGSrilmVkTJ9) | 3:03 |
 
-Snapshot ID: `MCwxYjg3OTg4NWYzZWJmYzJjZDM4MjI1M2ViYzg2ZWViYTliNzJlNzBm`
+Snapshot ID: `MCwwOWM5YzkwZmI1YzI0YWFjZGIxNTg0Y2MxNmI0ZWEwOTk1NGUyZWE3`

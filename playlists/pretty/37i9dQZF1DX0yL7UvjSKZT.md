@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,520 likes - 127 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,573 likes - 127 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 126 | [Mortal Like Me](https://open.spotify.com/track/0V0gmNQ5UL3paMRmKKx76J) | [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8), [Joe Troop](https://open.spotify.com/artist/6ZEEjgoF57Fa8eh2aXGoNa) | [Mortal Like Me](https://open.spotify.com/album/6ZFb24q2lPY70oVv9PgQMj) | 3:14 |
 | 127 | [Fish and Bird](https://open.spotify.com/track/550dYYVKfQDzyMXEXENAkn) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Beat the Devil and Carry a Rail](https://open.spotify.com/album/3AdiKjgy86xmuyv7YC12kV) | 5:13 |
 
-Snapshot ID: `MCxiMGRiNjIzNjZhOWUxZGQwZTUzZTk2NDk2ZGMxYzFkOTYwZjBmN2Qz`
+Snapshot ID: `MCxjY2RlYTdiNTZmNWQzNzA1M2Q1NmRlYTQwNzY3YTVlNWRlNDVlOWQ4`

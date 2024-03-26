@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 1548167,
+  "2024-03-26": 1548344,
   "date_first_scraped": "2021-12-21",
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
   "name": "Night Rider",
@@ -5615,7 +5615,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 255238,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/4DHMD8JzIBOoAXAqHOl3qd"
@@ -5719,7 +5719,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 460780,
       "name": "Origin",
       "url": "https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc"

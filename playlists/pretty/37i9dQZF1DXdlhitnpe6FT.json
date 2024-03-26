@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 222106,
+  "num_followers": 222264,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDU4MmNjNzlhZWQ0N2I2MjcyOWJjNTcxM2FlNzM0MjUxNjE4Yzg5",
+  "snapshot_id": "MCw2YWE1MjBlZjQ1NjkzMWNkMWU4MzhjZGZkYTJmZGUzMzc3MmQ2MjEz",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -171,22 +171,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Adagio",
-        "url": "https://open.spotify.com/album/4w88QeWw7lHIDL9fvPdUfj"
-      },
-      "artists": [
-        {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
-        }
-      ],
-      "duration_ms": 125544,
-      "name": "And I Love Her",
-      "url": "https://open.spotify.com/track/5JtWUJ45BRxGP6F4Tnoej4"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Say It With Music",
         "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 183266,
       "name": "Stranger In Paradise",
       "url": "https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/4w88QeWw7lHIDL9fvPdUfj"
+      },
+      "artists": [
+        {
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+        }
+      ],
+      "duration_ms": 125544,
+      "name": "And I Love Her",
+      "url": "https://open.spotify.com/track/5JtWUJ45BRxGP6F4Tnoej4"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -287,22 +287,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Volume Secondo",
-        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
-      },
-      "artists": [
-        {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
-        }
-      ],
-      "duration_ms": 151092,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Paul Mauriat. Grandes Exitos",
         "url": "https://open.spotify.com/album/6iQAXag0ioZ8VDguSYvyvP"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 306146,
       "name": "Chi Mai",
       "url": "https://open.spotify.com/track/4D0ofpU1f402qd1t6ZK0Xr"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Volume Secondo",
+        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
+      },
+      "artists": [
+        {
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+        }
+      ],
+      "duration_ms": 151092,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -527,22 +527,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "100 All Time Greatest Hits",
-        "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
-      },
-      "artists": [
-        {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Concorde",
-      "url": "https://open.spotify.com/track/1rshuebpBibATjY7UtHolH"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "La Paloma",
         "url": "https://open.spotify.com/album/3J96HGOfDoTV6H1Y2gK8Tu"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 153346,
       "name": "La Paloma",
       "url": "https://open.spotify.com/track/6aOxKTk3Dh08MGgnLv9862"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "100 All Time Greatest Hits",
+        "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
+      },
+      "artists": [
+        {
+          "name": "Franck Pourcel",
+          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Concorde",
+      "url": "https://open.spotify.com/track/1rshuebpBibATjY7UtHolH"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -623,22 +623,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 202367,
-      "name": "Route 101",
-      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Kpm 1000 Series: Gentle Sounds - Volume 2",
         "url": "https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "La m\u00e9lodie du lac d'amour",
-        "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
       },
       "artists": [
         {
-          "name": "Jean Claude Borelly",
-          "url": "https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn"
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
         }
       ],
-      "duration_ms": 172266,
-      "name": "Dolannes m\u00e9lodie",
-      "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
+      "duration_ms": 202367,
+      "name": "Route 101",
+      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -683,6 +667,22 @@
       "duration_ms": 132600,
       "name": "Look For A Star",
       "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "La m\u00e9lodie du lac d'amour",
+        "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
+      },
+      "artists": [
+        {
+          "name": "Jean Claude Borelly",
+          "url": "https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Dolannes m\u00e9lodie",
+      "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -751,6 +751,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "!!Going Places!!",
+        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 125920,
+      "name": "Tijuana Taxi",
+      "url": "https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Sail Along Silv'ry Moon",
         "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "!!Going Places!!",
-        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
+        "name": "Pure Instrumental Memories",
+        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
       },
       "artists": [
         {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+          "name": "Paul Mauriat",
+          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
         }
       ],
-      "duration_ms": 125920,
-      "name": "Tijuana Taxi",
-      "url": "https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK"
+      "duration_ms": 145680,
+      "name": "Love In Every Room",
+      "url": "https://open.spotify.com/track/4NH0mwtg3ne8gn4wDRI2S3"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -799,22 +815,6 @@
       "duration_ms": 146407,
       "name": "Spanish Harlem - Nuits d'Espagne",
       "url": "https://open.spotify.com/track/1mSekIWPPecpKKsfGOioiY"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Pure Instrumental Memories",
-        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
-      },
-      "artists": [
-        {
-          "name": "Paul Mauriat",
-          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
-        }
-      ],
-      "duration_ms": 145680,
-      "name": "Love In Every Room",
-      "url": "https://open.spotify.com/track/4NH0mwtg3ne8gn4wDRI2S3"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -907,22 +907,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Guantanamera",
-        "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
-      },
-      "artists": [
-        {
-          "name": "The Sandpipers",
-          "url": "https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Orange Blossom Special And Wheels",
         "url": "https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 128785,
       "name": "Wheels",
       "url": "https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Guantanamera",
+        "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
+      },
+      "artists": [
+        {
+          "name": "The Sandpipers",
+          "url": "https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
     },
     {
-      "added_at": "2023-08-10 21:46:24",
-      "album": {
-        "name": "East Bound And Down",
-        "url": "https://open.spotify.com/album/6i4T3kD5KHM5CcQu4yH9iT"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 162294,
-      "name": "East Bound And Down",
-      "url": "https://open.spotify.com/track/287NlxhT7ovzqs1XeChOhW"
-    },
-    {
       "added_at": "2020-12-08 19:02:01",
       "album": {
         "name": "Manolo Sanlucar",
@@ -1015,6 +999,22 @@
       "duration_ms": 205773,
       "name": "Caballo Negro",
       "url": "https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2"
+    },
+    {
+      "added_at": "2023-08-10 21:46:24",
+      "album": {
+        "name": "East Bound And Down",
+        "url": "https://open.spotify.com/album/6i4T3kD5KHM5CcQu4yH9iT"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 162294,
+      "name": "East Bound And Down",
+      "url": "https://open.spotify.com/track/287NlxhT7ovzqs1XeChOhW"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
+        "name": "Canciones Inolvidables",
+        "url": "https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u"
       },
       "artists": [
         {
-          "name": "Raul Di Blasio",
-          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
+          "name": "Cuerdas y Metales",
+          "url": "https://open.spotify.com/artist/4Nvo3WgDLeubApBx2YOWpM"
         }
       ],
-      "duration_ms": 219720,
-      "name": "Coraz\u00f3n de Ni\u00f1o",
-      "url": "https://open.spotify.com/track/56y7Xna4NmOjX8VNz4dlNk"
+      "duration_ms": 220400,
+      "name": "Soleado",
+      "url": "https://open.spotify.com/track/33D7r5tvQ5bDlzjIdrqUhP"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1083,34 +1083,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Canciones Inolvidables",
-        "url": "https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
       },
       "artists": [
         {
-          "name": "Cuerdas y Metales",
-          "url": "https://open.spotify.com/artist/4Nvo3WgDLeubApBx2YOWpM"
+          "name": "Raul Di Blasio",
+          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
         }
       ],
-      "duration_ms": 220400,
-      "name": "Soleado",
-      "url": "https://open.spotify.com/track/33D7r5tvQ5bDlzjIdrqUhP"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Rhythms Of The World",
-        "url": "https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn"
-      },
-      "artists": [
-        {
-          "name": "Van McCoy",
-          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
-        }
-      ],
-      "duration_ms": 257633,
-      "name": "The Shuffle",
-      "url": "https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty"
+      "duration_ms": 219720,
+      "name": "Coraz\u00f3n de Ni\u00f1o",
+      "url": "https://open.spotify.com/track/56y7Xna4NmOjX8VNz4dlNk"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1127,6 +1111,22 @@
       "duration_ms": 162586,
       "name": "Never On Sunday",
       "url": "https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Rhythms Of The World",
+        "url": "https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn"
+      },
+      "artists": [
+        {
+          "name": "Van McCoy",
+          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
+        }
+      ],
+      "duration_ms": 257633,
+      "name": "The Shuffle",
+      "url": "https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1225,22 +1225,6 @@
       "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
     },
     {
-      "added_at": "2021-12-23 15:47:25",
-      "album": {
-        "name": "The Ultimate John Barry",
-        "url": "https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j"
-      },
-      "artists": [
-        {
-          "name": "John Barry",
-          "url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Midnight Cowboy",
-      "url": "https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q"
-    },
-    {
       "added_at": "2020-12-08 19:02:01",
       "album": {
         "name": "Instrumental History, The Best",
@@ -1255,6 +1239,22 @@
       "duration_ms": 170333,
       "name": "L'Incontro - 1M1",
       "url": "https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo"
+    },
+    {
+      "added_at": "2021-12-23 15:47:25",
+      "album": {
+        "name": "The Ultimate John Barry",
+        "url": "https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j"
+      },
+      "artists": [
+        {
+          "name": "John Barry",
+          "url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Midnight Cowboy",
+      "url": "https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
-      },
-      "artists": [
-        {
-          "name": "Raul Di Blasio",
-          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
-        }
-      ],
-      "duration_ms": 383933,
-      "name": "Piano",
-      "url": "https://open.spotify.com/track/1Q3ascxB6uII8InItPbW23"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Viol\u00edn M\u00e1gico 3 Alegria",
         "url": "https://open.spotify.com/album/7LWwMcPCac2Bj55ZLK8yNV"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
+      },
+      "artists": [
+        {
+          "name": "Raul Di Blasio",
+          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
+        }
+      ],
+      "duration_ms": 383933,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/1Q3ascxB6uII8InItPbW23"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Rain Forest",
         "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
       },
@@ -1335,22 +1335,6 @@
       "duration_ms": 145573,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "The Ferrante & Teicher Collection",
-        "url": "https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV"
-      },
-      "artists": [
-        {
-          "name": "Ferrante & Teicher",
-          "url": "https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB"
-        }
-      ],
-      "duration_ms": 403466,
-      "name": "Ravel's Bolero",
-      "url": "https://open.spotify.com/track/5HbxBGpEw5xoBXUwRFNA7x"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1383,6 +1367,22 @@
       "duration_ms": 200411,
       "name": "Frenesi",
       "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The Ferrante & Teicher Collection",
+        "url": "https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV"
+      },
+      "artists": [
+        {
+          "name": "Ferrante & Teicher",
+          "url": "https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB"
+        }
+      ],
+      "duration_ms": 403466,
+      "name": "Ravel's Bolero",
+      "url": "https://open.spotify.com/track/5HbxBGpEw5xoBXUwRFNA7x"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "20 Golden Greats",
+        "url": "https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu"
+      },
+      "artists": [
+        {
+          "name": "The Shadows",
+          "url": "https://open.spotify.com/artist/7n2bs5q3whSUnindQssIGC"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Roger Williams Greatest Hits",
         "url": "https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i"
       },
@@ -1471,18 +1487,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "20 Golden Greats",
-        "url": "https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu"
+        "name": "Presentando a Los Indios Tabajaras",
+        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
       },
       "artists": [
         {
-          "name": "The Shadows",
-          "url": "https://open.spotify.com/artist/7n2bs5q3whSUnindQssIGC"
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
         }
       ],
-      "duration_ms": 168053,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C"
+      "duration_ms": 154506,
+      "name": "Ave Maria No Morro",
+      "url": "https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Santo & Johnny",
-        "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
-      },
-      "artists": [
-        {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
-        }
-      ],
-      "duration_ms": 135493,
-      "name": "Ebb Tide",
-      "url": "https://open.spotify.com/track/2LCxsIKM9bl8lrPlL2EUmz"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
       },
@@ -1551,34 +1551,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "First Cuckoo",
-        "url": "https://open.spotify.com/album/7zdSkK10x9AdPzQfohjGzz"
+        "name": "Santo & Johnny",
+        "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
       },
       "artists": [
         {
-          "name": "Deodato",
-          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
         }
       ],
-      "duration_ms": 219026,
-      "name": "Adam's Hotel",
-      "url": "https://open.spotify.com/track/0BHv7xDERd9mJPbGlo39tY"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Presentando a Los Indios Tabajaras",
-        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
-      },
-      "artists": [
-        {
-          "name": "Los Indios Tabajaras",
-          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
-        }
-      ],
-      "duration_ms": 154506,
-      "name": "Ave Maria No Morro",
-      "url": "https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU"
+      "duration_ms": 135493,
+      "name": "Ebb Tide",
+      "url": "https://open.spotify.com/track/2LCxsIKM9bl8lrPlL2EUmz"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1595,6 +1579,38 @@
       "duration_ms": 189346,
       "name": "Im\u00e1genes",
       "url": "https://open.spotify.com/track/6aRvWvjzsdp5GlNbRr6rRn"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Presentando a Los Indios Tabajaras",
+        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "duration_ms": 157013,
+      "name": "Star Dust",
+      "url": "https://open.spotify.com/track/77LRyr9vn47HVc0PhBcIMj"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "First Cuckoo",
+        "url": "https://open.spotify.com/album/7zdSkK10x9AdPzQfohjGzz"
+      },
+      "artists": [
+        {
+          "name": "Deodato",
+          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Adam's Hotel",
+      "url": "https://open.spotify.com/track/0BHv7xDERd9mJPbGlo39tY"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1679,22 +1695,6 @@
       "duration_ms": 173616,
       "name": "Moon Over Montevideo",
       "url": "https://open.spotify.com/track/4FcWZ82tsQ1As33m2SR2gN"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Presentando a Los Indios Tabajaras",
-        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
-      },
-      "artists": [
-        {
-          "name": "Los Indios Tabajaras",
-          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
-        }
-      ],
-      "duration_ms": 157013,
-      "name": "Star Dust",
-      "url": "https://open.spotify.com/track/77LRyr9vn47HVc0PhBcIMj"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Presentando a Ricardo Juarez",
-        "url": "https://open.spotify.com/album/5iC3GicPaENZWdTv2B1yON"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Juarez",
-          "url": "https://open.spotify.com/artist/6IqlP90ae1omoteM4omT70"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Too Young",
-      "url": "https://open.spotify.com/track/2l6OsDqjoFFAKHMHcZ7nYi"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Michel Legrand y Su Gran Orquesta",
         "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 135360,
       "name": "Boum",
       "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Presentando a Ricardo Juarez",
+        "url": "https://open.spotify.com/album/5iC3GicPaENZWdTv2B1yON"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Juarez",
+          "url": "https://open.spotify.com/artist/6IqlP90ae1omoteM4omT70"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/2l6OsDqjoFFAKHMHcZ7nYi"
     }
   ],
   "unique_name": "Golden Instrumentals",

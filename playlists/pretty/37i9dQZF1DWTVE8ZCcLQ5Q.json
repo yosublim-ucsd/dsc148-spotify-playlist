@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 413264,
+  "num_followers": 413242,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGVlOTcwYjViY2RmY2Q1YzcxNmJlMTQyY2RmYzlkMjBjNDQzOTVk",
+  "snapshot_id": "MCw5ZTUxNzYxZjhhM2Y2YzAxZmM1MGM4YTQ4MWUwZTRkZDRjNmIxOThm",
   "tracks": [
     {
       "added_at": "2023-10-05 08:00:00",
@@ -251,30 +251,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        },
-        {
-          "name": "Kotim",
-          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Aulas e Cursos",
         "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
       },
@@ -315,6 +291,30 @@
       "duration_ms": 190850,
       "name": "Combate",
       "url": "https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -387,30 +387,6 @@
       "duration_ms": 122192,
       "name": "3AM (PXT4 RASA) - Remix",
       "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Quebra Cabe\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/5eIPlZnFSGPUl0YqzWuevT"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        },
-        {
-          "name": "Kotim",
-          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Quebra Cabe\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/2veIj31M3WytrkLQrbjFkx"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -511,6 +487,30 @@
       "duration_ms": 144761,
       "name": "Tiro Foto, Mas N\u00e3o Posto",
       "url": "https://open.spotify.com/track/2zytQKmpGW9dvhEGnXiBTP"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Quebra Cabe\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/5eIPlZnFSGPUl0YqzWuevT"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Quebra Cabe\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/2veIj31M3WytrkLQrbjFkx"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -911,26 +911,26 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Baby Hair",
-        "url": "https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo"
+        "name": "8KG",
+        "url": "https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c"
       },
       "artists": [
         {
-          "name": "Pretta Poder",
-          "url": "https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt"
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
         },
         {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "SoudCrime",
-          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         }
       ],
-      "duration_ms": 153393,
-      "name": "Baby Hair",
-      "url": "https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6"
+      "duration_ms": 132923,
+      "name": "8KG",
+      "url": "https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -955,6 +955,30 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "Baby Hair",
+        "url": "https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo"
+      },
+      "artists": [
+        {
+          "name": "Pretta Poder",
+          "url": "https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt"
+        },
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        },
+        {
+          "name": "SoudCrime",
+          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
+        }
+      ],
+      "duration_ms": 153393,
+      "name": "Baby Hair",
+      "url": "https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "bonita e miser\u00e1vel",
         "url": "https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK"
       },
@@ -967,30 +991,6 @@
       "duration_ms": 171601,
       "name": "bonita e miser\u00e1vel",
       "url": "https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "8KG",
-        "url": "https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c"
-      },
-      "artists": [
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "8KG",
-      "url": "https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 166103,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "Droga Pesada (feat. Nairo)",
         "url": "https://open.spotify.com/album/4HvKx6P0xAP9pU12U2a9Xa"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 184615,
       "name": "Droga Pesada (feat. Nairo)",
       "url": "https://open.spotify.com/track/2CpsrN0SS2uMLsxBJLEB5h"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Phone",
-        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 166103,
-      "name": "Phone",
-      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1359,6 +1359,22 @@
       "duration_ms": 226666,
       "name": "VideoChamada (Facetime)",
       "url": "https://open.spotify.com/track/50u790FARiXbpXlDMpf0W0"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 141557,
+      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1483,22 +1499,6 @@
       "duration_ms": 177524,
       "name": "V\u00eanus",
       "url": "https://open.spotify.com/track/0BLl7ykY95c40yMYW5iPjQ"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 141557,
-      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
     },
     {
       "added_at": "2023-10-05 08:00:00",

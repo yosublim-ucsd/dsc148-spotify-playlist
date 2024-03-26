@@ -4,7 +4,7 @@
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-113 songs - 7 hr 11 min
+114 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Año Nuevo](https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Cheo Garcia](https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR) | [Billos Caracas Boys Fin de Año](https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R) | 2:51 | 2023-11-09 |  |
 | [Bomba en Navidad](https://open.spotify.com/track/2kIawdmEzVhR9F0Z8EsOns) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Felices Pascuas](https://open.spotify.com/album/5ZfFl3nLmKSGdN3pKrVBQ6) | 5:06 | 2023-11-09 | 2024-03-10 |
 | [Boquita Sala](https://open.spotify.com/track/2PhDSnvzHU4NKuKTtUD6Ea) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Exitos De Billo's Caracas Boys](https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n) | 2:55 | 2023-12-20 | 2024-01-07 |
+| [Brindo Con El Alma](https://open.spotify.com/track/6xa4suLeeRlNhg4w5oZnpj) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [El Cocha Molina](https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs) | [Diomedes \- 30 Grandes Exitos](https://open.spotify.com/album/2VccvTUqLh6SMYgAHKVMuS) | 3:50 | 2023-12-20 |  |
 | [Buscandote](https://open.spotify.com/track/2FtjaDTZOsJCjFWuNXqJUl) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 4:40 | 2023-12-20 |  |
 | [Caimán Y Gallinazos](https://open.spotify.com/track/45YxbUt9qwYzXZtMg3MrL8) | [Super Combo Los Tropicales](https://open.spotify.com/artist/7413EGw2gPpKWZoC32oQ2D) | [El Arenal](https://open.spotify.com/album/11EOgFqgtSZwStG3ryasgR) | 2:43 | 2023-12-05 | 2024-02-03 |
 | [Cali Ají](https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:36 | 2023-11-09 |  |
@@ -39,8 +40,8 @@
 | [Dele por Ahí](https://open.spotify.com/track/0gGXW7vhc3s5izEm3BkIW8) | [Gildardo Montoya](https://open.spotify.com/artist/3eyhtBUxcN1VopDo3UCUg6) | [Los Tres Parranderos](https://open.spotify.com/album/1bw9yKCDnK9qPEPyLLkzB8) | 3:02 | 2023-12-05 | 2024-01-03 |
 | [El Arruinao](https://open.spotify.com/track/2ECNhpxm22jpykDObxrfe1) | [Gildardo Montoya](https://open.spotify.com/artist/3eyhtBUxcN1VopDo3UCUg6) | [Super Buenonas de Parranda y el Gitano Groserón](https://open.spotify.com/album/2I4PIVfDOl7qTwbAKzEzdl) | 2:42 | 2023-11-09 | 2024-03-16 |
 | [El Ausente](https://open.spotify.com/track/4CO9UNnLewlBcthMau8Ipj) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:26 | 2023-11-09 |  |
-| [El Bailador](https://open.spotify.com/track/3bvQnI2iqaGMjDz7e35Kdv) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Colección de Éxitos \(Vol\. 1\)](https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP) | 2:54 | 2023-11-09 |  |
-| [El Forastero](https://open.spotify.com/track/1cMqeDFxoS32WAGNtfg9di) | [Nelson Y Sus Estrellas](https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi) | [Orquídea de Plata](https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn) | 2:59 | 2023-11-09 |  |
+| [El Bailador](https://open.spotify.com/track/3bvQnI2iqaGMjDz7e35Kdv) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Colección de Éxitos \(Vol\. 1\)](https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP) | 2:54 | 2023-11-09 | 2024-03-26 |
+| [El Forastero](https://open.spotify.com/track/1cMqeDFxoS32WAGNtfg9di) | [Nelson Y Sus Estrellas](https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi) | [Orquídea de Plata](https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn) | 2:59 | 2023-11-09 | 2024-03-26 |
 | [El Hijo Ausente](https://open.spotify.com/track/0MylXcqKagwOrtMNQDyj1B) | [Pastor Lopez Y Su Combo](https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde) | [16 Exitos, Vol\. 1](https://open.spotify.com/album/70JxU1qy1jYkh6EfSFDOv1) | 2:53 | 2023-12-05 | 2024-03-22 |
 | [El Hijo de Tuta](https://open.spotify.com/track/3Af1yB8FrreRZsWddbJ3me) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [63 Años de Vida Artística](https://open.spotify.com/album/2mTUZfmlvLfB9T04w1Z3F5) | 4:00 | 2023-11-09 |  |
 | [El Loco y La Luna](https://open.spotify.com/track/30SYpouR2GJJvtY3gjFz7V) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:51 | 2023-12-20 |  |
@@ -109,7 +110,7 @@
 | [Sobre las Olas](https://open.spotify.com/track/2ldG5rONyzUeVGIjzqbHOI) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Joseíto Martínez](https://open.spotify.com/artist/2tw2BrnDHhErZuk7ePrZcC) | [¡Para Bailar!](https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs) | 3:24 | 2023-11-09 |  |
 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 | 2023-11-09 |  |
 | [Solo Un Cigarrillo](https://open.spotify.com/track/4LhVMfmZ5OQq1dUP778MCq) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 2:48 | 2023-12-05 | 2024-01-30 |
-| [Sorbito De Champagne](https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:31 | 2023-11-09 | 2024-03-12 |
+| [Sorbito De Champagne](https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:31 | 2023-11-09 |  |
 | [Suavemente](https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:27 | 2023-11-09 | 2023-12-14 |
 | [Sólo Para Ti](https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:48 | 2023-11-09 |  |
 | [Tan bella y tan presumida](https://open.spotify.com/track/1iD7PGq7tgAg2SBPDj1E53) | [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Los Mejores, Los Hispanos, Los Graduados](https://open.spotify.com/album/1IBR0Tmgw4urAXuE32Sd0z) | 2:34 | 2023-12-05 | 2024-01-18 |

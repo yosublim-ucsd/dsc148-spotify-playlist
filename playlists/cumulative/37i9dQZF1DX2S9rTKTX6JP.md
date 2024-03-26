@@ -4,7 +4,7 @@
 
 > killer rock & alternative covers\. Cover: Paramore
 
-339 songs - 21 hr 57 min
+340 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Dancing On My Own](https://open.spotify.com/track/23WqyY1EGAKBG8Wms2bFp2) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Dancing On My Own](https://open.spotify.com/album/7gEOv7G4cnqH0FJ0iucRoN) | 3:17 | 2022-03-25 | 2022-04-20 |
 | [Dancing on My Own](https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Dancing on My Own](https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa) | 3:29 | 2023-03-24 |  |
 | [Dancing With Myself](https://open.spotify.com/track/19X7O2SlQNMkiJEjVYN6ts) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Loose Change \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7opMW41JT9bEA2cqXTnjTb) | 2:56 | 2020-12-16 | 2022-07-29 |
+| [Dancing with Myself](https://open.spotify.com/track/4y2qF52ShKI6w3pxnwt3wl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Loose Change Soundtrack](https://open.spotify.com/album/3wSx4x8n54325HUFl1QRtL) | 2:56 | 2024-02-12 |  |
 | [DAUGHTER](https://open.spotify.com/track/4Ql0ZO2DCvJjl7oeIjpOFc) | [Nancy Wilson](https://open.spotify.com/artist/5gnpB90GzUR1gXpse5Kl4R) | [YOU AND ME](https://open.spotify.com/album/7FZWS8iI3l3KZnGYLHDgWJ) | 3:39 | 2022-03-25 | 2022-04-19 |
 | [DJ Got Us Fallin in Love](https://open.spotify.com/track/5QOWi9IVukyO3DGOIBM5To) | [Her Bright Skies](https://open.spotify.com/artist/2bbUP7SmbTeujkLaOa6IGI) | [DJ Got Us Fallin in Love](https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL) | 3:35 | 2022-03-25 |  |
 | [Do I Wanna Know?](https://open.spotify.com/track/1afgz0OP2iXavyDztmH3Xc) | [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm) | [Do I Wanna Know?](https://open.spotify.com/album/2KxUojrOKUlEs1fegmMTFL) | 3:41 | 2022-03-25 | 2022-04-21 |
@@ -234,7 +235,7 @@
 | [Pony](https://open.spotify.com/track/108U9FAOtfHOAIGdHG12Fc) | [Far](https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt) | [At Night We Live](https://open.spotify.com/album/1hHLV0qtV4X9O1iAoVQP3i) | 4:22 | 2022-06-17 |  |
 | [Pony](https://open.spotify.com/track/2tqfby2Fedl25lsJN7mRjV) | [Far](https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt) | [At Night We Live](https://open.spotify.com/album/4LIfgVdwEdyK0O8nyX0CgD) | 4:22 | 2022-03-25 | 2022-04-19 |
 | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/track/5ppPV0hCtwt5TMTKF1xY57) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs), [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy), [Matthew Caws](https://open.spotify.com/artist/2euOhDrnToDMpxBiCPf72Z) | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/album/7nvPKeZxfHFgbKTrRWqvCo) | 3:26 | 2021-12-17 | 2022-04-17 |
-| [PSYCHO KILLER \(featuring Victoria De Angelis\)](https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [DANSE MACABRE](https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif) | 4:25 | 2023-10-27 |  |
+| [PSYCHO KILLER \(featuring Victoria De Angelis\)](https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [DANSE MACABRE](https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif) | 4:25 | 2023-10-27 | 2024-03-26 |
 | [Radioactive](https://open.spotify.com/track/2okeBtFNVJ4n33NEV1RxBm) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity \(Deluxe Edition\)](https://open.spotify.com/album/2beLSssJ0YzmRbExW9IreE) | 3:13 | 2020-12-16 | 2023-05-04 |
 | [Radioactive](https://open.spotify.com/track/41m0IIkRmasSewpmbQs9L0) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity \(Deluxe Edition\)](https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB) | 3:13 | 2023-04-07 |  |
 | [Ramble On](https://open.spotify.com/track/0OQLMQBKeaFuA2PJRdMuik) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Ramble On](https://open.spotify.com/album/6wFpk4lFTAhrmfkvZxf6Gg) | 4:22 | 2020-12-16 | 2022-07-29 |

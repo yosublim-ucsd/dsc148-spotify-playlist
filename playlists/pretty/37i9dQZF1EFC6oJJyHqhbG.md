@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,173 likes - 121 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,172 likes - 121 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 77 | [Easy](https://open.spotify.com/track/0HueVzDTD7sTvE7w4S4DZ1) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic](https://open.spotify.com/album/5dCc6pEo27JNfXbnDcwwf8) | 3:51 |
 | 78 | [California Winter](https://open.spotify.com/track/2akuQ9Xn81ItF0WmkdH1TJ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [California Winter](https://open.spotify.com/album/4DJNjsg51k5nCZN4vQNfOV) | 4:05 |
 | 79 | [Thorns \- Le Youth Remix](https://open.spotify.com/track/4HjsqdrnECxrXpbn4Zh0SD) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Thorns \(Le Youth Remix\)](https://open.spotify.com/album/1fqUEBjfJ12J4lZqWrSyxo) | 3:55 |
-| 80 | [Guyliner, Pt\. 2](https://open.spotify.com/track/2kALtFWOzG7iHhm8EQmLmD) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant \(Deluxe\)](https://open.spotify.com/album/1NcvdqVDbyvZFaZW0cptZe) | 2:45 |
-| 81 | [Wasted Youth](https://open.spotify.com/track/6u2GjEYlRJ1INFD11twSFh) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic](https://open.spotify.com/album/5dCc6pEo27JNfXbnDcwwf8) | 4:09 |
-| 82 | [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 |
+| 80 | [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 |
+| 81 | [Guyliner, Pt\. 2](https://open.spotify.com/track/2kALtFWOzG7iHhm8EQmLmD) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant \(Deluxe\)](https://open.spotify.com/album/1NcvdqVDbyvZFaZW0cptZe) | 2:45 |
+| 82 | [Wasted Youth](https://open.spotify.com/track/6u2GjEYlRJ1INFD11twSFh) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic](https://open.spotify.com/album/5dCc6pEo27JNfXbnDcwwf8) | 4:09 |
 | 83 | [I Don't Have to Sleep to Dream](https://open.spotify.com/track/1kxuKjRiXHCGQRj4AeN3ul) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Closer to the Truth \(Deluxe Edition\)](https://open.spotify.com/album/2nlX67uuNKD2avQ17vItT9) | 4:41 |
 | 84 | [Fast Forward](https://open.spotify.com/track/41hmP8GemZuIKrNJybwXe0) | [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [Light Years Away](https://open.spotify.com/album/6F9PZFOFx4YIgF51dXNnw0) | 4:44 |
 | 85 | [Hot City](https://open.spotify.com/track/66xUkAhfgsvwPxG6t0pLGX) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/18Ufdr767Mvd8Vs6YcDn2a) | 3:41 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 120 | [Bad Witches](https://open.spotify.com/track/5v1PfygiFLtzkzzDxRUgm0) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 2:49 |
 | 121 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 
-Snapshot ID: `Mjg1MjIyMjAsMDAwMDAwMDAzYzNiNThkYWE0NTNiNTM1NDNhOGE1MjJhMjE2OWNkZQ==`
+Snapshot ID: `Mjg1MjM2NjAsMDAwMDAwMDBmMzk3OTgzZmQ4YzJmYzExMmE4YTJiNzFkYzYwMzAwZg==`

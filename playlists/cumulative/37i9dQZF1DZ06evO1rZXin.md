@@ -4,7 +4,7 @@
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-75 songs - 3 hr 40 min
+76 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Donde Andara](https://open.spotify.com/track/0AyrlaMKDLV7fA2w6vhA15) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 2:08 | 2022-06-01 | 2023-06-09 |
 | [El Amante Apasionado](https://open.spotify.com/track/43yeCckECVY2axQt9qhaKq) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:38 | 2022-09-08 | 2022-09-10 |
 | [El Botecito](https://open.spotify.com/track/1Tmtcb57PhTfpsxEPCREXT) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:43 | 2022-06-01 |  |
-| [El De La Quebradita](https://open.spotify.com/track/0gepkxfyt2butMir2ZRdGl) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 2:37 | 2022-06-01 |  |
+| [El De La Quebradita](https://open.spotify.com/track/2WNk8DyPt90Qki3j1ZJGhH) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/4U7i6KlRF6QwJlW3I9v6uT) | 2:36 | 2024-03-25 |  |
+| [El De La Quebradita](https://open.spotify.com/track/0gepkxfyt2butMir2ZRdGl) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 2:37 | 2022-06-01 | 2024-03-26 |
 | [El Farolito](https://open.spotify.com/track/2YKyj18wo1O8WOZVOs1PJ6) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y) | 3:01 | 2023-03-20 |  |
 | [El Farolito](https://open.spotify.com/track/6tgo5wDSNaVuqbCboIrCRb) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 3:04 | 2022-06-01 | 2023-03-21 |
 | [El Hombliguito](https://open.spotify.com/track/3zGRGy0Db4640OrA0zRg6i) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 2:57 | 2022-06-01 | 2023-06-09 |

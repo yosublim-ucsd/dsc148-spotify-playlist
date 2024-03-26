@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,258 likes - 156 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,259 likes - 156 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 49 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
 | 50 | [The Other Side \(Alessia Cara Version\)](https://open.spotify.com/track/5stBjr01wRUJa6BGqkxPD7) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Other Side \(Alessia Cara Version\)](https://open.spotify.com/album/0xK3vVeEMBZCn0CVTTaYL9) | 3:19 |
 | 51 | [Unlonely](https://open.spotify.com/track/7Igc6JB0xPDcn5yRkkVGQX) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Know.](https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm) | 3:51 |
-| 52 | [Should've Been Me](https://open.spotify.com/track/27Bm0wnZk7NGFGYoTuYM8Y) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Should've Been Me](https://open.spotify.com/album/14knqLZ1yBtkXtGRXgFgYp) | 4:04 |
-| 53 | [Watch Me Work](https://open.spotify.com/track/0ukPlkEhhWPQWKq5b2awnn) | [Andrew Rannells](https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b), [Brianna Mazzola](https://open.spotify.com/artist/5LZ6g1nJq6l1uN39CTjzmG) | [TROLLS Band Together \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs) | 2:30 |
+| 52 | [Watch Me Work](https://open.spotify.com/track/0ukPlkEhhWPQWKq5b2awnn) | [Andrew Rannells](https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b), [Brianna Mazzola](https://open.spotify.com/artist/5LZ6g1nJq6l1uN39CTjzmG) | [TROLLS Band Together \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs) | 2:30 |
+| 53 | [Should've Been Me](https://open.spotify.com/track/27Bm0wnZk7NGFGYoTuYM8Y) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Should've Been Me](https://open.spotify.com/album/14knqLZ1yBtkXtGRXgFgYp) | 4:04 |
 | 54 | [Drop In the Ocean \(feat\. AronChupa\)](https://open.spotify.com/track/07idyjb93qYavu1s29HtBi) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 2:57 |
 | 55 | [Safety Pin](https://open.spotify.com/track/5leyWMqJqUXT7wc70koshC) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Sounds Good Feels Good \(Deluxe\)](https://open.spotify.com/album/43v9cUsP5K0hvu9iyuAzmZ) | 3:29 |
 | 56 | [Riptide](https://open.spotify.com/track/7dTd00X8Mc5iErfQQyBA6B) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 2:51 |
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 132 | [Gasoline](https://open.spotify.com/track/070w1ad1BKWGBsXGJ4qp8k) | [Karmin](https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG) | [Pulses](https://open.spotify.com/album/2UvU0egYoXsysWkHqQy4Lc) | 3:38 |
 | 133 | [Lighter](https://open.spotify.com/track/1LnwJge8GNIzcQNqcVOB85) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [HiROQUEST 2: Double Helix](https://open.spotify.com/album/4pkSnhESY9LSZUk1n0pLTT) | 2:46 |
 | 134 | [Cozy](https://open.spotify.com/track/6c4RrBGXMbzuhj8XwzzWWW) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Cozy](https://open.spotify.com/album/4UMAPxQmkZDLjJYl3tyHu7) | 2:25 |
-| 135 | [Turnham Green](https://open.spotify.com/track/5e5MqxL2TTurVduNLQVaSO) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 3:45 |
-| 136 | [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 |
+| 135 | [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 |
+| 136 | [Turnham Green](https://open.spotify.com/track/5e5MqxL2TTurVduNLQVaSO) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 3:45 |
 | 137 | [Mistake Like You](https://open.spotify.com/track/53lLOdZjoiUZALcgiAIREE) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 3:30 |
 | 138 | [Just You, Not Now \(Love Theme\)](https://open.spotify.com/track/5Zs9RUmMV7H8VSowoKV6Uu) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [The Get Down: Original Soundtrack From The Netflix Original Series \(Deluxe Version\)](https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P) | 4:25 |
 | 139 | [Circles](https://open.spotify.com/track/0aCYLOpEoSmdEBoKrNCuVd) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Girl Problems](https://open.spotify.com/album/4HUIhXljD7mEOJDEn9ytCC) | 3:41 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 155 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 156 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `Mjg1MjIyMTAsMDAwMDAwMDA1MGUxNWU2Mjk1ZWVmOGUzYmFhZTYxMDRiOTQ1MmE3OA==`
+Snapshot ID: `Mjg1MjM2NTAsMDAwMDAwMDBjMjMyYWViOTZlMjM5ZDY4N2U1ZmUwZWFhOGFjMGU1MA==`

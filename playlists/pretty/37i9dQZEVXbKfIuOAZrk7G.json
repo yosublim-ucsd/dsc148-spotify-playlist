@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - Canada.",
-  "num_followers": 55453,
+  "num_followers": 55457,
   "original_name": "Viral 50 - Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzY0NjQ0ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzY0NzMxMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
+      "album": {
+        "name": "What I Want",
+        "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
+      },
+      "artists": [
+        {
+          "name": "Gregor McMurray",
+          "url": "https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt"
+    },
+    {
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "three twenty four",
         "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
@@ -25,7 +41,23 @@
       "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
+      "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
+    },
+    {
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "She Know What She Wanted (Jersey Club Remix Slowed)",
         "url": "https://open.spotify.com/album/3ZdBBKZ7ExFWy1SsXTybEb"
@@ -45,7 +77,7 @@
       "url": "https://open.spotify.com/track/4ZTYSM6nsWjVAqf9BOY7qU"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -61,7 +93,7 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "Carnival x Fein",
         "url": "https://open.spotify.com/album/1YCnrW19PcbQ6hMrkXwi01"
@@ -81,7 +113,7 @@
       "url": "https://open.spotify.com/track/6ebisdLbW0S0nFTxY0LO0X"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "Leaving the Lot",
         "url": "https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja"
@@ -97,7 +129,7 @@
       "url": "https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "Wine Into Whiskey",
         "url": "https://open.spotify.com/album/62gi4vmy1oTqnUxs0z4Vma"
@@ -113,7 +145,7 @@
       "url": "https://open.spotify.com/track/2DVHIJA2bLas9cGLmHmUsY"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "Tshwala Bam (feat. S.N.E, EeQue)",
         "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
@@ -141,39 +173,7 @@
       "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
-      "album": {
-        "name": "MC NATION",
-        "url": "https://open.spotify.com/album/147OAO3FVG8epxoE10Gw0N"
-      },
-      "artists": [
-        {
-          "name": "MC BXB",
-          "url": "https://open.spotify.com/artist/0OWToUlGPyXUSAcrCZxu3g"
-        }
-      ],
-      "duration_ms": 159023,
-      "name": "F.Y.B.F - GOODIES REMIX",
-      "url": "https://open.spotify.com/track/5jxKwvCzOxhctiYXgUmjcn"
-    },
-    {
-      "added_at": "2024-03-24 14:33:30",
-      "album": {
-        "name": "Heather",
-        "url": "https://open.spotify.com/album/6Haj6AiKuqOur3tPb4PmGV"
-      },
-      "artists": [
-        {
-          "name": "overthxnk",
-          "url": "https://open.spotify.com/artist/2wMrMnimoHzZoZ5e0BCrZ3"
-        }
-      ],
-      "duration_ms": 115422,
-      "name": "Heather",
-      "url": "https://open.spotify.com/track/7srgKFmzrRTvvV2qNoqVT1"
-    },
-    {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "Belong Together",
         "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -205,39 +205,23 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
-        "name": "Tell Me Ma",
-        "url": "https://open.spotify.com/album/6vFdEOGr37S7fYj9L0IZRD"
+        "name": "someday i'll get it",
+        "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
       },
       "artists": [
         {
-          "name": "Sham Rock",
-          "url": "https://open.spotify.com/artist/3btIWfhXaf5db1gpLbXuB3"
+          "name": "Alek Olsen",
+          "url": "https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8"
         }
       ],
-      "duration_ms": 234240,
-      "name": "Tell Me Ma",
-      "url": "https://open.spotify.com/track/7BZOYDhoCAR2AkvGBrj6vw"
+      "duration_ms": 94750,
+      "name": "someday i'll get it",
+      "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
-      "album": {
-        "name": "Intergalactic Janet",
-        "url": "https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj"
-      },
-      "artists": [
-        {
-          "name": "Ley Soul",
-          "url": "https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ"
-        }
-      ],
-      "duration_ms": 160440,
-      "name": "Intergalactic Janet",
-      "url": "https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87"
-    },
-    {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -257,23 +241,23 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
-        "name": "someday i'll get it",
-        "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
+        "name": "Intergalactic Janet",
+        "url": "https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj"
       },
       "artists": [
         {
-          "name": "Alek Olsen",
-          "url": "https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8"
+          "name": "Ley Soul",
+          "url": "https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ"
         }
       ],
-      "duration_ms": 94750,
-      "name": "someday i'll get it",
-      "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
+      "duration_ms": 160440,
+      "name": "Intergalactic Janet",
+      "url": "https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "Little Bit Better",
         "url": "https://open.spotify.com/album/4cJHTRsxDkQpMPnLwFcgkV"
@@ -293,23 +277,7 @@
       "url": "https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
-      "album": {
-        "name": "Blue Over You",
-        "url": "https://open.spotify.com/album/1DAz6NgojMSptSktSRV8oA"
-      },
-      "artists": [
-        {
-          "name": "Mason Ramsey",
-          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
-        }
-      ],
-      "duration_ms": 245511,
-      "name": "Blue Over You",
-      "url": "https://open.spotify.com/track/6ymafuSC9VWoGRPquZkQKV"
-    },
-    {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6...",
         "url": "https://open.spotify.com/album/3joHEvqURxvBwrT5JZS3Sn"
@@ -325,7 +293,23 @@
       "url": "https://open.spotify.com/track/4hjRjhLvBIMUUhRjb7DACd"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
+      "album": {
+        "name": "Blue Over You",
+        "url": "https://open.spotify.com/album/1DAz6NgojMSptSktSRV8oA"
+      },
+      "artists": [
+        {
+          "name": "Mason Ramsey",
+          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
+        }
+      ],
+      "duration_ms": 245511,
+      "name": "Blue Over You",
+      "url": "https://open.spotify.com/track/6ymafuSC9VWoGRPquZkQKV"
+    },
+    {
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "Whatever She Wants",
         "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
@@ -341,23 +325,23 @@
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
-        "name": "Irish Pub Song",
-        "url": "https://open.spotify.com/album/5QTxZhvepeEKUMVdKlT0M8"
+        "name": "dans tes bras II (Lady Killers II)",
+        "url": "https://open.spotify.com/album/2QnJ9NX757hPrTwmfu3TxH"
       },
       "artists": [
         {
-          "name": "The High Kings",
-          "url": "https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0"
+          "name": "kobzx2z",
+          "url": "https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3"
         }
       ],
-      "duration_ms": 180123,
-      "name": "Irish Pub Song",
-      "url": "https://open.spotify.com/track/6zX3HwSuoQThrabeoHJvCs"
+      "duration_ms": 171124,
+      "name": "dans tes bras II (Lady Killers II)",
+      "url": "https://open.spotify.com/track/7oXkxS9f50ZKBQvzftseXE"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "Sadqay",
         "url": "https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD"
@@ -381,7 +365,7 @@
       "url": "https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "MONEY! (Money Money, Green Green)",
         "url": "https://open.spotify.com/album/2RVKC6Ji7sQfRb4iMCu8gX"
@@ -397,39 +381,7 @@
       "url": "https://open.spotify.com/track/40MPZ79Nb7wBZqA9PzLVy0"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
-      "album": {
-        "name": "Yeah Glo! (Alternate Versions)",
-        "url": "https://open.spotify.com/album/71b560lfhaeBlp4URJHAzx"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 142702,
-      "name": "Yeah Glo!",
-      "url": "https://open.spotify.com/track/0rxSRS0Cpw0Hxi7zLNudhm"
-    },
-    {
-      "added_at": "2024-03-24 14:33:30",
-      "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
-    },
-    {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "UP!",
         "url": "https://open.spotify.com/album/2WoIZTbS7s8uNtRf9G6QOP"
@@ -449,39 +401,7 @@
       "url": "https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
-      "album": {
-        "name": "FLORIDA BABY",
-        "url": "https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        }
-      ],
-      "duration_ms": 140606,
-      "name": "FLORIDA BABY",
-      "url": "https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm"
-    },
-    {
-      "added_at": "2024-03-24 14:33:30",
-      "album": {
-        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
-        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 186341,
-      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
-      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
-    },
-    {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
@@ -497,7 +417,87 @@
       "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
+      "album": {
+        "name": "Heather",
+        "url": "https://open.spotify.com/album/6Haj6AiKuqOur3tPb4PmGV"
+      },
+      "artists": [
+        {
+          "name": "overthxnk",
+          "url": "https://open.spotify.com/artist/2wMrMnimoHzZoZ5e0BCrZ3"
+        }
+      ],
+      "duration_ms": 115422,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/7srgKFmzrRTvvV2qNoqVT1"
+    },
+    {
+      "added_at": "2024-03-25 16:28:47",
+      "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "added_at": "2024-03-25 16:28:47",
+      "album": {
+        "name": "Yeah Glo! (Alternate Versions)",
+        "url": "https://open.spotify.com/album/71b560lfhaeBlp4URJHAzx"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 142702,
+      "name": "Yeah Glo!",
+      "url": "https://open.spotify.com/track/0rxSRS0Cpw0Hxi7zLNudhm"
+    },
+    {
+      "added_at": "2024-03-25 16:28:47",
+      "album": {
+        "name": "FLORIDA BABY",
+        "url": "https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 140606,
+      "name": "FLORIDA BABY",
+      "url": "https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm"
+    },
+    {
+      "added_at": "2024-03-25 16:28:47",
+      "album": {
+        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
+        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 186341,
+      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
+      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
+    },
+    {
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
@@ -529,23 +529,7 @@
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
-      "album": {
-        "name": "Bling-Bang-Bang-Born",
-        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
-      },
-      "artists": [
-        {
-          "name": "Creepy Nuts",
-          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
-        }
-      ],
-      "duration_ms": 168135,
-      "name": "Bling-Bang-Bang-Born",
-      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
-    },
-    {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "Texas Technician",
         "url": "https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR"
@@ -565,7 +549,23 @@
       "url": "https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/2ARRwv2jmRXKT4f994VsxV"
+      },
+      "artists": [
+        {
+          "name": "Jack Kittel",
+          "url": "https://open.spotify.com/artist/5cXJERCnv50nZBXCk8Zq9X"
+        }
+      ],
+      "duration_ms": 223344,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/7Ic12BgSrOcE8TNiyBMDV7"
+    },
+    {
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -581,7 +581,23 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
+      "album": {
+        "name": "Bling-Bang-Bang-Born",
+        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "duration_ms": 168135,
+      "name": "Bling-Bang-Bang-Born",
+      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
+    },
+    {
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "Praise Jah In The Moonlight",
         "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "VOL. 1",
         "url": "https://open.spotify.com/album/3R0aymNlz4UIHimcaw0T0i"
@@ -613,7 +629,39 @@
       "url": "https://open.spotify.com/track/0c683aCGn2mXMU1I9Js449"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
+      "album": {
+        "name": "Who Do I Call Now? (Hellbent)",
+        "url": "https://open.spotify.com/album/1Wg1RWT3tsei388hlJUUEG"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "duration_ms": 190750,
+      "name": "Who Do I Call Now? (Hellbent)",
+      "url": "https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7"
+    },
+    {
+      "added_at": "2024-03-25 16:28:47",
+      "album": {
+        "name": "Faster n Harder",
+        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Faster n Harder",
+      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
+    },
+    {
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "Disco Cone (Take It High) [ft. WENZL]",
         "url": "https://open.spotify.com/album/60S00zDlfsP8UPGjMmTSH2"
@@ -633,27 +681,7 @@
       "url": "https://open.spotify.com/track/59IA01UnxFiJhxWXpG24mM"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
-      "album": {
-        "name": "The Diamond Mountain Sessions",
-        "url": "https://open.spotify.com/album/0TlKDECAhgxns4WLP9uAly"
-      },
-      "artists": [
-        {
-          "name": "Sharon Shannon",
-          "url": "https://open.spotify.com/artist/6gABJRqeRV4XW6T8vP9QEn"
-        },
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "The Galway Girl",
-      "url": "https://open.spotify.com/track/1i92xro4lPLyjiOd3y2aqA"
-    },
-    {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "Circus Psycho",
         "url": "https://open.spotify.com/album/0C0Wp17Buq8ibnTVAHLvWP"
@@ -669,7 +697,7 @@
       "url": "https://open.spotify.com/track/7iX1CIwNgmqs2eMP7xLcB5"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "act iii: on god? (she like)",
         "url": "https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb"
@@ -685,7 +713,7 @@
       "url": "https://open.spotify.com/track/30uO152on2tYWoE99VaEL5"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "GOOD DAY",
         "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
@@ -701,55 +729,23 @@
       "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
-        "name": "Faster n Harder",
-        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
       "artists": [
         {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 123428,
-      "name": "Faster n Harder",
-      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
+      "duration_ms": 192720,
+      "name": "Red Wine Supernova",
+      "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
-      "album": {
-        "name": "Who Do I Call Now? (Hellbent)",
-        "url": "https://open.spotify.com/album/1Wg1RWT3tsei388hlJUUEG"
-      },
-      "artists": [
-        {
-          "name": "Sofia Camara",
-          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
-        }
-      ],
-      "duration_ms": 190750,
-      "name": "Who Do I Call Now? (Hellbent)",
-      "url": "https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7"
-    },
-    {
-      "added_at": "2024-03-24 14:33:30",
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
-    },
-    {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "Smart (Remixes)",
         "url": "https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh"
@@ -765,39 +761,7 @@
       "url": "https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
-      "album": {
-        "name": "A Hometown Odyssey",
-        "url": "https://open.spotify.com/album/5uKhWGoRFaENvmmdmCN99K"
-      },
-      "artists": [
-        {
-          "name": "Livingston",
-          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
-        }
-      ],
-      "duration_ms": 183021,
-      "name": "Last Man Standing",
-      "url": "https://open.spotify.com/track/1ZZGkKS8MPMIlYQzQA92Va"
-    },
-    {
-      "added_at": "2024-03-24 14:33:30",
-      "album": {
-        "name": "Before You Leave Me",
-        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 176178,
-      "name": "Before You Leave Me",
-      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
-    },
-    {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "Made For Me",
         "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
@@ -813,7 +777,87 @@
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
-      "added_at": "2024-03-24 14:33:30",
+      "added_at": "2024-03-25 16:28:47",
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2024-03-25 16:28:47",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
+    },
+    {
+      "added_at": "2024-03-25 16:28:47",
+      "album": {
+        "name": "Half of forever",
+        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Half of forever",
+      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
+    },
+    {
+      "added_at": "2024-03-25 16:28:47",
+      "album": {
+        "name": "Before You Leave Me",
+        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 176178,
+      "name": "Before You Leave Me",
+      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
+    },
+    {
+      "added_at": "2024-03-25 16:28:47",
+      "album": {
+        "name": "A Hometown Odyssey",
+        "url": "https://open.spotify.com/album/5uKhWGoRFaENvmmdmCN99K"
+      },
+      "artists": [
+        {
+          "name": "Livingston",
+          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+        }
+      ],
+      "duration_ms": 183021,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/1ZZGkKS8MPMIlYQzQA92Va"
+    },
+    {
+      "added_at": "2024-03-25 16:28:47",
       "album": {
         "name": "I\u2019d Rather Overdose",
         "url": "https://open.spotify.com/album/11ZfrqRpeCnGBAbJ8e50kH"
@@ -831,38 +875,6 @@
       "duration_ms": 235885,
       "name": "I\u2019d Rather Overdose",
       "url": "https://open.spotify.com/track/17UNijHcIMuz5ik2UKeCjK"
-    },
-    {
-      "added_at": "2024-03-24 14:33:30",
-      "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
-    },
-    {
-      "added_at": "2024-03-24 14:33:30",
-      "album": {
-        "name": "The Bottom 2",
-        "url": "https://open.spotify.com/album/2yRssSNZhlrDbmk5sgTCAM"
-      },
-      "artists": [
-        {
-          "name": "Glorb",
-          "url": "https://open.spotify.com/artist/6YeB9qnbI47owfAXWhctih"
-        }
-      ],
-      "duration_ms": 164903,
-      "name": "The Bottom 2",
-      "url": "https://open.spotify.com/track/5fqaeJMmqwhDzdYD7b4J51"
     }
   ],
   "unique_name": "Viral 50 - Canada",

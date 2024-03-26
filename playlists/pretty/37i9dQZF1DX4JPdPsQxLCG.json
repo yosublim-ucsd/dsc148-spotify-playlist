@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road. ",
-  "num_followers": 82311,
+  "num_followers": 82394,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmY0YWZiZjQ1OWUyZTU1NjQyN2Y3MzczOTk3MDJiNDBlZDE0ZTMz",
+  "snapshot_id": "MCwxMjFkYzM5MmQwNDcxMWVhNTMxZTdhOGEwM2ZhMGM2YjgwNWY4MDQ4",
   "tracks": [
     {
       "added_at": "2024-03-22 04:01:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "All The Right Reasons (15th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/3MNvfg19MJsXCQ0I3WVdkm"
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 255493,
-      "name": "Rockstar - 2020 Remaster",
-      "url": "https://open.spotify.com/track/05tlUh0E6IFks9sCQguQKN"
+      "duration_ms": 246760,
+      "name": "Any Man Of Mine",
+      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+        "name": "All The Right Reasons (15th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/3MNvfg19MJsXCQ0I3WVdkm"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 246760,
-      "name": "Any Man Of Mine",
-      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
+      "duration_ms": 255493,
+      "name": "Rockstar - 2020 Remaster",
+      "url": "https://open.spotify.com/track/05tlUh0E6IFks9sCQguQKN"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Single Again",
-        "url": "https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P"
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
         }
       ],
-      "duration_ms": 179050,
-      "name": "Single Again",
-      "url": "https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc"
+      "duration_ms": 212893,
+      "name": "Born To Be Wild - Single Version",
+      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Single Again",
+        "url": "https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 179050,
+      "name": "Single Again",
+      "url": "https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "Blame Brett",
         "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 176005,
       "name": "Blame Brett",
       "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Born To Be Wild - Single Version",
-      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "On A Different Night",
-        "url": "https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 189277,
-      "name": "On A Different Night",
-      "url": "https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Up To Here",
         "url": "https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "On A Different Night",
+        "url": "https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 189277,
+      "name": "On A Different Night",
+      "url": "https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "Cuts Like A Knife",
         "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
       },
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Phantom Power",
+        "url": "https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 295357,
+      "name": "Bobcaygeon",
+      "url": "https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "Born on a Pirate Ship (Enhanced Edition)",
         "url": "https://open.spotify.com/album/0ZhGG0DUBuvVNyICBnHlpZ"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 200251,
       "name": "Sweet Sublime",
       "url": "https://open.spotify.com/track/7hUnSCUQDknVpKAnnhejlP"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Phantom Power",
-        "url": "https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 295357,
-      "name": "Bobcaygeon",
-      "url": "https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Five Easy Pieces",
+        "url": "https://open.spotify.com/album/7nTSvte842Pv7j5x5pyyqr"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "I Don't Know - EP Version",
+      "url": "https://open.spotify.com/track/4A4DPAyhXSTzehnBstdAnt"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "TRIPtych",
         "url": "https://open.spotify.com/album/1q1DoRb0McqviO1JCwJ7mQ"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 231640,
       "name": "American Woman - 7\" Single Version",
       "url": "https://open.spotify.com/track/5LPGZnsy07YNxeuTI1X3RT"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Five Easy Pieces",
-        "url": "https://open.spotify.com/album/7nTSvte842Pv7j5x5pyyqr"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "I Don't Know - EP Version",
-      "url": "https://open.spotify.com/track/4A4DPAyhXSTzehnBstdAnt"
     },
     {
       "added_at": "2024-03-22 04:01:00",

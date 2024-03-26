@@ -1,12 +1,12 @@
 {
   "description": "The best indie rock vibes \u2014 classic and current. ",
-  "num_followers": 2007848,
+  "num_followers": 2008060,
   "original_name": "Feel-Good Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDZlOTFjZTZiMThjMTk5ZDdjZDRiN2I1NDQ5NTVkNTA5ZmU4M2Nh",
+  "snapshot_id": "MCwyYjVmMzFmYWU0YWE5N2E1OTk5YmU1YzBkMDkxZWEwNmM1N2EzZjg4",
   "tracks": [
     {
       "added_at": "2024-03-01 20:28:59",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-03-01 20:28:59",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Lisztomania",
-      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
-    },
-    {
-      "added_at": "2024-03-01 20:28:59",
-      "album": {
         "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 152760,
       "name": "Disco",
       "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
+    },
+    {
+      "added_at": "2024-03-01 20:28:59",
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 241640,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
     },
     {
       "added_at": "2024-03-01 20:28:59",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-03-01 20:28:59",
       "album": {
-        "name": "Showtime",
-        "url": "https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 280016,
-      "name": "Showtime",
-      "url": "https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO"
-    },
-    {
-      "added_at": "2024-03-01 20:28:59",
-      "album": {
         "name": "Oh No",
         "url": "https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 158653,
       "name": "Like or Like Like",
       "url": "https://open.spotify.com/track/1OrD9RkuBnoNrrURFap9wi"
+    },
+    {
+      "added_at": "2024-03-01 20:28:59",
+      "album": {
+        "name": "Showtime",
+        "url": "https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 280016,
+      "name": "Showtime",
+      "url": "https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO"
     },
     {
       "added_at": "2024-03-01 20:28:59",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-03-01 20:28:59",
       "album": {
-        "name": "Ceremonials (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 277720,
-      "name": "Shake It Out",
-      "url": "https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir"
-    },
-    {
-      "added_at": "2024-03-01 20:28:59",
-      "album": {
         "name": "Gold Past Life",
         "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 181400,
       "name": "The Bottom of It",
       "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
+    },
+    {
+      "added_at": "2024-03-01 20:28:59",
+      "album": {
+        "name": "Ceremonials (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 277720,
+      "name": "Shake It Out",
+      "url": "https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir"
     },
     {
       "added_at": "2024-03-01 20:28:59",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-03-01 20:28:59",
       "album": {
-        "name": "Absolute Loser",
-        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Humbug Mountain Song",
-      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
-    },
-    {
-      "added_at": "2024-03-01 20:28:59",
-      "album": {
         "name": "From 2 to 3",
         "url": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 257006,
       "name": "Give Up Baby Go",
       "url": "https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy"
+    },
+    {
+      "added_at": "2024-03-01 20:28:59",
+      "album": {
+        "name": "Absolute Loser",
+        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Humbug Mountain Song",
+      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
     },
     {
       "added_at": "2024-03-01 20:28:59",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-03-01 20:28:59",
       "album": {
+        "name": "Sweet FA",
+        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 287080,
+      "name": "Peach Pit",
+      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
+    },
+    {
+      "added_at": "2024-03-01 20:28:59",
+      "album": {
         "name": "Disappear Here",
         "url": "https://open.spotify.com/album/3fSYQvcrQJJhTv9PYYMkY5"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 147893,
       "name": "Head In The Clouds",
       "url": "https://open.spotify.com/track/1fAE0TQ3xblvOgnmM7yL1s"
-    },
-    {
-      "added_at": "2024-03-01 20:28:59",
-      "album": {
-        "name": "Sweet FA",
-        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 287080,
-      "name": "Peach Pit",
-      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
     },
     {
       "added_at": "2024-03-01 20:28:59",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-03-01 20:28:59",
       "album": {
-        "name": "No Place Like Home",
-        "url": "https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 146904,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH"
-    },
-    {
-      "added_at": "2024-03-01 20:28:59",
-      "album": {
         "name": "After Midnight (feat. Clairo)",
         "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 188000,
       "name": "After Midnight (feat. Clairo)",
       "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
+    },
+    {
+      "added_at": "2024-03-01 20:28:59",
+      "album": {
+        "name": "No Place Like Home",
+        "url": "https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 146904,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH"
     },
     {
       "added_at": "2024-03-01 20:28:59",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-03-01 20:28:59",
       "album": {
-        "name": "Summer Break Mixtape",
-        "url": "https://open.spotify.com/album/3Ahz3KpKarLfZAb2bYEe65"
-      },
-      "artists": [
-        {
-          "name": "No Vacation",
-          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
-        }
-      ],
-      "duration_ms": 234606,
-      "name": "Dr\u00e6m Girl",
-      "url": "https://open.spotify.com/track/6lbLn5iL2NBJnbib7bTXMn"
-    },
-    {
-      "added_at": "2024-03-01 20:28:59",
-      "album": {
         "name": "People In Motion",
         "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
       },
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2024-03-01 20:28:59",
       "album": {
+        "name": "Summer Break Mixtape",
+        "url": "https://open.spotify.com/album/3Ahz3KpKarLfZAb2bYEe65"
+      },
+      "artists": [
+        {
+          "name": "No Vacation",
+          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+        }
+      ],
+      "duration_ms": 234606,
+      "name": "Dr\u00e6m Girl",
+      "url": "https://open.spotify.com/track/6lbLn5iL2NBJnbib7bTXMn"
+    },
+    {
+      "added_at": "2024-03-01 20:28:59",
+      "album": {
         "name": "Uncanny Valley",
         "url": "https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6"
       },
@@ -1491,22 +1491,6 @@
       "duration_ms": 184315,
       "name": "Cutie",
       "url": "https://open.spotify.com/track/555poPmhRmQWPsMDGwkifG"
-    },
-    {
-      "added_at": "2024-03-01 20:28:59",
-      "album": {
-        "name": "Next Exit",
-        "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Next Exit",
-      "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
     },
     {
       "added_at": "2024-03-01 20:28:59",
@@ -1543,6 +1527,22 @@
       "duration_ms": 205442,
       "name": "Saturdays (feat. HAIM)",
       "url": "https://open.spotify.com/track/5ClqcvP4dYDDX6Zv3jPQD1"
+    },
+    {
+      "added_at": "2024-03-01 20:28:59",
+      "album": {
+        "name": "Next Exit",
+        "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Next Exit",
+      "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
     },
     {
       "added_at": "2024-03-01 20:28:59",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-03-01 20:28:59",
       "album": {
-        "name": "All We Ever Do Is Talk",
-        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "All We Ever Do Is Talk",
-      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
-    },
-    {
-      "added_at": "2024-03-01 20:28:59",
-      "album": {
         "name": "i haunt ur dreams",
         "url": "https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 216665,
       "name": "i haunt ur dreams",
       "url": "https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW"
+    },
+    {
+      "added_at": "2024-03-01 20:28:59",
+      "album": {
+        "name": "All We Ever Do Is Talk",
+        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "All We Ever Do Is Talk",
+      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
     },
     {
       "added_at": "2024-03-01 20:28:59",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-03-01 20:28:59",
       "album": {
-        "name": "Out Of My League",
-        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 181135,
-      "name": "Out Of My League",
-      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
-    },
-    {
-      "added_at": "2024-03-01 20:28:59",
-      "album": {
         "name": "adios",
         "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 203502,
       "name": "adios",
       "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
+    },
+    {
+      "added_at": "2024-03-01 20:28:59",
+      "album": {
+        "name": "Out Of My League",
+        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 181135,
+      "name": "Out Of My League",
+      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
     },
     {
       "added_at": "2024-03-01 20:28:59",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2024-03-01 20:28:59",
       "album": {
-        "name": "Right Here, For Now",
-        "url": "https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Right Here, for Now",
-      "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
-    },
-    {
-      "added_at": "2024-03-01 20:28:59",
-      "album": {
         "name": "Lemon Tree",
         "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 248560,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
+    },
+    {
+      "added_at": "2024-03-01 20:28:59",
+      "album": {
+        "name": "Right Here, For Now",
+        "url": "https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Right Here, for Now",
+      "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
     },
     {
       "added_at": "2024-03-01 20:28:59",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2024-03-01 20:28:59",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 152993,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
-    },
-    {
-      "added_at": "2024-03-01 20:28:59",
-      "album": {
         "name": "I Don't Want to Talk",
         "url": "https://open.spotify.com/album/29l8Ddx32NKjtpeZic3U1I"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 223533,
       "name": "I Don't Want to Talk",
       "url": "https://open.spotify.com/track/1KO4aiGkvF1eMTBrzL4vAd"
+    },
+    {
+      "added_at": "2024-03-01 20:28:59",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 152993,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
     },
     {
       "added_at": "2024-03-01 20:28:59",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2024-03-01 20:28:59",
       "album": {
-        "name": "Weird",
-        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
-      },
-      "artists": [
-        {
-          "name": "Hana Eid",
-          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
-        }
-      ],
-      "duration_ms": 216234,
-      "name": "Weird",
-      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
-    },
-    {
-      "added_at": "2024-03-01 20:28:59",
-      "album": {
         "name": "I Love My Girl, She's My Boy",
         "url": "https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 174708,
       "name": "Redlight (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/4uTNk3wbViJoxwndrE6wqj"
+    },
+    {
+      "added_at": "2024-03-01 20:28:59",
+      "album": {
+        "name": "Weird",
+        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "duration_ms": 216234,
+      "name": "Weird",
+      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
     },
     {
       "added_at": "2024-03-01 20:28:59",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2024-03-01 20:28:59",
       "album": {
-        "name": "why aren't you laughing?",
-        "url": "https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 253745,
-      "name": "rot in love",
-      "url": "https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe"
-    },
-    {
-      "added_at": "2024-03-01 20:28:59",
-      "album": {
         "name": "Moonshine",
         "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 240000,
       "name": "Moonshine",
       "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
+    },
+    {
+      "added_at": "2024-03-01 20:28:59",
+      "album": {
+        "name": "why aren't you laughing?",
+        "url": "https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 253745,
+      "name": "rot in love",
+      "url": "https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe"
     },
     {
       "added_at": "2024-03-01 20:28:59",

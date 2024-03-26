@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-269 songs - 19 hr 9 min
+270 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,8 @@
 | [With Every Heartbeat](https://open.spotify.com/track/0NEw29HKkDkt1yDyBJOgXe) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc) | [Robyn](https://open.spotify.com/album/3m28E6lKOu3QVtIuIWk6yv) | 4:11 | 2022-02-28 | 2022-07-29 |
 | [With Every Heartbeat](https://open.spotify.com/track/53SqGkNJAYLss9AgbduTqQ) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc) | [Robyn](https://open.spotify.com/album/5xDz5FY3Hsp2skcOP1IUNU) | 4:15 | 2022-02-28 |  |
 | [With Every Heartbeat \- with Kleerup \- Tong and Spoon Wonderland Remix](https://open.spotify.com/track/17FSlwAcuzwITI7cA1w0Lq) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Dave Spoon](https://open.spotify.com/artist/5PzvgD5FRnWpc5fGOLoNVO) | [With Every Heartbeat](https://open.spotify.com/album/1M1NSHGgehqDpF2OZMXLP5) | 7:14 | 2020-03-31 | 2022-03-01 |
-| [World, Hold On](https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [Western Dream](https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq) | 6:41 | 2020-03-31 |  |
+| [World, Hold On](https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [Western Dream](https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq) | 6:41 | 2020-03-31 | 2024-03-26 |
+| [World, Hold On \(Children of the Sky\)](https://open.spotify.com/track/04jZqMtDNKGjIsRdf5vHtK) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [Western Dream](https://open.spotify.com/album/2kscq6zA1a9vFQy8MsWFM0) | 6:41 | 2023-03-22 |  |
 | [You Make Me Feel](https://open.spotify.com/track/5yjKR9RIBWixx9Cjz6FUft) | [AnnaGrace](https://open.spotify.com/artist/1gGy6vCfc2Q2rAe1uhCCIs) | [Ready to Dare](https://open.spotify.com/album/5Qaao9KPcE0dL21razJGx9) | 3:06 | 2022-02-28 |  |
 | [You Make Me Feel \- Radio Edit](https://open.spotify.com/track/55nlD6bpoWk0ZwCnn7PTDt) | [AnnaGrace](https://open.spotify.com/artist/1gGy6vCfc2Q2rAe1uhCCIs) | [You Make Me Feel](https://open.spotify.com/album/5JvyRNLFnLSSubjCLMWkTg) | 3:09 | 2020-03-31 | 2022-07-29 |
 | [You're Not Alone \- Radio Edit](https://open.spotify.com/track/5HPchyFdQZT1cDbdOTdFji) | [Olive](https://open.spotify.com/artist/0r2TmTSwK6XAhAxNxTDOb4), [Black Olive](https://open.spotify.com/artist/4FZW0LqOJ7ZJKdNMrWykO6) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 4:10 | 2023-03-08 |  |

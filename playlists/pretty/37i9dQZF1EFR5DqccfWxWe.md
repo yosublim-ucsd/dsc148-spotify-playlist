@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 123 | [Sin Desesperar](https://open.spotify.com/track/36QnGKXSouI4ZSm3bMqBOV) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 4:02 |
 | 124 | [En El Teatro](https://open.spotify.com/track/2h5lbaq6Ge7rcJGrijc4UU) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 1:48 |
 | 125 | [A Las Puertas De La Iglesia](https://open.spotify.com/track/35Zpm55ZZI8qKdvACIBwBk) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 0:56 |
-| 126 | [Duele](https://open.spotify.com/track/0gHZUccB2wIEYfhHMUl5og) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 3:31 |
-| 127 | [El Viaje](https://open.spotify.com/track/6fWauREw9pqglqdwIXhBcY) | [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [El Viaje](https://open.spotify.com/album/6hQ5cZWCg76ssbeRbmJ9Pf) | 2:12 |
+| 126 | [El Viaje](https://open.spotify.com/track/6fWauREw9pqglqdwIXhBcY) | [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [El Viaje](https://open.spotify.com/album/6hQ5cZWCg76ssbeRbmJ9Pf) | 2:12 |
+| 127 | [Duele](https://open.spotify.com/track/0gHZUccB2wIEYfhHMUl5og) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 3:31 |
 | 128 | [Paris](https://open.spotify.com/track/5JVBQ9jsFf24QXfMfj6DIC) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 1:20 |
 | 129 | [El Mundo](https://open.spotify.com/track/1zJ1IQfeh61HHyXBpdpYie) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 0:36 |
 | 130 | [Encanto Del Caribe \- Live From San Cristobal Castle, Puerto Rico/2011](https://open.spotify.com/track/2x2rUw7tAYyLxBuU8oBCHD) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Encanto Del Caribe Arthur Hanlon & Friends \(Live From San Cristobal Castle, Puerto Rico/2011\)](https://open.spotify.com/album/6N4p9bLZ6AB0Kilc9jZLHk) | 3:54 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 151 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 152 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjg1MjIyMTAsMDAwMDAwMDBjMmY4OTc3M2RjN2VjM2ZmYWRmYjA5NWQxZjVmZDk2MQ==`
+Snapshot ID: `Mjg1MjM2NTAsMDAwMDAwMDBmMDNmN2E1M2FhNjk0NDhkYjU4Y2JmMmFhODAwZTg4ZA==`

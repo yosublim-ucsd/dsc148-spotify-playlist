@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 131787,
+  "num_followers": 131777,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGNmODcyZmNjYWI0YmM1Y2NiZTBjMTQwNmNhMjMwMmUzYTU4ZTAz",
+  "snapshot_id": "MCxiZDQ4MjNlNWFmNjc0YzIxMzdhM2Y0NWExZTI2MzA3YWU0NmJmOGQ1",
   "tracks": [
     {
       "added_at": "2023-11-28 17:00:03",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
+        "name": "Love Is A Compass (Disney supporting Make-A-Wish)",
+        "url": "https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 181469,
+      "name": "Love Is A Compass - Disney supporting Make-A-Wish",
+      "url": "https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
         "name": "Wonder (Deluxe)",
         "url": "https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe"
       },
@@ -679,18 +695,22 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "Love Is A Compass (Disney supporting Make-A-Wish)",
-        "url": "https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9"
+        "name": "Christmas Greetings",
+        "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
         }
       ],
-      "duration_ms": 181469,
-      "name": "Love Is A Compass - Disney supporting Make-A-Wish",
-      "url": "https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi"
+      "duration_ms": 183412,
+      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+      "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -775,26 +795,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "Christmas Greetings",
-        "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        }
-      ],
-      "duration_ms": 183412,
-      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
-      "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/2EmP2o5bOPTUAGCEacdDxB"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 172266,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3eNRpOVS82tR5p9KWxzoHF"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
-        "name": "Night Before Christmas",
-        "url": "https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 216220,
-      "name": "Night Before Christmas",
-      "url": "https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -855,6 +839,22 @@
       "duration_ms": 225120,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/7xCJ4D6ka7bXhGbL4NsEEi"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "Night Before Christmas",
+        "url": "https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 216220,
+      "name": "Night Before Christmas",
+      "url": "https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "The Magic Of Boney M. (Special Remix Edition)",
-        "url": "https://open.spotify.com/album/6pk0hdvIssxawpMRznE4Zf"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 242186,
-      "name": "Mary's Boy Child / Oh My Lord",
-      "url": "https://open.spotify.com/track/2YYcLUtmPR44ERAQA7DfwZ"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "Make It Home",
         "url": "https://open.spotify.com/album/3tUsy9oBx3XXxtNlv1p92g"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 179309,
       "name": "Make It Home",
       "url": "https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "The Magic Of Boney M. (Special Remix Edition)",
+        "url": "https://open.spotify.com/album/6pk0hdvIssxawpMRznE4Zf"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 242186,
+      "name": "Mary's Boy Child / Oh My Lord",
+      "url": "https://open.spotify.com/track/2YYcLUtmPR44ERAQA7DfwZ"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "Songs For Christmas",
-        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "A Dreamer's Holiday",
         "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 180585,
       "name": "A Dreamer's Holiday",
       "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "Songs For Christmas",
+        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1233,6 +1233,22 @@
       "url": "https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6"
     },
     {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 164600,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw"
+    },
+    {
       "added_at": "2023-12-20 11:32:39",
       "album": {
         "name": "The Little Drummer Boy",
@@ -1267,22 +1283,6 @@
       "duration_ms": 207946,
       "name": "The Magic Of Christmas",
       "url": "https://open.spotify.com/track/0J60y4thRnADY1AtEtxhCr"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
-        "name": "Home For Christmas",
-        "url": "https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 164600,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw"
     },
     {
       "added_at": "2023-11-28 17:00:03",

@@ -2,7 +2,7 @@
 
 ### [Lone Star Blues](https://open.spotify.com/playlist/37i9dQZF1DXeaMD6NdSui3)
 
-> Simply Texas blues at its best.
+> Texas Blues at its best.
 
 75 songs - 5 hr 27 min
 

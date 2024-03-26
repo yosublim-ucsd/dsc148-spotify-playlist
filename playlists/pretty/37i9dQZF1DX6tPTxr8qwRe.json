@@ -1,12 +1,12 @@
 {
   "description": "Dark, hard hitting pop. Cover: Ellise & Ashley Sienna",
-  "num_followers": 401912,
+  "num_followers": 401911,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzFiYjJjOTYzNmU4ODczYzZhN2JjMjViNThlYjBmZWI0N2ExOGM5",
+  "snapshot_id": "MCxjOWNjN2YwZDg3MzU2N2IwOWM2NzdlMDkyZDczMmI0NmMyZGRjYmRi",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -59,6 +59,26 @@
       "duration_ms": 135000,
       "name": "DIRT",
       "url": "https://open.spotify.com/track/4yecHdRmT62mztymihKxYK"
+    },
+    {
+      "added_at": "2024-03-25 19:08:57",
+      "album": {
+        "name": "2WORLDS",
+        "url": "https://open.spotify.com/album/0RKIC2QUL8WkDMWWQy3szr"
+      },
+      "artists": [
+        {
+          "name": "Madge",
+          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
+        },
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "2WORLDS",
+      "url": "https://open.spotify.com/track/0MoTvVdhu4Ocm2Y7yphxPh"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1171,22 +1191,6 @@
       "duration_ms": 114558,
       "name": "Bad Bitch (ft. Sage Charmaine)",
       "url": "https://open.spotify.com/track/0eqarBH40z9GUTRQXfv68E"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "UPSAHL PRESENTS: THE PHX TAPES",
-        "url": "https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 137003,
-      "name": "NO HANDS (SIDE A)",
-      "url": "https://open.spotify.com/track/322B6Not1OsMLCCxHg6sZl"
     },
     {
       "added_at": "2024-03-22 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 96111,
+  "num_followers": 96146,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzEyODk2OTg3M2QxZDQzMmMyMWZkOTI2ZDIxMzI4NjhlNWJkNzFm",
+  "snapshot_id": "MCxjNjgzMjAzMjcxZDBhZGRiYWY4YmI3Y2FkNGY1NGZiZDJmN2VkMjhj",
   "tracks": [
     {
       "added_at": "2024-03-21 23:30:21",
@@ -287,38 +287,6 @@
     {
       "added_at": "2024-03-21 23:30:21",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
-    },
-    {
-      "added_at": "2024-03-21 23:30:21",
-      "album": {
-        "name": "Coraz\u00f3n Valiente",
-        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Fuiste",
-      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
-    },
-    {
-      "added_at": "2024-03-21 23:30:21",
-      "album": {
         "name": "De Buenos Aires Para El Mundo",
         "url": "https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE"
       },
@@ -347,18 +315,54 @@
     {
       "added_at": "2024-03-21 23:30:21",
       "album": {
-        "name": "Sin Verg\u00fcenza",
-        "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
       "artists": [
         {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 179213,
-      "name": "Corazon Mentiroso",
-      "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
+    },
+    {
+      "added_at": "2024-03-21 23:30:21",
+      "album": {
+        "name": "Ten\u00edas Que Ser T\u00fa",
+        "url": "https://open.spotify.com/album/0S2fWlZm0i6m8CtlnspJyj"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 141829,
+      "name": "Ten\u00edas Que Ser T\u00fa",
+      "url": "https://open.spotify.com/track/2rIKsynpXAj5bHFdY6ESE1"
+    },
+    {
+      "added_at": "2024-03-21 23:30:21",
+      "album": {
+        "name": "Coraz\u00f3n Valiente",
+        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Fuiste",
+      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
     },
     {
       "added_at": "2024-03-21 23:30:21",
@@ -383,22 +387,18 @@
     {
       "added_at": "2024-03-21 23:30:21",
       "album": {
-        "name": "Ten\u00edas Que Ser T\u00fa",
-        "url": "https://open.spotify.com/album/0S2fWlZm0i6m8CtlnspJyj"
+        "name": "Sin Verg\u00fcenza",
+        "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
         }
       ],
-      "duration_ms": 141829,
-      "name": "Ten\u00edas Que Ser T\u00fa",
-      "url": "https://open.spotify.com/track/2rIKsynpXAj5bHFdY6ESE1"
+      "duration_ms": 179213,
+      "name": "Corazon Mentiroso",
+      "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
     },
     {
       "added_at": "2024-03-21 23:30:21",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-03-21 23:30:21",
       "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7b5r8UmTqf3vcf7opFjyhD"
+      },
+      "artists": [
+        {
+          "name": "Laura Leon",
+          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
+        }
+      ],
+      "duration_ms": 225742,
+      "name": "Suavecito Suavecito",
+      "url": "https://open.spotify.com/track/5HuVRxBhFVWNjUpMBZEBGT"
+    },
+    {
+      "added_at": "2024-03-21 23:30:21",
+      "album": {
         "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
         "url": "https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 217810,
       "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
       "url": "https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC"
-    },
-    {
-      "added_at": "2024-03-21 23:30:21",
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7b5r8UmTqf3vcf7opFjyhD"
-      },
-      "artists": [
-        {
-          "name": "Laura Leon",
-          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
-        }
-      ],
-      "duration_ms": 225742,
-      "name": "Suavecito Suavecito",
-      "url": "https://open.spotify.com/track/5HuVRxBhFVWNjUpMBZEBGT"
     },
     {
       "added_at": "2024-03-21 23:30:21",
@@ -747,18 +747,18 @@
     {
       "added_at": "2024-03-21 23:30:21",
       "album": {
-        "name": "Viru Kumbieron",
-        "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
+        "name": "Amandititita",
+        "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
       },
       "artists": [
         {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+          "name": "Amandititita",
+          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
         }
       ],
-      "duration_ms": 250439,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo"
+      "duration_ms": 196706,
+      "name": "Metrosexual",
+      "url": "https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb"
     },
     {
       "added_at": "2024-03-21 23:30:21",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-03-21 23:30:21",
       "album": {
-        "name": "Amandititita",
-        "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
+        "name": "Viru Kumbieron",
+        "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
       },
       "artists": [
         {
-          "name": "Amandititita",
-          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
         }
       ],
-      "duration_ms": 196706,
-      "name": "Metrosexual",
-      "url": "https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb"
+      "duration_ms": 250439,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo"
     },
     {
       "added_at": "2024-03-21 23:30:21",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-03-21 23:30:21",
       "album": {
-        "name": "La Mejor Versi\u00f3n de Mi",
-        "url": "https://open.spotify.com/album/4pJBLj9ErDQxIXq70HRvI5"
-      },
-      "artists": [
-        {
-          "name": "JOHANA RODRIGUEZ",
-          "url": "https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw"
-        }
-      ],
-      "duration_ms": 245701,
-      "name": "La Mejor Versi\u00f3n de Mi",
-      "url": "https://open.spotify.com/track/6n2NZOVbSaDQ2PcZVUv997"
-    },
-    {
-      "added_at": "2024-03-21 23:30:21",
-      "album": {
         "name": "Chau Chau",
         "url": "https://open.spotify.com/album/667cSzgfBITHyYcjrBb9ie"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 164575,
       "name": "Chau Chau",
       "url": "https://open.spotify.com/track/6FMTafTDHX2Gt9EXONkBya"
+    },
+    {
+      "added_at": "2024-03-21 23:30:21",
+      "album": {
+        "name": "La Mejor Versi\u00f3n de Mi",
+        "url": "https://open.spotify.com/album/4pJBLj9ErDQxIXq70HRvI5"
+      },
+      "artists": [
+        {
+          "name": "JOHANA RODRIGUEZ",
+          "url": "https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw"
+        }
+      ],
+      "duration_ms": 245701,
+      "name": "La Mejor Versi\u00f3n de Mi",
+      "url": "https://open.spotify.com/track/6n2NZOVbSaDQ2PcZVUv997"
     },
     {
       "added_at": "2024-03-21 23:30:21",
@@ -887,38 +887,6 @@
     {
       "added_at": "2024-03-21 23:30:21",
       "album": {
-        "name": "En Peligro de Extinci\u00f3n",
-        "url": "https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5"
-      },
-      "artists": [
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 221823,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm"
-    },
-    {
-      "added_at": "2024-03-21 23:30:21",
-      "album": {
-        "name": "Muta",
-        "url": "https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 199786,
-      "name": "China",
-      "url": "https://open.spotify.com/track/4H1RVpE8PuOApXqUz4d9Gc"
-    },
-    {
-      "added_at": "2024-03-21 23:30:21",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC"
       },
@@ -931,6 +899,22 @@
       "duration_ms": 176255,
       "name": "Karma",
       "url": "https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB"
+    },
+    {
+      "added_at": "2024-03-21 23:30:21",
+      "album": {
+        "name": "En Peligro de Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 221823,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm"
     },
     {
       "added_at": "2024-03-21 23:30:21",
@@ -967,6 +951,22 @@
       "duration_ms": 217626,
       "name": "En tu pelo",
       "url": "https://open.spotify.com/track/5LhnavryqjYomWrEzfjB8G"
+    },
+    {
+      "added_at": "2024-03-21 23:30:21",
+      "album": {
+        "name": "Muta",
+        "url": "https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 199786,
+      "name": "China",
+      "url": "https://open.spotify.com/track/4H1RVpE8PuOApXqUz4d9Gc"
     },
     {
       "added_at": "2024-03-21 23:30:21",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-03-21 23:30:21",
       "album": {
-        "name": "La Reina",
-        "url": "https://open.spotify.com/album/7AUncrChIPjBitUE0NYIoO"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 234222,
-      "name": "Ahora Se",
-      "url": "https://open.spotify.com/track/5AWK8nehIszKNIWhoOBiQn"
-    },
-    {
-      "added_at": "2024-03-21 23:30:21",
-      "album": {
         "name": "La Voz de los Barrios",
         "url": "https://open.spotify.com/album/6ETUBwmq6hJ7dOtIHqj4p1"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 211489,
       "name": "Ya No Cabes en Mi Vida",
       "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
+    },
+    {
+      "added_at": "2024-03-21 23:30:21",
+      "album": {
+        "name": "La Reina",
+        "url": "https://open.spotify.com/album/7AUncrChIPjBitUE0NYIoO"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 234222,
+      "name": "Ahora Se",
+      "url": "https://open.spotify.com/track/5AWK8nehIszKNIWhoOBiQn"
     },
     {
       "added_at": "2024-03-21 23:30:21",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-03-21 23:30:21",
       "album": {
+        "name": "Pecados Tropicales",
+        "url": "https://open.spotify.com/album/5PGOTj7lzQiSgJfk1Zrdgn"
+      },
+      "artists": [
+        {
+          "name": "Kumbia Queers",
+          "url": "https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K"
+        }
+      ],
+      "duration_ms": 182338,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/6NLLlVLuq3u7lx1n8Ngvpm"
+    },
+    {
+      "added_at": "2024-03-21 23:30:21",
+      "album": {
         "name": "Abr\u00e1zame y B\u00e9same",
         "url": "https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 180748,
       "name": "Abr\u00e1zame y B\u00e9same",
       "url": "https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG"
-    },
-    {
-      "added_at": "2024-03-21 23:30:21",
-      "album": {
-        "name": "Pecados Tropicales",
-        "url": "https://open.spotify.com/album/5PGOTj7lzQiSgJfk1Zrdgn"
-      },
-      "artists": [
-        {
-          "name": "Kumbia Queers",
-          "url": "https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K"
-        }
-      ],
-      "duration_ms": 182338,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/6NLLlVLuq3u7lx1n8Ngvpm"
     }
   ],
   "unique_name": "Cumbieras",

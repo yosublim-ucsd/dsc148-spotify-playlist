@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,590 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,591 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,19 +21,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 11 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 |
 | 12 | [Je dois m'en aller](https://open.spotify.com/track/7fxvGz4A606ADmsAGT5r4Q) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:26 |
 | 13 | [Tout](https://open.spotify.com/track/59qPfUOkd0sboUlhQfR5Rd) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Pure](https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm) | 4:16 |
-| 14 | [En chantant](https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [En Chantant](https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC) | 3:54 |
-| 15 | [Tu ne sauras jamais](https://open.spotify.com/track/78Mu8RKUTFIg4h8921ofVS) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [3](https://open.spotify.com/album/41WX17nVqpkzVp5RKMxD9j) | 4:06 |
-| 16 | [Calvaire](https://open.spotify.com/track/74c8FhugaKufekAOeh2dcO) | [La Chicane](https://open.spotify.com/artist/47Jz2n2v5J4DydiDUp3NkI) | [\[en\] catimini](https://open.spotify.com/album/6oQ2Xld7fc3gYT4IRX3xC5) | 4:10 |
-| 17 | [La neige au Sahara](https://open.spotify.com/track/4r9u9QK7KOEXgOmt3hs57g) | [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Au Nom De La Lune](https://open.spotify.com/album/3V6bGCv4wGLpbUsVn4kfMC) | 4:18 |
+| 14 | [Tu ne sauras jamais](https://open.spotify.com/track/78Mu8RKUTFIg4h8921ofVS) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [3](https://open.spotify.com/album/41WX17nVqpkzVp5RKMxD9j) | 4:06 |
+| 15 | [Calvaire](https://open.spotify.com/track/74c8FhugaKufekAOeh2dcO) | [La Chicane](https://open.spotify.com/artist/47Jz2n2v5J4DydiDUp3NkI) | [\[en\] catimini](https://open.spotify.com/album/6oQ2Xld7fc3gYT4IRX3xC5) | 4:10 |
+| 16 | [La neige au Sahara](https://open.spotify.com/track/4r9u9QK7KOEXgOmt3hs57g) | [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Au Nom De La Lune](https://open.spotify.com/album/3V6bGCv4wGLpbUsVn4kfMC) | 4:18 |
+| 17 | [En chantant](https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [En Chantant](https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC) | 3:54 |
 | 18 | [Et si tu n'existais pas](https://open.spotify.com/track/3vIl0TRgS1UpxSTL8a19WF) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 3:27 |
 | 19 | [Un beau grand bateau](https://open.spotify.com/track/153fPAIMxo3FInbJd06MB6) | [Gerry Boulet](https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv) | [Rendez\-vous doux](https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu) | 3:55 |
 | 20 | [C'est zéro](https://open.spotify.com/track/36eHvuluPjSm7HNRLqng7R) | [Julie Masse](https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC) | [Julie Masse](https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE) | 4:02 |
 | 21 | [Faire la paix avec l'amour](https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b) | [Dany Bédar](https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm) | [Fruit de ma récente nuit blanche](https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5) | 3:45 |
 | 22 | [Aime moi](https://open.spotify.com/track/2EUITdSOgkQvddobT5veE6) | [Claude Barzotti](https://open.spotify.com/artist/3rXJOlQbim2cC6I7wxAlrb) | [Aime\-moi](https://open.spotify.com/album/3x5aI6oO3eoUSVzi9XsjMT) | 4:10 |
-| 23 | [Je n'ai que mon âme](https://open.spotify.com/track/1VOjHLyRyIqSnIrT4H1jcd) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [A Chacun Son Histoire](https://open.spotify.com/album/38CgBQufkUucyi195crt9D) | 2:50 |
-| 24 | [Donne\-moi ma chance](https://open.spotify.com/track/1ppfN5g0xqRlvNsy5n5Ib1) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [Snob](https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy) | 4:13 |
-| 25 | [Mon mec à moi](https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Rien ne s'arrête \(1987 \- 2001\)](https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw) | 4:13 |
-| 26 | [Les yeux du coeur](https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa) | [Gerry Boulet](https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv), [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Rendez\-vous doux](https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu) | 4:16 |
+| 23 | [Donne\-moi ma chance](https://open.spotify.com/track/1ppfN5g0xqRlvNsy5n5Ib1) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [Snob](https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy) | 4:13 |
+| 24 | [Je n'ai que mon âme](https://open.spotify.com/track/1VOjHLyRyIqSnIrT4H1jcd) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [A Chacun Son Histoire](https://open.spotify.com/album/38CgBQufkUucyi195crt9D) | 2:50 |
+| 25 | [Les yeux du coeur](https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa) | [Gerry Boulet](https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv), [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Rendez\-vous doux](https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu) | 4:16 |
+| 26 | [Mon mec à moi](https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Rien ne s'arrête \(1987 \- 2001\)](https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw) | 4:13 |
 | 27 | [La bartendresse](https://open.spotify.com/track/6gIGvgL9rcRhldbaVFTaaW) | [Éric Lapointe](https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc) | [Lapointe 1994\-2006 N'importe qui](https://open.spotify.com/album/4EOQXoXxZI0XYTB1in1Ivk) | 4:06 |
 | 28 | [Chats sauvages](https://open.spotify.com/track/0clO0QOJszhztY2jKzT1k3) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Celle qui va](https://open.spotify.com/album/5A8miUxbmrkHnXpbCkWKr2) | 4:28 |
 | 29 | [Le temps des cathédrales](https://open.spotify.com/track/6KoolqHOo79c4lTmAko7NQ) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Notre Dame de Paris \- Version intégrale, acte 1](https://open.spotify.com/album/0rfs8rhKsVsnKnwscx9cdY) | 3:22 |
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 45 | [Tu trouveras](https://open.spotify.com/track/2mvv1eZ8tAlm1FkuxTdnL7) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [Tu trouveras..\. 10 Ans De Succès](https://open.spotify.com/album/5nRY7aAo34cFREm91rmzET) | 4:58 |
 | 46 | [Pour une histoire d'un soir](https://open.spotify.com/track/0oXqAQBT0KE2IzBgFivcnW) | [Marie Denise Pelletier](https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l) | [Les introuvables](https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo) | 3:39 |
 | 47 | [Ailleurs](https://open.spotify.com/track/423t7wuX8K01IcXZMzVbBW) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Sans retour](https://open.spotify.com/album/5NBZzXIoyqDUKlvPrdV3fq) | 7:15 |
-| 48 | [Shame on U](https://open.spotify.com/track/5Ui48l2ViRrnssgzipXNPc) | [Ophélie Winter](https://open.spotify.com/artist/1CWf9Py9ugzhwqunEEIFYP) | [Soon](https://open.spotify.com/album/4EBnAga3Y1x9iRsp3qsutX) | 4:37 |
+| 48 | [Casser la voix](https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Puzzle](https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL) | 4:23 |
 | 49 | [Changer](https://open.spotify.com/track/59DiAbELxjxnY5fcgQRTI9) | [Jean\-François Breau](https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu), [Marie\-Ève Janvier](https://open.spotify.com/artist/0FeqojwZ2cxZ5ME0n9XAwK) | [Don Juan \(Les plus grands succès du spectacle musical de Félix Gray\)](https://open.spotify.com/album/6zCqUEDoZRN92o7vtddpV5) | 4:06 |
-| 50 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 |
-| 51 | [Casser la voix](https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Puzzle](https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL) | 4:23 |
+| 50 | [Shame on U](https://open.spotify.com/track/5Ui48l2ViRrnssgzipXNPc) | [Ophélie Winter](https://open.spotify.com/artist/1CWf9Py9ugzhwqunEEIFYP) | [Soon](https://open.spotify.com/album/4EBnAga3Y1x9iRsp3qsutX) | 4:37 |
+| 51 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 |
 | 52 | [Victoire \- Radio Edit](https://open.spotify.com/track/1O6uYqexF293mZKf9Nmf7x) | [Shy'm](https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B) | [Victoire \(Radio Edit\)](https://open.spotify.com/album/7MoypL7O3vSdhqhbzycqD6) | 3:16 |
 | 53 | [Vivre Avec Celui Qu'on Aime](https://open.spotify.com/track/3QeHjFpa62YmVG4rCVhQ1g) | [Francine Raymond](https://open.spotify.com/artist/4XhSu04KR47kzRHF6esYas) | [Francine Raymond](https://open.spotify.com/album/7yduHV2iKYQgiQHPb9ECkL) | 3:43 |
 | 54 | [Flagrant délit](https://open.spotify.com/track/0t0zkVay0Nbt9qynMK7C4a) | [Herbert Léonard](https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB) | [Best of Herbert Léonard](https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX) | 4:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 74 | [Le ciel est à moi](https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k) | [Marie\-Élaine Thibert](https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH) | [Marie\-Élaine Thibert](https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs) | 4:35 |
 | 75 | [Un nouveau jour va se lever](https://open.spotify.com/track/76LS5dHm0faY67uTILq24m) | [Les Académiciens 2004](https://open.spotify.com/artist/0ngR9CsCD7CZUqY4gUnFyZ) | [Star Académie 2004](https://open.spotify.com/album/1LeElbISsZ2YWjcz89zyC5) | 3:04 |
 
-Snapshot ID: `MCwxOGY3M2U4ZDVlYzc1MDhhNmVmNjg2YzY3NjFkNDM0YjdiYWMzMDVm`
+Snapshot ID: `MCw0MDkxNDM4MDg2ODg3ODZhNjJkNjY0ZGY5OWM0MmFjNjJiYmEwZjEy`

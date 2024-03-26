@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Tyla \(pictured\), Kenya Grace, Benson Boone and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,948 likes - 120 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,007 likes - 120 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 119 | [Conman](https://open.spotify.com/track/5SVuEZbvjiJpN7a2ioCU1s) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [The Left Side](https://open.spotify.com/album/5ade4j1cO7bD9Wy983m6hv) | 3:54 |
 | 120 | [Ostia](https://open.spotify.com/track/0qEH6uPXtjLZ9Ut132gHJ3) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [Ostia](https://open.spotify.com/album/08uHg0ZtyHm2o49InQY9Nn) | 5:02 |
 
-Snapshot ID: `MCxiMjI2ZjU0YThiYWU4MWY0NTk2MjhhNWFhZmYwNTE4MjRhM2Q5N2E3`
+Snapshot ID: `MCw4NTY5MjQyYTNkMDI0YzQ2N2Y4OWM2ZmUyZTE5NzI2MmMwY2MyOTI2`

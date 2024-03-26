@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq?si=8wUipIzmT1yQhRptg8GOBA">VAN WEST</a>
 
-841 songs - 1 day 23 hr 31 min
+842 songs - 1 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Die Son](https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Die Son](https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ) | 3:34 | 2022-11-24 | 2022-12-16 |
 | [Die Son En Die Maan](https://open.spotify.com/track/008OjhPrh7EKg6iF9dp0fh) | [John Rock Prophet](https://open.spotify.com/artist/00UBWcI4O1TYxYXKrc7Fbw), [Debbie K](https://open.spotify.com/artist/4xjBPreViFD3bCcjv19IlC) | [Die Son En Die Maan](https://open.spotify.com/album/5UCX2FqNAGCXiA4H7nvB6A) | 3:19 | 2023-10-27 | 2023-11-24 |
 | [Die Son Kom Op](https://open.spotify.com/track/7qCrASJyo3JTjEpUauJMEA) | [Tiaan Massyn](https://open.spotify.com/artist/5kBNVv1oDDlPfx7mmf8ZGB) | [Die Son Kom Op](https://open.spotify.com/album/5QB0DEXPWE4fWHM7cohmnk) | 3:56 | 2023-03-30 | 2023-04-21 |
+| [Die Son Se Oop Koevert](https://open.spotify.com/track/2Phlqx0Yu8tdegRPLMCzqh) | [Die Karavaan Klankbaan](https://open.spotify.com/artist/2hfeDDRyFVhQdIqfve0BiK), [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5), [Almero](https://open.spotify.com/artist/7dPungKhZV77MeaGRZwTNR) | [Die Son Se Oop Koevert](https://open.spotify.com/album/4lO1xv3MFq6dQQtAgd0eKM) | 4:21 | 2024-03-25 |  |
 | [Die Sonskyn en Die Reën](https://open.spotify.com/track/16msFCHm7rvxMKgVQnHRaX) | [RAAF](https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi) | [Die Sonskyn en Die Reën](https://open.spotify.com/album/1G1I8b6QO6p7r8IM94C0cR) | 3:05 | 2023-10-19 | 2023-11-03 |
 | [Die Vakansie Song](https://open.spotify.com/track/08Mazf5v3uQRhbS7y46wHn) | [Chris Duvenage](https://open.spotify.com/artist/1p3GqqXMmPVzDnpqhWCf6O) | [Die Vakansie Song \- Shokbasse Remix](https://open.spotify.com/album/3zUSxdod87bOZ8I8hNjU0O) | 3:40 | 2023-03-09 | 2023-03-25 |
 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 | 2023-03-09 | 2023-03-25 |
@@ -324,7 +325,7 @@
 | [In die stilte](https://open.spotify.com/track/10dfzyxgep5lcY7YCyKZBZ) | [Babette](https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa) | [In die stilte](https://open.spotify.com/album/4Pj3Lrhpvp9EmhNjgrenMa) | 3:23 | 2024-02-15 | 2024-03-01 |
 | [In Jou Oë](https://open.spotify.com/track/4ktxon0kuaf7MnCaWAXyQH) | [Corrazerwas](https://open.spotify.com/artist/3diufN5KARPyDrEkc7THsP) | [In Jou Oë](https://open.spotify.com/album/5ezhn2Ca5gdSU5VX9WyJRk) | 2:46 | 2023-03-23 | 2023-04-07 |
 | [IN MY DROME](https://open.spotify.com/track/6dCfA2DBPCNRsdSmlTWWRF) | [Gerry Liberty](https://open.spotify.com/artist/0KhAYgLjKgjeil6Eu7VoWq) | [IN MY DROME](https://open.spotify.com/album/2ZNE0VqgjFXSmGOZUNhOOV) | 3:08 | 2023-08-03 | 2023-08-18 |
-| [In My Oë](https://open.spotify.com/track/0mTqau9DRQi9w9hTZUqFrr) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Estetika](https://open.spotify.com/album/0F5JB3HCxOrNuB2mIQqKjS) | 2:30 | 2023-10-26 |  |
+| [In My Oë](https://open.spotify.com/track/0mTqau9DRQi9w9hTZUqFrr) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Estetika](https://open.spotify.com/album/0F5JB3HCxOrNuB2mIQqKjS) | 2:30 | 2023-10-26 | 2024-03-26 |
 | [Inge 2](https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Almal Gly](https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX) | 3:41 | 2023-08-10 | 2024-01-06 |
 | [Insomnia](https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:58 | 2022-08-11 | 2022-11-05 |
 | [Is Als Beter?](https://open.spotify.com/track/59mgZs1odLmx1IqVNV5uBx) | [Jacob Swann](https://open.spotify.com/artist/3b8ExEnWwnymMCMM3vcHbe) | [Alles](https://open.spotify.com/album/7HLKIQGKv6nm4yEVlFJ70n) | 2:59 | 2023-10-26 | 2023-11-17 |

@@ -4,7 +4,7 @@
 
 > Conscious songs for everyday reflection.
 
-111 songs - 7 hr 56 min
+112 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Angels Above Me](https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Angels Above Me](https://open.spotify.com/album/2rQdIWqQVl0bFZJI4whICD) | 4:26 | 2020-11-25 |  |
 | [Back to the Old](https://open.spotify.com/track/2stKuE9vUhRJhbsfmY8mkg) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Undercurrent](https://open.spotify.com/album/5hEP35eW2n4STHtvtZwRaa) | 5:49 | 2020-11-25 | 2022-07-29 |
 | [Back to the Old](https://open.spotify.com/track/3ezhfmt8pBdp8Eef2EcYut) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Undercurrent](https://open.spotify.com/album/5a1dmR0nQcrgDJKLGAg1M7) | 5:49 | 2020-11-25 | 2024-03-19 |
+| [be who you are \(with Rising Appalachia\)](https://open.spotify.com/track/5xIzvhn5J2rBxS0OrerzIY) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [In Between The In\-Between](https://open.spotify.com/album/5rhKG3lq7wW8oZ8xBFiq19) | 3:17 | 2024-03-25 |  |
 | [Breathe](https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Kulture](https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT) | 4:36 | 2020-11-25 |  |
 | [Call on the Wolves](https://open.spotify.com/track/1h1rjRbZwiVc1y2jNqYphX) | [Dustin Thomas](https://open.spotify.com/artist/4xZc2DiEMOQP4KppCfK5QK) | [Call on the Wolves](https://open.spotify.com/album/3ne5IY3MK0FoaxXccvBvR4) | 5:33 | 2020-11-25 | 2022-07-29 |
 | [Caribbean Skies](https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [Heroin and Helicopters](https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1) | 3:59 | 2020-11-25 | 2023-09-19 |
@@ -69,7 +70,7 @@
 | [Move by Yourself](https://open.spotify.com/track/6wj2rUrhnfDA97mmec8kNW) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Revisited 2](https://open.spotify.com/album/1Dop4W2ljjFF8HilUxG1qA) | 4:18 | 2020-11-25 | 2022-07-29 |
 | [Nation of Truth](https://open.spotify.com/track/0EJFzeHiwdTdJxi4aQY1c8) | [Dustin Thomas](https://open.spotify.com/artist/4xZc2DiEMOQP4KppCfK5QK) | [Nation of Truth](https://open.spotify.com/album/4OmqPZxOg43jtP8un2twB2) | 3:40 | 2020-11-25 | 2022-07-29 |
 | [Nectar Drop](https://open.spotify.com/track/3QbtJmJeeh8JE5EtAD1Eh0) | [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [Jahta Beat: The Lotus Memoirs](https://open.spotify.com/album/61GQtLkHRdK3jmnm9aoAFZ) | 4:00 | 2023-01-03 |  |
-| [never gonna break your heart](https://open.spotify.com/track/2ak7xmwbLAADnngfYpLKuD) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [IN AND THROUGH THE BODY](https://open.spotify.com/album/3RthcMmqG13Kk0jxR0Up0a) | 3:47 | 2020-11-25 |  |
+| [never gonna break your heart](https://open.spotify.com/track/2ak7xmwbLAADnngfYpLKuD) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [IN AND THROUGH THE BODY](https://open.spotify.com/album/3RthcMmqG13Kk0jxR0Up0a) | 3:47 | 2020-11-25 | 2024-03-26 |
 | [No Regrets](https://open.spotify.com/track/5cjvwsuXLWoKIxy13wCOsm) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [Love Overflowing](https://open.spotify.com/album/3gkTud0H2xXXfVXlwtU2Wu) | 5:22 | 2020-11-25 | 2022-07-29 |
 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 | 2020-11-25 |  |
 | [One People](https://open.spotify.com/track/35zXxNUgVHw5qy4N9YdVxv) | [Nattali Rize](https://open.spotify.com/artist/0FomusKA1QZNUY5EdQdBbv) | [Rebel Frequency](https://open.spotify.com/album/0Fy6vW3LC71qxPSw421IMR) | 4:00 | 2020-11-25 | 2022-10-02 |

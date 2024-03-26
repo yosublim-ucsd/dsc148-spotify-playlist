@@ -8486,7 +8486,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 162000,
       "name": "FRI(END)S (Slowed Down)",
       "url": "https://open.spotify.com/track/4njgp1LC4XoUsnF3pN0WXX"
@@ -8504,7 +8504,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 123000,
       "name": "FRI(END)S (Sped Up)",
       "url": "https://open.spotify.com/track/0v6wAlWCzHYj1OuJrVuH7J"
@@ -9750,7 +9750,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 154236,
       "name": "Hate You",
       "url": "https://open.spotify.com/track/5ONOlTiqymhzwcFjqcIT6E"
@@ -16124,7 +16124,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 108986,
       "name": "New Jeans",
       "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
@@ -23742,7 +23742,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 175911,
       "name": "Too Sad to Dance",
       "url": "https://open.spotify.com/track/3bNNvJA7hsGw0wSpGkfOBm"
@@ -26212,6 +26212,24 @@
       "duration_ms": 186173,
       "name": "You Right",
       "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
+    },
+    {
+      "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283160,
+      "name": "You Were Beautiful",
+      "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
     },
     {
       "album": {

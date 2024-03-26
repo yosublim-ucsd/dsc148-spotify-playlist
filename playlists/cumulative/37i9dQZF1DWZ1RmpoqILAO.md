@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation featuring music from Faye Webster 🌟🌟🌟
 
-217 songs - 13 hr 56 min
+218 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 | 2023-02-23 |  |
 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 | 2023-02-23 | 2023-08-09 |
 | [Not My Body](https://open.spotify.com/track/2JterjxLlyT5hgIXkhcfiH) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [All of This Will End](https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2) | 4:11 | 2023-04-28 |  |
+| [Oh, Gemini](https://open.spotify.com/track/3SYNTZgVt7Wht3jRf0ElGh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Oh, Gemini](https://open.spotify.com/album/1REr4nKLgAAe1GoKIDG2c9) | 2:44 | 2024-03-25 |  |
 | [On My Mind](https://open.spotify.com/track/2yFSQb9lAOk9CeYWdnFn4o) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [On My Mind](https://open.spotify.com/album/5M4MZsKa3sb2p9ZoEihObb) | 3:22 | 2023-05-12 | 2023-06-17 |
 | [Paige Machine](https://open.spotify.com/track/7FhoPDsQKQYivefOCN3OCO) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Paige Machine](https://open.spotify.com/album/1taSivISnY9TU6rfNuRS3y) | 2:40 | 2023-12-13 |  |
 | [Passing Sun](https://open.spotify.com/track/1vi7SVPptcxAXxoYUzGyWT) | [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8), [Jacob Cummings](https://open.spotify.com/artist/7skiCmlFbtPe0anDfCCPXm) | [Passing Sun](https://open.spotify.com/album/103zyTkSJ2fNbHOjwNslR9) | 3:37 | 2023-02-23 |  |

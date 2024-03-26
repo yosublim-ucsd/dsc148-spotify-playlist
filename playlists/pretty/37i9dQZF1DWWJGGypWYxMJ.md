@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 
 > pov, you ask for your Martini shaken...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,263 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,262 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 | 6 | [On Her Majesty's Secret Service \- From “On Her Majesty’s Secret Service” Soundtrack / Remastered 2003](https://open.spotify.com/track/3M0zi8iD2KRzY71XcGFUpE) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [On Her Majesty's Secret Service \(Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 2:35 |
 | 7 | [Interpol](https://open.spotify.com/track/1dgEYrpCzCnylUhWgrGSo3) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [Voir Venise et crever \(Agent spécial à Venise\)](https://open.spotify.com/album/2RHEPodR5oGoaGj0wqqzSP) | 1:16 |
 | 8 | [Liquid Sunshine](https://open.spotify.com/track/5rXMjn480P9q0aomXjmj0Q) | [John Cameron](https://open.spotify.com/artist/18ouJo7j7egCFOsRdCTcUk) | [Kpm 1000 Series: Voices in Harmony](https://open.spotify.com/album/3VmCC7JnGsOpPf2PncZX8o) | 2:59 |
-| 9 | [Analisi scientifiche](https://open.spotify.com/track/6vN0AqD9Zk4uolNlCRufxQ) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Lavoro e tempo libero](https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP) | 4:54 |
+| 9 | [Moonraker](https://open.spotify.com/track/0XCszZIzEncBpgAMkKoDB2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Bassey \- The EMI/UA Years 1959\-1979](https://open.spotify.com/album/5aoxGBTOftx2uzyWGRKtxL) | 3:09 |
 | 10 | [Get Carter Theme \- Alternative Mix 1](https://open.spotify.com/track/5AVTxDtDTPvvIlABb6mZVQ) | [Roy Budd](https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV) | [Get Carter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1WifKFCV4FXukva8WWNiWV) | 3:40 |
-| 11 | [Left Bank Two \- \[Gallery Theme from "Vision On"](https://open.spotify.com/track/4EVjJAF4v519GjGk3rsJ7Z) | [Wayne Hill](https://open.spotify.com/artist/1wDTppICsOJwrAAaROEqaY) | [Top Dog \(A Retrospective Of Classic TV & Radio Themes 1960\-1982\)](https://open.spotify.com/album/2d286hNlRXgpqtTxXWjgiD) | 2:29 |
-| 12 | [Moonraker](https://open.spotify.com/track/0XCszZIzEncBpgAMkKoDB2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Bassey \- The EMI/UA Years 1959\-1979](https://open.spotify.com/album/5aoxGBTOftx2uzyWGRKtxL) | 3:09 |
+| 11 | [Analisi scientifiche](https://open.spotify.com/track/6vN0AqD9Zk4uolNlCRufxQ) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Lavoro e tempo libero](https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP) | 4:54 |
+| 12 | [Left Bank Two \- \[Gallery Theme from "Vision On"](https://open.spotify.com/track/4EVjJAF4v519GjGk3rsJ7Z) | [Wayne Hill](https://open.spotify.com/artist/1wDTppICsOJwrAAaROEqaY) | [Top Dog \(A Retrospective Of Classic TV & Radio Themes 1960\-1982\)](https://open.spotify.com/album/2d286hNlRXgpqtTxXWjgiD) | 2:29 |
 | 13 | [Mermaid](https://open.spotify.com/track/4LcogSQgiNo6rtCG70emJj) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 3:56 |
 | 14 | [Morning Broadway](https://open.spotify.com/track/6X0ufegIaeHxuShNKKmIGQ) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH), [The KPM Orchestra](https://open.spotify.com/artist/4kOSJhA1mfQHM6UDNJWjp1) | [Kpm 1000 Series: Chorus and Orchestra](https://open.spotify.com/album/6FdX6HqSa45LRBndboUfS7) | 2:05 |
 | 15 | [Mah Nà Mah Nà](https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 1:56 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 | 20 | [Venus Modularistic Riff](https://open.spotify.com/track/1GtVyGe372m5zFfMPUCxWe) | [Tobor Experiment](https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd) | [Available Forms](https://open.spotify.com/album/1fMxLNSyjYwtgag0SsZcko) | 3:43 |
 | 21 | [From Russia with Love \- Single Version](https://open.spotify.com/track/5dWu3rtTytLVDSkOkTaBVl) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [Essential](https://open.spotify.com/album/4JDGHeK69u3Yosp8BvUFJh) | 2:35 |
 | 22 | [Half\-Forgotten Daydreams](https://open.spotify.com/track/08STpchszuaAppBWoOzmY5) | [John Cameron](https://open.spotify.com/artist/18ouJo7j7egCFOsRdCTcUk) | [Kpm 1000 Series: Voices in Harmony](https://open.spotify.com/album/3VmCC7JnGsOpPf2PncZX8o) | 4:08 |
-| 23 | [Ladybird](https://open.spotify.com/track/1s308gmAYYsxggU0lJaDl2) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Friends and Lovers](https://open.spotify.com/album/2xKGehr8nY9YKMoRKq0rPT) | 4:31 |
-| 24 | [Lazy Sunday](https://open.spotify.com/track/3IdBNzUVuC5MHfuA6dmjAj) | [Duncan Lamont](https://open.spotify.com/artist/6iUQpaTq1rzkfcdNo8d62s) | [Kpm 1000 Series: The Human Touch](https://open.spotify.com/album/35ALADthkaRlhnF6tiuCF6) | 2:58 |
+| 23 | [Lazy Sunday](https://open.spotify.com/track/3IdBNzUVuC5MHfuA6dmjAj) | [Duncan Lamont](https://open.spotify.com/artist/6iUQpaTq1rzkfcdNo8d62s) | [Kpm 1000 Series: The Human Touch](https://open.spotify.com/album/35ALADthkaRlhnF6tiuCF6) | 2:58 |
+| 24 | [Ladybird](https://open.spotify.com/track/1s308gmAYYsxggU0lJaDl2) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Friends and Lovers](https://open.spotify.com/album/2xKGehr8nY9YKMoRKq0rPT) | 4:31 |
 | 25 | [Music to Drive By](https://open.spotify.com/track/58M8qlkGfI7I0bFnb1NZXF) | [Alan Moorhouse](https://open.spotify.com/artist/4yuUCrPRzF6cj54gVAObqJ) | [The Oscar Brandenburg Orchestra Volume 2](https://open.spotify.com/album/4VTuq2How8xPdCEAPgAHFl) | 2:51 |
 | 26 | [Topless Party](https://open.spotify.com/track/7lCzY3lj586QbvglU8TCtU) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 3:04 |
 | 27 | [Goldfinger \- Digitally Remastered](https://open.spotify.com/track/4PM4GGaZ0ju7h9YTdY5rPV) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [The Great Shirley Bassey, Vol\. 2](https://open.spotify.com/album/4Lbh8m0ln0ZGQmBvDvk4sF) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 | 49 | [Studio 69](https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:54 |
 | 50 | [Sunny Wing](https://open.spotify.com/track/4vg3KGQs568DXacMJUbAaT) | [Yan Tregger](https://open.spotify.com/artist/54LPgNBQ4T81nNmvcu4Zyv) | [Catchy](https://open.spotify.com/album/1b0jYUGcifFqzvNYXDzrLJ) | 2:10 |
 
-Snapshot ID: `MCw3ZjY5YjY5YTlhN2UxYWNmN2ZkNTBmMDgyN2E1ODU3OWVhNmM4Yjk0`
+Snapshot ID: `MCw3NjM3NWQ1MGY4NmYwNzAyMWM4OGRlNTY2YjljMGE0ZjUzYjM0MjM0`

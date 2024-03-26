@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 
 > Our editors’ picks for the best of indie in Canada in 2023\. Cover: Caroline Polachek
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,571 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,573 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 | 49 | [dazies](https://open.spotify.com/track/0qNRoqAohqJefbeZiTV1xF) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 4:24 |
 | 50 | [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 |
 
-Snapshot ID: `MCxiNzUzN2JkMDQzZTRjYWJlZjg0NjFjNGFlYjYwOGExYTY0YjIxMjli`
+Snapshot ID: `MCw4NTIxY2FmZDY5Y2RhM2ZkZTI0ZGVmOTY2NmUxOGM4ZTc4ODM0NDI2`

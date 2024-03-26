@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 698098,
+  "num_followers": 698083,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTkxZjQyOGE3YjZhZWRkMTcxMDE2YWJhMWUxMzE3YWZiNWE1NTYy",
+  "snapshot_id": "MCxjNDUzODAxZTMwMGMyNmFiYTRiMGE0NGRkZWEyOWVkYjQ2ZTU3ZmNk",
   "tracks": [
     {
       "added_at": "2024-03-05 09:28:40",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-03-05 09:28:40",
       "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+    },
+    {
+      "added_at": "2024-03-05 09:28:40",
+      "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 213800,
       "name": "Are You Gonna Be My Girl",
       "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
-    },
-    {
-      "added_at": "2024-03-05 09:28:40",
-      "album": {
-        "name": "The Razors Edge",
-        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 292880,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
     },
     {
       "added_at": "2024-03-05 09:28:40",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-03-05 09:28:40",
       "album": {
-        "name": "One By One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
-    },
-    {
-      "added_at": "2024-03-05 09:28:40",
-      "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
+    },
+    {
+      "added_at": "2024-03-05 09:28:40",
+      "album": {
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
     },
     {
       "added_at": "2024-03-05 09:28:40",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-03-05 09:28:40",
       "album": {
-        "name": "Permission to Land",
-        "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
-      },
-      "artists": [
-        {
-          "name": "The Darkness",
-          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "I Believe in a Thing Called Love",
-      "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
-    },
-    {
-      "added_at": "2024-03-05 09:28:40",
-      "album": {
         "name": "ATLAS",
         "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 189120,
       "name": "Legend",
       "url": "https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD"
+    },
+    {
+      "added_at": "2024-03-05 09:28:40",
+      "album": {
+        "name": "Permission to Land",
+        "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
+      },
+      "artists": [
+        {
+          "name": "The Darkness",
+          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "I Believe in a Thing Called Love",
+      "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
     },
     {
       "added_at": "2024-03-05 09:28:40",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-03-05 09:28:40",
       "album": {
-        "name": "House of Gold & Bones, Part 1",
-        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Absolute Zero",
-      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
-    },
-    {
-      "added_at": "2024-03-05 09:28:40",
-      "album": {
         "name": "The Gift",
         "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 173320,
       "name": "Town Called Malice",
       "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
+    },
+    {
+      "added_at": "2024-03-05 09:28:40",
+      "album": {
+        "name": "House of Gold & Bones, Part 1",
+        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Absolute Zero",
+      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
     },
     {
       "added_at": "2024-03-05 09:28:40",
@@ -939,38 +939,6 @@
     {
       "added_at": "2024-03-05 09:28:40",
       "album": {
-        "name": "Garage, Inc.",
-        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 304893,
-      "name": "Whiskey In The Jar",
-      "url": "https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"
-    },
-    {
-      "added_at": "2024-03-05 09:28:40",
-      "album": {
-        "name": "The Number of the Beast (2015 Remaster)",
-        "url": "https://open.spotify.com/album/1GmhZDrn15PUncSANUoteo"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 233506,
-      "name": "Run to the Hills (2015 Remaster)",
-      "url": "https://open.spotify.com/track/5b1jZ9geGD4boxz24XgGPp"
-    },
-    {
-      "added_at": "2024-03-05 09:28:40",
-      "album": {
         "name": "Them Crooked Vultures",
         "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
       },
@@ -983,6 +951,22 @@
       "duration_ms": 228639,
       "name": "New Fang",
       "url": "https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3"
+    },
+    {
+      "added_at": "2024-03-05 09:28:40",
+      "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 304893,
+      "name": "Whiskey In The Jar",
+      "url": "https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"
     },
     {
       "added_at": "2024-03-05 09:28:40",
@@ -1015,6 +999,22 @@
       "duration_ms": 207141,
       "name": "Let Me Live / Let Me Die",
       "url": "https://open.spotify.com/track/0AVIswXP3Q5FnlorjU0DbI"
+    },
+    {
+      "added_at": "2024-03-05 09:28:40",
+      "album": {
+        "name": "The Number of the Beast (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1GmhZDrn15PUncSANUoteo"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 233506,
+      "name": "Run to the Hills (2015 Remaster)",
+      "url": "https://open.spotify.com/track/5b1jZ9geGD4boxz24XgGPp"
     },
     {
       "added_at": "2024-03-05 09:28:40",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-03-05 09:28:40",
       "album": {
-        "name": "Hunted",
-        "url": "https://open.spotify.com/album/6A0zg9omFxGDUqKLAC5Cog"
-      },
-      "artists": [
-        {
-          "name": "Egypt Central",
-          "url": "https://open.spotify.com/artist/1d5wNTZ8WZYE5WuXXjug9w"
-        }
-      ],
-      "duration_ms": 173398,
-      "name": "Hunted",
-      "url": "https://open.spotify.com/track/2o34ml66r7gmwmsIHcg6ym"
-    },
-    {
-      "added_at": "2024-03-05 09:28:40",
-      "album": {
         "name": "Big Tings",
         "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 196051,
       "name": "That's My Jam",
       "url": "https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u"
+    },
+    {
+      "added_at": "2024-03-05 09:28:40",
+      "album": {
+        "name": "Hunted",
+        "url": "https://open.spotify.com/album/6A0zg9omFxGDUqKLAC5Cog"
+      },
+      "artists": [
+        {
+          "name": "Egypt Central",
+          "url": "https://open.spotify.com/artist/1d5wNTZ8WZYE5WuXXjug9w"
+        }
+      ],
+      "duration_ms": 173398,
+      "name": "Hunted",
+      "url": "https://open.spotify.com/track/2o34ml66r7gmwmsIHcg6ym"
     }
   ],
   "unique_name": "Highway to Yell",

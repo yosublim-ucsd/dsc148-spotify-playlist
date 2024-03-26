@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: P'tit Belliveau
 
-2,401 songs - 5 day 8 hr 13 min
+2,402 songs - 5 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [92i MAYBACH](https://open.spotify.com/track/24EO9OXmL4J02RAlabjxgS) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [ROUGE NÉON](https://open.spotify.com/album/7LLEJ0jIS3lfCF79i0dXQj) | 2:41 | 2023-04-28 | 2023-06-17 |
 | [???](https://open.spotify.com/track/1VypWHiTxUHNJKYNY6pY9n) | [Kimezaa](https://open.spotify.com/artist/3gpDegDcUdkEFX0EGWus2x) | [???](https://open.spotify.com/album/5JTdgcqhaTSvO8ez5fajhM) | 2:08 | 2021-12-31 | 2022-01-22 |
 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 | 2022-07-15 | 2022-08-20 |
-| [\_jun perseides](https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_jun perseides](https://open.spotify.com/album/4EHRNl8rET8Ve72UQB2cLe) | 2:56 | 2024-03-01 |  |
+| [\_jun perseides](https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_jun perseides](https://open.spotify.com/album/4EHRNl8rET8Ve72UQB2cLe) | 2:56 | 2024-03-01 | 2024-03-26 |
 | [\_mar le temps des fleurs](https://open.spotify.com/track/18vjlV9mj6tYB6dPxPozuS) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Saisons](https://open.spotify.com/album/3uawa6465DOXwrML3tmKEX) | 4:14 | 2024-03-22 |  |
 | [\_sept magie mauve](https://open.spotify.com/track/0OO8vt6iCMZAqZe8xrW2ky) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Saisons](https://open.spotify.com/album/111xYY3jdnUL7fVhItgOVy) | 3:57 | 2023-12-01 | 2023-12-21 |
 | [A quoi tu penses vraiment](https://open.spotify.com/track/0YRaJCYiH7PCBY7hRxz3XV) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 2:55 | 2023-09-15 | 2023-11-01 |
@@ -1011,6 +1011,7 @@
 | [Je partirai](https://open.spotify.com/track/3iku3rkYAUlFqhd72eOvJa) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Mauvais rêve](https://open.spotify.com/album/3enLAJnxNXQXcA4kqKYFq0) | 3:15 | 2023-05-26 | 2023-06-15 |
 | [Je partirai](https://open.spotify.com/track/4rsGnKtuQrxMBHQGt1z3FP) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Je partirai](https://open.spotify.com/album/1AvWJglFWzSCpttEKrsbku) | 3:15 | 2023-06-16 | 2023-07-29 |
 | [Je pense à toi \(vue par Jean\-Phi Goncalves\) \- Remix](https://open.spotify.com/track/3nuMUozXZaRUIYtKQQrnnU) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Je pense à toi \(vue par Jean\-Phi Goncalves\) \[Remix\]](https://open.spotify.com/album/5dNupmHmcCfK8YgdmTBX8G) | 3:54 | 2022-05-06 | 2022-05-20 |
+| [Je pense à vous](https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Je pense à vous](https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4) | 2:52 | 2024-03-22 |  |
 | [Je remplace mes exs](https://open.spotify.com/track/3QSTzAm336llccLmSrdqzI) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Je remplace mes exs](https://open.spotify.com/album/1JCfwbRtYqlTF6sQChqcuM) | 2:53 | 2023-09-08 | 2023-10-25 |
 | [JE RESPIRE](https://open.spotify.com/track/204PfCzQ6FbveeJH7RoxgU) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [JE RESPIRE](https://open.spotify.com/album/7MyrxRdDBg56H8TXlgUjRs) | 3:11 | 2022-06-03 | 2022-06-18 |
 | [Je resterai tout près \(Ton nom est un rivage\)](https://open.spotify.com/track/70EQSOKYqozg8DRVNKNyWs) | [Sylvie Paquette](https://open.spotify.com/artist/7lf5jug92e3K5mWcAzxlrB) | [Je resterai tout près](https://open.spotify.com/album/4d8TpxTY6tCucamqn2tmoQ) | 2:45 | 2022-05-06 | 2022-05-14 |

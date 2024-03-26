@@ -322,7 +322,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 160835,
       "name": "A Recurring Theme",
       "url": "https://open.spotify.com/track/51K71t2Sk90AVbjVsBcorb"
@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 135458,
       "name": "Canyon, Catch Your Thoughts",
       "url": "https://open.spotify.com/track/1DZgGPsQfkz9JUTzP2qQVr"
@@ -2486,7 +2486,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 122500,
       "name": "Common Ground",
       "url": "https://open.spotify.com/track/6xRvgTp2yFfkOua9icx0rD"
@@ -2864,7 +2864,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 136000,
       "name": "Danderlion",
       "url": "https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG"
@@ -3657,6 +3657,24 @@
     },
     {
       "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/7HngB2j6G8OPPegkEIEBXY"
+      },
+      "artists": [
+        {
+          "name": "Marco Apicella",
+          "url": "https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/4wv3ixqGPuO0Rdbf3Ut0PU"
+    },
+    {
+      "album": {
         "name": "Eros",
         "url": "https://open.spotify.com/album/7hOhgHILlzIIjBziaqADKt"
       },
@@ -4320,7 +4338,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 144000,
       "name": "Fj\u00e6rland",
       "url": "https://open.spotify.com/track/3nFJ85TXhIoNVZTVVlGNn9"
@@ -6078,7 +6096,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 191491,
       "name": "Into The Wild",
       "url": "https://open.spotify.com/track/218oB0WObOdE8kYYVvrPpU"
@@ -7846,7 +7864,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 146000,
       "name": "Mer Noire",
       "url": "https://open.spotify.com/track/5iLMqDI5mRCdK2VSIQYf59"
@@ -9275,6 +9293,24 @@
     },
     {
       "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/3IsqmVQFD31pAnxaKjmT4i"
+      },
+      "artists": [
+        {
+          "name": "Maya Sarfatto",
+          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "Perfect Timing",
+      "url": "https://open.spotify.com/track/6LUP8h81Gl3GzEMU7OaWxZ"
+    },
+    {
+      "album": {
         "name": "Perfectly Flawed",
         "url": "https://open.spotify.com/album/0K5ub7KMLtzFk4zM2nFiAp"
       },
@@ -9736,7 +9772,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 169500,
       "name": "Pure Joy",
       "url": "https://open.spotify.com/track/3CyDX1BeiOFbTcgnPijESa"
@@ -11126,7 +11162,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 158165,
       "name": "Setsu",
       "url": "https://open.spotify.com/track/1GKz0TpC7HktxQTirXpyZi"
@@ -13576,7 +13612,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 179500,
       "name": "Turn",
       "url": "https://open.spotify.com/track/26UD6EFThaMnBcmHxb8MOG"
@@ -13900,7 +13936,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 134861,
       "name": "Up and Away",
       "url": "https://open.spotify.com/track/0VwYVeHNJbZFgr1LzE5k40"
@@ -14105,6 +14141,24 @@
     },
     {
       "album": {
+        "name": "Velvet Veil",
+        "url": "https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123479,
+      "name": "Velvet Veil",
+      "url": "https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx"
+    },
+    {
+      "album": {
         "name": "Venetian Spring",
         "url": "https://open.spotify.com/album/4WrgnfcDX4dbiqQwZBhejU"
       },
@@ -14285,6 +14339,24 @@
     },
     {
       "album": {
+        "name": "Vorfreude",
+        "url": "https://open.spotify.com/album/3erketdR3l2Ma0u5EhDRaV"
+      },
+      "artists": [
+        {
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135838,
+      "name": "Vorfreude",
+      "url": "https://open.spotify.com/track/371WUfb9kImIrtse92gq7A"
+    },
+    {
+      "album": {
         "name": "Voyager",
         "url": "https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX"
       },
@@ -14386,7 +14458,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 127500,
       "name": "Warm",
       "url": "https://open.spotify.com/track/03zca5jNCKSk4uttDewQ42"

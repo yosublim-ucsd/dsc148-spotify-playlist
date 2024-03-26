@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 172390,
+  "num_followers": 172468,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGVlMzZmNWYzNDMwMDdlNWY1OTc4OGE0NmI5OWNjZGVmMzYyZWI4",
+  "snapshot_id": "MCw4ZWY4ZmNiM2M2NzlhOGI2NDAxNDRjM2Q2ZTU0YWExYzA1YWZhNjc0",
   "tracks": [
     {
       "added_at": "2023-10-05 13:18:26",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 235880,
+      "name": "Blues for Mama",
+      "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 268946,
       "name": "Who You Gonna Hoodoo Now?",
       "url": "https://open.spotify.com/track/2tPUpQpzrvg0yNHKKZfiS5"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 235880,
-      "name": "Blues for Mama",
-      "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Hung Down Head",
-        "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Blacksnake Blues",
         "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 674000,
       "name": "Blacksnake Blues",
       "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Hung Down Head",
+        "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Eric Clapton",
-        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 625293,
-      "name": "Blues In \"A\"",
-      "url": "https://open.spotify.com/track/6qXGPlkW4paWUiKUai43Mj"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Love Transcends",
         "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 175177,
       "name": "One Step Forward",
       "url": "https://open.spotify.com/track/0RQTKzj5xYJeuHKH0WFdoN"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Eric Clapton",
+        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 625293,
+      "name": "Blues In \"A\"",
+      "url": "https://open.spotify.com/track/6qXGPlkW4paWUiKUai43Mj"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Your Lies",
-        "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
-      },
-      "artists": [
-        {
-          "name": "The Cinelli Brothers",
-          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
-        }
-      ],
-      "duration_ms": 193130,
-      "name": "Your Lies",
-      "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "One Scotch, One Bourbon, One Beer",
         "url": "https://open.spotify.com/album/7uDIaa0VUbDhhEA4CkqNN6"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 192121,
       "name": "One Scotch, One Bourbon, One Beer",
       "url": "https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Your Lies",
+        "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
+      },
+      "artists": [
+        {
+          "name": "The Cinelli Brothers",
+          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
+        }
+      ],
+      "duration_ms": 193130,
+      "name": "Your Lies",
+      "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Crackdown",
-        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 211819,
-      "name": "Easy On The Eyes",
-      "url": "https://open.spotify.com/track/4mEITOF0rKhIZr3rBJuwk0"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Men of the World: The Early Years",
         "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 203400,
       "name": "Fast Talking Woman Blues",
       "url": "https://open.spotify.com/track/2fMyMnv8L2fqCoVAB97jj3"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Crackdown",
+        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 211819,
+      "name": "Easy On The Eyes",
+      "url": "https://open.spotify.com/track/4mEITOF0rKhIZr3rBJuwk0"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Love on the Rocks",
-        "url": "https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA"
-      },
-      "artists": [
-        {
-          "name": "Lauren Anderson",
-          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Love on the Rocks",
-      "url": "https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "One Day Closer To Home",
         "url": "https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 228832,
       "name": "One Day Closer To Home",
       "url": "https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Love on the Rocks",
+        "url": "https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA"
+      },
+      "artists": [
+        {
+          "name": "Lauren Anderson",
+          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Love on the Rocks",
+      "url": "https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Mississippi Son",
-        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Drifting From Town To Town",
-      "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Live At The Cafe Au-Go-Go",
         "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 200266,
       "name": "She's Long, She's Tall (She Weeps Like A Willow Tree) - Live At Cafe Au-Go-Go/1966",
       "url": "https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Drifting From Town To Town",
+      "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Outta' Season",
-        "url": "https://open.spotify.com/album/3oKjmBZzVdDLTQWI7vf5Jg"
-      },
-      "artists": [
-        {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
-        }
-      ],
-      "duration_ms": 202627,
-      "name": "Five Long Years",
-      "url": "https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Born Under A Bad Sign (Mono)",
         "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 188697,
       "name": "Laundromat Blues - Mono Mix",
       "url": "https://open.spotify.com/track/272P3DN547Z4CNFNdLV4SD"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Outta' Season",
+        "url": "https://open.spotify.com/album/3oKjmBZzVdDLTQWI7vf5Jg"
+      },
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+        }
+      ],
+      "duration_ms": 202627,
+      "name": "Five Long Years",
+      "url": "https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Keep on Lovin' the Blues",
+        "url": "https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm"
+      },
+      "artists": [
+        {
+          "name": "John Primer",
+          "url": "https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP"
+        }
+      ],
+      "duration_ms": 263893,
+      "name": "Like a Ship",
+      "url": "https://open.spotify.com/track/0RuwLMVBuMHF19cDYnGNFp"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Moods 'n' Blues",
         "url": "https://open.spotify.com/album/40EXF4rP2AjiIPTnbRZvtU"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 121872,
       "name": "Armadillo Shuffle",
       "url": "https://open.spotify.com/track/3cFsDWxEXUxtgUvOONu9qw"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Keep on Lovin' the Blues",
-        "url": "https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm"
-      },
-      "artists": [
-        {
-          "name": "John Primer",
-          "url": "https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP"
-        }
-      ],
-      "duration_ms": 263893,
-      "name": "Like a Ship",
-      "url": "https://open.spotify.com/track/0RuwLMVBuMHF19cDYnGNFp"
     },
     {
       "added_at": "2023-10-05 13:18:26",

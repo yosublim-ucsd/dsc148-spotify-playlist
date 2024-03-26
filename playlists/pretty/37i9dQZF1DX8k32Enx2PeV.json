@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 9817,
+  "num_followers": 9828,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNThlOTg5OWNmMDI3NWVmMTM5YzIzNWM2YjFhNjhhNWUyNDg2NTMy",
+  "snapshot_id": "MCwwZGU5YjBkMTU1Yzk0OTBiZDgyZTIwZjE5NWQ1ODE2YzIzOGUxODFj",
   "tracks": [
     {
       "added_at": "2023-09-22 05:25:00",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Dame Un Break",
-        "url": "https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 200598,
-      "name": "Dame Un Break",
-      "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/7vDmxXUdI5DH2tKSaDrJ0m"
       },
@@ -183,26 +167,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Qui\u00e9n Lo Dir\u00eda?",
-        "url": "https://open.spotify.com/album/7xRccUSF7yzBqHH0wEN3S9"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        },
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Qui\u00e9n Lo Dir\u00eda?",
-      "url": "https://open.spotify.com/track/452m5ztdx9eWHArqp7Bg5Z"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Un Koala En Una Palmera",
         "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
       },
@@ -215,6 +179,22 @@
       "duration_ms": 183529,
       "name": "Curarte",
       "url": "https://open.spotify.com/track/0Xrzd6jUgpqfyjWjMBwZ7Q"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Dame Un Break",
+        "url": "https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 200598,
+      "name": "Dame Un Break",
+      "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -271,8 +251,8 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "NINA",
-        "url": "https://open.spotify.com/album/3X5avTBhMfVYYyrUeX385j"
+        "name": "Qui\u00e9n Lo Dir\u00eda?",
+        "url": "https://open.spotify.com/album/7xRccUSF7yzBqHH0wEN3S9"
       },
       "artists": [
         {
@@ -280,13 +260,37 @@
           "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
         },
         {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
         }
       ],
-      "duration_ms": 299000,
-      "name": "NINA",
-      "url": "https://open.spotify.com/track/1TByEjVxNgxuhYE27PokOf"
+      "duration_ms": 218000,
+      "name": "Qui\u00e9n Lo Dir\u00eda?",
+      "url": "https://open.spotify.com/track/452m5ztdx9eWHArqp7Bg5Z"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Un Koala En Una Palmera",
+        "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
+        {
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Un D\u00eda a la Vez",
+      "url": "https://open.spotify.com/track/0ZwMPMDxqAzKJ4zaHzFI9H"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -343,30 +347,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Un Koala En Una Palmera",
-        "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        },
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Un D\u00eda a la Vez",
-      "url": "https://open.spotify.com/track/0ZwMPMDxqAzKJ4zaHzFI9H"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Corolla 94",
         "url": "https://open.spotify.com/album/0ntx5OUeKXWlmEiXHh7jXN"
       },
@@ -407,6 +387,26 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "NINA",
+        "url": "https://open.spotify.com/album/3X5avTBhMfVYYyrUeX385j"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "NINA",
+      "url": "https://open.spotify.com/track/1TByEjVxNgxuhYE27PokOf"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "Buen Pez (Deluz)",
         "url": "https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe"
       },
@@ -443,6 +443,26 @@
       "duration_ms": 167215,
       "name": "Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/7gzQzrH2ClI6WZaHLD5emF"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Besos Ricos",
+        "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 187715,
+      "name": "Besos Ricos",
+      "url": "https://open.spotify.com/track/1AeVenKA9w42gepptaabsD"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -499,6 +519,22 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "B\u00faho",
+        "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bleat",
+          "url": "https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb"
+        }
+      ],
+      "duration_ms": 300338,
+      "name": "B\u00faho",
+      "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "Porrito y a Dormir",
         "url": "https://open.spotify.com/album/7ztuaXnjW3EncPTBd8jrjx"
       },
@@ -519,42 +555,6 @@
       "duration_ms": 198000,
       "name": "Porrito y a Dormir",
       "url": "https://open.spotify.com/track/4PhdGGaXW1swPZzE5dsM1v"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Besos Ricos",
-        "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 187715,
-      "name": "Besos Ricos",
-      "url": "https://open.spotify.com/track/1AeVenKA9w42gepptaabsD"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "B\u00faho",
-        "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
-      },
-      "artists": [
-        {
-          "name": "Mr. Bleat",
-          "url": "https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb"
-        }
-      ],
-      "duration_ms": 300338,
-      "name": "B\u00faho",
-      "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Supernatural Love",
-        "url": "https://open.spotify.com/album/5UqBaTISwlVwyjVZJZP8ec"
-      },
-      "artists": [
-        {
-          "name": "Sidestepper",
-          "url": "https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B"
-        }
-      ],
-      "duration_ms": 284493,
-      "name": "Fuego Que Te Llama",
-      "url": "https://open.spotify.com/track/5W6rZxS6qNfdGsnify1ctY"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Lo Bueno Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/5R5CPGWYyfFJNaGPZ32v8i"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "En el Caribe Tambi\u00e9n Pasa Esto",
-        "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
+        "name": "Supernatural Love",
+        "url": "https://open.spotify.com/album/5UqBaTISwlVwyjVZJZP8ec"
       },
       "artists": [
         {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+          "name": "Sidestepper",
+          "url": "https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B"
         }
       ],
-      "duration_ms": 233613,
-      "name": "Goz\u00e1 Goz\u00e1",
-      "url": "https://open.spotify.com/track/1Mi4KFAuHfJKRORYYNEQ9B"
+      "duration_ms": 284493,
+      "name": "Fuego Que Te Llama",
+      "url": "https://open.spotify.com/track/5W6rZxS6qNfdGsnify1ctY"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1019,6 +1003,22 @@
       "duration_ms": 407295,
       "name": "Adi\u00f3s Batata - Cerrero Dub Mix",
       "url": "https://open.spotify.com/track/1VJi7PtheTX2oJYIJZ7bWD"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "En el Caribe Tambi\u00e9n Pasa Esto",
+        "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
+      },
+      "artists": [
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Goz\u00e1 Goz\u00e1",
+      "url": "https://open.spotify.com/track/1Mi4KFAuHfJKRORYYNEQ9B"
     },
     {
       "added_at": "2023-09-22 05:25:00",

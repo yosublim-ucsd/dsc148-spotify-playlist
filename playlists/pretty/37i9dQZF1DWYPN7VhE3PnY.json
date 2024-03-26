@@ -1,12 +1,12 @@
 {
   "description": "remember when we were dark and brooding. Cover: CHVRCHES\n",
-  "num_followers": 30004,
+  "num_followers": 30020,
   "original_name": "bitter/sweet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzg3NzkxOWU5MjMwZTUxM2FiMGQ2ZGU2MjI5NDc5NWQxMTE0NTJl",
+  "snapshot_id": "MCwzYTAwNzEwOWRmMWY0ZWJlOWE5YzIyMjM2NjNiNjYxYzk4NDg2NWFk",
   "tracks": [
     {
       "added_at": "2024-03-04 16:08:51",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-03-04 16:08:51",
       "album": {
-        "name": "Pretend",
-        "url": "https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 213968,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/1Ujt4hi9SHiMAxyCjJd1Kk"
-    },
-    {
-      "added_at": "2024-03-04 16:08:51",
-      "album": {
         "name": "Fingertips",
         "url": "https://open.spotify.com/album/0V6P8zzga41xlAM7YWF7pO"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 246147,
       "name": "Hold",
       "url": "https://open.spotify.com/track/6vITFXjXN3i1VwWI1iv3fc"
+    },
+    {
+      "added_at": "2024-03-04 16:08:51",
+      "album": {
+        "name": "Pretend",
+        "url": "https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 213968,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/1Ujt4hi9SHiMAxyCjJd1Kk"
     },
     {
       "added_at": "2024-03-04 16:08:51",

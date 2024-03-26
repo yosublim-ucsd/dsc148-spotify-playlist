@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Disrupta",
-  "num_followers": 57567,
+  "num_followers": 57605,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTJmMTFkMjcxMjQ2Y2JjMDc2Nzc1MGM5MGQ2ZGNlMjg3MjQ0OWE2",
+  "snapshot_id": "MCw5Nzg0YjU1YTczMzdhOGZlZTJjODU1ODNlMGU2ZDc3MGY2NmIwN2Q5",
   "tracks": [
     {
       "added_at": "2024-03-01 11:56:20",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-03-01 11:56:20",
       "album": {
+        "name": "Take Me Up",
+        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 215327,
+      "name": "Take Me Up",
+      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
+    },
+    {
+      "added_at": "2024-03-01 11:56:20",
+      "album": {
         "name": "Polarity (VIP)",
         "url": "https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 202971,
       "name": "Polarity - VIP",
       "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
-    },
-    {
-      "added_at": "2024-03-01 11:56:20",
-      "album": {
-        "name": "Take Me Up",
-        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 215327,
-      "name": "Take Me Up",
-      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
     },
     {
       "added_at": "2024-03-01 11:56:20",
@@ -995,26 +995,6 @@
     {
       "added_at": "2024-03-01 11:56:20",
       "album": {
-        "name": "Forever Changes",
-        "url": "https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6"
-      },
-      "artists": [
-        {
-          "name": "DNMO",
-          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
-        },
-        {
-          "name": "Zara Kershaw",
-          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
-        }
-      ],
-      "duration_ms": 184065,
-      "name": "Forever Changes",
-      "url": "https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs"
-    },
-    {
-      "added_at": "2024-03-01 11:56:20",
-      "album": {
         "name": "Skillz",
         "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 204621,
       "name": "Skillz",
       "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
+    },
+    {
+      "added_at": "2024-03-01 11:56:20",
+      "album": {
+        "name": "Forever Changes",
+        "url": "https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6"
+      },
+      "artists": [
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Zara Kershaw",
+          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
+        }
+      ],
+      "duration_ms": 184065,
+      "name": "Forever Changes",
+      "url": "https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs"
     },
     {
       "added_at": "2024-03-01 11:56:20",

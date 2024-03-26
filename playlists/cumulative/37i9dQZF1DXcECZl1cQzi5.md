@@ -4,7 +4,7 @@
 
 > Ocean sounds and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-106 songs - 5 hr 8 min
+107 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Calming Seas](https://open.spotify.com/track/4fMwSkpBaG61fufc3eaRSq) | [A Lonely Moon](https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf) | [Calming Seas](https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P) | 3:23 | 2023-10-23 |  |
 | [Calming Waves](https://open.spotify.com/track/5hMLPlPQSdTYHBzgi4mmnf) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [Calming Waves](https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf) | 2:37 | 2023-10-23 |  |
 | [Chao Phraya](https://open.spotify.com/track/3x2joKTEP8I0uSfl9MFjJC) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Chao Phraya](https://open.spotify.com/album/46KHRsTPjqj6N5QJA35JPO) | 2:52 | 2023-10-23 |  |
-| [Circles Above](https://open.spotify.com/track/1ViSc6YYY1AzoHGmsfQ9cl) | [Hænisson](https://open.spotify.com/artist/0Hdparp7CUNaqgqRWfx6bk) | [Circles Above](https://open.spotify.com/album/2vLnnXCZkC5bHJog6mFqRO) | 3:26 | 2024-03-20 |  |
+| [Circles Above](https://open.spotify.com/track/1ViSc6YYY1AzoHGmsfQ9cl) | [Hænisson](https://open.spotify.com/artist/0Hdparp7CUNaqgqRWfx6bk) | [Circles Above](https://open.spotify.com/album/2vLnnXCZkC5bHJog6mFqRO) | 3:26 | 2024-03-20 | 2024-03-26 |
+| [Close Reach](https://open.spotify.com/track/2679d04T5F8YA2vMmMxGcS) | [Sand Rae](https://open.spotify.com/artist/01AXMlLHjZDPlbVBPnXb8h) | [Close Reach](https://open.spotify.com/album/6rG6J9ffSjENnPTQ5uGXOo) | 2:45 | 2024-03-20 |  |
 | [Coastal Route](https://open.spotify.com/track/3OKLDuEbWfQhCvS7tCoagu) | [Voices Of The Ocean](https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt) | [Coastal Route](https://open.spotify.com/album/2tqu8ABLEaQHkkyDGpu8HG) | 3:15 | 2023-10-23 |  |
 | [Crescent Moon](https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Crescent Moon](https://open.spotify.com/album/7MvdhQIM6GlmeKlJ7oX8aD) | 3:46 | 2024-02-06 |  |
 | [Dawning \- Sound Bath](https://open.spotify.com/track/4MojyUlnEpB2Ay3xIgpPC4) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Dawning \(Sound Bath\)](https://open.spotify.com/album/5CquQvz9uO5r2uh132aNQ8) | 2:26 | 2023-10-23 |  |

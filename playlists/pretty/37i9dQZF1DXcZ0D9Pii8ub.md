@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ0D9Pii8ub.md) - [plain]
 
 > Spotifyオリジナル企画「Liner Voice+\(ライナーボイスプラス\)」。Awich ニューアルバム『THE UNION』をAwich本人が全曲ディープに解説！インタビュアー：渡辺志保
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,171 likes - 26 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,169 likes - 26 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ0D9Pii8ub.md) - [plain]
 | 25 | [Wait For Me](https://open.spotify.com/track/5fqDukIEgU8Zn8aJxumLdd) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 4:12 |
 | 26 | [Awich Liner Voice+ Epilogue](https://open.spotify.com/track/1fGIePmdqNAJmXBx0i5oOl) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Liner Voice+ Awich「THE UNION」](https://open.spotify.com/album/6XrW58OJdHYiZnsFbwNd80) | 1:34 |
 
-Snapshot ID: `MCxjNzdjNDY1Mjc2ODIxNDY3NzE4ZGYyNTdhODlhNTNkMTk4N2ViYmQ4`
+Snapshot ID: `MCw5M2MwZWJmYzFjMWVlZDIyODU1NDhmMWJkM2UxN2M0YTg0ZDQwYTdm`

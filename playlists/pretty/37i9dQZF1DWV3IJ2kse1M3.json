@@ -1,12 +1,12 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\n\u6211\u4e0d\u5728\u4e4e \u5225\u4eba\u600e\u9ebc\u770b \u600e\u9ebc\u731c\u6e2c \u6211\u53ea\u5728\u4e4e \u4f60\u4eca\u5929\u662f\u5426 \u7b11\u904e\u54ed\u904e\u3002",
-  "num_followers": 188486,
+  "num_followers": 188476,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTdjOTRkOTE1YjE5MjdjZmMzNDEyM2M2YWY4ZjY5MjM2MzBjM2Mx",
+  "snapshot_id": "MCwzNDI3MmE4YzkzMzVkNTJjOTNhOWQ2NmNkYWZmYmM5ZGZiMTJjNjk3",
   "tracks": [
     {
       "added_at": "2024-02-08 08:02:57",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-02-08 08:02:57",
       "album": {
-        "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 (\u300a\u5abd,\u5225\u9b27\u4e86!\u300b\u5f71\u96c6\u7247\u5c3e\u66f2)",
-        "url": "https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 278914,
-      "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 - \u300a\u5abd,\u5225\u9b27\u4e86!\u300b\u5f71\u96c6\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW"
-    },
-    {
-      "added_at": "2024-02-08 08:02:57",
-      "album": {
         "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein)",
         "url": "https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 320165,
       "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein) - \u96fb\u5f71<\u523b\u5728\u4f60\u5fc3\u5e95\u7684\u540d\u5b57>\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i"
+    },
+    {
+      "added_at": "2024-02-08 08:02:57",
+      "album": {
+        "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 (\u300a\u5abd,\u5225\u9b27\u4e86!\u300b\u5f71\u96c6\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 278914,
+      "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 - \u300a\u5abd,\u5225\u9b27\u4e86!\u300b\u5f71\u96c6\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW"
     },
     {
       "added_at": "2024-02-08 08:02:57",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-02-08 08:02:57",
       "album": {
-        "name": "\u81ea\u50b3",
-        "url": "https://open.spotify.com/album/4hg4cR8QMbE0xuvoxoA6DX"
-      },
-      "artists": [
-        {
-          "name": "Mayday",
-          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
-        }
-      ],
-      "duration_ms": 346282,
-      "name": "\u5f8c\u4f86\u7684\u6211\u5011",
-      "url": "https://open.spotify.com/track/13AruKdh8wJhWx6i5dV8X1"
-    },
-    {
-      "added_at": "2024-02-08 08:02:57",
-      "album": {
         "name": "\u5077\u6545\u4e8b\u7684\u4eba",
         "url": "https://open.spotify.com/album/181c4IPOvcJphA0ZKAZIeW"
       },
@@ -363,18 +347,18 @@
     {
       "added_at": "2024-02-08 08:02:57",
       "album": {
-        "name": "\u8a8d\u4e86\u5427",
-        "url": "https://open.spotify.com/album/2CKvwKuHcZvnt4mC9DB6Fk"
+        "name": "\u81ea\u50b3",
+        "url": "https://open.spotify.com/album/4hg4cR8QMbE0xuvoxoA6DX"
       },
       "artists": [
         {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+          "name": "Mayday",
+          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
         }
       ],
-      "duration_ms": 285000,
-      "name": "\u6dd8\u6c70",
-      "url": "https://open.spotify.com/track/3aawXLnJpcDVXCl1UUksAW"
+      "duration_ms": 346282,
+      "name": "\u5f8c\u4f86\u7684\u6211\u5011",
+      "url": "https://open.spotify.com/track/13AruKdh8wJhWx6i5dV8X1"
     },
     {
       "added_at": "2024-02-08 08:02:57",
@@ -391,6 +375,22 @@
       "duration_ms": 256720,
       "name": "\u8aaa\u597d\u7684\u5e78\u798f\u5462",
       "url": "https://open.spotify.com/track/4OoExItZJ0jePoCZDbHx4t"
+    },
+    {
+      "added_at": "2024-02-08 08:02:57",
+      "album": {
+        "name": "\u8a8d\u4e86\u5427",
+        "url": "https://open.spotify.com/album/2CKvwKuHcZvnt4mC9DB6Fk"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "\u6dd8\u6c70",
+      "url": "https://open.spotify.com/track/3aawXLnJpcDVXCl1UUksAW"
     },
     {
       "added_at": "2024-02-08 08:02:57",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-02-08 08:02:57",
       "album": {
-        "name": "\u6211\u5011 (\u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r"
+        "name": "\u8303\u7279\u897f",
+        "url": "https://open.spotify.com/album/2QtCt02mqDZBpyDAZW6JzC"
       },
       "artists": [
         {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 260878,
-      "name": "\u6211\u5011 - \u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos"
+      "duration_ms": 334240,
+      "name": "\u5b89\u975c",
+      "url": "https://open.spotify.com/track/4oSqIlKulWts1oRUIem44V"
     },
     {
       "added_at": "2024-02-08 08:02:57",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-02-08 08:02:57",
       "album": {
+        "name": "\u6211\u5011 (\u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "duration_ms": 260878,
+      "name": "\u6211\u5011 - \u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos"
+    },
+    {
+      "added_at": "2024-02-08 08:02:57",
+      "album": {
         "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c (\u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 309840,
       "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c - \u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe"
-    },
-    {
-      "added_at": "2024-02-08 08:02:57",
-      "album": {
-        "name": "\u8303\u7279\u897f",
-        "url": "https://open.spotify.com/album/2QtCt02mqDZBpyDAZW6JzC"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 334240,
-      "name": "\u5b89\u975c",
-      "url": "https://open.spotify.com/track/4oSqIlKulWts1oRUIem44V"
     },
     {
       "added_at": "2024-02-08 08:02:57",
@@ -603,22 +603,18 @@
     {
       "added_at": "2024-02-08 08:02:57",
       "album": {
-        "name": "\u5c0d\u7b49\u95dc\u4fc2 (feat. \u5f35\u60e0\u59b9)",
-        "url": "https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2"
+        "name": "\u6211\u5f88\u5fd9",
+        "url": "https://open.spotify.com/album/5JNrPPT60TzrqBxsY3hn0A"
       },
       "artists": [
         {
-          "name": "Ronghao Li",
-          "url": "https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K"
-        },
-        {
-          "name": "A-Mei Chang",
-          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 327228,
-      "name": "\u5c0d\u7b49\u95dc\u4fc2 (feat. \u5f35\u60e0\u59b9)",
-      "url": "https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc"
+      "duration_ms": 235840,
+      "name": "\u6700\u9577\u7684\u96fb\u5f71",
+      "url": "https://open.spotify.com/track/4J1vA4sgG6FJ1j21UugbtH"
     },
     {
       "added_at": "2024-02-08 08:02:57",
@@ -655,18 +651,22 @@
     {
       "added_at": "2024-02-08 08:02:57",
       "album": {
-        "name": "\u6211\u5f88\u5fd9",
-        "url": "https://open.spotify.com/album/5JNrPPT60TzrqBxsY3hn0A"
+        "name": "\u5c0d\u7b49\u95dc\u4fc2 (feat. \u5f35\u60e0\u59b9)",
+        "url": "https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2"
       },
       "artists": [
         {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+          "name": "Ronghao Li",
+          "url": "https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K"
+        },
+        {
+          "name": "A-Mei Chang",
+          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
         }
       ],
-      "duration_ms": 235840,
-      "name": "\u6700\u9577\u7684\u96fb\u5f71",
-      "url": "https://open.spotify.com/track/4J1vA4sgG6FJ1j21UugbtH"
+      "duration_ms": 327228,
+      "name": "\u5c0d\u7b49\u95dc\u4fc2 (feat. \u5f35\u60e0\u59b9)",
+      "url": "https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc"
     },
     {
       "added_at": "2024-02-08 08:02:57",

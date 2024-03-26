@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 251,
+  "2024-03-26": 251,
   "date_first_scraped": "2024-02-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ\">Hillary Lindsey</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Hillary Lindsey",
@@ -3873,7 +3873,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 256619,
       "name": "Sleep Tonight",
       "url": "https://open.spotify.com/track/7CWKY0ttIoSaVtMd5k1Fjv"
@@ -4776,6 +4776,24 @@
     },
     {
       "album": {
+        "name": "Think Like A Man",
+        "url": "https://open.spotify.com/album/1vYDtqGoe72TIlambhTo7N"
+      },
+      "artists": [
+        {
+          "name": "Tyra Madison",
+          "url": "https://open.spotify.com/artist/6QJWnamgxenwynyhKuRnrh"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188710,
+      "name": "Think Like A Man",
+      "url": "https://open.spotify.com/track/7cLCkXaWzisQwDLkGBXSu5"
+    },
+    {
+      "album": {
         "name": "Martina",
         "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
       },
@@ -4989,6 +5007,24 @@
       "duration_ms": 173920,
       "name": "Trip Around the Sun",
       "url": "https://open.spotify.com/track/3RcFrGu08HvRPCh00iB2kJ"
+    },
+    {
+      "album": {
+        "name": "True North / Parking Lot",
+        "url": "https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV"
+      },
+      "artists": [
+        {
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "True North",
+      "url": "https://open.spotify.com/track/21nd6ZeppvtuHs227hLUZB"
     },
     {
       "album": {

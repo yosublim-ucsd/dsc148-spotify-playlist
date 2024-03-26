@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 31676,
+  "2024-03-26": 31719,
   "date_first_scraped": "2023-03-30",
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: Dhanda Nyoliwala",
   "name": "Hip-Hop Haryanvi",
@@ -873,6 +873,28 @@
       "duration_ms": 175624,
       "name": "Chora Baba Ka",
       "url": "https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf"
+    },
+    {
+      "album": {
+        "name": "Chora Bawla",
+        "url": "https://open.spotify.com/album/3jgcNPA98XVXvjyS28uw2n"
+      },
+      "artists": [
+        {
+          "name": "The LeKhak",
+          "url": "https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT"
+        },
+        {
+          "name": "BAD Junkie",
+          "url": "https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203265,
+      "name": "Chora Bawla",
+      "url": "https://open.spotify.com/track/1TbgzF4Mv1ZQymdH2AfqlZ"
     },
     {
       "album": {
@@ -3513,7 +3535,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 228182,
       "name": "Rx 100 Part-3",
       "url": "https://open.spotify.com/track/0KEjwwFOhI3l3bcenOvzjJ"

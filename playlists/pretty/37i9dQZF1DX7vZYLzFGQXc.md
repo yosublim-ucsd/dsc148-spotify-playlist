@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: IMI\_BLUE\(이미블루\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,591 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,607 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [Winter Dance](https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI) | [Winter Dance](https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR) | 2:45 |
 | 50 | [A New World!](https://open.spotify.com/track/05qU6gB0wCKCzz7CZcF3MP) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Love Letter](https://open.spotify.com/album/7vBYVXzw2LvekeEoE6N3WJ) | 3:26 |
 | 51 | [Bouquet](https://open.spotify.com/track/1xwe99Xdw6AbNtBLCePb7p) | [Tia](https://open.spotify.com/artist/5JYckt6cBD2B7EXn6kE4gR), [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [Bouquet](https://open.spotify.com/album/5Q0hd1CyniwbSz5dPUCpQK) | 3:29 |
-| 52 | [해무 Wave on the sea \(feat\. 박다울\)](https://open.spotify.com/track/5qC95MhoHhn9c879EdjLut) | [PITTA](https://open.spotify.com/artist/6XM2UmNjSqY2kwSP0hoZDI), [박다울](https://open.spotify.com/artist/2nHQE7gMrZ6yyTTPhIsCd4) | [해무 Wave on the sea \(feat\. 박다울\)](https://open.spotify.com/album/7ep78d3iBbSYFb9vlvvn7t) | 4:22 |
+| 52 | [Wave on the sea \(feat\. Dawool Park\)](https://open.spotify.com/track/5qC95MhoHhn9c879EdjLut) | [PITTA](https://open.spotify.com/artist/6XM2UmNjSqY2kwSP0hoZDI), [Dawool Park](https://open.spotify.com/artist/3Ravkk848Sqvei9Fe8lZlg) | [Wave on the sea \(feat\. Dawool Park\)](https://open.spotify.com/album/7ep78d3iBbSYFb9vlvvn7t) | 4:22 |
 | 53 | [To my beloved](https://open.spotify.com/track/1DcQbrxxxSwhD94jBTPVWh) | [Ricoe](https://open.spotify.com/artist/3bLLqmYWxBBvvNejd0djsU) | [To my beloved](https://open.spotify.com/album/78rka42gpnzA9XjfGrbuAT) | 3:52 |
 | 54 | [It Couldn’t Be Better](https://open.spotify.com/track/3KPsZ9xEvbdIloQb0OjwPI) | [SakaZan](https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM) | [It Couldn’t Be Better](https://open.spotify.com/album/1iGNYCVo1OAoX7UjJZ72r2) | 3:14 |
 | 55 | [christmas recipe \(feat\. 16\)](https://open.spotify.com/track/16rKQI5eOg9v47XOoA7beq) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [16](https://open.spotify.com/artist/0OTgDNfl2p58FhCuhFuMcF) | [christmas recipe](https://open.spotify.com/album/7IPcwUqtcrmpwVE7dKgdYF) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [Rainbow](https://open.spotify.com/track/12ku60Vbv6CkBal4Bq4u2Y) | [Heon](https://open.spotify.com/artist/4AfVKxP48OYzRXuAz2d3XO) | [Rainbow](https://open.spotify.com/album/1wxJKyH69bCA7zkJRjvqoM) | 3:32 |
 | 100 | [Ride \(Feat\. Jueun\)](https://open.spotify.com/track/1cCszH5E4C3U01CaLFsuVR) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U) | [Dear.R](https://open.spotify.com/album/3tqu6xDwjAStZh0A8oiXKH) | 3:12 |
 
-Snapshot ID: `MCxhY2U2ZWQ5MTVkN2QwMGE4YTQyMDE2OGNjYzI3ZDliNmY3NWIyZjVl`
+Snapshot ID: `MCw0ODVmOWFlYmY5NGUzNTg4MDdhN2RkMDcwZGJkYjUyMWM4NDE1MzY2`

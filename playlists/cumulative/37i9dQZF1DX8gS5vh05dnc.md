@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-285 songs - 15 hr 20 min
+286 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Always By My Side](https://open.spotify.com/track/3vQe560Jawf6WeHNG3x6XB) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [Wake Up, It's Morning](https://open.spotify.com/album/2jDVVWdGzt3sKd7HSemXzb) | 3:19 | 2023-10-09 | 2023-10-16 |
 | [Anything You Want](https://open.spotify.com/track/78LMazmfqncADjyJVae8dN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Anything You Want](https://open.spotify.com/album/0heGEO3au4OmkR8Oor96qu) | 2:03 | 2024-02-26 |  |
 | [Attention](https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:28 | 2022-07-25 |  |
+| [Bababababy](https://open.spotify.com/track/66ltSUFE9eiyH0NiKMSfv4) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [Bababababy](https://open.spotify.com/album/6UYYhPbEjlwTtz0tPerDkg) | 2:51 | 2024-03-25 |  |
 | [Bad Boy](https://open.spotify.com/track/1WCOna34eEMPgjfOOZkGQc) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Bad Boy](https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q) | 3:02 | 2022-06-06 | 2022-07-29 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-08 |  |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2022-07-25 |  |
@@ -233,7 +234,7 @@
 | [Some Things Never Change](https://open.spotify.com/track/04ZQVZvFadkN5wA88owIxv) | [Laura Ribeiro](https://open.spotify.com/artist/0VwEJB7l36x6SorcdfcT5a), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Some Things Never Change](https://open.spotify.com/album/573Vfx55DSu8ysefBIU3QP) | 2:54 | 2022-06-13 | 2022-07-17 |
 | [something special](https://open.spotify.com/track/10e9vFUj8aRJItKhhIsmRT) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [something special \(hi\)](https://open.spotify.com/album/3ym5rYu42SjQOoirjjg8Dy) | 2:37 | 2022-06-06 | 2022-07-29 |
 | [STAY](https://open.spotify.com/track/453LUWCXecCS234CYjtnoL) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [STAY](https://open.spotify.com/album/6MUZsclNb2Ve2A5lSzmPQ7) | 3:33 | 2022-06-06 | 2022-07-29 |
-| [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 | 2022-07-25 |  |
+| [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 | 2022-07-25 | 2024-03-26 |
 | [Sugar High](https://open.spotify.com/track/4kxvZQphY6GoRbtmqBMhqE) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Sugar High](https://open.spotify.com/album/0Zy8jxZXmjO5gi48lDdmPx) | 3:25 | 2022-06-27 | 2022-07-04 |
 | [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 | 2023-05-15 |  |
 | [Summer Feelings \(feat\. Charlie Puth\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Summer Feelings \(feat\. Charlie Puth\)](https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW) | 2:40 | 2022-11-07 | 2023-08-23 |

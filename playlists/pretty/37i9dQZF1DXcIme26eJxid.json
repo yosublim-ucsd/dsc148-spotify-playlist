@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 102703,
+  "num_followers": 102740,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWIzNGQzMzA0ODk2YWM3NmU2YmNjZDk1ZmNlYmRlNzE1MGQ1OTlk",
+  "snapshot_id": "MCwwNDZiNjFiNTg4ZmY2ZDRkNjY5YzUwMTI1MzNmMWY5MDJhMDk5OGZk",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -123,22 +123,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
-        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
-      },
-      "artists": [
-        {
-          "name": "William Onyeabor",
-          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
-        }
-      ],
-      "duration_ms": 386160,
-      "name": "Fantastic Man",
-      "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/51kRDjKcrYrQfFmOktFh32"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 745653,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/3RZoPvPHZsPTTc94DfWSCL"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
+        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "duration_ms": 386160,
+      "name": "Fantastic Man",
+      "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
     },
     {
       "added_at": "2020-04-07 09:19:20",
@@ -327,22 +327,6 @@
     {
       "added_at": "2020-04-07 09:19:20",
       "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/61hn5xRSprCPfYGgdeW3tl"
-      },
-      "artists": [
-        {
-          "name": "Boom Shaka",
-          "url": "https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "It's About Time",
-      "url": "https://open.spotify.com/track/1m9z5GSmXqjafOYlHQVzlC"
-    },
-    {
-      "added_at": "2020-04-07 09:19:20",
-      "album": {
         "name": "Ibokwe",
         "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 372000,
       "name": "Ingoma",
       "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
+    },
+    {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/61hn5xRSprCPfYGgdeW3tl"
+      },
+      "artists": [
+        {
+          "name": "Boom Shaka",
+          "url": "https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "It's About Time",
+      "url": "https://open.spotify.com/track/1m9z5GSmXqjafOYlHQVzlC"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -387,6 +387,22 @@
       "duration_ms": 339253,
       "name": "Theresa",
       "url": "https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4"
+    },
+    {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -423,22 +439,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "So (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 638227,
-      "name": "In Your Eyes - Live",
-      "url": "https://open.spotify.com/track/4eaCU2oPnksTeuwsQmFr12"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
         "url": "https://open.spotify.com/album/3qvdUGpEoOjOrbtZpWApYm"
       },
@@ -453,20 +453,20 @@
       "url": "https://open.spotify.com/track/5ww9r75Y8JPRgAAc3qJPms"
     },
     {
-      "added_at": "2020-04-07 09:19:20",
+      "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+        "name": "So (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3"
       },
       "artists": [
         {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
         }
       ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
+      "duration_ms": 638227,
+      "name": "In Your Eyes - Live",
+      "url": "https://open.spotify.com/track/4eaCU2oPnksTeuwsQmFr12"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Ojah Awake",
-        "url": "https://open.spotify.com/album/4jklZxOxbnLsIdCCSTdn63"
-      },
-      "artists": [
-        {
-          "name": "Osibisa",
-          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
-        }
-      ],
-      "duration_ms": 296093,
-      "name": "Ojah Awake",
-      "url": "https://open.spotify.com/track/0rnDmgcZvn9WPsOPqHbt16"
-    },
-    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Weekend Special (USA Remixes)",
@@ -551,6 +535,22 @@
       "duration_ms": 288109,
       "name": "Weekend Special (with Brenda Fassie) - USA Remix",
       "url": "https://open.spotify.com/track/3Uy4yCyO4Yfc9JfifokpJG"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Ojah Awake",
+        "url": "https://open.spotify.com/album/4jklZxOxbnLsIdCCSTdn63"
+      },
+      "artists": [
+        {
+          "name": "Osibisa",
+          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
+        }
+      ],
+      "duration_ms": 296093,
+      "name": "Ojah Awake",
+      "url": "https://open.spotify.com/track/0rnDmgcZvn9WPsOPqHbt16"
     },
     {
       "added_at": "2019-06-28 16:54:51",

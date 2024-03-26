@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 257707,
+  "num_followers": 257860,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGE4MGI1M2ZhYjNlNWRhNWI3OWE0NzA4MGM0ZDNiOWU1OTA4NmUy",
+  "snapshot_id": "MCw4NWE3OWJiZjhmZmM0MTIyNWIwMThhNzY3ODU5OTZjNWQ0Y2RjODc5",
   "tracks": [
     {
       "added_at": "2024-03-22 15:59:52",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "Faithless 2.0",
+        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 222435,
+      "name": "We Come 1 - Radio Edit",
+      "url": "https://open.spotify.com/track/7reoZz80hQYuWtEn0Lsd0p"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "Upstairs At Eric's",
         "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
       },
@@ -647,38 +663,18 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
-        "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
       },
       "artists": [
         {
-          "name": "Energy 52",
-          "url": "https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7"
-        },
-        {
-          "name": "Three 'N One",
-          "url": "https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         }
       ],
-      "duration_ms": 229600,
-      "name": "Caf\u00e9 Del Mar - Three 'n One Radio Edit",
-      "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "Faithless 2.0",
-        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 222435,
-      "name": "We Come 1 - Radio Edit",
-      "url": "https://open.spotify.com/track/7reoZz80hQYuWtEn0Lsd0p"
+      "duration_ms": 253760,
+      "name": "Natural Blues",
+      "url": "https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -695,6 +691,26 @@
       "duration_ms": 217240,
       "name": "Go",
       "url": "https://open.spotify.com/track/0e8C9dPERvvARURkNOFrrC"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
+        "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
+      },
+      "artists": [
+        {
+          "name": "Energy 52",
+          "url": "https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7"
+        },
+        {
+          "name": "Three 'N One",
+          "url": "https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "Caf\u00e9 Del Mar - Three 'n One Radio Edit",
+      "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -815,22 +831,6 @@
       "duration_ms": 175133,
       "name": "Past",
       "url": "https://open.spotify.com/track/2xtxL91lK4jlKkZ0RBC7EQ"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "Play & Play: B Sides",
-        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Natural Blues",
-      "url": "https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1299,22 +1299,18 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "So Many Colours",
-        "url": "https://open.spotify.com/album/4WlD2i4Eb75fNj9VukkEB8"
+        "name": "Sueno Latino",
+        "url": "https://open.spotify.com/album/4QTx2kmdAMu29VYZponTp7"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Padilla",
-          "url": "https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU"
-        },
-        {
-          "name": "Lydmor",
-          "url": "https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR"
+          "name": "Sue\u00f1o Latino",
+          "url": "https://open.spotify.com/artist/3E8tZZM4XEt5CBNcXDryTQ"
         }
       ],
-      "duration_ms": 364225,
-      "name": "Maybe The Sunset",
-      "url": "https://open.spotify.com/track/00CQJXwhMPdoyXRlITsoBT"
+      "duration_ms": 634893,
+      "name": "Sueno Latino - Paradise Version",
+      "url": "https://open.spotify.com/track/0LsmbSRu39mBwEw4cTMpYW"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1335,18 +1331,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Sueno Latino",
-        "url": "https://open.spotify.com/album/4QTx2kmdAMu29VYZponTp7"
+        "name": "So Many Colours",
+        "url": "https://open.spotify.com/album/4WlD2i4Eb75fNj9VukkEB8"
       },
       "artists": [
         {
-          "name": "Sue\u00f1o Latino",
-          "url": "https://open.spotify.com/artist/3E8tZZM4XEt5CBNcXDryTQ"
+          "name": "Jos\u00e9 Padilla",
+          "url": "https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU"
+        },
+        {
+          "name": "Lydmor",
+          "url": "https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR"
         }
       ],
-      "duration_ms": 634893,
-      "name": "Sueno Latino - Paradise Version",
-      "url": "https://open.spotify.com/track/0LsmbSRu39mBwEw4cTMpYW"
+      "duration_ms": 364225,
+      "name": "Maybe The Sunset",
+      "url": "https://open.spotify.com/track/00CQJXwhMPdoyXRlITsoBT"
     },
     {
       "added_at": "2024-03-22 15:59:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: LE SSERAFIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,237 likes - 73 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,703 likes - 73 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 72 | [My Beloved](https://open.spotify.com/track/2o8qsTLDQ17QWeozcwKFoF) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [My Beloved](https://open.spotify.com/album/2EngEc311hXov3f6KQ6h8D) | 4:04 |
 | 73 | [RU\-PUM PUM](https://open.spotify.com/track/5DT0N1FBeg3dNWYPKvMBn9) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [STUNNING](https://open.spotify.com/album/6UujLe3I4a4DIIghqJiOLe) | 3:22 |
 
-Snapshot ID: `MCxjODFkMGQyNDBiYWM3NTEyNzc1YmIwZjY3OTBkYTNmODBkNGU1MTQ1`
+Snapshot ID: `MCxjMTc1NDRlNmM2Y2QwNWE2NWRkOWU4MzA2ZDIxN2YxNGQxZGMxMzhj`

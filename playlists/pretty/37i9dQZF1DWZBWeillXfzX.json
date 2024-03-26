@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 22261,
+  "num_followers": 22272,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzU5YzE3ZmVlMzczYjNiMmI1NmQ3MDE4NzBhMTE3NzEwZDczMDI4",
+  "snapshot_id": "MCwyMzYzMmNmYWZjNzY3Yjk2ZjMxZGU3N2ZiMWZmZGJmMzE2OGE5ZmZi",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -179,6 +179,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Songlines",
+        "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
+      },
+      "artists": [
+        {
+          "name": "The Derek Trucks Band",
+          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+        }
+      ],
+      "duration_ms": 233773,
+      "name": "Crow Jane",
+      "url": "https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Have You Lost Your Mind yet?",
         "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
       },
@@ -231,18 +247,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Songlines",
-        "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
+        "name": "Lay It On Down",
+        "url": "https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR"
       },
       "artists": [
         {
-          "name": "The Derek Trucks Band",
-          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
         }
       ],
-      "duration_ms": 233773,
-      "name": "Crow Jane",
-      "url": "https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3"
+      "duration_ms": 293506,
+      "name": "Nothing But The Night",
+      "url": "https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -259,22 +275,6 @@
       "duration_ms": 157413,
       "name": "Got to Get Up",
       "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Lay It On Down",
-        "url": "https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 293506,
-      "name": "Nothing But The Night",
-      "url": "https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -341,6 +341,22 @@
       "url": "https://open.spotify.com/track/0jx10sJgrjmXhDI14fBI79"
     },
     {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "The Traveler",
+        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 387706,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
+    },
+    {
       "added_at": "2021-04-27 23:04:41",
       "album": {
         "name": "Raisin' Cain",
@@ -387,22 +403,6 @@
       "duration_ms": 191880,
       "name": "Roll With the Punches",
       "url": "https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "The Traveler",
-        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 387706,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw"
-      },
-      "artists": [
-        {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
-        }
-      ],
-      "duration_ms": 250182,
-      "name": "Brown Gatton",
-      "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "The Outsider",
         "url": "https://open.spotify.com/album/1FhG7Y39Kl943GMX5ftL5I"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 216552,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/5XXZm9gKlhJYXONpvzPWQ1"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw"
+      },
+      "artists": [
+        {
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+        }
+      ],
+      "duration_ms": 250182,
+      "name": "Brown Gatton",
+      "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1"
     },
     {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 63720,
-      "name": "Rattlin' Change",
-      "url": "https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1"
-    },
-    {
       "added_at": "2020-10-21 17:37:12",
       "album": {
         "name": "Chills & Thrills",
@@ -671,6 +655,22 @@
       "duration_ms": 180583,
       "name": "Cry for Me",
       "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 63720,
+      "name": "Rattlin' Change",
+      "url": "https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -723,22 +723,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "How Long",
-        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Reckless Heart",
         "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "How Long",
+        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Over Your Head",
         "url": "https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 388893,
       "name": "Pusher",
       "url": "https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Unrepentant",
-        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
-      },
-      "artists": [
-        {
-          "name": "Greg Koch",
-          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
-        }
-      ],
-      "duration_ms": 599678,
-      "name": "Sweet Tea",
-      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
     },
     {
       "added_at": "2021-06-04 04:01:00",
@@ -863,6 +847,22 @@
       "duration_ms": 268733,
       "name": "Royal Tea",
       "url": "https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Unrepentant",
+        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
+      },
+      "artists": [
+        {
+          "name": "Greg Koch",
+          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
+        }
+      ],
+      "duration_ms": 599678,
+      "name": "Sweet Tea",
+      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
     }
   ],
   "unique_name": "Modern Blues Guitar",

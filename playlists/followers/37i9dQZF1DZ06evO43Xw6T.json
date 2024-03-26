@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 75949,
+  "2024-03-26": 76155,
   "date_first_scraped": "2024-01-30",
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
   "name": "This Is Gabito Ballesteros",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 233935,
       "name": "Abeja Reina",
       "url": "https://open.spotify.com/track/7C0xpS2Dt5pRVPmGjaZout"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 179372,
       "name": "ME LIBER\u00c9",
       "url": "https://open.spotify.com/track/1TbIhbN9v9Qbrlsyp7VE5T"

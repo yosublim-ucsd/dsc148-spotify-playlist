@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Adrianne Lenker
 
-6,742 songs - 16 day 9 hr 46 min
+6,744 songs - 16 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -642,7 +642,7 @@
 | [Big Smoke](https://open.spotify.com/track/66miBbiy913lgyKOCdFta0) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Big Smoke](https://open.spotify.com/album/55jejAjtHUgzIbF2Lde861) | 3:38 | 2023-02-17 | 2023-03-25 |
 | [Big Softy](https://open.spotify.com/track/1GJX41Wd13ndG9l7oh2ofU) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [New Songs For Old Problems](https://open.spotify.com/album/0VeJW8F3s8IJkCoduyHo4g) | 3:59 | 2019-05-26\* | 2019-08-13 |
 | [Big Songbirds Don't Cry](https://open.spotify.com/track/4GGykL1fVMyX0d4qPCMaT4) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Big Songbirds Don’t Cry](https://open.spotify.com/album/1jRzU7XRaMYyoNAHniaWMI) | 3:54 | 2023-04-07 | 2023-05-13 |
-| [Big Swimmer](https://open.spotify.com/track/78iDovxztM8NPixnQTj8SV) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Big Swimmer](https://open.spotify.com/album/72fBqfTWOPPJfA8x1E0ITH) | 5:22 | 2024-03-08 |  |
+| [Big Swimmer](https://open.spotify.com/track/78iDovxztM8NPixnQTj8SV) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Big Swimmer](https://open.spotify.com/album/72fBqfTWOPPJfA8x1E0ITH) | 5:22 | 2024-03-08 | 2024-03-26 |
 | [Big Time](https://open.spotify.com/track/0OhZEVzS5iCdPyVANAqGqm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/5cYoVs8TyCVkTUr8vjpIFF) | 4:07 | 2022-04-29 | 2022-06-22 |
 | [Big Trees](https://open.spotify.com/track/78LgyytZ57eBM18kx5YFAk) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Big Trees](https://open.spotify.com/album/5eXrCNWiY4ZP01MWog4FN4) | 3:15 | 2021-12-10 | 2022-03-26 |
 | [Big Trouble \(with Tei Shi\)](https://open.spotify.com/track/0ocr7Yn9DpnMLXUHUWeCxu) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Big Trouble \(with Tei Shi\)](https://open.spotify.com/album/3k9aqoRFJyUvYEXWE1uyE3) | 3:50 | 2023-11-10 | 2024-01-05 |
@@ -846,6 +846,7 @@
 | [Brooklyn Bridge To Chorus](https://open.spotify.com/track/5gzm0zFeHjYfteQu7x2uus) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Brooklyn Bridge To Chorus](https://open.spotify.com/album/65PUx9jZOVDQJJsid4WbnZ) | 3:55 | 2020-04-10 | 2020-05-15 |
 | [Brother](https://open.spotify.com/track/0UjGgRlCwnH9zf4DKiads8) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Your Mind Is A Picture](https://open.spotify.com/album/0Tiz91zHGJ2kwCaLq4IRb2) | 4:27 | 2019-07-12 | 2019-07-20 |
 | [Brown Eyes and Backwoods](https://open.spotify.com/track/4k6eepbiT86WaOgcOqMuSb) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Brown Eyes and Backwoods](https://open.spotify.com/album/6zVkK6T2AXSsZhoFJaddhG) | 2:58 | 2022-01-21 | 2022-03-05 |
+| [brown eyes\*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [brown eyes\*](https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO) | 2:43 | 2024-03-26 |  |
 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 | 2024-02-16 |  |
 | [Bruise](https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Bruise](https://open.spotify.com/album/0pzoYtS7zcG2kd7g4NUbrx) | 2:59 | 2023-04-07 | 2023-05-13 |
 | [Bruise](https://open.spotify.com/track/6vJFWet1sMnWrKE8dDmfGG) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Bruise](https://open.spotify.com/album/0HR7LLku7QMhusktFwyQx6) | 3:52 | 2019-05-31 | 2019-08-13 |
@@ -1824,7 +1825,8 @@
 | [Everywhere is War](https://open.spotify.com/track/6UF5dU8SOiegM5f5u0mh7v) | [The So So Glos](https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Everywhere is War \(feat\. Conor Oberst\)](https://open.spotify.com/album/2BNSVrjHOZaPBQQLzQH9s6) | 3:14 | 2023-03-03 | 2023-04-09 |
 | [Evicted](https://open.spotify.com/track/2JW4rkz1XshjSVV4LES2RJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Evicted](https://open.spotify.com/album/2Exf1TaOG1wElBCKNDzWdz) | 3:29 | 2023-08-04 | 2023-09-09 |
 | [Evolution](https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Evolution](https://open.spotify.com/album/18Nmv8QNKh8qjwJnG7iRJD) | 3:50 | 2023-01-20 | 2023-02-25 |
-| [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 | 2024-03-01 |  |
+| [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 | 2024-03-01 |  |
+| [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 | 2024-03-01 | 2024-03-26 |
 | [excuses \(feat\. The Ready Set\)](https://open.spotify.com/track/5UeDZJFN8XrWeqI6lP6Kea) | [goth gf](https://open.spotify.com/artist/2ce5F0dH7nyfvn4nw0W5A1), [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [excuses \(feat\. The Ready Set\)](https://open.spotify.com/album/567S9peAMCk2MVKQGVFZ0I) | 2:59 | 2022-04-29 | 2022-05-28 |
 | [Exhale \- Edit](https://open.spotify.com/track/1kuZYUny8zNJ2whFQIMWEb) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Exhale](https://open.spotify.com/album/0m9UblZxW93uLrOPV3AeVU) | 4:02 | 2020-04-24 | 2020-05-15 |
 | [Existential](https://open.spotify.com/track/4ykIKvR8o34Jr9BaEdkrvA) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Existential EP](https://open.spotify.com/album/02Hm5F6SOnT1CvfNiwKiwY) | 3:03 | 2022-12-09 | 2023-01-28 |

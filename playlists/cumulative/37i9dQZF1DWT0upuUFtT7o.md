@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Zsela
 
-2,294 songs - 5 day 5 hr 52 min
+2,295 songs - 5 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Big Songbirds Don't Cry](https://open.spotify.com/track/7Ba8C8e8PJF7C0fesRvNvz) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Infinite Spring](https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC) | 3:54 | 2023-11-29 | 2024-01-11 |
 | [Big Tex](https://open.spotify.com/track/2mDv8WCXIg5JD1J7TyIOQt) | [Blue Wilson](https://open.spotify.com/artist/2sw2UaTtDQzgWd7CPWKDsW) | [Future Street](https://open.spotify.com/album/6HwDO9qabmM2QgkXrwLeXW) | 3:39 | 2022-04-06 | 2022-04-27 |
 | [Big Trees](https://open.spotify.com/track/78LgyytZ57eBM18kx5YFAk) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Big Trees](https://open.spotify.com/album/5eXrCNWiY4ZP01MWog4FN4) | 3:15 | 2022-01-12 | 2022-02-17 |
+| [Billabong Babe](https://open.spotify.com/track/1ehPpLSc6xdKsncqXIMWkS) | [Royce Fisherman](https://open.spotify.com/artist/2tdQ97EH4slBa4xawJS0GR) | [Billabong Babe](https://open.spotify.com/album/4iG1MtI6JbD55Prajh5Yj2) | 2:14 | 2024-03-25 |  |
 | [Billy](https://open.spotify.com/track/3JOa0D7guR3vTzRAWVV0Cy) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Billy](https://open.spotify.com/album/17d1NM1uI3Bg9fhijXz7jZ) | 3:48 | 2022-01-12 | 2022-02-17 |
 | [Billy Juul](https://open.spotify.com/track/4S37iDxvZJt1gmhtjSEDoU) | [Joe Harrison](https://open.spotify.com/artist/2r2SE7xZCKAtXzmGxG2fCv) | [Shadowboxing](https://open.spotify.com/album/67CURPI2EsOJ1pa6mHyKYR) | 2:04 | 2024-01-10 | 2024-01-18 |
 | [Bird Scooter](https://open.spotify.com/track/7mNJfUNTwiAiL30O2cDqxZ) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [The Comedown](https://open.spotify.com/album/1od0JA6VnRcriHydcStrkT) | 3:18 | 2021-12-01 | 2022-01-13 |

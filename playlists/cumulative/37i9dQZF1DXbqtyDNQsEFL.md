@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-318 songs - 1 day 9 hr 43 min
+319 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Broken \(Live\)](https://open.spotify.com/track/5iISN230UakPWUWgZSPkVH) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Broken \(Live\)](https://open.spotify.com/album/2KEY3q6BpkOtm8Aa3r5w5T) | 9:31 | 2024-01-19 | 2024-02-09 |
 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 | 2022-06-09 | 2023-06-01 |
 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 |  |
-| [Come](https://open.spotify.com/track/0sqdvdLBjsP1T28PnNVkTb) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [Come](https://open.spotify.com/album/7zoGeEprSXQEAIrHxuMuJo) | 2:44 | 2023-09-01 |  |
+| [Come](https://open.spotify.com/track/0sqdvdLBjsP1T28PnNVkTb) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [Come](https://open.spotify.com/album/7zoGeEprSXQEAIrHxuMuJo) | 2:44 | 2023-09-01 | 2024-03-26 |
 | [Come & See](https://open.spotify.com/track/3Mvw1n1cbjNvyH4QRvaj09) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Come & See](https://open.spotify.com/album/2jt2SWpIkCZ8ECPo2Y9f6k) | 7:27 | 2022-10-14 | 2022-11-05 |
 | [Commando](https://open.spotify.com/track/72cRQRzXJLUM3Rbf1vyxtz) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Commando](https://open.spotify.com/album/20pJmzUPNbycWcja0hdpmr) | 3:31 | 2023-12-05 | 2023-12-11 |
 | [Commando](https://open.spotify.com/track/7xXuJDOPMq2oIWryexZQ5A) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Commando](https://open.spotify.com/album/2pyYdLMR85a4xogAD5ikcn) | 2:33 | 2023-08-25 | 2023-09-06 |
@@ -247,6 +247,7 @@
 | [Running Over](https://open.spotify.com/track/7ddO2IAJRp8JUNpISskFMG) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [THE MANDATE](https://open.spotify.com/album/2TwGUBLCc4gMW37ANmWdvi) | 2:46 | 2024-03-15 |  |
 | [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 | 2023-05-26 | 2024-02-18 |
 | [Selense](https://open.spotify.com/track/4vU2BSASlEcX6pBP5RVIjJ) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [THE AFRO GOSPEL](https://open.spotify.com/album/6rfsFUaUDBpajCxRjUZSry) | 3:45 | 2023-08-25 | 2023-09-09 |
+| [SHINE](https://open.spotify.com/track/1fMnYcO3ljhIKHZUt4acye) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [AMEN ALBUM](https://open.spotify.com/album/1JvI1Nf9zldyrjWV0tnjNK) | 3:48 | 2024-03-25 |  |
 | [Shouts of Grace](https://open.spotify.com/track/5mNRAl8irEpB8Nuq04UqSG) | [Eno Michael](https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk) | [Shouts of Grace](https://open.spotify.com/album/4SLDYrRz9OuqqY9ZoC0izS) | 8:18 | 2022-10-14 | 2022-11-05 |
 | [Soldier](https://open.spotify.com/track/2P3i73dVot37xSx8VdACGr) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Soldier](https://open.spotify.com/album/2VV5ZceaMFArYB23Oi4slm) | 2:12 | 2023-03-30 | 2023-05-13 |
 | [Sounds Of Many Waters](https://open.spotify.com/track/17KHqvA0xhvnbBqJ0l3kBB) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Sounds Of Many Waters](https://open.spotify.com/album/2hoD5ioNgzA7YJUR1hRF1P) | 4:23 | 2023-11-17 | 2023-12-09 |

@@ -1,12 +1,12 @@
 {
   "description": "Il sound giusto per creare in cucina!",
-  "num_followers": 23251,
+  "num_followers": 23254,
   "original_name": "Musica per Cucinare",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmIwYWRjNWQ1ODk3MjZkNTZmOWQwM2NiMmJmMGEzNWZlNTU5ZWQx",
+  "snapshot_id": "MCw2MmIwZDNjMWYyZWIyYTI5NTBkN2YwOTkxZTU5ZDg0NGE0OWYwY2Q4",
   "tracks": [
     {
       "added_at": "2020-11-10 18:47:22",
@@ -43,22 +43,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "I've Got a Woman",
-      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Para La Eternidad",
         "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 278866,
       "name": "La Vida Es Un Carnaval",
       "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 171466,
+      "name": "I've Got a Woman",
+      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -183,74 +183,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Traveler",
-        "url": "https://open.spotify.com/album/5sI1NOyb5qvkUHaZTxYDYo"
-      },
-      "artists": [
-        {
-          "name": "Rua Do Sol",
-          "url": "https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4"
-        }
-      ],
-      "duration_ms": 166838,
-      "name": "Bossa For Sol",
-      "url": "https://open.spotify.com/track/5i8wZCyQ2DQT7RiUUVeHfF"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Jazz Samba Encore!",
-        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        }
-      ],
-      "duration_ms": 216226,
-      "name": "S\u00f3 Dan\u00e7o Samba",
-      "url": "https://open.spotify.com/track/5je0CDv1Z1hT82Nek1Fjhl"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Foursider",
-        "url": "https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Mais Que Nada",
-      "url": "https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Siembra",
         "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
@@ -271,22 +203,34 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/5sI1NOyb5qvkUHaZTxYDYo"
       },
       "artists": [
         {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+          "name": "Rua Do Sol",
+          "url": "https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4"
         }
       ],
-      "duration_ms": 241412,
-      "name": "Bossa de Leblon",
-      "url": "https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW"
+      "duration_ms": 166838,
+      "name": "Bossa For Sol",
+      "url": "https://open.spotify.com/track/5i8wZCyQ2DQT7RiUUVeHfF"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -311,6 +255,62 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Jazz Samba Encore!",
+        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        }
+      ],
+      "duration_ms": 216226,
+      "name": "S\u00f3 Dan\u00e7o Samba",
+      "url": "https://open.spotify.com/track/5je0CDv1Z1hT82Nek1Fjhl"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        }
+      ],
+      "duration_ms": 241412,
+      "name": "Bossa de Leblon",
+      "url": "https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Foursider",
+        "url": "https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Mais Que Nada",
+      "url": "https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Marcos Valle",
         "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
       },
@@ -323,6 +323,30 @@
       "duration_ms": 313493,
       "name": "Estrelar",
       "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Asalto Navide\u00f1o",
+        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Yomo Toro",
+          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+        }
+      ],
+      "duration_ms": 334080,
+      "name": "La Murga",
+      "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -355,30 +379,6 @@
       "duration_ms": 329200,
       "name": "Candela",
       "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Asalto Navide\u00f1o",
-        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Yomo Toro",
-          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
-        }
-      ],
-      "duration_ms": 334080,
-      "name": "La Murga",
-      "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -483,22 +483,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Police & Thieves",
-        "url": "https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR"
-      },
-      "artists": [
-        {
-          "name": "Junior Murvin",
-          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
-        }
-      ],
-      "duration_ms": 244109,
-      "name": "Police & Thieves",
-      "url": "https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "I Like It Like That",
         "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 265080,
       "name": "I Like It Like That",
       "url": "https://open.spotify.com/track/6Wy3X4jSszfisnRscJCHdq"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Police & Thieves",
+        "url": "https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR"
+      },
+      "artists": [
+        {
+          "name": "Junior Murvin",
+          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
+        }
+      ],
+      "duration_ms": 244109,
+      "name": "Police & Thieves",
+      "url": "https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -547,22 +547,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "The Harder They Come",
-      "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "I Get The Sweetest Feeling",
         "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 178373,
       "name": "I Get The Sweetest Feeling",
       "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "The Harder They Come",
+      "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -683,6 +683,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Samba Esquema Novo",
+        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Por Causa De Voc\u00ea, Menina",
+      "url": "https://open.spotify.com/track/0YojqXjn4xb5hblpFAhqJr"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "J\u00fapiter",
         "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 406000,
       "name": "Underwater Love",
       "url": "https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Samba Esquema Novo",
-        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "Por Causa De Voc\u00ea, Menina",
-      "url": "https://open.spotify.com/track/0YojqXjn4xb5hblpFAhqJr"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -923,6 +923,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Jorge Ben",
+        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 155493,
+      "name": "Bebete V\u00e3obora",
+      "url": "https://open.spotify.com/track/3vST7tho4iT90949PEtM7i"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Muy Tropical y Bailable - 16 Exitos",
         "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 221440,
       "name": "La Colegiala",
       "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Jorge Ben",
-        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 155493,
-      "name": "Bebete V\u00e3obora",
-      "url": "https://open.spotify.com/track/3vST7tho4iT90949PEtM7i"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "The Vintage Series",
-        "url": "https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD"
-      },
-      "artists": [
-        {
-          "name": "Pat Kelly",
-          "url": "https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi"
-        }
-      ],
-      "duration_ms": 166186,
-      "name": "Little Boy Blue",
-      "url": "https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Sem Nostalgia",
         "url": "https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 214266,
       "name": "Amor em Jacum\u00e3",
       "url": "https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "The Vintage Series",
+        "url": "https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD"
+      },
+      "artists": [
+        {
+          "name": "Pat Kelly",
+          "url": "https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi"
+        }
+      ],
+      "duration_ms": 166186,
+      "name": "Little Boy Blue",
+      "url": "https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn"
     },
     {
       "added_at": "2020-11-10 18:47:22",

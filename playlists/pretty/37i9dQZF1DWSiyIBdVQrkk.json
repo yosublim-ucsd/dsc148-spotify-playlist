@@ -1,12 +1,12 @@
 {
   "description": "Celebrating the film Bob Marley: One Love.",
-  "num_followers": 2144101,
+  "num_followers": 2144786,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjI1MjI1NTMzMzRmZTRiYjQyYjk3MmQyYzc1ZjE5N2E0NDBjOTYw",
+  "snapshot_id": "MCxkMTY1NGIyMWMxNGU5MmM0YTc1OGVmNzc1OWRkMGZiODJkY2Y1NDgx",
   "tracks": [
     {
       "added_at": "2024-01-29 05:23:56",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
         "name": "Welcome to Jamrock",
         "url": "https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Tease Me",
-        "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
-      },
-      "artists": [
-        {
-          "name": "Chaka Demus & Pliers",
-          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Murder She Wrote",
-      "url": "https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
       },
@@ -171,6 +171,22 @@
       "duration_ms": 211000,
       "name": "Jamming",
       "url": "https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Tease Me",
+        "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
+      },
+      "artists": [
+        {
+          "name": "Chaka Demus & Pliers",
+          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Murder She Wrote",
+      "url": "https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -275,6 +291,22 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
         "name": "Jah Victory",
         "url": "https://open.spotify.com/album/01cPxSu0Lr5qocwgwt579N"
       },
@@ -303,22 +335,6 @@
       "duration_ms": 158893,
       "name": "You Can Get It If You Really Want",
       "url": "https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -383,6 +399,22 @@
       "duration_ms": 204222,
       "name": "Pass The Dutchie",
       "url": "https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -475,22 +507,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "The Seven Year Itch",
         "url": "https://open.spotify.com/album/785pirNtohI84EfviUaGkq"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 166773,
       "name": "Dream Land",
       "url": "https://open.spotify.com/track/7vp89zcbYncoBCbX5HA3tZ"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Three Little Birds",
-      "url": "https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Mind Control",
-        "url": "https://open.spotify.com/album/1uJzh0ZINTIALdPwDVrbJP"
-      },
-      "artists": [
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        },
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
-        }
-      ],
-      "duration_ms": 294786,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/1Bsl6Jw7bJtQ4pc7OQREog"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "44/876 (Deluxe)",
         "url": "https://open.spotify.com/album/1CoVw7saic0ozYSDTeQ26l"
       },
@@ -915,6 +895,26 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
+        "name": "Mind Control",
+        "url": "https://open.spotify.com/album/1uJzh0ZINTIALdPwDVrbJP"
+      },
+      "artists": [
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "duration_ms": 294786,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/1Bsl6Jw7bJtQ4pc7OQREog"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
         "name": "Don Corleon Presents - Changes Riddim",
         "url": "https://open.spotify.com/album/6SXfwsj0EgY6HvUdi0mY98"
       },
@@ -943,30 +943,6 @@
       "duration_ms": 219906,
       "name": "The Harder They Come",
       "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
-        "name": "Revelation Pt. II: The Fruit of Life",
-        "url": "https://open.spotify.com/album/3zBCEk3g6EGiUQVgJ4jFiK"
-      },
-      "artists": [
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        },
-        {
-          "name": "Capleton",
-          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
-        },
-        {
-          "name": "Sizzla",
-          "url": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "Rock Stone",
-      "url": "https://open.spotify.com/track/7b2WilS8iNSF8PcU17IMdC"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1091,22 +1067,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Reign Of Fire",
-        "url": "https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21"
-      },
-      "artists": [
-        {
-          "name": "Capleton",
-          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
-        }
-      ],
-      "duration_ms": 246453,
-      "name": "That Day Will Come",
-      "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Music Is Life",
         "url": "https://open.spotify.com/album/3IySm9LueCi3FKBNexYOh6"
       },
@@ -1123,18 +1083,18 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "True Reflections...A New Beginning",
-        "url": "https://open.spotify.com/album/40BYBDHTNouG1hMQh1iDZn"
+        "name": "Reign Of Fire",
+        "url": "https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21"
       },
       "artists": [
         {
-          "name": "Jah Cure",
-          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Longing For",
-      "url": "https://open.spotify.com/track/4XvuRDrWteHQGLBOXbAkFZ"
+      "duration_ms": 246453,
+      "name": "That Day Will Come",
+      "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1155,6 +1115,46 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
+        "name": "Revelation Pt. II: The Fruit of Life",
+        "url": "https://open.spotify.com/album/3zBCEk3g6EGiUQVgJ4jFiK"
+      },
+      "artists": [
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        },
+        {
+          "name": "Sizzla",
+          "url": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "Rock Stone",
+      "url": "https://open.spotify.com/track/7b2WilS8iNSF8PcU17IMdC"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "True Reflections...A New Beginning",
+        "url": "https://open.spotify.com/album/40BYBDHTNouG1hMQh1iDZn"
+      },
+      "artists": [
+        {
+          "name": "Jah Cure",
+          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Longing For",
+      "url": "https://open.spotify.com/track/4XvuRDrWteHQGLBOXbAkFZ"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
         "name": "Perfect Key Riddim",
         "url": "https://open.spotify.com/album/1YyDLlEWKPAUCjUxWuTejl"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Marcus Garvey",
-        "url": "https://open.spotify.com/album/2YsfYi8B9pEuts9qwa3TSN"
-      },
-      "artists": [
-        {
-          "name": "Burning Spear",
-          "url": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Marcus Garvey",
-      "url": "https://open.spotify.com/track/30ELPvO4DH57Rq2kgj7a8e"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Too Long In Slavery",
         "url": "https://open.spotify.com/album/0NZmEygtcOVC9ulZ9FxuvJ"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 200960,
       "name": "The International Herb",
       "url": "https://open.spotify.com/track/0GGPUysb8GpCG76dQH63te"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Marcus Garvey",
+        "url": "https://open.spotify.com/album/2YsfYi8B9pEuts9qwa3TSN"
+      },
+      "artists": [
+        {
+          "name": "Burning Spear",
+          "url": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Marcus Garvey",
+      "url": "https://open.spotify.com/track/30ELPvO4DH57Rq2kgj7a8e"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
+        "name": "Tanya...Collection Of Hits",
+        "url": "https://open.spotify.com/album/0jeZIxOER2j9RbJqokIwja"
+      },
+      "artists": [
+        {
+          "name": "Tanya Stephens",
+          "url": "https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ"
+        }
+      ],
+      "duration_ms": 253160,
+      "name": "It's A Pity",
+      "url": "https://open.spotify.com/track/46oKpr00CmuPJGvPZ3y9uk"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
         "name": "In Search Of Lost Time",
         "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 234920,
       "name": "Switch It Up (feat. Koffee)",
       "url": "https://open.spotify.com/track/5RPuPEZ0HiXPTnzwqfJMa8"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
-        "name": "Tanya...Collection Of Hits",
-        "url": "https://open.spotify.com/album/0jeZIxOER2j9RbJqokIwja"
-      },
-      "artists": [
-        {
-          "name": "Tanya Stephens",
-          "url": "https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ"
-        }
-      ],
-      "duration_ms": 253160,
-      "name": "It's A Pity",
-      "url": "https://open.spotify.com/track/46oKpr00CmuPJGvPZ3y9uk"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Hebron Gate",
-        "url": "https://open.spotify.com/album/5V6yCm8qQCxVtmKuodnjty"
-      },
-      "artists": [
-        {
-          "name": "Groundation",
-          "url": "https://open.spotify.com/artist/5L59UhTBOeIRPxF5umwC9p"
-        }
-      ],
-      "duration_ms": 363866,
-      "name": "Jah Jah Know",
-      "url": "https://open.spotify.com/track/5vNKYqDA0jFnhf7KoeBhuD"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "War Ina Babylon (Expanded Edition)",
         "url": "https://open.spotify.com/album/7xlWX3qBfCI68LjswqlBH6"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 290626,
       "name": "War Ina Babylon",
       "url": "https://open.spotify.com/track/5Me6F9y6iArvYxyuP30m14"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Stony Hill",
+        "url": "https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4"
+      },
+      "artists": [
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "duration_ms": 305733,
+      "name": "Speak Life",
+      "url": "https://open.spotify.com/track/21RALCUrU5kzPxas0f12hv"
     },
     {
       "added_at": "2024-01-29 05:23:56",

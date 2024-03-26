@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "The hits that keep on rocking your world. Cover: The Last Dinner Party",
+  "description": "The hits that keep on rocking your world. Cover: TALK",
   "name": "Rock Favourites",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 256306,
       "name": "7",
       "url": "https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd"
+    },
+    {
+      "album": {
+        "name": "Lord of the Flies & Birds & Bees",
+        "url": "https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195278,
+      "name": "A Little Bit Happy",
+      "url": "https://open.spotify.com/track/5F2l8MpjysPrqxk0xq7fiU"
     },
     {
       "album": {
@@ -412,7 +430,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 182467,
       "name": "Cardiac Arrest",
       "url": "https://open.spotify.com/track/5aejtAMTPonqopEygQgOkq"
@@ -502,7 +520,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-20",
+      "date_removed": null,
       "duration_ms": 228586,
       "name": "Coming For You",
       "url": "https://open.spotify.com/track/0FLmCEO4OccwwiHxveEpt1"
@@ -1268,7 +1286,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 192211,
       "name": "Let Me Out",
       "url": "https://open.spotify.com/track/05Qk4X39PHWW2weW4SF2sU"
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 196135,
       "name": "Natural Born Killer",
       "url": "https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H"
@@ -2262,7 +2280,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 236840,
       "name": "Underground",
       "url": "https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa"

@@ -1,12 +1,12 @@
 {
   "description": "R&B jams for the brokenhearted.",
-  "num_followers": 8335,
+  "num_followers": 8336,
   "original_name": "Heartbreak Hotel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDQyMjE5MjQwNTE4ZmVhY2RlZGIzYjZhODkwYTBiZTk0ZWExYzQ2",
+  "snapshot_id": "MCw1MGIyOGRkNjU1ODlmMTY4MGQ1ODQ4MTNhODVhMzFmNmJlMTg2Njk2",
   "tracks": [
     {
       "added_at": "2021-12-14 12:56:56",
@@ -215,22 +215,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Session 32",
-        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 98026,
-      "name": "Session 32",
-      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Ashanti",
         "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 227386,
       "name": "Foolish",
       "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Session 32",
+        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 98026,
+      "name": "Session 32",
+      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -263,34 +263,18 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "The High Road",
-        "url": "https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa"
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
       "artists": [
         {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 221720,
-      "name": "Too Little Too Late",
-      "url": "https://open.spotify.com/track/4T4NLIMypdmyUwK54jECk4"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "FutureSex/LoveSounds",
-        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 448573,
-      "name": "What Goes Around.../...Comes Around (Interlude)",
-      "url": "https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"
+      "duration_ms": 231933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -311,6 +295,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "The High Road",
+        "url": "https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa"
+      },
+      "artists": [
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "Too Little Too Late",
+      "url": "https://open.spotify.com/track/4T4NLIMypdmyUwK54jECk4"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -327,18 +327,18 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+        "name": "FutureSex/LoveSounds",
+        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 231933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
+      "duration_ms": 448573,
+      "name": "What Goes Around.../...Comes Around (Interlude)",
+      "url": "https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -711,6 +711,26 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Don't Hurt Yourself (feat. Jack White)",
+      "url": "https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "Chasing Summer",
         "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 294693,
       "name": "How You Gonna Act Like That",
       "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Don't Hurt Yourself (feat. Jack White)",
-      "url": "https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -879,6 +879,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 301133,
+      "name": "Me, Myself and I",
+      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "The Element Of Freedom",
         "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
       },
@@ -915,18 +931,18 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+        "name": "Pretty Dreamer / Petty Lover",
+        "url": "https://open.spotify.com/album/1puQ890qwK8OdXB1kDQyDD"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
         }
       ],
-      "duration_ms": 301133,
-      "name": "Me, Myself and I",
-      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
+      "duration_ms": 160654,
+      "name": "Petty Lover",
+      "url": "https://open.spotify.com/track/0SBjNhOuMeUM9nwanocvsm"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -943,22 +959,6 @@
       "duration_ms": 327693,
       "name": "I Should Have Cheated",
       "url": "https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "Pretty Dreamer / Petty Lover",
-        "url": "https://open.spotify.com/album/1puQ890qwK8OdXB1kDQyDD"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 160654,
-      "name": "Petty Lover",
-      "url": "https://open.spotify.com/track/0SBjNhOuMeUM9nwanocvsm"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Pray You Catch Me",
+      "url": "https://open.spotify.com/track/7rLDARtJALM7QdiJDMXW7m"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "LOVE AND COMPROMISE",
         "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 317160,
       "name": "We Gonna Take U Back (Lude) / Don't Leave Me",
       "url": "https://open.spotify.com/track/13oGc1Mi9niBlo5eTmgGMa"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Pray You Catch Me",
-      "url": "https://open.spotify.com/track/7rLDARtJALM7QdiJDMXW7m"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 260398,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 207294,
       "name": "Unloyal (with Ari Lennox)",
       "url": "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 260398,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1243,38 +1243,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 151714,
-      "name": "Throw It Away",
-      "url": "https://open.spotify.com/track/21DN44aYlSoyfOQcboC0IP"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "Brian McKnight",
-        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
-      },
-      "artists": [
-        {
-          "name": "Brian McKnight",
-          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
-        }
-      ],
-      "duration_ms": 295357,
-      "name": "One Last Cry",
-      "url": "https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE"
       },
@@ -1287,6 +1255,22 @@
       "duration_ms": 256426,
       "name": "Ice Box",
       "url": "https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 151714,
+      "name": "Throw It Away",
+      "url": "https://open.spotify.com/track/21DN44aYlSoyfOQcboC0IP"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1339,6 +1323,22 @@
       "duration_ms": 255600,
       "name": "Separated",
       "url": "https://open.spotify.com/track/5S0cvScXb33JVpjTiY9Ivi"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Brian McKnight",
+        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "duration_ms": 295357,
+      "name": "One Last Cry",
+      "url": "https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Secrets (Remix Package)",
-        "url": "https://open.spotify.com/album/0Uy6GD6CqvEkWAdzxy7S1x"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        },
-        {
-          "name": "Frankie Knuckles",
-          "url": "https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc"
-        }
-      ],
-      "duration_ms": 267400,
-      "name": "Un-Break My Heart - Classic Radio Mix",
-      "url": "https://open.spotify.com/track/5lxWBU8FM7pqidZcDsgvb3"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "The Introduction of Marcus Cooper",
         "url": "https://open.spotify.com/album/0jIA4y3EGDkw8QB5HlLWwK"
       },
@@ -1703,6 +1683,22 @@
       "duration_ms": 259000,
       "name": "Did You Wrong",
       "url": "https://open.spotify.com/track/5klW2KKu4GaHWfTR01ywrj"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "duration_ms": 273438,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/2gQ3lDcFYa3yFOkaw8PtuO"
     }
   ],
   "unique_name": "Heartbreak Hotel",

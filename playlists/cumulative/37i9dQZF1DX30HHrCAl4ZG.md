@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Wallows
 
-1,410 songs - 3 day 5 hr 31 min
+1,411 songs - 3 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,7 +438,8 @@
 | [Everything Is Boring](https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Everything Is Boring](https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX) | 2:56 | 2023-04-07 | 2023-08-12 |
 | [Evicted](https://open.spotify.com/track/2JW4rkz1XshjSVV4LES2RJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Evicted](https://open.spotify.com/album/2Exf1TaOG1wElBCKNDzWdz) | 3:29 | 2023-08-04 | 2023-09-30 |
 | [Evicted](https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 3:29 | 2023-09-08 | 2023-10-07 |
-| [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 | 2024-03-01 |  |
+| [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 | 2024-03-01 |  |
+| [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 | 2024-03-01 | 2024-03-26 |
 | [Expert In A Dying Field](https://open.spotify.com/track/7v5SMNpbt9eaO7dFHGoXLZ) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:11 | 2022-10-07 | 2023-01-19 |
 | [Expired Candy](https://open.spotify.com/track/4yzF9uOJ8JwyK5rE3TKNWK) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [Expired Candy](https://open.spotify.com/album/27EWNCik4t25bvCJ9J55Hc) | 3:02 | 2023-06-02 | 2023-07-15 |
 | [Exploding House](https://open.spotify.com/track/5pynE1WnRqLPCTlLbrpDyi) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 6:04 | 2021-11-19 | 2022-06-01 |

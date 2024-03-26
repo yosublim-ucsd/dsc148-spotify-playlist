@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 60573,
+  "num_followers": 60588,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmM1ZTljODBkNTBjMWEyMzVlNzNmZmNmYmRhNTg0M2UzZTk3N2Vj",
+  "snapshot_id": "MCw5OWQ1YmU4YjE1MTgzMGI4OGJjMjU5ZmQ5MTMwYzMwZmU0M2IyYTFi",
   "tracks": [
     {
       "added_at": "2024-02-12 15:00:21",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 274560,
-      "name": "It's My House",
-      "url": "https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Pizzazz",
         "url": "https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 405293,
       "name": "Haven't You Heard",
       "url": "https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 274560,
+      "name": "It's My House",
+      "url": "https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Burn This Disco Out",
-      "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "I Love The Nightlife",
         "url": "https://open.spotify.com/album/6e42g4IxKHPNT6VsRMkP4v"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 187973,
       "name": "I Love The Nightlife (Disco 'Round)",
       "url": "https://open.spotify.com/track/6c0G8K6G2LlIfJTsRLJjfs"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Burn This Disco Out",
+      "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "The Dance Collection",
-        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 1067333,
-      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
-      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
         "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Karen Carpenter",
-        "url": "https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ"
+        "name": "The Dance Collection",
+        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
       },
       "artists": [
         {
-          "name": "Karen Carpenter",
-          "url": "https://open.spotify.com/artist/36RONzYVz7gBzAI1k6kot1"
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
         }
       ],
-      "duration_ms": 225160,
-      "name": "My Body Keeps Changing My Mind",
-      "url": "https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA"
+      "duration_ms": 1067333,
+      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
+      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -1007,18 +991,18 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Donna Summer (Re-Mastered & Expanded)",
-        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
+        "name": "Karen Carpenter",
+        "url": "https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ"
       },
       "artists": [
         {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+          "name": "Karen Carpenter",
+          "url": "https://open.spotify.com/artist/36RONzYVz7gBzAI1k6kot1"
         }
       ],
-      "duration_ms": 262320,
-      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
-      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
+      "duration_ms": 225160,
+      "name": "My Body Keeps Changing My Mind",
+      "url": "https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -1131,6 +1115,22 @@
       "duration_ms": 433093,
       "name": "This Time Baby - Special 12\" Version",
       "url": "https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Donna Summer (Re-Mastered & Expanded)",
+        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 262320,
+      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
+      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
     },
     {
       "added_at": "2024-02-12 15:00:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DUNKA PLÅTEN OCH KÄNNA VI ÄR FRIA!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,560 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,640 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [TA EN ÖL \(DOH DAH\)](https://open.spotify.com/track/6DhMtmrn1rmxntTVQhvQrb) | [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [TA EN ÖL \(DOH DAH\)](https://open.spotify.com/album/0aWSNqsyetGipemN5tnhyY) | 2:21 |
 | 100 | [SKITER I DIN DALAHÄST \- Greta Tuborg Remix](https://open.spotify.com/track/1dEkcEWOANqUbwJYPUrhRt) | [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ), [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [Pappa Paavo](https://open.spotify.com/artist/3BKk31zMt1l4Dj7rhVYJe2) | [SKITER I DIN DALAHÄST \(Greta Tuborg Remix\)](https://open.spotify.com/album/4BuddnRvdrsOyD9o38MzgT) | 2:03 |
 
-Snapshot ID: `MCxjYzcyZjk0NWE0Zjg1YWM1Y2I2N2E2NGUzNGY2MGY1NWEzZGZiYzhh`
+Snapshot ID: `MCw4ZDdmZjBkOGZkYzliNThjZWM2ZTMxM2NhMDczNzFiMWUxNDZlZDQx`

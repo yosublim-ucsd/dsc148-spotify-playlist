@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 397323,
+  "num_followers": 397439,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWM4ZTU5MTE2MjZhZWY4ZTJjMDFjNmJkOTA1Yjk3NWNiZjdlODVh",
+  "snapshot_id": "MCw4MTg1ZWM3MzkzYmVmZDcxNWNjZjgyNmE4MTlmNmNiNWEwOWNhMzEx",
   "tracks": [
     {
       "added_at": "2024-03-22 13:38:43",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 285014,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
-    },
-    {
-      "added_at": "2024-03-22 13:38:43",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+    },
+    {
+      "added_at": "2024-03-22 13:38:43",
+      "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 285014,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
     },
     {
       "added_at": "2024-03-22 13:38:43",
@@ -511,18 +511,18 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Always Remember Us This Way",
-      "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
+      "duration_ms": 148517,
+      "name": "ART",
+      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
     },
     {
       "added_at": "2024-03-22 13:38:43",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
+    },
+    {
+      "added_at": "2024-03-22 13:38:43",
+      "album": {
         "name": "Beast Epic",
         "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 286386,
       "name": "I Guess I Just Feel Like",
       "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
-    },
-    {
-      "added_at": "2024-03-22 13:38:43",
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 148517,
-      "name": "ART",
-      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
     },
     {
       "added_at": "2024-03-22 13:38:43",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
-        "name": "True Colours",
-        "url": "https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 143706,
-      "name": "True Colours",
-      "url": "https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4"
-    },
-    {
-      "added_at": "2024-03-22 13:38:43",
-      "album": {
         "name": "Pon P\u00f3n",
         "url": "https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 178436,
       "name": "Pon P\u00f3n",
       "url": "https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC"
+    },
+    {
+      "added_at": "2024-03-22 13:38:43",
+      "album": {
+        "name": "True Colours",
+        "url": "https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 143706,
+      "name": "True Colours",
+      "url": "https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4"
     },
     {
       "added_at": "2024-03-22 13:38:43",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "Ink",
-      "url": "https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t"
-    },
-    {
-      "added_at": "2024-03-22 13:38:43",
-      "album": {
         "name": "Quelqu'un m'a dit",
         "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 168626,
       "name": "Quelqu'un m'a dit",
       "url": "https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4"
+    },
+    {
+      "added_at": "2024-03-22 13:38:43",
+      "album": {
+        "name": "Shotput",
+        "url": "https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 170698,
+      "name": "Shotput",
+      "url": "https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh"
     },
     {
       "added_at": "2024-03-22 13:38:43",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "Ink",
+      "url": "https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t"
+    },
+    {
+      "added_at": "2024-03-22 13:38:43",
+      "album": {
         "name": "Conversations in the Dark",
         "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 184548,
       "name": "ocean eyes - Recorded Live at Jungle City Studios",
       "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
-    },
-    {
-      "added_at": "2024-03-22 13:38:43",
-      "album": {
-        "name": "Shotput",
-        "url": "https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 170698,
-      "name": "Shotput",
-      "url": "https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh"
     },
     {
       "added_at": "2024-03-22 13:38:43",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Song For You",
-      "url": "https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv"
-    },
-    {
-      "added_at": "2024-03-22 13:38:43",
-      "album": {
         "name": "Yankee Hotel Foxtrot",
         "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 231000,
       "name": "Jesus, Etc.",
       "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
+    },
+    {
+      "added_at": "2024-03-22 13:38:43",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Song For You",
+      "url": "https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv"
     },
     {
       "added_at": "2024-03-22 13:38:43",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
+        "name": "Te Lo Voy a Decir",
+        "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "Te Lo Voy a Decir",
+      "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
+    },
+    {
+      "added_at": "2024-03-22 13:38:43",
+      "album": {
         "name": "Stay Awake with Me (acoustic)",
         "url": "https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
-        "name": "Color Pomelo",
-        "url": "https://open.spotify.com/album/6BdL4sKb4pZzCpwbq0miIh"
-      },
-      "artists": [
-        {
-          "name": "Cheti",
-          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
-        }
-      ],
-      "duration_ms": 233168,
-      "name": "Color Pomelo",
-      "url": "https://open.spotify.com/track/2N1IkXdMqhO12VUUU4TKlw"
-    },
-    {
-      "added_at": "2024-03-22 13:38:43",
-      "album": {
         "name": "Electric Light",
         "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 203853,
       "name": "Slide",
       "url": "https://open.spotify.com/track/5QY4JhMKx4aBAaZcosncqd"
+    },
+    {
+      "added_at": "2024-03-22 13:38:43",
+      "album": {
+        "name": "Color Pomelo",
+        "url": "https://open.spotify.com/album/6BdL4sKb4pZzCpwbq0miIh"
+      },
+      "artists": [
+        {
+          "name": "Cheti",
+          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
+        }
+      ],
+      "duration_ms": 233168,
+      "name": "Color Pomelo",
+      "url": "https://open.spotify.com/track/2N1IkXdMqhO12VUUU4TKlw"
     },
     {
       "added_at": "2024-03-22 13:38:43",
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
-        "name": "Paint",
-        "url": "https://open.spotify.com/album/6fjWW4BO4crnUA3EqDWEV0"
-      },
-      "artists": [
-        {
-          "name": "Lawson Hull",
-          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
-        }
-      ],
-      "duration_ms": 281332,
-      "name": "Paint",
-      "url": "https://open.spotify.com/track/6OdcsvgPkIFmiyqDPgCaDy"
-    },
-    {
-      "added_at": "2024-03-22 13:38:43",
-      "album": {
         "name": "Paper Doors",
         "url": "https://open.spotify.com/album/39OhC1jSFTS9wIBQQRfuvY"
       },
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/3q7JpBcbZ1uGUypD5Dg8Xc"
+        "name": "Paint",
+        "url": "https://open.spotify.com/album/6fjWW4BO4crnUA3EqDWEV0"
       },
       "artists": [
         {
-          "name": "Vazquez Sounds",
-          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
+          "name": "Lawson Hull",
+          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
         }
       ],
-      "duration_ms": 206226,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/4zUd12gfWCDzSNBp1b0jiE"
+      "duration_ms": 281332,
+      "name": "Paint",
+      "url": "https://open.spotify.com/track/6OdcsvgPkIFmiyqDPgCaDy"
     }
   ],
   "unique_name": "Relax en casa",

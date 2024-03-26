@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,508 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,507 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 36 | [Girls](https://open.spotify.com/track/0jRA23cPBShrFIXPGfegQC) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Seoul Check\-in OST Part 1](https://open.spotify.com/album/1lQLjWafvbyoQ9XUmAZI2L) | 4:36 |
 | 37 | [At Night](https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Crash Course in Romance OST Part 4](https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn) | 2:52 |
 | 38 | [A Day For Me](https://open.spotify.com/track/5bbGJRlU89huFWFR3GE42e) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU) | 2:28 |
-| 39 | [Seoul Night \(feat\. Beenzino\)](https://open.spotify.com/track/2lWfyAvn4jbmGD0JWJ5DgL) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Seoul Night \(feat\. Beenzino\)](https://open.spotify.com/album/5UStHDWClB34bZbajHTBJ3) | 3:25 |
-| 40 | [Come N Goes](https://open.spotify.com/track/0sFa0fKXoPn9yrNDYKqW4p) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:31 |
-| 41 | [Color It](https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Color It](https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75) | 3:19 |
-| 42 | [DREAMLIKE](https://open.spotify.com/track/4mBSGhDX6mvp96LJbJpmnq) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [DREAMLIKE](https://open.spotify.com/album/2Dlvu7PCAzAHwIswgD6soZ) | 3:35 |
-| 43 | [Fly](https://open.spotify.com/track/0U4gMX1z7VAGvwPpjHjuq3) | [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [Misaeng \(Incomplete Life\) \(Original Television Soundtrack\)](https://open.spotify.com/album/3q9p1oHZd4xHFjiywBFMul) | 4:46 |
+| 39 | [Come N Goes](https://open.spotify.com/track/0sFa0fKXoPn9yrNDYKqW4p) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:31 |
+| 40 | [Color It](https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Color It](https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75) | 3:19 |
+| 41 | [DREAMLIKE](https://open.spotify.com/track/4mBSGhDX6mvp96LJbJpmnq) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [DREAMLIKE](https://open.spotify.com/album/2Dlvu7PCAzAHwIswgD6soZ) | 3:35 |
+| 42 | [Fly](https://open.spotify.com/track/0U4gMX1z7VAGvwPpjHjuq3) | [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [Misaeng \(Incomplete Life\) \(Original Television Soundtrack\)](https://open.spotify.com/album/3q9p1oHZd4xHFjiywBFMul) | 4:46 |
+| 43 | [Seoul Night \(feat\. Beenzino\)](https://open.spotify.com/track/2lWfyAvn4jbmGD0JWJ5DgL) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Seoul Night \(feat\. Beenzino\)](https://open.spotify.com/album/5UStHDWClB34bZbajHTBJ3) | 3:25 |
 | 44 | [Tutorial](https://open.spotify.com/track/4hYcI5bg1lu4LwjRKJlS9V) | [Fishingirls](https://open.spotify.com/artist/3sEqL7PBWr9jrCxB1tV6DI) | [Visible World](https://open.spotify.com/album/41raa6r0NfpRzanU92NkKX) | 3:12 |
 | 45 | [icanttellUeverything](https://open.spotify.com/track/3QlASzSiXSb9rSwdsfucjm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 2:30 |
 | 46 | [WE NEED LOVE](https://open.spotify.com/track/1WJtCrPY9tA5QSbBqwBmUU) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:15 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 54 | [연애상담인듯](https://open.spotify.com/track/7oFRqf8y5li3YcZbESYvK7) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw) | [어서오세요 여름밤](https://open.spotify.com/album/0GB6OFRgrSKlAXu8GcUbQx) | 3:02 |
 | 55 | [CAPTAIN](https://open.spotify.com/track/3LqL83imidz1UIo4FR1Oke) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:02 |
 | 56 | [Once In a Summer \(feat\. Ashley Alisha & Kelsey Kuan\)](https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Once In a Summer](https://open.spotify.com/album/7mieRQVDslmslEystozZ0t) | 3:20 |
-| 57 | [You and I in this hard day](https://open.spotify.com/track/6V8sFpmQd1NiK7mGxZiWW7) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 3:34 |
-| 58 | [FREE SMILE](https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [Seoul Check\-in OST Part 10](https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9) | 3:21 |
+| 57 | [FREE SMILE](https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [Seoul Check\-in OST Part 10](https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9) | 3:21 |
+| 58 | [You and I in this hard day](https://open.spotify.com/track/6V8sFpmQd1NiK7mGxZiWW7) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 3:34 |
 | 59 | [For you, my sunshine](https://open.spotify.com/track/54oF8FdfIWO7p5F878iCsS) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [For you, my sunshine](https://open.spotify.com/album/3sHLvvjZeU64ialWeVXnOq) | 3:46 |
-| 60 | [SKIP \(Feat\. Wonstein\)](https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 2:51 |
+| 60 | [A Perfect Ending](https://open.spotify.com/track/15itaSEmDZt9PVygMrIpTN) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [A Perfect Ending](https://open.spotify.com/album/1PLIADtea77VEx1FJEMMLm) | 3:34 |
 
-Snapshot ID: `MCw4YmZlMmE5MTk0ZTA0ZDc3MDM3NGRmYzYxNjMzYTEwM2ZjNWVkOWQ4`
+Snapshot ID: `MCwzNDM4NzkyZGFkZmNlZTQ1YTBmOWIyZWYxYTdhYzgxODJiMmU0M2Uy`

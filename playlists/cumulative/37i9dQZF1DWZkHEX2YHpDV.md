@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: The Story So Far
 
-1,169 songs - 2 day 13 hr 47 min
+1,170 songs - 2 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Everything Sucks](https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Certified Depressant](https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH) | 3:20 | 2023-09-22 | 2023-12-09 |
 | [Everything We Need](https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Everything We Need](https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF) | 3:05 | 2021-12-10 | 2022-06-25 |
 | [EXCALIBUR](https://open.spotify.com/track/6gg9wuYw3WvZ6bdfUxWZui) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [existential hymns for the average sigma \[vol\. 9\]](https://open.spotify.com/album/0249YKLhbyTmcDuKp1nPEU) | 2:43 | 2023-12-15 | 2024-02-24 |
+| [Eye Contact](https://open.spotify.com/track/6uMKirWXFJYZIYDjXwLwbn) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Eye Contact](https://open.spotify.com/album/5ILzLXOOptC2YRhsurHYh9) | 3:00 | 2024-03-22 |  |
 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 | 2023-04-28 | 2023-12-09 |
 | [F.A.K.E.](https://open.spotify.com/track/4wwOhNPQXD88Tz0AY5a7Lj) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x) | [F.A.K.E.](https://open.spotify.com/album/7goGf0jKhZplndWQVT7KkH) | 2:17 | 2023-12-08 | 2024-01-20 |
 | [Face Down \- Symphonic Edition](https://open.spotify.com/track/3rzwBdOX741P5N394o5faL) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Face Down \(Symphonic Edition\)](https://open.spotify.com/album/0caq5KRRpwucrgDUX9jaTx) | 3:27 | 2022-10-21 | 2023-11-11 |
@@ -1147,7 +1148,7 @@
 | [Worst Apology](https://open.spotify.com/track/5jaFa0rv7nykoB3SbygzpM) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Worst Apology](https://open.spotify.com/album/20HDyCAkbeyQj8jdiOfE74) | 3:12 | 2023-05-12 | 2023-07-14 |
 | [Worth It](https://open.spotify.com/track/22uRfgnUlPZXfd4BCaretS) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Worth It](https://open.spotify.com/album/065aiQ08pX7qfmkRr912fL) | 3:53 | 2021-12-10 | 2022-07-27 |
 | [Would You Even](https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Would You Even](https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG) | 2:52 | 2024-02-09 |  |
-| [Would You Tell Picasso To Sell His Guitars?](https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [Hand Signals](https://open.spotify.com/album/1ENMOKCLCw7F9Jozy3heUX) | 2:41 | 2023-10-10 |  |
+| [Would You Tell Picasso To Sell His Guitars?](https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [Hand Signals](https://open.spotify.com/album/1ENMOKCLCw7F9Jozy3heUX) | 2:41 | 2023-10-10 | 2024-03-26 |
 | [Wouldn't That Be Nice](https://open.spotify.com/track/4kcH1pBf54ctgrPXPsrCCY) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Wouldn't That Be Nice](https://open.spotify.com/album/0IiIfDeoBAKWnp2Uokdrp1) | 3:06 | 2022-05-20 | 2023-04-11 |
 | [WOW!](https://open.spotify.com/track/3B7PiImMLehZ18ZhZ6KAc3) | [promiser](https://open.spotify.com/artist/4OTKGQdkkR6iOn3BOzxps5) | [Clarity](https://open.spotify.com/album/6ECqLPoPb2sBwaJXLL1hRU) | 3:46 | 2022-02-04 | 2022-04-21 |
 | [Write It Off](https://open.spotify.com/track/2NEZizbxzdZyHWtnuhXKym) | [Ryan Librada](https://open.spotify.com/artist/6JygKoUdCYpjiwjQFFolI7) | [Write It Off](https://open.spotify.com/album/3YSrIBQSbV88daqik3z6g9) | 2:29 | 2022-05-20 | 2022-05-21 |

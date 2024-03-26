@@ -976,7 +976,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 211091,
       "name": "dark snowy night - Slowed & Reverb Version",
       "url": "https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH"
@@ -3880,6 +3880,24 @@
       "duration_ms": 63262,
       "name": "The hall is dancing",
       "url": "https://open.spotify.com/track/6UnSlwVAEPblKJING6FH5Z"
+    },
+    {
+      "album": {
+        "name": "the lonely tree",
+        "url": "https://open.spotify.com/album/6wGfq6iZAQ1RhX3izONxdS"
+      },
+      "artists": [
+        {
+          "name": "ciaffa",
+          "url": "https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165564,
+      "name": "the lonely tree (slowed)",
+      "url": "https://open.spotify.com/track/0ECFKrZI3VZKPNWGs1CoSq"
     },
     {
       "album": {

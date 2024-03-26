@@ -209,6 +209,28 @@
     },
     {
       "album": {
+        "name": "In Between The In-Between",
+        "url": "https://open.spotify.com/album/5rhKG3lq7wW8oZ8xBFiq19"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        },
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197320,
+      "name": "be who you are (with Rising Appalachia)",
+      "url": "https://open.spotify.com/track/5xIzvhn5J2rBxS0OrerzIY"
+    },
+    {
+      "album": {
         "name": "Kulture",
         "url": "https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT"
       },
@@ -1206,7 +1228,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 227816,
       "name": "never gonna break your heart",
       "url": "https://open.spotify.com/track/2ak7xmwbLAADnngfYpLKuD"

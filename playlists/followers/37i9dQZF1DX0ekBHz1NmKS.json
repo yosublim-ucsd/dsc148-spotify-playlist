@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 195787,
+  "2024-03-26": 195784,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -3083,7 +3083,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 187186,
       "name": "Cut Them Out",
       "url": "https://open.spotify.com/track/2qg6GGfDdQpK2108Cs0pzv"
@@ -3933,7 +3933,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 163466,
       "name": "Don't Tell Me What To Do",
       "url": "https://open.spotify.com/track/66vQCZCKvbXwvGxU9H5H8q"
@@ -4662,6 +4662,24 @@
     },
     {
       "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/0p1JV81BhYbX8dQWuQVmvE"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172536,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/2T0dh7hiBM73mEFwUGSqMQ"
+    },
+    {
+      "album": {
         "name": "Elevator Eyes",
         "url": "https://open.spotify.com/album/3EV8D8ljJf9bxlWCbpzmTJ"
       },
@@ -4973,7 +4991,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 219046,
       "name": "Ett silverhj\u00e4rtas sista slag",
       "url": "https://open.spotify.com/track/0aQtLsd9tlZZvOzWJvwDS6"
@@ -8645,7 +8663,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 164083,
       "name": "I Live After I Died",
       "url": "https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l"
@@ -12243,7 +12261,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 206673,
       "name": "Musiken i dur",
       "url": "https://open.spotify.com/track/3etnGyPFA9Rt2CfjRZ6czg"
@@ -13523,7 +13541,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 223000,
       "name": "Out Of Feelings",
       "url": "https://open.spotify.com/track/6Xy2N0VoXewxdXheSW0Rw8"
@@ -15104,6 +15122,24 @@
     },
     {
       "album": {
+        "name": "SE P\u00c5 MIG",
+        "url": "https://open.spotify.com/album/0Eahjmc8johiZt87JF1I9u"
+      },
+      "artists": [
+        {
+          "name": "Gamebojj",
+          "url": "https://open.spotify.com/artist/3tL3V3oYCfUDA6eECPGw1j"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "SE P\u00c5 MIG",
+      "url": "https://open.spotify.com/track/3hpPuFukUdjPrkvP3GOce2"
+    },
+    {
+      "album": {
         "name": "SECONDS 2 SUNRISE",
         "url": "https://open.spotify.com/album/4T7BbFDYDSFMx8TKdsO8Lq"
       },
@@ -15231,6 +15267,24 @@
       "duration_ms": 172215,
       "name": "She Fell In Love In The Summer",
       "url": "https://open.spotify.com/track/5ANOz0vfUZMisrIG3n6IBv"
+    },
+    {
+      "album": {
+        "name": "Ett steg fr\u00e5n d\u00e4r jag kom",
+        "url": "https://open.spotify.com/album/431qh1qA6coX0Oung7uTnB"
+      },
+      "artists": [
+        {
+          "name": "Moa Lignell",
+          "url": "https://open.spotify.com/artist/0HrcSCqklP5G1QFHrIiztO"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228687,
+      "name": "Sherry",
+      "url": "https://open.spotify.com/track/2lEcGcLGEPMYcchlLQFe0z"
     },
     {
       "album": {
@@ -17339,7 +17393,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 169500,
       "name": "S\u00e5 nice",
       "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"

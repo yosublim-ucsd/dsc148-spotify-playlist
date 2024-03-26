@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 1495546,
+  "2024-03-26": 1496054,
   "date_first_scraped": "2019-05-26",
   "description": "now you're talkin' 'bout me too \ud83d\udcf7: Zoe Ko",
   "name": "young & free",
@@ -19184,6 +19184,24 @@
     },
     {
       "album": {
+        "name": "the roaring twenties",
+        "url": "https://open.spotify.com/album/61royB3qzaFhXLp8e0gCtY"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "liar",
+      "url": "https://open.spotify.com/track/0qoU0LcyRaNKgVFwNlqo88"
+    },
+    {
+      "album": {
         "name": "liar",
         "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
       },
@@ -33065,7 +33083,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 152435,
       "name": "the mom song",
       "url": "https://open.spotify.com/track/1ll3KUyYBk2TQrOWQQ4ICV"

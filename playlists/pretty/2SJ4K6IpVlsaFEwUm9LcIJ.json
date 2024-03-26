@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: march-april 2024 (previous playlists archived on my profile)",
-  "num_followers": 18602,
+  "num_followers": 18595,
   "original_name": "innocence and panic",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "MjU5Niw0M2MwNDIzODE0YzBlYTJjNDllZTEzYTNiYmMwOGEyYjZmYzllNWU5",
+  "snapshot_id": "MjU5OSxhNzg3ODRhOTZmYzI2YWJhMWQ4YjRkNjUwNGE3NzQ0ZjRjY2IxNzhh",
   "tracks": [
     {
       "added_at": "2024-03-09 23:04:11",
@@ -463,6 +463,54 @@
       "duration_ms": 205240,
       "name": "Excalibur",
       "url": "https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS"
+    },
+    {
+      "added_at": "2024-03-25 20:19:53",
+      "album": {
+        "name": "Chalk Mark In A Rain Storm",
+        "url": "https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 324960,
+      "name": "The Beat Of Black Wings",
+      "url": "https://open.spotify.com/track/2DyQKUqKUpOFV3Fs3ijW9Q"
+    },
+    {
+      "added_at": "2024-03-25 21:31:25",
+      "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/3E7Sj3kKbxY1Tsp7U0SKQi"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 226933,
+      "name": "Up Er Mei",
+      "url": "https://open.spotify.com/track/1N7oGtGMR3GzIN1WpcS62z"
+    },
+    {
+      "added_at": "2024-03-26 01:18:57",
+      "album": {
+        "name": "The Singles (Expanded)",
+        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
     }
   ],
   "unique_name": "innocence and panic",

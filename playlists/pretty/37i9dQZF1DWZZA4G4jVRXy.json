@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 128256,
+  "num_followers": 128275,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzViYmMzNDUyMjdjZTlhZGZiMDRmODgzZjg1MjZjYjUxOTBhNDhi",
+  "snapshot_id": "MCwyZWQ0MmFlYjRmMWU4Y2I0NmQzODM0NWY4NTM1NTdkODRmMmE5ZTE5",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/06bgtOwOTqbDLf1n1eqjji"
     },
     {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Best Of Martin Denny's Exotica",
+        "url": "https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 158653,
+      "name": "Misirlou - 1995 Digital Remaster",
+      "url": "https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg"
+    },
+    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "The Golden Voice of Hawai'i, Vol. 1",
@@ -155,22 +171,6 @@
       "duration_ms": 152706,
       "name": "A Man And A Woman - Remastered",
       "url": "https://open.spotify.com/track/5VwssP9QyvfoKLt9FkI0aR"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Best Of Martin Denny's Exotica",
-        "url": "https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5"
-      },
-      "artists": [
-        {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
-        }
-      ],
-      "duration_ms": 158653,
-      "name": "Misirlou - 1995 Digital Remaster",
-      "url": "https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -205,22 +205,6 @@
       "url": "https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Sacred Idol",
-        "url": "https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Fruit Of Dreams",
-      "url": "https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Swingin' sounds for the Jungle Jetset !",
@@ -253,6 +237,22 @@
       "url": "https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R"
     },
     {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Sacred Idol",
+        "url": "https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Fruit Of Dreams",
+      "url": "https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe"
+    },
+    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Voodoo!",
@@ -267,22 +267,6 @@
       "duration_ms": 153493,
       "name": "Chant Of The Moon",
       "url": "https://open.spotify.com/track/6j46ude4neMZMiEagbYkie"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -335,6 +319,22 @@
       "duration_ms": 307213,
       "name": "Nani Wale Ka Lau Oliva",
       "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Soul Of The Drums",
-        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 135946,
-      "name": "Coffee Bean / Calabash Annie",
-      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
@@ -431,6 +415,22 @@
       "duration_ms": 128066,
       "name": "Taboo Tu",
       "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Soul Of The Drums",
+        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 135946,
+      "name": "Coffee Bean / Calabash Annie",
+      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -465,22 +465,6 @@
       "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
     },
     {
-      "added_at": "2022-03-30 01:46:18",
-      "album": {
-        "name": "Inmortales de To\u00f1a la Negra",
-        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 140721,
-      "name": "Palmeras",
-      "url": "https://open.spotify.com/track/5GkJzTHcr1vvfhtbPVgXRg"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "The Golden Voice of Hawai'i, Vol. 1",
@@ -501,20 +485,20 @@
       "url": "https://open.spotify.com/track/0hODO60iv3UHWIbyewk0kG"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
+      "added_at": "2022-03-30 01:46:18",
       "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+        "name": "Inmortales de To\u00f1a la Negra",
+        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
       },
       "artists": [
         {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
         }
       ],
-      "duration_ms": 146733,
-      "name": "Kawohikukupulani",
-      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
+      "duration_ms": 140721,
+      "name": "Palmeras",
+      "url": "https://open.spotify.com/track/5GkJzTHcr1vvfhtbPVgXRg"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -543,6 +527,22 @@
       "duration_ms": 257106,
       "name": "Pua Lililehua",
       "url": "https://open.spotify.com/track/6MhpbidfJC315rJJcPaluW"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Kawohikukupulani",
+      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Primitiva",
-        "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
-      },
-      "artists": [
-        {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
-        }
-      ],
-      "duration_ms": 134506,
-      "name": "Llama Serenade",
-      "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Kiss Me Love",
         "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 138666,
       "name": "Blue Hawaii",
       "url": "https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Primitiva",
+        "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 134506,
+      "name": "Llama Serenade",
+      "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/1Z4aOyNZmQ95yBRzPWgFJ3"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "The Best of Yma Sumac (All Tracks Remastered 2014)",
-        "url": "https://open.spotify.com/album/7rwOSPANcz14uwehdWCwsF"
-      },
-      "artists": [
-        {
-          "name": "Yma Sumac",
-          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
-        }
-      ],
-      "duration_ms": 201263,
-      "name": "Xtabay - Remastered",
-      "url": "https://open.spotify.com/track/2Zfjoj9ywSckX4682KRbWj"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Soundproof",
@@ -1107,6 +1091,22 @@
       "duration_ms": 167264,
       "name": "Baia",
       "url": "https://open.spotify.com/track/1INMAZPPXvgdWjKuHqDU8P"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "The Best of Yma Sumac (All Tracks Remastered 2014)",
+        "url": "https://open.spotify.com/album/7rwOSPANcz14uwehdWCwsF"
+      },
+      "artists": [
+        {
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+        }
+      ],
+      "duration_ms": 201263,
+      "name": "Xtabay - Remastered",
+      "url": "https://open.spotify.com/track/2Zfjoj9ywSckX4682KRbWj"
     },
     {
       "added_at": "2021-01-20 03:50:53",

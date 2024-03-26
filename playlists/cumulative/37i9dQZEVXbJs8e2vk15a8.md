@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-1,817 songs - 4 day 2 hr 8 min
+1,819 songs - 4 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/track/1nJOtOQJqzHaxh8kzuudxR) | [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9) | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/album/2Co4pvEvpsBHIGXufGc3p3) | 2:16 | 2023-02-11 | 2023-03-15 |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-23 | 2022-10-19 |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-02 | 2023-09-09 |
+| [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-25 |  |
 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-17 | 2024-03-25 |
 | [Automotivo Bibi Fogosa](https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2) | 2:09 | 2023-07-23 | 2023-10-04 |
 | [Automotivo Blindado](https://open.spotify.com/track/1wynWAVM1KqUQMhytk89rO) | [DJ Rossini ZS](https://open.spotify.com/artist/2ue3CASrJMbnfFcE6Pp13G), [DJ MENOR DA Z.O](https://open.spotify.com/artist/7mONoAwA8mRwvz2JYLhABI), [MC Zudo Boladão](https://open.spotify.com/artist/4kEtpjbEnSh4WNeLF1IeG7), [MC LUIS DO GRAU](https://open.spotify.com/artist/7z92LBe9MQGzZs5VpO8dwX) | [Automotivo Blindado](https://open.spotify.com/album/0coJQdhxjlgLWAsJcC9Dg8) | 3:46 | 2023-06-25 | 2023-07-26 |
@@ -233,7 +234,7 @@
 | [Blackest Eyes \- Remastered](https://open.spotify.com/track/72MXwlutXRUV31lmFhylgn) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [In Absentia \(Deluxe \- Remastered\)](https://open.spotify.com/album/38d7C2XIoUX0v5cU0HuSSW) | 4:24 | 2022-10-11 | 2022-10-14 |
 | [Blankita](https://open.spotify.com/track/0RM5FxfaOTsvtwux47fjlo) | [Thomi DJ](https://open.spotify.com/artist/3b7LzlMj6sHCNwnoi51RsG) | [Blankita](https://open.spotify.com/album/5Pc1RyMpXujVCYreCpMT8k) | 2:25 | 2023-12-26 | 2024-02-07 |
 | [Blin Blin Blin Blan](https://open.spotify.com/track/71zt6MfZmy1kcOXaLqS5Ie) | [King Blvck](https://open.spotify.com/artist/03EM6UHgNRnx8RGKQApVQA) | [Blin Blin Blin Blan](https://open.spotify.com/album/44LSJkLPRq6cK96LWqzo3o) | 1:51 | 2022-08-26 | 2022-09-18 |
-| [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-23 |  |
+| [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-23 | 2024-03-26 |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-01 | 2023-01-03 |
 | [Bloody Mary \(Sped Up TikTok Remix\) \[from "Wednesday Addams"\]](https://open.spotify.com/track/1GuhLLCyVhVSfbNZ0581LW) | [Pablo Baker](https://open.spotify.com/artist/5ExD890I8LHDfkCSAxeByU) | [Bloody Mary \(Sped Up TikTok Remix\) \[from "Wednesday Addams"\]](https://open.spotify.com/album/5O87dPVVPnoqoG3VD0E8gG) | 3:15 | 2023-01-18 | 2023-01-22 |
 | [Blue Hair](https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Death of a Party Girl](https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy) | 3:37 | 2023-02-18 | 2023-05-14 |
@@ -347,6 +348,7 @@
 | [Contacto Visual](https://open.spotify.com/track/4ZPQZ1OZrZSsNcei6op5Ns) | [Mauryceo](https://open.spotify.com/artist/78XfDNY0PJ2x2ADv30uJiX) | [Contacto Visual](https://open.spotify.com/album/22HIRZwEVE2yCR8VHzS0z8) | 2:56 | 2023-11-22 | 2023-11-29 |
 | [Contacto Visual \- Remix Soñao](https://open.spotify.com/track/7bjl4rO7uftiOhzNCMu9T7) | [Mauryceo](https://open.spotify.com/artist/78XfDNY0PJ2x2ADv30uJiX), [FlowGPT](https://open.spotify.com/artist/1mxt7qtdBFCHAeEeDHGgiC) | [Contacto Visual \(Remix Soñao\)](https://open.spotify.com/album/4MGCQQhStPAeoMIaaKIhAO) | 2:55 | 2023-11-09 | 2023-11-23 |
 | [CONTANDO](https://open.spotify.com/track/4NUmj3QQX3rX9K3BUCnZc7) | [Bxnja Firstt](https://open.spotify.com/artist/6BIQ5I5TADskOF6TdR6wRB), [Giuliano Yankees](https://open.spotify.com/artist/2Fm1I4mYmmdvuQ4QirrZvO), [Il Nene De Oro](https://open.spotify.com/artist/4dGA9qLlw4tQ0cKz90p3dL) | [CONTANDO](https://open.spotify.com/album/0qyoXkWdCYH8HQM9hBayze) | 1:55 | 2023-08-17 | 2023-08-21 |
+| [Contando](https://open.spotify.com/track/6bzQkBLxfsiBUT3mtWpDSY) | [Giuliano Yankees](https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B) | [Contando](https://open.spotify.com/album/50jNF7wjcf79uE5c9BOQli) | 1:59 | 2024-03-25 |  |
 | [Contigo](https://open.spotify.com/track/3XrPM65ihtm4ZkZNGt30Ff) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Nosotros](https://open.spotify.com/album/6fIT2cZQfyeobsMKhvIHJW) | 2:59 | 2023-07-13 | 2023-08-16 |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-03-05 | 2024-03-13 |
 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 | 2022-08-23 | 2022-10-19 |

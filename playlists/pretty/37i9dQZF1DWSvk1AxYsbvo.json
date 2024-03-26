@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 13580,
+  "num_followers": 13586,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2MwOGQ1MDZhOTBlODlhYTJlMjg1ZTFhYTkyZDg1YmQxMGQ1ZTE0",
+  "snapshot_id": "MCw5NDZlZDEwZjA0YTY0ZTlmZWVkOGMyMGVhNzM5YmEwMzNkZjRlMWNj",
   "tracks": [
     {
       "added_at": "2024-03-08 06:34:29",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-03-08 06:34:29",
       "album": {
+        "name": "Sapporo",
+        "url": "https://open.spotify.com/album/1NmKy8eYwYsSZ9QQ87fjPk"
+      },
+      "artists": [
+        {
+          "name": "Kim Pil Sun",
+          "url": "https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih"
+        }
+      ],
+      "duration_ms": 224736,
+      "name": "Sapporo",
+      "url": "https://open.spotify.com/track/0x0Ph3JNjxQ4I2qZalZaUQ"
+    },
+    {
+      "added_at": "2024-03-08 06:34:29",
+      "album": {
         "name": "Lean On Me (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
       },
@@ -235,6 +251,26 @@
       "duration_ms": 153000,
       "name": "It will be all fine",
       "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
+    },
+    {
+      "added_at": "2024-03-08 06:34:29",
+      "album": {
+        "name": "How Did You",
+        "url": "https://open.spotify.com/album/1s3RA9wdbVXkSVHYPBIk8E"
+      },
+      "artists": [
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 249723,
+      "name": "How Did You (feat. Yerin Baek)",
+      "url": "https://open.spotify.com/track/3rkH2oQnehYxTA0Vk50D1Z"
     },
     {
       "added_at": "2024-03-08 06:34:29",
@@ -267,42 +303,6 @@
       "duration_ms": 220413,
       "name": "sleepless nights (My Sweden Laundry #1)",
       "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
-    },
-    {
-      "added_at": "2024-03-08 06:34:29",
-      "album": {
-        "name": "Sapporo",
-        "url": "https://open.spotify.com/album/1NmKy8eYwYsSZ9QQ87fjPk"
-      },
-      "artists": [
-        {
-          "name": "Kim Pil Sun",
-          "url": "https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih"
-        }
-      ],
-      "duration_ms": 224736,
-      "name": "Sapporo",
-      "url": "https://open.spotify.com/track/0x0Ph3JNjxQ4I2qZalZaUQ"
-    },
-    {
-      "added_at": "2024-03-08 06:34:29",
-      "album": {
-        "name": "How Did You",
-        "url": "https://open.spotify.com/album/1s3RA9wdbVXkSVHYPBIk8E"
-      },
-      "artists": [
-        {
-          "name": "Ku One Chan",
-          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
-        },
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 249723,
-      "name": "How Did You (feat. Yerin Baek)",
-      "url": "https://open.spotify.com/track/3rkH2oQnehYxTA0Vk50D1Z"
     },
     {
       "added_at": "2024-03-08 06:34:29",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-03-08 06:34:29",
       "album": {
+        "name": "Winded",
+        "url": "https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Winded",
+      "url": "https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg"
+    },
+    {
+      "added_at": "2024-03-08 06:34:29",
+      "album": {
         "name": "Reminiscence",
         "url": "https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn"
       },
@@ -475,18 +491,18 @@
     {
       "added_at": "2024-03-08 06:34:29",
       "album": {
-        "name": "Winded",
-        "url": "https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p"
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q"
       },
       "artists": [
         {
-          "name": "homezone",
-          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+          "name": "Jo eunsae",
+          "url": "https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Winded",
-      "url": "https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg"
+      "duration_ms": 207998,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg"
     },
     {
       "added_at": "2024-03-08 06:34:29",
@@ -507,18 +523,22 @@
     {
       "added_at": "2024-03-08 06:34:29",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q"
+        "name": "Stay (Feat. Youlakk)",
+        "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
       },
       "artists": [
         {
-          "name": "Jo eunsae",
-          "url": "https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj"
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+        },
+        {
+          "name": "\uc5ec\ub77d\uc774\ub4e4",
+          "url": "https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU"
         }
       ],
-      "duration_ms": 207998,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg"
+      "duration_ms": 208771,
+      "name": "Stay (Feat. Youlakk)",
+      "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
     },
     {
       "added_at": "2024-03-08 06:34:29",
@@ -559,26 +579,6 @@
     {
       "added_at": "2024-03-08 06:34:29",
       "album": {
-        "name": "Stay (Feat. Youlakk)",
-        "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
-      },
-      "artists": [
-        {
-          "name": "Grass",
-          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
-        },
-        {
-          "name": "\uc5ec\ub77d\uc774\ub4e4",
-          "url": "https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU"
-        }
-      ],
-      "duration_ms": 208771,
-      "name": "Stay (Feat. Youlakk)",
-      "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
-    },
-    {
-      "added_at": "2024-03-08 06:34:29",
-      "album": {
         "name": "What Should I do",
         "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-03-08 06:34:29",
       "album": {
-        "name": "When It's Cold",
-        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
-      },
-      "artists": [
-        {
-          "name": "Bily Acoustie",
-          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
-        }
-      ],
-      "duration_ms": 183824,
-      "name": "When It\u2019s Cold",
-      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
-    },
-    {
-      "added_at": "2024-03-08 06:34:29",
-      "album": {
         "name": "Beautiful GunbarI OST",
         "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 171500,
       "name": "a story to tell (Original Ver.)",
       "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
+    },
+    {
+      "added_at": "2024-03-08 06:34:29",
+      "album": {
+        "name": "When It's Cold",
+        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
+      },
+      "artists": [
+        {
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+        }
+      ],
+      "duration_ms": 183824,
+      "name": "When It\u2019s Cold",
+      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
     },
     {
       "added_at": "2024-03-08 06:34:29",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-03-08 06:34:29",
       "album": {
+        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.18",
+        "url": "https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD"
+      },
+      "artists": [
+        {
+          "name": "Who R U?",
+          "url": "https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK"
+        }
+      ],
+      "duration_ms": 180638,
+      "name": "\ube44\ubc00 \uc598\uae30\ub97c \ud558\uace0 \uc2f6\uc5b4",
+      "url": "https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA"
+    },
+    {
+      "added_at": "2024-03-08 06:34:29",
+      "album": {
         "name": "You don't have to say anything (I already know)",
         "url": "https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 265459,
       "name": "You don't have to say anything (I already know)",
       "url": "https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX"
-    },
-    {
-      "added_at": "2024-03-08 06:34:29",
-      "album": {
-        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.18",
-        "url": "https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD"
-      },
-      "artists": [
-        {
-          "name": "Who R U?",
-          "url": "https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK"
-        }
-      ],
-      "duration_ms": 180638,
-      "name": "\ube44\ubc00 \uc598\uae30\ub97c \ud558\uace0 \uc2f6\uc5b4",
-      "url": "https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA"
     },
     {
       "added_at": "2024-03-08 06:34:29",

@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
-  "num_followers": 235409,
+  "num_followers": 235527,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTE0NDI0OTNmMzcxOGY5Mzk1MjAzMTdlNzQxYzExNjc2OTYzNTdl",
+  "snapshot_id": "MCwwZGVmMGYxYmM3OTg0NjgxNWQ2MjliNjBhMTYwZjFmMWY3N2ZjNDI5",
   "tracks": [
     {
       "added_at": "2024-01-12 07:49:20",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "I'll Praise",
+        "url": "https://open.spotify.com/album/3yCYG5wQ1J4tckxRWs8NC4"
+      },
+      "artists": [
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "duration_ms": 160405,
+      "name": "I'll Praise",
+      "url": "https://open.spotify.com/track/76z0xBhIITVBwHni9PZZ8v"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "When Tears Fall",
         "url": "https://open.spotify.com/album/5KIb2TJs6Fz2h1egoxjweO"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 168000,
       "name": "When Tears Fall",
       "url": "https://open.spotify.com/track/6kGPEBbI2Uk7nTsfcd2pmF"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "God Be Praised",
-        "url": "https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i"
-      },
-      "artists": [
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Yes I Do",
-      "url": "https://open.spotify.com/track/5Hq0aYRj1p1vD6w6JTe2sy"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -611,18 +611,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "I'll Praise",
-        "url": "https://open.spotify.com/album/3yCYG5wQ1J4tckxRWs8NC4"
+        "name": "God Be Praised",
+        "url": "https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i"
       },
       "artists": [
         {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
         }
       ],
-      "duration_ms": 160405,
-      "name": "I'll Praise",
-      "url": "https://open.spotify.com/track/76z0xBhIITVBwHni9PZZ8v"
+      "duration_ms": 213920,
+      "name": "Yes I Do",
+      "url": "https://open.spotify.com/track/5Hq0aYRj1p1vD6w6JTe2sy"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "My Tribe",
-        "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 201526,
-      "name": "Look At Love",
-      "url": "https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Nothing To Something",
         "url": "https://open.spotify.com/album/7xSHG5Qj1WZJ0ykFgnMwjY"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 257896,
       "name": "Nothing To Something",
       "url": "https://open.spotify.com/track/4IE9nQZmfNXVJCRau4PzTz"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "My Tribe",
+        "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 201526,
+      "name": "Look At Love",
+      "url": "https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Satisfy",
-        "url": "https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr"
-      },
-      "artists": [
-        {
-          "name": "Glochi",
-          "url": "https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Satisfy",
-      "url": "https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Dante Bowe",
         "url": "https://open.spotify.com/album/0k2wJSus536g9a8w4AU0GG"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 250684,
       "name": "Wind Me Up",
       "url": "https://open.spotify.com/track/6eGhs1k21JUKq12B6LfqqP"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Satisfy",
+        "url": "https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr"
+      },
+      "artists": [
+        {
+          "name": "Glochi",
+          "url": "https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -867,26 +867,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Covered",
-        "url": "https://open.spotify.com/album/0W6tOU21Ts3f9Gol7IALRm"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hall",
-          "url": "https://open.spotify.com/artist/27elv8wzGLeFd2hamGxyfS"
-        },
-        {
-          "name": "Michael Dixon",
-          "url": "https://open.spotify.com/artist/0aXyBedQLbHTZwDOY5QGZF"
-        }
-      ],
-      "duration_ms": 211281,
-      "name": "Covered",
-      "url": "https://open.spotify.com/track/2EBfbLHxIRWg4hwHya4Tby"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "GOOD TO ME",
         "url": "https://open.spotify.com/album/3Cfnat6JaNYV3ol0qOzzek"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 163070,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/5TZQFrjxHT5rkR43PA4aF6"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Covered",
+        "url": "https://open.spotify.com/album/0W6tOU21Ts3f9Gol7IALRm"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hall",
+          "url": "https://open.spotify.com/artist/27elv8wzGLeFd2hamGxyfS"
+        },
+        {
+          "name": "Michael Dixon",
+          "url": "https://open.spotify.com/artist/0aXyBedQLbHTZwDOY5QGZF"
+        }
+      ],
+      "duration_ms": 211281,
+      "name": "Covered",
+      "url": "https://open.spotify.com/track/2EBfbLHxIRWg4hwHya4Tby"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "My Worship",
+        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 201938,
+      "name": "My Worship",
+      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Thousands of Years",
         "url": "https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS"
       },
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "My Worship",
-        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
+        "name": "With Him",
+        "url": "https://open.spotify.com/album/6U0fKpZM5MAnmN6QAgRftH"
       },
       "artists": [
         {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+          "name": "Kaye-Marie",
+          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
         }
       ],
-      "duration_ms": 201938,
-      "name": "My Worship",
-      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
+      "duration_ms": 167586,
+      "name": "With Him",
+      "url": "https://open.spotify.com/track/7s7wag1cue3SVabZAQjVwh"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "With Him",
-        "url": "https://open.spotify.com/album/6U0fKpZM5MAnmN6QAgRftH"
+        "name": "Cornerstone",
+        "url": "https://open.spotify.com/album/4C2ROejT301KgDkPakUU0R"
       },
       "artists": [
         {
-          "name": "Kaye-Marie",
-          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
+          "name": "Keyondra Lockett",
+          "url": "https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7"
         }
       ],
-      "duration_ms": 167586,
-      "name": "With Him",
-      "url": "https://open.spotify.com/track/7s7wag1cue3SVabZAQjVwh"
+      "duration_ms": 214736,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/4kKP41Wo6UVb2rZpKZEgyg"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1131,22 +1147,6 @@
       "duration_ms": 153083,
       "name": "HOMIE",
       "url": "https://open.spotify.com/track/0xEdclbbUYJR2khLnKn3eF"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Cornerstone",
-        "url": "https://open.spotify.com/album/4C2ROejT301KgDkPakUU0R"
-      },
-      "artists": [
-        {
-          "name": "Keyondra Lockett",
-          "url": "https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/4kKP41Wo6UVb2rZpKZEgyg"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Like Yours",
-        "url": "https://open.spotify.com/album/5azmENYG8KnyBBhX2zGADH"
-      },
-      "artists": [
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 207529,
-      "name": "Like Yours",
-      "url": "https://open.spotify.com/track/2GxOocpI0dqAdjbqQUkb4l"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Cornerstone",
         "url": "https://open.spotify.com/album/4C2ROejT301KgDkPakUU0R"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 237650,
       "name": "You Your Love",
       "url": "https://open.spotify.com/track/3hKRb7aCt4JDilacNxeMk0"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Like Yours",
+        "url": "https://open.spotify.com/album/5azmENYG8KnyBBhX2zGADH"
+      },
+      "artists": [
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "Like Yours",
+      "url": "https://open.spotify.com/track/2GxOocpI0dqAdjbqQUkb4l"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Your Love Will Never Change",
-        "url": "https://open.spotify.com/album/2Yq6QxSZAv7e48JOYpMsVu"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Your Love Will Never Change",
-      "url": "https://open.spotify.com/track/0rfx6Og7mSGN57kMJKoCnQ"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "WORTHY",
         "url": "https://open.spotify.com/album/0rSrNBf65mgV4DHXb73Kbp"
       },
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Your Love Will Never Change",
+        "url": "https://open.spotify.com/album/2Yq6QxSZAv7e48JOYpMsVu"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Your Love Will Never Change",
+      "url": "https://open.spotify.com/track/0rfx6Og7mSGN57kMJKoCnQ"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Your Arms",
         "url": "https://open.spotify.com/album/2FGO1TD4b69CQHPG4tbB6v"
       },
@@ -1611,6 +1611,38 @@
       "duration_ms": 157477,
       "name": "Your Arms",
       "url": "https://open.spotify.com/track/56B8Ls0ASzAKEmZ87hgYfb"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Let It Be Your Will",
+        "url": "https://open.spotify.com/album/0MK1wRUYjX4kp0MwDOnFJs"
+      },
+      "artists": [
+        {
+          "name": "Dwan Hill",
+          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
+        }
+      ],
+      "duration_ms": 250295,
+      "name": "Let It Be Your Will",
+      "url": "https://open.spotify.com/track/4c6cmc4E57dKujV20KAa4I"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Surrender The Will",
+        "url": "https://open.spotify.com/album/1uOucKRNyuXWk7ywMF1JqJ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "duration_ms": 168834,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/5mkosFaeklJwnN7NNjxzI3"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1635,38 +1667,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Surrender The Will",
-        "url": "https://open.spotify.com/album/1uOucKRNyuXWk7ywMF1JqJ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
-        }
-      ],
-      "duration_ms": 168834,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/5mkosFaeklJwnN7NNjxzI3"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Let It Be Your Will",
-        "url": "https://open.spotify.com/album/0MK1wRUYjX4kp0MwDOnFJs"
-      },
-      "artists": [
-        {
-          "name": "Dwan Hill",
-          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
-        }
-      ],
-      "duration_ms": 250295,
-      "name": "Let It Be Your Will",
-      "url": "https://open.spotify.com/track/4c6cmc4E57dKujV20KAa4I"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Bad To The Bone",
         "url": "https://open.spotify.com/album/7KHmdsP2gT7wwUWyNMnnMH"
       },
@@ -1679,22 +1679,6 @@
       "duration_ms": 161584,
       "name": "Bad To The Bone",
       "url": "https://open.spotify.com/track/72uOlb4ynq8xEWHhfYGGMl"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Stained Glass Windows",
-        "url": "https://open.spotify.com/album/1q710a6wLm18GHUA1eAMRb"
-      },
-      "artists": [
-        {
-          "name": "Rudy Currence",
-          "url": "https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8"
-        }
-      ],
-      "duration_ms": 233447,
-      "name": "Vans X Adidas",
-      "url": "https://open.spotify.com/track/00CMZKw15Y1d2E00GvH33t"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1715,6 +1699,22 @@
       "duration_ms": 242181,
       "name": "Joy",
       "url": "https://open.spotify.com/track/5Ta0V7LXXNnfgl2RRxqG9u"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Stained Glass Windows",
+        "url": "https://open.spotify.com/album/1q710a6wLm18GHUA1eAMRb"
+      },
+      "artists": [
+        {
+          "name": "Rudy Currence",
+          "url": "https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8"
+        }
+      ],
+      "duration_ms": 233447,
+      "name": "Vans X Adidas",
+      "url": "https://open.spotify.com/track/00CMZKw15Y1d2E00GvH33t"
     },
     {
       "added_at": "2024-01-12 07:49:20",

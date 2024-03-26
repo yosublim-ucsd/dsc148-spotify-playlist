@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Joeyturks
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,607 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,742 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 |
 | 80 | [Na Die](https://open.spotify.com/track/1TKw7IaM6KS2l7JxY9oplQ) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Na Die](https://open.spotify.com/album/2EoNzxyyu0EAXxjiV5t0j5) | 2:27 |
 
-Snapshot ID: `MCwwNzRjYmRjMmQ1NTZhNGU3YjQ0YjQwZGE4MWI5Yzk5NmRkYzM5ZWNi`
+Snapshot ID: `MCwwOWNkYjVhZTFjOTMzYWY2ZTY2N2EyMWFlOWI1NjMwZjcyNjE2OWY1`

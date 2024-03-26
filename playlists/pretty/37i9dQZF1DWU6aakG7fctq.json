@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Conociendo Rusia",
-  "num_followers": 493801,
+  "num_followers": 493799,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjg5ZTE1NjA3NjU3ZWM1YjMzNDdiNjBkYzNmMjIwZDA5NWIzZTFh",
+  "snapshot_id": "MCxhMWQ2Mjk2MTEyYzdmYmUzMTVlM2ZkNjcyYTU1MzM0OTYyNzM2YTVk",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "mis compas tan aqu\u00ed",
-        "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "mis compas tan aqu\u00ed",
-      "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Sidekick",
         "url": "https://open.spotify.com/album/2cLxzF1ceQ3T8X8tgbR7mN"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 167597,
       "name": "Feliz Feliz",
       "url": "https://open.spotify.com/track/3X4O457O6740ekNTlvEG6f"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "mis compas tan aqu\u00ed",
+        "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "mis compas tan aqu\u00ed",
+      "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "TOTAL90NOSTALGIA",
+      "url": "https://open.spotify.com/track/5ffLdAti2Kb4XFZ2mPNrxp"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Tuyo",
         "url": "https://open.spotify.com/album/1Sv7uosU6z24BvsEm5AG7g"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 208421,
-      "name": "TOTAL90NOSTALGIA",
-      "url": "https://open.spotify.com/track/5ffLdAti2Kb4XFZ2mPNrxp"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Estar Cerca de Ti",
         "url": "https://open.spotify.com/album/6Ws43EfbO4IGba7j3gKXzl"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/4UBSEvuaR4v2zJkC0aroby"
-      },
-      "artists": [
-        {
-          "name": "Chicano Batman",
-          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 203112,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/4UBSEvuaR4v2zJkC0aroby"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Era Primavera",
-        "url": "https://open.spotify.com/album/6neGV0F44OSV979QtmColK"
-      },
-      "artists": [
-        {
-          "name": "Chicano Batman",
-          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
-        }
-      ],
-      "duration_ms": 251080,
-      "name": "Era Primavera",
-      "url": "https://open.spotify.com/track/78uQdQG1eaqC78z8g5Lecj"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "OTRA BOSSA",
         "url": "https://open.spotify.com/album/5Pg1i15k9DDMb40Mwqa6Zx"
       },
@@ -899,22 +883,34 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Una Cosa Lleva a la Otra",
-        "url": "https://open.spotify.com/album/48ebpXiKqVAdQnx5fy2WsV"
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/7yfpuKRPyz3BRm9fAPjGqp"
       },
       "artists": [
         {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
-        },
-        {
-          "name": "David Velasco",
-          "url": "https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL"
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
         }
       ],
-      "duration_ms": 212631,
-      "name": "Una Cosa Lleva a la Otra",
-      "url": "https://open.spotify.com/track/5UdQff8TOnWpO7Q1UjPR7x"
+      "duration_ms": 149940,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/29GLlaeW4vqFR1JXymZX7d"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Era Primavera",
+        "url": "https://open.spotify.com/album/6neGV0F44OSV979QtmColK"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        }
+      ],
+      "duration_ms": 251080,
+      "name": "Era Primavera",
+      "url": "https://open.spotify.com/track/78uQdQG1eaqC78z8g5Lecj"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -939,18 +935,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/7yfpuKRPyz3BRm9fAPjGqp"
+        "name": "Una Cosa Lleva a la Otra",
+        "url": "https://open.spotify.com/album/48ebpXiKqVAdQnx5fy2WsV"
       },
       "artists": [
         {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        },
+        {
+          "name": "David Velasco",
+          "url": "https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL"
         }
       ],
-      "duration_ms": 149940,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/29GLlaeW4vqFR1JXymZX7d"
+      "duration_ms": 212631,
+      "name": "Una Cosa Lleva a la Otra",
+      "url": "https://open.spotify.com/track/5UdQff8TOnWpO7Q1UjPR7x"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
+        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 154070,
+      "name": "Eutanasia",
+      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "NO HAY SE\u00d1AL",
         "url": "https://open.spotify.com/album/35LB7HQ4RWhvJnRdq8Coph"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 151386,
       "name": "Piritu",
       "url": "https://open.spotify.com/track/37ihmKT7uzbtbEK2jPzeQd"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
-        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 154070,
-      "name": "Eutanasia",
-      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "SIN MIRAR (feat. CLUBZ)",
-        "url": "https://open.spotify.com/album/0kgmX1KIPiZBBa16LhYZJM"
-      },
-      "artists": [
-        {
-          "name": "Solo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
-        },
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "SIN MIRAR (feat. CLUBZ)",
-      "url": "https://open.spotify.com/track/0xdYSnHZ8nYLxk6Cf72ZbV"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 184000,
       "name": "carameloraro",
       "url": "https://open.spotify.com/track/02kt7DDcT88R3dRt71qqr8"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "SIN MIRAR (feat. CLUBZ)",
+        "url": "https://open.spotify.com/album/0kgmX1KIPiZBBa16LhYZJM"
+      },
+      "artists": [
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        },
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "SIN MIRAR (feat. CLUBZ)",
+      "url": "https://open.spotify.com/track/0xdYSnHZ8nYLxk6Cf72ZbV"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1395,22 +1395,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Observation I: Metamorphosis",
-        "url": "https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr"
+        "name": "M\u00e1s Normal De Lo Normal",
+        "url": "https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh"
       },
       "artists": [
         {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        },
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
         }
       ],
-      "duration_ms": 188584,
-      "name": "Metamorphosis (with Ambar Lucid)",
-      "url": "https://open.spotify.com/track/0Ija1eSGhKSBx3KJkpLtms"
+      "duration_ms": 262593,
+      "name": "En Vez de Huir",
+      "url": "https://open.spotify.com/track/1YfiV2Ufi6GbzgdgbRHiVM"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1431,18 +1427,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "M\u00e1s Normal De Lo Normal",
-        "url": "https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh"
+        "name": "Observation I: Metamorphosis",
+        "url": "https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr"
       },
       "artists": [
         {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        },
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
         }
       ],
-      "duration_ms": 262593,
-      "name": "En Vez de Huir",
-      "url": "https://open.spotify.com/track/1YfiV2Ufi6GbzgdgbRHiVM"
+      "duration_ms": 188584,
+      "name": "Metamorphosis (with Ambar Lucid)",
+      "url": "https://open.spotify.com/track/0Ija1eSGhKSBx3KJkpLtms"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "oggy",
-        "url": "https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 128618,
-      "name": "oggy",
-      "url": "https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Un Rayo de Luz",
         "url": "https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 222991,
       "name": "Un Rayo de Luz",
       "url": "https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "oggy",
+        "url": "https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 128618,
+      "name": "oggy",
+      "url": "https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "MAKIA",
+        "url": "https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 195411,
+      "name": "LA DROGA ES MIA (Yuca_Ab_120BPM)",
+      "url": "https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "La Vida Sin Ti Apesta",
         "url": "https://open.spotify.com/album/7Kdd2OVrDy83cDzCLPMjLL"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 188992,
       "name": "La Vida Sin Ti Apesta",
       "url": "https://open.spotify.com/track/3MOT7l7lFwecHZdtvPnoAY"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "MAKIA",
-        "url": "https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 195411,
-      "name": "LA DROGA ES MIA (Yuca_Ab_120BPM)",
-      "url": "https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1631,6 +1631,42 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Primer encuentro",
+        "url": "https://open.spotify.com/album/6LHPL2nlo5M8tx5Eyc0nXm"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        },
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        }
+      ],
+      "duration_ms": 246330,
+      "name": "Primer encuentro",
+      "url": "https://open.spotify.com/track/4emJgbXvVStk13TJOQ3xWV"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "M\u00e1s Normal De Lo Normal",
+        "url": "https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 192165,
+      "name": "Hora de Comer",
+      "url": "https://open.spotify.com/track/01SnokcbraoP4BYxznl6bq"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Descifrar",
         "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
       },
@@ -1663,22 +1699,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "M\u00e1s Normal De Lo Normal",
-        "url": "https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 192165,
-      "name": "Hora de Comer",
-      "url": "https://open.spotify.com/track/01SnokcbraoP4BYxznl6bq"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "no es culpa m\u00eda",
         "url": "https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq"
       },
@@ -1691,22 +1711,6 @@
       "duration_ms": 185667,
       "name": "no es culpa m\u00eda",
       "url": "https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "todo pasa",
-        "url": "https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 214790,
-      "name": "todo pasa",
-      "url": "https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4"
     },
     {
       "added_at": "2024-03-22 04:00:00",

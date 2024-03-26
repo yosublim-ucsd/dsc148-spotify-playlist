@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "dans tes bras II (Lady Killers II)",
+        "url": "https://open.spotify.com/album/2QnJ9NX757hPrTwmfu3TxH"
+      },
+      "artists": [
+        {
+          "name": "kobzx2z",
+          "url": "https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171124,
+      "name": "dans tes bras II (Lady Killers II)",
+      "url": "https://open.spotify.com/track/7oXkxS9f50ZKBQvzftseXE"
+    },
+    {
+      "album": {
         "name": "Dawn of Awakening",
         "url": "https://open.spotify.com/album/4EM1YplDPkkZRnaeGT3zSd"
       },
@@ -3022,7 +3040,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 410000,
       "name": "The 90s Was A Feeling",
       "url": "https://open.spotify.com/track/3mMeMV86wXN1sMSmXXUaoY"

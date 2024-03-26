@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 68716,
+  "2024-03-26": 68723,
   "date_first_scraped": "2022-05-26",
   "description": "Kick back and relax after a hard day.",
   "name": "Home at Last",
@@ -357,6 +357,32 @@
       "duration_ms": 104280,
       "name": "Black Leaves",
       "url": "https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV"
+    },
+    {
+      "album": {
+        "name": "The Mixtape Sessions",
+        "url": "https://open.spotify.com/album/7c1Le7iq98j34T6b0piHOA"
+      },
+      "artists": [
+        {
+          "name": "Weeland",
+          "url": "https://open.spotify.com/artist/4JMHV6mrlTwZhlviZYZwO1"
+        },
+        {
+          "name": "Andreas K\u00fcmmert",
+          "url": "https://open.spotify.com/artist/7z66axlw21NlGzJ18VPmzj"
+        },
+        {
+          "name": "Richard Farrell",
+          "url": "https://open.spotify.com/artist/1lhqF3Dgr8XOM4EAOvw0SW"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298664,
+      "name": "Bleeding Heart",
+      "url": "https://open.spotify.com/track/15zvQEeeYONioCf12I6XYa"
     },
     {
       "album": {
@@ -2171,7 +2197,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 187439,
       "name": "Interstate 75 - LP Version Radio Edit",
       "url": "https://open.spotify.com/track/2AMkOVyQWkC1QhtZNmtkUQ"
@@ -3939,7 +3965,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 202071,
       "name": "The World's In A Bad Situation",
       "url": "https://open.spotify.com/track/7s2GbffwL8VJd86wYczOM4"
@@ -4011,7 +4037,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 329000,
       "name": "THOUSAND STRINGED INSTRUMENT",
       "url": "https://open.spotify.com/track/5Z7VtnF9lSGqEsv8KOTkC6"

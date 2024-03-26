@@ -4,7 +4,7 @@
 
 > New indie driving the current\. Cover: hemlocke springs
 
-399 songs - 20 hr 57 min
+400 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Do You Miss Me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 | 2023-01-18 | 2023-10-07 |
 | [Don't Be Another](https://open.spotify.com/track/3qaqxocTgqVSMT9GE82sbg) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Don't Be Another](https://open.spotify.com/album/1CLxNR4c7WeJ6c6gwjkPGl) | 3:39 | 2023-03-03 | 2023-05-01 |
 | [Don't Be Another](https://open.spotify.com/track/7jAYGGdjarBtjI8PkCgQI7) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Hardly The Same Snake](https://open.spotify.com/album/5YGnYey5QR9gXmgpxTV6Uw) | 3:39 | 2023-03-03 | 2023-08-22 |
+| [Don't Call Me](https://open.spotify.com/track/6TmdQKyH6D50cTnXVnfLFn) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Don't Call Me](https://open.spotify.com/album/27RLYalOrcL90bq5Y13mZ1) | 2:48 | 2024-03-25 |  |
 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-06-07 |  |
 | [DOOLALLY](https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [DOOLALLY](https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5) | 3:22 | 2023-06-07 | 2023-08-22 |
 | [double standard](https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [double standard](https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4) | 3:23 | 2022-04-08 | 2023-08-22 |
@@ -268,7 +269,7 @@
 | [NYC](https://open.spotify.com/track/5SfOaWCMXCR2b01GJqXLOr) | [Romeo + Juliet](https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2) | [Raging Bull](https://open.spotify.com/album/7ALsOonjasgDlpU4OkXSyo) | 2:26 | 2023-01-18 | 2023-06-08 |
 | [Oatmeal Pancakes](https://open.spotify.com/track/2WrVNmuf8cLlLE58Q5UweA) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Boy Toy](https://open.spotify.com/album/1wBk0x6HFBHRvIH42qyhBE) | 3:06 | 2023-04-21 | 2023-08-22 |
 | [Oatmeal Pancakes](https://open.spotify.com/track/3Qazns0pMnqN6cbDJTxj9a) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Oatmeal Pancakes](https://open.spotify.com/album/68pGqsjvG8r4vvLBljvPuQ) | 3:06 | 2023-04-21 | 2023-08-11 |
-| [Obsessed](https://open.spotify.com/track/5bh6cGE3I3npgmQ835rcN9) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [The Celestials!](https://open.spotify.com/artist/6vswLoimdBvn5uUap6Bmb9) | [SOLAR SONATAS VOL\. 1](https://open.spotify.com/album/6nDRwKGZzAd3uWI491uIWQ) | 4:33 | 2024-02-10 |  |
+| [Obsessed](https://open.spotify.com/track/5bh6cGE3I3npgmQ835rcN9) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [The Celestials!](https://open.spotify.com/artist/6vswLoimdBvn5uUap6Bmb9) | [SOLAR SONATAS VOL\. 1](https://open.spotify.com/album/6nDRwKGZzAd3uWI491uIWQ) | 4:33 | 2024-02-10 | 2024-03-26 |
 | [Obsessed With Your Mind](https://open.spotify.com/track/6jZHeTl4JfyOaJZtc8i37k) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Obsessed With Your Mind](https://open.spotify.com/album/2SKWZrwD8DeJHpU4kpFC3U) | 3:08 | 2023-11-17 |  |
 | [oh my love](https://open.spotify.com/track/5dEJc0rHuTVxtl1xljDbRv) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:45 | 2022-02-18 | 2022-11-12 |
 | [Ohio](https://open.spotify.com/track/0GgYACtOE5GNVjwAZmBr1p) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF) | [Ohio](https://open.spotify.com/album/4ZGtU7OLGX2SwD7QxcGwLI) | 2:50 | 2023-06-07 | 2023-08-22 |

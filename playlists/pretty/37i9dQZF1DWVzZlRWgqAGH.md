@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Khruangbin
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,700 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,768 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Idol Eyes](https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io) | [Common Saints](https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB) | [Idol Eyes](https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D) | 4:48 |
 | 100 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 
-Snapshot ID: `MCxmMTI3MTcwMWM1OTZhYjRmODJjNDI3Mzg4ZTFhZTE2M2MxODdjMjAy`
+Snapshot ID: `MCwyNDhmZmUxNTAxNjJhZGU5YWUyYzMxMDM4NjE1ZjVmZDg3NGE5YzRj`

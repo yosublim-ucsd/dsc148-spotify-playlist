@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzg1YTg5ZTQ0MGIzYzM4NmE4ZDU4ZjY1MTExNGU2ZTdmMWMzMDQ3",
+  "snapshot_id": "MCxiOGRiZjAwODllOTA1ZjlmMjJjZDMwNDJlZDcxYjgzYzU1YjIxNWE2",
   "tracks": [
     {
       "added_at": "2023-12-08 03:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "my future",
-        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 208155,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "STELLA & STEVE",
         "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
       },
@@ -223,18 +207,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+        "name": "my future",
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
+      "duration_ms": 208155,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -259,6 +243,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 368758,
-      "name": "VIRGO'S GROOVE",
-      "url": "https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Everybody Loves The Sunshine (Reissue)",
         "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
       },
@@ -311,18 +295,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 194607,
-      "name": "Pretty Please",
-      "url": "https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2"
+      "duration_ms": 368758,
+      "name": "VIRGO'S GROOVE",
+      "url": "https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -347,22 +331,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Over Now (with The Weeknd)",
-        "url": "https://open.spotify.com/album/3GPiefSRSOxqTrgKJIB7RL"
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 210795,
-      "name": "Over Now (with The Weeknd)",
-      "url": "https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR"
+      "duration_ms": 194607,
+      "name": "Pretty Please",
+      "url": "https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -379,6 +359,26 @@
       "duration_ms": 248892,
       "name": "Agitations tropicales",
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Over Now (with The Weeknd)",
+        "url": "https://open.spotify.com/album/3GPiefSRSOxqTrgKJIB7RL"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 210795,
+      "name": "Over Now (with The Weeknd)",
+      "url": "https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Sex & Food",
-        "url": "https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 268333,
-      "name": "Hunnybee",
-      "url": "https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 307014,
       "name": "Love's Train",
       "url": "https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Sex & Food",
+        "url": "https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 268333,
+      "name": "Hunnybee",
+      "url": "https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "4 Track EP",
-        "url": "https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb"
-      },
-      "artists": [
-        {
-          "name": "Litany",
-          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
-        }
-      ],
-      "duration_ms": 186781,
-      "name": "Bedroom",
-      "url": "https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Watch This Liquid Pour Itself",
         "url": "https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 93737,
       "name": "Mother Nature's Bitch",
       "url": "https://open.spotify.com/track/3vy3ld7my2hDUTv4u7KIJR"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "4 Track EP",
+        "url": "https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb"
+      },
+      "artists": [
+        {
+          "name": "Litany",
+          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
+        }
+      ],
+      "duration_ms": 186781,
+      "name": "Bedroom",
+      "url": "https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Ungodly Hour",
-        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
-      },
-      "artists": [
-        {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        }
-      ],
-      "duration_ms": 255893,
-      "name": "Ungodly Hour",
-      "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 188780,
       "name": "Softly",
       "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Ungodly Hour",
+        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Ungodly Hour",
+      "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
     },
     {
       "added_at": "2023-12-08 03:00:00",

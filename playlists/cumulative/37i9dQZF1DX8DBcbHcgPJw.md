@@ -2,7 +2,7 @@
 
 ### [Dame Más Cumbia](https://open.spotify.com/playlist/37i9dQZF1DX8DBcbHcgPJw)
 
-> ¡Lo mejor de la Cumbia Pop! <br/>Foto: The La Planta
+> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Nestor En Bloque.
 
 504 songs - 1 day 0 hr 51 min
 

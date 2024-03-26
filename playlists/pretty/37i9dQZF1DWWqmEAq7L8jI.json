@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
-  "num_followers": 270174,
+  "num_followers": 270194,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjM2OTI3MDQ3ODZlMDU1ZTFjMzY1Y2QxOWU2MTFlYjlkOTM0NTc3",
+  "snapshot_id": "MCw0YzBlOGU0ZmU1ZjVhOWQ2NWYwNDkzMmNjOTEwNTQ3YjBhNGI2NDk0",
   "tracks": [
     {
       "added_at": "2024-03-22 14:09:16",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-03-22 14:09:16",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Mejor Que Ayer",
-      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
-    },
-    {
-      "added_at": "2024-03-22 14:09:16",
-      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 192703,
       "name": "DESAFIANDO EL DESTINO",
       "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
+    },
+    {
+      "added_at": "2024-03-22 14:09:16",
+      "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Mejor Que Ayer",
+      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
     },
     {
       "added_at": "2024-03-22 14:09:16",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-03-22 14:09:16",
       "album": {
-        "name": "A la Vez",
-        "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 182876,
-      "name": "A la Vez",
-      "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
-    },
-    {
-      "added_at": "2024-03-22 14:09:16",
-      "album": {
         "name": "11",
         "url": "https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 221080,
       "name": "Oncemil",
       "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
+    },
+    {
+      "added_at": "2024-03-22 14:09:16",
+      "album": {
+        "name": "A la Vez",
+        "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 182876,
+      "name": "A la Vez",
+      "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
     },
     {
       "added_at": "2024-03-22 14:09:16",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-03-22 14:09:16",
       "album": {
+        "name": "Abel",
+        "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 181933,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu"
+    },
+    {
+      "added_at": "2024-03-22 14:09:16",
+      "album": {
         "name": "BAIL\u00c9 CON MI EX",
         "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 144491,
       "name": "Ya No Vuelvas",
       "url": "https://open.spotify.com/track/6rz0n5iiiFOD9PMuBnFCJV"
-    },
-    {
-      "added_at": "2024-03-22 14:09:16",
-      "album": {
-        "name": "Abel",
-        "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Motivos",
-      "url": "https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu"
     },
     {
       "added_at": "2024-03-22 14:09:16",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2024-03-22 14:09:16",
       "album": {
-        "name": "Tres",
-        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 188086,
-      "name": "Imposible Amor",
-      "url": "https://open.spotify.com/track/5zRusJsWuFeLu2sICWvVDF"
-    },
-    {
-      "added_at": "2024-03-22 14:09:16",
-      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 209133,
       "name": "AYER TE VI (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
+    },
+    {
+      "added_at": "2024-03-22 14:09:16",
+      "album": {
+        "name": "Tres",
+        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 188086,
+      "name": "Imposible Amor",
+      "url": "https://open.spotify.com/track/5zRusJsWuFeLu2sICWvVDF"
     },
     {
       "added_at": "2024-03-22 14:09:16",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-03-22 14:09:16",
       "album": {
-        "name": "Amor Pasajero",
-        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 152080,
-      "name": "Amor Pasajero",
-      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
-    },
-    {
-      "added_at": "2024-03-22 14:09:16",
-      "album": {
         "name": "El d\u00eda menos pensado",
         "url": "https://open.spotify.com/album/7c3gCf6zmvLjb1DY4QqGBu"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 171153,
       "name": "Yo No Te Pido la Luna",
       "url": "https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q"
+    },
+    {
+      "added_at": "2024-03-22 14:09:16",
+      "album": {
+        "name": "Amor Pasajero",
+        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 152080,
+      "name": "Amor Pasajero",
+      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
     },
     {
       "added_at": "2024-03-22 14:09:16",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2024-03-22 14:09:16",
       "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M"
+    },
+    {
+      "added_at": "2024-03-22 14:09:16",
+      "album": {
         "name": "Agua Salada",
         "url": "https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 213434,
       "name": "Agua Salada",
       "url": "https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v"
-    },
-    {
-      "added_at": "2024-03-22 14:09:16",
-      "album": {
-        "name": "T\u00fa Me Delatas",
-        "url": "https://open.spotify.com/album/0xsTTmJKU8ii6x4pkTXtjT"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "T\u00fa Me Delatas",
-      "url": "https://open.spotify.com/track/5SAED5EpG2omE0XIBLwKLi"
     }
   ],
   "unique_name": "Radio Pop",

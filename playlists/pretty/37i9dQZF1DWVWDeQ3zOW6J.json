@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 42515,
+  "num_followers": 42539,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWRjYmYxYTY4MThlYWJhZGZhNzZlMmI5YWE2MDYxNjhjMGNlZTgx",
+  "snapshot_id": "MCxjNWQ4MTE2NzgzZTQzM2MwM2FkMzkwZmFmZWQwYTgxMmJmZmJkOTZm",
   "tracks": [
     {
       "added_at": "2023-02-13 22:55:50",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Pa' Bravo Yo",
-        "url": "https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh"
-      },
-      "artists": [
-        {
-          "name": "Justo Betancourt",
-          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Pa' Bravo Yo",
-      "url": "https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
         "name": "Lo Mato",
         "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
       },
@@ -143,6 +127,22 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
+        "name": "Pa' Bravo Yo",
+        "url": "https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh"
+      },
+      "artists": [
+        {
+          "name": "Justo Betancourt",
+          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Pa' Bravo Yo",
+      "url": "https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
         "name": "El Rey Bravo",
         "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
       },
@@ -159,22 +159,18 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/7e8xq5Cixf4PIseZjXa3qj"
+        "name": "Por el Buen Camino",
+        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
       },
       "artists": [
         {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        },
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
         }
       ],
-      "duration_ms": 197888,
-      "name": "Tiene Sabor (feat. Omara Portuondo)",
-      "url": "https://open.spotify.com/track/4DFbRXlTdH9JdqCBeX6NOG"
+      "duration_ms": 311733,
+      "name": "Caretas",
+      "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -195,18 +191,18 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Por el Buen Camino",
-        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
+        "name": "Que Gente Averigu\u00e1",
+        "url": "https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY"
       },
       "artists": [
         {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+          "name": "Mon Rivera",
+          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
         }
       ],
-      "duration_ms": 311733,
-      "name": "Caretas",
-      "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
+      "duration_ms": 177680,
+      "name": "Lluvia con Nieve",
+      "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -247,18 +243,22 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Que Gente Averigu\u00e1",
-        "url": "https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY"
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/7e8xq5Cixf4PIseZjXa3qj"
       },
       "artists": [
         {
-          "name": "Mon Rivera",
-          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        },
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
         }
       ],
-      "duration_ms": 177680,
-      "name": "Lluvia con Nieve",
-      "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
+      "duration_ms": 197888,
+      "name": "Tiene Sabor (feat. Omara Portuondo)",
+      "url": "https://open.spotify.com/track/4DFbRXlTdH9JdqCBeX6NOG"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -307,66 +307,6 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Vigilante",
-        "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 456960,
-      "name": "Juanito Alima\u00f1a",
-      "url": "https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
-        "name": "Asalto Navide\u00f1o",
-        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Yomo Toro",
-          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
-        }
-      ],
-      "duration_ms": 334080,
-      "name": "La Murga",
-      "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
-        "name": "La Universidad de La Salsa",
-        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 301373,
-      "name": "Y No Hago Mas Na'",
-      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
         "name": "Cheo",
         "url": "https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli"
       },
@@ -399,18 +339,38 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Soy Feliz",
-        "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
+        "name": "Vigilante",
+        "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
       },
       "artists": [
         {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Las Tumbas",
-      "url": "https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw"
+      "duration_ms": 456960,
+      "name": "Juanito Alima\u00f1a",
+      "url": "https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
+        "name": "La Universidad de La Salsa",
+        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 301373,
+      "name": "Y No Hago Mas Na'",
+      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -427,6 +387,66 @@
       "duration_ms": 289960,
       "name": "Estamos en Salsa",
       "url": "https://open.spotify.com/track/6nONybSopBGecWPK0pcvva"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
+        "name": "Asalto Navide\u00f1o",
+        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Yomo Toro",
+          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+        }
+      ],
+      "duration_ms": 334080,
+      "name": "La Murga",
+      "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x"
+      },
+      "artists": [
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        },
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "El Rat\u00f3n",
+      "url": "https://open.spotify.com/track/4nB0lLsweZhCQQYIMnFjSB"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
+        "name": "Soy Feliz",
+        "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Las Tumbas",
+      "url": "https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -451,22 +471,18 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Crime Pays",
-        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 211400,
-      "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
-      "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
+      "duration_ms": 249373,
+      "name": "Azuquita Pa'l Cafe",
+      "url": "https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -535,22 +551,6 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 249373,
-      "name": "Azuquita Pa'l Cafe",
-      "url": "https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
         "name": "Este Negro Si es Sabroso",
         "url": "https://open.spotify.com/album/4lo8dpD9ro4TeK7KnTYWqe"
       },
@@ -563,26 +563,6 @@
       "duration_ms": 312640,
       "name": "Catalina La O",
       "url": "https://open.spotify.com/track/3uOODK5GtGFNda7J8ty4VJ"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x"
-      },
-      "artists": [
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        },
-        {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "El Rat\u00f3n",
-      "url": "https://open.spotify.com/track/4nB0lLsweZhCQQYIMnFjSB"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -603,6 +583,26 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
+        "name": "Crime Pays",
+        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
+      "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
         "name": "Sofrito",
         "url": "https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 366200,
       "name": "Sofrito",
       "url": "https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
-        "name": "Fania Live 02 From Miami With DJ LeSpam",
-        "url": "https://open.spotify.com/album/3hzWtDzAggtGEkuu6GMmSg"
-      },
-      "artists": [
-        {
-          "name": "Johnny Colon",
-          "url": "https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm"
-        }
-      ],
-      "duration_ms": 357386,
-      "name": "Merecumbe",
-      "url": "https://open.spotify.com/track/3UIdoF8igmzt7gnolINC97"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -667,6 +651,22 @@
       "duration_ms": 227400,
       "name": "Salsa Y Control",
       "url": "https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
+        "name": "Fania Live 02 From Miami With DJ LeSpam",
+        "url": "https://open.spotify.com/album/3hzWtDzAggtGEkuu6GMmSg"
+      },
+      "artists": [
+        {
+          "name": "Johnny Colon",
+          "url": "https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm"
+        }
+      ],
+      "duration_ms": 357386,
+      "name": "Merecumbe",
+      "url": "https://open.spotify.com/track/3UIdoF8igmzt7gnolINC97"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
+        "name": "A Band And Their Music: Campeones",
+        "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        }
+      ],
+      "duration_ms": 405093,
+      "name": "El Rey de la Puntualidad",
+      "url": "https://open.spotify.com/track/1nO0s5M8vA6qY70XHZcgmY"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
         "name": "Jala Jala y Boogaloo",
         "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 254866,
       "name": "Sandra Mora",
       "url": "https://open.spotify.com/track/1Lyg0T9xKFXIyIj3jHpOm8"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
-        "name": "A Band And Their Music: Campeones",
-        "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        }
-      ],
-      "duration_ms": 405093,
-      "name": "El Rey de la Puntualidad",
-      "url": "https://open.spotify.com/track/1nO0s5M8vA6qY70XHZcgmY"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -1043,22 +1043,18 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Musical Conquest",
-        "url": "https://open.spotify.com/album/6QybGmhiK58QmzzArsI68m"
+        "name": "Apollo Sound 5",
+        "url": "https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS"
       },
       "artists": [
         {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        },
-        {
-          "name": "Papo Lucca",
-          "url": "https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv"
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
         }
       ],
-      "duration_ms": 295400,
-      "name": "El P\u00edo P\u00edo",
-      "url": "https://open.spotify.com/track/7Ee7jBAQ6iYSDr2pAkwxfw"
+      "duration_ms": 287586,
+      "name": "Cui Cui",
+      "url": "https://open.spotify.com/track/6o221EsS11nmxMMPJRIN4N"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -1079,22 +1075,6 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "El Maestro",
-        "url": "https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 502920,
-      "name": "El Fais\u00e1n",
-      "url": "https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
         "name": "Az\u00facar pa' Ti",
         "url": "https://open.spotify.com/album/7ABnsWLl8iiyVqkpR9ZRGT"
       },
@@ -1107,6 +1087,22 @@
       "duration_ms": 569240,
       "name": "Az\u00facar",
       "url": "https://open.spotify.com/track/4j0CkYOhOdPyWjfpEL1sWM"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
+        "name": "El Maestro",
+        "url": "https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 502920,
+      "name": "El Fais\u00e1n",
+      "url": "https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG"
     }
   ],
   "unique_name": "Cocina con Salsa",

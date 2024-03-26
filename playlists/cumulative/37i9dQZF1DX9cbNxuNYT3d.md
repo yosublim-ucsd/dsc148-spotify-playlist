@@ -4,7 +4,7 @@
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-95 songs - 7 hr 48 min
+97 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [D.A.N.C.E](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 | 2022-01-11 |  |
 | [Da Funk](https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:28 | 2022-01-11 | 2023-08-26 |
 | [DVNO \- Radio Edit](https://open.spotify.com/track/1wVBZxnCo8ZkGaFqPJEmz2) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [DVNO](https://open.spotify.com/album/10y4ioZQOQoIEkFOMxElJr) | 3:11 | 2022-01-11 |  |
-| [Edony \- Clap your Hands](https://open.spotify.com/track/6KB39k2DejOxaIxOp5qwji) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Hossam Ramzy](https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD) | [Africanism](https://open.spotify.com/album/1Ty46CHvm7P0XOks0hvG8d) | 8:11 | 2022-01-11 |  |
+| [Edony \(Clap your Hands\) \- Clap Your Hands](https://open.spotify.com/track/3hhOOCxdlaC7c6Te9Gr5sV) | [Africanism](https://open.spotify.com/artist/3E9XtGFNNweLtiR8y5aZO5), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Hossam Ramzy](https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD) | [Edony](https://open.spotify.com/album/3pYTrDeyR1Jn3pVy0HjOqF) | 8:11 | 2023-10-16 |  |
+| [Edony \- Clap your Hands](https://open.spotify.com/track/6KB39k2DejOxaIxOp5qwji) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Hossam Ramzy](https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD) | [Africanism](https://open.spotify.com/album/1Ty46CHvm7P0XOks0hvG8d) | 8:11 | 2022-01-11 | 2024-03-26 |
 | [Fallin' in love](https://open.spotify.com/track/5yBiLaIDL1pwwNli16MGka) | [Shazz](https://open.spotify.com/artist/3WXF9fqBHmKBirvFxGDvCe), [Alec.C](https://open.spotify.com/artist/0gXUvA4KDtIsJBSA1MQWQM) | [In The Light](https://open.spotify.com/album/4qwOZy8ImMsBk8Z3MZ8Mja) | 5:12 | 2022-01-11 |  |
 | [Feeling for You](https://open.spotify.com/track/0UHhtA7tNKZaEPh7hYZVGP) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [1999 \(Deluxe Edition\)](https://open.spotify.com/album/2HKgnzlGIJddpRwDlxit43) | 4:37 | 2022-01-11 |  |
 | [Flat Beat \- Radio Edit](https://open.spotify.com/track/0LjTqBwFKfblqnuuDCH2Sw) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Flat Beat](https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ) | 3:57 | 2022-07-10 |  |
@@ -34,7 +35,8 @@
 | [Get Lucky \(feat\. Pharrell Williams and Nile Rodgers\)](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 6:09 | 2023-02-24 | 2023-05-13 |
 | [Giorgio by Moroder](https://open.spotify.com/track/0oks4FnzhNp5QPTZtoet7c) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 9:04 | 2023-05-11 | 2023-05-13 |
 | [Giorgio by Moroder](https://open.spotify.com/track/2eXJRM1lQJ591AStNA26Yx) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Random Access Memories \(10th Anniversary Edition\)](https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0) | 9:04 | 2023-05-11 | 2023-08-26 |
-| [Gym tonic \- Original](https://open.spotify.com/track/4DgPcCPpxVN28ZOQBZBhu4) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Paradise](https://open.spotify.com/album/2ZHeCVucwVH7H3qC4abtTd) | 6:12 | 2022-01-11 |  |
+| [Gym Tonic](https://open.spotify.com/track/1la1gHPyj0Soug4W3Z25zO) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Paradise](https://open.spotify.com/album/7vg6C4k2yd8E0bOPCoEVTg) | 6:12 | 2023-10-16 |  |
+| [Gym tonic \- Original](https://open.spotify.com/track/4DgPcCPpxVN28ZOQBZBhu4) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Paradise](https://open.spotify.com/album/2ZHeCVucwVH7H3qC4abtTd) | 6:12 | 2022-01-11 | 2024-03-26 |
 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 | 2022-07-10 |  |
 | [I <3 U SO](https://open.spotify.com/track/1mizZEavK16AN2Jo4mG93O) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/3wnLAWP3OtHM8aKRdGcMSc) | 3:42 | 2022-01-11 | 2022-07-29 |
 | [I feel for you \- Original](https://open.spotify.com/track/3zAU6cqXVFTzz1Yvnw87x1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs elysées](https://open.spotify.com/album/7xRnsA4UR8FgkMOSsfnizs) | 5:50 | 2023-05-11 | 2023-08-26 |

@@ -1,12 +1,12 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 339824,
+  "num_followers": 339808,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2ExOGY4MDNlOTE0YzQ2ZWY2NTZiMWQwNTlkZmM3Yjk3N2Q5M2Fk",
+  "snapshot_id": "MCwzODU5MmZiNmJhMmYwZjM5NzRlMmU5MWY0NTZkYzM0OWE1YTAxNWY2",
   "tracks": [
     {
       "added_at": "2023-01-17 01:33:36",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Fuleragem",
-        "url": "https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT"
+        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
+        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
       },
       "artists": [
         {
-          "name": "MC WM",
-          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 141473,
-      "name": "Fuleragem",
-      "url": "https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay"
+      "duration_ms": 154661,
+      "name": "Todo Mundo Vai Sofrer - Ao Vivo",
+      "url": "https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Fuleragem",
+        "url": "https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT"
+      },
+      "artists": [
+        {
+          "name": "MC WM",
+          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+        }
+      ],
+      "duration_ms": 141473,
+      "name": "Fuleragem",
+      "url": "https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 192870,
       "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
-        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 154661,
-      "name": "Todo Mundo Vai Sofrer - Ao Vivo",
-      "url": "https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "In Miami Beach (Ao Vivo)",
+        "url": "https://open.spotify.com/album/20wBgOGIjSo3lWwgXfishN"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 171084,
+      "name": "Ar Condicionado no 15 - Ao Vivo",
+      "url": "https://open.spotify.com/track/59iqQY09BBJD3cSvojPsh0"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Bonita, Lindinha e Sagaz",
         "url": "https://open.spotify.com/album/5QOnAQEYvj9z2ooInaE4Tx"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 155076,
       "name": "Bonita, Lindinha e Sagaz",
       "url": "https://open.spotify.com/track/3ZjpeqP47CBSMUTc6IVhEM"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "In Miami Beach (Ao Vivo)",
-        "url": "https://open.spotify.com/album/20wBgOGIjSo3lWwgXfishN"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 171084,
-      "name": "Ar Condicionado no 15 - Ao Vivo",
-      "url": "https://open.spotify.com/track/59iqQY09BBJD3cSvojPsh0"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -619,18 +619,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "\u00c9 Problema",
-        "url": "https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa"
+        "name": "Ra\u00e7a Negra e Amigos II (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "Ra\u00e7a Negra",
+          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 184149,
-      "name": "\u00c9 Problema",
-      "url": "https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF"
+      "duration_ms": 277125,
+      "name": "Cheia de Manias - Ao Vivo",
+      "url": "https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -655,42 +659,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Ra\u00e7a Negra e Amigos II (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw"
+        "name": "\u00c9 Problema",
+        "url": "https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa"
       },
       "artists": [
         {
-          "name": "Ra\u00e7a Negra",
-          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         }
       ],
-      "duration_ms": 277125,
-      "name": "Cheia de Manias - Ao Vivo",
-      "url": "https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Dona Maria",
-        "url": "https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur"
-      },
-      "artists": [
-        {
-          "name": "Thiago Brava",
-          "url": "https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW"
-        },
-        {
-          "name": "Jorge",
-          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
-        }
-      ],
-      "duration_ms": 187998,
-      "name": "Dona Maria",
-      "url": "https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre"
+      "duration_ms": 184149,
+      "name": "\u00c9 Problema",
+      "url": "https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -715,26 +695,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Ao Vivo E A Cores",
-        "url": "https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Ao Vivo E A Cores",
-      "url": "https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "A\u00ed Eu Bebo (ao Vivo)",
         "url": "https://open.spotify.com/album/6xWyByyXTcL2MUSi0mKewj"
       },
@@ -747,26 +707,6 @@
       "duration_ms": 173891,
       "name": "A\u00ed Eu Bebo - Ao Vivo",
       "url": "https://open.spotify.com/track/6lK3nCiigk34SGqEjpQoqO"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Live-M\u00f3vel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 187378,
-      "name": "Sofazinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -787,6 +727,26 @@
       "duration_ms": 159458,
       "name": "Isso Que \u00e9 Vida",
       "url": "https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Dona Maria",
+        "url": "https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur"
+      },
+      "artists": [
+        {
+          "name": "Thiago Brava",
+          "url": "https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW"
+        },
+        {
+          "name": "Jorge",
+          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
+        }
+      ],
+      "duration_ms": 187998,
+      "name": "Dona Maria",
+      "url": "https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -823,6 +783,46 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Live-M\u00f3vel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 187378,
+      "name": "Sofazinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Ao Vivo E A Cores",
+        "url": "https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Ao Vivo E A Cores",
+      "url": "https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Bruninho & Davi ao Vivo no Ibirapuera (Deluxe)",
         "url": "https://open.spotify.com/album/0N5TZp53t8eSWzmeHqr1tA"
       },
@@ -835,26 +835,6 @@
       "duration_ms": 181013,
       "name": "E Essa Boca A\u00ed? - Ao Vivo",
       "url": "https://open.spotify.com/track/6vve9WKW5I7fQzkU8dNsUE"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Deixa Ela Beijar",
-        "url": "https://open.spotify.com/album/0cRh2xyjTOdUSVBNk84nd4"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 166410,
-      "name": "Deixa Ela Beijar",
-      "url": "https://open.spotify.com/track/2KxHe4qxNgeFcKpE2r2aBt"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -931,6 +911,26 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Deixa Ela Beijar",
+        "url": "https://open.spotify.com/album/0cRh2xyjTOdUSVBNk84nd4"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 166410,
+      "name": "Deixa Ela Beijar",
+      "url": "https://open.spotify.com/track/2KxHe4qxNgeFcKpE2r2aBt"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Assalto Perigoso",
         "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
       },
@@ -999,22 +999,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "S\u00e9culo 21",
-        "url": "https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7"
+        "name": "Rabiola",
+        "url": "https://open.spotify.com/album/4bOxfdAsnDjUy0sAqjqKyk"
       },
       "artists": [
         {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
         }
       ],
-      "duration_ms": 167838,
-      "name": "S\u00e9culo 21",
-      "url": "https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ"
+      "duration_ms": 175660,
+      "name": "Rabiola",
+      "url": "https://open.spotify.com/track/4ElQE5JDPUuESlyHCHNOXA"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1035,6 +1031,26 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "S\u00e9culo 21",
+        "url": "https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 167838,
+      "name": "S\u00e9culo 21",
+      "url": "https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Finalidade Era Ficar em Casa",
         "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 185652,
       "name": "Finalidade Era Ficar em Casa",
       "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Rabiola",
-        "url": "https://open.spotify.com/album/4bOxfdAsnDjUy0sAqjqKyk"
-      },
-      "artists": [
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 175660,
-      "name": "Rabiola",
-      "url": "https://open.spotify.com/track/4ElQE5JDPUuESlyHCHNOXA"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Xperience Na Praia (ao Vivo)",
+        "url": "https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Inquilina - Ao Vivo",
+      "url": "https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Coladinha em Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/5PxAPT3Nvu4ChOHzBrj0CA"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Xperience Na Praia (ao Vivo)",
-        "url": "https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "Inquilina - Ao Vivo",
-      "url": "https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "A Origem (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Epj5Yu1oKT74AocfDrAOn"
       },
@@ -1143,6 +1143,26 @@
       "duration_ms": 153374,
       "name": "Posto 24h (feat. Wesley Safad\u00e3o) - Ao Vivo",
       "url": "https://open.spotify.com/track/3mNmUjoDHYDYj08IaRPtg0"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Quem Me Dera",
+        "url": "https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        },
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        }
+      ],
+      "duration_ms": 147990,
+      "name": "Quem Me Dera",
+      "url": "https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1183,26 +1203,6 @@
       "duration_ms": 236852,
       "name": "Resenha l\u00e1 em casa",
       "url": "https://open.spotify.com/track/3NnW2EqJxvHYrRy3upaznl"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Quem Me Dera",
-        "url": "https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcia Fellipe",
-          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
-        },
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        }
-      ],
-      "duration_ms": 147990,
-      "name": "Quem Me Dera",
-      "url": "https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl"
     },
     {
       "added_at": "2023-01-17 01:33:36",

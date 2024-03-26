@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Olivia Rodrigo
 
-1,174 songs - 2 day 19 hr 27 min
+1,175 songs - 2 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,8 @@
 | [Evil People](https://open.spotify.com/track/12mgWzCmMk1WsQyEctDj2e) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Evil People](https://open.spotify.com/album/4U8HZ4Cw7fyZ2AbLAchzuP) | 3:24 | 2023-10-26 | 2024-01-05 |
 | [Evolution](https://open.spotify.com/track/3khZfJxwsaXAPM4riEPHZB) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution](https://open.spotify.com/album/4Duw84CjAvQ1DVfoEJR4tG) | 4:26 | 2024-01-11 | 2024-02-02 |
 | [EXCALIBUR](https://open.spotify.com/track/6gg9wuYw3WvZ6bdfUxWZui) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [existential hymns for the average sigma \[vol\. 9\]](https://open.spotify.com/album/0249YKLhbyTmcDuKp1nPEU) | 2:43 | 2023-12-14 | 2023-12-22 |
-| [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 | 2024-02-29 |  |
+| [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 | 2024-03-21 |  |
+| [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 | 2024-02-29 | 2024-03-26 |
 | [Exits Blocked](https://open.spotify.com/track/6ZjQr2u2refwSwIE1Y2FFQ) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Hot Air Balloon EP](https://open.spotify.com/album/6FQhPhyUfZcfqvjeGd4lhC) | 3:29 | 2024-01-04 | 2024-01-12 |
 | [Expert In A Dying Field](https://open.spotify.com/track/1bPcxJHusTrlr2Kj4kjK7e) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 4:11 | 2023-09-15 | 2023-09-22 |
 | [Explode!](https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Grief Chapter](https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU) | 2:31 | 2024-02-15 | 2024-03-01 |

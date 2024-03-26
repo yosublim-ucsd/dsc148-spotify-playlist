@@ -4301,6 +4301,24 @@
     },
     {
       "album": {
+        "name": "brown eyes*",
+        "url": "https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163346,
+      "name": "brown eyes*",
+      "url": "https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD"
+    },
+    {
+      "album": {
         "name": "I Love My Girl, She's My Boy",
         "url": "https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF"
       },
@@ -32344,7 +32362,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 249693,
       "name": "Willow (feat. Lucy Rose)",
       "url": "https://open.spotify.com/track/7m1qFwzJnebBiWkzE7RgDq"

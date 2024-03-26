@@ -1000,10 +1000,32 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 459661,
       "name": "HAYII",
       "url": "https://open.spotify.com/track/3NdtOKVyuOO5GwhU7Ts4iI"
+    },
+    {
+      "album": {
+        "name": "HAYII (La Alegria) (feat. Yasmin Levy)",
+        "url": "https://open.spotify.com/album/0plOq7ZaNiB3uXYSvPzYU6"
+      },
+      "artists": [
+        {
+          "name": "Mzux Maen",
+          "url": "https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0"
+        },
+        {
+          "name": "Yasmin Levy",
+          "url": "https://open.spotify.com/artist/1XDkuk3pjmco8Mkd93Qxbu"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459658,
+      "name": "HAYII (La Alegria) (feat. Yasmin Levy)",
+      "url": "https://open.spotify.com/track/6rz9Rpygk7yTlFnk253Sfy"
     },
     {
       "album": {

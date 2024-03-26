@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Glass Beams  Artwork: Elsy Wameyo.
 
-3,170 songs - 7 day 5 hr 56 min
+3,171 songs - 7 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -883,7 +883,8 @@
 | [Evil Girl](https://open.spotify.com/track/6tz5zxNc04NyJeWerFbJgp) | [Jaxn Faw](https://open.spotify.com/artist/54QsNeUrZElybJ6hqMzm3s) | [Evil Girl](https://open.spotify.com/album/7khNjbAqA3LZ9JLf4F9Z1t) | 2:00 | 2023-08-23 | 2023-09-07 |
 | [ex4ya](https://open.spotify.com/track/2EuuPJ8JP88fOUQJXNgUeo) | [Drest](https://open.spotify.com/artist/6iQHZkkQy6VuuOE0ASK6Ye) | [ex4ya](https://open.spotify.com/album/6cGzFxkGr2NZyGI1AcXZlo) | 2:41 | 2022-06-29 | 2022-07-28 |
 | [exactly the same](https://open.spotify.com/track/7KAFWdeDgkekYrjFomiXkB) | [yergurl](https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo) | [exactly the same](https://open.spotify.com/album/6QWdwdcEsYCXHmvp9GVzAx) | 2:31 | 2023-10-26 | 2024-02-03 |
-| [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 | 2024-03-01 |  |
+| [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 | 2024-03-22 |  |
+| [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 | 2024-03-01 | 2024-03-26 |
 | [Excited](https://open.spotify.com/track/1YEoct3CMAfBgWx1kShQsV) | [Sam Windley](https://open.spotify.com/artist/3UassBGTqcV7axQqSeXH0w) | [Excited](https://open.spotify.com/album/1Ouqnq4qQsR6nvfklevsG3) | 2:52 | 2023-08-16 | 2023-08-31 |
 | [EXCURSIONS](https://open.spotify.com/track/4kWbbCyJ0wbtubrroZFZhp) | [Otiuh](https://open.spotify.com/artist/1k65Z6RR7niAIng9OtdlMc), [Mali Jo$e](https://open.spotify.com/artist/2dW8glpVWvAL8tODw7sxy4) | [EXCURSIONS](https://open.spotify.com/album/57ConIije3MKSpIbcmq7SP) | 3:07 | 2023-09-06 | 2023-09-28 |
 | [Execute](https://open.spotify.com/track/4z7Of1z60ND18xrO10SblI) | [Nardean](https://open.spotify.com/artist/3NF0Inkg9acKhu5Nyt2JLK), [Chelsea Warner](https://open.spotify.com/artist/3Lb2tw0rDcP1ADtJ1BVh3h) | [Execute](https://open.spotify.com/album/0SyuGSRtmvyR76xdv63uAk) | 3:47 | 2022-03-16 | 2022-04-07 |

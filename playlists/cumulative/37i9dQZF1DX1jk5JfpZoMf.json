@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 178962,
       "name": "Drops Of Rain",
       "url": "https://open.spotify.com/track/3FEbGo3HICXw4tKZ10I2QM"
@@ -1244,6 +1244,24 @@
       "duration_ms": 194445,
       "name": "Foggy Morning Rain",
       "url": "https://open.spotify.com/track/6lclF5CG07zc2GLG8VUfbX"
+    },
+    {
+      "album": {
+        "name": "Forest Rain Bath",
+        "url": "https://open.spotify.com/album/4bV38Ax7XtDSfe9wvkjVog"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9sir\u00e9 Renaud",
+          "url": "https://open.spotify.com/artist/25vUptgRQxLAmNDHgXk2be"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Forest Rain Bath",
+      "url": "https://open.spotify.com/track/1CPZo0gX4O1U7CPp8GZ68v"
     },
     {
       "album": {

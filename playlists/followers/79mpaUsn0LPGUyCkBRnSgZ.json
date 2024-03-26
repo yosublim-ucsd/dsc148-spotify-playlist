@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 1,
+  "2024-03-26": 1,
   "date_first_scraped": "2023-03-31",
   "description": "albums i plan to listen to eventually",
   "name": "Zacklog",
@@ -3644,6 +3644,24 @@
     },
     {
       "album": {
+        "name": "For Your Consideration",
+        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180160,
+      "name": "For Your Consideration",
+      "url": "https://open.spotify.com/track/7cQ4rqHX5LBC8fDbxxwK6e"
+    },
+    {
+      "album": {
         "name": "Body N. Will",
         "url": "https://open.spotify.com/album/4yTeZlcwc5fCoNPQFD2ZNX"
       },
@@ -3839,6 +3857,24 @@
       "duration_ms": 287843,
       "name": "Giant Steps - 2020 Remaster",
       "url": "https://open.spotify.com/track/69KzcVxzsz1KvLzaxMMobe"
+    },
+    {
+      "album": {
+        "name": "Freedom of Choice",
+        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177306,
+      "name": "Girl U Want",
+      "url": "https://open.spotify.com/track/7aLqagsvH0UhwElKSR8rAj"
     },
     {
       "album": {
@@ -6368,6 +6404,24 @@
     },
     {
       "album": {
+        "name": "Emperor Tomato Ketchup",
+        "url": "https://open.spotify.com/album/0haIl1ZqGy5akbazF8nxLs"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474506,
+      "name": "Metronomic Underground",
+      "url": "https://open.spotify.com/track/0n9D5BLKdwCbSOLWZISiZN"
+    },
+    {
+      "album": {
         "name": "The Patience",
         "url": "https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI"
       },
@@ -6777,6 +6831,24 @@
       "duration_ms": 80000,
       "name": "NINA",
       "url": "https://open.spotify.com/track/7cm2RiP6XC0LdzTWa6pi85"
+    },
+    {
+      "album": {
+        "name": "KiCk i",
+        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139850,
+      "name": "Nonbinary",
+      "url": "https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT"
     },
     {
       "album": {
@@ -7469,7 +7541,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 27282,
       "name": "Poem (1)",
       "url": "https://open.spotify.com/track/0GWFbxN3SyghTvvFu84rTW"
@@ -10853,6 +10925,24 @@
       "duration_ms": 232120,
       "name": "Want You Back",
       "url": "https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA"
+    },
+    {
+      "album": {
+        "name": "Yasuke",
+        "url": "https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127253,
+      "name": "War at the Door",
+      "url": "https://open.spotify.com/track/3CK3oybt0KITkdz6F4yAMd"
     },
     {
       "album": {

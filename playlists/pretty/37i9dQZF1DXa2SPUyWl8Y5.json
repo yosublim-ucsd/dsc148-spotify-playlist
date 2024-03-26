@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic techno and tech house.",
-  "num_followers": 490437,
+  "num_followers": 490512,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmFhNWE5MmEyNjU2Njk0MDI3Zjk0MDU4NGM1MmQ1M2MyNzAwOGE3",
+  "snapshot_id": "MCxlYzI0OTMzN2JmYjliNDBmZjA2ZDA2NWQ1MDJkZDE5ZTJmYjNkZmU0",
   "tracks": [
     {
       "added_at": "2023-11-27 19:00:00",
@@ -99,6 +99,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0qnX8aubq2jjTHnmS4q7Pz"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 224140,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0K6vzSQFh3aBwwm241oqiE"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "All Equal",
         "url": "https://open.spotify.com/album/1mv4eGXzEDCUmKnf43FUQS"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 266730,
       "name": "Phases",
       "url": "https://open.spotify.com/track/5OWWBPmbl5abcQlsCHieFK"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/0qnX8aubq2jjTHnmS4q7Pz"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 224140,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0K6vzSQFh3aBwwm241oqiE"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Multi",
-        "url": "https://open.spotify.com/album/1aXp1HaEuIckogbF9f0Jgi"
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du"
       },
       "artists": [
         {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
         }
       ],
-      "duration_ms": 177243,
-      "name": "Multi",
-      "url": "https://open.spotify.com/track/69VMojKtg3NtfmFmFc64IH"
+      "duration_ms": 230400,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du"
+        "name": "Multi",
+        "url": "https://open.spotify.com/album/1aXp1HaEuIckogbF9f0Jgi"
       },
       "artists": [
         {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
+      "duration_ms": 177243,
+      "name": "Multi",
+      "url": "https://open.spotify.com/track/69VMojKtg3NtfmFmFc64IH"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Postquam",
-        "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
-      },
-      "artists": [
-        {
-          "name": "Vanita",
-          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
-        }
-      ],
-      "duration_ms": 498419,
-      "name": "Postquam",
-      "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "In A Blurry World",
         "url": "https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g"
       },
@@ -531,22 +515,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Crescendo",
-        "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
+        "name": "Postquam",
+        "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
       },
       "artists": [
         {
-          "name": "Soul Button",
-          "url": "https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm"
-        },
-        {
-          "name": "Rustboy",
-          "url": "https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu"
+          "name": "Vanita",
+          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
         }
       ],
-      "duration_ms": 364918,
-      "name": "Crescendo",
-      "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
+      "duration_ms": 498419,
+      "name": "Postquam",
+      "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -563,6 +543,26 @@
       "duration_ms": 275409,
       "name": "Four Hills",
       "url": "https://open.spotify.com/track/1EKbKZKDy4mDOtOhnlzrJE"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Crescendo",
+        "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
+      },
+      "artists": [
+        {
+          "name": "Soul Button",
+          "url": "https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm"
+        },
+        {
+          "name": "Rustboy",
+          "url": "https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu"
+        }
+      ],
+      "duration_ms": 364918,
+      "name": "Crescendo",
+      "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Hipotez",
-        "url": "https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf"
-      },
-      "artists": [
-        {
-          "name": "Kerem Gell",
-          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
-        }
-      ],
-      "duration_ms": 352920,
-      "name": "Hipotez",
-      "url": "https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 424979,
       "name": "Unlocked",
       "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Hipotez",
+        "url": "https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf"
+      },
+      "artists": [
+        {
+          "name": "Kerem Gell",
+          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Hipotez",
+      "url": "https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Wadi Dana",
+        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
+      },
+      "artists": [
+        {
+          "name": "Corren Cavini",
+          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Wadi Dana",
+      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Purple Days & Purple Nights",
         "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
       },
@@ -751,18 +767,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Wadi Dana",
-        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
+        "name": "Infinity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv"
       },
       "artists": [
         {
-          "name": "Corren Cavini",
-          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Wadi Dana",
-      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
+      "duration_ms": 329032,
+      "name": "Find You Again",
+      "url": "https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -799,22 +815,6 @@
       "duration_ms": 375483,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Infinity (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        }
-      ],
-      "duration_ms": 329032,
-      "name": "Find You Again",
-      "url": "https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -871,38 +871,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Bird EP",
-        "url": "https://open.spotify.com/album/2ySh3YsHqiObkiSSfNPyMG"
-      },
-      "artists": [
-        {
-          "name": "Recondite",
-          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
-        }
-      ],
-      "duration_ms": 350047,
-      "name": "Bird",
-      "url": "https://open.spotify.com/track/19lR15h6LPtw8oiAIt601v"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
-      },
-      "artists": [
-        {
-          "name": "Galexis",
-          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
-        }
-      ],
-      "duration_ms": 413658,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Lyra",
         "url": "https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy"
       },
@@ -919,6 +887,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Bird EP",
+        "url": "https://open.spotify.com/album/2ySh3YsHqiObkiSSfNPyMG"
+      },
+      "artists": [
+        {
+          "name": "Recondite",
+          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+        }
+      ],
+      "duration_ms": 350047,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/19lR15h6LPtw8oiAIt601v"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "If I Had Wings",
         "url": "https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 420495,
       "name": "If I Had Wings",
       "url": "https://open.spotify.com/track/5YTUltabO6pDPCgKzeAW4a"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
+      },
+      "artists": [
+        {
+          "name": "Galexis",
+          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+        }
+      ],
+      "duration_ms": 413658,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Planet Earth | March of the Giants",
-        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
-      },
-      "artists": [
-        {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
-        }
-      ],
-      "duration_ms": 457080,
-      "name": "March of the giants",
-      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 232258,
       "name": "The Elder",
       "url": "https://open.spotify.com/track/2hljmwTikUmulScZB7Eivb"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Planet Earth | March of the Giants",
+        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "duration_ms": 457080,
+      "name": "March of the giants",
+      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Night",
-        "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
-      },
-      "artists": [
-        {
-          "name": "AKZENTH",
-          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Night",
-      "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Landing in Halifax",
-        "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
+        "name": "Night",
+        "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
       },
       "artists": [
         {
-          "name": "Passenger 10",
-          "url": "https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT"
+          "name": "AKZENTH",
+          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
         }
       ],
-      "duration_ms": 249120,
-      "name": "Landing in Halifax",
-      "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
+      "duration_ms": 253920,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1287,6 +1271,22 @@
       "duration_ms": 411219,
       "name": "Dawn Beyond",
       "url": "https://open.spotify.com/track/39lsi4cPpq25nzejBUprQS"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Landing in Halifax",
+        "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
+      },
+      "artists": [
+        {
+          "name": "Passenger 10",
+          "url": "https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Landing in Halifax",
+      "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1327,22 +1327,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Exoplanet",
-        "url": "https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ"
+        "name": "Fader",
+        "url": "https://open.spotify.com/album/2vaJStR73O0tWNVWtCOJhh"
       },
       "artists": [
         {
-          "name": "Third Person",
-          "url": "https://open.spotify.com/artist/66t8meyd0W90QMjxHiDoSc"
-        },
-        {
-          "name": "Intara",
-          "url": "https://open.spotify.com/artist/3wpZISujzbcdOqC3OYArcy"
+          "name": "Casper Cole",
+          "url": "https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV"
         }
       ],
-      "duration_ms": 501290,
-      "name": "Exoplanet",
-      "url": "https://open.spotify.com/track/1J0zBWJBcBbqSqoiZ8e9Re"
+      "duration_ms": 373875,
+      "name": "Fader",
+      "url": "https://open.spotify.com/track/5XNjnlwv52paocSOip6SHx"
     }
   ],
   "unique_name": "Beats to think to",

@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 37711,
+  "num_followers": 37764,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTliZTNlOWJkMDFiNzZhZTQ3NWM3NTA3OTdiYTZlZDQ4ODc0ODE0",
+  "snapshot_id": "MCxmNTlmYjUzMmE5Y2ZiYTMwMjRkYmE2ZjUxODBjYzcyZjVhODk1NzU0",
   "tracks": [
     {
       "added_at": "2024-02-28 20:47:31",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Meule",
-        "url": "https://open.spotify.com/album/1lkZB1dQUOG37b9lNAxvHo"
-      },
-      "artists": [
-        {
-          "name": "MEULE",
-          "url": "https://open.spotify.com/artist/59z07g6lIQcpb04hzDHN7H"
-        }
-      ],
-      "duration_ms": 228307,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/5bsYpjfPaItASe2rB5nWIO"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Kaioty",
         "url": "https://open.spotify.com/album/0wSJlmSKVzARspRSz0VD98"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 196200,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/3suH330uWXsMHBM8PrJiAg"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Meule",
+        "url": "https://open.spotify.com/album/1lkZB1dQUOG37b9lNAxvHo"
+      },
+      "artists": [
+        {
+          "name": "MEULE",
+          "url": "https://open.spotify.com/artist/59z07g6lIQcpb04hzDHN7H"
+        }
+      ],
+      "duration_ms": 228307,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/5bsYpjfPaItASe2rB5nWIO"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "N\u00e9ant",
-        "url": "https://open.spotify.com/album/2DNqvxMLvHoBkRqJm3jKNu"
-      },
-      "artists": [
-        {
-          "name": "Bandit Bandit",
-          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "N\u00e9ant",
-      "url": "https://open.spotify.com/track/49KvJyXnYReCKEUcvUsFbF"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "We The People Of The Soil",
         "url": "https://open.spotify.com/album/4dF2btv546wMUc49Tkh7RR"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5QnWO1vcidL0hFflxcD9Fd"
+        "name": "N\u00e9ant",
+        "url": "https://open.spotify.com/album/2DNqvxMLvHoBkRqJm3jKNu"
       },
       "artists": [
         {
-          "name": "SUN",
-          "url": "https://open.spotify.com/artist/5EjzvshGaeIYnjdttJF6ZQ"
+          "name": "Bandit Bandit",
+          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
         }
       ],
-      "duration_ms": 235944,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/3ET1X1My50CGs15A0xOvkL"
+      "duration_ms": 249533,
+      "name": "N\u00e9ant",
+      "url": "https://open.spotify.com/track/49KvJyXnYReCKEUcvUsFbF"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -411,18 +395,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0HGYZoDXRFyztQMuZV1I68"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5QnWO1vcidL0hFflxcD9Fd"
       },
       "artists": [
         {
-          "name": "Down to the Wire",
-          "url": "https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK"
+          "name": "SUN",
+          "url": "https://open.spotify.com/artist/5EjzvshGaeIYnjdttJF6ZQ"
         }
       ],
-      "duration_ms": 256096,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/2FTECyHv2eDT7LGxXCtDvn"
+      "duration_ms": 235944,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/3ET1X1My50CGs15A0xOvkL"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -443,22 +427,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Fixed It All",
-        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 261301,
-      "name": "Fixed It All",
-      "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Reach",
         "url": "https://open.spotify.com/album/6VhainGyu98wzHYIzRvsf9"
       },
@@ -471,6 +439,38 @@
       "duration_ms": 312904,
       "name": "Reach",
       "url": "https://open.spotify.com/track/2t3c50Dgc0CvZmYOf40Yq2"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0HGYZoDXRFyztQMuZV1I68"
+      },
+      "artists": [
+        {
+          "name": "Down to the Wire",
+          "url": "https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK"
+        }
+      ],
+      "duration_ms": 256096,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/2FTECyHv2eDT7LGxXCtDvn"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 261301,
+      "name": "Fixed It All",
+      "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Bodysick",
-        "url": "https://open.spotify.com/album/1Cx9PXN9WJIJEge4JXHknM"
-      },
-      "artists": [
-        {
-          "name": "Bison Bisou",
-          "url": "https://open.spotify.com/artist/5WMurQLtfM6V3t7Gbh1ix1"
-        }
-      ],
-      "duration_ms": 167280,
-      "name": "Hypersects",
-      "url": "https://open.spotify.com/track/1uyeiZXzeP2uDViqIDHoMl"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Take It or Leave It",
         "url": "https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 238947,
       "name": "Take It",
       "url": "https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Bodysick",
+        "url": "https://open.spotify.com/album/1Cx9PXN9WJIJEge4JXHknM"
+      },
+      "artists": [
+        {
+          "name": "Bison Bisou",
+          "url": "https://open.spotify.com/artist/5WMurQLtfM6V3t7Gbh1ix1"
+        }
+      ],
+      "duration_ms": 167280,
+      "name": "Hypersects",
+      "url": "https://open.spotify.com/track/1uyeiZXzeP2uDViqIDHoMl"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Power Lines",
-        "url": "https://open.spotify.com/album/1mIwSpOUpBdWloZoz96MTS"
-      },
-      "artists": [
-        {
-          "name": "Two Trains Left",
-          "url": "https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn"
-        }
-      ],
-      "duration_ms": 220812,
-      "name": "Power Lines",
-      "url": "https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Houses Are Built The Same",
         "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 190508,
       "name": "Gold Rush",
       "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Power Lines",
+        "url": "https://open.spotify.com/album/1mIwSpOUpBdWloZoz96MTS"
+      },
+      "artists": [
+        {
+          "name": "Two Trains Left",
+          "url": "https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn"
+        }
+      ],
+      "duration_ms": 220812,
+      "name": "Power Lines",
+      "url": "https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Event Horizon",
-        "url": "https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY"
-      },
-      "artists": [
-        {
-          "name": "Howard",
-          "url": "https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Heedless",
-      "url": "https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Freakenstein",
         "url": "https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 223421,
       "name": "Peeling the Onion",
       "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Event Horizon",
+        "url": "https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY"
+      },
+      "artists": [
+        {
+          "name": "Howard",
+          "url": "https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Heedless",
+      "url": "https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "SORORITY / CONTROL",
-        "url": "https://open.spotify.com/album/3SwAxSQK2G4ziJUs8TDWOK"
-      },
-      "artists": [
-        {
-          "name": "We Hate You Please Die",
-          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
-        }
-      ],
-      "duration_ms": 163732,
-      "name": "Sorority",
-      "url": "https://open.spotify.com/track/3WBCcdmfS1EmlkHkvZU2o7"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Dead Doll",
         "url": "https://open.spotify.com/album/1GKNYKScArEpMVox9BJSXQ"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 246445,
       "name": "Dead Doll",
       "url": "https://open.spotify.com/track/6whpHTLlx4Kl4YYgC10jLa"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "SORORITY / CONTROL",
+        "url": "https://open.spotify.com/album/3SwAxSQK2G4ziJUs8TDWOK"
+      },
+      "artists": [
+        {
+          "name": "We Hate You Please Die",
+          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
+        }
+      ],
+      "duration_ms": 163732,
+      "name": "Sorority",
+      "url": "https://open.spotify.com/track/3WBCcdmfS1EmlkHkvZU2o7"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
+        "name": "Hara",
+        "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
+      },
+      "artists": [
+        {
+          "name": "Datcha Mandala",
+          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Stick It Out",
+      "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
         "name": "Sometimes I Wanna Fight",
         "url": "https://open.spotify.com/album/45H1fFqhaQXwkz8ZNKU22I"
       },
@@ -1183,6 +1199,22 @@
       "duration_ms": 202719,
       "name": "Sometimes I Wanna Fight",
       "url": "https://open.spotify.com/track/1u0bagIS8x7BuGXnKm6aLr"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Centaur Desire",
+        "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
+      },
+      "artists": [
+        {
+          "name": "J.C. Sat\u00e0n",
+          "url": "https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "No Brain No Shame",
+      "url": "https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1203,22 +1235,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Hara",
-        "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
-      },
-      "artists": [
-        {
-          "name": "Datcha Mandala",
-          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Stick It Out",
-      "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "AqME",
         "url": "https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 182546,
       "name": "Tant d'ann\u00e9es",
       "url": "https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
-        "name": "Centaur Desire",
-        "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
-      },
-      "artists": [
-        {
-          "name": "J.C. Sat\u00e0n",
-          "url": "https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "No Brain No Shame",
-      "url": "https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "SNAKES",
-        "url": "https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk"
-      },
-      "artists": [
-        {
-          "name": "YAOUND\u00c9BOXINGCLUB",
-          "url": "https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "SNAKES",
-      "url": "https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Little Armageddon",
         "url": "https://open.spotify.com/album/4aGp0loKrV89iJdJoksnYN"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 186160,
       "name": "Second To None",
       "url": "https://open.spotify.com/track/1MCIbFw68FQAqyaiV246ai"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "SNAKES",
+        "url": "https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk"
+      },
+      "artists": [
+        {
+          "name": "YAOUND\u00c9BOXINGCLUB",
+          "url": "https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "SNAKES",
+      "url": "https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
+        "name": "Billy Believe",
+        "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
+      },
+      "artists": [
+        {
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+        }
+      ],
+      "duration_ms": 286173,
+      "name": "Vegan Porn Food",
+      "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
         "name": "Night of the Loving Dead",
         "url": "https://open.spotify.com/album/7MgObAh6503Kapx3g6fYDh"
       },
@@ -1459,38 +1475,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
-      },
-      "artists": [
-        {
-          "name": "Rank-O",
-          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
-        }
-      ],
-      "duration_ms": 192815,
-      "name": "Humans",
-      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
-        "name": "Billy Believe",
-        "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
-      },
-      "artists": [
-        {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
-        }
-      ],
-      "duration_ms": 286173,
-      "name": "Vegan Porn Food",
-      "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Postmodern Blue",
         "url": "https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 170393,
       "name": "Vulgar",
       "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
+      },
+      "artists": [
+        {
+          "name": "Rank-O",
+          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
+        }
+      ],
+      "duration_ms": 192815,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "The Second Take",
-        "url": "https://open.spotify.com/album/4xOhdwMBgMHJTODhsn4HSf"
+        "name": "Songs from the Deepwater",
+        "url": "https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd"
       },
       "artists": [
         {
-          "name": "Do Not Machine",
-          "url": "https://open.spotify.com/artist/76dbfnuKsRUbrChI7vlOXE"
+          "name": "Stone From the Sky",
+          "url": "https://open.spotify.com/artist/1uJnxjKOkMlCa2iZOW3GzD"
         }
       ],
-      "duration_ms": 220971,
-      "name": "The Second Take",
-      "url": "https://open.spotify.com/track/27zUZ7wZnlkzv2WAvVFK9W"
+      "duration_ms": 284098,
+      "name": "Le Squinfus",
+      "url": "https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn"
     }
   ],
   "unique_name": "French Noise",

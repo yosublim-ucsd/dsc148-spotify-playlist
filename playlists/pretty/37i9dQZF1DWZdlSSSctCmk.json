@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 118874,
+  "num_followers": 118913,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDI3YzMxMmJmNTYwYTI3M2NkODkyNjQyZjBlNGM0YzE4ZTgyZjky",
+  "snapshot_id": "MCxmYmM4ZThkZjQwYjk2ODc0YTQyZjZkMTliMmIwMDAzYWY2YzdiMDdj",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -111,26 +111,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
-      },
-      "artists": [
-        {
-          "name": "Butch",
-          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
-        },
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        }
-      ],
-      "duration_ms": 187286,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Moon Safari",
         "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
       },
@@ -151,18 +131,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Vanille fraise",
-        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
         }
       ],
-      "duration_ms": 238183,
-      "name": "Vanille fraise",
-      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
+      "duration_ms": 187286,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -199,6 +183,22 @@
       "duration_ms": 341733,
       "name": "Breezin'",
       "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Vanille fraise",
+        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 238183,
+      "name": "Vanille fraise",
+      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "KOKOROKO",
         "url": "https://open.spotify.com/album/5GgdFrmouCR0Ud5Ag7IC8H"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 424080,
       "name": "Abusey Junction",
       "url": "https://open.spotify.com/track/3W4IoNW4011i8qfCwN75Va"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "Kerala",
-      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Baxter (these are my friends)",
         "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 244034,
       "name": "Baxter (these are my friends)",
       "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "Kerala",
+      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Protection",
-        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "Weather Storm",
-      "url": "https://open.spotify.com/track/4u5KFWcW1ptk0hJqp2lrCE"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Final Days (Bonobo Remix)",
         "url": "https://open.spotify.com/album/7cPU3dVK7sRJKdQ6JNlAVB"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 340373,
       "name": "Final Days - Bonobo Remix",
       "url": "https://open.spotify.com/track/4RHMC3OE3oBpS32peJ6tR6"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Protection",
+        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Weather Storm",
+      "url": "https://open.spotify.com/track/4u5KFWcW1ptk0hJqp2lrCE"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 243946,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Essential Levitation - 20 Years of Ibiza Chillout Music",
         "url": "https://open.spotify.com/album/2m18LIEu3yRDXpe2C9lGQG"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 441160,
       "name": "More Than Ever People - Late Night Mix",
       "url": "https://open.spotify.com/track/2ESCeu4Z0WXGl6zezMQTvX"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 243946,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Reminisce",
-        "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
-      },
-      "artists": [
-        {
-          "name": "WMD",
-          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
-        }
-      ],
-      "duration_ms": 273117,
-      "name": "It Was 9:30 and You Were Beautiful",
-      "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Midnight Voyage",
         "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Reminisce",
+        "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
+      },
+      "artists": [
+        {
+          "name": "WMD",
+          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
+        }
+      ],
+      "duration_ms": 273117,
+      "name": "It Was 9:30 and You Were Beautiful",
+      "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Keep Smiling [Remastered] (Remastered Version)",
         "url": "https://open.spotify.com/album/04bsO604edaafFrGyDcaFy"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 258651,
       "name": "Sign",
       "url": "https://open.spotify.com/track/0pKEwIOy9w7BHOEAcWPgwf"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Compilation",
+        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Fakroun",
+          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
+        }
+      ],
+      "duration_ms": 257019,
+      "name": "Nisyan",
+      "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1175,34 +1191,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Compilation",
-        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
       },
       "artists": [
         {
-          "name": "Ahmed Fakroun",
-          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
-        }
-      ],
-      "duration_ms": 257019,
-      "name": "Nisyan",
-      "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Pina Colada (And Other Early Tunes)",
-        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
-      },
-      "artists": [
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
         {
-          "name": "Digby Jones",
-          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
         }
       ],
-      "duration_ms": 359586,
-      "name": "Under the Sea",
-      "url": "https://open.spotify.com/track/6LGrEXeLdxgY5zuvJ6S89I"
+      "duration_ms": 262281,
+      "name": "Caf\u00e9 Com Leite",
+      "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1227,22 +1231,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
+        "name": "Pina Colada (And Other Early Tunes)",
+        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
       },
       "artists": [
         {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "Flavia Coelho",
-          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
+          "name": "Digby Jones",
+          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
         }
       ],
-      "duration_ms": 262281,
-      "name": "Caf\u00e9 Com Leite",
-      "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
+      "duration_ms": 359586,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/6LGrEXeLdxgY5zuvJ6S89I"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Madres",
-      "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 311413,
       "name": "Rotation",
       "url": "https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Madres",
+      "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "maracuya massage",
-      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Pina Colada (And Other Early Tunes)",
         "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 366946,
       "name": "Pina Colada (Jazz Mix)",
       "url": "https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "maracuya massage",
+      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Cantoma (Deluxe)",
-        "url": "https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm"
-      },
-      "artists": [
-        {
-          "name": "Cantoma",
-          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
-        }
-      ],
-      "duration_ms": 325760,
-      "name": "Pandajero",
-      "url": "https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/1gsqDxThoqZbNPTIZnn3JC"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 209311,
       "name": "My Boy (Edit)",
       "url": "https://open.spotify.com/track/3Eesmgchl9UQ2zM2DV6LgL"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Cantoma (Deluxe)",
+        "url": "https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm"
+      },
+      "artists": [
+        {
+          "name": "Cantoma",
+          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
+        }
+      ],
+      "duration_ms": 325760,
+      "name": "Pandajero",
+      "url": "https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "D\u00e9epalma Ibiza 2023 - 10th Anniversary",
-        "url": "https://open.spotify.com/album/6oqOdRBJ8KZFcAJusUNKWs"
+        "name": "Gentle EP",
+        "url": "https://open.spotify.com/album/45LfyUaK6GsKpNb7uFfcm3"
       },
       "artists": [
         {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+          "name": "Lovebirds",
+          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
         }
       ],
-      "duration_ms": 377849,
-      "name": "Starz - Original Mix",
-      "url": "https://open.spotify.com/track/2aMJ48BAhYKxwsVBNd0kgR"
+      "duration_ms": 347505,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/4fZxYrLJd92r8MJtqgjZjv"
     }
   ],
   "unique_name": "Balearic Beats",

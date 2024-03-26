@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: CUBE",
-  "num_followers": 9589,
+  "num_followers": 9588,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGQ3ODBiMjNjYzc2NzQ4ZDBkNTkzNTk2ZWRiMDZlM2Q3NzUwNDkw",
+  "snapshot_id": "MCwyNmFlMTcyYThlZjA1ZmQ2NzgxNmQ0MGFiMjEwNWU5NWRkMThmZjQw",
   "tracks": [
     {
       "added_at": "2024-03-21 15:39:29",
@@ -31,8 +31,8 @@
     {
       "added_at": "2024-03-21 15:39:29",
       "album": {
-        "name": "First Thing Smokin'",
-        "url": "https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt"
+        "name": "LOONY",
+        "url": "https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy"
       },
       "artists": [
         {
@@ -40,9 +40,9 @@
           "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
         }
       ],
-      "duration_ms": 224000,
+      "duration_ms": 223925,
       "name": "First Thing Smokin'",
-      "url": "https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT"
+      "url": "https://open.spotify.com/track/0rALhVKdan2uNBuz50bXtN"
     },
     {
       "added_at": "2024-03-21 15:39:29",
@@ -207,22 +207,18 @@
     {
       "added_at": "2024-03-21 15:39:29",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 209831,
-      "name": "Best Part (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+      "duration_ms": 260252,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
       "added_at": "2024-03-21 15:39:29",
@@ -243,18 +239,22 @@
     {
       "added_at": "2024-03-21 15:39:29",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 260252,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
+      "duration_ms": 209831,
+      "name": "Best Part (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
     },
     {
       "added_at": "2024-03-21 15:39:29",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-03-21 15:39:29",
       "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
+    },
+    {
+      "added_at": "2024-03-21 15:39:29",
+      "album": {
         "name": "Wildest Dreams",
         "url": "https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev"
       },
@@ -367,38 +383,6 @@
       "duration_ms": 278179,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
-    },
-    {
-      "added_at": "2024-03-21 15:39:29",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "Out of Time",
-      "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
-    },
-    {
-      "added_at": "2024-03-21 15:39:29",
-      "album": {
-        "name": "PARTYNEXTDOOR",
-        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Wus Good / Curious",
-      "url": "https://open.spotify.com/track/0NHvTrD8Igke3fawcp3njY"
     },
     {
       "added_at": "2024-03-21 15:39:29",
@@ -463,6 +447,22 @@
     {
       "added_at": "2024-03-21 15:39:29",
       "album": {
+        "name": "PARTYNEXTDOOR",
+        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Wus Good / Curious",
+      "url": "https://open.spotify.com/track/0NHvTrD8Igke3fawcp3njY"
+    },
+    {
+      "added_at": "2024-03-21 15:39:29",
+      "album": {
         "name": "NOTHIN LIKE U / CHANCES",
         "url": "https://open.spotify.com/album/2KVBhRpYqnjAVE4eWW3W6g"
       },
@@ -479,38 +479,6 @@
       "duration_ms": 218200,
       "name": "CHANCES",
       "url": "https://open.spotify.com/track/439X8jGytErRiPnaoUJHju"
-    },
-    {
-      "added_at": "2024-03-21 15:39:29",
-      "album": {
-        "name": "House Of Balloons (Original)",
-        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 206421,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/4Yw8TyBm9J8cpy2guHUYog"
-    },
-    {
-      "added_at": "2024-03-21 15:39:29",
-      "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 174512,
-      "name": "Superpowers",
-      "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
     },
     {
       "added_at": "2024-03-21 15:39:29",
@@ -547,18 +515,18 @@
     {
       "added_at": "2024-03-21 15:39:29",
       "album": {
-        "name": "Journals",
-        "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
+        "name": "House Of Balloons (Original)",
+        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 262840,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/2GCKWEsbb0Xo1oodTOKVi1"
+      "duration_ms": 206421,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/4Yw8TyBm9J8cpy2guHUYog"
     },
     {
       "added_at": "2024-03-21 15:39:29",
@@ -575,6 +543,22 @@
       "duration_ms": 320400,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC"
+    },
+    {
+      "added_at": "2024-03-21 15:39:29",
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 174512,
+      "name": "Superpowers",
+      "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
     },
     {
       "added_at": "2024-03-21 15:39:29",
@@ -619,18 +603,34 @@
     {
       "added_at": "2024-03-21 15:39:29",
       "album": {
-        "name": "NEVER ENOUGH (Bonus Version)",
-        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
+        "name": "Don't Throw Rocks At The Moon",
+        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
         }
       ],
-      "duration_ms": 225312,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH"
+      "duration_ms": 130369,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/7DvlNrYFvmZieL8GdhJuoy"
+    },
+    {
+      "added_at": "2024-03-21 15:39:29",
+      "album": {
+        "name": "Journals",
+        "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/2GCKWEsbb0Xo1oodTOKVi1"
     },
     {
       "added_at": "2024-03-21 15:39:29",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-03-21 15:39:29",
       "album": {
+        "name": "NEVER ENOUGH (Bonus Version)",
+        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 225312,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH"
+    },
+    {
+      "added_at": "2024-03-21 15:39:29",
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU"
       },
@@ -683,58 +699,6 @@
       "duration_ms": 152250,
       "name": "West",
       "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
-    },
-    {
-      "added_at": "2024-03-21 15:39:29",
-      "album": {
-        "name": "Don't Throw Rocks At The Moon",
-        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 130369,
-      "name": "Start Over",
-      "url": "https://open.spotify.com/track/7DvlNrYFvmZieL8GdhJuoy"
-    },
-    {
-      "added_at": "2024-03-21 15:39:29",
-      "album": {
-        "name": "D4U - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "D4U - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
-    },
-    {
-      "added_at": "2024-03-21 15:39:29",
-      "album": {
-        "name": "PARTYNEXTDOOR",
-        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 177827,
-      "name": "Over Here (feat. Drake)",
-      "url": "https://open.spotify.com/track/43xzI2dp9CTUsmZXjm1voH"
     },
     {
       "added_at": "2024-03-21 15:39:29",
@@ -759,6 +723,22 @@
     {
       "added_at": "2024-03-21 15:39:29",
       "album": {
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
+    },
+    {
+      "added_at": "2024-03-21 15:39:29",
+      "album": {
         "name": "BEFORE LOVE CAME TO KILL US",
         "url": "https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 225213,
       "name": "IMPORTED (with 6LACK)",
       "url": "https://open.spotify.com/track/2shEeQzAAL3nnOXfB5pJXx"
+    },
+    {
+      "added_at": "2024-03-21 15:39:29",
+      "album": {
+        "name": "PARTYNEXTDOOR",
+        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 177827,
+      "name": "Over Here (feat. Drake)",
+      "url": "https://open.spotify.com/track/43xzI2dp9CTUsmZXjm1voH"
     },
     {
       "added_at": "2024-03-21 15:39:29",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-03-21 15:39:29",
       "album": {
-        "name": "Go\u00fbter +",
-        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
+        "name": "Some Kinda Love",
+        "url": "https://open.spotify.com/album/1bR9jE6phZUlbHi9wzqjlt"
       },
       "artists": [
         {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
         }
       ],
-      "duration_ms": 208192,
-      "name": "in ur motion",
-      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
+      "duration_ms": 292000,
+      "name": "Some Kinda Love",
+      "url": "https://open.spotify.com/track/1kTvzk3atwk9K2YSFMtnzj"
     }
   ],
   "unique_name": "R&B Rewind",

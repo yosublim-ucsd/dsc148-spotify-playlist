@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241851,
+  "num_followers": 241882,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmQwZDVlM2ZhNzQzMTdjNmQxNWIwNmViY2JkMDRjZWI1NDEyYzU0",
+  "snapshot_id": "MCxkNzBlZjQ5NjU4N2I4NzI0ZDAxZmFmYjk5MzFkYTcwYTIyZTdkOGJl",
   "tracks": [
     {
       "added_at": "2024-03-21 23:00:00",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "act iii: on god? (she like)",
+        "url": "https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "duration_ms": 170440,
+      "name": "act iii: on god? (she like)",
+      "url": "https://open.spotify.com/track/30uO152on2tYWoE99VaEL5"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 187972,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "act iii: on god? (she like)",
-        "url": "https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        }
-      ],
-      "duration_ms": 170440,
-      "name": "act iii: on god? (she like)",
-      "url": "https://open.spotify.com/track/30uO152on2tYWoE99VaEL5"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -447,26 +447,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Sixtape 3",
-        "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        }
-      ],
-      "duration_ms": 156030,
-      "name": "Doin Yo Stuff",
-      "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Sincerely For You",
         "url": "https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 190186,
       "name": "When You Bad Like That (feat. Future)",
       "url": "https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Sixtape 3",
+        "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "duration_ms": 156030,
+      "name": "Doin Yo Stuff",
+      "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Marking My Time",
-        "url": "https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 161529,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Good People",
         "url": "https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 272836,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/0l0UDr9M10FQAMkq8jcIf8"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Marking My Time",
+        "url": "https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 161529,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "History",
         "url": "https://open.spotify.com/album/0fBXkE3U6UluW9yg1hIWkW"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 157991,
       "name": "History",
       "url": "https://open.spotify.com/track/00YFNV9oDlWZduvoJsjpi0"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "SOLO",
-      "url": "https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj"
       },
@@ -1311,6 +1295,38 @@
       "duration_ms": 186666,
       "name": "You and I",
       "url": "https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Something True",
+        "url": "https://open.spotify.com/album/7EmWV14OIISnZwqlg4ySa5"
+      },
+      "artists": [
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "duration_ms": 163040,
+      "name": "Something True",
+      "url": "https://open.spotify.com/track/237j3OLZr3rfH0iHdxm2Xl"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Something True",
-        "url": "https://open.spotify.com/album/7EmWV14OIISnZwqlg4ySa5"
+        "name": "Loveloca",
+        "url": "https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e"
       },
       "artists": [
         {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
         }
       ],
-      "duration_ms": 163040,
-      "name": "Something True",
-      "url": "https://open.spotify.com/track/237j3OLZr3rfH0iHdxm2Xl"
+      "duration_ms": 174000,
+      "name": "Loveloca",
+      "url": "https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Loveloca",
-        "url": "https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e"
+        "name": "The Right One",
+        "url": "https://open.spotify.com/album/5BJlBjmBC2ihAW9gf6vLlV"
       },
       "artists": [
         {
-          "name": "J.A.D.E",
-          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+          "name": "Noha Sar\u00e9",
+          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Loveloca",
-      "url": "https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB"
+      "duration_ms": 176756,
+      "name": "The Right One",
+      "url": "https://open.spotify.com/track/6OWocnbyqk4NX5tq9pBq1n"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1423,22 +1439,6 @@
       "duration_ms": 152347,
       "name": "Feelin'",
       "url": "https://open.spotify.com/track/7dbNxYPYILE3MNxh9ND12K"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "The Right One",
-        "url": "https://open.spotify.com/album/5BJlBjmBC2ihAW9gf6vLlV"
-      },
-      "artists": [
-        {
-          "name": "Noha Sar\u00e9",
-          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
-        }
-      ],
-      "duration_ms": 176756,
-      "name": "The Right One",
-      "url": "https://open.spotify.com/track/6OWocnbyqk4NX5tq9pBq1n"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "Find Me Again",
+        "url": "https://open.spotify.com/album/7GxmqeXiLac35NmgcqdAuI"
+      },
+      "artists": [
+        {
+          "name": "1STVIRGINIA",
+          "url": "https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5"
+        }
+      ],
+      "duration_ms": 167145,
+      "name": "Find Me Again",
+      "url": "https://open.spotify.com/track/3QXVVOPVHLMXFjFI3UQ5cB"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Private",
         "url": "https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 174000,
       "name": "We're Through",
       "url": "https://open.spotify.com/track/0rQKB1uvWhq4CAVNQxjPuj"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Find Me Again",
-        "url": "https://open.spotify.com/album/7GxmqeXiLac35NmgcqdAuI"
-      },
-      "artists": [
-        {
-          "name": "1STVIRGINIA",
-          "url": "https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5"
-        }
-      ],
-      "duration_ms": 167145,
-      "name": "Find Me Again",
-      "url": "https://open.spotify.com/track/3QXVVOPVHLMXFjFI3UQ5cB"
     },
     {
       "added_at": "2024-03-21 23:00:00",

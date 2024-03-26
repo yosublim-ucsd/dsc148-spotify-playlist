@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 64 | [My Man \- Louis Bell Remix](https://open.spotify.com/track/6Lfyde0lFubconXN7c8WI6) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Louis Bell](https://open.spotify.com/artist/0KhTK3BxneP2FPtlwyp1MK) | [My Man \(Louis Bell Remix\)](https://open.spotify.com/album/2w0c6pJt31vsn5kcce7JdN) | 2:48 |
 | 65 | [Force Of Nature](https://open.spotify.com/track/1RzePFMMipUOKyUoXgM1Lg) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Powerslide \(Deluxe\)](https://open.spotify.com/album/5hJ7ytoXl9KIjn25N0GhYr) | 2:52 |
 | 66 | [Emily](https://open.spotify.com/track/1VxwLxS32ZQ5bioB2JzuE4) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 2:55 |
-| 67 | [Bad One](https://open.spotify.com/track/5yvjSEYLx7wwPmnhPIIqBr) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [lil kiiwi](https://open.spotify.com/album/0AUG7Sa8IIiCHTW6GONdf2) | 2:28 |
-| 68 | [Drive Baby](https://open.spotify.com/track/1ZMkpob9mAm4ydeDPEcQMR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Drive Baby](https://open.spotify.com/album/0wqjIiiLFCcYkThNwsCOMQ) | 2:38 |
+| 67 | [Drive Baby](https://open.spotify.com/track/1ZMkpob9mAm4ydeDPEcQMR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Drive Baby](https://open.spotify.com/album/0wqjIiiLFCcYkThNwsCOMQ) | 2:38 |
+| 68 | [Bad One](https://open.spotify.com/track/5yvjSEYLx7wwPmnhPIIqBr) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [lil kiiwi](https://open.spotify.com/album/0AUG7Sa8IIiCHTW6GONdf2) | 2:28 |
 | 69 | [Little White Lie](https://open.spotify.com/track/2W9nB27fIUYTXxH8m6hgd0) | [Filipa](https://open.spotify.com/artist/0qLIVG05oC1d125MrkKZk7) | [Little White Lie](https://open.spotify.com/album/6ZHdsxehEzq0ByQoEyavkr) | 3:24 |
 | 70 | [Honest With You](https://open.spotify.com/track/5lpueZOrw3vAJEKamjLXyG) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [YOU](https://open.spotify.com/album/5Eh8ODdlIAB91UYfgNUgFi) | 3:17 |
 | 71 | [Parallel Universe](https://open.spotify.com/track/6OQdl6HFCNOFXMw9wHJ4Dd) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Quitter](https://open.spotify.com/album/4goBfD1y92lRNsftSKeEsF) | 3:34 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 90 | [Everything You Need To Know About Me Today](https://open.spotify.com/track/08orqK26mwpW6sRFn7xpu3) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 7:43 |
 | 91 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
 
-Snapshot ID: `Mjg1MjIyMDAsMDAwMDAwMDBhNjI2MzI2ZWRhOGI3NGZkYzQ4NmZhY2RmMzE2ZWM2OA==`
+Snapshot ID: `Mjg1MjM2NDAsMDAwMDAwMDA2ODk2NGUxNzI0MDk4YTkzMWNjZWIzNjYzNGZlZThkOA==`

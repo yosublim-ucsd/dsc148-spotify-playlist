@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest french touch classics! Cover: Daft Punk",
-  "num_followers": 413162,
+  "num_followers": 413225,
   "original_name": "French Touch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzZkZjFmMjRmNGU5MmU5YjA0YjllNDU3MTRjMjg3YmE3ODcwM2Iz",
+  "snapshot_id": "MCxmNTNjNDc5YmZkMTUwYWQ0ZjZhMTc5ZTY5NjgwNjU4MmJhOGUzNzBj",
   "tracks": [
     {
       "added_at": "2023-10-16 07:15:00",
@@ -492,7 +492,7 @@
       "added_at": "2023-10-16 07:15:00",
       "album": {
         "name": "Paradise",
-        "url": "https://open.spotify.com/album/2ZHeCVucwVH7H3qC4abtTd"
+        "url": "https://open.spotify.com/album/7vg6C4k2yd8E0bOPCoEVTg"
       },
       "artists": [
         {
@@ -501,8 +501,8 @@
         }
       ],
       "duration_ms": 372160,
-      "name": "Gym tonic - Original",
-      "url": "https://open.spotify.com/track/4DgPcCPpxVN28ZOQBZBhu4"
+      "name": "Gym Tonic",
+      "url": "https://open.spotify.com/track/1la1gHPyj0Soug4W3Z25zO"
     },
     {
       "added_at": "2023-10-16 07:15:00",
@@ -699,10 +699,14 @@
     {
       "added_at": "2023-10-16 07:15:00",
       "album": {
-        "name": "Africanism",
-        "url": "https://open.spotify.com/album/1Ty46CHvm7P0XOks0hvG8d"
+        "name": "Edony",
+        "url": "https://open.spotify.com/album/3pYTrDeyR1Jn3pVy0HjOqF"
       },
       "artists": [
+        {
+          "name": "Africanism",
+          "url": "https://open.spotify.com/artist/3E9XtGFNNweLtiR8y5aZO5"
+        },
         {
           "name": "Martin Solveig",
           "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
@@ -713,8 +717,8 @@
         }
       ],
       "duration_ms": 491333,
-      "name": "Edony - Clap your Hands",
-      "url": "https://open.spotify.com/track/6KB39k2DejOxaIxOp5qwji"
+      "name": "Edony (Clap your Hands) - Clap Your Hands",
+      "url": "https://open.spotify.com/track/3hhOOCxdlaC7c6Te9Gr5sV"
     },
     {
       "added_at": "2023-10-16 07:15:00",

@@ -4,7 +4,7 @@
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-187 songs - 12 hr 48 min
+188 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 | 2020-10-24 |  |
 | [De Cuero y Metal](https://open.spotify.com/track/1npZUR51Y8Lpe6k25JmQQE) | [El Dragón](https://open.spotify.com/artist/59WGZJBUsi4EToimnUuhcZ) | [Victoria](https://open.spotify.com/album/3sjf8QdbSsf1ZA5llhnCNA) | 4:52 | 2020-10-24 | 2022-07-21 |
 | [De las Profundidades de la Tierra](https://open.spotify.com/track/2APmd5EEbt25qhBbJiD8sE) | [Terror Cósmico](https://open.spotify.com/artist/3bALXBt9hpykMePEaZ7Jpj) | [Muerte y Transfiguración](https://open.spotify.com/album/2QrrXjUSMcwNHVieEJjcM4) | 4:46 | 2020-10-24 | 2022-07-27 |
+| [Dead Embryonic Cells](https://open.spotify.com/track/3erQAddOalef7tmVpAZ3BV) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 4:52 | 2024-03-25 |  |
 | [Death Race](https://open.spotify.com/track/3s1SB3s9fB5Rb5kPEdEXFl) | [Voltax](https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2) | [Death Race](https://open.spotify.com/album/6ksG84Pk4DsFnOFzOa2N7S) | 4:10 | 2020-10-24 | 2022-07-06 |
 | [Decadencia](https://open.spotify.com/track/19amI5dP9jlKty6yzIDQd6) | [The Arcane Hate](https://open.spotify.com/artist/2MO4AtDtp33PTj17zFm3yi) | [Decadencia](https://open.spotify.com/album/2tGTIfITV3Ef4FJ7PpKIrD) | 4:21 | 2020-10-24 | 2022-07-13 |
 | [Deceitful Idols](https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz) | [Anima Tempo](https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5) | [Deceitful Idols](https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw) | 5:31 | 2020-10-24 | 2024-01-29 |
@@ -158,7 +159,7 @@
 | [Regresión](https://open.spotify.com/track/4tmIaTtJDLBkreZhO3w4o7) | [Introtyl](https://open.spotify.com/artist/6Im0py5F0Y2RMJTQ6MlX6A) | [Creation of Insanity](https://open.spotify.com/album/1zW6qmkDk1DkzkMnYRHn98) | 2:41 | 2020-10-24 | 2022-07-24 |
 | [Reinará el Caos](https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z) | [Serpentor](https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM) | [Legiones](https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf) | 6:14 | 2020-10-24 | 2023-01-11 |
 | [Relación Canina 2.0](https://open.spotify.com/track/6a3u4DQ3I26ICkcEN25EcX) | [Medical Negligence](https://open.spotify.com/artist/3jL94uFzu0H6r9vi5nXVAg) | [Evil](https://open.spotify.com/album/2Lx0ZVDWhHAVR01bkGFDHl) | 2:45 | 2020-10-24 | 2022-07-10 |
-| [Residentes Olvidados](https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P) | [Leprosy](https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x) | [Llora Chiapas](https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL) | 5:12 | 2020-10-24 |  |
+| [Residentes Olvidados](https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P) | [Leprosy](https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x) | [Llora Chiapas](https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL) | 5:12 | 2020-10-24 | 2024-03-26 |
 | [Resilent](https://open.spotify.com/track/1ks4oI8rHS6kWwUf4rOmcn) | [Ziran](https://open.spotify.com/artist/4P9XsTV3PLROxMoLp4c0b4) | [Nature of I](https://open.spotify.com/album/1p8YhSYsMpV3C1TDV9p7ro) | 3:40 | 2020-10-24 | 2022-07-21 |
 | [Río Extraño](https://open.spotify.com/track/2BkoAPwO85Zb2IOJF0LMRv) | [OConnor](https://open.spotify.com/artist/2fkbcrv0tNgxkzT0wvivRN) | [Río Extraño](https://open.spotify.com/album/2RhzNO5A2ygXBfuKkmglGL) | 4:27 | 2020-10-24 |  |
 | [Sabios](https://open.spotify.com/track/5nErw2zbliwKbVmZBp1gVV) | [Minerva](https://open.spotify.com/artist/1DYNmRhSOAWWen5JUKIqOc) | [Sabios](https://open.spotify.com/album/2KFX103ureEhZ1JUyy0U1j) | 3:59 | 2020-10-24 | 2022-07-26 |

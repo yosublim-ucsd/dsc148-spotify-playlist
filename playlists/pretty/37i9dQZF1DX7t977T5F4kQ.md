@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Ghetto Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,356 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,362 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [J.O.K.](https://open.spotify.com/track/31F9gmsnEaeGwN2kmjwCzg) | [Deon Boakye](https://open.spotify.com/artist/7uJxdfNB1wzMC3UQ1SyBfi) | [J.O.K.](https://open.spotify.com/album/3Pf1SWY9syKZwWvdr2sW3S) | 2:28 |
 | 80 | [Holy Father](https://open.spotify.com/track/2wSk1MHN01QkgGEundIT0y) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Ras Kuuku](https://open.spotify.com/artist/24Lo1cdnRz69FYSaX7m44S) | [Holy Father](https://open.spotify.com/album/1AYw6sAIeqlefgpeNqjVjo) | 3:50 |
 
-Snapshot ID: `MCwyMjZjMTgxODYwM2JkYTg1MDMyYjJlYzNhN2I2ODAzM2NhMDI4M2Iz`
+Snapshot ID: `MCxhZjJkZGI4NzM3YTM0OWUzYzQ2ZTBkOWU3NzA4MzhkMzc4NmQ4ZjQy`

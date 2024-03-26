@@ -937,6 +937,24 @@
     },
     {
       "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
+    },
+    {
+      "album": {
         "name": "Austin",
         "url": "https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0"
       },
@@ -966,7 +984,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
@@ -10200,6 +10218,24 @@
       "duration_ms": 147354,
       "name": "PANIC ATTACK",
       "url": "https://open.spotify.com/track/4WMuO95Swpnr2cShFGxmgI"
+    },
+    {
+      "album": {
+        "name": "Paper Heart",
+        "url": "https://open.spotify.com/album/6vHwWncpxGgLv1Qn7EjUaw"
+      },
+      "artists": [
+        {
+          "name": "Dylan Wright",
+          "url": "https://open.spotify.com/artist/0XjUzkpgj8t1MnxhROumUe"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195668,
+      "name": "Paper Heart",
+      "url": "https://open.spotify.com/track/5nJYrTkiq8aXuXR4NqeJYm"
     },
     {
       "album": {

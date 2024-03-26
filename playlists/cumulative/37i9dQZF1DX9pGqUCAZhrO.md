@@ -4,7 +4,7 @@
 
 > Live by your own rules\. Listen to the official playlist inspired by Bel\-Air, streaming now exclusively on  <a href="https://www.peacocktv.com/stream\-tv/bel\-air">Peacock</a>.
 
-61 songs - 3 hr 19 min
+63 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,9 @@
 | [Iced Tea](https://open.spotify.com/track/3AC9Qas9KydyJPZCeYcs5h) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 3:25 | 2023-02-23 |  |
 | [Ima Boss \(feat\. Rick Ross\)](https://open.spotify.com/track/7sjwaBQ6M3aVigYfBjm1sL) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [MMG Presents: Self Made, Vol\. 1](https://open.spotify.com/album/1xE3Obhzdpw4aIqPDMf4I4) | 4:10 | 2023-02-23 |  |
 | [Kool Aid](https://open.spotify.com/track/5Gcvy4sBxYdpWj2f54K2ua) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis.](https://open.spotify.com/album/5udBfaGdflGiQRkL9TORN2) | 2:33 | 2023-02-23 |  |
-| [Life is Good \(feat\. Scribz Riley\)](https://open.spotify.com/track/1nY6jXOGR1ZQyUXDyRHWDc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Life Is Good \(feat\. Scribz Riley\)](https://open.spotify.com/album/0tkCUMBnkXcc3L9hN9gNbz) | 4:16 | 2023-02-23 |  |
+| [Life is Good \(feat\. Scribz Riley\)](https://open.spotify.com/track/1nY6jXOGR1ZQyUXDyRHWDc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Life Is Good \(feat\. Scribz Riley\)](https://open.spotify.com/album/0tkCUMBnkXcc3L9hN9gNbz) | 4:16 | 2023-02-23 | 2024-03-26 |
 | [Life Is Good \(feat\. Scribz Riley\)](https://open.spotify.com/track/4bxr2sOVZSLjIN7tQx53ir) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Life Is Good \(feat\. Scribz Riley\)](https://open.spotify.com/album/6rdfmpRVrUn1B7Q8rSCHZj) | 4:16 | 2023-02-23 | 2024-03-24 |
+| [LIFE IS GOOD \(feat\. Scribz Riley\)](https://open.spotify.com/track/6eIsZBNtNcHROqg80j2Ql5) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 4:16 | 2023-02-23 |  |
 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/5FFUDCkMjxuK6XQZNumN55) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like](https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf) | 2:44 | 2023-02-23 |  |
 | [Millions](https://open.spotify.com/track/4GobDRbKnfjrA3KX5LhOwS) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Rap?](https://open.spotify.com/album/1s3yOs7KV2OWx0hoYby2bm) | 2:55 | 2023-02-23 |  |
 | [MiNi VaN](https://open.spotify.com/track/1jnJ0EKN5QbukBo8qkwmCv) | [Amaru Son](https://open.spotify.com/artist/1j4IqKoo9teP3cGdB5d1Ut) | [MiNi VaN](https://open.spotify.com/album/7vJO9gTpNEQsBqXA1DtrPe) | 2:08 | 2023-02-23 |  |
@@ -50,7 +51,8 @@
 | [Photosynthesis](https://open.spotify.com/track/3DlgDXIYtnWtJKiB8bZQMv) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Bucket List Project](https://open.spotify.com/album/10UscF31tC7Sz8S2a1mGbM) | 3:21 | 2023-02-23 |  |
 | [Piece Of Me](https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:44 | 2023-02-23 |  |
 | [Ride](https://open.spotify.com/track/0vylEfye9UhTLt7WO5EHvI) | [Jass](https://open.spotify.com/artist/6pZx69wO2abh91JcYuVwDf) | [At the Close of a Decade](https://open.spotify.com/album/1urj50az0sSNTwzALshVjh) | 2:51 | 2023-02-23 |  |
-| [Satisfaction](https://open.spotify.com/track/3Dk7R9wRA9Y9uTk8IVnuDi) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Satisfaction](https://open.spotify.com/album/2BYmwYfn4GAalGxMmhp0nM) | 2:10 | 2023-02-23 |  |
+| [SATISFACTION](https://open.spotify.com/track/0HMMmXVEAoQyS3BbjKi6tF) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 2:10 | 2023-02-23 |  |
+| [Satisfaction](https://open.spotify.com/track/3Dk7R9wRA9Y9uTk8IVnuDi) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Satisfaction](https://open.spotify.com/album/2BYmwYfn4GAalGxMmhp0nM) | 2:10 | 2023-02-23 | 2024-03-26 |
 | [Satisfaction](https://open.spotify.com/track/3XLDQwrRn2gC73UA2b9Bnc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Satisfaction](https://open.spotify.com/album/78X3MDElRpnb0R0zZxwfys) | 2:10 | 2023-02-23 | 2024-03-24 |
 | [Shame On You](https://open.spotify.com/track/1awdxcVuDxlDqUCO8fk4Gd) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [War & Wonders](https://open.spotify.com/album/6yXIl5A3rqnIEW6kMX3NwN) | 3:13 | 2023-02-23 |  |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 | 2023-02-23 |  |

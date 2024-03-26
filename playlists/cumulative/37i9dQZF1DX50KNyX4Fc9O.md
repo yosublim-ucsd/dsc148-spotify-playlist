@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Kita Alexander
 
-812 songs - 1 day 18 hr 4 min
+814 songs - 1 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,8 +56,9 @@
 | [Atmosphere](https://open.spotify.com/track/5RLXorPT049PXrZhVUS7RK) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Atmosphere](https://open.spotify.com/album/03fvTmdZAQc5UO9ddnLf82) | 3:14 | 2023-06-15 | 2023-07-14 |
 | [Atmosphere \(Kita’s Version\)](https://open.spotify.com/track/7I0EAjKngK6EZYw7YIPZ19) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere \(Kita’s Version\)](https://open.spotify.com/album/5hlY3fgxoUM07aMjbt6BwT) | 2:55 | 2023-12-07 | 2024-02-02 |
 | [august](https://open.spotify.com/track/2J7IHrGRK9ciBgt7pi5po3) | [SANNIA](https://open.spotify.com/artist/2CdPFiGHFCyN5CufJ8tkGh) | [august](https://open.spotify.com/album/3ydmay15sgPLdbHxrmiGCs) | 4:07 | 2023-10-26 | 2023-12-08 |
+| [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-21 |  |
 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-07 | 2024-03-21 |
-| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-14 |  |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-14 | 2024-03-26 |
 | [Baby Blue](https://open.spotify.com/track/5ZDdx332AQj2n6TOW0LlZU) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Baby Blue](https://open.spotify.com/album/4SZISLudRb6XD44SO2NBtZ) | 2:04 | 2023-11-16 | 2023-12-22 |
 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 | 2023-09-14 | 2023-10-27 |
 | [Back To Your Heart](https://open.spotify.com/track/6t0HlyysZGmCCj1yNgZT7W) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Back To Your Heart](https://open.spotify.com/album/4melEKaCbMfBiFl22B2elc) | 3:15 | 2023-08-04 | 2023-10-06 |
@@ -547,6 +548,7 @@
 | [Paint My Bedroom Black](https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE) | 3:49 | 2023-10-12 | 2023-12-08 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-04 | 2023-08-25 |
 | [PANIC ATTACK](https://open.spotify.com/track/4WMuO95Swpnr2cShFGxmgI) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [PANIC ATTACK](https://open.spotify.com/album/6S0ICRskr52yiEGuLKounG) | 2:27 | 2023-11-02 | 2023-12-22 |
+| [Paper Heart](https://open.spotify.com/track/5nJYrTkiq8aXuXR4NqeJYm) | [Dylan Wright](https://open.spotify.com/artist/0XjUzkpgj8t1MnxhROumUe) | [Paper Heart](https://open.spotify.com/album/6vHwWncpxGgLv1Qn7EjUaw) | 3:15 | 2024-03-25 |  |
 | [Papier\-Mâché](https://open.spotify.com/track/3GC0NNZxyIQSMOSoyUqpZ1) | [Tarn PK](https://open.spotify.com/artist/0o5jOQbBI6oSsI0U6OT41X) | [Papier\-Mâché](https://open.spotify.com/album/21wGL1QvVrXM5yJUNki3ag) | 4:00 | 2023-11-16 | 2023-12-22 |
 | [Paradise](https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Paradise](https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz) | 1:47 | 2023-11-23 | 2024-01-12 |
 | [Paradise Calling](https://open.spotify.com/track/6FDPJaI8UySXCTSWKMsXZj) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Paradise Calling](https://open.spotify.com/album/4eO6jrqvUJMfIGOQV6HmmB) | 3:06 | 2023-07-13 | 2023-08-11 |

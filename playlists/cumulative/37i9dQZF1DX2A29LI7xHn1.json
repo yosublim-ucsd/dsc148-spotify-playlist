@@ -9461,6 +9461,24 @@
     },
     {
       "album": {
+        "name": "MONEY! (Money Money, Green Green)",
+        "url": "https://open.spotify.com/album/2RVKC6Ji7sQfRb4iMCu8gX"
+      },
+      "artists": [
+        {
+          "name": "Kaytoven",
+          "url": "https://open.spotify.com/artist/4DDuVAfwHpJyGSmNUHRTGm"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78036,
+      "name": "MONEY! (Money Money, Green Green)",
+      "url": "https://open.spotify.com/track/40MPZ79Nb7wBZqA9PzLVy0"
+    },
+    {
+      "album": {
         "name": "Drop 7",
         "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
       },

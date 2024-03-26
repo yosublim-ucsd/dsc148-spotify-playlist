@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 18,602 likes - 27 songs - 1 hr 28 min
+[margeaux](https://open.spotify.com/user/1220511975) - 18,595 likes - 30 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,5 +35,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 25 | [Blank Time](https://open.spotify.com/track/1aXDrYTE5igJKUygBgrPWN) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Paradise](https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2) | 3:57 |
 | 26 | [I Can't Dream Anymore](https://open.spotify.com/track/0bZN26ShHJhG1NERwNs7LP) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [I Can't Dream Anymore](https://open.spotify.com/album/2nWfaWfDYIEMeckjUAfDCZ) | 3:12 |
 | 27 | [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 |
+| 28 | [The Beat Of Black Wings](https://open.spotify.com/track/2DyQKUqKUpOFV3Fs3ijW9Q) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 5:24 |
+| 29 | [Up Er Mei](https://open.spotify.com/track/1N7oGtGMR3GzIN1WpcS62z) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Hourglass](https://open.spotify.com/album/3E7Sj3kKbxY1Tsp7U0SKQi) | 3:46 |
+| 30 | [Against All Odds \(Take a Look at Me Now\) \- 2016 Remaster](https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:26 |
 
-Snapshot ID: `MjU5Niw0M2MwNDIzODE0YzBlYTJjNDllZTEzYTNiYmMwOGEyYjZmYzllNWU5`
+Snapshot ID: `MjU5OSxhNzg3ODRhOTZmYzI2YWJhMWQ4YjRkNjUwNGE3NzQ0ZjRjY2IxNzhh`

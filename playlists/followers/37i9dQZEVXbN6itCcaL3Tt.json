@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 262837,
+  "2024-03-26": 262836,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Poland.",
   "name": "Top 50 - Poland",
@@ -4179,7 +4179,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "BLUEBERRY",
       "url": "https://open.spotify.com/track/4BgTgPsNeDz2KG4QsshjL9"
@@ -6309,7 +6309,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 169840,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
@@ -13367,7 +13367,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 199253,
       "name": "Ice Attack",
       "url": "https://open.spotify.com/track/70ToiXlzl8N1EgfC07ZcZE"
@@ -13771,7 +13771,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 199512,
       "name": "ITALODISCO",
       "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
@@ -17575,6 +17575,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
       "date_added": "2024-03-23",
@@ -19287,7 +19291,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 134025,
       "name": "MILLIE WALKY",
       "url": "https://open.spotify.com/track/3mzugJrKyhJNzZKS0RgWBg"
@@ -22195,7 +22199,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 147109,
       "name": "Nim Zajdzie S\u0142o\u0144ce",
       "url": "https://open.spotify.com/track/1NtvjagHJRLQogzWVhpghv"
@@ -31315,7 +31319,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 180937,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/1g88Qpz9ZsJM1hlB3PLdgY"
@@ -32397,7 +32401,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
@@ -32855,6 +32859,14 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "date_added": "2024-03-23",
@@ -33961,7 +33973,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 226213,
       "name": "We Don't Trust You",
       "url": "https://open.spotify.com/track/1pnDvUuAEd6z8bKEsbAjk1"
@@ -35459,7 +35471,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 205346,
       "name": "Young Metro",
       "url": "https://open.spotify.com/track/3OxL6MuctgZp1e0zxoAZhH"

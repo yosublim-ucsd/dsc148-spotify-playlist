@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > The state of shoegaze\. Gazing at pedals, soaring celestially high\. Cover: Wisp
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,870 likes - 115 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,213 likes - 115 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 50 | [I Thought You'd Change](https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 2:51 |
 | 51 | [suicide note](https://open.spotify.com/track/1EEruLYtWxRth8sKWjrJos) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [suicide note](https://open.spotify.com/album/0q1ALc0MK3r8UEMsTRTTxp) | 3:17 |
 | 52 | [Lonely Times](https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Lonely Times](https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04) | 3:17 |
-| 53 | [drown](https://open.spotify.com/track/6kf8AGQdxUmEx2mwJESQPN) | [Paradise Blossom](https://open.spotify.com/artist/69CROBu60QZWX8uig8XpDb) | [drown](https://open.spotify.com/album/1jJAYDO1JbuJvlnhAl8jW8) | 2:55 |
+| 53 | [drown](https://open.spotify.com/track/3CGM4X26XQf8J9PI30o1VB) | [Paradise Blossom](https://open.spotify.com/artist/69CROBu60QZWX8uig8XpDb) | [drown](https://open.spotify.com/album/31O4a5pvYzcY0tVBHZJgw0) | 2:55 |
 | 54 | [Bong World](https://open.spotify.com/track/3rwbJQFlqjMoNpwhU0gESR) | [Buff Ginger](https://open.spotify.com/artist/51ZnoZJmnms7hdHKJrRLtL) | [New Jokes](https://open.spotify.com/album/05we1XCetqkE0s740C5rdn) | 3:26 |
 | 55 | [Waltz](https://open.spotify.com/track/1fik0uRvfAUxrkcgpJrMF1) | [Schelper](https://open.spotify.com/artist/0jPrAqvMqQJPwCnZsCdDL7) | [Waltz](https://open.spotify.com/album/73FCf4ZimE8vU421YH3rqQ) | 3:44 |
 | 56 | [Tell Me About It](https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro), [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Tell Me About It](https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8) | 3:24 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 114 | [Vacation](https://open.spotify.com/track/5F1gAs2j6FLTITQ1FJni0O) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Computerwife](https://open.spotify.com/album/5xGfEYzVfcPYPrTE6FqfyP) | 3:32 |
 | 115 | [COME WITH ME](https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [COME WITH ME](https://open.spotify.com/album/3g1hCDombl0mBfQdb7XxHN) | 2:34 |
 
-Snapshot ID: `MCxkODc0NjcwMTM0ODY5YzliZmE4YTE1ZWFmZjZmMjM1ZDA5YTk0OGEx`
+Snapshot ID: `MCwxN2M1ODUxMGZlNjNmODZlMTExMGEyYTM4M2UxNDU4ZDUzNmMwYmRj`

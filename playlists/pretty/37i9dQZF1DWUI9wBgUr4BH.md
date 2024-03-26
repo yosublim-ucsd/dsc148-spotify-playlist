@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,212 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,321 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Can’t Catch Me Now \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s) | 3:25 |
 | 40 | [All My Life](https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [All My Life](https://open.spotify.com/album/2AhoXwTvHcGjBwNMDOwEZp) | 2:26 |
 
-Snapshot ID: `MCxlOTc1OTE0NDZlNjcxZDliODY3MzQ0YTU2M2NmMDhkYTdmNTczYWRl`
+Snapshot ID: `MCw5NzBhZDcyY2QyMzY2Y2Q1ZjU4YjgwNDY3ZTg2NGM2YzA0NDlkNjdk`

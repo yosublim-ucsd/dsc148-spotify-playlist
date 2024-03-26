@@ -1,12 +1,12 @@
 {
   "description": "Go deep into spontaneous praise and worship here. On and on.",
-  "num_followers": 198877,
+  "num_followers": 198937,
   "original_name": "Signs & Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDQxNmFmYTMwODE3ZWZkNmE5ZjdlNDZjYjU1NDU2YzJmZjExYWY3",
+  "snapshot_id": "MCwyNjhmZThjZjZmYmVjNzI3MjUwZDZiYmExYmZhMTNjYjc2Mzg3ZDJj",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Hallelujah Here Below",
-        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 405913,
-      "name": "Here Again",
-      "url": "https://open.spotify.com/track/1wuqCUWHniGdEmOKZbQ1cg"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Still Believe (Live)",
         "url": "https://open.spotify.com/album/5SjDZwjks6vfJxdXbGnLal"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 382573,
       "name": "Spirit Break Out - Live",
       "url": "https://open.spotify.com/track/573mudwDhftRSSbvLHC8xS"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Hallelujah Here Below",
+        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 405913,
+      "name": "Here Again",
+      "url": "https://open.spotify.com/track/1wuqCUWHniGdEmOKZbQ1cg"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -419,22 +419,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "People (Live)",
-        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
         }
       ],
-      "duration_ms": 148520,
-      "name": "Clean - Live",
-      "url": "https://open.spotify.com/track/2jc4zuz6OZJTjaYjOjTXyM"
+      "duration_ms": 376093,
+      "name": "Dancing on the Waves",
+      "url": "https://open.spotify.com/track/2soQW3y7DwZIPH4fS5av1W"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -459,22 +459,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
         },
         {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 376093,
-      "name": "Dancing on the Waves",
-      "url": "https://open.spotify.com/track/2soQW3y7DwZIPH4fS5av1W"
+      "duration_ms": 148520,
+      "name": "Clean - Live",
+      "url": "https://open.spotify.com/track/2jc4zuz6OZJTjaYjOjTXyM"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -555,42 +555,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Yeshua (Spontaneous) [Live]",
-        "url": "https://open.spotify.com/album/5euI6yTA3skQd2vQiVepMj"
-      },
-      "artists": [
-        {
-          "name": "Eleni Baker",
-          "url": "https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3"
-        }
-      ],
-      "duration_ms": 417230,
-      "name": "Yeshua (Spontaneous) - Live",
-      "url": "https://open.spotify.com/track/07GcGWXI5TzXpW87pkzV78"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
-        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 464000,
-      "name": "Pursue / All I Need Is You - Medley/Live",
-      "url": "https://open.spotify.com/track/58TKUOfACHyUpWE5DisSVF"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Have It All (Live)",
         "url": "https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2"
       },
@@ -607,6 +571,22 @@
       "duration_ms": 485396,
       "name": "Be Enthroned - Live",
       "url": "https://open.spotify.com/track/19uV6FQniZrbWtDPvBisIB"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Yeshua (Spontaneous) [Live]",
+        "url": "https://open.spotify.com/album/5euI6yTA3skQd2vQiVepMj"
+      },
+      "artists": [
+        {
+          "name": "Eleni Baker",
+          "url": "https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3"
+        }
+      ],
+      "duration_ms": 417230,
+      "name": "Yeshua (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/07GcGWXI5TzXpW87pkzV78"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -675,6 +655,26 @@
       "duration_ms": 412227,
       "name": "Way Maker - Live From Passion 2020",
       "url": "https://open.spotify.com/track/16lF3B47C7KM9GPok917Ap"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
+        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 464000,
+      "name": "Pursue / All I Need Is You - Medley/Live",
+      "url": "https://open.spotify.com/track/58TKUOfACHyUpWE5DisSVF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Let There Be Light (Deluxe)",
-        "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Joel Houston",
-          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
-        }
-      ],
-      "duration_ms": 406173,
-      "name": "Behold (Then Sings My Soul) - Live",
-      "url": "https://open.spotify.com/track/1ploWGMJ1grQQrKcV2zwqb"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Where His Light Was",
         "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
       },
@@ -867,6 +847,26 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Let There Be Light (Deluxe)",
+        "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Joel Houston",
+          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
+        }
+      ],
+      "duration_ms": 406173,
+      "name": "Behold (Then Sings My Soul) - Live",
+      "url": "https://open.spotify.com/track/1ploWGMJ1grQQrKcV2zwqb"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -887,94 +887,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Miracle or Not",
-        "url": "https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4"
-      },
-      "artists": [
-        {
-          "name": "Alisa Turner",
-          "url": "https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre"
-        }
-      ],
-      "duration_ms": 243269,
-      "name": "My Prayer For You",
-      "url": "https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 510795,
-      "name": "Nothing Else - Live",
-      "url": "https://open.spotify.com/track/7sAJH3KsjrZG7tuQvd2OeE"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Moments (Live)",
-        "url": "https://open.spotify.com/album/1WjKktf3q0AeA9My9MRPtp"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Elyssa Smith",
-          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
-        }
-      ],
-      "duration_ms": 349525,
-      "name": "Surrounded (Fight My Battles) - Live",
-      "url": "https://open.spotify.com/track/3RvSbCWVuW24rqpNYb8KEf"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Here (Live)",
-        "url": "https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 258213,
-      "name": "Overflow (Live)",
-      "url": "https://open.spotify.com/track/1xvioaPO8eZigxPTEZh9ZV"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
-        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        }
-      ],
-      "duration_ms": 296680,
-      "name": "Love On The Line - Live",
-      "url": "https://open.spotify.com/track/29z3ihitUAS0p2QqwNXsyo"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "We Will Not Be Shaken (Live)",
         "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
       },
@@ -991,6 +903,38 @@
       "duration_ms": 332604,
       "name": "We Will Not Be Shaken - Live",
       "url": "https://open.spotify.com/track/1eZYPovTvmxk3QlVD2VpCX"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Miracle or Not",
+        "url": "https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4"
+      },
+      "artists": [
+        {
+          "name": "Alisa Turner",
+          "url": "https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre"
+        }
+      ],
+      "duration_ms": 243269,
+      "name": "My Prayer For You",
+      "url": "https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Here (Live)",
+        "url": "https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "duration_ms": 258213,
+      "name": "Overflow (Live)",
+      "url": "https://open.spotify.com/track/1xvioaPO8eZigxPTEZh9ZV"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1019,6 +963,62 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Moments (Live)",
+        "url": "https://open.spotify.com/album/1WjKktf3q0AeA9My9MRPtp"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "duration_ms": 349525,
+      "name": "Surrounded (Fight My Battles) - Live",
+      "url": "https://open.spotify.com/track/3RvSbCWVuW24rqpNYb8KEf"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 510795,
+      "name": "Nothing Else - Live",
+      "url": "https://open.spotify.com/track/7sAJH3KsjrZG7tuQvd2OeE"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
+        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "duration_ms": 296680,
+      "name": "Love On The Line - Live",
+      "url": "https://open.spotify.com/track/29z3ihitUAS0p2QqwNXsyo"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Wake Up The Wonder",
         "url": "https://open.spotify.com/album/4ROzY3I1ROwTDSvl9fVSob"
       },
@@ -1035,42 +1035,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "All The Earth (Live)",
-        "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Maggie Reed",
-          "url": "https://open.spotify.com/artist/3a0meM2g0dprjKcoYVDc3C"
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
         }
       ],
-      "duration_ms": 317205,
-      "name": "You're Not Finished Yet - Live",
-      "url": "https://open.spotify.com/track/5P0VnOO7uBkiCAjvS4xJfG"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 291565,
-      "name": "King Of Kings - Live",
-      "url": "https://open.spotify.com/track/7iK9jPR9LpWUkdwMPMIVnt"
+      "duration_ms": 391640,
+      "name": "Wonder (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/69PJBGTRrZZQrwbH4TxnIQ"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1111,22 +1091,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "You Make Me Brave (Live)",
-        "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
+        "name": "All The Earth (Live)",
+        "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
         },
         {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+          "name": "Maggie Reed",
+          "url": "https://open.spotify.com/artist/3a0meM2g0dprjKcoYVDc3C"
         }
       ],
-      "duration_ms": 391640,
-      "name": "Wonder (Spontaneous) - Live",
-      "url": "https://open.spotify.com/track/69PJBGTRrZZQrwbH4TxnIQ"
+      "duration_ms": 317205,
+      "name": "You're Not Finished Yet - Live",
+      "url": "https://open.spotify.com/track/5P0VnOO7uBkiCAjvS4xJfG"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1179,6 +1159,42 @@
       "duration_ms": 339266,
       "name": "Praise Will Be My Song",
       "url": "https://open.spotify.com/track/4YzQqc3ccm3En6LniPRGNM"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 291565,
+      "name": "King Of Kings - Live",
+      "url": "https://open.spotify.com/track/7iK9jPR9LpWUkdwMPMIVnt"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "The Undoing",
+        "url": "https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 194660,
+      "name": "No Fear in Love",
+      "url": "https://open.spotify.com/track/1L7hLhmNgsQ9eMc5C5ej6l"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1267,22 +1283,6 @@
       "duration_ms": 490453,
       "name": "Let It Happen (Live) [feat. Andrea Marie]",
       "url": "https://open.spotify.com/track/1MCxM27lS1cDA7py53mqRt"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "The Undoing",
-        "url": "https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA"
-      },
-      "artists": [
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 194660,
-      "name": "No Fear in Love",
-      "url": "https://open.spotify.com/track/1L7hLhmNgsQ9eMc5C5ej6l"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "For This Purpose (Live)",
-        "url": "https://open.spotify.com/album/2ci3jBSOWzTEsrQ6bnX9if"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        }
-      ],
-      "duration_ms": 379093,
-      "name": "Altar (Live)",
-      "url": "https://open.spotify.com/track/38heLtyRuyWilWcGxFl8Sw"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Mention Of Your Name",
         "url": "https://open.spotify.com/album/1jAhwQDRVeCX1f80Woc8ST"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 326706,
       "name": "Mention Of Your Name",
       "url": "https://open.spotify.com/track/1uXkEGf3fmK2OkdoDvJdH0"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "For This Purpose (Live)",
+        "url": "https://open.spotify.com/album/2ci3jBSOWzTEsrQ6bnX9if"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "duration_ms": 379093,
+      "name": "Altar (Live)",
+      "url": "https://open.spotify.com/track/38heLtyRuyWilWcGxFl8Sw"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "The Things We Did at First",
-        "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
-      },
-      "artists": [
-        {
-          "name": "Sean Feucht",
-          "url": "https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR"
-        }
-      ],
-      "duration_ms": 238478,
-      "name": "When My Heart Became Aware",
-      "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Living With A Fire (Live)",
         "url": "https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 445293,
       "name": "Not Afraid - Live",
       "url": "https://open.spotify.com/track/5GY6JKRXebctv4T8dgEzGq"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "The Things We Did at First",
+        "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
+      },
+      "artists": [
+        {
+          "name": "Sean Feucht",
+          "url": "https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR"
+        }
+      ],
+      "duration_ms": 238478,
+      "name": "When My Heart Became Aware",
+      "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1603,6 +1603,22 @@
       "duration_ms": 330266,
       "name": "Abba (Arms Of A Father)",
       "url": "https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Children of God",
+        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "My All in All",
+      "url": "https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1655,18 +1671,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Children of God",
-        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
         }
       ],
-      "duration_ms": 289333,
-      "name": "My All in All",
-      "url": "https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE"
+      "duration_ms": 282293,
+      "name": "Heart Wide Open",
+      "url": "https://open.spotify.com/track/4dHyyfxYOffgt29aQlRzLh"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1691,38 +1707,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 283746,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 282293,
-      "name": "Heart Wide Open",
-      "url": "https://open.spotify.com/track/4dHyyfxYOffgt29aQlRzLh"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Beautiful Surrender",
         "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 265573,
       "name": "Find Me",
       "url": "https://open.spotify.com/track/5JN3NqUutLCUf1zN5cEMLF"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 283746,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1755,38 +1755,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 282546,
-      "name": "Tethered",
-      "url": "https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Praise Before My Breakthrough",
-        "url": "https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 341830,
-      "name": "Prophesy Your Promise",
-      "url": "https://open.spotify.com/track/4X0WNlQtcoGOf4mWlUIeD7"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "The Brilliance Original Mixtape",
         "url": "https://open.spotify.com/album/0duE0bJzF0cq6n7YNQAP3P"
       },
@@ -1803,22 +1771,50 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Living With A Fire (Live)",
-        "url": "https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp"
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 410493,
-      "name": "Move - Live",
-      "url": "https://open.spotify.com/track/4SsE5oHM1nOEH8XEbEpugm"
+      "duration_ms": 282546,
+      "name": "Tethered",
+      "url": "https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 339520,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/7HtF6IsvLL7dES6Gb5odxE"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "The War Is Over",
+        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 277853,
+      "name": "Get Your Hopes Up",
+      "url": "https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7"
     }
   ],
   "unique_name": "Signs & Wonders",

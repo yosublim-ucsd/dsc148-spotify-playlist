@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Estopa.",
-  "num_followers": 573921,
+  "num_followers": 574039,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjRlMGUzMjk3MzkzOWY0ZmMzNWQ2ZWQ2NDMwZDdkZDVmNzRlMDBj",
+  "snapshot_id": "MCxkMzc1NGFmZjBiNWY3MTBiOTJlM2NhODFjMmFjMWUzMDIxYmUzMmFl",
   "tracks": [
     {
       "added_at": "2024-03-21 23:00:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "4 Canciones",
-        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
-      },
-      "artists": [
-        {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
-        }
-      ],
-      "duration_ms": 254840,
-      "name": "No Puedo Vivir Sin Ti",
-      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "La Flaca",
         "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 288053,
       "name": "El lado oscuro",
       "url": "https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "4 Canciones",
+        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
+      },
+      "artists": [
+        {
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+        }
+      ],
+      "duration_ms": 254840,
+      "name": "No Puedo Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Para no olvidar",
-      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Tragas o Escupes",
         "url": "https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 214553,
       "name": "Eso Que T\u00fa Me Das",
       "url": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "Para no olvidar",
+      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "La ley innata",
-        "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
-      },
-      "artists": [
-        {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
-        }
-      ],
-      "duration_ms": 462013,
-      "name": "Dulce introducci\u00f3n al caos",
-      "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Arena En Los Bolsillos",
         "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 208839,
       "name": "Buscando en la basura",
       "url": "https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "La ley innata",
+        "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
+      },
+      "artists": [
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        }
+      ],
+      "duration_ms": 462013,
+      "name": "Dulce introducci\u00f3n al caos",
+      "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "28.000 pu\u00f1aladas",
-        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
-      },
-      "artists": [
-        {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "La rueca",
-      "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Veneno En La Piel",
         "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 222013,
       "name": "Veneno en la Piel",
       "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "28.000 pu\u00f1aladas",
+        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
+      },
+      "artists": [
+        {
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "La rueca",
+      "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Devil Came to Me",
-        "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
-      },
-      "artists": [
-        {
-          "name": "Dover",
-          "url": "https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Serenade",
-      "url": "https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Heroes De Los 80",
         "url": "https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 293533,
       "name": "El ritmo del garaje",
       "url": "https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Devil Came to Me",
+        "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
+      },
+      "artists": [
+        {
+          "name": "Dover",
+          "url": "https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "Rock & Roll Star - 30 a\u00f1os",
+        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
+      },
+      "artists": [
+        {
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Cadillac solitario",
+      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Sopa fria",
         "url": "https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Rock & Roll Star - 30 a\u00f1os",
-        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
+        "name": "El Bien",
+        "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
       },
       "artists": [
         {
-          "name": "Loquillo",
-          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
         }
       ],
-      "duration_ms": 214560,
-      "name": "Cadillac solitario",
-      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
+      "duration_ms": 206226,
+      "name": "El Bien",
+      "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1107,22 +1123,6 @@
       "duration_ms": 276360,
       "name": "Devil Came to Me",
       "url": "https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "El Bien",
-        "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
-      },
-      "artists": [
-        {
-          "name": "Viva Suecia",
-          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "El Bien",
-      "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "Veo Veo Mamoneo",
+        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
+      },
+      "artists": [
+        {
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+        }
+      ],
+      "duration_ms": 243040,
+      "name": "Masculino singular",
+      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Saca La Lengua",
         "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 188106,
       "name": "Tras la barra",
       "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Veo Veo Mamoneo",
-        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
-      },
-      "artists": [
-        {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
-        }
-      ],
-      "duration_ms": 243040,
-      "name": "Masculino singular",
-      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
     },
     {
       "added_at": "2024-03-21 23:00:00",

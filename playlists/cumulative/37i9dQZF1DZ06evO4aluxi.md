@@ -4,7 +4,7 @@
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-63 songs - 4 hr 7 min
+64 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [These are the Days \(feat\. Amy Grant\)](https://open.spotify.com/track/0e2r8Zr2AwxTMynkTMCkMg) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [These Are The Days](https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7) | 4:50 | 2023-11-10 |  |
 | [This Is My Father's World](https://open.spotify.com/track/50R2nZ2MYPpPwI1DzgF2El) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:05 | 2023-04-02 |  |
 | [Thy Word](https://open.spotify.com/track/58OoLCgCm83Wogp7JLl30g) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 3:20 | 2023-04-02 |  |
-| [Trees We'll Never See](https://open.spotify.com/track/4eRp7LuamE8Jn8RQgBcGF4) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Trees We'll Never See](https://open.spotify.com/album/7aiVLC89sRra8FSVao9p0E) | 4:07 | 2023-04-02 |  |
+| [Trees We'll Never See](https://open.spotify.com/track/4eRp7LuamE8Jn8RQgBcGF4) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Trees We'll Never See](https://open.spotify.com/album/7aiVLC89sRra8FSVao9p0E) | 4:07 | 2023-04-02 | 2024-03-26 |
+| [We Believe In God](https://open.spotify.com/track/4u09rUwk4uT9oHvtWNLXah) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Songs From The Loft](https://open.spotify.com/album/3KS2ekoGoEmLlDfPVDBdhv) | 3:42 | 2024-03-25 |  |
 | [What A Friend We Have In Jesus/Old Rugged Cross/How Great Thou Art \- Medley](https://open.spotify.com/track/6MVujIIaaERsNUJWBywK4n) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:30 | 2023-04-02 |  |
 | [What You Heard](https://open.spotify.com/track/4y4C6YlIAf9Wjx65uU7nOg) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [What You Heard](https://open.spotify.com/album/5egLTfkAIvzX8y5FWFerxV) | 3:44 | 2023-04-29 | 2023-11-11 |
 | [When We Fall Apart \(feat\. Vince Gill & Amy Grant\)](https://open.spotify.com/track/3qY5XlO5nLbCZDy5BPtH6x) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [When We Fall Apart \(feat\. Vince Gill & Amy Grant\)](https://open.spotify.com/album/0LLTMDGcJwLdwN8SC3OLm7) | 4:26 | 2023-04-02 |  |

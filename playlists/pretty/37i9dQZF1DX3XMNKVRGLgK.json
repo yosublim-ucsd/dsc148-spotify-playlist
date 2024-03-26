@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 20575,
+  "num_followers": 20591,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmU0NDlmMTBhNjZmM2MwM2JiMzBmMmI5YWU1MGRjZmZhNDdlYjJh",
+  "snapshot_id": "MCxkZDg4MTdiMTkwMGNjODFjNWI3ODZjODQ0OTIyMGY0OTQ3ZWZmY2Jj",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -479,26 +479,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Watch The Throne",
-        "url": "https://open.spotify.com/album/7mCeLbChyegbRwwKK5shJs"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 256706,
-      "name": "Who Gon Stop Me",
-      "url": "https://open.spotify.com/track/2eqOjSC8dY1iFrQiJGPDOX"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Doe Or Die",
         "url": "https://open.spotify.com/album/4wPNy4oz3tDjY3OEeHiOVq"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 260226,
       "name": "4 Da Fam (feat. Beanie Sigel, Memphis Bleek & Jay-Z) - Explicit Album Version",
       "url": "https://open.spotify.com/track/2NUcXeWIVFKcKrjgfUHDRG"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Watch The Throne",
+        "url": "https://open.spotify.com/album/7mCeLbChyegbRwwKK5shJs"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 256706,
+      "name": "Who Gon Stop Me",
+      "url": "https://open.spotify.com/track/2eqOjSC8dY1iFrQiJGPDOX"
     },
     {
       "added_at": "2022-10-01 16:00:00",

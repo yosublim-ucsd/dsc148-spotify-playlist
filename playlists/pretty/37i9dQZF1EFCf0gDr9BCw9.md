@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579 likes - 146 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 582 likes - 146 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 125 | [Love Has Passed Me By Again](https://open.spotify.com/track/7nvFlRf2uHSzdcfLaM6Hg4) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 5:21 |
 | 126 | [Ballet of the Flyin' Saucers](https://open.spotify.com/track/6vRq5rh1qGnRLyTTEbtFRh) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 4:48 |
 | 127 | [Bagatelle](https://open.spotify.com/track/0kcLxUVQkwb4qbBhj5KwHh) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 4:01 |
-| 128 | [Portrait of a Silk Thread](https://open.spotify.com/track/1ZgsLi4iqANiYLTRxevUmv) | [Lennart Aberg](https://open.spotify.com/artist/3ZXO6RQeKC6PYzXqi7xe41), [Swedish Radio Jazz Group](https://open.spotify.com/artist/4RbQ3ndXO1lnERpNEAIXvx) | [A Swedish Tribute to Duke](https://open.spotify.com/album/3Omjs5bBjpbgzCDK8v44e0) | 4:43 |
-| 129 | [Blue Heart](https://open.spotify.com/track/7qUp2TX0RDdOTqamY0IauJ) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 4:38 |
+| 128 | [Blue Heart](https://open.spotify.com/track/7qUp2TX0RDdOTqamY0IauJ) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 4:38 |
+| 129 | [Portrait of a Silk Thread](https://open.spotify.com/track/1ZgsLi4iqANiYLTRxevUmv) | [Lennart Aberg](https://open.spotify.com/artist/3ZXO6RQeKC6PYzXqi7xe41), [Swedish Radio Jazz Group](https://open.spotify.com/artist/4RbQ3ndXO1lnERpNEAIXvx) | [A Swedish Tribute to Duke](https://open.spotify.com/album/3Omjs5bBjpbgzCDK8v44e0) | 4:43 |
 | 130 | [Jo](https://open.spotify.com/track/3MMTXcokvnOvkXFc2iPper) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:21 |
 | 131 | [Bugle Breaks](https://open.spotify.com/track/722g3b31Fn8GzSQ68WJlbR) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Les Plus Grands Orchestres de la Liberation](https://open.spotify.com/album/4TvT04s52uey1cRszFZHOq) | 2:53 |
 | 132 | [Feet On The Beat](https://open.spotify.com/track/3XBAY99bnSNts24sAPWHMA) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:36 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 145 | [Lotus Blossom](https://open.spotify.com/track/70dfarV5LT25SJRzmanKDz) | [John Dimartino](https://open.spotify.com/artist/6bCofFGp9w6X6Bh4V3fLQc) | [Passion Flower](https://open.spotify.com/album/4eDXtUYCXcpr7r2SkN0xN8) | 2:33 |
 | 146 | [Prima Bara Dubla](https://open.spotify.com/track/5p1fIuJvkzF7Rhdry4IuuT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 5:41 |
 
-Snapshot ID: `Mjg1MjIyMTAsMDAwMDAwMDBlNzM0NDUwNjIxYjc0MDg3ZTAwOWExMzUyZDdiZWYxNw==`
+Snapshot ID: `Mjg1MjM2NTAsMDAwMDAwMDAyZjMyNTEwNmM1MzFhOTkwMmEwN2U0MTJhOWEwZDg4OA==`

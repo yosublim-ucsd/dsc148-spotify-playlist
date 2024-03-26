@@ -4,7 +4,7 @@
 
 > Olivia Rodrigo op de cover van Fresh Pop!
 
-517 songs - 1 day 2 hr 9 min
+519 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,8 +38,9 @@
 | [As Far As We Go](https://open.spotify.com/track/0aFtR0d0Ecz96IyUZOKWUD) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman, Pt\. 1](https://open.spotify.com/album/3FBMlS9rCAA1Py6vle9tpb) | 3:11 | 2023-03-24 | 2023-06-09 |
 | [Ashley](https://open.spotify.com/track/5iMUQTIxTGgbVItGIPAWbL) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ashley](https://open.spotify.com/album/1yPpGluI3skIgOBVxJtXPA) | 2:48 | 2023-02-24 | 2023-03-25 |
 | [At Your Worst](https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [At Your Worst](https://open.spotify.com/album/0dhaQArDYjNo5woJGbXaYU) | 2:47 | 2023-08-17 | 2023-11-24 |
+| [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-25 |  |
 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-18 | 2024-03-21 |
-| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-20 |  |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-20 | 2024-03-26 |
 | [AVA](https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA](https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1) | 2:39 | 2023-02-24 | 2023-03-18 |
 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 | 2023-02-24 | 2023-04-07 |
 | [Bad Boy!](https://open.spotify.com/track/2RlinrCj73yZ731f2zerOq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Bad Boy!](https://open.spotify.com/album/065coPus7A27Bk6nTD0Pqa) | 2:45 | 2023-11-09 | 2024-01-26 |
@@ -297,7 +298,7 @@
 | [Love Like This](https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Love Like This](https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7) | 2:53 | 2023-07-21 | 2023-10-13 |
 | [Love Myself Instead](https://open.spotify.com/track/5bCcGYOhitThd1TcVzLI04) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [Love Myself Instead](https://open.spotify.com/album/1RBPuehtgS8FzuqVuk18qN) | 3:36 | 2024-03-21 |  |
 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-02-22 |  |
-| [Love Should Be Easy](https://open.spotify.com/track/0IjKMUZhLXpypvK4jI0rrO) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/48VXJ1UcddBS5dYoRewoRn) | 3:22 | 2023-11-07 |  |
+| [Love Should Be Easy](https://open.spotify.com/track/0IjKMUZhLXpypvK4jI0rrO) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/48VXJ1UcddBS5dYoRewoRn) | 3:22 | 2023-11-07 | 2024-03-26 |
 | [Love Situation \(911\)](https://open.spotify.com/track/1s4FnYPkihRFSzyfCNlRXb) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [And So It Begins](https://open.spotify.com/album/6nxKx36eNYHiy2IHos6bQD) | 2:42 | 2023-12-14 |  |
 | [Loved By You](https://open.spotify.com/track/5MFUxQJGj5KrcCX6Gnphgh) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stellaria](https://open.spotify.com/album/5UHVVt48bKChmsZNguXZIu) | 2:58 | 2023-10-12 | 2024-01-13 |
 | [Ma Place](https://open.spotify.com/track/63ssPpPDPiwnCObV9LaN4P) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Ma Place](https://open.spotify.com/album/1DzHMon7ERaE23QVJOP7qK) | 2:41 | 2023-02-24 | 2023-04-14 |
@@ -509,6 +510,7 @@
 | [Who Do I Call Now? \(Hellbent\)](https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Who Do I Call Now? \(Hellbent\)](https://open.spotify.com/album/1Wg1RWT3tsei388hlJUUEG) | 3:10 | 2024-03-14 |  |
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-13 | 2023-05-24 |
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-05-18 | 2023-07-28 |
+| [WOW!](https://open.spotify.com/track/2ncvbvkVzRqy2xjvge55r0) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [WOW!](https://open.spotify.com/album/36z6FDQ2tT2GTIoFSPeplG) | 2:52 | 2024-03-25 |  |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-12 |  |
 | [You & I](https://open.spotify.com/track/1CxL4oRSsY0wOQ5DYE8329) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You & I](https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX) | 3:00 | 2023-11-02 | 2023-11-10 |
 | [You & I](https://open.spotify.com/track/1EuWkVH5tfxmvVNGVnNu1Y) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You & I](https://open.spotify.com/album/5sXGarr3y9MdqxnO8MFlGz) | 3:00 | 2023-07-21 | 2023-11-04 |

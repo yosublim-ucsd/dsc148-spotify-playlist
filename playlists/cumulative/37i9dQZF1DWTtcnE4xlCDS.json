@@ -57,6 +57,36 @@
     },
     {
       "album": {
+        "name": "AHOCHAUMON",
+        "url": "https://open.spotify.com/album/072ulVH4B1jPIwH2Lfw9ip"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Ema Toramaru(CV:Livo)",
+          "url": "https://open.spotify.com/artist/7iXpUfIHuEmYA4KJRsa6U1"
+        },
+        {
+          "name": "Neri Amemura(CV:Noa)",
+          "url": "https://open.spotify.com/artist/1TjKP4MnolLxJoNYVOdzNj"
+        },
+        {
+          "name": "Momoko Shoji(CV:Mone)",
+          "url": "https://open.spotify.com/artist/15LoBou1qK3BPd0RaQk1Vr"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190615,
+      "name": "AHOCHAUMON",
+      "url": "https://open.spotify.com/track/5xHXOrigmr3KRLUX94Jgnf"
+    },
+    {
+      "album": {
         "name": "AKIBA 20XX",
         "url": "https://open.spotify.com/album/0mAeUV8x6FRanPOMnvmvyf"
       },

@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 68627,
+  "2024-03-26": 68629,
   "date_first_scraped": "2022-11-05",
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
   "name": "This Is Iggy Pop",
@@ -21,6 +21,24 @@
       "duration_ms": 269324,
       "name": "All The Way Down",
       "url": "https://open.spotify.com/track/3jtj4d3J255nvdEu6vKUK1"
+    },
+    {
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205721,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/1ISckPYj9zSrjGv3oES9iw"
     },
     {
       "album": {
@@ -857,7 +875,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 313925,
       "name": "Lust For Life",
       "url": "https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2023-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 62567,
       "name": "My Animus (Interlude)",
       "url": "https://open.spotify.com/track/0fwyr7AWGLlUgQbu4jTnY4"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 205280,
       "name": "Neighborhood Threat",
       "url": "https://open.spotify.com/track/0pBBiZIVHbcmHbwacGGLhR"

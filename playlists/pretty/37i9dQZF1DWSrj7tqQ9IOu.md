@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Yoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,741 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,751 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [État Second](https://open.spotify.com/track/3vfyPt0SKeXtMihNyCWkro) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu), [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [État Second](https://open.spotify.com/album/00OalELdQ0354UGLibwlZn) | 3:06 |
 | 50 | [Blinds](https://open.spotify.com/track/5heIFh4Abh0PfvoFviNuc5) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [Blinds](https://open.spotify.com/album/5n40ewDmIxFxsBFTSHyQh8) | 2:45 |
 
-Snapshot ID: `MCw0ZmJkNmE5NDU1YzA5MGQ5NjBlMTJmOTYzZWFkZTYwZjlmMTcwMGUz`
+Snapshot ID: `MCwxZjI0ZTMxZmFlNGVlYThmNDAwMzY3NWIzNDYxZTkyYjI4Y2Y5OWUw`

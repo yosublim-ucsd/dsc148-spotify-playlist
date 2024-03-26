@@ -1,12 +1,12 @@
 {
   "description": "Latin gems you absolutely need to hear. Save them before they're gone!",
-  "num_followers": 1958,
+  "num_followers": 1970,
   "original_name": "Songs You Should Save",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDY0MDQ3ZWUyZDBhN2I4YzdkZDRhOGM3M2VmOWU4MzhiODg4ZTEx",
+  "snapshot_id": "MCwxYzg5MTMwYTNiNjU2MjAzYTgxNzY3NWI3ZDNiY2YyMWQ5ZGVkZmE3",
   "tracks": [
     {
       "added_at": "2024-03-22 15:48:42",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-03-22 15:48:42",
       "album": {
+        "name": "Coraz\u00f3n de Piedra",
+        "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 193568,
+      "name": "Coraz\u00f3n de Piedra",
+      "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
+    },
+    {
+      "added_at": "2024-03-22 15:48:42",
+      "album": {
         "name": "Qu\u00e9date Beb\u00e9",
         "url": "https://open.spotify.com/album/5IpeeI5aICYo606fLh24jG"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 145000,
       "name": "curita",
       "url": "https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft"
-    },
-    {
-      "added_at": "2024-03-22 15:48:42",
-      "album": {
-        "name": "Coraz\u00f3n de Piedra",
-        "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 193568,
-      "name": "Coraz\u00f3n de Piedra",
-      "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
     },
     {
       "added_at": "2024-03-22 15:48:42",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-03-22 15:48:42",
       "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+    },
+    {
+      "added_at": "2024-03-22 15:48:42",
+      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 194941,
       "name": "Sigo Enamorau'",
       "url": "https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98"
-    },
-    {
-      "added_at": "2024-03-22 15:48:42",
-      "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-03-22 15:48:42",
@@ -347,26 +347,6 @@
     {
       "added_at": "2024-03-22 15:48:42",
       "album": {
-        "name": "Se\u00f1orita (Remix)",
-        "url": "https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT"
-      },
-      "artists": [
-        {
-          "name": "Jean Pi",
-          "url": "https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK"
-        },
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 181591,
-      "name": "Se\u00f1orita - Remix",
-      "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
-    },
-    {
-      "added_at": "2024-03-22 15:48:42",
-      "album": {
         "name": "KTM",
         "url": "https://open.spotify.com/album/4tLv0V8sA8pwzlOBwGJgcF"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 366760,
       "name": "KTM",
       "url": "https://open.spotify.com/track/3EPIt4FqsVQLM48HozrcFr"
+    },
+    {
+      "added_at": "2024-03-22 15:48:42",
+      "album": {
+        "name": "Se\u00f1orita (Remix)",
+        "url": "https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT"
+      },
+      "artists": [
+        {
+          "name": "Jean Pi",
+          "url": "https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 181591,
+      "name": "Se\u00f1orita - Remix",
+      "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
     },
     {
       "added_at": "2024-03-22 15:48:42",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-03-22 15:48:42",
       "album": {
+        "name": "Cero condiciones",
+        "url": "https://open.spotify.com/album/5ibayOsl6yLK6WNIGNP7e1"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "Cero condiciones",
+      "url": "https://open.spotify.com/track/7IUYqO7R6U71VIcaFdTs5m"
+    },
+    {
+      "added_at": "2024-03-22 15:48:42",
+      "album": {
         "name": "roadhead",
         "url": "https://open.spotify.com/album/78gARamOGVuP4BfkPTfvx7"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 144260,
       "name": "ALMA</3",
       "url": "https://open.spotify.com/track/1Mq86WnX64KKQoCuIaXT1t"
-    },
-    {
-      "added_at": "2024-03-22 15:48:42",
-      "album": {
-        "name": "Cero condiciones",
-        "url": "https://open.spotify.com/album/5ibayOsl6yLK6WNIGNP7e1"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "Cero condiciones",
-      "url": "https://open.spotify.com/track/7IUYqO7R6U71VIcaFdTs5m"
     },
     {
       "added_at": "2024-03-22 15:48:42",

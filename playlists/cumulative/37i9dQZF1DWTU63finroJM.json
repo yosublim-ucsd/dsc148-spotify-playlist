@@ -4520,7 +4520,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 203702,
       "name": "daughter",
       "url": "https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ"
@@ -21050,6 +21050,28 @@
       "duration_ms": 201865,
       "name": "Will You Be My Love ~ \u554f\u554f - WBL\u7cfb\u5217\u5f71\u96c6\u7b2c\u4e00\u5b63<\u6c38\u9060\u7684\u7b2c\u4e00\u540d>\u7247\u982d\u66f2",
       "url": "https://open.spotify.com/track/22AmTAbvl3IjUodDT3JInW"
+    },
+    {
+      "album": {
+        "name": "Wind",
+        "url": "https://open.spotify.com/album/5hkOTZ6DIF7ywDsXSnkI6H"
+      },
+      "artists": [
+        {
+          "name": "Jawnino",
+          "url": "https://open.spotify.com/artist/0nnECIkl6LBEbZdov3nTEj"
+        },
+        {
+          "name": "Cold",
+          "url": "https://open.spotify.com/artist/19M16Pbk613BUHKwOEilfv"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186550,
+      "name": "Wind",
+      "url": "https://open.spotify.com/track/1nUQzkNDpCd4eNi2md8pHC"
     },
     {
       "album": {

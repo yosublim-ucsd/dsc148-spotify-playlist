@@ -1,12 +1,12 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 99542,
+  "num_followers": 99722,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDkzZWEzZTI5MTgyZjA4Y2ExNzFhMzU4ODZlMzBiMDU2MWNkMDkw",
+  "snapshot_id": "MCw4ZjJhYjQyOWRjOTIxNGIzZDJlMWEzM2VmODA4YjUxOTY3NjViMGVk",
   "tracks": [
     {
       "added_at": "2024-01-15 23:19:54",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-01-15 23:19:54",
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+    },
+    {
+      "added_at": "2024-01-15 23:19:54",
+      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": "2024-01-15 23:19:54",
       "album": {
-        "name": "Outlandos D'Amour (Remastered 2003)",
-        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Roxanne",
-      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
-    },
-    {
-      "added_at": "2024-01-15 23:19:54",
-      "album": {
         "name": "Stone Cold Killer",
         "url": "https://open.spotify.com/album/513s8ALXQ5VxaIYNXTUKUb"
       },
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-01-15 23:19:54",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2024-01-15 23:19:54",
-      "album": {
         "name": "I Love Rock 'N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 175173,
       "name": "I Love Rock 'N Roll",
       "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
+    },
+    {
+      "added_at": "2024-01-15 23:19:54",
+      "album": {
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
     },
     {
       "added_at": "2024-01-15 23:19:54",
@@ -231,6 +231,22 @@
       "duration_ms": 146250,
       "name": "Immigrant Song - Remaster",
       "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
+    },
+    {
+      "added_at": "2024-01-15 23:19:54",
+      "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "T.N.T.",
+      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
     },
     {
       "added_at": "2024-01-15 23:19:54",
@@ -299,22 +315,6 @@
     {
       "added_at": "2024-01-15 23:19:54",
       "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "Walk This Way",
-      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
-    },
-    {
-      "added_at": "2024-01-15 23:19:54",
-      "album": {
         "name": "Tres Hombres (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
       },
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-01-15 23:19:54",
       "album": {
-        "name": "High Voltage",
-        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
       "artists": [
         {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 214666,
-      "name": "T.N.T.",
-      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
     },
     {
       "added_at": "2024-01-15 23:19:54",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-01-15 23:19:54",
       "album": {
-        "name": "Superunknown (20th Anniversary)",
-        "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 246920,
-      "name": "Spoonman",
-      "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
-    },
-    {
-      "added_at": "2024-01-15 23:19:54",
-      "album": {
         "name": "Distant Light (1999 Remaster)",
         "url": "https://open.spotify.com/album/6b5osVLAcVTBvnqwDaPV4w"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 199200,
       "name": "Long Cool Woman (In a Black Dress) - 1999 Remaster",
       "url": "https://open.spotify.com/track/5UwbnHhjnbinJH8TefuQfN"
+    },
+    {
+      "added_at": "2024-01-15 23:19:54",
+      "album": {
+        "name": "Superunknown (20th Anniversary)",
+        "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 246920,
+      "name": "Spoonman",
+      "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
     },
     {
       "added_at": "2024-01-15 23:19:54",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-01-15 23:19:54",
       "album": {
+        "name": "The Second",
+        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "Magic Carpet Ride",
+      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
+    },
+    {
+      "added_at": "2024-01-15 23:19:54",
+      "album": {
         "name": "In The Heat Of The Night",
         "url": "https://open.spotify.com/album/3QtcoigGc0KKzE6mVAkFfY"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 198906,
       "name": "Youth Gone Wild",
       "url": "https://open.spotify.com/track/37Vzad7uGm0I9zJIFXlT4b"
-    },
-    {
-      "added_at": "2024-01-15 23:19:54",
-      "album": {
-        "name": "The Second",
-        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "Magic Carpet Ride",
-      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
     },
     {
       "added_at": "2024-01-15 23:19:54",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-01-15 23:19:54",
       "album": {
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 438120,
+      "name": "Fear of the Dark (2015 Remaster)",
+      "url": "https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt"
+    },
+    {
+      "added_at": "2024-01-15 23:19:54",
+      "album": {
         "name": "Between the Devil & the Deep Blue Sea (Special Edition)",
         "url": "https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H"
       },
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2024-01-15 23:19:54",
       "album": {
-        "name": "Fear of the Dark (2015 Remaster)",
-        "url": "https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 438120,
-      "name": "Fear of the Dark (2015 Remaster)",
-      "url": "https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt"
-    },
-    {
-      "added_at": "2024-01-15 23:19:54",
-      "album": {
         "name": "The Essential Cheap Trick",
         "url": "https://open.spotify.com/album/37P9MBdJRekfOIbPSX9alR"
       },
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-01-15 23:19:54",
       "album": {
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "Flight of Icarus (2015 Remaster)",
+      "url": "https://open.spotify.com/track/3OmdRcmtINXx1JP9Km7W9H"
+    },
+    {
+      "added_at": "2024-01-15 23:19:54",
+      "album": {
         "name": "Whitesnake (30th Anniversary Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/0aaGy4xNDYJ1QLllH7mSNp"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 202066,
       "name": "Generator",
       "url": "https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4"
-    },
-    {
-      "added_at": "2024-01-15 23:19:54",
-      "album": {
-        "name": "Piece of Mind (2015 Remaster)",
-        "url": "https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "Flight of Icarus (2015 Remaster)",
-      "url": "https://open.spotify.com/track/3OmdRcmtINXx1JP9Km7W9H"
     },
     {
       "added_at": "2024-01-15 23:19:54",

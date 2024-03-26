@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 213068,
+  "num_followers": 213268,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmYyOTRlY2I2YzBhMjU2YTc2ZTU1MjY4ZGE1NGI4MGZiNTAwYWM5",
+  "snapshot_id": "MCxkMGVmNmE0NTEzMzg5OTNjOWFlNDUyMjE2OWI3YjZhM2FiZTZmMGU4",
   "tracks": [
     {
       "added_at": "2024-02-07 18:19:28",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Alison",
-      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "Loveless",
         "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 251933,
       "name": "When You Sleep",
       "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Alison",
+      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "And Then Nothing Turned Itself Inside-Out",
-        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 276640,
-      "name": "You Can Have It All",
-      "url": "https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "It's A Wonderful Life",
         "url": "https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 295013,
       "name": "Roadrunner (Alternative Version)",
       "url": "https://open.spotify.com/track/0qRSrdDK4xj1doRViNPYwM"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "And Then Nothing Turned Itself Inside-Out",
+        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 276640,
+      "name": "You Can Have It All",
+      "url": "https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Supergrass",
-        "url": "https://open.spotify.com/album/3XNEqXHHt9KIT2vOPfwx5m"
+        "name": "March 16-20, 1992",
+        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
       },
       "artists": [
         {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+          "name": "Uncle Tupelo",
+          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
         }
       ],
-      "duration_ms": 266800,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/5lkCsbgamJJF2APdUVf27A"
+      "duration_ms": 223640,
+      "name": "Sandusky",
+      "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
     }
   ],
   "unique_name": "Thrifted",

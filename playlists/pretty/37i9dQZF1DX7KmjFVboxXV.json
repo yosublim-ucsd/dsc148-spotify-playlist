@@ -1,12 +1,12 @@
 {
   "description": "Love whoever you want to love. ",
-  "num_followers": 90738,
+  "num_followers": 90992,
   "original_name": "Queer Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWM0MWNkZjI4MzkwN2MyZGIwNjEyNmIyNzA0MDU1NzI3MGQ1OGEy",
+  "snapshot_id": "MCxkMWM4YjJiZDI1ODg0NDczN2Q3NGI1MzBhZjFkNmI4MjQwYjc3MGVh",
   "tracks": [
     {
       "added_at": "2024-02-08 23:31:20",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-02-08 23:31:20",
       "album": {
+        "name": "girls",
+        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "girls",
+      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
+    },
+    {
+      "added_at": "2024-02-08 23:31:20",
+      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 206586,
       "name": "Silk Chiffon",
       "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
-    },
-    {
-      "added_at": "2024-02-08 23:31:20",
-      "album": {
-        "name": "girls",
-        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "girls",
-      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
     },
     {
       "added_at": "2024-02-08 23:31:20",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-220 songs - 10 hr 53 min
+222 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 | 2024-02-27 | 2024-03-02 |
 | [ARABA](https://open.spotify.com/track/5tjWDHOCqsbKPuiivil0BM) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ARABA](https://open.spotify.com/album/6qk5ajwfXB8QplASyF7lXH) | 2:13 | 2024-01-30 | 2024-02-09 |
 | [Auf zum Après Ski](https://open.spotify.com/track/0VZwMxEWzsB1cwuZmBOdUj) | [Der Partycrasher](https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf) | [Auf zum Après Ski](https://open.spotify.com/album/477vKzPQAO1fCKl7k1TPto) | 2:57 | 2024-02-13 | 2024-03-13 |
+| [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-25 |  |
 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-02-19 | 2024-03-25 |
 | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296) | 2:13 | 2024-01-29 | 2024-02-21 |
 | [Bandit](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 | 2024-02-20 | 2024-02-23 |
@@ -185,7 +186,7 @@
 | [SET ME FREE](https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [SET ME FREE](https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW) | 2:58 | 2024-01-30 | 2024-02-01 |
 | [She Know What She Wanted \- Jersey Club Remix Slowed](https://open.spotify.com/track/4ZTYSM6nsWjVAqf9BOY7qU) | [Godard](https://open.spotify.com/artist/4n1rqkv1XAMV9cnTSm07pY), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [She Know What She Wanted \(Jersey Club Remix Slowed\)](https://open.spotify.com/album/3ZdBBKZ7ExFWy1SsXTybEb) | 2:13 | 2024-03-19 |  |
 | [She Likes a Boy](https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [She Likes a Boy](https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv) | 2:09 | 2024-02-02 | 2024-02-21 |
-| [Situationship](https://open.spotify.com/track/7F5qS2hnmou4xb3IZf4Fmd) | [Jacob Elias](https://open.spotify.com/artist/7yFe9di9kWKJyz47OXSFvR) | [Situationship](https://open.spotify.com/album/74lT3gaRR3Lxmg85KfRJoE) | 3:09 | 2024-01-29 |  |
+| [Situationship](https://open.spotify.com/track/7F5qS2hnmou4xb3IZf4Fmd) | [Jacob Elias](https://open.spotify.com/artist/7yFe9di9kWKJyz47OXSFvR) | [Situationship](https://open.spotify.com/album/74lT3gaRR3Lxmg85KfRJoE) | 3:09 | 2024-01-29 | 2024-03-26 |
 | [Slow Dancing](https://open.spotify.com/track/1PEwRh4WQ3R1SvbxMNRAz6) | [BOY LOCO](https://open.spotify.com/artist/6VemVOal7ebbuYJZSSCPvX) | [Slow Dancing](https://open.spotify.com/album/57sBpryLVCsYI9HyQuuSEd) | 3:20 | 2024-03-19 | 2024-03-25 |
 | [Soaked](https://open.spotify.com/track/3nGIGnJd7jFZaPFdfyQLF2) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/3KlEcBtJhRhsqC13wbASjd) | 2:59 | 2024-02-01 | 2024-02-08 |
 | [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 | 2024-02-07 | 2024-03-20 |
@@ -210,6 +211,7 @@
 | [TUTA GOLD](https://open.spotify.com/track/371l4ekF9cDC2D5WuuabU6) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [NEI LETTI DEGLI ALTRI](https://open.spotify.com/album/5uYRRiyE4BsOIIeu3y1o1F) | 2:58 | 2024-02-27 | 2024-03-08 |
 | [Unterwegs](https://open.spotify.com/track/2IXYCofJeVgh5r2y0JXOMN) | [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x), [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [Unterwegs](https://open.spotify.com/album/0YLHd9ODNz4Ym6s0puZhZm) | 3:00 | 2024-02-20 | 2024-03-20 |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-01-29 | 2024-03-25 |
+| [UP!](https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [UP!](https://open.spotify.com/album/2WoIZTbS7s8uNtRf9G6QOP) | 2:16 | 2024-03-25 |  |
 | [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 | 2024-02-13 | 2024-02-19 |
 | [Vecera \- Live](https://open.spotify.com/track/4cWghVtLNhLS9AN1L2AwHi) | [Zorana Mićanović](https://open.spotify.com/artist/1c8braZzQ5j4VKr4RmQOaA) | [Kafansko vece \(Live\)](https://open.spotify.com/album/1FrtUkCnF8yj3ESb3RWmCq) | 4:00 | 2024-03-24 |  |
 | [Verliebt](https://open.spotify.com/track/0k0LF4jnMrZKIVdnmduOei) | [Arkan](https://open.spotify.com/artist/2cr1yLhEpDBjgc7o4dn2vH) | [Verliebt](https://open.spotify.com/album/6u6IUF74zUEDbyuLV23jn4) | 1:56 | 2024-02-20 |  |

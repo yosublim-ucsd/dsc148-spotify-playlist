@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 50588,
+  "num_followers": 50609,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2JlZWMwOTg2NzU2OGU3NGU0NWQ2MTI2ZjcxOGI2NTVmZWFmNDFi",
+  "snapshot_id": "MCw0YmJlY2RlYzc2YmFlYjUxZWI2NmUyZjcwZDBhN2YxYzhhMDAzNmI4",
   "tracks": [
     {
       "added_at": "2024-03-22 03:01:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "FUTURE",
-        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
         "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 161041,
       "name": "DOGTOOTH",
       "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -423,6 +423,26 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "From The D 2 The LBC (with Snoop Dogg)",
+        "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 215120,
+      "name": "From The D 2 The LBC (with Snoop Dogg)",
+      "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "Cash In Cash Out",
         "url": "https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 216135,
       "name": "Cash In Cash Out",
       "url": "https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "From The D 2 The LBC (with Snoop Dogg)",
-        "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 215120,
-      "name": "From The D 2 The LBC (with Snoop Dogg)",
-      "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "RIOT (Rowdy Pipe'n)",
-        "url": "https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 189011,
-      "name": "RIOT (Rowdy Pipe'n)",
-      "url": "https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "The Love Album: Off The Grid",
         "url": "https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1"
       },
@@ -859,22 +839,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "late at night",
-        "url": "https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 174682,
-      "name": "late at night",
-      "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Tyler Herro",
         "url": "https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe"
       },
@@ -887,6 +851,42 @@
       "duration_ms": 156497,
       "name": "Tyler Herro",
       "url": "https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "RIOT (Rowdy Pipe'n)",
+        "url": "https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 189011,
+      "name": "RIOT (Rowdy Pipe'n)",
+      "url": "https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "late at night",
+        "url": "https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 174682,
+      "name": "late at night",
+      "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "Good Job",
+        "url": "https://open.spotify.com/album/45AcY6DFGCp9wYlAIu2Itu"
+      },
+      "artists": [
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Thug Till It's Over",
+      "url": "https://open.spotify.com/track/41vSsnP46DpUZC0YoNyk3U"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "I Know NIGO!",
         "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 174862,
       "name": "Lost and Found Freestyle 2019 (with Tyler, The Creator & Nigo)",
       "url": "https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "Good Job",
-        "url": "https://open.spotify.com/album/45AcY6DFGCp9wYlAIu2Itu"
-      },
-      "artists": [
-        {
-          "name": "Cookin Soul",
-          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Thug Till It's Over",
-      "url": "https://open.spotify.com/track/41vSsnP46DpUZC0YoNyk3U"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "Walkin",
+        "url": "https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 280004,
+      "name": "Walkin",
+      "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "MAGIC",
         "url": "https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u"
       },
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Walkin",
-        "url": "https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 280004,
-      "name": "Walkin",
-      "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Art Official Intelligence: Mosaic Thump",
         "url": "https://open.spotify.com/album/4SdFt1Q5HSQIk4lxPgjaPM"
       },
@@ -1655,22 +1655,6 @@
       "duration_ms": 299008,
       "name": "All Good?",
       "url": "https://open.spotify.com/track/6Epbp3MOBM6UnFHyJokEAI"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "luvu222",
-        "url": "https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5"
-      },
-      "artists": [
-        {
-          "name": "Moko",
-          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
-        }
-      ],
-      "duration_ms": 110571,
-      "name": "luvu222",
-      "url": "https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1711,6 +1695,22 @@
       "duration_ms": 239954,
       "name": "Insomniak (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/0qdSK9Nr5OAvWzPA5OHxw7"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "luvu222",
+        "url": "https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "duration_ms": 110571,
+      "name": "luvu222",
+      "url": "https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "Stakes Is High",
+        "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 330408,
+      "name": "Stakes Is High",
+      "url": "https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "RAMONA PARK BROKE MY HEART",
         "url": "https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 179674,
       "name": "LEMONADE",
       "url": "https://open.spotify.com/track/5Z3mR4zAX4K3krt4JAOpmx"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "Stakes Is High",
-        "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 330408,
-      "name": "Stakes Is High",
-      "url": "https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Magic 2",
-        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 232017,
-      "name": "Office Hours (feat. 50 Cent)",
-      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "moMINTs",
         "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
       },
@@ -1927,6 +1907,26 @@
       "duration_ms": 204000,
       "name": "LORD FORGIVE ME",
       "url": "https://open.spotify.com/track/3KVS5CzCxsfQ4iZcOpD7xk"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Magic 2",
+        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 232017,
+      "name": "Office Hours (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -2075,26 +2075,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "USEE4YOURSELF",
-        "url": "https://open.spotify.com/album/1aOVW07qHIiMe3f3HKXo8r"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 172105,
-      "name": "Shoot My Shot",
-      "url": "https://open.spotify.com/track/4xJQDZxCjAJdemvWoBR9nL"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Therapy pt. 2 [Feat. Mac Miller]",
         "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
       },
@@ -2127,6 +2107,26 @@
       "duration_ms": 167724,
       "name": "Michael & Quincy",
       "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "USEE4YOURSELF",
+        "url": "https://open.spotify.com/album/1aOVW07qHIiMe3f3HKXo8r"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 172105,
+      "name": "Shoot My Shot",
+      "url": "https://open.spotify.com/track/4xJQDZxCjAJdemvWoBR9nL"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "MICHAEL (Deluxe)",
-        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 177814,
-      "name": "YES!",
-      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "De La Soul is Dead",
         "url": "https://open.spotify.com/album/5F3GEttPPR58Gg15BKUsTd"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 242006,
       "name": "A Roller Skating Jam Named \"Saturdays\"",
       "url": "https://open.spotify.com/track/1ihXWWbKNIrb7S7ERA6Qcb"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "MICHAEL (Deluxe)",
+        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "YES!",
+      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
     },
     {
       "added_at": "2024-03-22 03:01:00",

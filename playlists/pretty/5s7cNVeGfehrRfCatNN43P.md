@@ -4,24 +4,27 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,642 likes - 15 songs - 45 min 24 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,643 likes - 18 songs - 54 min 21 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [hejhejdå](https://open.spotify.com/track/7bE0VqZMz2Z2GolmkYP2Fp) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [hejhejdå](https://open.spotify.com/album/33VuLAoQ9pfnD9zAKiqpd0) | 2:52 |
-| 2 | [MF Diamond](https://open.spotify.com/track/0IrKiuLgqn0OKgpc946yWG) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [MF Diamond](https://open.spotify.com/album/5ADnPZHWItRHANWoJRRcZl) | 2:47 |
-| 3 | [Bedroom](https://open.spotify.com/track/69YHtfaUIALrmuDgjE3FnW) | [RebMoe](https://open.spotify.com/artist/1DNFG0VEHD2Vk5ESUEPuOM) | [Bedroom](https://open.spotify.com/album/1qPCeXswfuWuEoMOpI52W5) | 2:15 |
-| 4 | [Push N Shuv](https://open.spotify.com/track/08KP4FEV1JZUQu8ZL2Uru9) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Push N Shuv](https://open.spotify.com/album/4NqFASjab96Rtmtu2vCcRR) | 3:31 |
-| 5 | [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 |
-| 6 | [HATE YOUR GUTS](https://open.spotify.com/track/6x3VbkjJpLygkueOL604cz) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [HATE YOUR GUTS](https://open.spotify.com/album/0wOwIIsyCvsviyZVMyMkuW) | 2:36 |
-| 7 | [fantasi](https://open.spotify.com/track/22lFqIDQC18DvscXNPx33m) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [fantasi](https://open.spotify.com/album/2nKlPDiiH8pQQWJgw27EU6) | 3:38 |
-| 8 | [Die For You](https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Die For You](https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx) | 4:05 |
-| 9 | [It's not fair](https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [It's not fair](https://open.spotify.com/album/3qdOVGEaqhJHJBbd2qz6NP) | 2:42 |
-| 10 | [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 |
-| 11 | [Venus](https://open.spotify.com/track/44YpdyMbfzZngsdQLOXWke) | [Sophie Castillo](https://open.spotify.com/artist/4LoRVyF2R00cUR8q3oatMb) | [Venus](https://open.spotify.com/album/5lpTnlG7QonLGrAkrae0d5) | 3:08 |
-| 12 | [boomerang](https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [boomerang](https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD) | 2:18 |
-| 13 | [Unfinished Business](https://open.spotify.com/track/15AMGNS7cN4zBtTafqZe7c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Unfinished Business](https://open.spotify.com/album/7jsXqctphtpjxSyprnVlNf) | 3:16 |
-| 14 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 |
-| 15 | [CHROMA 002 L.A.V.A](https://open.spotify.com/track/53U1tJGUPNaTUfOqoAsbVx) | [B.D.B](https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Benjamin Damage](https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT) | [CHROMA 002](https://open.spotify.com/album/1iWBYSVDon9oIE7Tn4M0mw) | 4:09 |
+| 1 | [Amore](https://open.spotify.com/track/6piTiR6csQEAq4LNIVGVnG) | [Revenge Wife](https://open.spotify.com/artist/25ze27QLJJPQewxTzQjKlT) | [Amore](https://open.spotify.com/album/7GNaA295QF6JlW40DPzfPU) | 2:33 |
+| 2 | [The Lost Ones](https://open.spotify.com/track/1AbpcaXytcVYnTeWg74Wuu) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [The Lost Ones](https://open.spotify.com/album/1CnKBGgQ9zHLNU3JBXJ2OK) | 3:41 |
+| 3 | [Zodiac](https://open.spotify.com/track/5IsJtIM3On4BNkSujt4A2c) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Young In Love](https://open.spotify.com/album/12XZSKFp45paJp1t0faWg3) | 3:13 |
+| 4 | [WOW!](https://open.spotify.com/track/2ncvbvkVzRqy2xjvge55r0) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [WOW!](https://open.spotify.com/album/36z6FDQ2tT2GTIoFSPeplG) | 2:52 |
+| 5 | [Cheerleader](https://open.spotify.com/track/779mhz1mAry946r91qzR1r) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Cheerleader](https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI) | 3:57 |
+| 6 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
+| 7 | [Lorelei](https://open.spotify.com/track/08fcIMIo6tXMHm0UbqVdvQ) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 3:00 |
+| 8 | [Closer](https://open.spotify.com/track/1VTWCauhhZ23hDHMjsVCWb) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Closer](https://open.spotify.com/album/1AqR0VZf6nkCN4c9sNXSoO) | 3:18 |
+| 9 | [Crush Me Up](https://open.spotify.com/track/6YFEYclecVFUsvZ4dKoqjh) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Crush Me Up](https://open.spotify.com/album/4iwkw4bGIapRyVEc0WzwBm) | 2:30 |
+| 10 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 |
+| 11 | [Team Side Feat\. RCB](https://open.spotify.com/track/4YHA0wXklru86h1N211Ywh) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Team Side Feat\. RCB](https://open.spotify.com/album/6bxJPyjZuWGRxE825Wy2wk) | 3:00 |
+| 12 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 |
+| 13 | [Interplanetary Signs](https://open.spotify.com/track/5MckTODaQ7hJHlC0SyL8UY) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Interplanetary Signs](https://open.spotify.com/album/5pnhaPViIMq98HllJWMCde) | 3:14 |
+| 14 | [Saturnine](https://open.spotify.com/track/0czIop1Wsllu6wCktR633R) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Saturnine](https://open.spotify.com/album/6oz2tEohOFkesZAkr6jgeE) | 3:21 |
+| 15 | [Pretending](https://open.spotify.com/track/57mgEbIR86es2FBvQmxZ7t) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 3:02 |
+| 16 | [Some Type Of Skin](https://open.spotify.com/track/1OkgpvA7lh3Id5yLkIQo4K) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Some Type Of Skin](https://open.spotify.com/album/6t82nookih9vwtIrZsGQu5) | 3:12 |
+| 17 | [Nostalgia](https://open.spotify.com/track/3AgHs7svu3fb2d5NguwfXY) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt) | 2:44 |
+| 18 | [Electric](https://open.spotify.com/track/2T0dh7hiBM73mEFwUGSqMQ) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Electric](https://open.spotify.com/album/0p1JV81BhYbX8dQWuQVmvE) | 2:52 |
 
-Snapshot ID: `MjY5Miw2MDY1M2Y0OTVhMjM3NDIzMjBkZjc5OTdiMTFjOTQ3MmNmYzA0ZDlk`
+Snapshot ID: `MjY5NCw5OGFmYmI2OTdhMTU0NTNmMWQ1YzQxNDkzOTY4MzkxY2QyZDU4MTdl`

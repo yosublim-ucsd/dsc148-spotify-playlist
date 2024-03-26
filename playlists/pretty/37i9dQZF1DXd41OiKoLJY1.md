@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Tamara\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,446 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,451 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 61 | [Vans Girl](https://open.spotify.com/track/0G0VODSXicgNPBHPzZAn57) | [Jkey](https://open.spotify.com/artist/0iKx6KCKPA022Gu59vlNg2) | [Vans Girl](https://open.spotify.com/album/2Znu9Fbdxld7hqLn1g3TaP) | 3:08 |
 | 62 | [I'm Wrong](https://open.spotify.com/track/7pebHWXKUwybJKWD8LcavU) | [KRNA](https://open.spotify.com/artist/2MftvYgqbFb61tLmtRnybv) | [I'm Wrong](https://open.spotify.com/album/3tskRYWqYopzTKOES7QlR4) | 3:41 |
 | 63 | [BIGLA](https://open.spotify.com/track/5rNBHTQk2vts9joacuJo4g) | [Migz Haleco](https://open.spotify.com/artist/7wiOdGEiSTAOKZ3lxAvIsc) | [BIGLA](https://open.spotify.com/album/0cqorulK18WZlIwyRdfNew) | 3:35 |
-| 64 | [Himalaya](https://open.spotify.com/track/1jhphHo4u5Y4GkdfCgzQ2b) | [Kane Dy](https://open.spotify.com/artist/4zQa2yDDqEjT6uEBDPpLef) | [Himalaya](https://open.spotify.com/album/54tP9WKqdUHOWvSPcvfG3p) | 2:56 |
+| 64 | [Himalaya](https://open.spotify.com/track/1gNQJugTFx3So3OwgYXvci) | [Kane Dy](https://open.spotify.com/artist/4zQa2yDDqEjT6uEBDPpLef) | [Himalaya](https://open.spotify.com/album/0iElHblXaunOTCSHZZyH9X) | 2:56 |
 | 65 | [Seasons \(feat\. Sophia Mariz\)](https://open.spotify.com/track/4q738eitkP2cSO7ol8M8h7) | [Anj](https://open.spotify.com/artist/2FCofcDkDipKOWOKfKV95s) | [Seasons \(feat\. Sophia Mariz\)](https://open.spotify.com/album/7LDtE7jbYFmA6YlIyP1Dqw) | 4:40 |
 | 66 | [Pagusapan](https://open.spotify.com/track/3GjRmohKITQOCrPDa7Uh02) | [R.C](https://open.spotify.com/artist/2e3IrtOG2RAIxIe5Ng7utO) | [Pagusapan](https://open.spotify.com/album/7H8vFukPhrhfqQf8gJL0iN) | 3:47 |
 | 67 | [COLD HEARTED](https://open.spotify.com/track/7eCzq4NzYuE0fmjJTFUfYY) | [DEE FROM MANILA](https://open.spotify.com/artist/03dA13NMEDJi7QXwrxaUcq), [LilD](https://open.spotify.com/artist/0aP46vxM4W4zAKRhGeeaIq) | [COLD HEARTED](https://open.spotify.com/album/7jnK2Stk08xhlbAWqN3VH4) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Invidia](https://open.spotify.com/track/6eBwnqYEWwzop6CSO3FA37) | [Psycho Silver](https://open.spotify.com/artist/224DNZA7tA5jja0VQJrCA2) | [Invidia](https://open.spotify.com/album/7bXyJReeRkndxM0a42oUQo) | 5:01 |
 | 100 | [Blacked Out!](https://open.spotify.com/track/4Hv3dxwmMo6Ticy22hDAW3) | [KONSTANT](https://open.spotify.com/artist/2bkT5O6LfxfaPq829lVdZH) | [Blacked Out!](https://open.spotify.com/album/02tcprC9h8MJU4dhHHs2cU) | 2:47 |
 
-Snapshot ID: `MCw4ZWE3YjY1ZjlhOGMwZjMzZWQzNzdkZmI1MGQzMDBjN2VhNTNlYTRl`
+Snapshot ID: `MCw5MzFhZmJmYzM2MTUyZTlmOTg2N2JkY2Y2MzExM2RlODY0YmRiZjU3`

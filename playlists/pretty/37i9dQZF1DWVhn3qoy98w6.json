@@ -1,12 +1,12 @@
 {
   "description": "Solo artistas independientes, actualizada todos los mi\u00e9rcoles. Foto: VALENTINO.",
-  "num_followers": 12035,
+  "num_followers": 12044,
   "original_name": "Fresh Finds Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2M3NjcyNDhlZTI4MzZiZTM5ZGE4N2Q0NGNlMWIyNDA2ZTcxYjhh",
+  "snapshot_id": "MCxhZWMzM2E5MjRhYTllYzQzMTQwODc1ODJjOWY1ZmJkNzQ4NjE0NmFj",
   "tracks": [
     {
       "added_at": "2024-03-19 23:00:00",
@@ -47,6 +47,22 @@
     {
       "added_at": "2024-03-19 23:00:00",
       "album": {
+        "name": "\u00bfY si volvemos a vernos?",
+        "url": "https://open.spotify.com/album/0spZHf62MU06NXFfXuHQGB"
+      },
+      "artists": [
+        {
+          "name": "Anselmos",
+          "url": "https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO"
+        }
+      ],
+      "duration_ms": 133751,
+      "name": "\u00bfY si volvemos a vernos?",
+      "url": "https://open.spotify.com/track/25ipaPiwMJSwqJi43OMJV8"
+    },
+    {
+      "added_at": "2024-03-19 23:00:00",
+      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/1lKue1jVBIqOQ97rhSNLj7"
       },
@@ -79,38 +95,6 @@
       "duration_ms": 155775,
       "name": "Meu Cari\u00f1o",
       "url": "https://open.spotify.com/track/4UITA4ilKbjmekZ2Qys6OD"
-    },
-    {
-      "added_at": "2024-03-19 23:00:00",
-      "album": {
-        "name": "\u00bfY si volvemos a vernos?",
-        "url": "https://open.spotify.com/album/0spZHf62MU06NXFfXuHQGB"
-      },
-      "artists": [
-        {
-          "name": "Anselmos",
-          "url": "https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO"
-        }
-      ],
-      "duration_ms": 133751,
-      "name": "\u00bfY si volvemos a vernos?",
-      "url": "https://open.spotify.com/track/25ipaPiwMJSwqJi43OMJV8"
-    },
-    {
-      "added_at": "2024-03-19 23:00:00",
-      "album": {
-        "name": "Esku Burdin",
-        "url": "https://open.spotify.com/album/5Wc3INw8Ou9FgS3dtftoO6"
-      },
-      "artists": [
-        {
-          "name": "J Martina",
-          "url": "https://open.spotify.com/artist/2n5oKnRt4i2SfKUPw3sX8R"
-        }
-      ],
-      "duration_ms": 166215,
-      "name": "Esku Burdin",
-      "url": "https://open.spotify.com/track/2rjsK0psyIVOQWqzXselcQ"
     },
     {
       "added_at": "2024-03-19 23:00:00",

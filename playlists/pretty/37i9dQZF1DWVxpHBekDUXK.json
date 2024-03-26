@@ -1,12 +1,12 @@
 {
   "description": "When someone you love becomes a memory... find solace in these songs.",
-  "num_followers": 147882,
+  "num_followers": 147886,
   "original_name": "Coping With Loss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDdkOTQzOWU4NTRlZWE1MGJmNDg2NTRkNzVhZGNmYmY3OTg5NmNh",
+  "snapshot_id": "MCwyN2QyZDJlZjFlYzJhZTE0MGUxMDk5NjY0NWUwYWMxZDgwM2M3Yzk4",
   "tracks": [
     {
       "added_at": "2023-09-29 21:35:53",
@@ -123,26 +123,18 @@
     {
       "added_at": "2023-09-29 21:35:53",
       "album": {
-        "name": "Bad Boy's 10th Anniversary- The Hits",
-        "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
+        "name": "Sweet Baby James (2019 Remaster)",
+        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
       "artists": [
         {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        },
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 301520,
-      "name": "I'll Be Missing You (feat. Faith Evans, 112)",
-      "url": "https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF"
+      "duration_ms": 203613,
+      "name": "Fire and Rain - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
     },
     {
       "added_at": "2023-09-29 21:35:53",
@@ -163,18 +155,26 @@
     {
       "added_at": "2023-09-29 21:35:53",
       "album": {
-        "name": "Sweet Baby James (2019 Remaster)",
-        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
+        "name": "Bad Boy's 10th Anniversary- The Hits",
+        "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
       },
       "artists": [
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        },
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
         }
       ],
-      "duration_ms": 203613,
-      "name": "Fire and Rain - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
+      "duration_ms": 301520,
+      "name": "I'll Be Missing You (feat. Faith Evans, 112)",
+      "url": "https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF"
     },
     {
       "added_at": "2023-09-29 21:35:53",

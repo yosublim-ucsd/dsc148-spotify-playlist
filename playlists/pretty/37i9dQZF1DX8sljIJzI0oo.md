@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Santa Fe Klan is bringing the heat to Fuego\. Listen to all mixtapes <a href="spotify:genre:0JQ5DAqbMKFNhzOQgaEZ0b">HERE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,885,500 likes - 25 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,885,743 likes - 25 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 24 | [MARTILLAZO](https://open.spotify.com/track/283ngLR3LX6cdq9unM7MJ0) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [MARTILLAZO](https://open.spotify.com/album/1FX1f4X5yS0wlnItHjvhvo) | 2:38 |
 | 25 | [GODIVA](https://open.spotify.com/track/3DY25d8SrkLEI6Xugzf6tT) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [GODIVA](https://open.spotify.com/album/7vc6473A7yNq5PtNh6Zor9) | 3:39 |
 
-Snapshot ID: `MCxhZWZlY2YyNWI4YWYwZjg5OWY3YzJkMGRhZjJjZWY4M2I1MmNmODI2`
+Snapshot ID: `MCw2ZDdkN2JjMzg2MmI3ZDkyMDBkNDMzMGFjZGM0Y2U1YjYzYWU5YzRk`

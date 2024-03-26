@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Nicolle Galyon
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,491 likes - 221 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,513 likes - 221 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,4 +230,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 220 | [Wild Thing](https://open.spotify.com/track/0DS8J8nibBxG6Ky2VhMhH1) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Wild Thing](https://open.spotify.com/album/33RnkjYAI2ltETjA3EIAZI) | 2:42 |
 | 221 | [Play Ball](https://open.spotify.com/track/5CTDvtk1JHrGEygDfx5Dml) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:27 |
 
-Snapshot ID: `MCxiZjhmZjJkM2IwMWU2ODhlODY0NWJjMzZkNTUzYzQxYzBmMWI1ZWNi`
+Snapshot ID: `MCw0NTY5ZjdjZWRkZjEzNTc3MzE1M2Y4MTNkMzZiYmRhMmFkNGNjZGRk`

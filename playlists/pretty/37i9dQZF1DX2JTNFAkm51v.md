@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 【セットリスト公開】5/20\(土\)・21\(日\)、神戸メリケンパークにて開催される都市型音楽フェス<a href="https://kobe\-mellow\-cruise.com/">「KOBE MELLOW CRUISE」</a>の出演アーティストをピックアップ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,394 likes - 228 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,396 likes - 228 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,4 +237,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 227 | [BUDDY feat\. PUNPEE](https://open.spotify.com/track/6bMSF3fC1jVEhJr5h0riXq) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [The Beam](https://open.spotify.com/album/0NT8BKRHuR95nYb8M0Z3Gh) | 3:36 |
 | 228 | [Night Rider](https://open.spotify.com/track/0FnJ2EWTyl7QUQcDEbpN16) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Boyhood](https://open.spotify.com/album/6yhxG10zFkBXMIRfvveRE6) | 3:19 |
 
-Snapshot ID: `MCw4OGQzZGEyZTc0NzI2NWI5MDQwZjUxNzNhYWUzMmRlOWQ3MWRkMDgw`
+Snapshot ID: `MCw1NTQ3NmIxOTEzZjk4Y2VkOWYzOGYyZTA3MzAzM2MyOTQ5ZGIyZWI4`

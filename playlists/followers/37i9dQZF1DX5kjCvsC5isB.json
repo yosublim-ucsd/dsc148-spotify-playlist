@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 291871,
+  "2024-03-26": 291974,
   "date_first_scraped": "2021-12-21",
   "description": "Women who rock our world. Cover: The Last Dinner Party",
   "name": "Fierce Femmes",
@@ -781,7 +781,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 201400,
       "name": "Big Bite",
       "url": "https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY"
@@ -7923,6 +7923,24 @@
       "duration_ms": 192681,
       "name": "Worst Apology",
       "url": "https://open.spotify.com/track/0vPbHk9HyqldcOCOkBCwJr"
+    },
+    {
+      "album": {
+        "name": "Retrovision",
+        "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192681,
+      "name": "Worst Apology",
+      "url": "https://open.spotify.com/track/1EX0QsmFybon4jIGb5Q6Pl"
     },
     {
       "album": {

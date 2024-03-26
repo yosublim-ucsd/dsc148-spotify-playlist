@@ -1,12 +1,12 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : Jacques Brel",
-  "num_followers": 535874,
+  "num_followers": 535892,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjIwNmIxNGI1OGZlN2RlN2I4YWYxMjA1ZjIxNGY1YzUyZTYwYzQ1",
+  "snapshot_id": "MCxlN2I1NzViYjQzOTE3YWQ3Y2Y0NmM5NWFkOTIxMzhkOTQ3Yjc2YmNi",
   "tracks": [
     {
       "added_at": "2023-10-19 14:26:00",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/5MRyPM2k1lvwt3noWp0GXJ"
     },
     {
-      "added_at": "2024-03-22 19:37:47",
-      "album": {
-        "name": "Que c'est triste Venise (Remastered 2014)",
-        "url": "https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "duration_ms": 143466,
-      "name": "Hier encore",
-      "url": "https://open.spotify.com/track/4ciRwt5dGHKKm8Et8r1xJ0"
-    },
-    {
       "added_at": "2023-10-19 14:26:00",
       "album": {
         "name": "Les Champs-\u00c8lys\u00e9es",
@@ -119,6 +103,22 @@
       "duration_ms": 157626,
       "name": "Les Champs-Elys\u00e9es",
       "url": "https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz"
+    },
+    {
+      "added_at": "2024-03-22 19:37:47",
+      "album": {
+        "name": "Que c'est triste Venise (Remastered 2014)",
+        "url": "https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 143466,
+      "name": "Hier encore",
+      "url": "https://open.spotify.com/track/4ciRwt5dGHKKm8Et8r1xJ0"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -151,22 +151,6 @@
       "duration_ms": 195306,
       "name": "Une belle histoire",
       "url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V"
-    },
-    {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
-        "name": "Eternelle",
-        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 142280,
-      "name": "Non, je ne regrette rien",
-      "url": "https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -207,6 +191,22 @@
     {
       "added_at": "2023-10-19 14:26:00",
       "album": {
+        "name": "Eternelle",
+        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "Non, je ne regrette rien",
+      "url": "https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
         "name": "La Maladie D'Amour",
         "url": "https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf"
       },
@@ -219,38 +219,6 @@
       "duration_ms": 210186,
       "name": "La maladie d'amour",
       "url": "https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj"
-    },
-    {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
-        "name": "J'Arrive (Vol.12)",
-        "url": "https://open.spotify.com/album/75JBZy6ctvayGftnldYMzZ"
-      },
-      "artists": [
-        {
-          "name": "Jacques Brel",
-          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Vesoul",
-      "url": "https://open.spotify.com/track/2F94KDtJjCdzZYCQWBliRC"
-    },
-    {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
-        "name": "Entre deux r\u00eaves (Remastered 2014)",
-        "url": "https://open.spotify.com/album/40SP9TYF1IuC3JZ35glqwd"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "Emmenez-moi",
-      "url": "https://open.spotify.com/track/61Yh6AEwsba6RYsrWiNmI0"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -271,18 +239,18 @@
     {
       "added_at": "2023-10-19 14:26:00",
       "album": {
-        "name": "Eternelle",
-        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
+        "name": "J'Arrive (Vol.12)",
+        "url": "https://open.spotify.com/album/75JBZy6ctvayGftnldYMzZ"
       },
       "artists": [
         {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
         }
       ],
-      "duration_ms": 177106,
-      "name": "La Foule",
-      "url": "https://open.spotify.com/track/6cvIJ1zOcshUv0yCtcphaG"
+      "duration_ms": 186533,
+      "name": "Vesoul",
+      "url": "https://open.spotify.com/track/2F94KDtJjCdzZYCQWBliRC"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -299,6 +267,54 @@
       "duration_ms": 132533,
       "name": "Santiano",
       "url": "https://open.spotify.com/track/5xacwJHf9yLJKCn5JjSiRz"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
+        "name": "Entre deux r\u00eaves (Remastered 2014)",
+        "url": "https://open.spotify.com/album/40SP9TYF1IuC3JZ35glqwd"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "Emmenez-moi",
+      "url": "https://open.spotify.com/track/61Yh6AEwsba6RYsrWiNmI0"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
+        "name": "Les mots bleus",
+        "url": "https://open.spotify.com/album/07pa1E8vPhXBbKE0PJuLWb"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "duration_ms": 250613,
+      "name": "Les mots bleus",
+      "url": "https://open.spotify.com/track/1rCd7kvnOBmT4dYHwHychc"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
+        "name": "Eternelle",
+        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "La Foule",
+      "url": "https://open.spotify.com/track/6cvIJ1zOcshUv0yCtcphaG"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -331,38 +347,6 @@
       "duration_ms": 245493,
       "name": "Le p\u00e9nitencier",
       "url": "https://open.spotify.com/track/6phMPtxOkjdXR8ax9xoCJ9"
-    },
-    {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
-        "name": "Les mots bleus",
-        "url": "https://open.spotify.com/album/07pa1E8vPhXBbKE0PJuLWb"
-      },
-      "artists": [
-        {
-          "name": "Christophe",
-          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
-        }
-      ],
-      "duration_ms": 250613,
-      "name": "Les mots bleus",
-      "url": "https://open.spotify.com/track/1rCd7kvnOBmT4dYHwHychc"
-    },
-    {
-      "added_at": "2024-03-22 19:37:47",
-      "album": {
-        "name": "Que c'est triste Venise (Remastered 2014)",
-        "url": "https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "duration_ms": 157240,
-      "name": "Que c'est triste Venise",
-      "url": "https://open.spotify.com/track/5paHM9dgKmjUGy8n7HufaH"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -411,6 +395,22 @@
       "duration_ms": 192160,
       "name": "Douce France",
       "url": "https://open.spotify.com/track/6zlMAsPgiG81sZzsYVFwL3"
+    },
+    {
+      "added_at": "2024-03-22 19:37:47",
+      "album": {
+        "name": "Que c'est triste Venise (Remastered 2014)",
+        "url": "https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 157240,
+      "name": "Que c'est triste Venise",
+      "url": "https://open.spotify.com/track/5paHM9dgKmjUGy8n7HufaH"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-10-19 14:26:00",
       "album": {
-        "name": "Vu de l'ext\u00e9rieur",
-        "url": "https://open.spotify.com/album/0NACl36sqipY6OZXOqy1At"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "Je suis venu te dire que je m'en vais",
-      "url": "https://open.spotify.com/track/5cC9RZFMzrpbA9U1m4zSPm"
-    },
-    {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
         "name": "In\u00e9dits 1968-1998",
         "url": "https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj"
       },
@@ -587,22 +571,6 @@
       "duration_ms": 224240,
       "name": "Laissons entrer le soleil",
       "url": "https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn"
-    },
-    {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
-        "name": "Fais comme l'oiseau",
-        "url": "https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP"
-      },
-      "artists": [
-        {
-          "name": "Michel Fugain & Le Big Bazar",
-          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "Fais comme l'oiseau",
-      "url": "https://open.spotify.com/track/725PsGr5yXLJl8uENrVXPa"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -623,6 +591,38 @@
     {
       "added_at": "2023-10-19 14:26:00",
       "album": {
+        "name": "Vu de l'ext\u00e9rieur",
+        "url": "https://open.spotify.com/album/0NACl36sqipY6OZXOqy1At"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "Je suis venu te dire que je m'en vais",
+      "url": "https://open.spotify.com/track/5cC9RZFMzrpbA9U1m4zSPm"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
+        "name": "Fais comme l'oiseau",
+        "url": "https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP"
+      },
+      "artists": [
+        {
+          "name": "Michel Fugain & Le Big Bazar",
+          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "Fais comme l'oiseau",
+      "url": "https://open.spotify.com/track/725PsGr5yXLJl8uENrVXPa"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
         "name": "Les Ann\u00e9es 70s",
         "url": "https://open.spotify.com/album/2S8XE58z1NUwQY2WLnMzqh"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 179453,
       "name": "Lady Lay",
       "url": "https://open.spotify.com/track/2jd6aKjjhH5hu2mZedooNo"
-    },
-    {
-      "added_at": "2024-03-22 19:37:47",
-      "album": {
-        "name": "L'\u00e9tonnant Serge Gainsbourg (N\u00b03)",
-        "url": "https://open.spotify.com/album/5sMMhisGphUYvtb9jmdydj"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 182013,
-      "name": "La chanson de Pr\u00e9vert",
-      "url": "https://open.spotify.com/track/0Y04xGwKImCqVSFZQI5All"
     },
     {
       "added_at": "2024-03-22 19:37:47",
@@ -717,6 +701,22 @@
       "url": "https://open.spotify.com/track/5px3ShFMjwhidOFVVc0Z4R"
     },
     {
+      "added_at": "2024-03-22 19:37:47",
+      "album": {
+        "name": "L'\u00e9tonnant Serge Gainsbourg (N\u00b03)",
+        "url": "https://open.spotify.com/album/5sMMhisGphUYvtb9jmdydj"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "duration_ms": 182013,
+      "name": "La chanson de Pr\u00e9vert",
+      "url": "https://open.spotify.com/track/0Y04xGwKImCqVSFZQI5All"
+    },
+    {
       "added_at": "2023-10-19 14:26:00",
       "album": {
         "name": "En Vogue",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/3PiB9JW5oXOLl0vgayks7W"
     },
     {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
-        "name": "20 Chansons D'or",
-        "url": "https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h"
-      },
-      "artists": [
-        {
-          "name": "Mike Brant",
-          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Qui saura",
-      "url": "https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl"
-    },
-    {
       "added_at": "2024-03-22 19:37:47",
       "album": {
         "name": "Les Choses De La Vie (Original Motion Picture Soundtrack)",
@@ -807,6 +791,22 @@
     {
       "added_at": "2023-10-19 14:26:00",
       "album": {
+        "name": "20 Chansons D'or",
+        "url": "https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h"
+      },
+      "artists": [
+        {
+          "name": "Mike Brant",
+          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Qui saura",
+      "url": "https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
         "name": "Les Plus Belles Chansons De Claude Fran\u00e7ois",
         "url": "https://open.spotify.com/album/6ee87DJAkjCghFeSVSCnx5"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 239933,
       "name": "Le t\u00e9l\u00e9phone pleure",
       "url": "https://open.spotify.com/track/2Wd4Yu2RtYZjSmzLLaghNZ"
+    },
+    {
+      "added_at": "2024-03-22 19:37:47",
+      "album": {
+        "name": "Yves Montand",
+        "url": "https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
     },
     {
       "added_at": "2024-03-22 19:37:47",
@@ -871,22 +887,6 @@
       "duration_ms": 197773,
       "name": "La ballade des gens heureux",
       "url": "https://open.spotify.com/track/2I69iebe4CftqShXyRoIZh"
-    },
-    {
-      "added_at": "2024-03-22 19:37:47",
-      "album": {
-        "name": "Yves Montand",
-        "url": "https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Sous le ciel de Paris",
-      "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-10-19 14:26:00",
       "album": {
-        "name": "Les chansons de Guy B\u00e9art",
-        "url": "https://open.spotify.com/album/4HJWBPdHKbkVRlPDJLID7B"
-      },
-      "artists": [
-        {
-          "name": "Guy B\u00e9art",
-          "url": "https://open.spotify.com/artist/4DfwtuOinoPWTCOLETBkq7"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "L'eau vive",
-      "url": "https://open.spotify.com/track/0eziJsP0e5LCvy0Drk1u4N"
-    },
-    {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
         "name": "Edition 60e anniversaire",
         "url": "https://open.spotify.com/album/50RvSoNqk5x7zFROrImpIL"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 159746,
       "name": "Et maintenant (Version 1966) - Remasteris\u00e9 en 2011",
       "url": "https://open.spotify.com/track/5z3LJpwfI91bj3ogU8l0sk"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
+        "name": "Les chansons de Guy B\u00e9art",
+        "url": "https://open.spotify.com/album/4HJWBPdHKbkVRlPDJLID7B"
+      },
+      "artists": [
+        {
+          "name": "Guy B\u00e9art",
+          "url": "https://open.spotify.com/artist/4DfwtuOinoPWTCOLETBkq7"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "L'eau vive",
+      "url": "https://open.spotify.com/track/0eziJsP0e5LCvy0Drk1u4N"
     },
     {
       "added_at": "2024-03-22 19:37:47",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-10-19 14:26:00",
       "album": {
-        "name": "Jazz Et Java",
-        "url": "https://open.spotify.com/album/0Becl0XzJp8Z1zunK1vdrn"
-      },
-      "artists": [
-        {
-          "name": "Claude Nougaro",
-          "url": "https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Tu verras",
-      "url": "https://open.spotify.com/track/5jsCb9iTwwY7VVD73PGezb"
-    },
-    {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
         "name": "A La Vie, A L'Amour",
         "url": "https://open.spotify.com/album/1ShHXfJDZw4qbbr0t69rvs"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 248133,
       "name": "Je suis malade",
       "url": "https://open.spotify.com/track/123u5rlIfXR8Eynx3aabMA"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
+        "name": "Jazz Et Java",
+        "url": "https://open.spotify.com/album/0Becl0XzJp8Z1zunK1vdrn"
+      },
+      "artists": [
+        {
+          "name": "Claude Nougaro",
+          "url": "https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Tu verras",
+      "url": "https://open.spotify.com/track/5jsCb9iTwwY7VVD73PGezb"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-03-22 19:37:47",
       "album": {
-        "name": "Les Copains D'Abord",
-        "url": "https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn"
-      },
-      "artists": [
-        {
-          "name": "Georges Brassens",
-          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Chanson pour l'auvergnat",
-      "url": "https://open.spotify.com/track/03i4HQaxKuef4sNUTB3txK"
-    },
-    {
-      "added_at": "2024-03-22 19:37:47",
-      "album": {
         "name": "Mon amant de St Jean",
         "url": "https://open.spotify.com/album/0AHaLXmXUR6OYAjbWMndUB"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 189640,
       "name": "Mon amant de Saint-Jean",
       "url": "https://open.spotify.com/track/1WvtVTM9dEtinNSbRtRTED"
+    },
+    {
+      "added_at": "2024-03-22 19:37:47",
+      "album": {
+        "name": "Les Copains D'Abord",
+        "url": "https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn"
+      },
+      "artists": [
+        {
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Chanson pour l'auvergnat",
+      "url": "https://open.spotify.com/track/03i4HQaxKuef4sNUTB3txK"
     },
     {
       "added_at": "2024-03-22 19:37:47",
@@ -1241,6 +1241,22 @@
       "url": "https://open.spotify.com/track/66GLDVt5iyBBGfoWQ2WmbC"
     },
     {
+      "added_at": "2024-03-22 19:37:47",
+      "album": {
+        "name": "Heritage - Jolie M\u00f4me - Philips (1961)",
+        "url": "https://open.spotify.com/album/3cmSgfLLDmlPguaIk8L4A9"
+      },
+      "artists": [
+        {
+          "name": "Catherine Sauvage",
+          "url": "https://open.spotify.com/artist/4NjkPdOPwWlQBF59ff6YoV"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "Les rupins",
+      "url": "https://open.spotify.com/track/4hOj5cF3vQ6lNOKkOLQdef"
+    },
+    {
       "added_at": "2023-10-19 14:26:00",
       "album": {
         "name": "CD Story",
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2024-03-22 19:37:47",
       "album": {
-        "name": "Heritage - Jolie M\u00f4me - Philips (1961)",
-        "url": "https://open.spotify.com/album/3cmSgfLLDmlPguaIk8L4A9"
-      },
-      "artists": [
-        {
-          "name": "Catherine Sauvage",
-          "url": "https://open.spotify.com/artist/4NjkPdOPwWlQBF59ff6YoV"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "Les rupins",
-      "url": "https://open.spotify.com/track/4hOj5cF3vQ6lNOKkOLQdef"
-    },
-    {
-      "added_at": "2024-03-22 19:37:47",
-      "album": {
         "name": "Mon homme",
         "url": "https://open.spotify.com/album/0wttZ0qGZeO95j5NOIDRF5"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 159026,
       "name": "C\u0153ur de parisienne",
       "url": "https://open.spotify.com/track/16bV2DdifOepotmlnEjNQZ"
-    },
-    {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
-        "name": "Leo Chante Ferre",
-        "url": "https://open.spotify.com/album/0staVF20KfnK1HCYJLNSsf"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Ferr\u00e9",
-          "url": "https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo"
-        }
-      ],
-      "duration_ms": 159106,
-      "name": "Jolie m\u00f4me",
-      "url": "https://open.spotify.com/track/0cJSWKB0XV6B4zSFzTtS6b"
     },
     {
       "added_at": "2024-03-22 19:37:47",
@@ -1323,6 +1307,22 @@
       "duration_ms": 147906,
       "name": "\u00c0 quoi \u00e7a sert l'amour ?",
       "url": "https://open.spotify.com/track/2oqwC0tbMG9fs37V1Jw6xd"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
+        "name": "Leo Chante Ferre",
+        "url": "https://open.spotify.com/album/0staVF20KfnK1HCYJLNSsf"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Ferr\u00e9",
+          "url": "https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo"
+        }
+      ],
+      "duration_ms": 159106,
+      "name": "Jolie m\u00f4me",
+      "url": "https://open.spotify.com/track/0cJSWKB0XV6B4zSFzTtS6b"
     },
     {
       "added_at": "2023-10-19 14:26:00",

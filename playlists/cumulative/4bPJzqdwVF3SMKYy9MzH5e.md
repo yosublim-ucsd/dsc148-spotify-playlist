@@ -4,7 +4,7 @@
 
 > 
 
-1,875 songs - 4 day 5 hr 13 min
+1,876 songs - 4 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,6 +613,7 @@
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-08-05 |  |
 | [Free](https://open.spotify.com/track/5o6GnHeA8voabKhVBT8Og3) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Only The Beginning](https://open.spotify.com/album/6z1qeT7vI9YUsCHqufGWJy) | 2:52 | 2021-08-05 |  |
 | [Freight Yard](https://open.spotify.com/track/12IZSRtnjulqIUX3Sad4gG) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [HORSESHIT ON ROUTE 66](https://open.spotify.com/album/1Wgcuni5PXwaTtRoo5SbmF) | 2:27 | 2022-12-25 |  |
+| [French Girl](https://open.spotify.com/track/72Hh1GP6yxzD8XlVlMdfz9) | [roro](https://open.spotify.com/artist/0Y9jBmQGmBdDhlu3bSxECs) | [French Girl](https://open.spotify.com/album/4N8sHmZLrlfaYVyVL0GeL4) | 1:26 | 2024-03-25 |  |
 | [Frenesi \- Machine Girl GabberTrap Mix](https://open.spotify.com/track/66zfqY6WHytwZRxyeWl4dk) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL) | 2:06 | 2022-04-26 |  |
 | [Fresh](https://open.spotify.com/track/7IMv1xEA2NIrP8mvz3ln6L) | [Funkin' Sound Team](https://open.spotify.com/artist/4fqDivs0BnIje4XZ10cF2d), [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [Friday Night Funkin', Vol\. 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/0FUY1iMeo3mzcbdsEZOIfV) | 1:24 | 2021-08-05 |  |
 | [friendship](https://open.spotify.com/track/3JvXtgeeIfN4MQaew28CLV) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [soap water](https://open.spotify.com/album/0bI3nqxr56BoHJLZ3Li906) | 2:52 | 2022-02-18 |  |

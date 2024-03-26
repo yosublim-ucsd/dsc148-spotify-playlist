@@ -4,7 +4,7 @@
 
 > Just chill, and potentially disassociate, in 2023.
 
-602 songs - 1 day 10 hr 45 min
+603 songs - 1 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [everything's worth it](https://open.spotify.com/track/01N0x8m4P4SUren7NBYxQl) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/5LYJ2vWmQ6FBjlaIZ5yoZl) | 4:35 | 2021-06-07 | 2022-10-29 |
 | [everything's worth it](https://open.spotify.com/track/68IEDuJMZlaPaDVqhwcARF) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo) | 4:35 | 2022-08-19 | 2023-02-15 |
 | [Evolution](https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Evolution](https://open.spotify.com/album/18Nmv8QNKh8qjwJnG7iRJD) | 3:50 | 2023-01-27 |  |
-| [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 | 2024-03-19 |  |
+| [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 | 2024-03-19 |  |
+| [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 | 2024-03-19 | 2024-03-26 |
 | [Fairweather Friends](https://open.spotify.com/track/2sirBCpnHUKu87YIf9WwE7) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Photograph](https://open.spotify.com/album/4OlFnnZylFcZU5cYTKLXh6) | 3:10 | 2022-09-16 | 2022-11-14 |
 | [Fairweather Friends](https://open.spotify.com/track/3whPP50GNNpbGNkIWMMdeG) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Fairweather Friends](https://open.spotify.com/album/2Bt3szvXc9Ujmw5r7egQl2) | 3:10 | 2022-09-16 | 2022-10-15 |
 | [Fairweather Friends](https://open.spotify.com/track/4ZiLg5gJOFEaamESx66ItW) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Courage](https://open.spotify.com/album/2mf3MxRCIe2AbEDCjXpQLD) | 3:10 | 2022-09-16 | 2023-04-22 |

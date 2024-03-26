@@ -4,7 +4,7 @@
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-333 songs - 15 hr 37 min
+334 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [3am rain](https://open.spotify.com/track/1ylGvrRIddMub56gKjmkoN) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in oslo](https://open.spotify.com/album/13U4QiRMlsWftosdvI17ho) | 3:28 | 2022-10-27 | 2023-12-21 |
 | [3D Rain](https://open.spotify.com/track/3PHJojTKJBt5uqWdq38lHd) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part Two](https://open.spotify.com/album/3kvMpN08jpYtQB1cr1Y93a) | 3:49 | 2023-12-20 |  |
 | [7pm rain](https://open.spotify.com/track/3zr2ab92YbPnsZB5NBtViI) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in oslo](https://open.spotify.com/album/13U4QiRMlsWftosdvI17ho) | 3:28 | 2022-10-27 | 2023-12-21 |
-| [Abacos \(Rain\)](https://open.spotify.com/track/2eIEk2o3XtzmjyE5wVgttP) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Yugen \(Nature\)](https://open.spotify.com/album/1jcqwtMzGwHCGRD2BzfNXa) | 3:00 | 2024-03-21 |  |
+| [Abacos \(Rain\)](https://open.spotify.com/track/2eIEk2o3XtzmjyE5wVgttP) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Yugen \(Nature\)](https://open.spotify.com/album/1jcqwtMzGwHCGRD2BzfNXa) | 3:00 | 2024-03-21 | 2024-03-26 |
 | [Abstract Rain](https://open.spotify.com/track/2FPTU93d4laMXksmiJ9OR6) | [Sams Sampling](https://open.spotify.com/artist/0l3BC2nHquksROX70Y9c8S) | [Urban Rain For Dreams](https://open.spotify.com/album/1zdi48TyXAEfP64z053T5m) | 2:41 | 2022-10-27 | 2023-12-21 |
 | [Aint No Sunshine When There's Rain](https://open.spotify.com/track/6SZvCnStgcYX3Rlj5ttODW) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [London Days](https://open.spotify.com/album/5RFrcOdX3Qzc6sTPYXtVVq) | 3:12 | 2022-10-27 |  |
 | [Always Raining](https://open.spotify.com/track/0WpKvgOUCpKowejZgeO5W0) | [Tono](https://open.spotify.com/artist/4TBU1LUldUubb3RaqmLLN7) | [Always Raining](https://open.spotify.com/album/5CAI53hmKfuMEiDuWIUg2F) | 3:36 | 2023-12-20 |  |
@@ -166,7 +166,7 @@
 | [Noise Rain](https://open.spotify.com/track/1Vxx4lP5fRdm4A18AwNGBu) | [Natures Orchestra](https://open.spotify.com/artist/4lpovYMDiersW7wuJ3P5Ep) | [Noise Rain](https://open.spotify.com/album/0gQvJtixPCxHTn9GGogXEy) | 2:44 | 2023-12-20 |  |
 | [Non Stop Rain Sounds](https://open.spotify.com/track/1cgb4yVuDdTfaatFq6xhgD) | [Raning Spot](https://open.spotify.com/artist/1L6FHdVeI2MvaYCAMS1yQl) | [Raning Spot](https://open.spotify.com/album/537EhlekNxtPA37kkOeobY) | 3:02 | 2022-10-27 |  |
 | [Nonstop Rain](https://open.spotify.com/track/2pWeiW8PnZ6W7ThO9UKDFT) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Rainy Weather](https://open.spotify.com/album/7HBBBBfqFHPMHJszdpl7qF) | 2:16 | 2022-10-27 |  |
-| [Nopiming Rain](https://open.spotify.com/track/0gUX6bHRIW2ow9uEgsW2Co) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Calming Rain Harmony](https://open.spotify.com/album/7DRdQShYrQikRl9Vyggemq) | 3:01 | 2024-03-21 |  |
+| [Nopiming Rain](https://open.spotify.com/track/0gUX6bHRIW2ow9uEgsW2Co) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Calming Rain Harmony](https://open.spotify.com/album/7DRdQShYrQikRl9Vyggemq) | 3:01 | 2024-03-21 | 2024-03-26 |
 | [Nothing Falls Like Rain](https://open.spotify.com/track/31MpTScCW34zYT4sIZT4rY) | [Bibula](https://open.spotify.com/artist/1KxJnRAxBzshncVMcGKtHZ) | [Open Sky](https://open.spotify.com/album/6D4lPb4wKruVTXDo1IBARM) | 2:27 | 2022-10-27 | 2023-12-21 |
 | [O\-o\-h Rain](https://open.spotify.com/track/2UUVwMUJuo7VfpFUsIRrZ2) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [Stratus](https://open.spotify.com/album/1aOS5vAC50EyCWfEhrAPmX) | 2:03 | 2023-12-20 |  |
 | [Ocean Rain](https://open.spotify.com/track/3QXREuJa3Q8msTR91j6qhT) | [Noises Of Ambience](https://open.spotify.com/artist/1G3MR4Gr6zFvXxm275w316) | [Noises Of Ambience](https://open.spotify.com/album/14CPqVzJefFRKUBZjZKUfK) | 2:09 | 2023-12-20 |  |
@@ -191,7 +191,7 @@
 | [Rain Again](https://open.spotify.com/track/6SoSVRemix7GmsZZusXXhY) | [Meryl Stream](https://open.spotify.com/artist/7wU4Xw4xqmBzfy2TIej8qa) | [Leaking Clouds](https://open.spotify.com/album/6vJEQDkD0nvKBuEgWiigVh) | 2:33 | 2022-10-27 |  |
 | [Rain all day](https://open.spotify.com/track/4U3kZ08NfzuRTKIjoUzNFD) | [Rayne](https://open.spotify.com/artist/1RNXA2cIljrRol5nvV2Eoy) | [Rainy days and rainy nights](https://open.spotify.com/album/31zKedn6ADYfeacflh843e) | 3:28 | 2023-12-20 |  |
 | [Rain all night](https://open.spotify.com/track/28wkhl6dcZCektz1OUEKrs) | [Rayne](https://open.spotify.com/artist/1RNXA2cIljrRol5nvV2Eoy) | [Rainy days and rainy nights](https://open.spotify.com/album/31zKedn6ADYfeacflh843e) | 3:28 | 2023-12-20 |  |
-| [Rain All Night](https://open.spotify.com/track/4Xo8r5FeWsiJSuku38tVAH) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Night Rain In The Forest](https://open.spotify.com/album/5Ca1MQvDIbalfiZ7bd9BFu) | 2:55 | 2024-03-21 | 2024-03-24 |
+| [Rain All Night](https://open.spotify.com/track/4Xo8r5FeWsiJSuku38tVAH) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Night Rain In The Forest](https://open.spotify.com/album/5Ca1MQvDIbalfiZ7bd9BFu) | 2:55 | 2024-03-21 |  |
 | [Rain All Night](https://open.spotify.com/track/6jp23kbbjEQDrjjAgx5o4R) | [The Magical Drops](https://open.spotify.com/artist/1o8C2yFA9rciG6M29xiFbw) | [Light the Rain](https://open.spotify.com/album/03FUhz3VcZ8sf66ifivgBZ) | 3:48 | 2024-03-21 |  |
 | [Rain All Year Round](https://open.spotify.com/track/4iwDUEEZHxq7ITcc7DqCCI) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [London Days](https://open.spotify.com/album/5RFrcOdX3Qzc6sTPYXtVVq) | 3:12 | 2022-10-27 |  |
 | [Rain by Marsh \(Nature\)](https://open.spotify.com/track/5HTFXeKnoLF9uqSHThRuyX) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Tidal Marsh \(Nature\)](https://open.spotify.com/album/5Q50ibdcpK2F1qo6LLdpEc) | 2:44 | 2023-12-20 |  |
@@ -241,6 +241,7 @@
 | [Raining Force](https://open.spotify.com/track/3bJu4wU7VYdjlxQnG6z2ud) | [Nue](https://open.spotify.com/artist/4zPX6V2gCI5nf46EQTpRr9) | [Raining Force](https://open.spotify.com/album/1MSTsZLkWuOOAePWFDQTFV) | 3:32 | 2023-12-20 |  |
 | [Raining In The City At Night](https://open.spotify.com/track/0lMUyII33ZjGhNyuiSJQR5) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Rain For Sleep](https://open.spotify.com/album/5ALoceFx2jK3zQ2Wj4WJ3B) | 2:53 | 2022-10-27 | 2023-12-21 |
 | [Raining Me Softly](https://open.spotify.com/track/4CTDJG3F26MUJEwnJ2fhJh) | [Epiphonema](https://open.spotify.com/artist/7zVXfjqG8yM5gVp8WLab5s) | [Cloudburst](https://open.spotify.com/album/4U0en0trmZzCyst9IvCvDA) | 2:09 | 2022-10-27 |  |
+| [Raining Through The Night](https://open.spotify.com/track/0EVnTfAZHE6wWkCnxugHmq) | [The Nightgate](https://open.spotify.com/artist/5Q3USAuNC7NpbhO9JqN2uK) | [Raining Through The Night](https://open.spotify.com/album/0HaCBoTn0tHkCGe0ArR7nH) | 3:04 | 2024-03-21 |  |
 | [Rainy Avenue](https://open.spotify.com/track/1Z5uJ80Ppi2uCfoegoQn4z) | [Imber Levis](https://open.spotify.com/artist/2DRELW7sIQc5Dr0y0FDE5T) | [Rainy Night In Amsterdam](https://open.spotify.com/album/546pkDmHceZq17cKjgKLWS) | 3:36 | 2023-12-20 |  |
 | [Rainy Day Sublime](https://open.spotify.com/track/2UupB1CUQbZWH2Pj7abQig) | [Cloé Elvira](https://open.spotify.com/artist/5VzussIvRu2Kr4Td8Pm5Gr) | [Thunderstorm Lullaby](https://open.spotify.com/album/72rImAL2TCWPsghyMcTDl5) | 2:43 | 2024-03-21 |  |
 | [Rainy Days](https://open.spotify.com/track/2Tbu3ljhZHiCl0Odpigcre) | [HD Rain and Water](https://open.spotify.com/artist/3daevVTaElLubCKe7p3DTf) | [Smooth Street Rain](https://open.spotify.com/album/30bjWsmsys73IL49zKW1zp) | 2:52 | 2022-10-27 | 2023-12-21 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 95168,
+  "num_followers": 95215,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmNlNjE1N2Y3MGYwNjk1ODRiZjJjOGRhNWVmM2UwNDZlNmNhM2Mx",
+  "snapshot_id": "MCxkYjY1MTI0OTllYjY4MTlmNjc0MDQzOTZkM2MwYTk5OWJhYjZiNzBh",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -99,6 +99,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Coleccion Cristiana",
+        "url": "https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "Las Avispas",
+      "url": "https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Alex Campos y Sus Amigos (En Vivo)",
         "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
       },
@@ -119,18 +135,38 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Coleccion Cristiana",
-        "url": "https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v"
+        "name": "Voy a Amarte",
+        "url": "https://open.spotify.com/album/18PfvYdVeeRdXLi9VbtK71"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
         }
       ],
-      "duration_ms": 195653,
-      "name": "Las Avispas",
-      "url": "https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3"
+      "duration_ms": 207360,
+      "name": "Voy a Amarte",
+      "url": "https://open.spotify.com/track/5bbOzB0tnW6aNPjt3gvFGi"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
+        "url": "https://open.spotify.com/album/0ZuChxTZJfnV2rxfyweF8a"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
+      "url": "https://open.spotify.com/track/2s4npyJ0dfZ3uEZ5mw6X7K"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -171,22 +207,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Voy a Amarte",
-        "url": "https://open.spotify.com/album/18PfvYdVeeRdXLi9VbtK71"
-      },
-      "artists": [
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Voy a Amarte",
-      "url": "https://open.spotify.com/track/5bbOzB0tnW6aNPjt3gvFGi"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Pensaba en Ti",
         "url": "https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU"
       },
@@ -219,22 +239,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
-        "url": "https://open.spotify.com/album/0ZuChxTZJfnV2rxfyweF8a"
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
       },
       "artists": [
         {
           "name": "Alex Zurdo",
           "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
         }
       ],
-      "duration_ms": 222506,
-      "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
-      "url": "https://open.spotify.com/track/2s4npyJ0dfZ3uEZ5mw6X7K"
+      "duration_ms": 264800,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -379,22 +395,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Fiesta Celestia: Amado Mio",
         "url": "https://open.spotify.com/album/7Gj3EgSIJwN5K4inknXu2k"
       },
@@ -487,26 +487,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/3Hfdb0KVrFw3gix8Xc0t38"
-      },
-      "artists": [
-        {
-          "name": "Daniela Galeano",
-          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/7k1mBV7McqMl1WEyuC1M4m"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/4vWqtYT69Ivi5dXOisjL62"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Original Love",
         "url": "https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 248857,
       "name": "Good Good Father (feat. Avion Blackman)",
       "url": "https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/3Hfdb0KVrFw3gix8Xc0t38"
+      },
+      "artists": [
+        {
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/7k1mBV7McqMl1WEyuC1M4m"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/4vWqtYT69Ivi5dXOisjL62"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -547,6 +547,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Lo Mejor De Mi, Para El",
+        "url": "https://open.spotify.com/album/1e1CABBw5I7ZK8vUPcl3JG"
+      },
+      "artists": [
+        {
+          "name": "Puchi Colon",
+          "url": "https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi"
+        }
+      ],
+      "duration_ms": 316640,
+      "name": "Renuevame",
+      "url": "https://open.spotify.com/track/5y8KU2x7B5DEpxP66I1Ghz"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/57TWQ1wClUOJ8MFDKIVKAH"
       },
@@ -563,18 +579,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Lo Mejor De Mi, Para El",
-        "url": "https://open.spotify.com/album/1e1CABBw5I7ZK8vUPcl3JG"
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
       "artists": [
         {
-          "name": "Puchi Colon",
-          "url": "https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi"
+          "name": "Jhonny Rafael",
+          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
         }
       ],
-      "duration_ms": 316640,
-      "name": "Renuevame",
-      "url": "https://open.spotify.com/track/5y8KU2x7B5DEpxP66I1Ghz"
+      "duration_ms": 268613,
+      "name": "Sinceridad",
+      "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -595,22 +611,6 @@
       "duration_ms": 202000,
       "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
       "url": "https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
-      },
-      "artists": [
-        {
-          "name": "Jhonny Rafael",
-          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
-        }
-      ],
-      "duration_ms": 268613,
-      "name": "Sinceridad",
-      "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -679,30 +679,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Tu Amor",
-        "url": "https://open.spotify.com/album/1TbMgpLI7P6CCq1mqVff90"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
-        },
-        {
-          "name": "Melissa Hermosillo",
-          "url": "https://open.spotify.com/artist/35U8X9qqvWRAAhCkjN7LnP"
-        }
-      ],
-      "duration_ms": 192402,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Diez Mil Razones",
         "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
       },
@@ -735,6 +711,46 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "This Is My Time",
+        "url": "https://open.spotify.com/album/2sX0kaEYZmGfkbvmFVFvwg"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        }
+      ],
+      "duration_ms": 228111,
+      "name": "La Misma Mentira",
+      "url": "https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Tu Amor",
+        "url": "https://open.spotify.com/album/1TbMgpLI7P6CCq1mqVff90"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        },
+        {
+          "name": "Melissa Hermosillo",
+          "url": "https://open.spotify.com/artist/35U8X9qqvWRAAhCkjN7LnP"
+        }
+      ],
+      "duration_ms": 192402,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Te Entrego Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 198599,
       "name": "La Fe Que Dios Me Di\u00f3",
       "url": "https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "This Is My Time",
-        "url": "https://open.spotify.com/album/2sX0kaEYZmGfkbvmFVFvwg"
-      },
-      "artists": [
-        {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        }
-      ],
-      "duration_ms": 228111,
-      "name": "La Misma Mentira",
-      "url": "https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -819,22 +819,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Quinto Elemento",
-        "url": "https://open.spotify.com/album/73QDJ8kDJT0SbWQJJab2Zf"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kelly",
-          "url": "https://open.spotify.com/artist/4BYn8aKDAf0keMvw8k28Kb"
-        }
-      ],
-      "duration_ms": 190611,
-      "name": "Va Cae",
-      "url": "https://open.spotify.com/track/6VnM8awfWWcXF37qbU2DHF"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Desde Mi Alma",
         "url": "https://open.spotify.com/album/1AGbEgukntBYyagzUeuvOD"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 248840,
       "name": "Desde Mi Alma",
       "url": "https://open.spotify.com/track/4CyVYEF7Jd1PFP5TvKic0Z"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Quinto Elemento",
+        "url": "https://open.spotify.com/album/73QDJ8kDJT0SbWQJJab2Zf"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kelly",
+          "url": "https://open.spotify.com/artist/4BYn8aKDAf0keMvw8k28Kb"
+        }
+      ],
+      "duration_ms": 190611,
+      "name": "Va Cae",
+      "url": "https://open.spotify.com/track/6VnM8awfWWcXF37qbU2DHF"
     },
     {
       "added_at": "2020-11-24 13:23:55",

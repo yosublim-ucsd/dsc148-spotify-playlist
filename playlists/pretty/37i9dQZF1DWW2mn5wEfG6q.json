@@ -1,12 +1,12 @@
 {
   "description": "2013 highlights from the home of indie music. Cover: HAIM ",
-  "num_followers": 74594,
+  "num_followers": 74640,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTE4Yjk2NDMzNTkxMWRiNzE2ODE0ZTk4MzdkYzUzNjQ5Y2ViMTgy",
+  "snapshot_id": "MCwzNDAxZjZjNzM3Y2RhMDFlZTFkYThjZGUzNDA3ZWNlMjVkYzdlMzUz",
   "tracks": [
     {
       "added_at": "2023-03-29 13:55:12",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 272394,
-      "name": "Do I Wanna Know?",
-      "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Wild Heart",
         "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 194733,
       "name": "Blondie",
       "url": "https://open.spotify.com/track/7sIx70dGj3VBiHWr0KZXfD"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 272394,
+      "name": "Do I Wanna Know?",
+      "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
     },
     {
       "added_at": "2023-03-29 13:55:12",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Melophobia",
-        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "Come a Little Closer",
-      "url": "https://open.spotify.com/track/4sebUbjqbcgDSwG6PbSGI0"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Comedown Machine",
         "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
       },
@@ -251,22 +235,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 201726,
-      "name": "R U Mine?",
-      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Year of the Caprese",
         "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
       },
@@ -279,6 +247,22 @@
       "duration_ms": 323253,
       "name": "Doses & Mimosas",
       "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "Come a Little Closer",
+      "url": "https://open.spotify.com/track/4sebUbjqbcgDSwG6PbSGI0"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -335,6 +319,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 201726,
+      "name": "R U Mine?",
+      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
         "name": "Wild Heart",
         "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
       },
@@ -383,22 +383,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 198907,
-      "name": "Tennis Court",
-      "url": "https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Lost In The Dream",
         "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 193030,
-      "name": "Snap Out Of It",
-      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
+      "duration_ms": 198907,
+      "name": "Tennis Court",
+      "url": "https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -443,22 +427,6 @@
       "duration_ms": 230146,
       "name": "So Good at Being in Trouble",
       "url": "https://open.spotify.com/track/3DXHaJzqRCgv3rd5U9EoXU"
-    },
-    {
-      "added_at": "2023-03-29 13:55:12",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 259413,
-      "name": "W.D.Y.W.F.M?",
-      "url": "https://open.spotify.com/track/3vooOYHU0Fi3ViCG7Ozh0Y"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -507,6 +475,38 @@
       "duration_ms": 223600,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 193030,
+      "name": "Snap Out Of It",
+      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
+    },
+    {
+      "added_at": "2023-03-29 13:55:12",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 259413,
+      "name": "W.D.Y.W.F.M?",
+      "url": "https://open.spotify.com/track/3vooOYHU0Fi3ViCG7Ozh0Y"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -591,6 +591,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
         "name": "Spreading Rumours",
         "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 370200,
       "name": "Song for Zula",
       "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "The 1975",
-        "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -739,22 +739,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Spreading Rumours",
-        "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "Ways to Go",
-      "url": "https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Modern Vampires of the City",
         "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 202666,
       "name": "Unbelievers",
       "url": "https://open.spotify.com/track/51DZ0wUocQ8sQfjnibXVcD"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Spreading Rumours",
+        "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 215520,
+      "name": "Ways to Go",
+      "url": "https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
+        "name": "Reflektor",
+        "url": "https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 353086,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/7rL602DQps4QmrrjbinLzP"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
         "name": "Melophobia",
         "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Reflektor",
-        "url": "https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 353086,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/7rL602DQps4QmrrjbinLzP"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "II (10 Year Anniversary Edition)",
         "url": "https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3"
       },
@@ -1075,22 +1075,6 @@
       "duration_ms": 165226,
       "name": "Swim and Sleep (Like a Shark)",
       "url": "https://open.spotify.com/track/265ehI4I7NfR8PmAXdpspn"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 249746,
-      "name": "Purple Yellow Red and Blue",
-      "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1123,6 +1107,22 @@
       "duration_ms": 207718,
       "name": "Waiting Game",
       "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "Purple Yellow Red and Blue",
+      "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "More Than Just a Dream",
-        "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
-      },
-      "artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "The Walker",
-      "url": "https://open.spotify.com/track/46EOWTszdIfllYY4o6rjkY"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "We Are the 21st Century Ambassadors of Peace & Magic",
         "url": "https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 201706,
       "name": "Shuggie",
       "url": "https://open.spotify.com/track/6RgrpOgbTI3M2qvA8XIvTb"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "More Than Just a Dream",
+        "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "The Walker",
+      "url": "https://open.spotify.com/track/46EOWTszdIfllYY4o6rjkY"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
+        "name": "Trouble Will Find Me",
+        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 283386,
+      "name": "This is the Last Time",
+      "url": "https://open.spotify.com/track/70ZuQywnmOpqcIiEnUA5yV"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
         "name": "Bankrupt!",
         "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 237973,
       "name": "Hannah Hunt",
       "url": "https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "Trouble Will Find Me",
-        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 283386,
-      "name": "This is the Last Time",
-      "url": "https://open.spotify.com/track/70ZuQywnmOpqcIiEnUA5yV"
     },
     {
       "added_at": "2021-09-02 08:24:19",

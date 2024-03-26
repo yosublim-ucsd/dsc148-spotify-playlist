@@ -4,7 +4,7 @@
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 
-290 songs - 13 hr 42 min
+291 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Dripping Rain](https://open.spotify.com/track/0Of6J0VrkGeNm8YRpTYby9) | [Golden Drops](https://open.spotify.com/artist/75zbTyxmkNUkQuygPB6fUQ) | [Dripping Rain](https://open.spotify.com/album/2B2IvBr9t2Qy0w5fjall3b) | 2:39 | 2023-06-16 |  |
 | [Drop from the cloud](https://open.spotify.com/track/7ANIqzLUgOlYvDjsMFi5Qu) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Droplet](https://open.spotify.com/album/34d9oMxfXLOAcvo3PH5PxW) | 3:32 | 2023-06-16 |  |
 | [Droplet Drift](https://open.spotify.com/track/5L7KXB9VytvwVTz7qcuCL9) | [Instant Recuperate](https://open.spotify.com/artist/38y9kFWR4BFY9lhR6dXMBV) | [Droplet Drift](https://open.spotify.com/album/280YFBsxQ3p9XvxZ94RtVy) | 3:08 | 2023-06-16 |  |
-| [Drops Of Rain](https://open.spotify.com/track/3FEbGo3HICXw4tKZ10I2QM) | [Skies of Rain](https://open.spotify.com/artist/5zXNGEbDUFyv5w4jN9V496) | [Drops Of Rain](https://open.spotify.com/album/6CnU8uUkd2rIGzOytJuQao) | 2:58 | 2023-06-16 |  |
+| [Drops Of Rain](https://open.spotify.com/track/3FEbGo3HICXw4tKZ10I2QM) | [Skies of Rain](https://open.spotify.com/artist/5zXNGEbDUFyv5w4jN9V496) | [Drops Of Rain](https://open.spotify.com/album/6CnU8uUkd2rIGzOytJuQao) | 2:58 | 2023-06-16 | 2024-03-26 |
 | [Earth Rain](https://open.spotify.com/track/678emSwcNj7TVaNlFRt2DC) | [Celestial Noise](https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z) | [Space Rain](https://open.spotify.com/album/456q0OuTOQvx6QuVxdmB3K) | 3:41 | 2023-06-16 |  |
 | [Endless Rain Loop](https://open.spotify.com/track/3MU3OGBU2fJS23fIU3JE8s) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [Clean Rain](https://open.spotify.com/album/5ejOmM66rpAkjk3Y8BGzQB) | 3:56 | 2023-06-16 |  |
 | [Everglades National Park Rain](https://open.spotify.com/track/2uWVKNDjlCLxolafT4Ekyf) | [Wetland Adventures](https://open.spotify.com/artist/01myJOKWFORKHtMxNWPib5) | [Everglades National Park Rain](https://open.spotify.com/album/2rhe2jO40lh7Gqib1hJsWS) | 3:04 | 2023-06-16 |  |
@@ -77,6 +77,7 @@
 | [Flooding Rain](https://open.spotify.com/track/42lrVq6KambSMyAFo1zmeo) | [Bali Rain](https://open.spotify.com/artist/54tn0DvLnrBUmX1tthjwJS) | [Part 1](https://open.spotify.com/album/3R5FIHnUQ8QJQtLdKrq4iV) | 3:47 | 2023-06-16 |  |
 | [Focus To Rain Sound](https://open.spotify.com/track/1Zlgk780ReXjity59pzdWB) | [Storm Machine](https://open.spotify.com/artist/2pXi0IcglHeXlVJqcDStpk) | [Unlimited Rain](https://open.spotify.com/album/5AAGGHlY1D0SqdfOKcXJh2) | 2:28 | 2023-06-16 |  |
 | [Foggy Morning Rain](https://open.spotify.com/track/6lclF5CG07zc2GLG8VUfbX) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Rain From The Cabin](https://open.spotify.com/album/6N6hb0UO7bKqVA7uqZ09gs) | 3:14 | 2023-06-16 |  |
+| [Forest Rain Bath](https://open.spotify.com/track/1CPZo0gX4O1U7CPp8GZ68v) | [Désiré Renaud](https://open.spotify.com/artist/25vUptgRQxLAmNDHgXk2be) | [Forest Rain Bath](https://open.spotify.com/album/4bV38Ax7XtDSfe9wvkjVog) | 3:00 | 2024-03-21 |  |
 | [Forest Spirits \(Rain\)](https://open.spotify.com/track/3VeEplQsKzt4ls3tTJrtvO) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Gentle Waters](https://open.spotify.com/album/2JDyyTD89nIEtUddaUuawD) | 2:40 | 2023-06-16 |  |
 | [Forgotten Skies](https://open.spotify.com/track/5hY7DPBIJJc0tIBVMBIcIZ) | [cloudcity](https://open.spotify.com/artist/3GLqH1P5kbxsIWqCwOwaB8) | [Forgotten Skies](https://open.spotify.com/album/0YXwzkrl8DQFvjXbcTdeSe) | 3:28 | 2023-06-16 |  |
 | [Friskt Regn](https://open.spotify.com/track/1baZVsKUgC1Uisoz0Cq6Ih) | [Naturen](https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB) | [Regn](https://open.spotify.com/album/0mr6zgZL3NGZfJWH0Q9OCr) | 2:59 | 2023-06-16 |  |

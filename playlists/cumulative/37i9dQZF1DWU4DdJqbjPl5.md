@@ -2,7 +2,7 @@
 
 ### [Tantalizers](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> The smoothest Afro R&B out right now\. Cover: Odeal
+> The smoothest Afro R&B out right now\. Cover: Shekinah
 
 344 songs - 18 hr 22 min
 

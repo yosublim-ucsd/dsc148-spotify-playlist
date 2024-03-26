@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:3IQIVYEmRr7wZnEqpSjfV5">Zaleś</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,820 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,818 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [PESTO](https://open.spotify.com/track/1lgJ51EW0FUfU6ouiMTVaI) | [VELKRATIUK](https://open.spotify.com/artist/1NX5jyb39TJKiHqrn3HsRx) | [Bezdech](https://open.spotify.com/album/77s8uLyL8BR4v3XQVTFQW1) | 3:44 |
 | 100 | [wifey](https://open.spotify.com/track/038q60852jO0KTWCXQrPH5) | [brokat](https://open.spotify.com/artist/66MtUhWL2ZZ5WvULivQZ1r) | [wifey](https://open.spotify.com/album/4GTHwrtBL1HohbdXwbnhVb) | 3:20 |
 
-Snapshot ID: `MCwxMWQxMzQ4MDM0YzU4NTJkMTU2ZDUwODAyYjY3NjNkOGZjYzRiZjNi`
+Snapshot ID: `MCw4YmM1NDU4NDFiMzBjNjg3OGVlZmMxZTNjMDU2YTFmYzI4ZTU1OGUz`

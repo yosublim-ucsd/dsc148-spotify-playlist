@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Sawyer Brown
 
-266 songs - 15 hr 42 min
+267 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,10 +148,11 @@
 | [Kindness](https://open.spotify.com/track/1r1AqeRw3T8eYbuMTHNTYB) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Kindness](https://open.spotify.com/album/25zJec6iPEpDZfnYA0DZpO) | 3:21 | 2023-04-07 |  |
 | [Kissing Your Picture \(Is So Cold\)](https://open.spotify.com/track/2ghjBzkF9XwqBt9nw1GjlO) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Kissing Your Picture \(Is So Cold\)](https://open.spotify.com/album/1cx9p0adZ9GVMOsWs1UIhC) | 3:25 | 2023-06-02 |  |
 | [Lead Me Home](https://open.spotify.com/track/5okWmLTI9nYRZ5HcSoKffK) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Lead Me Home](https://open.spotify.com/album/6BtcUNipS0LAGkvkpsSt6b) | 3:34 | 2021-10-15 |  |
-| [Left Their Mark](https://open.spotify.com/track/0Uz8ahCmuqLcY78C4sca1D) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [Familiar Faces](https://open.spotify.com/album/1IJk3ueX658qXNVN0uLM1p) | 3:55 | 2023-11-17 |  |
+| [Left Their Mark](https://open.spotify.com/track/0Uz8ahCmuqLcY78C4sca1D) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [Familiar Faces](https://open.spotify.com/album/1IJk3ueX658qXNVN0uLM1p) | 3:55 | 2023-11-17 | 2024-03-26 |
 | [Left Their Mark](https://open.spotify.com/track/1ivKjWTRL02kRtBwbjMLCz) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/5JZgtLCQxZsuFxLtUZzkRk) | 3:55 | 2023-11-03 | 2023-11-29 |
 | [Left Their Mark](https://open.spotify.com/track/3gKV0u3ypKPmA7dic5QbGd) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/6gx1ygsB7Y8RD30o6QItqg) | 3:55 | 2023-09-15 | 2023-11-05 |
 | [Left Their Mark](https://open.spotify.com/track/5zNj9vXUE6RDjknA2uTfFL) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/1MOoTjq1P3tfT5vooMNkCA) | 3:55 | 2023-06-30 | 2023-09-22 |
+| [Left Their Mark](https://open.spotify.com/track/6cRtjl1Dbt8fG9FYQfCTXw) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/6OCYKKnUjbxEV0fxAGRqYA) | 3:55 | 2024-03-18 |  |
 | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV) | 4:27 | 2023-08-18 |  |
 | [Life is Beautiful](https://open.spotify.com/track/1Gh6WLiKriWRKof9E4nSRz) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Front Porch Singin'](https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY) | 3:53 | 2022-07-22 |  |
 | [Life is Beautiful](https://open.spotify.com/track/2I13ZwV1Xz1UqoemhWa7fz) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Swing Down Chariot](https://open.spotify.com/album/1ZycZB9RBLz942ouEEDJbz) | 3:53 | 2022-11-04 | 2022-11-14 |

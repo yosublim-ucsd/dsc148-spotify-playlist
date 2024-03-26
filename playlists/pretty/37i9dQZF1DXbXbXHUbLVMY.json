@@ -1,12 +1,12 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 27757,
+  "num_followers": 27764,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2RkNWRlOThkYzM3NjRjNTI0MmQxZTBiZjBmMzJlMGQxYmI1MGRl",
+  "snapshot_id": "MCxjZmIxYmI4ZGM5NmJiNTU0YjEwNmU1NGFhYTM1NmQxNDk4ZWQxYTQx",
   "tracks": [
     {
       "added_at": "2024-03-21 23:00:00",
@@ -267,26 +267,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "M.O.B",
-        "url": "https://open.spotify.com/album/3OayJHDFHtATwvDVJ8ccuT"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        },
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 128888,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2e9JCw6tagF1APPHXWy6ff"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Sp\u00e5r av BLod",
         "url": "https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK"
       },
@@ -307,18 +287,38 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
+        "name": "Vill va med dig",
+        "url": "https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI"
       },
       "artists": [
         {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
         }
       ],
-      "duration_ms": 154043,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
+      "duration_ms": 168473,
+      "name": "Vill va med dig",
+      "url": "https://open.spotify.com/track/56flxHBv6c08oCUjQhXeb1"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "M.O.B",
+        "url": "https://open.spotify.com/album/3OayJHDFHtATwvDVJ8ccuT"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 128888,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2e9JCw6tagF1APPHXWy6ff"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Vill va med dig",
-        "url": "https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI"
-      },
-      "artists": [
-        {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
-        }
-      ],
-      "duration_ms": 168473,
-      "name": "Vill va med dig",
-      "url": "https://open.spotify.com/track/56flxHBv6c08oCUjQhXeb1"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/0Zpv2L3usXFp6RWzcGBKeI"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 138085,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/3vFlpYjJgaTHe0B5LGNaBy"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 154043,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -391,42 +391,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "S\u00e4g Mig",
-        "url": "https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        },
-        {
-          "name": "Shenzi Beats",
-          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "S\u00e4g Mig",
-      "url": "https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "En till dans",
-        "url": "https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 200412,
-      "name": "En till dans",
-      "url": "https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Egoland",
         "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
       },
@@ -439,22 +403,6 @@
       "duration_ms": 184346,
       "name": "Michelin Stjerner",
       "url": "https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Du & Jag",
-        "url": "https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK"
-      },
-      "artists": [
-        {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
-        }
-      ],
-      "duration_ms": 132150,
-      "name": "Du & Jag",
-      "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -475,24 +423,8 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "In Memory Of Some Stand Up Guys",
-        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 162120,
-      "name": "G63",
-      "url": "https://open.spotify.com/track/3hjAxYipqWlqBqBdrQXEU5"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "M.O.B",
-        "url": "https://open.spotify.com/album/3gfzgUuXhBJC2KMjvWgGQ7"
+        "name": "S\u00e4g Mig",
+        "url": "https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp"
       },
       "artists": [
         {
@@ -500,13 +432,13 @@
           "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
         },
         {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+          "name": "Shenzi Beats",
+          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
         }
       ],
-      "duration_ms": 108000,
-      "name": "M.O.B",
-      "url": "https://open.spotify.com/track/7scyrGYhNkIz5t4U630EmD"
+      "duration_ms": 135000,
+      "name": "S\u00e4g Mig",
+      "url": "https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -527,6 +459,54 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "In Memory Of Some Stand Up Guys",
+        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 162120,
+      "name": "G63",
+      "url": "https://open.spotify.com/track/3hjAxYipqWlqBqBdrQXEU5"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "En till dans",
+        "url": "https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 200412,
+      "name": "En till dans",
+      "url": "https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Du & Jag",
+        "url": "https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK"
+      },
+      "artists": [
+        {
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+        }
+      ],
+      "duration_ms": 132150,
+      "name": "Du & Jag",
+      "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "PRAPAPA",
         "url": "https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9"
       },
@@ -539,22 +519,6 @@
       "duration_ms": 124812,
       "name": "PRAPAPA",
       "url": "https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Matrisen",
-        "url": "https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 195577,
-      "name": "Matrisen",
-      "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -575,22 +539,38 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Standard",
-        "url": "https://open.spotify.com/album/3klHl3l7VxUautqwwQc678"
+        "name": "Matrisen",
+        "url": "https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj"
       },
       "artists": [
         {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
-        },
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
         }
       ],
-      "duration_ms": 127209,
-      "name": "Standard",
-      "url": "https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V"
+      "duration_ms": 195577,
+      "name": "Matrisen",
+      "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "M.O.B",
+        "url": "https://open.spotify.com/album/3gfzgUuXhBJC2KMjvWgGQ7"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "M.O.B",
+      "url": "https://open.spotify.com/track/7scyrGYhNkIz5t4U630EmD"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -655,6 +635,26 @@
       "duration_ms": 145797,
       "name": "YOUNG THUG P\u00c5 1M",
       "url": "https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Standard",
+        "url": "https://open.spotify.com/album/3klHl3l7VxUautqwwQc678"
+      },
+      "artists": [
+        {
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+        },
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "duration_ms": 127209,
+      "name": "Standard",
+      "url": "https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -819,6 +819,26 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "Amok",
+        "url": "https://open.spotify.com/album/5ttbRoMLEEuYmx7UFkzHAy"
+      },
+      "artists": [
+        {
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        },
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 125878,
+      "name": "Amok",
+      "url": "https://open.spotify.com/track/0k3MPCBFxebrct6NxH3kCY"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Feeling Myself",
         "url": "https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU"
       },
@@ -915,22 +935,18 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Amok",
-        "url": "https://open.spotify.com/album/5ttbRoMLEEuYmx7UFkzHAy"
+        "name": "Zinah",
+        "url": "https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An"
       },
       "artists": [
         {
-          "name": "Broiler",
-          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
-        },
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
         }
       ],
-      "duration_ms": 125878,
-      "name": "Amok",
-      "url": "https://open.spotify.com/track/0k3MPCBFxebrct6NxH3kCY"
+      "duration_ms": 116500,
+      "name": "Zinah",
+      "url": "https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -955,22 +971,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Zinah",
-        "url": "https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 116500,
-      "name": "Zinah",
-      "url": "https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Dyra notor",
         "url": "https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 142291,
       "name": "Dyra notor",
       "url": "https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Salam",
-        "url": "https://open.spotify.com/album/56xgHK320guDeJaXou4VQu"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 137861,
-      "name": "Salam",
-      "url": "https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1059,6 +1043,26 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "BABA IVO",
+        "url": "https://open.spotify.com/album/00P9bSwLKrj72bkf0gnaqU"
+      },
+      "artists": [
+        {
+          "name": "Ivory",
+          "url": "https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD"
+        },
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "duration_ms": 149290,
+      "name": "Daddy Issues (feat. Simon Superti)",
+      "url": "https://open.spotify.com/track/60268qveqkO0vl7xmGdmHL"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Gangster V\u00e4rld",
         "url": "https://open.spotify.com/album/3LIrW41gcm8QK5NQgEMk3e"
       },
@@ -1079,22 +1083,18 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "BABA IVO",
-        "url": "https://open.spotify.com/album/00P9bSwLKrj72bkf0gnaqU"
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/56xgHK320guDeJaXou4VQu"
       },
       "artists": [
         {
-          "name": "Ivory",
-          "url": "https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD"
-        },
-        {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
         }
       ],
-      "duration_ms": 149290,
-      "name": "Daddy Issues (feat. Simon Superti)",
-      "url": "https://open.spotify.com/track/60268qveqkO0vl7xmGdmHL"
+      "duration_ms": 137861,
+      "name": "Salam",
+      "url": "https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "N\u00e5nting i Luften",
-        "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "N\u00e5nting i Luften",
-      "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Thug Lover",
         "url": "https://open.spotify.com/album/1ojrLW3hbC1iU8oGJuMa1s"
       },
@@ -1179,26 +1163,6 @@
       "duration_ms": 162478,
       "name": "Thug Lover",
       "url": "https://open.spotify.com/track/3zpENN5MvOOv0pYj5YQWS7"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Konstn\u00e4rer",
-        "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        },
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
-        }
-      ],
-      "duration_ms": 150040,
-      "name": "Konstn\u00e4rer",
-      "url": "https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1219,6 +1183,22 @@
       "duration_ms": 168000,
       "name": "Saint Laurent",
       "url": "https://open.spotify.com/track/1MFHhIk4t2w4K6amxMYV9Y"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Det var aldri meg",
+        "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
+      },
+      "artists": [
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Ment for hverandre",
+      "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1247,18 +1227,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Det var aldri meg",
-        "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
+        "name": "(\u00c5h) T\u00e5my, T\u00e5my - Rifla x Sheriff",
+        "url": "https://open.spotify.com/album/7cI6WjL8tRjS8mpFf07Wox"
       },
       "artists": [
         {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        },
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
         }
       ],
-      "duration_ms": 194526,
-      "name": "Ment for hverandre",
-      "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
+      "duration_ms": 190346,
+      "name": "(\u00c5h) T\u00e5my, T\u00e5my - Rifla x Sheriff",
+      "url": "https://open.spotify.com/track/6BTqkUxJRluSfyWXICpuVF"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1279,22 +1263,38 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "(\u00c5h) T\u00e5my, T\u00e5my - Rifla x Sheriff",
-        "url": "https://open.spotify.com/album/7cI6WjL8tRjS8mpFf07Wox"
+        "name": "N\u00e5nting i Luften",
+        "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
       },
       "artists": [
         {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        },
-        {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
         }
       ],
-      "duration_ms": 190346,
-      "name": "(\u00c5h) T\u00e5my, T\u00e5my - Rifla x Sheriff",
-      "url": "https://open.spotify.com/track/6BTqkUxJRluSfyWXICpuVF"
+      "duration_ms": 151168,
+      "name": "N\u00e5nting i Luften",
+      "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Konstn\u00e4rer",
+        "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "duration_ms": 150040,
+      "name": "Konstn\u00e4rer",
+      "url": "https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Du datt av",
-        "url": "https://open.spotify.com/album/74xaWKyYl1928U9QxB8NgV"
-      },
-      "artists": [
-        {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
-        }
-      ],
-      "duration_ms": 147843,
-      "name": "Du datt av",
-      "url": "https://open.spotify.com/track/4md8Ntsur3ptmuu2cAQybK"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "TRAPEN TILL RADION",
         "url": "https://open.spotify.com/album/7iAffbVeIbgvwwz04XOt5k"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 134545,
       "name": "ROCKARE",
       "url": "https://open.spotify.com/track/3vVdmgwmY5xbKQ3Oh074Lc"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Du datt av",
+        "url": "https://open.spotify.com/album/74xaWKyYl1928U9QxB8NgV"
+      },
+      "artists": [
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        }
+      ],
+      "duration_ms": 147843,
+      "name": "Du datt av",
+      "url": "https://open.spotify.com/track/4md8Ntsur3ptmuu2cAQybK"
     },
     {
       "added_at": "2024-03-21 23:00:00",

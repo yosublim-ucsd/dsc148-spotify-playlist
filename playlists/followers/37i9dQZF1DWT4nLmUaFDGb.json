@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 481656,
+  "2024-03-26": 481871,
   "date_first_scraped": "2022-01-26",
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
   "name": "Easy Jazz",
@@ -1749,7 +1749,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 257000,
       "name": "I Try",
       "url": "https://open.spotify.com/track/4LwUtuvie7JhcBFhUKnVv1"
@@ -3081,6 +3081,24 @@
       "duration_ms": 318077,
       "name": "Next Time",
       "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
+    },
+    {
+      "album": {
+        "name": "Nice Girls Don't Stay for Breakfast",
+        "url": "https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217507,
+      "name": "Nice Girls Don't Stay for Breakfast",
+      "url": "https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY"
     },
     {
       "album": {

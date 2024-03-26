@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 309787,
+  "num_followers": 309915,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjA0Zjk2ZWFkOGVkY2U1NTE1OTE0MjZmYWViYmZmMmQ0Yjg5MmJi",
+  "snapshot_id": "MCw4MzdhNjI5YWU1MTQxNGJlOGY0OTcyMWNhNzdjYzZhM2FjMGZkOTkz",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -191,38 +191,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Me Negaram Amor",
-        "url": "https://open.spotify.com/album/6vgTioni6TWucdoT33BuV7"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Me Negaram Amor",
-      "url": "https://open.spotify.com/track/4oH03lpFiysmcWex1AyddD"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Bluesman",
         "url": "https://open.spotify.com/album/0QMVSKhzT4u2DEd8qdlz4I"
       },
@@ -267,6 +235,38 @@
       "duration_ms": 193697,
       "name": "S\u00f3 me ligar",
       "url": "https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Me Negaram Amor",
+        "url": "https://open.spotify.com/album/6vgTioni6TWucdoT33BuV7"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Me Negaram Amor",
+      "url": "https://open.spotify.com/track/4oH03lpFiysmcWex1AyddD"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Grupo bom",
-        "url": "https://open.spotify.com/album/18d9vGhP809nhvWbrTLOeD"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        },
-        {
-          "name": "Luan Otten",
-          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
-        }
-      ],
-      "duration_ms": 180669,
-      "name": "Grupo bom",
-      "url": "https://open.spotify.com/track/7jlGVKeRzOz7fGk6pSiPlb"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Pode Ficar",
         "url": "https://open.spotify.com/album/5l2i37UIL7h6gjipBKUNS8"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 196176,
       "name": "Pode Ficar",
       "url": "https://open.spotify.com/track/29XgcktAmOQTG62vI9UveQ"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Grupo bom",
+        "url": "https://open.spotify.com/album/18d9vGhP809nhvWbrTLOeD"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        },
+        {
+          "name": "Luan Otten",
+          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
+        }
+      ],
+      "duration_ms": 180669,
+      "name": "Grupo bom",
+      "url": "https://open.spotify.com/track/7jlGVKeRzOz7fGk6pSiPlb"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "VemK",
-        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 185099,
-      "name": "Meia Noite",
-      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Irreal",
         "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 197073,
       "name": "Voc\u00ea n\u00e3o vive sem",
       "url": "https://open.spotify.com/track/1WHeEGj7gbd834Ema8PHU0"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "VemK",
+        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 185099,
+      "name": "Meia Noite",
+      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
     },
     {
       "added_at": "2024-03-08 03:01:00",

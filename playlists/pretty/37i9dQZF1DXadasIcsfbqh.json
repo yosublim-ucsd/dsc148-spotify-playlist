@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Blake Shelton and Gwen Stefani",
-  "num_followers": 182224,
+  "num_followers": 182297,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjg1YzJlYTYyMTQ3ZTc3NDU3MzBhMTEyZGU3YjBkN2RkMjVjZjIz",
+  "snapshot_id": "MCxkMTU5YjIyNDc2MmE5MTA5MWVmMTE4MjliYTQzYjJjNzI5MTJkNTJj",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0BYiDyfOOhzFrX9ENunvbk"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "duration_ms": 157906,
+      "name": "Take My Name",
+      "url": "https://open.spotify.com/track/7g0Zfd5J6Hzx9M2fRUMuba"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "One Of Them Girls",
         "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 179720,
       "name": "23",
       "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/0BYiDyfOOhzFrX9ENunvbk"
-      },
-      "artists": [
-        {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        }
-      ],
-      "duration_ms": 157906,
-      "name": "Take My Name",
-      "url": "https://open.spotify.com/track/7g0Zfd5J6Hzx9M2fRUMuba"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "For You 2",
+        "url": "https://open.spotify.com/album/2A35FaFPGRANYw0vh0ctRk"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "duration_ms": 154733,
+      "name": "Girl In Mine",
+      "url": "https://open.spotify.com/track/7GYwddIIGF1XuZrh1z1Mta"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Texas (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 198106,
       "name": "Texas (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "For You 2",
-        "url": "https://open.spotify.com/album/2A35FaFPGRANYw0vh0ctRk"
-      },
-      "artists": [
-        {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        }
-      ],
-      "duration_ms": 154733,
-      "name": "Girl In Mine",
-      "url": "https://open.spotify.com/track/7GYwddIIGF1XuZrh1z1Mta"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Bigger Houses",
-        "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 200346,
-      "name": "Save Me The Trouble",
-      "url": "https://open.spotify.com/track/1mbGClliIFnN06tuMdnkZn"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Almost Maybes",
         "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 179152,
       "name": "Almost Maybes",
       "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Bigger Houses",
+        "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 200346,
+      "name": "Save Me The Trouble",
+      "url": "https://open.spotify.com/track/1mbGClliIFnN06tuMdnkZn"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Giddy Up!",
+        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 162665,
+      "name": "Giddy Up!",
+      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Nothing Compares To You (Feat. Kane Brown)",
         "url": "https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 207800,
       "name": "Nothing Compares To You (Feat. Kane Brown)",
       "url": "https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Giddy Up!",
-        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 162665,
-      "name": "Giddy Up!",
-      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "last one to love me",
+        "url": "https://open.spotify.com/album/33V8IILExjWEcG090y219U"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "duration_ms": 146800,
+      "name": "last one to love me",
+      "url": "https://open.spotify.com/track/3yD9M6hIAudzN8HVfBmfln"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Where We Started",
         "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 205946,
       "name": "Home Sweet",
       "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "last one to love me",
-        "url": "https://open.spotify.com/album/33V8IILExjWEcG090y219U"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        }
-      ],
-      "duration_ms": 146800,
-      "name": "last one to love me",
-      "url": "https://open.spotify.com/track/3yD9M6hIAudzN8HVfBmfln"
     },
     {
       "added_at": "2024-03-22 04:00:00",

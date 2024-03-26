@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-447 songs - 1 day 4 hr 40 min
+448 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [Strangers](https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0) | 3:40 | 2024-01-12 |  |
 | [Strangers](https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:40 | 2021-03-19 | 2024-01-12 |
 | [Summer Days \- Roosevelt Remix](https://open.spotify.com/track/00cSN1TMyHZErfyJbLMB05) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Summer Days \(Roosevelt Remix\)](https://open.spotify.com/album/3zQND4xGXB0IkefiO6c1Ok) | 3:28 | 2020-12-22 | 2022-04-21 |
-| [Summer Days \- Roosevelt Remix](https://open.spotify.com/track/3eM70BLTVSo6SLOS3vazXp) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 3:28 | 2020-12-22 |  |
+| [Summer Days \- Roosevelt Remix](https://open.spotify.com/track/3eM70BLTVSo6SLOS3vazXp) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 3:28 | 2020-12-22 | 2024-03-26 |
 | [Summer Lover \(Summer Remix\)](https://open.spotify.com/track/4Ggnc5U1z9yrCdYnDGWDnE) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt), [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [Summer Lover \(Summer Remix\)](https://open.spotify.com/album/1D68ZUNmBKmXogY1Wie6eU) | 3:04 | 2022-05-13 | 2022-06-04 |
 | [Summer Of Now](https://open.spotify.com/track/5zTfqZCIVxgBjH55WDzeR7) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Before](https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE) | 4:11 | 2020-12-22 | 2022-04-21 |
 | [Sunlight \(feat\. Years and Years\) \- Darius Remix](https://open.spotify.com/track/2FsGvAxjBVUCaFrm3uDmHV) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [Sunlight \(feat\. Years & Years\) \[Remixes\]](https://open.spotify.com/album/08jeLY28AzZc8yEQ9jcUBO) | 4:04 | 2020-12-22 | 2024-03-23 |
@@ -427,6 +427,7 @@
 | [Waiting for You](https://open.spotify.com/track/3roIMJGZbUwNCIl0UbxtgE) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL) | [Waiting for You](https://open.spotify.com/album/5mmhQhOyxwTmaRq2DVOnLU) | 4:44 | 2020-12-22 | 2022-04-17 |
 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 | 2023-12-08 | 2024-01-27 |
 | [Walking Home to You \(RAC Mix\)](https://open.spotify.com/track/1AjjtVlQEDRp6obXze4xGl) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Walking Home to You \(RAC Mix\)](https://open.spotify.com/album/5p0k5EZvya5VoDdirGlF1q) | 3:36 | 2020-12-22 | 2022-07-29 |
+| [Waste No Time](https://open.spotify.com/track/1BDvHdiBdRPw2QH8v0UuU5) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Lost In A New Era](https://open.spotify.com/album/5Dk9MMNDnVI0KuCGyJV5xM) | 3:57 | 2024-03-25 |  |
 | [Water \- FKJ Remix](https://open.spotify.com/track/04bAqpyuPCsgZAfnbsGDXx) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Water \(FKJ Remix\)](https://open.spotify.com/album/3Y5zUsDwVrbVM408CAKXiz) | 3:19 | 2020-12-22 | 2022-07-29 |
 | [We Belong \- Odesza Remix](https://open.spotify.com/track/4tO93FtEpqdVA0b9RXK4xI) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Katie Herzig](https://open.spotify.com/artist/5jbP6txZCMe5l7QLZ1pmJ3) | [We Belong \(Odesza Remix\)](https://open.spotify.com/album/4CXye0cetb3quBfN2PE5nb) | 5:18 | 2020-12-22 | 2023-11-18 |
 | [We Moved \- Edit](https://open.spotify.com/track/3Cb3u4BkHWcRVPp04zDsx9) | [J.Views](https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ), [Benja Lyman](https://open.spotify.com/artist/5eSeBQU6hhknzhLt4nLaEN) | [We Moved \(Edit\)](https://open.spotify.com/album/3Tzt6e2j5gBNiVkX4AYgIS) | 3:03 | 2020-12-22 | 2022-04-18 |

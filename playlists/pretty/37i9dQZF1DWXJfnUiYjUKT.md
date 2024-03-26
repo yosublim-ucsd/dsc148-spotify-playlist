@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,683 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,929 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [True North](https://open.spotify.com/track/21nd6ZeppvtuHs227hLUZB) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [True North / Parking Lot](https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV) | 3:13 |
 | 100 | [Yesterday](https://open.spotify.com/track/2KU6NNHXLbXPDgzwzuc4d9) | [Kenya Vaun](https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk) | [The Honeymoon Phase](https://open.spotify.com/album/4WfYXkR5ufqGEyZteQHzkT) | 3:27 |
 
-Snapshot ID: `MCw1MDIxODNlNWY0NWU4NjY5NjIzYTM4ODhhMTM3NTIxNDk2ZTRhMWIy`
+Snapshot ID: `MCxmYzRkNmUwOWQ2MGY4OTY3ZGViOWUxZDkzODc5OWNkMWMyOThmMDEx`

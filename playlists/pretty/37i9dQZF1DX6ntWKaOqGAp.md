@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > The biggest Japanese rock hits right now\.  Cover: Ryokuoushoku Shakai \(緑黄色社会\)　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,538 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,584 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [DUAL EFFECT](https://open.spotify.com/track/3LFNcptartuvcvkuCCvTPP) | [SAKANAMON](https://open.spotify.com/artist/54vKDgG7qoKqB4IHVknTcl) | [liverally.ep](https://open.spotify.com/album/3VMYL8U6FHP4VWjW4rjvj8) | 2:51 |
 | 100 | [LOVELY DESTRUCTION](https://open.spotify.com/track/5IvzUopWfEOxa1wGdI1PMX) | [THIS IS JAPAN](https://open.spotify.com/artist/753OhFtxllDpBJvOmxh6CD) | [LOVELY DESTRUCTION](https://open.spotify.com/album/3wAc9pRpgeaM4zSGKbiutl) | 2:52 |
 
-Snapshot ID: `MCwyOTNkNmNhYjQ0YzQ3YTMyNzMyYzYxYTBmNWQwNmEyOGNhYWMxOTU5`
+Snapshot ID: `MCw1MmMwMzVhYTdkYmQ1YmVlOTM4NjQ1ODYzOWM4YWQ2NTMyZTIxODIz`

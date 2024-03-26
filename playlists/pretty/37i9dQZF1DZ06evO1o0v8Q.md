@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 
 > This is Turnstile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,219 likes - 33 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,235 likes - 33 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 | 32 | [New Rules](https://open.spotify.com/track/41qY7F57ob5JSwboHiPoBk) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 2:36 |
 | 33 | [Pressure to Succeed](https://open.spotify.com/track/6lgwU51adM1hZwgFWLF2nh) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 3:13 |
 
-Snapshot ID: `Mjg1MjEzNzAsMDAwMDAwMDAxZWQ3N2UyODJhYjMwNDg1MjUyNzhlOWNlZWYwZjQ3ZA==`
+Snapshot ID: `Mjg1MjI4ODgsMDAwMDAwMDBlNDY1OTY0ZWNjMzhlYjRmY2MwNzg5ZTgyMDBlNzIxNw==`

@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 566,
+  "num_followers": 179,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDQ1MzczNzA1ZGVmYWEzYzhhZWNjNmQwMjMxZDYzYWUxMzg4YTg1",
+  "snapshot_id": "MCw3ZGJkMGUzY2MzOTc1MDE1ZDQ4NTdkMDBkYTE5Y2IzYjM2YWJlNjVl",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -523,6 +523,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ"
+      },
+      "artists": [
+        {
+          "name": "Scuba",
+          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
+        }
+      ],
+      "duration_ms": 339391,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Ardore (feat. Tobias Bernstrup)",
         "url": "https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 212903,
       "name": "Ardore",
       "url": "https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Forgive Me",
-        "url": "https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ"
-      },
-      "artists": [
-        {
-          "name": "Scuba",
-          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
-        }
-      ],
-      "duration_ms": 339391,
-      "name": "Forgive Me",
-      "url": "https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -607,6 +607,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Net Loss",
+        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
+      },
+      "artists": [
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "duration_ms": 376271,
+      "name": "Listen to the Band - Club Mix",
+      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Inglorious Express EP",
         "url": "https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 400259,
       "name": "Prisoner Of Love",
       "url": "https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Net Loss",
-        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
-      },
-      "artists": [
-        {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
-        }
-      ],
-      "duration_ms": 376271,
-      "name": "Listen to the Band - Club Mix",
-      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -739,22 +739,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
-      },
-      "artists": [
-        {
-          "name": "Fort Romeau",
-          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
-        }
-      ],
-      "duration_ms": 393973,
-      "name": "Fantasia",
-      "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Sununguka (feat. Zeke Manyika)",
         "url": "https://open.spotify.com/album/76Lws0FxWfj2TRHvpvGf98"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 444514,
       "name": "Sununguka (feat. Zeke Manyika) - Alan Dixon Italo Mix",
       "url": "https://open.spotify.com/track/7Iwv3WVOhjCpv9zGcnTFzz"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "duration_ms": 393973,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
     },
     {
       "added_at": "2021-08-27 15:45:01",

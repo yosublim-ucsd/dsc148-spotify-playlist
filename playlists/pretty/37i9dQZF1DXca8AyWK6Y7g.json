@@ -1,12 +1,12 @@
 {
   "description": "now you're talkin' 'bout me too \ud83d\udcf7: Zoe Ko",
-  "num_followers": 1495546,
+  "num_followers": 1496054,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjQwNjg0MTFhMzViOGU5NjQ3MWZlODEwM2U0MDI2NjQxOWNmZDI1",
+  "snapshot_id": "MCxiZjQ0NTk0YmVjNzFmNTFjZGI4M2Y1ZTcyNWQxOTFiNDE5YzBkMTJj",
   "tracks": [
     {
       "added_at": "2024-03-22 04:18:26",
@@ -64,7 +64,7 @@
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "What Happens Now?",
-        "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
+        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
       },
       "artists": [
         {
@@ -74,7 +74,7 @@
       ],
       "duration_ms": 171782,
       "name": "Austin",
-      "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
+      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 154516,
-      "name": "love is embarrassing",
-      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -423,18 +407,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Everything To Everyone",
-        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
       "artists": [
         {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 156631,
-      "name": "Too Well",
-      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
+      "duration_ms": 154516,
+      "name": "love is embarrassing",
+      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -499,6 +483,22 @@
       "duration_ms": 149027,
       "name": "Lonely Dancers",
       "url": "https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 156631,
+      "name": "Too Well",
+      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -777,6 +777,22 @@
       "url": "https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS"
     },
     {
+      "added_at": "2024-03-22 04:18:26",
+      "album": {
+        "name": "clouds",
+        "url": "https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 162615,
+      "name": "clouds",
+      "url": "https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "FU In My Head",
@@ -791,6 +807,22 @@
       "duration_ms": 167248,
       "name": "FU In My Head",
       "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "stacy's brother",
+        "url": "https://open.spotify.com/album/3T3XGndYk7rJWwYJZLvS68"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "stacy's brother",
+      "url": "https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -827,22 +859,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "stacy's brother",
-        "url": "https://open.spotify.com/album/3T3XGndYk7rJWwYJZLvS68"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "stacy's brother",
-      "url": "https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "The Roads",
         "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 250597,
       "name": "The Roads",
       "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
-    },
-    {
-      "added_at": "2024-03-22 04:18:26",
-      "album": {
-        "name": "clouds",
-        "url": "https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 162615,
-      "name": "clouds",
-      "url": "https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Home To Another One",
+        "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 149108,
+      "name": "Home To Another One",
+      "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 162647,
       "name": "Me, Myself & Your Eyes",
       "url": "https://open.spotify.com/track/0KbiElEOrLB2Yeo8aHkenq"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Home To Another One",
-        "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 149108,
-      "name": "Home To Another One",
-      "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "First To Go",
-        "url": "https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 173066,
-      "name": "First To Go",
-      "url": "https://open.spotify.com/track/3RGTkawjlaqoIsgWSPM47w"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
         "url": "https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK"
       },
@@ -1147,34 +1131,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Burton St.",
-        "url": "https://open.spotify.com/album/4VEZamvG17yncSjEaKvarZ"
+        "name": "First To Go",
+        "url": "https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl"
       },
       "artists": [
         {
-          "name": "OSTON",
-          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 196213,
-      "name": "Burton St.",
-      "url": "https://open.spotify.com/track/3rDqVSKIclW1yVsnTVikcZ"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Maybe Life Is Good",
-        "url": "https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 190853,
-      "name": "Maybe Life Is Good",
-      "url": "https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn"
+      "duration_ms": 173066,
+      "name": "First To Go",
+      "url": "https://open.spotify.com/track/3RGTkawjlaqoIsgWSPM47w"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1195,6 +1163,54 @@
       "duration_ms": 174581,
       "name": "closer (feat. salem ilese)",
       "url": "https://open.spotify.com/track/0woZCazDDjtcbfbb1ouPnM"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "I Hope It All Works Out",
+        "url": "https://open.spotify.com/album/57AwLs6IEbB6eicGU0483i"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 167083,
+      "name": "I Hope It All Works Out",
+      "url": "https://open.spotify.com/track/0tdO9pgHBCo2LCmWzfwZTy"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Burton St.",
+        "url": "https://open.spotify.com/album/4VEZamvG17yncSjEaKvarZ"
+      },
+      "artists": [
+        {
+          "name": "OSTON",
+          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
+        }
+      ],
+      "duration_ms": 196213,
+      "name": "Burton St.",
+      "url": "https://open.spotify.com/track/3rDqVSKIclW1yVsnTVikcZ"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Not The 1975",
+        "url": "https://open.spotify.com/album/1HVxIc8XOtdFhuIQZdTPx9"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 198022,
+      "name": "Not The 1975",
+      "url": "https://open.spotify.com/track/0tireFhMGfLWtbelX0EBqd"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1231,34 +1247,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Not The 1975",
-        "url": "https://open.spotify.com/album/1HVxIc8XOtdFhuIQZdTPx9"
+        "name": "Maybe Life Is Good",
+        "url": "https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO"
       },
       "artists": [
         {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
         }
       ],
-      "duration_ms": 198022,
-      "name": "Not The 1975",
-      "url": "https://open.spotify.com/track/0tireFhMGfLWtbelX0EBqd"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "I Hope It All Works Out",
-        "url": "https://open.spotify.com/album/57AwLs6IEbB6eicGU0483i"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 167083,
-      "name": "I Hope It All Works Out",
-      "url": "https://open.spotify.com/track/0tdO9pgHBCo2LCmWzfwZTy"
+      "duration_ms": 190853,
+      "name": "Maybe Life Is Good",
+      "url": "https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "age tape 10",
-        "url": "https://open.spotify.com/album/25orBHW7uijdOQi29a8wag"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 153191,
-      "name": "hard enough to stay alive",
-      "url": "https://open.spotify.com/track/4fKn4WivcX3bRxCfuS88xS"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Smoke Signal",
         "url": "https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 173808,
       "name": "GORGEOUS",
       "url": "https://open.spotify.com/track/4vowH3BCuj5NHsdU4YHeLh"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "age tape 10",
+        "url": "https://open.spotify.com/album/25orBHW7uijdOQi29a8wag"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 153191,
+      "name": "hard enough to stay alive",
+      "url": "https://open.spotify.com/track/4fKn4WivcX3bRxCfuS88xS"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "B.I.L.L.S.",
+        "url": "https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "duration_ms": 134920,
+      "name": "B.I.L.L.S.",
+      "url": "https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "little miss misogyny",
         "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 158955,
       "name": "Make Me Your Mrs",
       "url": "https://open.spotify.com/track/2FVEPuJo6IQ078JPdQ5gVb"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "B.I.L.L.S.",
-        "url": "https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 134920,
-      "name": "B.I.L.L.S.",
-      "url": "https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Why Can\u2019t I Have Two? (2468) / DILF",
-        "url": "https://open.spotify.com/album/5R06NvE2q2iQm8akxCC3F5"
-      },
-      "artists": [
-        {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
-        }
-      ],
-      "duration_ms": 139662,
-      "name": "Why Can\u2019t I Have Two? (2468)",
-      "url": "https://open.spotify.com/track/7ISQPiQJSInnKnMxBNSwFs"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Forever Drunk",
         "url": "https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 190107,
       "name": "Forever Drunk",
       "url": "https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Why Can\u2019t I Have Two? (2468) / DILF",
+        "url": "https://open.spotify.com/album/5R06NvE2q2iQm8akxCC3F5"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "duration_ms": 139662,
+      "name": "Why Can\u2019t I Have Two? (2468)",
+      "url": "https://open.spotify.com/track/7ISQPiQJSInnKnMxBNSwFs"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Dangerous Game",
-        "url": "https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        }
-      ],
-      "duration_ms": 158647,
-      "name": "Dangerous Game",
-      "url": "https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Sex In Public",
         "url": "https://open.spotify.com/album/77V0Iyb9fUZsUNj4iCs7NV"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 143531,
       "name": "Sex In Public",
       "url": "https://open.spotify.com/track/6iyWZc91qCpdJZwv3rY7xk"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Dangerous Game",
+        "url": "https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 158647,
+      "name": "Dangerous Game",
+      "url": "https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "here lies what could've been",
-        "url": "https://open.spotify.com/album/3zVrlJirpuPmf41auiBCpt"
-      },
-      "artists": [
-        {
-          "name": "Maxwell Luke",
-          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
-        }
-      ],
-      "duration_ms": 221298,
-      "name": "here lies what could've been",
-      "url": "https://open.spotify.com/track/1PI3oda9wcNZOEYokQxhds"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "I Woke Up",
         "url": "https://open.spotify.com/album/40s29e7Y7S6ZlaYyYf520J"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 158888,
       "name": "I Woke Up",
       "url": "https://open.spotify.com/track/7CSJbewzvnIblizU3aDuIr"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "here lies what could've been",
+        "url": "https://open.spotify.com/album/3zVrlJirpuPmf41auiBCpt"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Luke",
+          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
+        }
+      ],
+      "duration_ms": 221298,
+      "name": "here lies what could've been",
+      "url": "https://open.spotify.com/track/1PI3oda9wcNZOEYokQxhds"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2363,6 +2363,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "the roaring twenties",
+        "url": "https://open.spotify.com/album/61royB3qzaFhXLp8e0gCtY"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "liar",
+      "url": "https://open.spotify.com/track/0qoU0LcyRaNKgVFwNlqo88"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Power, Sex, Dreams",
         "url": "https://open.spotify.com/album/4v5oF4WRck0udkteUqDHHZ"
       },
@@ -2411,18 +2427,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "the roaring twenties",
-        "url": "https://open.spotify.com/album/61royB3qzaFhXLp8e0gCtY"
+        "name": "What A Devastating Turn of Events",
+        "url": "https://open.spotify.com/album/0FXc0lWPUHEYMYbcdD96IB"
       },
       "artists": [
         {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 134000,
-      "name": "liar",
-      "url": "https://open.spotify.com/track/0qoU0LcyRaNKgVFwNlqo88"
+      "duration_ms": 205431,
+      "name": "Never Need Me",
+      "url": "https://open.spotify.com/track/5cZgnG4VGLav8o8m4tPdqE"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2439,22 +2455,6 @@
       "duration_ms": 156090,
       "name": "Lost Cowboy",
       "url": "https://open.spotify.com/track/3tY2XzxCwgL1hBVuqlvGSw"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "What A Devastating Turn of Events",
-        "url": "https://open.spotify.com/album/0FXc0lWPUHEYMYbcdD96IB"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 205431,
-      "name": "Never Need Me",
-      "url": "https://open.spotify.com/track/5cZgnG4VGLav8o8m4tPdqE"
     }
   ],
   "unique_name": "young & free",

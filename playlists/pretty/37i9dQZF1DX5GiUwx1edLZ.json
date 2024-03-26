@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 276550,
+  "num_followers": 276564,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzVlNWViZWRiOGUxNDQ5NGQ3YTY5YTNjNjQ2MzZhMThlNjg2NmFj",
+  "snapshot_id": "MCxmNzBmZThiNjFhZjMxZTgzOWMxM2EwZGJmZGM5NzkxYTkzY2QzYjA1",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Glorious",
-        "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        }
-      ],
-      "duration_ms": 165653,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "All That Really Matters (Stripped Version)",
         "url": "https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 198568,
       "name": "All That Really Matters - Stripped Version",
       "url": "https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -535,6 +535,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Symphony (feat. Zara Larsson) [Acoustic]",
+        "url": "https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "Symphony (feat. Zara Larsson) - Acoustic Version",
+      "url": "https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Happier (Stripped)",
         "url": "https://open.spotify.com/album/45mLpZJlL5jNHxK2hk0BS8"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 251760,
       "name": "Tri-State",
       "url": "https://open.spotify.com/track/35TLjgolZVn4NlnaMyWh3p"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Symphony (feat. Zara Larsson) [Acoustic]",
-        "url": "https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 216413,
-      "name": "Symphony (feat. Zara Larsson) - Acoustic Version",
-      "url": "https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 288026,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Smoke Filled Room (Acoustic Session)",
         "url": "https://open.spotify.com/album/3VB0x2kFdt2T2ytvT3071d"
       },
@@ -899,22 +915,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 288026,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Brand New Machine",
         "url": "https://open.spotify.com/album/5gWfcBhMIrPxudHnnMXSdX"
       },
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "On My Love (Live Acoustic)",
-        "url": "https://open.spotify.com/album/4dBBsaKdTO58KorP8Z9qc3"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 224428,
-      "name": "On My Love - Live Acoustic",
-      "url": "https://open.spotify.com/track/0CZ0NcS4jXLR4I2zM3FKGq"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Clarity (Remixes)",
         "url": "https://open.spotify.com/album/2BgayRsdVhn6knKI5cgUFS"
       },
@@ -979,6 +959,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "On My Love (Live Acoustic)",
+        "url": "https://open.spotify.com/album/4dBBsaKdTO58KorP8Z9qc3"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 224428,
+      "name": "On My Love - Live Acoustic",
+      "url": "https://open.spotify.com/track/0CZ0NcS4jXLR4I2zM3FKGq"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Safe With Me (with Audrey Mika) [Acoustic]",
         "url": "https://open.spotify.com/album/1OTXmfSLAWBuAShzey4hJv"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 203258,
       "name": "Safe With Me (with Audrey Mika) - Acoustic",
       "url": "https://open.spotify.com/track/2O5pJf3YqnPEvWeeLELl7R"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "We Are All We Need",
+        "url": "https://open.spotify.com/album/6coJxgM3dkzZbbuPBVVcOW"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 117506,
+      "name": "Quieter Is Louder",
+      "url": "https://open.spotify.com/track/5kayymwaZyTtdGilvwJQw5"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1055,22 +1071,6 @@
       "duration_ms": 239453,
       "name": "Never Let You Go (feat. John Newman) - Acoustic Version",
       "url": "https://open.spotify.com/track/0hsEwB7RvpWOJYZnAF4j4E"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "We Are All We Need",
-        "url": "https://open.spotify.com/album/6coJxgM3dkzZbbuPBVVcOW"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 117506,
-      "name": "Quieter Is Louder",
-      "url": "https://open.spotify.com/track/5kayymwaZyTtdGilvwJQw5"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        }
+      ],
+      "duration_ms": 260839,
+      "name": "Thing Called Love",
+      "url": "https://open.spotify.com/track/04dOtnqQD8Sn8RJ8DJZFZb"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Hurricane (Acoustic Version)",
         "url": "https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 216339,
       "name": "Where Are \u00dc Now LIVE (with Justin Bieber)",
       "url": "https://open.spotify.com/track/1CjiAOoegmUDgbhKzAqSkl"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
-        }
-      ],
-      "duration_ms": 260839,
-      "name": "Thing Called Love",
-      "url": "https://open.spotify.com/track/04dOtnqQD8Sn8RJ8DJZFZb"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Recognise (Remixes)",
-        "url": "https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Flynn",
-          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "Recognise - Acoustic Version",
-      "url": "https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Acoustic Collection (Vol. 1)",
         "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
       },
@@ -1483,26 +1463,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Here Tonight (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3riI0LyX9QUpboMEgjGgju"
+        "name": "Recognise (Remixes)",
+        "url": "https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8"
       },
       "artists": [
         {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         },
         {
-          "name": "Jay Cosmic",
-          "url": "https://open.spotify.com/artist/0p7L2MImTqtWEAlMN9qHYx"
-        },
-        {
-          "name": "Collin McLoughlin",
-          "url": "https://open.spotify.com/artist/6oKeE1UH8FizqNPScqM1NE"
+          "name": "Flynn",
+          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
         }
       ],
-      "duration_ms": 167619,
-      "name": "Here Tonight - Acoustic Version",
-      "url": "https://open.spotify.com/track/6EJAP09tSNsp7kBhtC8Fcg"
+      "duration_ms": 169466,
+      "name": "Recognise - Acoustic Version",
+      "url": "https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1587,22 +1563,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Used To Have It All (Acoustic Version)",
-        "url": "https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ"
+        "name": "Here Tonight (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3riI0LyX9QUpboMEgjGgju"
       },
       "artists": [
         {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
         },
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Jay Cosmic",
+          "url": "https://open.spotify.com/artist/0p7L2MImTqtWEAlMN9qHYx"
+        },
+        {
+          "name": "Collin McLoughlin",
+          "url": "https://open.spotify.com/artist/6oKeE1UH8FizqNPScqM1NE"
         }
       ],
-      "duration_ms": 181934,
-      "name": "Used To Have It All - Acoustic",
-      "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
+      "duration_ms": 167619,
+      "name": "Here Tonight - Acoustic Version",
+      "url": "https://open.spotify.com/track/6EJAP09tSNsp7kBhtC8Fcg"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1623,6 +1603,26 @@
       "duration_ms": 245066,
       "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
       "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Used To Have It All (Acoustic Version)",
+        "url": "https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ"
+      },
+      "artists": [
+        {
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 181934,
+      "name": "Used To Have It All - Acoustic",
+      "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "I Could Be The One [Avicii vs Nicky Romero] (Remixes)",
-        "url": "https://open.spotify.com/album/1EzEbNySBZEQq6swaClGw0"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 231426,
-      "name": "I Could Be The One [Avicii vs Nicky Romero] - Noonie Bao Acoustic Mix",
-      "url": "https://open.spotify.com/track/5jENp0YwSkdQt9VbYI0DAC"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Acoustic Collection (Vol. 1)",
         "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
       },
@@ -1939,22 +1919,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
-        "url": "https://open.spotify.com/album/3hKRY4DD8oIvlKOsfaMqcM"
+        "name": "I Could Be The One [Avicii vs Nicky Romero] (Remixes)",
+        "url": "https://open.spotify.com/album/1EzEbNySBZEQq6swaClGw0"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
         },
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 161146,
-      "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
-      "url": "https://open.spotify.com/track/5SaWCxHm3nONtaL0pNxiJZ"
+      "duration_ms": 231426,
+      "name": "I Could Be The One [Avicii vs Nicky Romero] - Noonie Bao Acoustic Mix",
+      "url": "https://open.spotify.com/track/5jENp0YwSkdQt9VbYI0DAC"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1975,6 +1955,26 @@
       "duration_ms": 229701,
       "name": "Waiting - Strings & Vocals Mix",
       "url": "https://open.spotify.com/track/6ctvgLJJZQkdzch0L1dj7X"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
+        "url": "https://open.spotify.com/album/3hKRY4DD8oIvlKOsfaMqcM"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 161146,
+      "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
+      "url": "https://open.spotify.com/track/5SaWCxHm3nONtaL0pNxiJZ"
     }
   ],
   "unique_name": "mint Acoustic",

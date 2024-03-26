@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-931 songs - 2 day 2 hr 34 min
+932 songs - 2 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Drop Dead](https://open.spotify.com/track/3i4CFXy3ezQZEt8V0GA7Uh) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Drop Dead](https://open.spotify.com/album/2WxwbxrV7YRjWfM64hXbNR) | 2:57 | 2020-08-14 | 2021-01-08 |
 | [Drunk Enough To](https://open.spotify.com/track/1cgvB6KaL16ibyrJHhZeG0) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say \- EP](https://open.spotify.com/album/05I0k7IIbI8gDc6ONo5E0E) | 3:18 | 2020-06-13 | 2021-01-08 |
 | [drunk text me](https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [drunk text me](https://open.spotify.com/album/5UnfL0nJwrdb5th8GyZArU) | 3:33 | 2022-02-17 | 2022-04-26 |
-| [drunk text me](https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:33 | 2022-07-07 |  |
+| [drunk text me](https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:33 | 2022-07-07 | 2024-03-26 |
 | [Dumb Love](https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Dumb Love](https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8) | 3:27 | 2021-07-24 | 2022-07-29 |
 | [Dust](https://open.spotify.com/track/7gKB72lW18lE0pfo9GMzMJ) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [After The Landslide](https://open.spotify.com/album/02DGbYqBLeNFuCx7SB200D) | 3:18 | 2019-05-25\* | 2020-04-03 |
 | [Easier](https://open.spotify.com/track/4tNXntkAzQ5A2dfYRYGIIQ) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Easier](https://open.spotify.com/album/0puSqXoH0dMgimvyi5slCt) | 2:37 | 2019-05-31 | 2019-06-08 |
@@ -528,6 +528,7 @@
 | [Low Beams](https://open.spotify.com/track/5tYqK9de9RC6PMKDaJvr4Q) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Long Game](https://open.spotify.com/album/1JEM6cvLIfeLtnphHFnQK4) | 2:35 | 2019-10-25 | 2020-10-21 |
 | [Mad at Disney](https://open.spotify.com/track/0PlzctO0nv2sSIFmqDSE6h) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye) | 2:16 | 2023-11-30 |  |
 | [Mad at Disney](https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Mad at Disney](https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P) | 2:16 | 2020-09-07 | 2023-10-25 |
+| [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-03-25 |  |
 | [Magazines](https://open.spotify.com/track/7gT71c6WzCkifRtSQbggGz) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Magazines](https://open.spotify.com/album/4hL7bPlgURwziybd5zBuEo) | 3:40 | 2021-05-24 | 2021-05-25 |
 | [Mai Tais \(feat\. Skylar Grey\)](https://open.spotify.com/track/58e08QJdz9zs7AY2KiiHBt) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Mai Tais \(feat\. Skylar Grey\)](https://open.spotify.com/album/5dtKqmSeXNh85Mt7tjP3Vt) | 3:44 | 2020-01-04 | 2022-04-21 |
 | [Make the Move](https://open.spotify.com/track/2ymSNj7e3CjonAXyN9etmb) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [MELLOW!](https://open.spotify.com/album/6vY7z4ZBD3vgQgnG7JIBtL) | 2:55 | 2019-05-25\* | 2020-02-28 |

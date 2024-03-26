@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,177 likes - 79 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,188 likes - 79 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 | 3 | [U Got Me](https://open.spotify.com/track/2FGxtHUsfE465RmOp0uM4g) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [U Got Me](https://open.spotify.com/album/1XM4mIMDCHN8CIt6I1djBb) | 3:21 |
 | 4 | [Unconditional](https://open.spotify.com/track/7vzHvUDu54lnqcC9fB315l) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unconditional](https://open.spotify.com/album/02UTbY9xBxoKjiM9mDh529) | 3:04 |
 | 5 | [Smoke In Your Eyes](https://open.spotify.com/track/2Kurh5hEYRgzDzuahjHytQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Ossie](https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Smoke In Your Eyes](https://open.spotify.com/album/5EEitGHmxCB0XD0rtV3bE7) | 6:31 |
-| 6 | [MONCLER](https://open.spotify.com/track/4kbMThlSBxsO7AJL12eNrb) | [CHAIME](https://open.spotify.com/artist/5ntCtEJfmuE4RPQyGyN7CB) | [MONCLER](https://open.spotify.com/album/37EPREjGXwMHqZtRlMW8qO) | 3:19 |
+| 6 | [MONCLER](https://open.spotify.com/track/4kbMThlSBxsO7AJL12eNrb) | [CHAIME](https://open.spotify.com/artist/5ntCtEJfmuE4RPQyGyN7CB), [Richlife Ty](https://open.spotify.com/artist/635xRlHSCQuE8nKjwSzPMe) | [MONCLER](https://open.spotify.com/album/37EPREjGXwMHqZtRlMW8qO) | 3:19 |
 | 7 | [Running from the Noise \- Edit](https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Running from the Noise \(Edit\)](https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1) | 3:10 |
 | 8 | [6am \- Coco & Breezy Remix](https://open.spotify.com/track/0Nom3w6sDfN2ZWtjnVaaAz) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [6am \(Remixes\)](https://open.spotify.com/album/6BC8XFfI3Kmm5mCiFvX1zR) | 3:59 |
 | 9 | [PIXAR](https://open.spotify.com/track/3K2AjofnBXR4IiKdI4jdWP) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [PIXAR](https://open.spotify.com/album/5K41VmBBw9UpuP2WCCuMLw) | 2:40 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 | 78 | [Mine O' Mine](https://open.spotify.com/track/5zyxYOyV7Bt4srefSOfJN8) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Mine O' Mine](https://open.spotify.com/album/23NpTRdC0H3XJbRoVZ7ZHB) | 3:13 |
 | 79 | [BEETGOZON \(DJ Kwamzy 'Amapiano' Remix\)](https://open.spotify.com/track/4ggADc9LlBu7cV0etZRzXc) | [RM47](https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL), [Prince African Child](https://open.spotify.com/artist/3nNV5KJxjANcM8IIFIi39X), [DJ Kwamzy](https://open.spotify.com/artist/3hiqYAXIosBBDG9Uqxt37h) | [BEETGOZON \(DJ Kwamzy 'Amapiano' Remix\)](https://open.spotify.com/album/2pHq11yAYqIR5P360eFXzk) | 6:01 |
 
-Snapshot ID: `MCw5ODFiNTQzODc3ZDNkZGU0M2NmZjlkNTA2NjNmNjMzYTNmZTMwNTgz`
+Snapshot ID: `MCxiNmI0OWU1MzFkMTM4MzYzNjcxYjczNDAxN2Q1MDQ1ZTI0ZDRkZWU5`

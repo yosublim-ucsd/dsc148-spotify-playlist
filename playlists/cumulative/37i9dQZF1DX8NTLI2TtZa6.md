@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-498 songs - 21 hr 19 min
+500 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Emerald](https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew) | [Agatha Messina](https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI) | [Emerald](https://open.spotify.com/album/68F0SS9ueRjE4NUhAReYDE) | 2:17 | 2024-02-13 |  |
 | [Emerald](https://open.spotify.com/track/6Y6xWTWRzij8b6qcRbOnDh) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Emerald](https://open.spotify.com/album/5nkbs2eOGUOuSGkMd2nmfR) | 2:42 | 2021-12-07 | 2023-04-19 |
 | [Endearing](https://open.spotify.com/track/3iyyTUxW6Y7StfgGFzwHte) | [Harriet Ward](https://open.spotify.com/artist/5JgjuQre7URctYtCdsmO7Y) | [Endearing](https://open.spotify.com/album/4igF9besSJ9l4MzQQfT9SK) | 2:17 | 2021-12-07 | 2023-05-10 |
+| [Equinox](https://open.spotify.com/track/4wv3ixqGPuO0Rdbf3Ut0PU) | [Marco Apicella](https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms) | [Equinox](https://open.spotify.com/album/7HngB2j6G8OPPegkEIEBXY) | 2:58 | 2024-03-25 |  |
 | [Escape With Me](https://open.spotify.com/track/3cvXr0N2DWk8qeFVS1JEgo) | [Marina Aden](https://open.spotify.com/artist/0sSwEGrgOOrG2RVtPF5weI) | [Escape With Me](https://open.spotify.com/album/5KPh3wnnOwsWBKJl4rIVFm) | 2:34 | 2023-04-18 |  |
 | [Espérer](https://open.spotify.com/track/41tIf2rMJfYKpsZpU0Mj5M) | [Lunete Guillory](https://open.spotify.com/artist/77ZgHWAR9tmBMgQ759Qxgg) | [Espérer](https://open.spotify.com/album/7erovFp7Y94PfsNwDhYcJm) | 2:19 | 2021-12-07 |  |
 | [Evening](https://open.spotify.com/track/1O20Wf66xnmyiFITgfq0no) | [Sakkari](https://open.spotify.com/artist/6vdV4uIfIEB62qFn9KqE2I) | [Evening](https://open.spotify.com/album/2ghCnGPfjGW3P11ZQuyF8A) | 1:37 | 2022-11-18 | 2023-03-22 |
@@ -450,6 +451,7 @@
 | [The promenade](https://open.spotify.com/track/7wwoRmaR5PedYCw1iWtjAM) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [The promenade](https://open.spotify.com/album/4j34n7TZ31JyiCgulAMSnJ) | 1:59 | 2023-08-07 | 2023-08-22 |
 | [The Right Course](https://open.spotify.com/track/6vjhLsJbpfclLNSCKHjGTW) | [Jone Lange](https://open.spotify.com/artist/4bG81VTcDhZQpPzrHyWksb) | [The Right Course](https://open.spotify.com/album/1Oa9FqJMkzggnUsHyywQ7Q) | 1:59 | 2023-04-18 | 2023-08-22 |
 | [The Sound of Snow](https://open.spotify.com/track/2x90SHtWXagGmY5w0HVx1i) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [The Sound Of Snow](https://open.spotify.com/album/0WIVuD9M706cCtCSTGCFZY) | 2:35 | 2023-11-20 |  |
+| [The Still](https://open.spotify.com/track/17C3G5g7bBxxRAe6XVWxHA) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [The Still](https://open.spotify.com/album/06eRSftUdtz4u5Zx9s7Ywc) | 2:09 | 2024-03-25 |  |
 | [The Theme of Life](https://open.spotify.com/track/3uAeBJ1Mmdo58cJ8XgjkkC) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Theme of Life](https://open.spotify.com/album/31QPie97sYOMWtwpzCYNUj) | 3:25 | 2023-04-18 |  |
 | [The Voyager](https://open.spotify.com/track/6u8ftnh4bKbKvWNu8ozes8) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [The Voyager](https://open.spotify.com/album/6nBGhLiVCCHBbJH1j8zzYK) | 2:22 | 2023-09-11 |  |
 | [The Wanderer](https://open.spotify.com/track/6BUuhyI6wqIO3N0FMopfOC) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [The Wanderer](https://open.spotify.com/album/0aBHhkCZz14KhXojiJHHWl) | 3:30 | 2024-02-13 |  |

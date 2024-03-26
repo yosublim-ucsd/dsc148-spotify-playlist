@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 
 > Des titres pop, tout en douceur\. Photo : Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,964 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,976 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 | 49 | [I Don't Wanna Lose Myself](https://open.spotify.com/track/5qnkypfRNlDzQB9tZgsw8E) | [ANIKK](https://open.spotify.com/artist/2wvznrRx5MZ2qwqRJPYNmN) | [I Don't Wanna Lose Myself](https://open.spotify.com/album/5UqNEcubHPHBYSRC3ZvbL4) | 3:02 |
 | 50 | [Am I Enough](https://open.spotify.com/track/3Rk34rntbN3CdrBodGA9CY) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Am I Enough](https://open.spotify.com/album/07IrU6rEh8La5R8GSJwoQ8) | 2:47 |
 
-Snapshot ID: `MCxkYTNkYWMxNjllMmFiNzhmODEyZDlkM2IxZTA2MWE0MDJkMTJiMDIz`
+Snapshot ID: `MCw3ZmEyMTZlNWE3NTIxY2M5MmIxOTIwNTdjZTEyNWRlOGRkNjkzMTUx`

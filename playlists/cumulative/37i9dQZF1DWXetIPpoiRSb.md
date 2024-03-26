@@ -4,7 +4,7 @@
 
 > The freshest pop sounds\. Cover: Dasha
 
-1,304 songs - 2 day 17 hr 39 min
+1,307 songs - 2 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,8 +100,9 @@
 | [as long as i have you](https://open.spotify.com/track/01TtrmZEiYitpwDUcPQ6dj) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz) | [as long as i have you](https://open.spotify.com/album/2cSD5WNOxWrEBzfTQUFsh9) | 2:42 | 2021-06-05 | 2021-07-10 |
 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 | 2021-05-08 | 2021-07-17 |
 | [At My Worst](https://open.spotify.com/track/2tI4WyzqOOwC23S5m0kqcB) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [At My Worst \(Joel Corry Remix\)](https://open.spotify.com/album/3dygrCny9zRwSODkRGXV8U) | 2:50 | 2021-01-09 | 2021-04-17 |
+| [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-04 |  |
 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-04 | 2024-03-21 |
-| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-04 |  |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-04 | 2024-03-26 |
 | [AVA](https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA](https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1) | 2:39 | 2022-11-25 | 2023-04-15 |
 | [AVO TOAST](https://open.spotify.com/track/7B5EbapjMpLuK7A7PJUvxn) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [AVO TOAST](https://open.spotify.com/album/4gH45jls1Zx5TSREuO53x9) | 2:41 | 2022-12-16 | 2023-02-25 |
 | [BABYDOLL](https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL](https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u) | 3:16 | 2022-12-02 | 2023-05-13 |
@@ -392,7 +393,8 @@
 | [Falling For You with Justin Bieber](https://open.spotify.com/track/24MWSatP5sTylISvJONhnB) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [CTV3: Cool Tape Vol\. 3](https://open.spotify.com/album/2NuZ1TloomufyKf57ZLBQn) | 3:42 | 2020-10-13\* | 2020-10-17 |
 | [Fallin’ \(Adrenaline\)](https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Fallin’ \(Adrenaline\)](https://open.spotify.com/album/68KIeRyl26qz4Qkrv25FVm) | 3:36 | 2020-10-13\* | 2020-12-05 |
 | [False Alarm](https://open.spotify.com/track/1Q7MqSAEAN6aAVmA8ETY51) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [False Alarm](https://open.spotify.com/album/1RHuJNTn6OF9ZtiUtm79c6) | 2:37 | 2024-01-26 | 2024-03-06 |
-| [False Alarm](https://open.spotify.com/track/1hI5dlKauTtqppdY4qeFJs) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Unlove You](https://open.spotify.com/album/0XOCr1zfM2co1x5dMIjO77) | 2:37 | 2024-03-04 |  |
+| [False Alarm](https://open.spotify.com/track/1ZmhtkgB0EYoH53BoXtXN2) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [selfcare](https://open.spotify.com/album/2NXmQJoHa21xDPxtbrdu5b) | 2:37 | 2024-03-04 |  |
+| [False Alarm](https://open.spotify.com/track/1hI5dlKauTtqppdY4qeFJs) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Unlove You](https://open.spotify.com/album/0XOCr1zfM2co1x5dMIjO77) | 2:37 | 2024-03-04 | 2024-03-26 |
 | [Fancy](https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Fancy](https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG) | 3:11 | 2021-10-16 | 2021-11-13 |
 | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A) | 2:55 | 2023-04-14 | 2023-09-02 |
 | [Fast Times](https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Fast Times](https://open.spotify.com/album/2rR0wpBcmvYpxQd77BWShd) | 2:54 | 2022-02-18 | 2022-04-15 |
@@ -1204,7 +1206,8 @@
 | [Understand](https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 2:51 | 2022-05-06 | 2022-07-09 |
 | [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 | 2023-05-19 | 2023-09-29 |
 | [Unlove You](https://open.spotify.com/track/09aMmvVWk5n7kmsj2NS12a) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Unlove You](https://open.spotify.com/album/61RGgh2zxHHsIzyhqMZEzq) | 2:46 | 2024-03-04 | 2024-03-06 |
-| [Unlove You](https://open.spotify.com/track/2J4vV2TPhtXYUxIHqMCsq4) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Unlove You](https://open.spotify.com/album/0XOCr1zfM2co1x5dMIjO77) | 2:46 | 2024-03-04 |  |
+| [Unlove You](https://open.spotify.com/track/13cItc2bYoLQ1JOMHklf4s) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [selfcare](https://open.spotify.com/album/2NXmQJoHa21xDPxtbrdu5b) | 2:46 | 2024-03-04 |  |
+| [Unlove You](https://open.spotify.com/track/2J4vV2TPhtXYUxIHqMCsq4) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Unlove You](https://open.spotify.com/album/0XOCr1zfM2co1x5dMIjO77) | 2:46 | 2024-03-04 | 2024-03-26 |
 | [Upside Down](https://open.spotify.com/track/614OkajfRPH8V0ugNQnduP) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Upside Down](https://open.spotify.com/album/3zbwyRuqL8HYmRJdtcI4xL) | 1:54 | 2020-10-13\* | 2020-11-21 |
 | [Used To](https://open.spotify.com/track/05PFB9zqsoUv0vFpgGtyWq) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Used To](https://open.spotify.com/album/27yHHNg9w1GevcKAxGvyHN) | 2:52 | 2020-10-13\* | 2020-12-11 |
 | [Used To Be \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2EO3Lksm1VxN9s8vOM37ep) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Used To Be \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/06LLUJBC26sXPATpd70hEH) | 3:40 | 2021-03-19 | 2021-05-14 |

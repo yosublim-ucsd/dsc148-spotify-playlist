@@ -4,7 +4,7 @@
 
 > Go\-Go Music from the heart of Washington, DC.
 
-80 songs - 6 hr 14 min
+85 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,9 @@
 | [Blinding Lights](https://open.spotify.com/track/29RuTRCfXXNmhot7OLq4EQ) | [Black Alley](https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R) | [Blinding Lights](https://open.spotify.com/album/0Es8vWXuh7KaDhO56PzMmy) | 3:31 | 2022-01-29 |  |
 | [Body Snatchers](https://open.spotify.com/track/6smyjljSEtD6shLJMYN3d9) | [Rare Essence](https://open.spotify.com/artist/4vKZXZH0eDibGsDxMVzZDh) | [Body Snatchers](https://open.spotify.com/album/03MnHkvMFqef37sUibcq2G) | 6:03 | 2022-01-29 |  |
 | [Booty Call](https://open.spotify.com/track/5qTFVsgVtZcPdmbiKSh1OP) | [Northeast Groovers](https://open.spotify.com/artist/1IHadvTpb1JrZ5VxqH4FzS) | [Straight From The Basement](https://open.spotify.com/album/4pKISK9UXzq8Q5ZdNDSv4N) | 7:13 | 2022-01-29 |  |
+| [Booty Me Down](https://open.spotify.com/track/1ktrvbvdWLtT5W8pXkBDEr) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [The Best Of X.I.B](https://open.spotify.com/album/162W23SgvdrRzU1kRSK6nA) | 4:54 | 2024-03-25 |  |
 | [Byb Hello \(Bonus Track\)](https://open.spotify.com/track/4T0FAthftPuGCvFF0KsJTV) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Street Antidote](https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3) | 7:48 | 2022-01-29 |  |
+| [Chuck Baby](https://open.spotify.com/track/5BP4MvcQyHwXKzHAeAju6j) | [Chuck Brown](https://open.spotify.com/artist/2ssIfCr0vMmCuesIw9U4eg) | [We're About the Business](https://open.spotify.com/album/0GW2KEasUTILVEi6W4tDMi) | 3:57 | 2024-03-25 |  |
 | [Clap for Me](https://open.spotify.com/track/3KWoxBedjAynqgB7K6GCGI) | [ABM Band](https://open.spotify.com/artist/2eJJQI2s8ZwcVQhGw9NTwH) | [Lock Down the Streets](https://open.spotify.com/album/61JjQOiq3MkHDzCqpuU1C7) | 3:20 | 2022-01-29 |  |
 | [Clappin Song \- Live](https://open.spotify.com/track/49rD206zawYK1k8C55Z7yI) | [TOB](https://open.spotify.com/artist/7COfOGDggDYrMbgI7rEcmk) | [TOB LIVE \(7\-29\-2021\) Hangars Club](https://open.spotify.com/album/1jkom7muvHCaKRXaj39lJL) | 3:51 | 2022-02-04 |  |
 | [Classy](https://open.spotify.com/track/32VYGgCEVGE4WUDvnzuLbW) | [CCB \(Critical Condition Band\)](https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK) | [Critical Condition](https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc) | 4:17 | 2022-01-29 |  |
@@ -28,6 +30,7 @@
 | [Crew \(feat\. Brent Faiyaz\) \- New Impressionz Remix](https://open.spotify.com/track/47smLvlpCoBOPtjxjiDDYO) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [Crew \(Remixes\)](https://open.spotify.com/album/1AdUYWD1SvbB87Ikje1pZG) | 4:20 | 2022-01-29 |  |
 | [Da Butt](https://open.spotify.com/track/29O9cSdpmLZKFcTRMlnqo2) | [E.U.](https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh) | [Lost R&B Hits Of The 80s](https://open.spotify.com/album/5831UaKj0HhYwfftwVQdHk) | 5:14 | 2022-01-29 |  |
 | [District Commencement](https://open.spotify.com/track/6T5oHp9GzaACnaQ964SxYj) | [Tone P](https://open.spotify.com/artist/1OtOMQm0JZCYsv5TO5kgyh), [Tony Lewis Jr](https://open.spotify.com/artist/7jma0qzl1PAmUi89FWFvri) | [Drop!](https://open.spotify.com/album/7rBNst31JCowXnswrq6HIR) | 0:50 | 2022-02-04 | 2022-05-21 |
+| [Do You Know What Time it Is?](https://open.spotify.com/track/04PeMAcHsOb5iQp7YkcL9R) | [Rare Essence](https://open.spotify.com/artist/4vKZXZH0eDibGsDxMVzZDh) | [Greatest Hits, Vol\. I](https://open.spotify.com/album/4uGoPzYOh3TLdVz5oibzGk) | 4:58 | 2024-03-25 |  |
 | [Don't Say You Will \- Live](https://open.spotify.com/track/42yIi2KXKd5fL2ITdcV3Pr) | [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [The Gift](https://open.spotify.com/album/4T4rCKTPPXGSjPmvX2xBok) | 2:42 | 2022-01-29 |  |
 | [Drop The Bomb](https://open.spotify.com/track/651ogESjErYNdRWCto4pjP) | [Northeast Groovers](https://open.spotify.com/artist/1IHadvTpb1JrZ5VxqH4FzS) | [On Fire](https://open.spotify.com/album/79Bto5Kn26MKh0GNj5l0uv) | 4:26 | 2022-01-29 |  |
 | [Drunk in Love \(Live\)](https://open.spotify.com/track/0rpKrFeWyabzT4x58EC0uT) | [Lissen](https://open.spotify.com/artist/2pwNExfabUxSuq6oVFMGp6) | [The Lissen Reunion \(Live from the Howard Theatre\)](https://open.spotify.com/album/4XfM5TuPEjnzBNFCw7IRvu) | 2:46 | 2022-01-29 | 2022-07-02 |
@@ -68,9 +71,11 @@
 | [Run Joe](https://open.spotify.com/track/70S1dQ6TVPHz6zdX2xdTc5) | [Chuck Brown and the Soul Searchers](https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu) | [By Special Request the Very Best of Chuck Brown](https://open.spotify.com/album/3eioORbCjAPxRk2buvwkqE) | 8:54 | 2022-01-29 |  |
 | [Sardines](https://open.spotify.com/track/6GvQGFGF4MBE6dMYIqL6um) | [Junkyard Band](https://open.spotify.com/artist/7e4sU9TwUkot4QO03Suoqm) | [Reunion \(Live at Martin's Crosswinds Ballroom\)](https://open.spotify.com/album/0IvE2YB8k0tRSThj643rlR) | 2:29 | 2022-01-29 |  |
 | [Shawty Clap It \(Remix\)](https://open.spotify.com/track/2uY5H6YteSeH80cn1kUTSg) | [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [Shawty Clap It \(Remix\)](https://open.spotify.com/album/6KGiNio1FGRY1HcQv2yo38) | 4:45 | 2022-01-29 |  |
+| [She's A Bad Girl](https://open.spotify.com/track/4Qpbjv7O1NK20jksskzH3x) | [Slug\-Go](https://open.spotify.com/artist/0AJRJxlmVFoe7wPjjyCXHA) | [Good To Go Go \(Remastered\)](https://open.spotify.com/album/0ZhOsPnylomhTuP9e4m531) | 5:25 | 2024-03-25 |  |
 | [Shoot My Shot \- New Impressionz Go\-Go Edit](https://open.spotify.com/track/2CQ1EzKRWUY3EkVx97jDh5) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [Shoot My Shot \(New Impressionz Go\-Go Edit\)](https://open.spotify.com/album/7xrTMVLRs7w7mIfe6KysDI) | 4:45 | 2022-01-29 |  |
 | [Shorty](https://open.spotify.com/track/6FbNqrZVvjrT8LqI5LSRoI) | [Tcb](https://open.spotify.com/artist/35TNz9zmB87Ag9jmKWbch3) | [DJ Flexx Presents \- GO GO 95](https://open.spotify.com/album/1fMcsgqM8kcWmvZONHcbh5) | 6:41 | 2022-01-29 |  |
 | [Sittin at The Bar](https://open.spotify.com/track/7wxDmQ0dy9dsDwSxby2m1b) | [TOB](https://open.spotify.com/artist/7COfOGDggDYrMbgI7rEcmk) | [THE RUNDOWN VOl.1](https://open.spotify.com/album/5ufhZ9WEDNGp3DHZ3EEBmN) | 4:49 | 2022-07-01 |  |
+| [Sock It To Me \- Version 2](https://open.spotify.com/track/1XncUVxC8NMdFv3Eg4PzmP) | [Ayre Rayde](https://open.spotify.com/artist/6psgmcqLFZvuYo9thrPmln) | [Sock It To Me](https://open.spotify.com/album/349jp5fTM6D4cObncajSbg) | 3:56 | 2024-03-25 |  |
 | [Splash](https://open.spotify.com/track/1dS3VCsu4WK6RwiTZ5PqVF) | [Uncalled 4 Band](https://open.spotify.com/artist/5t3sAJf2ghaIwJjWukTuEX) | [Best of Bag of Beats](https://open.spotify.com/album/4aZqoQKekEXZx7i0JwbyYg) | 9:41 | 2022-01-29 |  |
 | [Takes My Breath Away \- Live](https://open.spotify.com/track/1g8soFqOrBfamriJLVSjig) | [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [The Gift](https://open.spotify.com/album/4T4rCKTPPXGSjPmvX2xBok) | 3:34 | 2022-01-29 |  |
 | [Tambourina Go Go Bounce](https://open.spotify.com/track/0ahcKcp9NEfIPfkoa966Ce) | [Marcy Mane](https://open.spotify.com/artist/7u9z6yLFvWVEJcnDJnd7sw) | [FLEXICO](https://open.spotify.com/album/2JBBtkjaL8peNpXrkk6rcI) | 2:15 | 2022-01-29 |  |

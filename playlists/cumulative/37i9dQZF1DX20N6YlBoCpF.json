@@ -3139,6 +3139,32 @@
     },
     {
       "album": {
+        "name": "Die Son Se Oop Koevert",
+        "url": "https://open.spotify.com/album/4lO1xv3MFq6dQQtAgd0eKM"
+      },
+      "artists": [
+        {
+          "name": "Die Karavaan Klankbaan",
+          "url": "https://open.spotify.com/artist/2hfeDDRyFVhQdIqfve0BiK"
+        },
+        {
+          "name": "Karlien Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
+        },
+        {
+          "name": "Almero",
+          "url": "https://open.spotify.com/artist/7dPungKhZV77MeaGRZwTNR"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261086,
+      "name": "Die Son Se Oop Koevert",
+      "url": "https://open.spotify.com/track/2Phlqx0Yu8tdegRPLMCzqh"
+    },
+    {
+      "album": {
         "name": "Die Sonskyn en Die Re\u00ebn",
         "url": "https://open.spotify.com/album/1G1I8b6QO6p7r8IM94C0cR"
       },
@@ -5964,7 +5990,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 150352,
       "name": "In My O\u00eb",
       "url": "https://open.spotify.com/track/0mTqau9DRQi9w9hTZUqFrr"

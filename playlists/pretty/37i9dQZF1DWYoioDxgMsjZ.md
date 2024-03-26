@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoioDxgMsjZ.md) - [plain]
 
 > <a href="spotify:artist:1AHswQqsDNmu1xaE8KpBne">COBRAH</a>'s favorite tracks\. Updated regularly\. Curated by COBRAH\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,462 likes - 62 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,501 likes - 62 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoioDxgMsjZ.md) - [plain]
 | 7 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 |
 | 8 | [My Humps](https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4) | 3:06 |
 | 9 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 |
-| 10 | [That's Hot](https://open.spotify.com/track/1Cli0gQaSe0NVWEHAyOBIH) | [Ayesha Nicole Smith](https://open.spotify.com/artist/3rYlF5arfhYwRbxmNcicat) | [That's Hot](https://open.spotify.com/album/0qD5tOnKT5sfK0FlIuS7ke) | 2:07 |
+| 10 | [that's hot](https://open.spotify.com/track/0EJQtAbT12iKnwfloPtuxk) | [dead2u](https://open.spotify.com/artist/4mukJ0tIrqv6sGYEU5mCkJ), [undeadprincess](https://open.spotify.com/artist/5lmcXlAK7ZkLf5IkYvBVQc) | [that's hot](https://open.spotify.com/album/26DFBu6KvN7B932qPryWqk) | 2:07 |
 | 11 | [Padam Padam](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:46 |
 | 12 | [Emo Club Anthem](https://open.spotify.com/track/2HFmykunjjYy1rru5Z0zvv) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:50 |
 | 13 | [Look](https://open.spotify.com/track/2UnYp6QyIXKJiDF0tB8Smy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/47QcF8U1SLWFGCqU2pmRxJ) | 2:48 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoioDxgMsjZ.md) - [plain]
 | 61 | [Hi, I'm a Slut](https://open.spotify.com/track/2gFMgqvKcygf8CavNyR131) | [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx) | [Lil Mariko](https://open.spotify.com/album/4FA6S8h3E3bCiLApDDPZzb) | 2:50 |
 | 62 | [SUCK](https://open.spotify.com/track/6xr2ZYvmTlL9LzaaqqmOX1) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCK](https://open.spotify.com/album/7h3QG1g6nHLiDhxPQ8ZpcF) | 2:20 |
 
-Snapshot ID: `MCw2OTMzOTYzOGZhMTJhNzgyN2ZlZjYwYzExOGUyNWQ5ZDdkZWVjNDU0`
+Snapshot ID: `MCwzYmM4OTg0NDc1YTQzMzQxMzM4YTVkMGRiNmIwOTNkNGJhMGQ3YWY5`

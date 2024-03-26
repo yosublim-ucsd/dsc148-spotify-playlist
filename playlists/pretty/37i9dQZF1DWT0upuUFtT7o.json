@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Zsela",
-  "num_followers": 209766,
+  "num_followers": 210738,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjgxMmEwNzEwYzMyYjM2MjI2NzVlMzEzYzc3OTE0MGEyZjBjZmVi",
+  "snapshot_id": "MCxlZjBhODg4NDA2NWNjOTI1YmZiNDZlZDNlZjFjY2Q3ZTQ2NjAwNGE4",
   "tracks": [
     {
       "added_at": "2024-03-20 16:00:00",
@@ -71,6 +71,22 @@
       "duration_ms": 237681,
       "name": "someone else's eyes",
       "url": "https://open.spotify.com/track/49AqYOwYQpCS0MBJCKENkt"
+    },
+    {
+      "added_at": "2024-03-25 20:25:15",
+      "album": {
+        "name": "Billabong Babe",
+        "url": "https://open.spotify.com/album/4iG1MtI6JbD55Prajh5Yj2"
+      },
+      "artists": [
+        {
+          "name": "Royce Fisherman",
+          "url": "https://open.spotify.com/artist/2tdQ97EH4slBa4xawJS0GR"
+        }
+      ],
+      "duration_ms": 134500,
+      "name": "Billabong Babe",
+      "url": "https://open.spotify.com/track/1ehPpLSc6xdKsncqXIMWkS"
     },
     {
       "added_at": "2024-03-20 16:00:00",

@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Conociendo Rusia
 
-586 songs - 1 day 8 hr 32 min
+587 songs - 1 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [Preciosa](https://open.spotify.com/track/1aeih1sP1g0ooHHkxrfA29) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Preciosa](https://open.spotify.com/album/0gq9bgTdNrmc9SlpuaZ0eD) | 2:53 | 2024-03-01 |  |
 | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 | 2023-02-17 | 2023-08-19 |
 | [Presente](https://open.spotify.com/track/1CEySvaIp9SkDg4Kni0tb9) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Presente](https://open.spotify.com/album/1KXUO7PewjHjEJfHyENj70) | 5:12 | 2023-04-28 | 2024-01-27 |
+| [Primer encuentro](https://open.spotify.com/track/4emJgbXvVStk13TJOQ3xWV) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg), [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [Primer encuentro](https://open.spotify.com/album/6LHPL2nlo5M8tx5Eyc0nXm) | 4:06 | 2024-03-22 |  |
 | [Primer Recreo](https://open.spotify.com/track/144KMvLxNA4nPWS40u0WMS) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Primer Recreo](https://open.spotify.com/album/1s1j0WlzBE2XL2A2WGpuor) | 3:55 | 2023-12-08 |  |
 | [Profugos del tiempo](https://open.spotify.com/track/6T8sxv2RHncb1sft7hNZUF) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Zelmar](https://open.spotify.com/artist/7vqg7ZilgoVyxxEVOr1SGJ) | [Profugos del tiempo](https://open.spotify.com/album/7Ln1X59GCd2Jaokf3CiTcL) | 2:55 | 2024-02-23 |  |
 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 | 2021-11-18 | 2022-11-25 |
@@ -528,7 +529,7 @@
 | [TODO LO QUE HICE](https://open.spotify.com/track/5vH9UyB4OrFgiRHHx1BqNf) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [TODO LO QUE HICE](https://open.spotify.com/album/2xrFeU2vGVFZkDtUmxUJtJ) | 4:16 | 2023-08-18 | 2023-10-07 |
 | [Todo Me Habla De Ti](https://open.spotify.com/track/3bRixUBZ5KZ5puYk4PmNpT) | [BOH](https://open.spotify.com/artist/6hGotCIV3f8qF7fhhwXAZ9), [Melissa Romero](https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY), [Andy Rivero](https://open.spotify.com/artist/1ZDVkkAF9YyDQDraIKyPPI) | [Todo Me Habla De Ti](https://open.spotify.com/album/18pRA0lJOgkP2G2Zr5yiy8) | 3:51 | 2023-08-18 | 2023-08-27 |
 | [Todo o nada](https://open.spotify.com/track/7JcGt3lxb68CDpLzjoP3gl) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Todo o nada](https://open.spotify.com/album/7LzhNFqwqixFNNjr00VJVx) | 3:02 | 2023-09-22 | 2023-10-14 |
-| [todo pasa](https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 3:34 | 2023-09-01 |  |
+| [todo pasa](https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 3:34 | 2023-09-01 | 2024-03-26 |
 | [Tom's Diner](https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tom's Diner](https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM) | 3:40 | 2023-04-21 | 2024-01-20 |
 | [TOTAL90NOSTALGIA](https://open.spotify.com/track/5ffLdAti2Kb4XFZ2mPNrxp) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [SUPERNOVA](https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117) | 3:28 | 2023-09-15 |  |
 | [TQD](https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [TQD](https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA) | 3:20 | 2023-02-25 | 2023-03-25 |

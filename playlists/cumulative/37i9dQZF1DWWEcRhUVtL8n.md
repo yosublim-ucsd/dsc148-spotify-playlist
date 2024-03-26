@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Empress Of
 
-1,796 songs - 3 day 22 hr 40 min
+1,797 songs - 3 day 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [breakfast at a funeral](https://open.spotify.com/track/6aIg0mJ6QslTGAapVtQl47) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66), [Sean Kennedy](https://open.spotify.com/artist/6kY7DKDwm2bt996rMF4CLK) | [breakfast at a funeral](https://open.spotify.com/album/5JlY5HP2vgzwO1vn4VWYQ3) | 2:17 | 2022-02-25 | 2022-04-16 |
 | [Broken](https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Broken](https://open.spotify.com/album/0FbgQx8a9EbsFO2TFcTn12) | 3:12 | 2022-02-25 | 2022-07-23 |
 | [brokenhearted](https://open.spotify.com/track/6I5BbFFYDe8TmEk0VtW7Cl) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [brokenhearted](https://open.spotify.com/album/4LO5fNpbCHVEDb6TIOs5l1) | 3:32 | 2020-10-13\* | 2021-05-23 |
+| [brown eyes\*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [brown eyes\*](https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO) | 2:43 | 2024-03-26 |  |
 | [Bruise](https://open.spotify.com/track/1U1TpPbxYRFteIeT0Az4kM) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [I Love My Girl, She's My Boy](https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF) | 2:59 | 2023-04-07 |  |
 | [Bruise](https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Bruise](https://open.spotify.com/album/0pzoYtS7zcG2kd7g4NUbrx) | 2:59 | 2023-04-07 | 2023-10-25 |
 | [Brush Fire](https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Brush Fire](https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB) | 3:10 | 2020-12-12 | 2021-06-03 |
@@ -1750,7 +1751,7 @@
 | [wide eyed](https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [wide eyed](https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC) | 3:34 | 2022-10-18 | 2023-04-11 |
 | [Widow Dreams Forever](https://open.spotify.com/track/0lo0uTr01YwLsquOAuwUEA) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Widow Dreams Forever](https://open.spotify.com/album/0bknUVrYD2YRTbmCzF7r2L) | 3:03 | 2023-02-17 | 2023-02-25 |
 | [Will We Ever Get This Right](https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Will We Ever Get This Right](https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ) | 2:41 | 2022-03-31 | 2022-07-29 |
-| [Willow \(feat\. Lucy Rose\)](https://open.spotify.com/track/7m1qFwzJnebBiWkzE7RgDq) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Willow \(feat\. Lucy Rose\)](https://open.spotify.com/album/2ZbZBB7CCWqi9kgnmlSHM3) | 4:09 | 2024-02-02 |  |
+| [Willow \(feat\. Lucy Rose\)](https://open.spotify.com/track/7m1qFwzJnebBiWkzE7RgDq) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Willow \(feat\. Lucy Rose\)](https://open.spotify.com/album/2ZbZBB7CCWqi9kgnmlSHM3) | 4:09 | 2024-02-02 | 2024-03-26 |
 | [Windows \- No Rome Remix](https://open.spotify.com/track/5q0Y1svWIHkmx4Q9uH0VxB) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Windows \(No Rome Remix\)](https://open.spotify.com/album/4WjVO6STzyMQ21tGnAqtO4) | 2:08 | 2021-06-03 | 2021-10-16 |
 | [Wine](https://open.spotify.com/track/4ovL2qMHSSGEqFZXOeuSB8) | [Simone](https://open.spotify.com/artist/5k6BuuGye7fUjFvPOOJ8C2) | [Wine](https://open.spotify.com/album/5rpR4Eqlx55HnGwvxmx2x4) | 3:35 | 2021-05-27 | 2021-11-25 |
 | [Winnie Crush](https://open.spotify.com/track/0d9xixmHAusZVsdJQPnRxr) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Winnie Crush](https://open.spotify.com/album/0tS826DRVWxkDg9al34Rdj) | 2:54 | 2021-10-11 | 2021-10-12 |

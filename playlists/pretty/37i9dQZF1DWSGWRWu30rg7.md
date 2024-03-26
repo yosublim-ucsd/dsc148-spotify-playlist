@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Fanny Soegi
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,535 likes - 107 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,539 likes - 107 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 106 | [Jalur Sederhana](https://open.spotify.com/track/51E3gEbBKHzXNKNePh2OxL) | [Fanirahmansyah](https://open.spotify.com/artist/2yfoFECTnaFjyHrHNjJm7x) | [Jalur Sederhana](https://open.spotify.com/album/6nDD5YC6D13gJ1SSalUiJC) | 3:34 |
 | 107 | [Peak of Love](https://open.spotify.com/track/1c4FsERA2Jp4TfvuCc2csI) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Peak of Love](https://open.spotify.com/album/0zqvoEoLwMYeBLEhXKkhRJ) | 4:02 |
 
-Snapshot ID: `MCw5MWEwMGMwZWZkN2M0ZDMwNWQ0YjM4MjkxZWEyYzA5MzNkYjA1ZjQ4`
+Snapshot ID: `MCw4MGQ3NjI5YjMwNjc0NzY0NjMyZGRiMTAxZTYyZTY4ZGFkZDk4N2Qx`

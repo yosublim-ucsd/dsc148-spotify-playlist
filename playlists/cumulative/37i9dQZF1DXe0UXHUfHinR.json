@@ -6773,6 +6773,24 @@
     },
     {
       "album": {
+        "name": "Standing Ovation",
+        "url": "https://open.spotify.com/album/4B3lvgh5PeEX2NMVch91F5"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292306,
+      "name": "Li'l Darlin' - Live At The Tropicana Hotel, Las Vegas/1969",
+      "url": "https://open.spotify.com/track/3oRx6kr2B2sLQWwKM3f7Ks"
+    },
+    {
+      "album": {
         "name": "The Blue Yusef Lateef",
         "url": "https://open.spotify.com/album/4dpXhQvZAzAbti2Xpccnat"
       },
@@ -7832,22 +7850,6 @@
         {
           "name": "Benny Goodman Quartet",
           "url": "https://open.spotify.com/artist/26vAEAV08relvScS4FUsIt"
-        },
-        {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        },
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        },
-        {
-          "name": "Gene Krupa",
-          "url": "https://open.spotify.com/artist/2YODXXiVE8ABc0TfihLOFj"
-        },
-        {
-          "name": "Lionel Hampton",
-          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
         }
       ],
       "date_added": "2023-02-23",
@@ -10536,7 +10538,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 189240,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/1YwL0oRz2KmlNcO2ahQWOn"

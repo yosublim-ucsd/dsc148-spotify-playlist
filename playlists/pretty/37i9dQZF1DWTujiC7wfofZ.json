@@ -1,12 +1,12 @@
 {
   "description": "All the indie disco platters that matter.",
-  "num_followers": 435298,
+  "num_followers": 435291,
   "original_name": "Indie Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmRjMzViNWRjZDJlZDRjNjM2MzU1M2EyNjhkNDI4OTBiMzgwMGM0",
+  "snapshot_id": "MCxkMjFlMTRlNmIzNjViMjY4NWY0NzJjZDgzMTM4OTJhN2Q2MTRlZjU1",
   "tracks": [
     {
       "added_at": "2023-07-21 10:44:31",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Surfer Rosa",
-        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "Where Is My Mind? - Remastered",
-      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Walking On A Dream (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Surfer Rosa",
+        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "Where Is My Mind? - Remastered",
+      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "1901",
-      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "bad idea!",
         "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 219638,
       "name": "bad idea!",
       "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "1901",
+      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Elephant",
-      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Tieduprightnow",
         "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 249956,
       "name": "Tieduprightnow",
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 248335,
-      "name": "It's Not Living (If It's Not With You)",
-      "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 449160,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 248335,
+      "name": "It's Not Living (If It's Not With You)",
+      "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 278706,
-      "name": "No One Knows",
-      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 202466,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 278706,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 246306,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Inside In / Inside Out",
-        "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Naive",
-      "url": "https://open.spotify.com/track/2RUhtNBh43RtSg0WBPPq3m"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Settle (The Remixes)",
         "url": "https://open.spotify.com/album/0QFMqnSP2kBMTrbfNkj3SB"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 282812,
       "name": "You & Me - Flume Remix",
       "url": "https://open.spotify.com/track/1snNAXmmPXCn0dkF9DaPWw"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Inside In / Inside Out",
+        "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/2RUhtNBh43RtSg0WBPPq3m"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
+        "name": "Burning Down the House / I Get Wild / Wild Gravity",
+        "url": "https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
         "name": "Pacifico",
         "url": "https://open.spotify.com/album/5HoTuFtFZuqihC7z5zz3uB"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 209732,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/3curUGAfGYvGcBbE1k5Fyy"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
-        "name": "Burning Down the House / I Get Wild / Wild Gravity",
-        "url": "https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Burning Down the House",
-      "url": "https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "The Essential Bangles",
-        "url": "https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf"
-      },
-      "artists": [
-        {
-          "name": "The Bangles",
-          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "Walk Like an Egyptian",
-      "url": "https://open.spotify.com/track/1Jwc3ODLQxtbnS8M9TflSP"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "The Dino Soars",
         "url": "https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 300000,
       "name": "Nowhere To Run",
       "url": "https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "The Essential Bangles",
+        "url": "https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "Walk Like an Egyptian",
+      "url": "https://open.spotify.com/track/1Jwc3ODLQxtbnS8M9TflSP"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -2615,22 +2615,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "You Could Have It So Much Better",
-        "url": "https://open.spotify.com/album/3GNG4NPXfTeIGYjZ2FpS6P"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Do You Want To",
-      "url": "https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "How To Be A Human Being",
         "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
       },
@@ -2675,6 +2659,22 @@
       "duration_ms": 224480,
       "name": "Mrs. Robinson - Remastered",
       "url": "https://open.spotify.com/track/1Hnv9uDIokwi4nkcVUyS0X"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "You Could Have It So Much Better",
+        "url": "https://open.spotify.com/album/3GNG4NPXfTeIGYjZ2FpS6P"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Do You Want To",
+      "url": "https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3011,22 +3011,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 214205,
-      "name": "Of The Night",
-      "url": "https://open.spotify.com/track/7BNDyzwDboNRR2wmd7GSew"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Recto Verso",
         "url": "https://open.spotify.com/album/4DtD9M009rhD0Q9QtBZvUP"
       },
@@ -3039,6 +3023,22 @@
       "duration_ms": 220853,
       "name": "Toi Et Moi",
       "url": "https://open.spotify.com/track/3AVyKOmMgvRjsC576xWw78"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 214205,
+      "name": "Of The Night",
+      "url": "https://open.spotify.com/track/7BNDyzwDboNRR2wmd7GSew"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3059,22 +3059,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Miike Snow",
-        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 263426,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Master of My Make-Believe",
         "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
       },
@@ -3087,6 +3071,22 @@
       "duration_ms": 284400,
       "name": "Disparate Youth",
       "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Miike Snow",
+        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 263426,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3435,22 +3435,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Best Of Blondie",
-        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Best of Bandolero (Le meilleur des ann\u00e9es 80)",
         "url": "https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX"
       },
@@ -3463,6 +3447,22 @@
       "duration_ms": 243560,
       "name": "Paris Latino - Original Version 1983",
       "url": "https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Best Of Blondie",
+        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3563,22 +3563,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Kings & Queens",
-        "url": "https://open.spotify.com/album/4e3fJnly4W3A5kL339KOuc"
-      },
-      "artists": [
-        {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
-        }
-      ],
-      "duration_ms": 240832,
-      "name": "Sticks 'N' Stones",
-      "url": "https://open.spotify.com/track/1khoSOxg6VHzvRlVkczrbl"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
       },
@@ -3591,6 +3575,22 @@
       "duration_ms": 220726,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Kings & Queens",
+        "url": "https://open.spotify.com/album/4e3fJnly4W3A5kL339KOuc"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "duration_ms": 240832,
+      "name": "Sticks 'N' Stones",
+      "url": "https://open.spotify.com/track/1khoSOxg6VHzvRlVkczrbl"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3883,22 +3883,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "You've Come A Long Way Baby",
-        "url": "https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 323240,
-      "name": "Praise You",
-      "url": "https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Settle (Deluxe)",
         "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
       },
@@ -3915,6 +3899,22 @@
       "duration_ms": 277520,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/4PPiV0xlKze0D4G93UWLji"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "You've Come A Long Way Baby",
+        "url": "https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 323240,
+      "name": "Praise You",
+      "url": "https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -4035,22 +4035,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 217125,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "By the Way",
         "url": "https://open.spotify.com/album/1jWKVgnHX8nwR551hQNx5K"
       },
@@ -4067,18 +4051,18 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Bad Dream Baby",
-        "url": "https://open.spotify.com/album/1TBnwPS0Mbn5DsRNeSlvrR"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
       },
       "artists": [
         {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
         }
       ],
-      "duration_ms": 178150,
-      "name": "Bad Dream Baby",
-      "url": "https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW"
+      "duration_ms": 217125,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -4099,6 +4083,22 @@
       "duration_ms": 298133,
       "name": "Daffodils (feat. Kevin Parker)",
       "url": "https://open.spotify.com/track/1v0ufp7FLTFcykUGOmFZKa"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Bad Dream Baby",
+        "url": "https://open.spotify.com/album/1TBnwPS0Mbn5DsRNeSlvrR"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 178150,
+      "name": "Bad Dream Baby",
+      "url": "https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW"
     }
   ],
   "unique_name": "Indie Party",

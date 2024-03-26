@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: MRCY
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,585 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,614 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 69 | [Love Island](https://open.spotify.com/track/3IDs0pS01xXpNJD1kpi8JS) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Fantasy](https://open.spotify.com/album/6vse3DrFzUQ9HRv3xYlNVd) | 2:23 |
 | 70 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 |
 
-Snapshot ID: `MCw2ZGE4MDAyODM1NmM2YWJhZGE1ODYwMmVmM2I2ODA2OWEwZWQzY2Zi`
+Snapshot ID: `MCw5M2Y1ZDVjOWZlZWYxNTg0ZGNkNGU4MTYzZDUyZTI0MTQwZjdjZWEy`

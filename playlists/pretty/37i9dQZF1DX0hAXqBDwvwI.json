@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 570400,
+  "num_followers": 570891,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTU2YjI2ZTk2ZGFiMmFlODEzOTMzM2M4MTkzMTU2ZTU2ZDQwMjgw",
+  "snapshot_id": "MCw5MjllNDZlZGZkMmY4ZjY4MDM3MmQyNWU1OTFlN2E0NDZiZmQ3YzYx",
   "tracks": [
     {
       "added_at": "2024-01-25 15:00:00",
@@ -437,7 +437,7 @@
         }
       ],
       "duration_ms": 238533,
-      "name": "\u30d4\u30fc\u30b9\u30b5\u30a4\u30f3",
+      "name": "\u30d4\u30fc\u30b9\u30b5\u30a4\u30f3 - Peace Sign",
       "url": "https://open.spotify.com/track/364JzOajs76bJymjHm3sVY"
     },
     {
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "\u30ab\u30ef\u30ad\u30f2\u30a2\u30e1\u30af",
+        "url": "https://open.spotify.com/album/6R5yCaIbIwK9IQJErCb0FV"
+      },
+      "artists": [
+        {
+          "name": "\u7f8e\u6ce2",
+          "url": "https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "\u30ab\u30ef\u30ad\u30f2\u30a2\u30e1\u30af",
+      "url": "https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "Q.E.D",
         "url": "https://open.spotify.com/album/4DifEg0usPQvzxk6K9H04Z"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 132295,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/7gspVQa13prQbNABCRacwE"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
-        "name": "\u30ab\u30ef\u30ad\u30f2\u30a2\u30e1\u30af",
-        "url": "https://open.spotify.com/album/6R5yCaIbIwK9IQJErCb0FV"
-      },
-      "artists": [
-        {
-          "name": "\u7f8e\u6ce2",
-          "url": "https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "\u30ab\u30ef\u30ad\u30f2\u30a2\u30e1\u30af",
-      "url": "https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "CHAINSAW BLOOD",
-        "url": "https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 200997,
-      "name": "CHAINSAW BLOOD",
-      "url": "https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "Rockin' the World",
         "url": "https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE"
       },
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "CHAINSAW BLOOD",
+        "url": "https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 200997,
+      "name": "CHAINSAW BLOOD",
+      "url": "https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "\u9006\u5149 (\u30a6\u30bf from ONE PIECE FILM RED)",
         "url": "https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "VIVID VICE",
-        "url": "https://open.spotify.com/album/7fjE2Zl2tNBBidhNGlo7AS"
-      },
-      "artists": [
-        {
-          "name": "Who-ya Extended",
-          "url": "https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk"
-        }
-      ],
-      "duration_ms": 185173,
-      "name": "VIVID VICE",
-      "url": "https://open.spotify.com/track/4R6yPy83vDEZtwJsBavUfo"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
         "url": "https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 185752,
       "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
       "url": "https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "VIVID VICE",
+        "url": "https://open.spotify.com/album/7fjE2Zl2tNBBidhNGlo7AS"
+      },
+      "artists": [
+        {
+          "name": "Who-ya Extended",
+          "url": "https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk"
+        }
+      ],
+      "duration_ms": 185173,
+      "name": "VIVID VICE",
+      "url": "https://open.spotify.com/track/4R6yPy83vDEZtwJsBavUfo"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "porte",
+        "url": "https://open.spotify.com/album/2vV8klrByPkSnocfIlaOMI"
+      },
+      "artists": [
+        {
+          "name": "\u9808\u7530\u666f\u51ea",
+          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
+        }
+      ],
+      "duration_ms": 209636,
+      "name": "veil",
+      "url": "https://open.spotify.com/track/1dGF5ymTyBB2ZmOypkeU1F"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
         "url": "https://open.spotify.com/album/1C5VITN2qaLE4PChtSmSrj"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "porte",
-        "url": "https://open.spotify.com/album/2vV8klrByPkSnocfIlaOMI"
-      },
-      "artists": [
-        {
-          "name": "\u9808\u7530\u666f\u51ea",
-          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
-        }
-      ],
-      "duration_ms": 209636,
-      "name": "veil",
-      "url": "https://open.spotify.com/track/1dGF5ymTyBB2ZmOypkeU1F"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "\u5815\u5929",
         "url": "https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 172948,
       "name": "\u5815\u5929",
       "url": "https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "D-tecnoLife",
-      "url": "https://open.spotify.com/track/3eyxh8xkW0X7k1FSHlAatt"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 233893,
+      "name": "D-tecnoLife",
+      "url": "https://open.spotify.com/track/3eyxh8xkW0X7k1FSHlAatt"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "BURNOUT SYNDROMEZ",
         "url": "https://open.spotify.com/album/3GIBqRgh0jyw20ZauvXPRa"
       },
@@ -1559,22 +1559,6 @@
       "duration_ms": 246813,
       "name": "PHOENIX",
       "url": "https://open.spotify.com/track/1ZGmDs16vtSI0nlxDFljFK"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
-        "name": "White Noise",
-        "url": "https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 254838,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "White Noise",
+        "url": "https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 254838,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "OPEING THEME FROM TV SERIES \u201dOVERLORD IV\u201d",
         "url": "https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh"
       },
@@ -1607,22 +1607,6 @@
       "duration_ms": 223141,
       "name": "HOLLOW HUNGER",
       "url": "https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
-        "name": "\u6b8b\u6a5f",
-        "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "\u6b8b\u6a5f",
-      "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1643,22 +1627,34 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "THE SIDE EFFECTS",
-        "url": "https://open.spotify.com/album/1BGWyz8x5J2qChX1X0r60e"
+        "name": "\u6b8b\u6a5f",
+        "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
       },
       "artists": [
         {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
-        },
-        {
-          "name": "Ryo",
-          "url": "https://open.spotify.com/artist/3krgsgh3jIRarpbhVP0nUY"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 227011,
-      "name": "MAYDAY (feat. Ryo from Crystal Lake)",
-      "url": "https://open.spotify.com/track/2wJJNgD6GrKoQ435VxTRv6"
+      "duration_ms": 230066,
+      "name": "\u6b8b\u6a5f",
+      "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "The GARDEN",
+        "url": "https://open.spotify.com/album/13FIa91YpnboJjrwmKRrG8"
+      },
+      "artists": [
+        {
+          "name": "the peggies",
+          "url": "https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW"
+        }
+      ],
+      "duration_ms": 227013,
+      "name": "\u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb",
+      "url": "https://open.spotify.com/track/2zwZPlMKb1vaFcQK6PpMtP"
     }
   ],
   "unique_name": "Anime On Replay",

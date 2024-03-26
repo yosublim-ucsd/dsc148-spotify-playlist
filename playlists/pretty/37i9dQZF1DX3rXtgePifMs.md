@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,528 likes - 109 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,634 likes - 109 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 55 | [cracked screen](https://open.spotify.com/track/5tw5H51GeMaSBcD0CHKsBq) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [no sleep in LA](https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe) | 3:32 |
 | 56 | [What Comes Will Come](https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf) | 3:51 |
 | 57 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 |
-| 58 | [We Can Be Anything](https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp) | 3:21 |
-| 59 | [denver luna \(acappella\)](https://open.spotify.com/track/3yQ0l6VokE3ZWsj6y8I6kp) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [denver luna](https://open.spotify.com/album/0nQgkT12o7TfgxLF5sJ0YG) | 2:27 |
+| 58 | [denver luna \(acappella\)](https://open.spotify.com/track/3yQ0l6VokE3ZWsj6y8I6kp) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [denver luna](https://open.spotify.com/album/0nQgkT12o7TfgxLF5sJ0YG) | 2:27 |
+| 59 | [We Can Be Anything](https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp) | 3:21 |
 | 60 | [Lowkey](https://open.spotify.com/track/4FC7fcZ5RexxLbWNrOq6aq) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK) | [Streets, Love & Other Stuff](https://open.spotify.com/album/0IRmR8wXEPXWsqy84EbKIh) | 3:21 |
 | 61 | [Why You Waiting?](https://open.spotify.com/track/4NS6mjfccw3m9fPYLCKa53) | [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy) | [Why You Waiting?](https://open.spotify.com/album/3czLQ2sjzql5WJQg7degVt) | 2:35 |
 | 62 | [A STRANGER](https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [A STRANGER](https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC) | 2:47 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 104 | [fuera de vista \(feat\. Baco Exu Do Blues\) \(TROOKO’s Versión\)](https://open.spotify.com/track/1UHsGZoNGOROg2ZIiJYEjL) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [RTJ CU4TRO](https://open.spotify.com/album/0Yu5v3c5K0tXG6HFKZdyek) | 4:04 |
 | 105 | [Sekkle In](https://open.spotify.com/track/7DzIYGJCzK1meLmAWK7DbZ) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW), [Sparkz](https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf) | [Earache / Sekkle In](https://open.spotify.com/album/4ZG7ya2WiZZVQErG4vUHgM) | 3:45 |
 | 106 | [R.A.V.E.A.S.A.P \(Unglued Remix\)](https://open.spotify.com/track/1FSy5JFWNsPj6hM2qIWr7W) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC) | [R.A.V.E.A.S.A.P \- The Remixes](https://open.spotify.com/album/3ScbyV8uIm9LF607YF8zCT) | 3:32 |
-| 107 | [MMM](https://open.spotify.com/track/5ubj4AhuTnQ5qzuhv4CP3P) | [Skinny Local](https://open.spotify.com/artist/2Qqm503Ng7iC2dMxEobQa1), [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3) | [MMM](https://open.spotify.com/album/0Fbc2gf82fyBWrpDQqxnco) | 2:24 |
-| 108 | [Mamgobhozi](https://open.spotify.com/track/4RKhOHFaq2uqNRJuYQTnaY) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Piano Republik](https://open.spotify.com/album/5ggKabvYHoNLEyl3x5K4iZ) | 3:56 |
+| 107 | [Mamgobhozi](https://open.spotify.com/track/4RKhOHFaq2uqNRJuYQTnaY) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Piano Republik](https://open.spotify.com/album/5ggKabvYHoNLEyl3x5K4iZ) | 3:56 |
+| 108 | [MMM](https://open.spotify.com/track/5ubj4AhuTnQ5qzuhv4CP3P) | [Skinny Local](https://open.spotify.com/artist/2Qqm503Ng7iC2dMxEobQa1), [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3) | [MMM](https://open.spotify.com/album/0Fbc2gf82fyBWrpDQqxnco) | 2:24 |
 | 109 | [Follow the Cyborg](https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 4:45 |
 
-Snapshot ID: `MCw3Y2I2ZGIyMTUwNjIwYjI3YzFhMzllNjMxOTBkYTM3YzJmZTAyY2Uy`
+Snapshot ID: `MCwxZjczOTViYzBiOGNhNzA0N2RkMWE0ZjZmZDdkOGU0ZWQ2ZjdjMjk5`

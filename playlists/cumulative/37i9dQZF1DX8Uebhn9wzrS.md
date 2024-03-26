@@ -4,10 +4,11 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,906 songs - 3 day 0 hr 36 min
+1,907 songs - 3 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Not Much Going On Here\)](https://open.spotify.com/track/7F4EmomSLlwLPCnfGgmrnj) | [Domo 759](https://open.spotify.com/artist/0PWZbiy5ZX5uSWrPPVRhYz) | [\(Not Much Going On Here\)](https://open.spotify.com/album/1BrX7B50BtY6cBZJB0aUXS) | 2:56 | 2024-03-22 |  |
 | [/tikkin/](https://open.spotify.com/track/5yV2F4TMAqRITvd7CmtP05) | [fluff](https://open.spotify.com/artist/3InMJFM9aMItFyFwHDeAhz) | [/tikkin/](https://open.spotify.com/album/3fMui8hdIl0A9A2sJsIjco) | 1:29 | 2022-04-15 | 2022-05-13 |
 | [1 Billion Secure](https://open.spotify.com/track/3uD0XZeL8mIONPE1e2CJAr) | [chilltrap](https://open.spotify.com/artist/33QpdTC6EssmdARvxTLOMm) | [StarChip](https://open.spotify.com/album/2NgzY6FunZrbKatogXOpKV) | 1:55 | 2022-04-15 | 2022-12-09 |
 | [12 Weeks](https://open.spotify.com/track/2LQvFDHnUiT3D612LHntIN) | [huglord](https://open.spotify.com/artist/3mVej1IqXt1AVFOmKKSj6i) | [12 Weeks](https://open.spotify.com/album/4tiI9ZZC5z74fErA5AFviM) | 2:40 | 2022-06-17 | 2023-04-21 |
@@ -196,7 +197,7 @@
 | [Blue and Yellow](https://open.spotify.com/track/0wcWZTGYcsExq65e7Yexf1) | [Scarabeetz](https://open.spotify.com/artist/5Jh56uhWBGydHRgEwCMjqr) | [Blue and Yellow](https://open.spotify.com/album/17J7VL0I0YDggyq0QRaMzU) | 2:16 | 2022-09-09 | 2022-12-24 |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
 | [Blue Boy](https://open.spotify.com/track/68nWg04z2NP3WLgfNk2RWG) | [Robin Slap](https://open.spotify.com/artist/65bnWo5d8B3pl5DfAeIVtW) | [Arabian Nights](https://open.spotify.com/album/1kUcEbPsImFojP0O8DuBwN) | 1:20 | 2022-04-15 | 2022-05-27 |
-| [Blue Drift](https://open.spotify.com/track/2BG75ETrZOMSmEwbpARLJi) | [Nova Calma](https://open.spotify.com/artist/732aFMojr4rC3Q2DAstddk) | [Blue Drift](https://open.spotify.com/album/6m8DL0g10o1CWWc9szlvDM) | 2:48 | 2024-03-22 |  |
+| [Blue Drift](https://open.spotify.com/track/2BG75ETrZOMSmEwbpARLJi) | [Nova Calma](https://open.spotify.com/artist/732aFMojr4rC3Q2DAstddk) | [Blue Drift](https://open.spotify.com/album/6m8DL0g10o1CWWc9szlvDM) | 2:48 | 2024-03-22 | 2024-03-26 |
 | [Blue Moon Boys](https://open.spotify.com/track/0OkPqjJ4mJNZZbcwW1pzzv) | [Ryu Riders](https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8) | [Blue Moon Boys](https://open.spotify.com/album/6fTZl1fGfyGQx88rUCWOaJ) | 2:54 | 2022-11-11 |  |
 | [Blue Oceans](https://open.spotify.com/track/4FpQ21uYnLxIIOkalwjA76) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Blue Oceans](https://open.spotify.com/album/6bG1J0xfnwhntPq1aMulDe) | 2:06 | 2022-06-03 | 2023-03-09 |
 | [Blue Orchids](https://open.spotify.com/track/4U78uBnxWdIaP8DFWBFaGC) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Blue Orchids](https://open.spotify.com/album/7GEGxtHdQtuP04wodEjbID) | 1:34 | 2022-10-28 | 2023-01-20 |

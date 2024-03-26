@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover:\bKim Jong Kook(\uae40\uc885\uad6d)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover:\bJUNGWOO(\uc815\uc6b0)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -15184,6 +15184,24 @@
       "duration_ms": 202666,
       "name": "Small Things",
       "url": "https://open.spotify.com/track/4tnz79vOfi6zwq4sWr2MVD"
+    },
+    {
+      "album": {
+        "name": "Fu Bao and Grandfather, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/63VEhZPp18K6viQ4NNb0Zt"
+      },
+      "artists": [
+        {
+          "name": "JUNGWOO",
+          "url": "https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228216,
+      "name": "Smile Good Bye",
+      "url": "https://open.spotify.com/track/1vu1wBqNQrb4xd1LkGZUhP"
     },
     {
       "album": {

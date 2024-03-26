@@ -1,12 +1,12 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always.",
-  "num_followers": 603630,
+  "num_followers": 603684,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGUwMjMxOGViYzk3NGExYTljMDMzOTNhYzBkNmRjZjczOTAyNTdi",
+  "snapshot_id": "MCw0ZmIzNzlhYmYwMDA3YmMwZjRjMDBiYzdmMzk1NDJjNjk3NDUzODhj",
   "tracks": [
     {
       "added_at": "2023-02-18 03:29:19",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 215613,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Pat Barrett",
         "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 244893,
       "name": "Build My Life",
       "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 215613,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 305426,
-      "name": "How Great Is Our God",
-      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Casting Crowns",
         "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
       },
@@ -215,18 +199,18 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Bright Faith Bold Future",
-        "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
       "artists": [
         {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 234731,
-      "name": "Yes I Will",
-      "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"
+      "duration_ms": 305426,
+      "name": "How Great Is Our God",
+      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -247,6 +231,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "Bright Faith Bold Future",
+        "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 234731,
+      "name": "Yes I Will",
+      "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "You Keep Hope Alive",
         "url": "https://open.spotify.com/album/1YEaHpw2muenEoVqQ4Wblp"
       },
@@ -263,22 +263,6 @@
       "duration_ms": 251200,
       "name": "You Keep Hope Alive",
       "url": "https://open.spotify.com/track/6Q997Jj1Z9yfmJV9248a2o"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Trust in You",
-      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -327,6 +311,22 @@
       "duration_ms": 276186,
       "name": "Redeemed",
       "url": "https://open.spotify.com/track/7zuwaenG5AF0vG7o7kMduX"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Trust in You",
+      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "The Father's House",
+        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 253640,
+      "name": "The Father's House - Studio",
+      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "We Will Not Be Shaken (Live)",
         "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 373691,
       "name": "No Longer Slaves (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "The Father's House",
-        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 253640,
-      "name": "The Father's House - Studio",
-      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Out of Body",
-        "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
       },
       "artists": [
         {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         }
       ],
-      "duration_ms": 207066,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/1KKTKUFmFLZmEhbUyj47jN"
+      "duration_ms": 249242,
+      "name": "Hills and Valleys (The Valleys Version)",
+      "url": "https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "Out of Body",
+        "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/1KKTKUFmFLZmEhbUyj47jN"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "You Make Me Brave (Live)",
         "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 385053,
       "name": "It Is Well - Live",
       "url": "https://open.spotify.com/track/3MRqm3VNWLIjRiLRQezul7"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 249242,
-      "name": "Hills and Valleys (The Valleys Version)",
-      "url": "https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "The Very Next Thing",
-        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 255173,
-      "name": "Oh My Soul",
-      "url": "https://open.spotify.com/track/3s0h3pyKFrS3XX6ZLBPx6s"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Death Was Arrested (feat. Seth Condrey)",
         "url": "https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 295306,
       "name": "Death Was Arrested (feat. Seth Condrey)",
       "url": "https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "The Very Next Thing",
+        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "Oh My Soul",
+      "url": "https://open.spotify.com/track/3s0h3pyKFrS3XX6ZLBPx6s"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Beautiful Offerings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 306253,
-      "name": "The Lion and the Lamb",
-      "url": "https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Casting Crowns",
         "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 323866,
       "name": "Voice of Truth",
       "url": "https://open.spotify.com/track/4G29gmjS7Z2nEFeM7FA6wx"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 306253,
+      "name": "The Lion and the Lamb",
+      "url": "https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Keep Me In The Moment (Radio Version)",
-        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 207432,
-      "name": "Keep Me In The Moment - Radio Version",
-      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Live From New York",
         "url": "https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP"
       },
@@ -1071,6 +1055,38 @@
       "duration_ms": 489453,
       "name": "Holy Spirit - Live",
       "url": "https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Keep Me In The Moment (Radio Version)",
+        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 207432,
+      "name": "Keep Me In The Moment - Radio Version",
+      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "See The Morning (Special Edition)",
+        "url": "https://open.spotify.com/album/3VAqfKdNkk3em16aadExkd"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 262266,
+      "name": "Everlasting God",
+      "url": "https://open.spotify.com/track/1cUyNauQChHpZm4RIe2Yuy"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1107,54 +1123,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "See The Morning (Special Edition)",
-        "url": "https://open.spotify.com/album/3VAqfKdNkk3em16aadExkd"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 262266,
-      "name": "Everlasting God",
-      "url": "https://open.spotify.com/track/1cUyNauQChHpZm4RIe2Yuy"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "Spoken For",
-        "url": "https://open.spotify.com/album/1tPtm5JRDC1kYZgb9WretN"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Word of God Speak",
-      "url": "https://open.spotify.com/track/6FVg2subR7uoD80BmTOsdR"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
-        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        }
-      ],
-      "duration_ms": 329213,
-      "name": "O Praise The Name (An\u00e1stasis) - Live",
-      "url": "https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Waymaker (Radio Version)",
         "url": "https://open.spotify.com/album/33Litf1HszYwgNVwbgdWpk"
       },
@@ -1171,6 +1139,22 @@
       "duration_ms": 242107,
       "name": "Waymaker - Radio Version",
       "url": "https://open.spotify.com/track/4tkmm0pdXEZvHscuHWnkqy"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Spoken For",
+        "url": "https://open.spotify.com/album/1tPtm5JRDC1kYZgb9WretN"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Word of God Speak",
+      "url": "https://open.spotify.com/track/6FVg2subR7uoD80BmTOsdR"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
+        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "duration_ms": 329213,
+      "name": "O Praise The Name (An\u00e1stasis) - Live",
+      "url": "https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "Majestic (Live)",
         "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Speaking Louder Than Before",
-        "url": "https://open.spotify.com/album/0GOyWcbeMSqnvMfCD1wQzt"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 279440,
-      "name": "There Will Be A Day",
-      "url": "https://open.spotify.com/track/2B503tiZmBFv9b8VomUHFK"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "People (Live)",
         "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "Speaking Louder Than Before",
+        "url": "https://open.spotify.com/album/0GOyWcbeMSqnvMfCD1wQzt"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 279440,
+      "name": "There Will Be A Day",
+      "url": "https://open.spotify.com/track/2B503tiZmBFv9b8VomUHFK"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "Sing Like Never Before: The Essential Collection",
         "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "God's Not Done with You",
-        "url": "https://open.spotify.com/album/0nRPLiemiLe0yZlKco6Dtk"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 195617,
-      "name": "God's Not Done with You - Single Version",
-      "url": "https://open.spotify.com/track/1ukgUa4KECeFM8ta0nwuWq"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Worship",
         "url": "https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 321933,
       "name": "Open The Eyes Of My Heart - Live",
       "url": "https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "God's Not Done with You",
+        "url": "https://open.spotify.com/album/0nRPLiemiLe0yZlKco6Dtk"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 195617,
+      "name": "God's Not Done with You - Single Version",
+      "url": "https://open.spotify.com/track/1ukgUa4KECeFM8ta0nwuWq"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Trial & Triumph",
-        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "My Feet Are on the Rock",
-      "url": "https://open.spotify.com/track/33q4ENIRByGmdKeRWoIfSm"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Anything Worth Saying",
         "url": "https://open.spotify.com/album/5DVEKAMgnuDTdY1A0iRJJz"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 291986,
       "name": "My Savior My God",
       "url": "https://open.spotify.com/track/1syFMBjjRvL3uReOM8yWEb"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Trial & Triumph",
+        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "My Feet Are on the Rock",
+      "url": "https://open.spotify.com/track/33q4ENIRByGmdKeRWoIfSm"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
-      },
-      "artists": [
-        {
-          "name": "Laura Story",
-          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
-        }
-      ],
-      "duration_ms": 298226,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "You Deliver Me",
         "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 204133,
       "name": "How Deep The Father's Love For Us",
       "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
+      },
+      "artists": [
+        {
+          "name": "Laura Story",
+          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
+        }
+      ],
+      "duration_ms": 298226,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "Passion: Here For You (Live)",
+        "url": "https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 274814,
+      "name": "Lord, I Need You - Live",
+      "url": "https://open.spotify.com/track/0xGXCPSjxkHxElgi7kC5SZ"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 278320,
       "name": "My Story",
       "url": "https://open.spotify.com/track/6Dkou08rjWrgGijVmoAVZp"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "Passion: Here For You (Live)",
-        "url": "https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 274814,
-      "name": "Lord, I Need You - Live",
-      "url": "https://open.spotify.com/track/0xGXCPSjxkHxElgi7kC5SZ"
     },
     {
       "added_at": "2023-02-18 03:29:19",

@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 269038,
+  "num_followers": 269242,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGRkNzRjMDMxN2NkYTQ3NmVhYzEwYmVjYzY0ZDVmZWI0NDhlZDY4",
+  "snapshot_id": "MCxjYWNkZGIzMWMzYzhkY2IyYmFkZThjZjYwYjk3ZTFjMTVhNDYxMDc5",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "On the Shores",
-        "url": "https://open.spotify.com/album/3YUPMhS86C2T5jAVoOF1qQ"
-      },
-      "artists": [
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        }
-      ],
-      "duration_ms": 244520,
-      "name": "Abba",
-      "url": "https://open.spotify.com/track/5x1nPSw6zxDcxAZNrCF1Id"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Let the Ground Rest",
         "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 291223,
       "name": "17",
       "url": "https://open.spotify.com/track/2k8Gjr3A8hXpQVvKI8f8Pn"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "On the Shores",
+        "url": "https://open.spotify.com/album/3YUPMhS86C2T5jAVoOF1qQ"
+      },
+      "artists": [
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        }
+      ],
+      "duration_ms": 244520,
+      "name": "Abba",
+      "url": "https://open.spotify.com/track/5x1nPSw6zxDcxAZNrCF1Id"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "The Lord's Prayer (It's Yours) [Acoustic]",
-        "url": "https://open.spotify.com/album/6smqQyvINcOFg13yRysvx6"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 224024,
-      "name": "The Lord's Prayer (It's Yours) - Acoustic",
-      "url": "https://open.spotify.com/track/1baVBBJwh3e2EMvRTDI8WH"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Call on Your Name",
         "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 309173,
       "name": "Call on Your Name",
       "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "The Lord's Prayer (It's Yours) [Acoustic]",
+        "url": "https://open.spotify.com/album/6smqQyvINcOFg13yRysvx6"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 224024,
+      "name": "The Lord's Prayer (It's Yours) - Acoustic",
+      "url": "https://open.spotify.com/track/1baVBBJwh3e2EMvRTDI8WH"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Wide Place",
-        "url": "https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp"
-      },
-      "artists": [
-        {
-          "name": "Laity",
-          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
-        }
-      ],
-      "duration_ms": 262889,
-      "name": "Wide Place",
-      "url": "https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "The Wait",
         "url": "https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 272600,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/2eYm67Yrt9RGuvSXTbPUd2"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Wide Place",
+        "url": "https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp"
+      },
+      "artists": [
+        {
+          "name": "Laity",
+          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
+        }
+      ],
+      "duration_ms": 262889,
+      "name": "Wide Place",
+      "url": "https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Raise a Hallelujah (Acoustic)",
+        "url": "https://open.spotify.com/album/1PYuHatpVpavaTCBi6tidn"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 303176,
+      "name": "Raise a Hallelujah (Acoustic)",
+      "url": "https://open.spotify.com/track/6PJpu9oZI9OXKTx2sBH2CL"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "TOGETHER (Acoustic Version)",
         "url": "https://open.spotify.com/album/2bxW2yfuNRzAYao44imd3E"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 216681,
       "name": "TOGETHER (Acoustic Version)",
       "url": "https://open.spotify.com/track/3TX44ZXlkDzGkk8QmlxuYr"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Raise a Hallelujah (Acoustic)",
-        "url": "https://open.spotify.com/album/1PYuHatpVpavaTCBi6tidn"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 303176,
-      "name": "Raise a Hallelujah (Acoustic)",
-      "url": "https://open.spotify.com/track/6PJpu9oZI9OXKTx2sBH2CL"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "If It Wasn\u2019t for the Cross",
-        "url": "https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN"
-      },
-      "artists": [
-        {
-          "name": "The Lowly Heirs",
-          "url": "https://open.spotify.com/artist/5Rut8SvWARj6uzDoajjUbX"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "If It Wasn\u2019t for the Cross",
-      "url": "https://open.spotify.com/track/07zvagUEBLjgBUGRALm963"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "I can always find You",
         "url": "https://open.spotify.com/album/3xuqtlVGECSJnRvvo94pge"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 344206,
       "name": "We Rise",
       "url": "https://open.spotify.com/track/32oefCfjl6LcXDzQD5eqMy"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "If It Wasn\u2019t for the Cross",
+        "url": "https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN"
+      },
+      "artists": [
+        {
+          "name": "The Lowly Heirs",
+          "url": "https://open.spotify.com/artist/5Rut8SvWARj6uzDoajjUbX"
+        }
+      ],
+      "duration_ms": 254666,
+      "name": "If It Wasn\u2019t for the Cross",
+      "url": "https://open.spotify.com/track/07zvagUEBLjgBUGRALm963"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "L E P E R S",
+        "url": "https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg"
+      },
+      "artists": [
+        {
+          "name": "Joshua Leventhal",
+          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
+        },
+        {
+          "name": "Atmos One",
+          "url": "https://open.spotify.com/artist/2hUBrOilKr0a6llHEBvuSu"
+        }
+      ],
+      "duration_ms": 250555,
+      "name": "L E P E R S",
+      "url": "https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Psalm 136 [Your Mercy Endures] [Thomas Merton Mix] (feat. Leslie Jordan] [Thomas Merton Mix)",
         "url": "https://open.spotify.com/album/0pNvG1RHm2oONef2kFbGkw"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 300746,
       "name": "Psalm 136 [Your Mercy Endures] [Thomas Merton Mix] - feat. Leslie Jordan] [Thomas Merton Mix",
       "url": "https://open.spotify.com/track/685qjYgfMFp0UKvPbDNYoz"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "L E P E R S",
-        "url": "https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg"
-      },
-      "artists": [
-        {
-          "name": "Joshua Leventhal",
-          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
-        },
-        {
-          "name": "Atmos One",
-          "url": "https://open.spotify.com/artist/2hUBrOilKr0a6llHEBvuSu"
-        }
-      ],
-      "duration_ms": 250555,
-      "name": "L E P E R S",
-      "url": "https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "YOUR NAME IS POWER (Acoustic)",
-        "url": "https://open.spotify.com/album/5OPnwxMGo48RxfOQS9hzXy"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 232238,
-      "name": "YOUR NAME IS POWER - Acoustic",
-      "url": "https://open.spotify.com/track/5BBd53oJDxtKuK92jWZryD"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Do It Again - EP",
         "url": "https://open.spotify.com/album/6EXWsOIhMYWY2kGHbhmERE"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 272914,
       "name": "Do it Again (Acoustic)",
       "url": "https://open.spotify.com/track/7pO0Llg3bXvM4HfOtWcdSZ"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "YOUR NAME IS POWER (Acoustic)",
+        "url": "https://open.spotify.com/album/5OPnwxMGo48RxfOQS9hzXy"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 232238,
+      "name": "YOUR NAME IS POWER - Acoustic",
+      "url": "https://open.spotify.com/track/5BBd53oJDxtKuK92jWZryD"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
-      },
-      "artists": [
-        {
-          "name": "Grant Leslie",
-          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Refuge",
-      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "The War Is Over",
         "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
       },
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
+      },
+      "artists": [
+        {
+          "name": "Grant Leslie",
+          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "You Are God, Be Glorified",
         "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
       },
@@ -1235,22 +1235,6 @@
       "duration_ms": 267165,
       "name": "You Are God, Be Glorified",
       "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 188563,
-      "name": "Broken Things - Acoustic",
-      "url": "https://open.spotify.com/track/3WNw8qXIN8PnOqoVgYXCEl"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1283,6 +1267,22 @@
       "duration_ms": 279373,
       "name": "Isn't It Love - 2014 Version",
       "url": "https://open.spotify.com/track/04Lw9ot3N6m7o4Z02JdwCx"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 188563,
+      "name": "Broken Things - Acoustic",
+      "url": "https://open.spotify.com/track/3WNw8qXIN8PnOqoVgYXCEl"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Worth The Wait",
-        "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
-      },
-      "artists": [
-        {
-          "name": "Bryan McCleery",
-          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
-        }
-      ],
-      "duration_ms": 235056,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Magnified (Acoustic)",
         "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 211800,
       "name": "Magnified (Acoustic)",
       "url": "https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Worth The Wait",
+        "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
+      },
+      "artists": [
+        {
+          "name": "Bryan McCleery",
+          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
+        }
+      ],
+      "duration_ms": 235056,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6PPK6jGfdlNYfsH9jt4YZh"
-      },
-      "artists": [
-        {
-          "name": "London Gatch",
-          "url": "https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah"
-        }
-      ],
-      "duration_ms": 390497,
-      "name": "Home - Acoustic",
-      "url": "https://open.spotify.com/track/5s5PmLUIIfh2glhkoBF0aS"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Suddenly (Or the Nuclear Sunburst of the Truth Revealed)",
         "url": "https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 240946,
       "name": "This Wild Earth",
       "url": "https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6PPK6jGfdlNYfsH9jt4YZh"
+      },
+      "artists": [
+        {
+          "name": "London Gatch",
+          "url": "https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah"
+        }
+      ],
+      "duration_ms": 390497,
+      "name": "Home - Acoustic",
+      "url": "https://open.spotify.com/track/5s5PmLUIIfh2glhkoBF0aS"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Footprints (Acoustic)",
-        "url": "https://open.spotify.com/album/3uppRGTB0NYCvIdVdch91O"
-      },
-      "artists": [
-        {
-          "name": "Matt Hammitt",
-          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
-        }
-      ],
-      "duration_ms": 247195,
-      "name": "Footprints - Acoustic",
-      "url": "https://open.spotify.com/track/6MXvYbGJjKhMTXb33yOkfH"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Praise You In This Storm (New York Sessions)",
         "url": "https://open.spotify.com/album/754X3YgVLT8TIZULobXMIV"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 354407,
       "name": "Praise You In This Storm - New York Sessions",
       "url": "https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Footprints (Acoustic)",
+        "url": "https://open.spotify.com/album/3uppRGTB0NYCvIdVdch91O"
+      },
+      "artists": [
+        {
+          "name": "Matt Hammitt",
+          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
+        }
+      ],
+      "duration_ms": 247195,
+      "name": "Footprints - Acoustic",
+      "url": "https://open.spotify.com/track/6MXvYbGJjKhMTXb33yOkfH"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Home (GCM Sinai Sessions) [feat. Jonathan Ogden]",
-        "url": "https://open.spotify.com/album/4iwQhf1wykHLNxnTJ9aQfi"
-      },
-      "artists": [
-        {
-          "name": "WYLD",
-          "url": "https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt"
-        },
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 250750,
-      "name": "Home (GCM Sinai Sessions) [feat. Jonathan Ogden]",
-      "url": "https://open.spotify.com/track/6LwwzwWaRfRkDjFAIUxtCS"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "I See It Now",
         "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
       },
@@ -1655,22 +1635,6 @@
       "duration_ms": 189292,
       "name": "I See It Now",
       "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Fortress (Acoustic)",
-        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
-      },
-      "artists": [
-        {
-          "name": "Refuge Worship",
-          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
-        }
-      ],
-      "duration_ms": 249485,
-      "name": "Fortress (Acoustic)",
-      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1691,6 +1655,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Home (GCM Sinai Sessions) [feat. Jonathan Ogden]",
+        "url": "https://open.spotify.com/album/4iwQhf1wykHLNxnTJ9aQfi"
+      },
+      "artists": [
+        {
+          "name": "WYLD",
+          "url": "https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt"
+        },
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 250750,
+      "name": "Home (GCM Sinai Sessions) [feat. Jonathan Ogden]",
+      "url": "https://open.spotify.com/track/6LwwzwWaRfRkDjFAIUxtCS"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Old Soul",
         "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 221684,
       "name": "Old Soul",
       "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Fortress (Acoustic)",
+        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
+      },
+      "artists": [
+        {
+          "name": "Refuge Worship",
+          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
+        }
+      ],
+      "duration_ms": 249485,
+      "name": "Fortress (Acoustic)",
+      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
     },
     {
       "added_at": "2023-07-28 04:01:00",

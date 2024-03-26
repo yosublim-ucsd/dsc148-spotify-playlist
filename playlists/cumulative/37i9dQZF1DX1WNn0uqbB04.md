@@ -4,7 +4,7 @@
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-82 songs - 5 hr 13 min
+83 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Al Vacío](https://open.spotify.com/track/6pop1Zy75gRGx4946x3ZGY) | [Max Aguirre](https://open.spotify.com/artist/7Bl5WcUdWdWAwDpCD3o8lk), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Al Vacío](https://open.spotify.com/album/28xoCj2zTxQJnQQg7lBqHY) | 3:34 | 2023-08-04 | 2023-12-17 |
 | [Bahia Blanca](https://open.spotify.com/track/7djvoHOtL85rHJtwOgmCAW) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Milonguero](https://open.spotify.com/album/3k4njpRBXJDfFvZljMXK7g) | 2:50 | 2023-08-04 |  |
 | [Buenos Aires Dreams](https://open.spotify.com/track/5CTRkmDhZekiUUT4dT1Chf) | [Le Griser](https://open.spotify.com/artist/5e1nz6aE7X0qZCQPvV2Syb) | [Buenos Aires Dreams](https://open.spotify.com/album/6cXOW35uxFKLeYkH0VU19O) | 3:46 | 2023-11-24 | 2024-02-14 |
-| [Bye Mom](https://open.spotify.com/track/2kliWnNyvuFRjVITOzkKXr) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Tango Groove](https://open.spotify.com/album/7uRW2LahOcPwUiX68ACG7F) | 3:43 | 2023-08-04 |  |
+| [Bye Mom](https://open.spotify.com/track/2kliWnNyvuFRjVITOzkKXr) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Tango Groove](https://open.spotify.com/album/7uRW2LahOcPwUiX68ACG7F) | 3:43 | 2023-08-04 | 2024-03-26 |
 | [Cafe 1930](https://open.spotify.com/track/1hHhJm5ghxlAYagj8hQgww) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Di Meola Plays Piazzolla](https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0) | 6:15 | 2023-08-04 |  |
 | [Caminito](https://open.spotify.com/track/4TiYDx9Msjyk3ZxWaiEq1h) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S), [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [Otoño](https://open.spotify.com/album/0e6nn83SoAOV6XeWDAUNkn) | 4:23 | 2023-11-24 |  |
 | [Canopus](https://open.spotify.com/track/7MmhdgP3Fw2P51C1aBuroS) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Tango on Mars](https://open.spotify.com/album/1KQHFteiA1B5H1N47BdZsq) | 3:19 | 2023-08-04 |  |
@@ -37,6 +37,7 @@
 | [La Milonga](https://open.spotify.com/track/5ObJaXEtpdxxkU4K6FrcTg) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Mas Alla Del Sur](https://open.spotify.com/album/73bcUROeKMvqzGHAiwO73F) | 3:28 | 2023-08-04 |  |
 | [La Milonga Del Senor Blanco](https://open.spotify.com/track/3bOV8ki6LJMWauukDTllD4) | [Bassa](https://open.spotify.com/artist/4Yenm93sqAuPEt2xHG5DBC) | [Berlin Tango](https://open.spotify.com/album/0BusGskU7khU5LU1fJqina) | 4:37 | 2023-08-04 |  |
 | [La Rosca \- Versión Remasterizada 2008](https://open.spotify.com/track/2ssFUjK5KdjiaeaI2yiGv7) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Marcha Del Golazo Solitario](https://open.spotify.com/album/2QbQpUf9KGyExi87PPRUsX) | 4:29 | 2023-08-04 |  |
+| [Label](https://open.spotify.com/track/6OqktiC44c2hWp52yuWFnP) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Tango Groove](https://open.spotify.com/album/7uRW2LahOcPwUiX68ACG7F) | 3:00 | 2023-11-24 |  |
 | [Last tango in Paris](https://open.spotify.com/track/6254G3uD6fnS1Xx6vRHk3L) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Hôtel Costes 3 \- Etage 3](https://open.spotify.com/album/5JklxF7VNYkd6ccsbYev03) | 4:33 | 2023-08-04 |  |
 | [Leonel, El Feo](https://open.spotify.com/track/4E7p53RpMQES1VTspmXEmE) | [Luciano Supervielle](https://open.spotify.com/artist/0cVBzbJ1qk2pergJG8jbSC) | [Bajofondo Tango Club Presenta A Supervielle](https://open.spotify.com/album/6USPX5kkLVt8bXHw4DS0rl) | 2:32 | 2023-08-04 |  |
 | [Libertango \- En Vivo en Luna Park](https://open.spotify.com/track/7JK4ZND7Gvd3smWaX5eU3t) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6), [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [Libertango \(En Vivo en el Luna Park\)](https://open.spotify.com/album/16ncE46moDunwP7X7P7xRH) | 3:26 | 2023-08-04 |  |

@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-659 songs - 1 day 12 hr 11 min
+660 songs - 1 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [From You](https://open.spotify.com/track/52cMqFjKP9O7fwyTS0uAQQ) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [From You](https://open.spotify.com/album/0WEBDFGiPBFoDx55iNQU7M) | 2:55 | 2023-09-15 | 2024-02-03 |
 | [Frontier Pass](https://open.spotify.com/track/24G6qIFgmj40koUyIv2TfB) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Frontier Pass](https://open.spotify.com/album/1fcs0XDucXzC3Ns541p9Lr) | 2:59 | 2023-04-07 | 2023-05-03 |
 | [Frontier Pass](https://open.spotify.com/track/4hAjg6ywZNaJKIPhAym6eV) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Frontier Pass](https://open.spotify.com/album/6M55EdqF90P7KWsnwV9q0p) | 2:59 | 2023-04-07 | 2023-09-20 |
+| [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 | 2024-03-22 |  |
 | [Gaslight 101](https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl) | 2:59 | 2024-03-22 | 2024-03-24 |
 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 | 2024-03-01 |  |
 | [Gay Face](https://open.spotify.com/track/0bDSviyAcNpCiIOipNDLhU) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Gay Face](https://open.spotify.com/album/0O0Hp49Ql9EKpcVPYxVzlf) | 3:01 | 2023-06-02 | 2023-06-10 |
@@ -606,7 +607,7 @@
 | [Two Worlds Apart](https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 2:58 | 2021-12-15 | 2022-11-02 |
 | [Two Worlds Apart](https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 2:58 | 2022-10-19 | 2023-01-28 |
 | [U](https://open.spotify.com/track/75w90hoCMVISvw80Kqbznq) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Brayla](https://open.spotify.com/artist/42HxYNtPFMRHRqF9Ts1AHx) | [Forward](https://open.spotify.com/album/1Mp96vHPfKb0uDsDglRB2m) | 2:49 | 2023-06-16 |  |
-| [U & I](https://open.spotify.com/track/7DaHNeYZ9kUJntu5R6rVnS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [U & I](https://open.spotify.com/album/3ypZDA00UD5VEhPqwxTL2F) | 3:42 | 2023-11-19 |  |
+| [U & I](https://open.spotify.com/track/7DaHNeYZ9kUJntu5R6rVnS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [U & I](https://open.spotify.com/album/3ypZDA00UD5VEhPqwxTL2F) | 3:42 | 2023-11-19 | 2024-03-26 |
 | [U & I](https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [The NightBirds](https://open.spotify.com/artist/5y3PKV2Jacq5FBub8joiNJ) | [HOUSE OF GROOVE](https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo) | 3:36 | 2023-11-19 |  |
 | [U Got Me](https://open.spotify.com/track/4bvNJ5So34WwPSGXaERnGh) | [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [U Got Me](https://open.spotify.com/album/7vNWrBgdkb8ne93HUDnjxQ) | 3:26 | 2023-06-30 | 2023-10-16 |
 | [U Should Be Mine](https://open.spotify.com/track/6babFcorQ58c4wRURJARaE) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [U Should Be Mine](https://open.spotify.com/album/1SAL8acM2LnCU1GmQpks37) | 3:25 | 2023-08-18 | 2023-10-07 |

@@ -4,7 +4,7 @@
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:4wrzxtBZw20ufDstKyTnnP">Rachel Chinouriri</a> with collaborators HYLNU and Glen Roberts.
 
-91 songs - 5 hr 0 min
+92 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [This Is What It Feels Like](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Intense](https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF) | 3:24 | 2024-01-22 | 2024-03-01 |
 | [This Wish](https://open.spotify.com/track/2srilwiYAXsMkmwny0RUQ3) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Wish \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ) | 3:25 | 2024-01-22 | 2024-03-01 |
 | [Unlove You](https://open.spotify.com/track/09aMmvVWk5n7kmsj2NS12a) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Unlove You](https://open.spotify.com/album/61RGgh2zxHHsIzyhqMZEzq) | 2:46 | 2024-03-01 | 2024-03-06 |
-| [Unlove You](https://open.spotify.com/track/2J4vV2TPhtXYUxIHqMCsq4) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Unlove You](https://open.spotify.com/album/0XOCr1zfM2co1x5dMIjO77) | 2:46 | 2024-03-01 |  |
+| [Unlove You](https://open.spotify.com/track/13cItc2bYoLQ1JOMHklf4s) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [selfcare](https://open.spotify.com/album/2NXmQJoHa21xDPxtbrdu5b) | 2:46 | 2024-03-01 |  |
+| [Unlove You](https://open.spotify.com/track/2J4vV2TPhtXYUxIHqMCsq4) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Unlove You](https://open.spotify.com/album/0XOCr1zfM2co1x5dMIjO77) | 2:46 | 2024-03-01 | 2024-03-26 |
 | [Unravel Myself](https://open.spotify.com/track/2Xr2Lim9QmzDruk6sPhzmH) | [Ivy James](https://open.spotify.com/artist/1WoddWoiAejGKl7zIoyNl7) | [Unravel Myself](https://open.spotify.com/album/1BppxhXRwlhItsVZEaq9t9) | 3:00 | 2024-01-22 | 2024-03-01 |
 | [Versions Of You](https://open.spotify.com/track/5552mB1SfLoZPP999vzyF4) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Versions Of You](https://open.spotify.com/album/3PgfExqEE8aHKGRilrmrAS) | 3:13 | 2024-01-22 | 2024-03-01 |
 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-03-01 |  |

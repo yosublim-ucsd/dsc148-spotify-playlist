@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,697 likes - 51 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,714 likes - 51 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 31 | [Pique Minato](https://open.spotify.com/track/1hOuDUJ8pqh5gwGiZpl2xG) | [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu) | [Pique Minato](https://open.spotify.com/album/5ri4PGz7cj1R9GTf5lHpr2) | 2:58 |
 | 32 | [Os Titãs Primordiais](https://open.spotify.com/track/3aZ0jBsXRFbiXIFDLZR6wa) | [anirap](https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B) | [Os Titãs Primordiais](https://open.spotify.com/album/4k3S6NHWgwhVv16HAG2190) | 7:26 |
 | 33 | [Rap do Deidara: A Arte é a Explosão \(Nerd Hits\)](https://open.spotify.com/track/6JxtFNFJUV9rC75lc4knS0) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Deidara: A Arte é a Explosão \(Nerd Hits\)](https://open.spotify.com/album/2WRMKQP4RqmmCNktiP6lQS) | 3:03 |
-| 34 | [Cria Da Folha](https://open.spotify.com/track/2g57Cb8iArpvKqfEArfZcY) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Cria Da Folha](https://open.spotify.com/album/74MIWbllspaCXOOGhX7UPb) | 2:39 |
+| 34 | [Cria Da Folha](https://open.spotify.com/track/4aAiupZY4ytrlci5Qffqig) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Cria Da Folha](https://open.spotify.com/album/0SESZIUkonzJScZa9AROoT) | 2:39 |
 | 35 | [Rei dos Piratas](https://open.spotify.com/track/3CDYKrq6GAp7AIw6ujmVn1) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Rei dos Piratas](https://open.spotify.com/album/5o1Rdvz6hHdG957z6Z3f9w) | 3:29 |
 | 36 | [Chuva de Kunai](https://open.spotify.com/track/5nOfsUpaptWMqeyGmkyz9i) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Chuva de Kunai](https://open.spotify.com/album/30XPTajhSn4Ppj3V3UXvlZ) | 3:19 |
 | 37 | [Rap do Naruto: O Sétimo Hokage \(Nerd Hits\)](https://open.spotify.com/track/7DWialEIm1eklBVKQwxgFl) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Naruto: O Sétimo Hokage \(Nerd Hits\)](https://open.spotify.com/album/6YNpUmtjrGTzAhEh56QA6F) | 3:56 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 41 | [Então Se Afogue](https://open.spotify.com/track/0TAPQcswcOefou6pXSKjjG) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Então Se Afogue](https://open.spotify.com/album/6H4led0139AUtgarjmkhvs) | 5:04 |
 | 42 | [Madara: A Lenda Reencarnada](https://open.spotify.com/track/70EKfzmUOGLZCbl2s9qJ8F) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [Madara: A Lenda Reencarnada](https://open.spotify.com/album/3a9dHWUNuQIK3zrslZsmnE) | 3:30 |
 | 43 | [Estilo Ninja](https://open.spotify.com/track/051X68OEo3DDJD5Qieu4VX) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Estilo Ninja](https://open.spotify.com/album/1UR0J9WLgYQIqbp2JvrU39) | 3:26 |
-| 44 | [Maldição do Ódio](https://open.spotify.com/track/0zMvUqDRnUxJVE7VBiCCFE) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu) | [Maldição do Ódio](https://open.spotify.com/album/1Yk3IYnEjuGb8zSmkbK7No) | 4:55 |
+| 44 | [Maldição do Ódio](https://open.spotify.com/track/2iRhw42gNxXu6wyB853V4P) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu) | [Maldição do Ódio](https://open.spotify.com/album/4wadKkMiwxdujeI95Tafm6) | 4:55 |
 | 45 | [Então Eletrifique](https://open.spotify.com/track/6SLpDYpLCpPeYPCIvwoW9l) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Então Eletrifique](https://open.spotify.com/album/42W4kQnmlIzwrk6IhK75I6) | 5:30 |
 | 46 | [Chamas Azuis](https://open.spotify.com/track/5PUhWvFvj8Hx1pwe0A0wGA) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [808 Ander](https://open.spotify.com/artist/22BZPaeC7qaUL1opAQCWTk) | [Chamas Azuis](https://open.spotify.com/album/6jydQD6FUMLFJTFVKwpfbg) | 3:42 |
 | 47 | [Senpai](https://open.spotify.com/track/70j0FQ3htaLkadLHHaiXDE) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B) | [Senpai](https://open.spotify.com/album/5rZU10IBURrvmenyMGF4zj) | 3:13 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 50 | [Se Ajoelhe](https://open.spotify.com/track/1KaxJnnYE8BZ37FXPBPjmi) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Se Ajoelhe](https://open.spotify.com/album/7lzPoJm7sSXvqxyTwr9bmQ) | 3:47 |
 | 51 | [Rap Do Brook: Canção Solo](https://open.spotify.com/track/0hOIkoS38ZC5rbdM8sp1Bh) | [Basara](https://open.spotify.com/artist/2A8r4X2BCk6Y92EBYd3tP1) | [Rap Do Brook: Canção Solo](https://open.spotify.com/album/5L7eIZXIA12kIF2qyK2IGo) | 3:52 |
 
-Snapshot ID: `MCw0YjllZTNhZmIyZjRmMzQ2Mjc1ZDJmYmE3ZTMzZTM5Mzc3OWI4Yjc2`
+Snapshot ID: `MCxlYzRhZjczZjNhNDNhNDk4MmNjOWFmZDRmMjA2ZDk4MmI3MWZlMWNl`

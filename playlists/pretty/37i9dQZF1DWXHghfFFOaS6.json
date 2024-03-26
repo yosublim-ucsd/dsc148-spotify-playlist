@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 328646,
+  "num_followers": 328724,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2U4OTgyY2JkODNmZGQ3NzVmOTJiYmI1ZjI5YmY3OWI4NDgxNTk1",
+  "snapshot_id": "MCxhYTE3ZGRjYmNjMWM5NDFiMDg1MTRkMmUzNDhlM2QxY2U1YzMwNzgx",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -115,22 +115,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 261265,
-      "name": "Rebirth Of Slick (Cool Like Dat)",
-      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Come Touch The Sun",
         "url": "https://open.spotify.com/album/5qy89jtphApqKiPw4kVszd"
       },
@@ -143,22 +127,6 @@
       "duration_ms": 300693,
       "name": "Yes Baby Yes",
       "url": "https://open.spotify.com/track/5AiNMNnKQUYcKsuJoB6ITc"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "The Return of the Space Cowboy (Remastered)",
-        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 386973,
-      "name": "Space Cowboy",
-      "url": "https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -195,6 +163,38 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "The Return of the Space Cowboy (Remastered)",
+        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 386973,
+      "name": "Space Cowboy",
+      "url": "https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 261265,
+      "name": "Rebirth Of Slick (Cool Like Dat)",
+      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Dah Shinin'",
         "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
       },
@@ -207,6 +207,22 @@
       "duration_ms": 237720,
       "name": "Bucktown",
       "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The LP",
+        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
+      },
+      "artists": [
+        {
+          "name": "Large Professor",
+          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "I Juswanna Chill",
+      "url": "https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -227,22 +243,6 @@
       "duration_ms": 203680,
       "name": "Astronomy (8th Light)",
       "url": "https://open.spotify.com/track/1mIpDPCehnf3EPk6J4ZCUF"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "The LP",
-        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
-      },
-      "artists": [
-        {
-          "name": "Large Professor",
-          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "I Juswanna Chill",
-      "url": "https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/25M5zhvFVOKw59pxA3f5rN"
-      },
-      "artists": [
-        {
-          "name": "Grover Washington, Jr.",
-          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
-        }
-      ],
-      "duration_ms": 479466,
-      "name": "Knucklehead",
-      "url": "https://open.spotify.com/track/4TYEIckMi7PTCh1kiknKSy"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Love Is The Answer (Expanded)",
         "url": "https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 241373,
       "name": "Bridge Through Time",
       "url": "https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/25M5zhvFVOKw59pxA3f5rN"
+      },
+      "artists": [
+        {
+          "name": "Grover Washington, Jr.",
+          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        }
+      ],
+      "duration_ms": 479466,
+      "name": "Knucklehead",
+      "url": "https://open.spotify.com/track/4TYEIckMi7PTCh1kiknKSy"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -795,26 +795,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Pass It On",
-        "url": "https://open.spotify.com/album/789KsljLATC1ZZDAxBeK27"
-      },
-      "artists": [
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "Be Thankful (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/20RTW1RVNY4B2uUo2MrFTg"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Off The Record",
         "url": "https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 281733,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/0oC8NiFS4UNepxVacFRdLr"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Pass It On",
+        "url": "https://open.spotify.com/album/789KsljLATC1ZZDAxBeK27"
+      },
+      "artists": [
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 253173,
+      "name": "Be Thankful (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/20RTW1RVNY4B2uUo2MrFTg"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Datskat",
+      "url": "https://open.spotify.com/track/0Fn75FpPmRi6WN7utBJHct"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Disposable Arts",
         "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 228466,
       "name": "Block Episode",
       "url": "https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 220026,
-      "name": "Datskat",
-      "url": "https://open.spotify.com/track/0Fn75FpPmRi6WN7utBJHct"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "urban lounge",
+        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
+      },
+      "artists": [
+        {
+          "name": "Young Disciples",
+          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Apparently Nothin' - Edit",
+      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Pushin' On",
         "url": "https://open.spotify.com/album/1uYaIjqXcqrCLIeA0syxar"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 199560,
       "name": "Pushin' On",
       "url": "https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "urban lounge",
-        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
-      },
-      "artists": [
-        {
-          "name": "Young Disciples",
-          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Apparently Nothin' - Edit",
-      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Leaves of Memories",
-        "url": "https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul"
-      },
-      "artists": [
-        {
-          "name": "Kwaj",
-          "url": "https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX"
-        },
-        {
-          "name": "V. Soul",
-          "url": "https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Clouds in the Sky",
-      "url": "https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Play With the Changes",
         "url": "https://open.spotify.com/album/5F4ERW3zwBLDTC4dYxaplL"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 246840,
       "name": "Look Inside",
       "url": "https://open.spotify.com/track/55vLT3xEExIooTieCfLjUQ"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Leaves of Memories",
+        "url": "https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul"
+      },
+      "artists": [
+        {
+          "name": "Kwaj",
+          "url": "https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX"
+        },
+        {
+          "name": "V. Soul",
+          "url": "https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Clouds in the Sky",
+      "url": "https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx"
     },
     {
       "added_at": "2022-07-14 19:24:43",

@@ -1,12 +1,12 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Peces Raros.",
-  "num_followers": 17674,
+  "num_followers": 17692,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmIyNjdmYjliNWRmMjMwNTk5YTZhMTc0NjMxZDAxZjhjNTBmNGEw",
+  "snapshot_id": "MCxkM2ZmNDkyNjYyMGQwZmU0MWY0ODQ0NjQxZjAxOGNlMGNjNmFlNGIx",
   "tracks": [
     {
       "added_at": "2024-03-22 15:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-03-22 15:00:00",
       "album": {
-        "name": "Nuestros Besos",
-        "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
-      },
-      "artists": [
-        {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Nuestros Besos",
-      "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
-    },
-    {
-      "added_at": "2024-03-22 15:00:00",
-      "album": {
         "name": "No te sueltes",
         "url": "https://open.spotify.com/album/1ol52rgBgzxAVG9e9u3J36"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 225002,
       "name": "No te sueltes",
       "url": "https://open.spotify.com/track/2dLmnd5RQmCA913yR2mEAD"
+    },
+    {
+      "added_at": "2024-03-22 15:00:00",
+      "album": {
+        "name": "Nuestros Besos",
+        "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
+      },
+      "artists": [
+        {
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Nuestros Besos",
+      "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
     },
     {
       "added_at": "2024-03-22 15:00:00",
@@ -519,18 +519,22 @@
     {
       "added_at": "2024-03-22 15:00:00",
       "album": {
-        "name": "CONSTITUCI\u00d3N",
-        "url": "https://open.spotify.com/album/0tUcd7rih15vA60HYbZ9LJ"
+        "name": "Cuando la Luna Caiga",
+        "url": "https://open.spotify.com/album/0Q64aIzoIOqP5Xw5dzbn35"
       },
       "artists": [
         {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        },
+        {
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
         }
       ],
-      "duration_ms": 161977,
-      "name": "CONSTITUCI\u00d3N",
-      "url": "https://open.spotify.com/track/18835Ty8i86m9U7ki4Azoi"
+      "duration_ms": 273056,
+      "name": "Cuando la Luna Caiga",
+      "url": "https://open.spotify.com/track/4kbQVab7ftejREWGo8ebUi"
     },
     {
       "added_at": "2024-03-22 15:00:00",
@@ -555,22 +559,18 @@
     {
       "added_at": "2024-03-22 15:00:00",
       "album": {
-        "name": "Cuando la Luna Caiga",
-        "url": "https://open.spotify.com/album/0Q64aIzoIOqP5Xw5dzbn35"
+        "name": "CONSTITUCI\u00d3N",
+        "url": "https://open.spotify.com/album/0tUcd7rih15vA60HYbZ9LJ"
       },
       "artists": [
         {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        },
-        {
-          "name": "Plastilina",
-          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
         }
       ],
-      "duration_ms": 273056,
-      "name": "Cuando la Luna Caiga",
-      "url": "https://open.spotify.com/track/4kbQVab7ftejREWGo8ebUi"
+      "duration_ms": 161977,
+      "name": "CONSTITUCI\u00d3N",
+      "url": "https://open.spotify.com/track/18835Ty8i86m9U7ki4Azoi"
     },
     {
       "added_at": "2024-03-22 15:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-03-22 15:00:00",
       "album": {
+        "name": "Una Dosis de Terciopelo",
+        "url": "https://open.spotify.com/album/6UgJn3Do0qF5Q28RsGIdKd"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        }
+      ],
+      "duration_ms": 256566,
+      "name": "De Otra Vida",
+      "url": "https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh"
+    },
+    {
+      "added_at": "2024-03-22 15:00:00",
+      "album": {
         "name": "p\u00e9talos",
         "url": "https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2024-03-22 15:00:00",
       "album": {
-        "name": "Una Dosis de Terciopelo",
-        "url": "https://open.spotify.com/album/6UgJn3Do0qF5Q28RsGIdKd"
-      },
-      "artists": [
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        }
-      ],
-      "duration_ms": 256566,
-      "name": "De Otra Vida",
-      "url": "https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh"
-    },
-    {
-      "added_at": "2024-03-22 15:00:00",
-      "album": {
         "name": "Provoqu\u00e9",
         "url": "https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE"
       },
@@ -759,6 +759,26 @@
     {
       "added_at": "2024-03-22 15:00:00",
       "album": {
+        "name": "Tan besh",
+        "url": "https://open.spotify.com/album/7guUCEylVmfEDaUgLMzz34"
+      },
+      "artists": [
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        },
+        {
+          "name": "nan Q",
+          "url": "https://open.spotify.com/artist/1CphQr7iHNe8umRXIAvl3i"
+        }
+      ],
+      "duration_ms": 171162,
+      "name": "Tan besh",
+      "url": "https://open.spotify.com/track/7jQIaZaNOucdWwqgbaaaCp"
+    },
+    {
+      "added_at": "2024-03-22 15:00:00",
+      "album": {
         "name": "Vida Real",
         "url": "https://open.spotify.com/album/4LzdHfWwKopzSuUichGbgm"
       },
@@ -771,6 +791,30 @@
       "duration_ms": 199875,
       "name": "Atormentada",
       "url": "https://open.spotify.com/track/0KHFf9RtpZyRlcJDHL4AKR"
+    },
+    {
+      "added_at": "2024-03-22 15:00:00",
+      "album": {
+        "name": "Ojos De Fuego (Sinego Remix)",
+        "url": "https://open.spotify.com/album/3CmRZMXi7a6xg6wzqrBDZd"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        },
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 371857,
+      "name": "Ojos De Fuego - Sinego Remix",
+      "url": "https://open.spotify.com/track/1QPHeiHP9neITJ5wDLbchb"
     },
     {
       "added_at": "2024-03-22 15:00:00",
@@ -807,50 +851,6 @@
       "duration_ms": 202625,
       "name": "Hoy me di cuenta",
       "url": "https://open.spotify.com/track/4djtv8k6I0tZMNQewhvakT"
-    },
-    {
-      "added_at": "2024-03-22 15:00:00",
-      "album": {
-        "name": "Tan besh",
-        "url": "https://open.spotify.com/album/7guUCEylVmfEDaUgLMzz34"
-      },
-      "artists": [
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        },
-        {
-          "name": "nan Q",
-          "url": "https://open.spotify.com/artist/1CphQr7iHNe8umRXIAvl3i"
-        }
-      ],
-      "duration_ms": 171162,
-      "name": "Tan besh",
-      "url": "https://open.spotify.com/track/7jQIaZaNOucdWwqgbaaaCp"
-    },
-    {
-      "added_at": "2024-03-22 15:00:00",
-      "album": {
-        "name": "Ojos De Fuego (Sinego Remix)",
-        "url": "https://open.spotify.com/album/3CmRZMXi7a6xg6wzqrBDZd"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        },
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        },
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 371857,
-      "name": "Ojos De Fuego - Sinego Remix",
-      "url": "https://open.spotify.com/track/1QPHeiHP9neITJ5wDLbchb"
     },
     {
       "added_at": "2024-03-22 15:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-03-22 15:00:00",
       "album": {
-        "name": "El \u00daltimo Romance",
-        "url": "https://open.spotify.com/album/0amUkicRgz6q05yEzqDB4S"
-      },
-      "artists": [
-        {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "El \u00daltimo Romance",
-      "url": "https://open.spotify.com/track/3lHNEKAlUf8Jh3UTkMQCr6"
-    },
-    {
-      "added_at": "2024-03-22 15:00:00",
-      "album": {
         "name": "Ficci\u00f3n",
         "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
       },
@@ -975,22 +959,6 @@
       "duration_ms": 201601,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
-    },
-    {
-      "added_at": "2024-03-22 15:00:00",
-      "album": {
-        "name": "Delfines",
-        "url": "https://open.spotify.com/album/1dQ2SQ6xbedOlgA2DAJ9JR"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Guzm\u00e1n",
-          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
-        }
-      ],
-      "duration_ms": 278274,
-      "name": "Delfines",
-      "url": "https://open.spotify.com/track/2nVmNqnJKGLXfvjFWUWF3e"
     },
     {
       "added_at": "2024-03-22 15:00:00",
@@ -1015,22 +983,34 @@
     {
       "added_at": "2024-03-22 15:00:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/1CllJIvSgkCwh7CnJXis1G"
+        "name": "El \u00daltimo Romance",
+        "url": "https://open.spotify.com/album/0amUkicRgz6q05yEzqDB4S"
       },
       "artists": [
         {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        },
-        {
-          "name": "Chae Sol\u00e9",
-          "url": "https://open.spotify.com/artist/0AKt7gt9B6FzostvBp5JwI"
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
         }
       ],
-      "duration_ms": 193149,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/4cxgmgcbHuWksJKepHAra2"
+      "duration_ms": 302750,
+      "name": "El \u00daltimo Romance",
+      "url": "https://open.spotify.com/track/3lHNEKAlUf8Jh3UTkMQCr6"
+    },
+    {
+      "added_at": "2024-03-22 15:00:00",
+      "album": {
+        "name": "Delfines",
+        "url": "https://open.spotify.com/album/1dQ2SQ6xbedOlgA2DAJ9JR"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Guzm\u00e1n",
+          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
+        }
+      ],
+      "duration_ms": 278274,
+      "name": "Delfines",
+      "url": "https://open.spotify.com/track/2nVmNqnJKGLXfvjFWUWF3e"
     },
     {
       "added_at": "2024-03-22 15:00:00",
@@ -1051,6 +1031,26 @@
       "duration_ms": 242238,
       "name": "Cerca",
       "url": "https://open.spotify.com/track/0zwXoziSBZBHK6Z0HDBxJc"
+    },
+    {
+      "added_at": "2024-03-22 15:00:00",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/1CllJIvSgkCwh7CnJXis1G"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        },
+        {
+          "name": "Chae Sol\u00e9",
+          "url": "https://open.spotify.com/artist/0AKt7gt9B6FzostvBp5JwI"
+        }
+      ],
+      "duration_ms": 193149,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4cxgmgcbHuWksJKepHAra2"
     },
     {
       "added_at": "2024-03-22 15:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-03-22 15:00:00",
       "album": {
+        "name": "coraz\u00f3n dinamita",
+        "url": "https://open.spotify.com/album/3Ud6DxbZ5a0vXaMyOTdMjf"
+      },
+      "artists": [
+        {
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        }
+      ],
+      "duration_ms": 181532,
+      "name": "coraz\u00f3n dinamita",
+      "url": "https://open.spotify.com/track/4vqiuKUsAPkO0DzDrrIdzP"
+    },
+    {
+      "added_at": "2024-03-22 15:00:00",
+      "album": {
         "name": "Fuera de Campo (Edici\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/5MvyTXQx5v4SUQ9A5BdPSz"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2024-03-22 15:00:00",
       "album": {
-        "name": "coraz\u00f3n dinamita",
-        "url": "https://open.spotify.com/album/3Ud6DxbZ5a0vXaMyOTdMjf"
+        "name": "KRAUT!",
+        "url": "https://open.spotify.com/album/7wDAZrA54pxMuDr7ETowNS"
       },
       "artists": [
         {
-          "name": "wiranda johansen",
-          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
         }
       ],
-      "duration_ms": 181532,
-      "name": "coraz\u00f3n dinamita",
-      "url": "https://open.spotify.com/track/4vqiuKUsAPkO0DzDrrIdzP"
+      "duration_ms": 208747,
+      "name": "KRAUT!",
+      "url": "https://open.spotify.com/track/2Y5yB0mTnXqlUqX98sh3Xz"
     },
     {
       "added_at": "2024-03-22 15:00:00",
@@ -1151,22 +1167,6 @@
       "duration_ms": 193715,
       "name": "No Necesito",
       "url": "https://open.spotify.com/track/6eLr3TwOOa3VYkfJmjKLGl"
-    },
-    {
-      "added_at": "2024-03-22 15:00:00",
-      "album": {
-        "name": "KRAUT!",
-        "url": "https://open.spotify.com/album/7wDAZrA54pxMuDr7ETowNS"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 208747,
-      "name": "KRAUT!",
-      "url": "https://open.spotify.com/track/2Y5yB0mTnXqlUqX98sh3Xz"
     },
     {
       "added_at": "2024-03-22 15:00:00",
@@ -1643,18 +1643,22 @@
     {
       "added_at": "2024-03-22 15:00:00",
       "album": {
-        "name": "Morbo",
-        "url": "https://open.spotify.com/album/7rbqT0H7tF0OxHZsRMasoD"
+        "name": "fribRitni",
+        "url": "https://open.spotify.com/album/6luUb5rdY8eNPkK6XEYXTN"
       },
       "artists": [
         {
           "name": "Carolo",
           "url": "https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh"
+        },
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
         }
       ],
-      "duration_ms": 223789,
-      "name": "Morbo",
-      "url": "https://open.spotify.com/track/3ERdjZpINiyIusmGukbXyP"
+      "duration_ms": 196556,
+      "name": "fribRitni",
+      "url": "https://open.spotify.com/track/1A6xpBr2L2MTtj0SKrtJhW"
     }
   ],
   "unique_name": "NE\u00d3N",

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-624 songs - 1 day 16 hr 45 min
+627 songs - 1 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/track/50wpwXmMyYWMEhuATNxLEt) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 4:04 | 2024-01-08 |  |
 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 | 2022-01-11 | 2023-05-17 |
 | [Dare To Dream](https://open.spotify.com/track/7gXldQvrCf4pMuXVH1X59U) | [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [Hope Above Adversity](https://open.spotify.com/album/3DVlr1EF2msBWa3JLVBJuA) | 3:18 | 2022-07-15 |  |
+| [Dark Ear](https://open.spotify.com/track/4pzkDLgql51eVBPU0T0QMQ) | [Nevermen](https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq) | [Nevermen](https://open.spotify.com/album/6B2zFE8keFSYZkNlani62g) | 3:35 | 2024-03-25 |  |
 | [Dark Light](https://open.spotify.com/track/1o7oOkRLN3ORajw71WC0mx) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [The Birds Outside Sang](https://open.spotify.com/album/336M91KDT5FewEOZI5SUJd) | 1:31 | 2024-01-18 |  |
 | [De Selby \(Part 1\)](https://open.spotify.com/track/78x3oT0wyvcm9GRmuAP6Vq) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 3:39 | 2023-08-18 | 2023-08-28 |
 | [Dead Leaves and the Dirty Ground](https://open.spotify.com/track/2ewjgFhHDTE8BkV8kzpiX2) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 3:02 | 2022-10-21 |  |
@@ -312,6 +313,7 @@
 | [Kodachrome](https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 3:35 | 2023-05-21 | 2023-06-11 |
 | [Kono Speed no Saki e](https://open.spotify.com/track/0A48zuuXPfoJzczmdLhmyR) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [World Is Yours](https://open.spotify.com/album/0nwLNp8Qef1KpnUdXJgEJn) | 3:24 | 2024-02-23 |  |
 | [Kuwakaribisha \(Welcome\)](https://open.spotify.com/track/6VbNofC5FUPe5Zl62bx1wX) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Nottz](https://open.spotify.com/artist/1iGcDQbhw4Slu7bygkuV2T), [G\-Kidd](https://open.spotify.com/artist/0hvs2YeWkucQWVFbnqW0t9) | [Afrika](https://open.spotify.com/album/6e2Xynkebu3TzBTxtEzvlM) | 3:59 | 2024-01-19 |  |
+| [La rue](https://open.spotify.com/track/6lzDycd60SJ7H8y6wuESGl) | [Cortex](https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew) | [Troupeau bleu](https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB) | 4:27 | 2024-03-25 |  |
 | [Laamb](https://open.spotify.com/track/4SVk1NlNgd7yziIoJyG7k9) | [Steve Lehman](https://open.spotify.com/artist/5Al3ktlrPkN2fhMRQzSYXP), [Sélébéyone](https://open.spotify.com/artist/1n6k1bY33QxFzgffetVZpK) | [Sélébéyone](https://open.spotify.com/album/21rWcVbmvaRyLl7faw0sVm) | 6:07 | 2024-01-18 |  |
 | [Labor](https://open.spotify.com/track/5mebhNwj9TqwjeyGvBAIcT) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [Labor Days](https://open.spotify.com/album/3zJMNOxnbHWG2rZwswnSM2) | 2:32 | 2023-08-04 |  |
 | [Landlines](https://open.spotify.com/track/5akuJANUZArqcqFXGyBYWH) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [We Buy Diabetic Test Strips](https://open.spotify.com/album/3xtJ7J0TyOaMqslZdKGkoh) | 2:58 | 2024-01-09 |  |
@@ -347,6 +349,7 @@
 | [Lydia Wears A Cross](https://open.spotify.com/track/39Xue5JNMm2yLvIma6Ut8u) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:01 | 2023-04-30 | 2023-12-14 |
 | [Maggot Brain](https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 10:19 | 2024-01-23 |  |
 | [Main Titles](https://open.spotify.com/track/5TTPUpjBOycZtQYyxjOshu) | [Wes Borland](https://open.spotify.com/artist/3Uzo5Y5sjGlwxNjfZDtGLF) | [Crystal Machete](https://open.spotify.com/album/6RrfC1hxrS4ANiOQPTtCs3) | 6:29 | 2024-01-18 |  |
+| [Manhattan](https://open.spotify.com/track/0dYTYyBD0j1neoklCctt1s) | [Jerskin Fendrix](https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW) | [Winterreise](https://open.spotify.com/album/23tjIW6fzlYMWfc55QHSAs) | 7:26 | 2024-03-25 |  |
 | [Margaret vs\. Pauline](https://open.spotify.com/track/7zp9Uj66my5wUpdH1FTfy9) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 2:52 | 2023-02-21 | 2023-12-14 |
 | [Mean Street \- 2015 Remaster](https://open.spotify.com/track/1eGSgC6ZhJ8D4nrZZ83LyA) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Fair Warning \(Remastered\)](https://open.spotify.com/album/4KlqAmR1tA1dERWo7MHhzO) | 5:00 | 2022-12-27 |  |
 | [Medusa](https://open.spotify.com/track/3ei0xxgl2QNKR41fKWfTMN) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Sterling Toles](https://open.spotify.com/artist/0WdhLYtPH99bhAmqPLndhO) | [Manger on McNichols](https://open.spotify.com/album/0ZUtBUG7Ya4y0p8qSYlPFj) | 3:26 | 2023-01-13 |  |

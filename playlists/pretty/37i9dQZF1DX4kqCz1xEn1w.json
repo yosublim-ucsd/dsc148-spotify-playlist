@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 73181,
+  "num_followers": 73215,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjlkZjQ3MTczZjVmMzY4Mzk3YTdhMDE0YWE1NDEzYTlkODM2MmMz",
+  "snapshot_id": "MCwxNjU5N2IxNzczOGMzMWQ1MTYwMzNmZThmOWFkMzYwNzQ2M2ZiYzk1",
   "tracks": [
     {
       "added_at": "2024-03-20 11:39:23",
@@ -207,6 +207,26 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 411000,
+      "name": "So Will I (100 Billion X)",
+      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
         "name": "Raise a Hallelujah (Studio Version)",
         "url": "https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7"
       },
@@ -231,26 +251,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 411000,
-      "name": "So Will I (100 Billion X)",
-      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "Glory & Wonder",
         "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 309093,
       "name": "Tremble - Live",
       "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 305426,
+      "name": "How Great Is Our God",
+      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -287,34 +303,18 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "There Is a Cloud",
-        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+        "name": "Jesus You Alone",
+        "url": "https://open.spotify.com/album/3FQEV5T91MUH6qPDqEluZK"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Highlands Worship",
+          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
         }
       ],
-      "duration_ms": 398333,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 305426,
-      "name": "How Great Is Our God",
-      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
+      "duration_ms": 372150,
+      "name": "Jesus You Alone",
+      "url": "https://open.spotify.com/track/4zYvDOveReSl6t86OfBMCU"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -343,18 +343,18 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Jesus You Alone",
-        "url": "https://open.spotify.com/album/3FQEV5T91MUH6qPDqEluZK"
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
       },
       "artists": [
         {
-          "name": "Highlands Worship",
-          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 372150,
-      "name": "Jesus You Alone",
-      "url": "https://open.spotify.com/track/4zYvDOveReSl6t86OfBMCU"
+      "duration_ms": 398333,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "See A Victory",
-        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 363230,
-      "name": "See A Victory",
-      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "Majestic (Live)",
         "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 409986,
       "name": "Forever - Live",
       "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "See A Victory",
+        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 363230,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
+        "name": "Burning Lights",
+        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 267906,
+      "name": "Whom Shall I Fear (God Of Angel Armies)",
+      "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
         "name": "Surrounded",
         "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 300026,
       "name": "Surrounded (Fight My Battles)",
       "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 498426,
-      "name": "Break Every Chain - Live",
-      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 498426,
+      "name": "Break Every Chain - Live",
+      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
         "name": "Graves Into Gardens (Live)",
         "url": "https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh"
       },
@@ -587,42 +603,6 @@
       "duration_ms": 452499,
       "name": "Graves Into Gardens (Live)",
       "url": "https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
-        "name": "Burning Lights",
-        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 267906,
-      "name": "Whom Shall I Fear (God Of Angel Armies)",
-      "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
-        "name": "Let There Be Light (Deluxe)",
-        "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 341080,
-      "name": "What A Beautiful Name - Live",
-      "url": "https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -647,6 +627,26 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
+        "name": "Let There Be Light (Deluxe)",
+        "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 341080,
+      "name": "What A Beautiful Name - Live",
+      "url": "https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
         "name": "Greatest Hymns, Vol. 2",
         "url": "https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP"
       },
@@ -659,6 +659,46 @@
       "duration_ms": 231866,
       "name": "Wonderful, Merciful Savior",
       "url": "https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Love Ran Red",
+        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 250626,
+      "name": "At The Cross (Love Ran Red)",
+      "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Chris Davenport",
+          "url": "https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed"
+        },
+        {
+          "name": "Joel Houston",
+          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
+        }
+      ],
+      "duration_ms": 393360,
+      "name": "Another In The Fire - Live",
+      "url": "https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -699,30 +739,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "People (Live)",
-        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Chris Davenport",
-          "url": "https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed"
-        },
-        {
-          "name": "Joel Houston",
-          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
-        }
-      ],
-      "duration_ms": 393360,
-      "name": "Another In The Fire - Live",
-      "url": "https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "Everything And Nothing Less (Live)",
         "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
       },
@@ -735,6 +751,38 @@
       "duration_ms": 326613,
       "name": "God Of Miracles - Live",
       "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "You Deliver Me",
+        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "How Deep The Father's Love For Us",
+      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 467053,
+      "name": "Resurrecting (Live)",
+      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -763,50 +811,22 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+        "name": "Empires",
+        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 467053,
-      "name": "Resurrecting (Live)",
-      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
-        "name": "Love Ran Red",
-        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
-      },
-      "artists": [
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 250626,
-      "name": "At The Cross (Love Ran Red)",
-      "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
-        "name": "You Deliver Me",
-        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "How Deep The Father's Love For Us",
-      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
+      "duration_ms": 262120,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -883,22 +903,18 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Empires",
-        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
+        "name": "Kari Jobe",
+        "url": "https://open.spotify.com/album/0aJECiCK8ZgWkxYM95rwYf"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 262120,
-      "name": "Touch The Sky",
-      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
+      "duration_ms": 361386,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/1hTN6YhI5Tb9dSTpRQZqDC"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -915,22 +931,6 @@
       "duration_ms": 288986,
       "name": "Hope Has a Name",
       "url": "https://open.spotify.com/track/5JkZPokbr84ksAZ6y1mDXn"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
-        "name": "Kari Jobe",
-        "url": "https://open.spotify.com/album/0aJECiCK8ZgWkxYM95rwYf"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 361386,
-      "name": "Revelation Song",
-      "url": "https://open.spotify.com/track/1hTN6YhI5Tb9dSTpRQZqDC"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/1axaX2Egn3WjsIrtjsxvrb"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 271533,
-      "name": "Lion and the Lamb - Studio",
-      "url": "https://open.spotify.com/track/1uneiO81sTTdPvsjr54yPK"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "Come Alive",
         "url": "https://open.spotify.com/album/2gMrHKIYTOToJEKDzDTg5t"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 570629,
       "name": "Yahweh (feat. Matthew Stevenson & Chandler Moore)",
       "url": "https://open.spotify.com/track/5iz2oJe4z1MMv7tbx5cBhF"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/1axaX2Egn3WjsIrtjsxvrb"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 271533,
+      "name": "Lion and the Lamb - Studio",
+      "url": "https://open.spotify.com/track/1uneiO81sTTdPvsjr54yPK"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Here (Live)",
-        "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 468208,
-      "name": "Come Alive (Resurrection Power) - Live",
-      "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "Better Word",
         "url": "https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 350386,
       "name": "Come Holy Spirit - Live",
       "url": "https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Here (Live)",
+        "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 468208,
+      "name": "Come Alive (Resurrection Power) - Live",
+      "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 383293,
+      "name": "Exalted Over All - Live",
+      "url": "https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
         "name": "Breakthrough Miracle Power / You Are The Lord",
         "url": "https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 283746,
       "name": "Champion",
       "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 383293,
-      "name": "Exalted Over All - Live",
-      "url": "https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
+        "name": "Faithful Now",
+        "url": "https://open.spotify.com/album/17o5VCUDkU1hw7bQWeXaFF"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "Faithful Now",
+      "url": "https://open.spotify.com/track/1f4wycX7nuTGPow6UN1Ct6"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
         "name": "Long Live The King (Versions) - EP",
         "url": "https://open.spotify.com/album/5DuNnFldG0pyZWbLUw25xH"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 353015,
       "name": "Long Live The King - Acoustic",
       "url": "https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
-        "name": "Faithful Now",
-        "url": "https://open.spotify.com/album/17o5VCUDkU1hw7bQWeXaFF"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Faithful Now",
-      "url": "https://open.spotify.com/track/1f4wycX7nuTGPow6UN1Ct6"
     },
     {
       "added_at": "2024-03-20 11:39:23",

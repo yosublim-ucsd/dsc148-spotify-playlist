@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Wallows
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,976 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,030 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 45 | [Diving in After You](https://open.spotify.com/track/3EDpOGFvsriOrCQ9P8DJbj) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Diving in After You](https://open.spotify.com/album/4IMHZKSN6dXybcaaw7Wzzm) | 3:00 |
 | 46 | [Easy](https://open.spotify.com/track/7JxgVxbmzuzwjgZPrpDcZj) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Easy](https://open.spotify.com/album/1VQbLqhYQBUPC9ZO9mhC3W) | 2:31 |
 | 47 | [Sha La La](https://open.spotify.com/track/7dVF7taTea0xSv0HCrPGU9) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Sha La La](https://open.spotify.com/album/7qnn1EJOqFZRGcKVHlHSBr) | 3:55 |
-| 48 | [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 |
+| 48 | [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 |
 | 49 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 |
 | 50 | [Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 3:18 |
 | 51 | [Chances](https://open.spotify.com/track/7imOAndfZs5cg5vJjhUa0u) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Chances](https://open.spotify.com/album/6scf0xwufpbqCrcJN0owBp) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [My Body ft Your Lips](https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:53 |
 | 100 | [Helmet](https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:21 |
 
-Snapshot ID: `MCwwYjZhZjcxOGYwODAxY2U1MWMzYWMwZjY3MGI3NDBhNzE1NTYzMTY1`
+Snapshot ID: `MCw3ZGYyYzcwOTA4ZmUxM2JmNGMyZGMzMDkwZWJkMTdjYzVkZjZiNGNl`

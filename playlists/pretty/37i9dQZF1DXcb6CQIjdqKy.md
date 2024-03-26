@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. <br/> Cover:  <a href="spotify:artist:5Ye2QWN2Wl9zTn947eaest">We The Kingdom</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,588,658 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,588,792 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [God Is With Us](https://open.spotify.com/track/6VYvZGqByeWdv7HgMsculz) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [God Is With Us](https://open.spotify.com/album/08r4XlqVXIG7JL9tNpk7VL) | 3:46 |
 | 100 | [Somebody to You](https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Somebody to You](https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut) | 3:48 |
 
-Snapshot ID: `MCw1YTMxNGRjMWUxYTUzNGNlZTBlNWY2ZmEyMWI5OWNjNTI2NDdmOThm`
+Snapshot ID: `MCw4ZDJhYjc4ZTE4ZmY5ZTQ1MWRjYjRjNjYzYzM4NGExMDE5NGRkYTg4`

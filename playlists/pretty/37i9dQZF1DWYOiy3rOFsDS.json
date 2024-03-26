@@ -1,12 +1,12 @@
 {
   "description": "Romance a la antig\u00fcita con \u00c1ngela Aguilar en portada.",
-  "num_followers": 534766,
+  "num_followers": 534881,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzE3ZmU2MjFmNDM3YWZjOTIyZTdjODU5ZWUwMDc0YjY0NzdhNWZk",
+  "snapshot_id": "MCxjZGI1NjFlMmYyNzYzYjY4YTMzNTY4ZjVlNGJlNDUyOTE1MTk5OTlh",
   "tracks": [
     {
       "added_at": "2024-03-22 06:00:00",
@@ -327,18 +327,22 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+        "name": "Barrio Bravo",
+        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        },
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 211440,
-      "name": "No Me Platiques M\u00e1s",
-      "url": "https://open.spotify.com/track/1kS5xIvvytkr5Ut1JkQ9SM"
+      "duration_ms": 213133,
+      "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
+      "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -383,22 +387,18 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Barrio Bravo",
-        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
       "artists": [
         {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        },
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 213133,
-      "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
-      "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
+      "duration_ms": 211440,
+      "name": "No Me Platiques M\u00e1s",
+      "url": "https://open.spotify.com/track/1kS5xIvvytkr5Ut1JkQ9SM"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/4dr2h9rnEW6OBxm8LvRBW2"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
         "name": "Norma",
         "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 192013,
       "name": "Deje de Amar",
       "url": "https://open.spotify.com/track/4SB87vYiWYWFg9ekXay2Fo"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/4dr2h9rnEW6OBxm8LvRBW2"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "El D\u00eda Que Me Quieras",
-      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
         "name": "La Sonora Santanera en Su 60 Aniversario",
         "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
       },
@@ -575,26 +559,6 @@
       "duration_ms": 182200,
       "name": "Fruto Robado (with Cristian Castro)",
       "url": "https://open.spotify.com/track/3UtyEX1laEeTjcq6m6H0zd"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 242450,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -635,6 +599,26 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 242450,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 228466,
       "name": "La Trenza",
       "url": "https://open.spotify.com/track/10Tf0pmDJDUIfzZf87kwt5"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "El D\u00eda Que Me Quieras",
+      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
-      },
-      "artists": [
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        }
-      ],
-      "duration_ms": 196614,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
         "name": "La Sonora Santanera en Su 60 Aniversario",
         "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "S\u00f3lo T\u00fa",
-        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
         }
       ],
-      "duration_ms": 187754,
-      "name": "S\u00f3lo T\u00fa",
-      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
+      "duration_ms": 196614,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -791,6 +775,22 @@
       "duration_ms": 162209,
       "name": "Cada Vez Te Extra\u00f1o Menos",
       "url": "https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 187754,
+      "name": "S\u00f3lo T\u00fa",
+      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Somos Algo",
-        "url": "https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 234128,
-      "name": "Somos Algo",
-      "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
         "name": "Tuyo",
         "url": "https://open.spotify.com/album/1Sv7uosU6z24BvsEm5AG7g"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 205794,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Somos Algo",
+        "url": "https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 234128,
+      "name": "Somos Algo",
+      "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "M\u00e1s Que Ella",
-        "url": "https://open.spotify.com/album/5e5OW8eP7TzqaHsjRBAl8e"
-      },
-      "artists": [
-        {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        },
-        {
-          "name": "Santiago En La Guitarra",
-          "url": "https://open.spotify.com/artist/5QNE44Hg4taZiM0J8nxzwV"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "M\u00e1s Que Ella",
-      "url": "https://open.spotify.com/track/2NkS02tMmV0Aab8ghVdoCc"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 212000,
       "name": "Aventurera (with Alex Ferreira)",
       "url": "https://open.spotify.com/track/27NkLYbfxCu528Ux7C97Gr"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "M\u00e1s Que Ella",
+        "url": "https://open.spotify.com/album/5e5OW8eP7TzqaHsjRBAl8e"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "Santiago En La Guitarra",
+          "url": "https://open.spotify.com/artist/5QNE44Hg4taZiM0J8nxzwV"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "M\u00e1s Que Ella",
+      "url": "https://open.spotify.com/track/2NkS02tMmV0Aab8ghVdoCc"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1319,30 +1319,6 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Me Vuelves Loca",
-        "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        },
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        },
-        {
-          "name": "Paquito D'Rivera",
-          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
-        }
-      ],
-      "duration_ms": 268146,
-      "name": "Me Vuelves Loca",
-      "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
         "name": "B\u00e9same mucho",
         "url": "https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW"
       },
@@ -1379,6 +1355,30 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "Me Vuelves Loca",
+        "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        },
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        },
+        {
+          "name": "Paquito D'Rivera",
+          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
+        }
+      ],
+      "duration_ms": 268146,
+      "name": "Me Vuelves Loca",
+      "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "Tengo",
         "url": "https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 248208,
       "name": "Tengo",
       "url": "https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1411,22 +1427,6 @@
       "duration_ms": 189285,
       "name": "A\u00fan Me Sigo Encontrando",
       "url": "https://open.spotify.com/track/7Mmrk9FtkiKLpBMietviFf"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
-      },
-      "artists": [
-        {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Or\u00edgenes: El Bolero Vol.3",
-        "url": "https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        }
-      ],
-      "duration_ms": 210848,
-      "name": "Te matan los celos",
-      "url": "https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
         "name": "Armando Manzanero Duetos 2",
         "url": "https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 192666,
       "name": "Nada personal (A dueto con Ana Torroja)",
       "url": "https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Or\u00edgenes: El Bolero Vol.3",
+        "url": "https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "duration_ms": 210848,
+      "name": "Te matan los celos",
+      "url": "https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Andr\u00e9s Cepeda Big Band (En Vivo)",
-        "url": "https://open.spotify.com/album/0Gpm0iuK5BKbrbX8FJKz1y"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        }
-      ],
-      "duration_ms": 138960,
-      "name": "Sabor a Mi - En Vivo",
-      "url": "https://open.spotify.com/track/5y5x3qdMoimI7GFoKXD8Ps"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
         "name": "Frenesi (2016 Remaster)",
         "url": "https://open.spotify.com/album/1D9QdIT6bueT23rSwp0C63"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 213213,
       "name": "Frenes\u00ed - 2016 Remaster",
       "url": "https://open.spotify.com/track/7HGyyoWiUdLYddj985Aj1C"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Andr\u00e9s Cepeda Big Band (En Vivo)",
+        "url": "https://open.spotify.com/album/0Gpm0iuK5BKbrbX8FJKz1y"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "duration_ms": 138960,
+      "name": "Sabor a Mi - En Vivo",
+      "url": "https://open.spotify.com/track/5y5x3qdMoimI7GFoKXD8Ps"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "Sombras - Sombras Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "Los \u00c9xitos de Manolo Mu\u00f1oz",
         "url": "https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY"
       },
@@ -1775,18 +1791,18 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
+        "name": "Triolog\u00eda",
+        "url": "https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
         }
       ],
-      "duration_ms": 193493,
-      "name": "Sombras - Sombras Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
+      "duration_ms": 191546,
+      "name": "Jacaranda",
+      "url": "https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1807,22 +1823,6 @@
       "duration_ms": 174255,
       "name": "Carrusel",
       "url": "https://open.spotify.com/track/5UgejVx60yHvneYj4asi8s"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "Triolog\u00eda",
-        "url": "https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Jacaranda",
-      "url": "https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp"
     }
   ],
   "unique_name": "Boleros Pop",

@@ -4,7 +4,7 @@
 
 > love peace techno
 
-235 songs - 15 hr 36 min
+236 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,8 +162,9 @@
 | [No More \- Original Mix](https://open.spotify.com/track/21xponj6jDAFNyDv0VyJcT) | [Alpha Tracks](https://open.spotify.com/artist/4gpRsvUmRXVH2BhobvdJC3) | [slash 001](https://open.spotify.com/album/7mwCXIc5XkgaISn5UBQTwn) | 7:01 | 2023-07-03 | 2023-07-14 |
 | [No Regrets](https://open.spotify.com/track/2PcIrMvSc1GwokYR7EHDxY) | [HARD CANDY](https://open.spotify.com/artist/1I1LcKWdBImFCt4DOW2s5O) | [No Regrets](https://open.spotify.com/album/2Cn8UBI1tyhLsuGLsAXK3I) | 2:54 | 2024-02-22 |  |
 | [No Summer Hit 2024](https://open.spotify.com/track/3v27Jcdn1D3FqGyprnSVg7) | [Frederic.](https://open.spotify.com/artist/7fgTo2QxxmxGZI2YIjV6Vq), [HEISSS Berlin](https://open.spotify.com/artist/4WGG9x0FqlRRkdKixyddHK) | [No Summer Hit 2024](https://open.spotify.com/album/68nfzGY6zUGOeRtdcTq1eU) | 4:38 | 2023-11-30 | 2024-02-23 |
-| [No Type](https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [No Type](https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO) | 3:23 | 2023-03-10 |  |
+| [No Type](https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [No Type](https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO) | 3:23 | 2023-03-10 | 2024-03-26 |
 | [Nothing Is Easy](https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Nothing Is Easy EP](https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW) | 3:11 | 2023-04-27 | 2023-06-10 |
+| [Ode To The Bouncer \- Hard Techno Edit](https://open.spotify.com/track/0x3c6okTJMGsYmTYtz8NDA) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Ode To The Bouncer \(Hard Techno Edit\)](https://open.spotify.com/album/3rU4QBfwX89HyLrfNk1wWF) | 3:17 | 2024-03-22 |  |
 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 | 2023-06-09 |  |
 | [Oh mein Herz](https://open.spotify.com/track/0UkjRy9JSG0ybtOzzgaY6x) | [Sita Messer](https://open.spotify.com/artist/2Mm1h6fUugx92tOcPa4Jxj) | [Oh mein Herz](https://open.spotify.com/album/3ivdIDxMnTZX2JS1l08RAJ) | 3:08 | 2023-03-10 | 2023-03-25 |
 | [Open Air \- Bauernfeind & MRD Remix](https://open.spotify.com/track/67nT9OXkvqivVPdvLgNjwd) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd), [Bauernfeind](https://open.spotify.com/artist/0h154IoHceoxecVBZSopbt), [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR) | [TDJ123 DELUXE](https://open.spotify.com/album/2x1Ox1a7MYTamrbp11Y6LA) | 5:20 | 2023-03-10 | 2023-03-25 |

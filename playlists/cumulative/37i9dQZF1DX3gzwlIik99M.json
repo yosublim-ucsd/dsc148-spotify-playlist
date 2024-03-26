@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292173,
+      "name": "Dead Embryonic Cells",
+      "url": "https://open.spotify.com/track/3erQAddOalef7tmVpAZ3BV"
+    },
+    {
+      "album": {
         "name": "Death Race",
         "url": "https://open.spotify.com/album/6ksG84Pk4DsFnOFzOa2N7S"
       },
@@ -2732,7 +2750,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 312447,
       "name": "Residentes Olvidados",
       "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"

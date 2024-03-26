@@ -4,7 +4,7 @@
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-92 songs - 4 hr 38 min
+93 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Caderas Lait](https://open.spotify.com/track/01OXvmhM7T5D1nayJ3YEko) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:36 | 2022-11-04 |  |
 | [Cadereando](https://open.spotify.com/track/6yFZbA1FkoK4nT4t9ni9Gi) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 2:55 | 2022-06-01 | 2022-11-05 |
 | [Candida](https://open.spotify.com/track/0C6GKMOSZnQacjI5Yusa3P) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:58 | 2023-02-19 | 2023-03-30 |
+| [Cena de Plomo](https://open.spotify.com/track/7oMDzR2APsPC2HfTxW78Sh) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sorprendente](https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my) | 2:49 | 2024-03-25 |  |
 | [Checa Mi Ritmo](https://open.spotify.com/track/6aOAVN7Uu4Jdmj7BgJ9HWy) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:40 | 2022-06-01 | 2022-10-13 |
 | [Chicas Modernas](https://open.spotify.com/track/1MLOHCuJBuHhd3In778RMP) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Más Caliente...La Niña Fresa](https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ) | 2:36 | 2022-06-01 | 2023-11-11 |
 | [Chicas Modernas](https://open.spotify.com/track/19D00rbiTgUtcSr9VfcYhZ) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:37 | 2023-11-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Porter Robinson
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,936 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,940 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 69 | [Right Now \- with Parson James](https://open.spotify.com/track/0ZcUhnFVJkWKEBBSiAznYg) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Right Now \(with Parson James\)](https://open.spotify.com/album/29d21D9Bh8S2rPft5rcGAH) | 2:52 |
 | 70 | [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 |
 
-Snapshot ID: `MCxjYTIyYWNiMjllODVhN2QwOTczMTg4NmY4NDBmZTdmNTE2NzI1YjRj`
+Snapshot ID: `MCxkMDIxODcyMWUzYTkwMGQ4YWNlNGY5MmZhOWZkZDFkMzM1OTNhMDQ0`

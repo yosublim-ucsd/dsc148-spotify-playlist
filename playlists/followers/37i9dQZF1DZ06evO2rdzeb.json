@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 4487,
+  "2024-03-26": 4543,
   "date_first_scraped": "2022-09-17",
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
   "name": "This Is Adrianne Lenker",
@@ -317,7 +317,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 254263,
       "name": "Evol",
       "url": "https://open.spotify.com/track/1GRLxWFbZZZGF8mQw2BKSY"
@@ -933,6 +933,24 @@
       "duration_ms": 213322,
       "name": "two reverse",
       "url": "https://open.spotify.com/track/4GHHloVSspowQJMBsJ6r37"
+    },
+    {
+      "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235178,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/2DSxUFEL5v1YT8CwYzhWyf"
     },
     {
       "album": {

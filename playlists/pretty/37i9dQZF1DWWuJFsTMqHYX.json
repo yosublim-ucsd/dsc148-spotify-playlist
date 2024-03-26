@@ -1,12 +1,12 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 300415,
+  "num_followers": 300551,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTM3MGIzZWY3N2E5YjkwMzAzNjhhN2RlMTQ0MDNhODIxM2JmMjEx",
+  "snapshot_id": "MCxlZjRiMzQ0OGZlZTAzYzQ5MzBiMzZjNmI2MWU2NDY5NTlmOTg2Njkz",
   "tracks": [
     {
       "added_at": "2024-02-26 06:29:30",
@@ -155,26 +155,22 @@
     {
       "added_at": "2024-02-26 06:29:30",
       "album": {
-        "name": "The Tel Aviv Session",
-        "url": "https://open.spotify.com/album/0GIm6JcC0la7IZ7SAU8XjH"
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH"
       },
       "artists": [
         {
-          "name": "The Tour\u00e9-Raichel Collective",
-          "url": "https://open.spotify.com/artist/4NXdiYnTn0W2hblJ1WphGh"
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         },
         {
-          "name": "Idan Raichel",
-          "url": "https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1"
-        },
-        {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 492320,
-      "name": "Azawade",
-      "url": "https://open.spotify.com/track/7dHowm9WlK1gOuEuM0bd7m"
+      "duration_ms": 355840,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/37IbDeC2CfODD3OGcAO8Vd"
     },
     {
       "added_at": "2024-02-26 06:29:30",
@@ -199,22 +195,26 @@
     {
       "added_at": "2024-02-26 06:29:30",
       "album": {
-        "name": "Ali & Toumani",
-        "url": "https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH"
+        "name": "The Tel Aviv Session",
+        "url": "https://open.spotify.com/album/0GIm6JcC0la7IZ7SAU8XjH"
       },
       "artists": [
         {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+          "name": "The Tour\u00e9-Raichel Collective",
+          "url": "https://open.spotify.com/artist/4NXdiYnTn0W2hblJ1WphGh"
         },
         {
-          "name": "Toumani Diabat\u00e9",
-          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+          "name": "Idan Raichel",
+          "url": "https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1"
+        },
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
         }
       ],
-      "duration_ms": 355840,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/37IbDeC2CfODD3OGcAO8Vd"
+      "duration_ms": 492320,
+      "name": "Azawade",
+      "url": "https://open.spotify.com/track/7dHowm9WlK1gOuEuM0bd7m"
     },
     {
       "added_at": "2024-02-26 06:29:30",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-02-26 06:29:30",
       "album": {
-        "name": "El Aaiun Egdat",
-        "url": "https://open.spotify.com/album/1M46BfgAnMu8p5P8DjUQ1p"
-      },
-      "artists": [
-        {
-          "name": "Mariem Hassan",
-          "url": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
-        }
-      ],
-      "duration_ms": 266123,
-      "name": "Arrabi al Arabe",
-      "url": "https://open.spotify.com/track/4anx9dy5q5vU1B0kwNRmrR"
-    },
-    {
-      "added_at": "2024-02-26 06:29:30",
-      "album": {
         "name": "Talking Timbuktu",
         "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 328826,
       "name": "Bonde (with Ry Cooder)",
       "url": "https://open.spotify.com/track/28HE2hcTggk9F46G9Ra6PY"
+    },
+    {
+      "added_at": "2024-02-26 06:29:30",
+      "album": {
+        "name": "El Aaiun Egdat",
+        "url": "https://open.spotify.com/album/1M46BfgAnMu8p5P8DjUQ1p"
+      },
+      "artists": [
+        {
+          "name": "Mariem Hassan",
+          "url": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
+        }
+      ],
+      "duration_ms": 266123,
+      "name": "Arrabi al Arabe",
+      "url": "https://open.spotify.com/track/4anx9dy5q5vU1B0kwNRmrR"
     },
     {
       "added_at": "2024-02-26 06:29:30",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-02-26 06:29:30",
       "album": {
-        "name": "Imarhan",
-        "url": "https://open.spotify.com/album/6UlrxiJau4j0RkCMSwvaIz"
-      },
-      "artists": [
-        {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Tahabort",
-      "url": "https://open.spotify.com/track/3JSYL97i6hlyvtwPrDqUEl"
-    },
-    {
-      "added_at": "2024-02-26 06:29:30",
-      "album": {
         "name": "Rainy Season Blues",
         "url": "https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 141360,
       "name": "A Lam\u00e8n",
       "url": "https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ"
+    },
+    {
+      "added_at": "2024-02-26 06:29:30",
+      "album": {
+        "name": "Imarhan",
+        "url": "https://open.spotify.com/album/6UlrxiJau4j0RkCMSwvaIz"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Tahabort",
+      "url": "https://open.spotify.com/track/3JSYL97i6hlyvtwPrDqUEl"
     },
     {
       "added_at": "2024-02-26 06:29:30",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-02-26 06:29:30",
       "album": {
+        "name": "Soutak",
+        "url": "https://open.spotify.com/album/4X7wSphcqgl8gvqdnOQkbB"
+      },
+      "artists": [
+        {
+          "name": "Aziza Brahim",
+          "url": "https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS"
+        }
+      ],
+      "duration_ms": 353146,
+      "name": "Lagi",
+      "url": "https://open.spotify.com/track/6T0wxfTmgWw67QM6IJQvU4"
+    },
+    {
+      "added_at": "2024-02-26 06:29:30",
+      "album": {
         "name": "Marhaba",
         "url": "https://open.spotify.com/album/7g5cShRnbgXW9xwQjKNFow"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2024-02-26 06:29:30",
       "album": {
-        "name": "Soutak",
-        "url": "https://open.spotify.com/album/4X7wSphcqgl8gvqdnOQkbB"
-      },
-      "artists": [
-        {
-          "name": "Aziza Brahim",
-          "url": "https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS"
-        }
-      ],
-      "duration_ms": 353146,
-      "name": "Lagi",
-      "url": "https://open.spotify.com/track/6T0wxfTmgWw67QM6IJQvU4"
-    },
-    {
-      "added_at": "2024-02-26 06:29:30",
-      "album": {
         "name": "Imarhan",
         "url": "https://open.spotify.com/album/6UlrxiJau4j0RkCMSwvaIz"
       },
@@ -795,26 +795,6 @@
       "duration_ms": 311253,
       "name": "Be Ki Don",
       "url": "https://open.spotify.com/track/5JMebtqw62DkVHPsUJMKvh"
-    },
-    {
-      "added_at": "2024-02-26 06:29:30",
-      "album": {
-        "name": "Sequana",
-        "url": "https://open.spotify.com/album/64Uwr6ZmYrBNABToF47PRN"
-      },
-      "artists": [
-        {
-          "name": "Souad Massi",
-          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
-        },
-        {
-          "name": "Piers Faccini",
-          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
-        }
-      ],
-      "duration_ms": 257972,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/3b45LikcYpvV5YQE4XcnZI"
     },
     {
       "added_at": "2024-02-26 06:29:30",
@@ -851,6 +831,26 @@
     {
       "added_at": "2024-02-26 06:29:30",
       "album": {
+        "name": "Sequana",
+        "url": "https://open.spotify.com/album/64Uwr6ZmYrBNABToF47PRN"
+      },
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+        },
+        {
+          "name": "Piers Faccini",
+          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
+        }
+      ],
+      "duration_ms": 257972,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/3b45LikcYpvV5YQE4XcnZI"
+    },
+    {
+      "added_at": "2024-02-26 06:29:30",
+      "album": {
         "name": "Nour",
         "url": "https://open.spotify.com/album/6KGuLkvq9MNHbK4ttF0vx3"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-02-26 06:29:30",
       "album": {
-        "name": "Zerzura (Original Soundtrack Recording)",
-        "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
-      },
-      "artists": [
-        {
-          "name": "Ahmoudou Madassane",
-          "url": "https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm"
-        }
-      ],
-      "duration_ms": 187345,
-      "name": "Akaline Akaline",
-      "url": "https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku"
-    },
-    {
-      "added_at": "2024-02-26 06:29:30",
-      "album": {
         "name": "Deran",
         "url": "https://open.spotify.com/album/1lfByGwwrcnxIHig1xiuHY"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 222821,
       "name": "Midiwan (My Friends)",
       "url": "https://open.spotify.com/track/4p8Vq2bjTA0QFPJipbhOR3"
+    },
+    {
+      "added_at": "2024-02-26 06:29:30",
+      "album": {
+        "name": "Zerzura (Original Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
+      },
+      "artists": [
+        {
+          "name": "Ahmoudou Madassane",
+          "url": "https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm"
+        }
+      ],
+      "duration_ms": 187345,
+      "name": "Akaline Akaline",
+      "url": "https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku"
     }
   ],
   "unique_name": "Sahara",

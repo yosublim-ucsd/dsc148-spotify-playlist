@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 75896,
+  "2024-03-26": 75963,
   "date_first_scraped": "2022-05-26",
   "description": "Cool down with these chill beats",
   "name": "lofi cool down",
@@ -1711,7 +1711,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 152509,
       "name": "Evenfall",
       "url": "https://open.spotify.com/track/0H3zNfQULkdYvTweZH1u8Q"
@@ -3893,7 +3893,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 159982,
       "name": "Safehouse",
       "url": "https://open.spotify.com/track/0MObi1btcXOB5Yk3XrRA6T"
@@ -5002,6 +5002,24 @@
     },
     {
       "album": {
+        "name": "sweetly",
+        "url": "https://open.spotify.com/album/6qtkYAj5VEqFEWqEK1GuV8"
+      },
+      "artists": [
+        {
+          "name": "Papi Pier",
+          "url": "https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130026,
+      "name": "sweetly",
+      "url": "https://open.spotify.com/track/10RztW9yb0wdv7dPPUqpjx"
+    },
+    {
+      "album": {
         "name": "swell",
         "url": "https://open.spotify.com/album/7jMae8djh5QVwubpedOIjo"
       },
@@ -5597,6 +5615,24 @@
       "duration_ms": 71111,
       "name": "weak",
       "url": "https://open.spotify.com/track/2j2mQXcYfg3JUJ8aqBKk30"
+    },
+    {
+      "album": {
+        "name": "Western Promises",
+        "url": "https://open.spotify.com/album/2Ag8bFCPDnHwv5Yvix1ptV"
+      },
+      "artists": [
+        {
+          "name": "Low Couture",
+          "url": "https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Western Promises",
+      "url": "https://open.spotify.com/track/3X6akQdLtqrMkGJntH7AhD"
     },
     {
       "album": {

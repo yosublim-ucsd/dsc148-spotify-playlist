@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 713268,
+  "num_followers": 713333,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODdkYjdiYmU3Yjg3YTQ0YTNhN2M4ODIwMjAwNmZiMThhOGRjOTI2",
+  "snapshot_id": "MCxlNjdmZGMxYTdhMDI4YTJhZWJhNGNhOGZlNjczZWMxNWQ5ZTU0NWVi",
   "tracks": [
     {
       "added_at": "2024-03-21 14:36:59",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-03-21 14:36:59",
       "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 234369,
-      "name": "Casio",
-      "url": "https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua"
-    },
-    {
-      "added_at": "2024-03-21 14:36:59",
-      "album": {
         "name": "Come Around and Love Me",
         "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 146813,
       "name": "If You Don't Want My Love",
       "url": "https://open.spotify.com/track/4A48ckONJNoXU5smWT9CeG"
+    },
+    {
+      "added_at": "2024-03-21 14:36:59",
+      "album": {
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 234369,
+      "name": "Casio",
+      "url": "https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua"
     },
     {
       "added_at": "2024-03-21 14:36:59",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-03-21 14:36:59",
       "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 195086,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
+    },
+    {
+      "added_at": "2024-03-21 14:36:59",
+      "album": {
         "name": "JAGUAR",
         "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 176773,
       "name": "Experience",
       "url": "https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId"
-    },
-    {
-      "added_at": "2024-03-21 14:36:59",
-      "album": {
-        "name": "Running Away",
-        "url": "https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 195086,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
     },
     {
       "added_at": "2024-03-21 14:36:59",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-03-21 14:36:59",
       "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 200759,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
+    },
+    {
+      "added_at": "2024-03-21 14:36:59",
+      "album": {
         "name": "Talk It Out",
         "url": "https://open.spotify.com/album/2uPJPiD4i7nMZ91R3AvgQ5"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 190726,
       "name": "Talk It Out",
       "url": "https://open.spotify.com/track/6Ug0JMAhAVvytcnwBEMb5Z"
-    },
-    {
-      "added_at": "2024-03-21 14:36:59",
-      "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 200759,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
     },
     {
       "added_at": "2024-03-21 14:36:59",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-03-21 14:36:59",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
-    },
-    {
-      "added_at": "2024-03-21 14:36:59",
-      "album": {
         "name": "The Information",
         "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 199426,
       "name": "Think I'm In Love",
       "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
+    },
+    {
+      "added_at": "2024-03-21 14:36:59",
+      "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
     },
     {
       "added_at": "2024-03-21 14:36:59",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-03-21 14:36:59",
       "album": {
-        "name": "Day/Night",
-        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 219335,
-      "name": "Free - Single Version",
-      "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
-    },
-    {
-      "added_at": "2024-03-21 14:36:59",
-      "album": {
         "name": "Juno",
         "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
       },
@@ -1135,22 +1119,18 @@
     {
       "added_at": "2024-03-21 14:36:59",
       "album": {
-        "name": "Water Your Garden",
-        "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
+        "name": "Day/Night",
+        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
       },
       "artists": [
         {
-          "name": "Magic City Hippies",
-          "url": "https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb"
-        },
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
         }
       ],
-      "duration_ms": 169333,
-      "name": "Water Your Garden",
-      "url": "https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX"
+      "duration_ms": 219335,
+      "name": "Free - Single Version",
+      "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
     },
     {
       "added_at": "2024-03-21 14:36:59",
@@ -1183,6 +1163,26 @@
       "duration_ms": 242773,
       "name": "O.P. Jebediah",
       "url": "https://open.spotify.com/track/2osA04Ftqanbf9P3uJjTJb"
+    },
+    {
+      "added_at": "2024-03-21 14:36:59",
+      "album": {
+        "name": "Water Your Garden",
+        "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
+      },
+      "artists": [
+        {
+          "name": "Magic City Hippies",
+          "url": "https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb"
+        },
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Water Your Garden",
+      "url": "https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX"
     },
     {
       "added_at": "2024-03-21 14:36:59",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-03-21 14:36:59",
       "album": {
-        "name": "Some Twist",
-        "url": "https://open.spotify.com/album/5BJlXjpFtDVaKC5YouIbOI"
-      },
-      "artists": [
-        {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
-        }
-      ],
-      "duration_ms": 138097,
-      "name": "I Root",
-      "url": "https://open.spotify.com/track/7opFLwPI53eORdmxyv7Y3f"
-    },
-    {
-      "added_at": "2024-03-21 14:36:59",
-      "album": {
         "name": "Bar Mediterraneo",
         "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 200135,
       "name": "Praja Magia",
       "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
+    },
+    {
+      "added_at": "2024-03-21 14:36:59",
+      "album": {
+        "name": "Some Twist",
+        "url": "https://open.spotify.com/album/5BJlXjpFtDVaKC5YouIbOI"
+      },
+      "artists": [
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        }
+      ],
+      "duration_ms": 138097,
+      "name": "I Root",
+      "url": "https://open.spotify.com/track/7opFLwPI53eORdmxyv7Y3f"
     },
     {
       "added_at": "2024-03-21 14:36:59",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-03-21 14:36:59",
       "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "I Don't",
-      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
-    },
-    {
-      "added_at": "2024-03-21 14:36:59",
-      "album": {
         "name": "American Love Call",
         "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 198095,
       "name": "Circles",
       "url": "https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg"
+    },
+    {
+      "added_at": "2024-03-21 14:36:59",
+      "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 202720,
+      "name": "I Don't",
+      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
     },
     {
       "added_at": "2024-03-21 14:36:59",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-03-21 14:36:59",
       "album": {
-        "name": "Best Worst Year",
-        "url": "https://open.spotify.com/album/5nG24I5GTbqSHlChRBI6jb"
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY"
       },
       "artists": [
         {
-          "name": "STRABE",
-          "url": "https://open.spotify.com/artist/0FMEK1QJjgPFczDNQk8AJu"
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
         }
       ],
-      "duration_ms": 278082,
-      "name": "Best Worst Year",
-      "url": "https://open.spotify.com/track/4mrMneeP6gYjDezM4tyxMD"
+      "duration_ms": 224626,
+      "name": "Tumblin'",
+      "url": "https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi"
     },
     {
       "added_at": "2024-03-21 14:36:59",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-03-21 14:36:59",
       "album": {
-        "name": "Soft Spot",
-        "url": "https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY"
+        "name": "Best Worst Year",
+        "url": "https://open.spotify.com/album/5nG24I5GTbqSHlChRBI6jb"
       },
       "artists": [
         {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+          "name": "STRABE",
+          "url": "https://open.spotify.com/artist/0FMEK1QJjgPFczDNQk8AJu"
         }
       ],
-      "duration_ms": 224626,
-      "name": "Tumblin'",
-      "url": "https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi"
+      "duration_ms": 278082,
+      "name": "Best Worst Year",
+      "url": "https://open.spotify.com/track/4mrMneeP6gYjDezM4tyxMD"
     },
     {
       "added_at": "2024-03-21 14:36:59",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-03-21 14:36:59",
       "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 218408,
-      "name": "Come On In",
-      "url": "https://open.spotify.com/track/6HwVmEL610Sd9QtZ96Ysmr"
-    },
-    {
-      "added_at": "2024-03-21 14:36:59",
-      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 186013,
       "name": "Just Go",
       "url": "https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc"
+    },
+    {
+      "added_at": "2024-03-21 14:36:59",
+      "album": {
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 218408,
+      "name": "Come On In",
+      "url": "https://open.spotify.com/track/6HwVmEL610Sd9QtZ96Ysmr"
     },
     {
       "added_at": "2024-03-21 14:36:59",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2024-03-21 14:36:59",
       "album": {
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "Gold Past Life",
+      "url": "https://open.spotify.com/track/0IN0ST4OUeSCWASMGa8DyP"
+    },
+    {
+      "added_at": "2024-03-21 14:36:59",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 184983,
       "name": "Smoke Machine",
       "url": "https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq"
-    },
-    {
-      "added_at": "2024-03-21 14:36:59",
-      "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "Gold Past Life",
-      "url": "https://open.spotify.com/track/0IN0ST4OUeSCWASMGa8DyP"
     },
     {
       "added_at": "2024-03-21 14:36:59",

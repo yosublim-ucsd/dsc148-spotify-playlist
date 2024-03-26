@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 334201,
+  "num_followers": 334247,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGUwMWY1MWUzODk3Mzg2NGRlNDk3OTQ1ZjVkODJiYTk0OWY1OTFi",
+  "snapshot_id": "MCxkYjZjMmFjYjNkYTRhNDdjOGQ1MjViZTQ5Y2U3YzdhMWQyMjgzZWIy",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -183,18 +183,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+        "name": "Svalbard",
+        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Andy Barlow",
+          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
         }
       ],
-      "duration_ms": 321880,
-      "name": "aisatsana [102]",
-      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
+      "duration_ms": 204845,
+      "name": "Duvet",
+      "url": "https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG"
     },
     {
       "added_at": "2023-11-23 02:41:10",
@@ -215,22 +219,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Svalbard",
-        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
       },
       "artists": [
         {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Andy Barlow",
-          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 204845,
-      "name": "Duvet",
-      "url": "https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG"
+      "duration_ms": 321880,
+      "name": "aisatsana [102]",
+      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "#20",
-      "url": "https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "People On Sunday",
         "url": "https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4"
       },
@@ -347,6 +331,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 396688,
+      "name": "A Shimmer",
+      "url": "https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Space 1.8",
         "url": "https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8"
       },
@@ -363,18 +363,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
       },
       "artists": [
         {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 396688,
-      "name": "A Shimmer",
-      "url": "https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt"
+      "duration_ms": 255333,
+      "name": "#20",
+      "url": "https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz"
     },
     {
       "added_at": "2022-03-11 05:43:48",
@@ -655,6 +655,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 143080,
+      "name": "Requiem for CS70 and Strings",
+      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Space 1.8",
         "url": "https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 352357,
       "name": "Angel's Flight",
       "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 143080,
-      "name": "Requiem for CS70 and Strings",
-      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd"
     },
     {
-      "added_at": "2022-09-30 02:45:34",
-      "album": {
-        "name": "Music for Animals",
-        "url": "https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 1622575,
-      "name": "Briefly",
-      "url": "https://open.spotify.com/track/0qSjSC6I0puPWQbyQXOIAf"
-    },
-    {
       "added_at": "2022-12-20 19:24:22",
       "album": {
         "name": "Whatever The Weather",
@@ -843,6 +827,22 @@
       "duration_ms": 292466,
       "name": "There Were Bells",
       "url": "https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ"
+    },
+    {
+      "added_at": "2022-09-30 02:45:34",
+      "album": {
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 1622575,
+      "name": "Briefly",
+      "url": "https://open.spotify.com/track/0qSjSC6I0puPWQbyQXOIAf"
     }
   ],
   "unique_name": "Deep Listening",

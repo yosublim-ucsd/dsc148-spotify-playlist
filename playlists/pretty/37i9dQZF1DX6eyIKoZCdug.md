@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,383 likes - 51 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,465 likes - 51 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 15 | [Queen \- Dan Kye Remix](https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Queen \(Dan Kye Remix\)](https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K) | 5:27 |
 | 16 | [Yafaso \(feat\. Villa\)](https://open.spotify.com/track/7dZD5roci3Ue5lRt0mSsKA) | [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N), [Dee Cee](https://open.spotify.com/artist/4rVjLPF02DFPN3mSBMgPdt), [Villa](https://open.spotify.com/artist/0sZFV6TXt2oSQUfW37guTt) | [Yafaso \(feat\. Villa\)](https://open.spotify.com/album/3018AvgGDwngM2RRBueTgq) | 3:49 |
 | 17 | [Don't Wake Up \(Citizen Blaq Mix\) \(feat\. Sir Trill\)](https://open.spotify.com/track/577gR2DoV0c6ZUtkRRo36g) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY) | [Don't Wake Up \(Citizen Blaq Mix\) \(feat\. Sir Trill\)](https://open.spotify.com/album/0ot7uPauEdSTO2iwWfAdCX) | 5:33 |
-| 18 | [HAYII](https://open.spotify.com/track/3NdtOKVyuOO5GwhU7Ts4iI) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0), [Yasmin Levy](https://open.spotify.com/artist/1XDkuk3pjmco8Mkd93Qxbu) | [HAYII](https://open.spotify.com/album/73IrTAOufu4VMnQqcKw1za) | 7:39 |
+| 18 | [HAYII \(La Alegria\) \(feat\. Yasmin Levy\)](https://open.spotify.com/track/6rz9Rpygk7yTlFnk253Sfy) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0), [Yasmin Levy](https://open.spotify.com/artist/1XDkuk3pjmco8Mkd93Qxbu) | [HAYII \(La Alegria\) \(feat\. Yasmin Levy\)](https://open.spotify.com/album/0plOq7ZaNiB3uXYSvPzYU6) | 7:39 |
 | 19 | [Close My Eyes](https://open.spotify.com/track/1BCMXKkENzzr1ofF0iRQtX) | [Motives](https://open.spotify.com/artist/59622hInIYCDA9zHmfxxBu), [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ) | [Close My Eyes](https://open.spotify.com/album/1cU0eE3jwlG2IAIj8WUroc) | 3:54 |
 | 20 | [Nwenwela](https://open.spotify.com/track/2drbYRYGC55fHOuMu12420) | [Choujaa](https://open.spotify.com/artist/0QWgPFVQStHSDmN0Jq67qY), [IRENEE S](https://open.spotify.com/artist/1doNmBGMoB2AvFsp7DHQyp), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [Nwenwela](https://open.spotify.com/album/2n1pmgUzfsq8KAihRhLuKi) | 3:36 |
 | 21 | [VOICES](https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz), [Simeon](https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x) | [TARU](https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL) | 6:39 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 50 | [Sikilidi](https://open.spotify.com/track/23luTVNXuCGC05B59KV7gO) | [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Dladla Mshunqisi](https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt), [Sizwe Mdlalose](https://open.spotify.com/artist/3w6f762ECxkOr6byVbNS0X), [Ms Mamellow](https://open.spotify.com/artist/5NX4aYjusAidBx0DO5huXZ), [Miss Vee](https://open.spotify.com/artist/65hoV1f2TL1hdBbmweZEty) | [Sikilidi](https://open.spotify.com/album/7ts45rwys2sGnV6hpfY5Qc) | 6:07 |
 | 51 | [One Touch](https://open.spotify.com/track/0UrxrZzg8x8xa5GFRRngMS) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [One Touch](https://open.spotify.com/album/2aYXVu6p7YCnCUmIwosOP7) | 5:52 |
 
-Snapshot ID: `MCw3ZGJhMzcxMWJkZDE3MjI5OWUzYmVhNTQzNGEyOTllNTZjMDVlMzYw`
+Snapshot ID: `MCxhODY0YzViN2E3NmYzODhkNmFjYTRkNTFhZmMzYzdhYzlhYzEwYzU5`

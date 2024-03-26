@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 74928,
+  "2024-03-26": 74972,
   "date_first_scraped": "2022-06-09",
   "description": "\u56de\u5bb6\u7684\u8def\u4e0a\uff0c\u6709\u597d\u807d\u7684\u6b4c\u66f2\u966a\u4f34\uff0c\u6703\u8b93\u4eba\u66ab\u6642\u5fd8\u4e86\u75b2\u5026\u3002",
   "name": "\u8fd4\u5bb6\u8f15\u807d",
@@ -709,7 +709,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 265023,
       "name": "\u4e00\u76f4\u88ab\u611b\u8457",
       "url": "https://open.spotify.com/track/4mMEIkOxUX3kheFudXdszj"
@@ -731,6 +731,28 @@
       "duration_ms": 221500,
       "name": "\u4e00\u76f4\u90fd\u5728 - \u300a\u6211\u7684\u9ebb\u54094\u500b\u9b3c\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/2pjAig6rbTn1Th9p9yjjwd"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u8d77\u5bc2\u5bde Lonely Duet",
+        "url": "https://open.spotify.com/album/4G3e7irPXOurk3SQHkq3a9"
+      },
+      "artists": [
+        {
+          "name": "Feng Ze",
+          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
+        },
+        {
+          "name": "\u827e\u8587",
+          "url": "https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221052,
+      "name": "\u4e00\u8d77\u5bc2\u5bde Lonely Duet",
+      "url": "https://open.spotify.com/track/4f62bZPnqVJycmFJQVsAA9"
     },
     {
       "album": {
@@ -3231,7 +3253,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 336053,
       "name": "\u5c07\u6545\u4e8b\u5beb\u6210\u6211\u5011",
       "url": "https://open.spotify.com/track/3APYQVgmEDZ6sPbpLo7Hog"
@@ -5129,7 +5151,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 215466,
       "name": "\u672a\u53d1\u9001",
       "url": "https://open.spotify.com/track/0IKt70sonEjlSzcMEjdFYo"
@@ -5338,6 +5360,24 @@
     },
     {
       "album": {
+        "name": "\u70bd\u5fc3",
+        "url": "https://open.spotify.com/album/7BA7hAV4r0OpeZtH95Nk1W"
+      },
+      "artists": [
+        {
+          "name": "\u5e0c\u6797\u5a1c\u4f9d\u2022\u9ad8",
+          "url": "https://open.spotify.com/artist/2BzEJybfRAL6DxCeYW2e7G"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215650,
+      "name": "\u70bd\u5fc3",
+      "url": "https://open.spotify.com/track/0gKZoblpZqjZl8wvSzMlnh"
+    },
+    {
+      "album": {
         "name": "\u7121\u50f9",
         "url": "https://open.spotify.com/album/5nEzxMa4pXq1wscDTMP4js"
       },
@@ -5497,6 +5537,28 @@
       "duration_ms": 240777,
       "name": "\u7372\u734e\u4eba",
       "url": "https://open.spotify.com/track/5s8u5uW7zXvWfes7xh0Gr8"
+    },
+    {
+      "album": {
+        "name": "\u73fe\u5728\u7684\u4f60 (cover)",
+        "url": "https://open.spotify.com/album/47XLzznbBb4i9c98hquSKm"
+      },
+      "artists": [
+        {
+          "name": "\u5ead\u7af9",
+          "url": "https://open.spotify.com/artist/3ZWV6vCWv9OJ4WKZHgFwGV"
+        },
+        {
+          "name": "Evangeline Wong",
+          "url": "https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243120,
+      "name": "\u73fe\u5728\u7684\u4f60",
+      "url": "https://open.spotify.com/track/3H1ZkY8mI234yITtPT0gMk"
     },
     {
       "album": {
@@ -5833,6 +5895,24 @@
       "duration_ms": 230016,
       "name": "\u7b28\u7537\u4eba Love Fool\uff08\u96fb\u5f71\u300a\u6211\u6700\u611b\u7684\u7b28\u7537\u4eba\u300b\u4e3b\u984c\u66f2\uff09",
       "url": "https://open.spotify.com/track/1XFUtxmpEMnYpqXGqFaTBU"
+    },
+    {
+      "album": {
+        "name": "\u7b49\u5f85",
+        "url": "https://open.spotify.com/album/7bGJukmWm0UtYEY4l5yfPj"
+      },
+      "artists": [
+        {
+          "name": "Nico & Kim",
+          "url": "https://open.spotify.com/artist/6llw8XIxsVzsgC0IJorLLo"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295714,
+      "name": "\u7b49\u5f85",
+      "url": "https://open.spotify.com/track/255FcujoOdCZy133eApLe1"
     },
     {
       "album": {
@@ -6709,7 +6789,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 285230,
       "name": "\u8eab\u9a91\u767d\u9a6c",
       "url": "https://open.spotify.com/track/1W2Fxh7N0i90VFJrUXZWyt"

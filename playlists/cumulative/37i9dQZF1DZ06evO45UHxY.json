@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Sorprendente",
+        "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169377,
+      "name": "Cena de Plomo",
+      "url": "https://open.spotify.com/track/7oMDzR2APsPC2HfTxW78Sh"
+    },
+    {
+      "album": {
         "name": "Borracho Y Loco",
         "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
       },

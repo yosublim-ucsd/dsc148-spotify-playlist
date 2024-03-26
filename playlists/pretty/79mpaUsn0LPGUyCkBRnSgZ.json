@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTQ1Nyw4ZTMzN2QzNTM5NGQ3OGQ2YTMzZThiOThjOGZmMDBlNjVjNDE3NGVk",
+  "snapshot_id": "MTQ2MCxlNmIxM2JhYmJjZTMyNDVlNTA0ZTRjYWQwZDdkZmQ1MGI2NDkwYWQw",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -7947,6 +7947,54 @@
       "duration_ms": 139850,
       "name": "Nonbinary",
       "url": "https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT"
+    },
+    {
+      "added_at": "2024-03-25 14:50:18",
+      "album": {
+        "name": "Troupeau bleu",
+        "url": "https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB"
+      },
+      "artists": [
+        {
+          "name": "Cortex",
+          "url": "https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew"
+        }
+      ],
+      "duration_ms": 267320,
+      "name": "La rue",
+      "url": "https://open.spotify.com/track/6lzDycd60SJ7H8y6wuESGl"
+    },
+    {
+      "added_at": "2024-03-25 15:08:45",
+      "album": {
+        "name": "Nevermen",
+        "url": "https://open.spotify.com/album/6B2zFE8keFSYZkNlani62g"
+      },
+      "artists": [
+        {
+          "name": "Nevermen",
+          "url": "https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq"
+        }
+      ],
+      "duration_ms": 215876,
+      "name": "Dark Ear",
+      "url": "https://open.spotify.com/track/4pzkDLgql51eVBPU0T0QMQ"
+    },
+    {
+      "added_at": "2024-03-25 20:27:06",
+      "album": {
+        "name": "Winterreise",
+        "url": "https://open.spotify.com/album/23tjIW6fzlYMWfc55QHSAs"
+      },
+      "artists": [
+        {
+          "name": "Jerskin Fendrix",
+          "url": "https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW"
+        }
+      ],
+      "duration_ms": 446293,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/0dYTYyBD0j1neoklCctt1s"
     }
   ],
   "unique_name": "Zacklog",

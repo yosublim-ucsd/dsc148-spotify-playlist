@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 96825,
+  "2024-03-26": 96824,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Panama.",
   "name": "Top 50 - Panama",
@@ -3699,7 +3699,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 172503,
       "name": "Cohete",
       "url": "https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB"
@@ -4603,7 +4603,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
@@ -4917,7 +4917,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 197052,
       "name": "DILUVIO",
       "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
@@ -4961,6 +4961,24 @@
       "duration_ms": 193961,
       "name": "DISPO",
       "url": "https://open.spotify.com/track/4iGQ8o9Ih6J1OuDDGCXSCL"
+    },
+    {
+      "album": {
+        "name": "Do It For",
+        "url": "https://open.spotify.com/album/2noFtsohIjrjBJphRDflcy"
+      },
+      "artists": [
+        {
+          "name": "Yverthug",
+          "url": "https://open.spotify.com/artist/1v2Bdrj3QXcJViY7l9U7QJ"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178562,
+      "name": "Do It For",
+      "url": "https://open.spotify.com/track/4cVCLkJI67TK5QiS7XulKp"
     },
     {
       "album": {
@@ -6245,7 +6263,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -7213,7 +7231,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -8223,7 +8241,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 216338,
       "name": "Hey Lil Mama",
       "url": "https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG"
@@ -9717,7 +9735,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 198139,
       "name": "La Maco",
       "url": "https://open.spotify.com/track/6vIAesoAJNm0g3mPN8EXpB"
@@ -10507,7 +10525,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -13524,6 +13542,24 @@
     },
     {
       "album": {
+        "name": "No Pichaste",
+        "url": "https://open.spotify.com/album/2FXPZ8SdczHJuS9SwE74LF"
+      },
+      "artists": [
+        {
+          "name": "Betone",
+          "url": "https://open.spotify.com/artist/633I0vj981muhXRC2xFZcQ"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136363,
+      "name": "No Pichaste",
+      "url": "https://open.spotify.com/track/5MkwgnoRMqIxWaTADXwjbj"
+    },
+    {
+      "album": {
         "name": "Bucle",
         "url": "https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55"
       },
@@ -16369,7 +16405,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 181666,
       "name": "Punter\u00eda",
       "url": "https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc"
@@ -16529,6 +16565,32 @@
       "duration_ms": 194402,
       "name": "P\u00e1rrafo 8",
       "url": "https://open.spotify.com/track/3RGOpwcyaMvgiuRyFrfVtc"
+    },
+    {
+      "album": {
+        "name": "El Fresa",
+        "url": "https://open.spotify.com/album/1pExbAW1AeIxpbXUo4vnTp"
+      },
+      "artists": [
+        {
+          "name": "Ro Hernandez",
+          "url": "https://open.spotify.com/artist/4oahjzMIim9kzzFlspLYlJ"
+        },
+        {
+          "name": "JeyJenm",
+          "url": "https://open.spotify.com/artist/6ZCJavXJVSYsfLFko1XkYb"
+        },
+        {
+          "name": "Dazh",
+          "url": "https://open.spotify.com/artist/3nGVRGChMNUZbnRKayaGBB"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160824,
+      "name": "P\u00e9gate M\u00e1s",
+      "url": "https://open.spotify.com/track/69MiNNBC02yBnMW1pmakqi"
     },
     {
       "album": {

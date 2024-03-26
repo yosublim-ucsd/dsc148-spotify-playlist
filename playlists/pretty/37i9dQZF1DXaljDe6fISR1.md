@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: Racionais MC's
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,359 likes - 76 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,414 likes - 76 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 44 | [Se Escute](https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [Sem Cortesia \(Vagando na Babilônia / Em Busca de Canaã\)](https://open.spotify.com/album/3Qme8XNg5l1q3sbvXueqsK) | 2:45 |
 | 45 | [Te Amo Disgraça](https://open.spotify.com/track/5B4611SCn4puXahrf7rqkj) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Esú](https://open.spotify.com/album/11KgjDEaT1YjNUphDDTOzc) | 4:50 |
 | 46 | [Beira de Piscina \(Remix\)](https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Caro Vapor / Vida e Veneno de Don L](https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK) | 3:49 |
-| 47 | [Invicto](https://open.spotify.com/track/26iIVLdPn5nhmMwiuGKK3F) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 4:16 |
+| 47 | [Invicto](https://open.spotify.com/track/3ecQ7EFhQCJbPfM8fQ5JaD) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf) | 4:16 |
 | 48 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
 | 49 | [O Soldado Que Fica](https://open.spotify.com/track/0pn6i2lgX9snct72QlcUuB) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv), [Maira Freitas](https://open.spotify.com/artist/4de0UvPPD98qUiXstPUGzF) | [Essencial](https://open.spotify.com/album/1uNvA7eJynl56pneh1xryl) | 6:02 |
 | 50 | [O Trem](https://open.spotify.com/track/4FpVLn9ne4NDGo83yRTAIi) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 5:12 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 56 | [Só](https://open.spotify.com/track/4JzVXnE9e7qExrT1NKgVT6) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Non Ducor Duco](https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG) | 3:21 |
 | 57 | [Periferia / Sample: Fim De Semana No Parque](https://open.spotify.com/track/7hXQTTsfyeIiT7TB1ilBel) | [Helião](https://open.spotify.com/artist/4E18TGN1tOs6QTHAOupZgV), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ) | [Guerreiro, Guerreira](https://open.spotify.com/album/5CGbKL3fvKpdcU1i8VP3Zo) | 4:27 |
 | 58 | [Rolo Compressor](https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 3:11 |
-| 59 | [Castelos & Ruínas](https://open.spotify.com/track/2QsawLES5BqdJ9yYp5wjYs) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH) | 4:09 |
+| 59 | [Castelos & Ruínas](https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 4:09 |
 | 60 | [Pretin \(Verão, Pt\. 1\)](https://open.spotify.com/track/4kDGFnLmcAxlWuBpxnQbJz) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Stereodubs](https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO) | [Flora Matos Vs\. Stereodubs](https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7) | 2:27 |
 | 61 | [Eu Sô Função](https://open.spotify.com/track/1YmavNGmgWmsLe6OZX6sJC) | [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x), [Função](https://open.spotify.com/artist/5uq8RHK62SHZYx137LF3Sq), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ) | [Exilado Sim, Preso Não](https://open.spotify.com/album/7FVrGa7PMjkbdKaXbWR9Bd) | 6:27 |
 | 62 | [Respeito É pra Quem Tem](https://open.spotify.com/track/4pZt1KU0y9Ckrw5Bcp60GB) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 5:29 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 75 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 |
 | 76 | [Antes das 6:00, Pt\. 2 \- Bonus Track](https://open.spotify.com/track/3Dyhym3tetqLh2Axf0MrYl) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Quantas Vezes Não Me Achei \(Deluxe\)](https://open.spotify.com/album/4osx7Hsw9f45WPHTBzjmVu) | 4:01 |
 
-Snapshot ID: `MCw2MDBkYTg1YmM2OTQ2N2UwMzA3MWMwNjA0ZjNiNTM1NWRjZTlkMmNi`
+Snapshot ID: `MCwxOTI5OTM5ZTJhOWI0YmRkMTRlMjE1Zjk5MWRiNGZhMTRlYzQyNGNm`

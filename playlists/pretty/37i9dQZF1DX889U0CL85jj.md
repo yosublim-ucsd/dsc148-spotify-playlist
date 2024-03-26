@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill, and potentially disassociate, in 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,474,223 likes - 140 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,474,210 likes - 140 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 13 | [Astray](https://open.spotify.com/track/6mN1BAzH2eM6Plt40q4BYf) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Astray](https://open.spotify.com/album/5T1KTLXebGps2jgsr7opyz) | 3:53 |
 | 14 | [paralyzed](https://open.spotify.com/track/5mJN7OPMym5RU7iODPV7SL) | [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO) | [paralyzed](https://open.spotify.com/album/2pLMdZ6fSfEHkduFOLmZp9) | 2:01 |
 | 15 | [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 |
-| 16 | [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 |
+| 16 | [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 |
 | 17 | [Overpowering](https://open.spotify.com/track/0xuecKhU77GCzBIcrQJIU1) | [Benét](https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB) | [Overpowering](https://open.spotify.com/album/4u9QLqp02jIhC3cBP71v5Q) | 3:17 |
 | 18 | [Pool](https://open.spotify.com/track/49FHYvCtxzbtvEVZqHOBHE) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [The Last Remaining Light](https://open.spotify.com/album/6Ld86qHWesBIXFGhSysnVY) | 4:18 |
 | 19 | [Falling Down](https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Falling Down](https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P) | 3:35 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 139 | [Float](https://open.spotify.com/track/2r3r7fxm0wRScSrZ34CbIy) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Float](https://open.spotify.com/album/2vO9jJeWEJ4NN65qzE5EHn) | 4:00 |
 | 140 | [Satellites](https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW), [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Satellites](https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO) | 4:00 |
 
-Snapshot ID: `MCxmMGU0ZjBlMWYyYWRkMDFkYWY1YzhhMzhjYTM3YmRjMzEzZTZiZWRh`
+Snapshot ID: `MCw5YjA1YzM3OGNlOTBkMmFhYjkxMmMyNzc4MTkyYzgwNzY1Yjk1MDI0`

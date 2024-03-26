@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > Cover: Yeat
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,476 likes - 51 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,528 likes - 51 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 9 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 |
 | 10 | [As We Speak \(feat\. Drake\)](https://open.spotify.com/track/6uFG0BRd3BaonWjEGuHYAh) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [2093 \(P2\)](https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg) | 4:00 |
 | 11 | [Miss The Rage](https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Trip At Knight](https://open.spotify.com/album/6SpT5TOPIInmmwLyCcCAXX) | 3:56 |
-| 12 | [noir](https://open.spotify.com/track/5FgmgpMES8hknCpvbHXc3Y) | [sho](https://open.spotify.com/artist/7J931Zo6xntPEBM04BANte) | [noir](https://open.spotify.com/album/1gL2p8oM0ObpobShkMCSlC) | 1:37 |
+| 12 | [noir](https://open.spotify.com/track/72vUc6aIviryxvvs4gV5ag) | [venii](https://open.spotify.com/artist/5V7KZhm5gwGljtq4BTgyOC) | [noir](https://open.spotify.com/album/2O94J43yUri3UqlH0QnYBP) | 1:49 |
 | 13 | [The Grinch](https://open.spotify.com/track/2VKHWIONh47ntN7wyoSxEQ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/5nDqjtvRwDYElIflvoNDdE) | 1:31 |
 | 14 | [FUK SUMN](https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 3:29 |
 | 15 | [listen!](https://open.spotify.com/track/12eAtj918bpsB4Vts8pCMu) | [hako](https://open.spotify.com/artist/71UHb0juSLfDoktgvCELin) | [listen! \(sped up\)](https://open.spotify.com/album/6IkOB88aFkkxIJT8u46SYF) | 1:28 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 50 | [off the leash! \(feat\. yvngxchris and Luisss\)](https://open.spotify.com/track/6x3BWyMi95035qz5pB8snv) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Luisss](https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI) | [off the leash!](https://open.spotify.com/album/2udAdxSFdILUt3vK12F48I) | 3:12 |
 | 51 | [i suppose'](https://open.spotify.com/track/3gcWCQg7hbMzBj1NzYsHhE) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [searching for klarity](https://open.spotify.com/album/220lwYHC2mt97anoKSMFj2) | 3:18 |
 
-Snapshot ID: `MCw1MmI3YjI1YmZhNzY5M2FmY2Q4NDViYTBlN2RjYWU4MzI0ZmE0ZDY4`
+Snapshot ID: `MCw4MTkxNjU4NTQ5ZmNhN2U2YjQwZTQ5MWQzZWViOGZlMjViYmViYTJh`

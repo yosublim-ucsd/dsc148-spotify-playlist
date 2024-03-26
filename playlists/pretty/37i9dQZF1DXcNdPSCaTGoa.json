@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 20 years of  <a href=\"https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=RA5rgdt2RX-n7beSCAHzBQ\">Thandiswa's</a>  Zabalaza. ",
-  "num_followers": 54137,
+  "num_followers": 54221,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjUyOGRhNTM3MTNlMWMxM2M0MjQ5MzQ5ZjhhMDc2NzZhMTJmMDQ1",
+  "snapshot_id": "MCxmMWRlNzQ0NTdkYTJhOTM2ZTc1MTE3M2VmMzY3OGQyMzcyYTdlZWFh",
   "tracks": [
     {
       "added_at": "2024-03-22 07:01:39",
@@ -519,26 +519,6 @@
     {
       "added_at": "2024-03-22 07:01:39",
       "album": {
-        "name": "Halloween",
-        "url": "https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        },
-        {
-          "name": "2 Shot",
-          "url": "https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Mambotjie (feat. 2Shot)",
-      "url": "https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM"
-    },
-    {
-      "added_at": "2024-03-22 07:01:39",
-      "album": {
         "name": "Skhanda Republic",
         "url": "https://open.spotify.com/album/5W47Ej2vjcxQuPNFzIRmmT"
       },
@@ -559,6 +539,26 @@
     {
       "added_at": "2024-03-22 07:01:39",
       "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        },
+        {
+          "name": "2 Shot",
+          "url": "https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Mambotjie (feat. 2Shot)",
+      "url": "https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM"
+    },
+    {
+      "added_at": "2024-03-22 07:01:39",
+      "album": {
         "name": "King of Kwaito Uyagawula",
         "url": "https://open.spotify.com/album/4aRbwswWaBF9A5NBg7SjsS"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 321611,
       "name": "Manyonyoba",
       "url": "https://open.spotify.com/track/2KfKIMj000VYsDxI7Yb4Wi"
-    },
-    {
-      "added_at": "2024-03-22 07:01:39",
-      "album": {
-        "name": "Mi Casa",
-        "url": "https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu"
-      },
-      "artists": [
-        {
-          "name": "Mi Casa",
-          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
-        }
-      ],
-      "duration_ms": 387500,
-      "name": "Heavenly Sent",
-      "url": "https://open.spotify.com/track/4IHHoEIPtje2WsYhIeHKD2"
     },
     {
       "added_at": "2024-03-22 07:01:39",
@@ -623,6 +607,22 @@
       "duration_ms": 286600,
       "name": "Thobela",
       "url": "https://open.spotify.com/track/1drh3aU7uJON1xjnGWonCa"
+    },
+    {
+      "added_at": "2024-03-22 07:01:39",
+      "album": {
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu"
+      },
+      "artists": [
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        }
+      ],
+      "duration_ms": 387500,
+      "name": "Heavenly Sent",
+      "url": "https://open.spotify.com/track/4IHHoEIPtje2WsYhIeHKD2"
     },
     {
       "added_at": "2024-03-22 07:01:39",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-03-22 07:01:39",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 351746,
-      "name": "Shibobo / The Final Countdown",
-      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
-    },
-    {
-      "added_at": "2024-03-22 07:01:39",
-      "album": {
         "name": "Nomvula",
         "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2024-03-22 07:01:39",
       "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 351746,
+      "name": "Shibobo / The Final Countdown",
+      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
+    },
+    {
+      "added_at": "2024-03-22 07:01:39",
+      "album": {
         "name": "Another Universe",
         "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 214960,
       "name": "Another Universe",
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
-    },
-    {
-      "added_at": "2024-03-22 07:01:39",
-      "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/61hn5xRSprCPfYGgdeW3tl"
-      },
-      "artists": [
-        {
-          "name": "Boom Shaka",
-          "url": "https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "It's About Time",
-      "url": "https://open.spotify.com/track/1m9z5GSmXqjafOYlHQVzlC"
     },
     {
       "added_at": "2024-03-22 07:01:39",
@@ -775,6 +759,22 @@
     {
       "added_at": "2024-03-22 07:01:39",
       "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/61hn5xRSprCPfYGgdeW3tl"
+      },
+      "artists": [
+        {
+          "name": "Boom Shaka",
+          "url": "https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "It's About Time",
+      "url": "https://open.spotify.com/track/1m9z5GSmXqjafOYlHQVzlC"
+    },
+    {
+      "added_at": "2024-03-22 07:01:39",
+      "album": {
         "name": "African Litany",
         "url": "https://open.spotify.com/album/5cptRgeHM4SByGORhN5w3t"
       },
@@ -795,6 +795,38 @@
     {
       "added_at": "2024-03-22 07:01:39",
       "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
+    },
+    {
+      "added_at": "2024-03-22 07:01:39",
+      "album": {
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+      },
+      "artists": [
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 382186,
+      "name": "I'd Like",
+      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
+    },
+    {
+      "added_at": "2024-03-22 07:01:39",
+      "album": {
         "name": "Khokhovula",
         "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
       },
@@ -811,18 +843,18 @@
     {
       "added_at": "2024-03-22 07:01:39",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
       },
       "artists": [
         {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
+      "duration_ms": 210613,
+      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
+      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
     },
     {
       "added_at": "2024-03-22 07:01:39",
@@ -855,38 +887,6 @@
       "duration_ms": 301853,
       "name": "Kortes (Kasi Luv)",
       "url": "https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws"
-    },
-    {
-      "added_at": "2024-03-22 07:01:39",
-      "album": {
-        "name": "Africa in Harmony: 50th Anniversary Edition",
-        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
-      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
-    },
-    {
-      "added_at": "2024-03-22 07:01:39",
-      "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
-      },
-      "artists": [
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 382186,
-      "name": "I'd Like",
-      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
     },
     {
       "added_at": "2024-03-22 07:01:39",

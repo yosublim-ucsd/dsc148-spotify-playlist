@@ -1,12 +1,12 @@
 {
   "description": "Glimmering, warm, and bright memories: Broadcast on the cover.",
-  "num_followers": 535142,
+  "num_followers": 535423,
   "original_name": "Dreampop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDk4MGU5MTNkY2M0NDQ2Mjk3MWY3ZjVlMWEwZTU1MGQwNzczZGFi",
+  "snapshot_id": "MCw3ZDdjNzYzYjVjYmYxMWRiZDkyOTRmYjc0MzMyODc4ZTIyNTA2ZTdj",
   "tracks": [
     {
       "added_at": "2021-10-01 10:38:06",
@@ -123,6 +123,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Alison",
+      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "LSD and the Search for God",
         "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Passive Aggressive",
-        "url": "https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4"
-      },
-      "artists": [
-        {
-          "name": "The Radio Dept.",
-          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
-        }
-      ],
-      "duration_ms": 200441,
-      "name": "Pulling Our Weight",
-      "url": "https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Heaven or Las Vegas",
         "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
       },
@@ -187,18 +187,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+        "name": "Passive Aggressive",
+        "url": "https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4"
       },
       "artists": [
         {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+          "name": "The Radio Dept.",
+          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
         }
       ],
-      "duration_ms": 230986,
-      "name": "Alison",
-      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
+      "duration_ms": 200441,
+      "name": "Pulling Our Weight",
+      "url": "https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -235,6 +235,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 270918,
+      "name": "Sugar for the Pill",
+      "url": "https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Spooky",
         "url": "https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 209133,
       "name": "For Love",
       "url": "https://open.spotify.com/track/3KiKpbpJp9QKuTZb9ocfJi"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Lorelei",
-      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -299,18 +299,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Slowdive",
-        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
       },
       "artists": [
         {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 270918,
-      "name": "Sugar for the Pill",
-      "url": "https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb"
+      "duration_ms": 223266,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -537,38 +537,6 @@
       "url": "https://open.spotify.com/track/6G7rDUqMhnmXFVwRRQ7azu"
     },
     {
-      "added_at": "2022-01-11 02:58:41",
-      "album": {
-        "name": "Thank Your Lucky Stars",
-        "url": "https://open.spotify.com/album/4WbFCzKALujxRNeoeLS5zO"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 240770,
-      "name": "Majorette",
-      "url": "https://open.spotify.com/track/1xHrTucRP7hVViMekBfu7S"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "The Comforts of Madness",
-        "url": "https://open.spotify.com/album/3YZJ5Uiyy1vCMubtZDG7a2"
-      },
-      "artists": [
-        {
-          "name": "Pale Saints",
-          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
-        }
-      ],
-      "duration_ms": 337600,
-      "name": "Sight of You",
-      "url": "https://open.spotify.com/track/7fectUUMiPjZijOJIJaN3S"
-    },
-    {
       "added_at": "2021-10-01 10:38:06",
       "album": {
         "name": "The Noise Made By People",
@@ -599,6 +567,38 @@
       "duration_ms": 317093,
       "name": "Sweetness and Light",
       "url": "https://open.spotify.com/track/1Pr2b8WV0rFkSAjrnzUeDc"
+    },
+    {
+      "added_at": "2022-01-11 02:58:41",
+      "album": {
+        "name": "Thank Your Lucky Stars",
+        "url": "https://open.spotify.com/album/4WbFCzKALujxRNeoeLS5zO"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 240770,
+      "name": "Majorette",
+      "url": "https://open.spotify.com/track/1xHrTucRP7hVViMekBfu7S"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "The Comforts of Madness",
+        "url": "https://open.spotify.com/album/3YZJ5Uiyy1vCMubtZDG7a2"
+      },
+      "artists": [
+        {
+          "name": "Pale Saints",
+          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
+        }
+      ],
+      "duration_ms": 337600,
+      "name": "Sight of You",
+      "url": "https://open.spotify.com/track/7fectUUMiPjZijOJIJaN3S"
     },
     {
       "added_at": "2022-02-18 20:00:47",
@@ -797,20 +797,20 @@
       "url": "https://open.spotify.com/track/3BPRUFOrl3IOOY8HpzRn4S"
     },
     {
-      "added_at": "2021-10-01 10:38:06",
+      "added_at": "2022-03-18 05:40:30",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE"
+        "name": "Maida Vale Sessions",
+        "url": "https://open.spotify.com/album/7dCYsWwOlURGcomJrgncEe"
       },
       "artists": [
         {
-          "name": "Chapterhouse",
-          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
         }
       ],
-      "duration_ms": 252200,
-      "name": "Mesmerise",
-      "url": "https://open.spotify.com/track/6bEbOvzviHrQEYjpuEvgje"
+      "duration_ms": 203848,
+      "name": "Come On Let's Go",
+      "url": "https://open.spotify.com/track/0e3zNp2pKzbgzTGWMwnyKG"
     }
   ],
   "unique_name": "Dreampop Classics",

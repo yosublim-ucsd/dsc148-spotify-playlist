@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 68858,
+  "num_followers": 68870,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDdkMzc2YzczZjljZjY4MDdhZmI3MWVhZjM4ZTU0ZWY2NDM5ZGQ1",
+  "snapshot_id": "MCw2ODI5NmIxMTM0YmMzNmE4NDQ3N2E5ZWZjNTAzZTU2NTUzOGFjZmEw",
   "tracks": [
     {
       "added_at": "2024-03-07 23:00:00",
@@ -147,6 +147,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
+        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 226547,
+      "name": "1.000.000 Nollor",
+      "url": "https://open.spotify.com/track/2zKQmG3vaoRpogBihuBb3p"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "K\u00e4rlek & Revolt",
         "url": "https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO"
       },
@@ -179,38 +195,6 @@
       "duration_ms": 221773,
       "name": "N\u00e4r solen g\u00e5r ner - Kap10 Reggae Remix",
       "url": "https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 260399,
-      "name": "You Are My Angel",
-      "url": "https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
-        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 226547,
-      "name": "1.000.000 Nollor",
-      "url": "https://open.spotify.com/track/2zKQmG3vaoRpogBihuBb3p"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -255,86 +239,18 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Min Tid",
-        "url": "https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
       },
       "artists": [
         {
-          "name": "Ras Cricket",
-          "url": "https://open.spotify.com/artist/69TksjsHjLqscQcE72fevH"
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
         }
       ],
-      "duration_ms": 226063,
-      "name": "Polisen sla\u030ar",
-      "url": "https://open.spotify.com/track/3BQG2rx1bKErpA1EnbpaH7"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Pang Pang",
-        "url": "https://open.spotify.com/album/7xkDczPwYypYljYKRKZTjW"
-      },
-      "artists": [
-        {
-          "name": "Labyrint",
-          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
-        }
-      ],
-      "duration_ms": 245052,
-      "name": "Pang Pang",
-      "url": "https://open.spotify.com/track/3xW8Zh2zLhuDpkUtSlwaBt"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "K\u00e4rlek",
-        "url": "https://open.spotify.com/album/3wjpMLo7H6dN3NAG3cbZVZ"
-      },
-      "artists": [
-        {
-          "name": "Jacco",
-          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "K\u00e4rlek",
-      "url": "https://open.spotify.com/track/3ZnZPPqpDO3kR8aY3zBtaj"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
-        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 179251,
-      "name": "In Kommer Ting",
-      "url": "https://open.spotify.com/track/21SZLKjYJQfoNS4pVbHQz6"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "K\u00e4rlek & Revolt",
-        "url": "https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO"
-      },
-      "artists": [
-        {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
-        },
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        }
-      ],
-      "duration_ms": 203418,
-      "name": "Hetare \u00c4n Lava",
-      "url": "https://open.spotify.com/track/6WTNvOppGFPmwZ37edR9tR"
+      "duration_ms": 260399,
+      "name": "You Are My Angel",
+      "url": "https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -359,6 +275,90 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "Pang Pang",
+        "url": "https://open.spotify.com/album/7xkDczPwYypYljYKRKZTjW"
+      },
+      "artists": [
+        {
+          "name": "Labyrint",
+          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        }
+      ],
+      "duration_ms": 245052,
+      "name": "Pang Pang",
+      "url": "https://open.spotify.com/track/3xW8Zh2zLhuDpkUtSlwaBt"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
+        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 179251,
+      "name": "In Kommer Ting",
+      "url": "https://open.spotify.com/track/21SZLKjYJQfoNS4pVbHQz6"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Min Tid",
+        "url": "https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv"
+      },
+      "artists": [
+        {
+          "name": "Ras Cricket",
+          "url": "https://open.spotify.com/artist/69TksjsHjLqscQcE72fevH"
+        }
+      ],
+      "duration_ms": 226063,
+      "name": "Polisen sla\u030ar",
+      "url": "https://open.spotify.com/track/3BQG2rx1bKErpA1EnbpaH7"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "K\u00e4rlek",
+        "url": "https://open.spotify.com/album/3wjpMLo7H6dN3NAG3cbZVZ"
+      },
+      "artists": [
+        {
+          "name": "Jacco",
+          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "K\u00e4rlek",
+      "url": "https://open.spotify.com/track/3ZnZPPqpDO3kR8aY3zBtaj"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "K\u00e4rlek & Revolt",
+        "url": "https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO"
+      },
+      "artists": [
+        {
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+        },
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        }
+      ],
+      "duration_ms": 203418,
+      "name": "Hetare \u00c4n Lava",
+      "url": "https://open.spotify.com/track/6WTNvOppGFPmwZ37edR9tR"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "Kalibreraren",
         "url": "https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR"
       },
@@ -375,18 +375,18 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Labababa",
-        "url": "https://open.spotify.com/album/3z6fqHPkHimDtnsjGq1snB"
+        "name": "Rudeboy Love",
+        "url": "https://open.spotify.com/album/2IGr9pbfhEngQoxfcy3vjn"
       },
       "artists": [
         {
-          "name": "Labyrint",
-          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
         }
       ],
-      "duration_ms": 273813,
-      "name": "Tribulations",
-      "url": "https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj"
+      "duration_ms": 220201,
+      "name": "Rudeboy Love",
+      "url": "https://open.spotify.com/track/4lXN6CUfWgIKupkC2h4SaR"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "Labababa",
+        "url": "https://open.spotify.com/album/3z6fqHPkHimDtnsjGq1snB"
+      },
+      "artists": [
+        {
+          "name": "Labyrint",
+          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        }
+      ],
+      "duration_ms": 273813,
+      "name": "Tribulations",
+      "url": "https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "D\u00f6md att bli bed\u00f6md",
         "url": "https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 188773,
       "name": "Gillar din vibe",
       "url": "https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Rudeboy Love",
-        "url": "https://open.spotify.com/album/2IGr9pbfhEngQoxfcy3vjn"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 220201,
-      "name": "Rudeboy Love",
-      "url": "https://open.spotify.com/track/4lXN6CUfWgIKupkC2h4SaR"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "\u00d6ver Min D\u00f6da",
+        "url": "https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 213019,
+      "name": "\u00d6ver Min D\u00f6da",
+      "url": "https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "Dancehall",
         "url": "https://open.spotify.com/album/2Cf4aLjmsn8561yq7otet9"
       },
@@ -511,38 +527,6 @@
       "duration_ms": 198805,
       "name": "Som Bob Marley",
       "url": "https://open.spotify.com/track/22FAGmEc3gyW5W8XAyJYA0"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Som Salomos S\u00e5ng",
-        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
-      },
-      "artists": [
-        {
-          "name": "Governor Andy",
-          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "Bonus P\u00e5 Kortet",
-      "url": "https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Blacka Rasta",
-        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Sm\u00e5 svarta \u00e4nglar",
-      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -567,18 +551,54 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "\u00d6ver Min D\u00f6da",
-        "url": "https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U"
+        "name": "Blacka Rasta",
+        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
       },
       "artists": [
         {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
         }
       ],
-      "duration_ms": 213019,
-      "name": "\u00d6ver Min D\u00f6da",
-      "url": "https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD"
+      "duration_ms": 211573,
+      "name": "Sm\u00e5 svarta \u00e4nglar",
+      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Kalibreraren",
+        "url": "https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR"
+      },
+      "artists": [
+        {
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+        },
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        }
+      ],
+      "duration_ms": 188516,
+      "name": "Kontakt",
+      "url": "https://open.spotify.com/track/2BiSXiybgeW2stqoeVc8Ke"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Som Salomos S\u00e5ng",
+        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
+      },
+      "artists": [
+        {
+          "name": "Governor Andy",
+          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
+        }
+      ],
+      "duration_ms": 223840,
+      "name": "Bonus P\u00e5 Kortet",
+      "url": "https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -627,26 +647,6 @@
       "duration_ms": 217142,
       "name": "Dimman",
       "url": "https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Kalibreraren",
-        "url": "https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR"
-      },
-      "artists": [
-        {
-          "name": "Kaliffa",
-          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
-        },
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        }
-      ],
-      "duration_ms": 188516,
-      "name": "Kontakt",
-      "url": "https://open.spotify.com/track/2BiSXiybgeW2stqoeVc8Ke"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Under samma himmel",
-        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 253977,
-      "name": "Under samma himmel",
-      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Slutpl\u00e4deringen",
         "url": "https://open.spotify.com/album/32qy7Z7Db0xCpB5m0yLsRs"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 156360,
       "name": "Rikslarm",
       "url": "https://open.spotify.com/track/0KnRzbQpj0J5nXRqtuSRhz"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Under samma himmel",
+        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 253977,
+      "name": "Under samma himmel",
+      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -779,22 +779,6 @@
       "duration_ms": 245720,
       "name": "Du Vill S\u00e5 Du Kan",
       "url": "https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "S\u00e5 nice",
-        "url": "https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y"
-      },
-      "artists": [
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "S\u00e5 nice",
-      "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -839,18 +823,18 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Br\u00e5da dagar",
-        "url": "https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR"
+        "name": "S\u00e5 nice",
+        "url": "https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y"
       },
       "artists": [
         {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
         }
       ],
-      "duration_ms": 254293,
-      "name": "Bulleribock",
-      "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
+      "duration_ms": 169500,
+      "name": "S\u00e5 nice",
+      "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -883,6 +867,26 @@
       "duration_ms": 245530,
       "name": "No Winners",
       "url": "https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Marknadens soldat",
+        "url": "https://open.spotify.com/album/0hZQuNeRKADQflu15vj10t"
+      },
+      "artists": [
+        {
+          "name": "Helt Off",
+          "url": "https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy"
+        },
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Mediak\u00e5t feat. Timbuktu",
+      "url": "https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw"
     }
   ],
   "unique_name": "Svensk Reggae",

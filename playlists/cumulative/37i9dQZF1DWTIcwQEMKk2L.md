@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-124 songs - 5 hr 38 min
+126 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Disconnect](https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD) | [Alice Frohde](https://open.spotify.com/artist/4eFkOzPb2gtD5CVb94lYFe) | [Disconnect](https://open.spotify.com/album/65eG2Wyj6NuiA8Yrn5pwm4) | 2:34 | 2023-12-11 |  |
 | [Dolce Far Niente](https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Dolce Far Niente](https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n) | 2:12 | 2023-11-20 |  |
 | [Début](https://open.spotify.com/track/6YS1MXqso0zlmcL4OV1kXk) | [Mélanie Laurent](https://open.spotify.com/artist/7HS5tD2CPw2AgG4AgWpxpN) | [En t'attendant](https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W) | 2:40 | 2023-11-20 |  |
+| [Easy To Love](https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Easy To Love](https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY) | 2:46 | 2024-03-25 |  |
 | [Eeny Meeny Miny Moe](https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ) | [Peter Ehrlichmann](https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx) | [Eeny Meeny Miny Moe](https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus) | 1:08 | 2023-11-20 |  |
 | [Endless Time](https://open.spotify.com/track/0pkdDoLKIe3a2zdi9MTUMl) | [Roberto Cacciapaglia](https://open.spotify.com/artist/359LKbZWLk6u3IpyNE2CQG) | [Atlas \- Cacciapaglia Collection](https://open.spotify.com/album/6kBgAkLt5i8vMEK26SP17X) | 3:14 | 2023-11-20 |  |
 | [Endymion](https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa) | [Réka Ioescu](https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H) | [Endymion](https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS) | 2:32 | 2023-11-20 |  |
@@ -55,6 +56,7 @@
 | [Home](https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH) | [Serenity for Sleep](https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV) | [Home](https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr) | 4:42 | 2023-11-20 |  |
 | [I See the Light \- From "Tangled"](https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K) | [Gregory Bevill](https://open.spotify.com/artist/2yaPTNekt9t1TtGhpFkzoY) | [I See the Light \- From "Tangled"](https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0) | 3:20 | 2023-11-20 |  |
 | [I Will Wait](https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [I Will Wait](https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6) | 2:06 | 2023-11-20 |  |
+| [I'll Never Be The Same](https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [I'll Never Be The Same](https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg) | 2:27 | 2024-03-25 |  |
 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [I've Grown Accustomed to Her Face](https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ) | 2:39 | 2023-11-20 |  |
 | [If You Must Go](https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB) | [Larry McDavid](https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz) | [If You Must Go](https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd) | 2:07 | 2023-11-20 | 2024-02-05 |
 | [Improvisation 7](https://open.spotify.com/track/0MCv1ES2lNZfmHYvIz6q1f) | [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Chopin +](https://open.spotify.com/album/5Kh9ZZuFyKZ5gC4vRwyyLg) | 1:13 | 2023-11-20 | 2024-01-15 |
@@ -72,7 +74,7 @@
 | [Love For Sale](https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Cherokee](https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR) | 2:23 | 2024-03-04 |  |
 | [L’herbe verte](https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb) | [Marceau Sartre](https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l) | [L’herbe verte](https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI) | 2:21 | 2023-11-20 |  |
 | [Magari](https://open.spotify.com/track/3cbYtmntj3mAHLoM1CEfzZ) | [Riccardo Lettiere](https://open.spotify.com/artist/5umUIBjnV8j12Qu5Zeni2x) | [Magari](https://open.spotify.com/album/7jIDxPIv8IFMdVIsiZ2Sg5) | 1:48 | 2023-12-04 | 2023-12-16 |
-| [Magnificent](https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Magnificent](https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn) | 2:34 | 2023-11-20 |  |
+| [Magnificent](https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Magnificent](https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn) | 2:34 | 2023-11-20 | 2024-03-26 |
 | [Magnolia](https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm) | [Snow in April](https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv) | [Magnolia](https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F) | 2:28 | 2023-11-20 |  |
 | [Mass](https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS) | [Zwera](https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn) | [Mass](https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2) | 2:10 | 2023-11-20 |  |
 | [Mind Wide Open](https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L) | [Dan Volker](https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk) | [Mind Wide Open](https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn) | 2:38 | 2023-11-20 | 2024-03-25 |
@@ -87,7 +89,7 @@
 | [Ornamental](https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Movement](https://open.spotify.com/album/5Mob5wTrlu4hFQUEL0Reb9) | 4:36 | 2023-11-20 | 2023-12-08 |
 | [Over The Rainbow](https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp) | [Sonya O'Malley](https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE) | [Fall Pieces](https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp) | 3:58 | 2023-11-20 |  |
 | [Oyasumi Nasai](https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 2:44 | 2023-11-20 |  |
-| [Patience](https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8) | [Augusta Winslow](https://open.spotify.com/artist/6Wn5qwb2t9rkoewfpdAp8z) | [Patience](https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB) | 3:03 | 2024-02-12 |  |
+| [Patience](https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8) | [Augusta Winslow](https://open.spotify.com/artist/6Wn5qwb2t9rkoewfpdAp8z) | [Patience](https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB) | 3:03 | 2024-02-12 | 2024-03-26 |
 | [Peace Within](https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Nocturne](https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc) | 3:48 | 2023-11-20 |  |
 | [Pennies From Heaven](https://open.spotify.com/track/5FZ1EwzovpSlbfPK2eynR0) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [Pennies From Heaven](https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0) | 4:29 | 2024-01-29 |  |
 | [Perfect](https://open.spotify.com/track/4XIjT3aXNrg3xgAnzczJ5B) | [Piano Pianissimo](https://open.spotify.com/artist/48vVtpjXYUwaX03U1aIm0x) | [Soft Piano Tunes](https://open.spotify.com/album/3UYr2MnyB2nTHv3T9tcuAr) | 4:08 | 2023-11-20 |  |

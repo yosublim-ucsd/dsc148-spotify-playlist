@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: GloRilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,203,993 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,204,270 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 99 | [Kat Food](https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kat Food](https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks) | 4:46 |
 | 100 | [God Slippers](https://open.spotify.com/track/7s12Ox0mKH81QDymKsC09N) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [God Slippers](https://open.spotify.com/album/6RM0E6BN5d1Kv9ajMMlJ8q) | 3:22 |
 
-Snapshot ID: `MCwxYTM5NWIzMDUwYmNiNTNmNzliODIwODhmY2FmMjc3Y2RmZWQ4MDlk`
+Snapshot ID: `MCxkYzlmMjAxZjNiNTY4NDU2Njg4NDFiYmRiZDg3YzkwMTMyZjllOGQz`

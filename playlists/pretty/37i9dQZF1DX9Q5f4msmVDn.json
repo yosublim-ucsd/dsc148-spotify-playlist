@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 20333,
+  "num_followers": 20355,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjJiY2YyMTczYTFkOWJlYzMyOWU5ZWQwOWU0ODUyYzA3MDJmOTg3",
+  "snapshot_id": "MCxlMTYzOGZkNjRlZjU5YjhmNTk4Y2VjOWI3MzI2NmU5MjcxYTYwZGE2",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Soundgasm",
-        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 204755,
-      "name": "Soundgasm",
-      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Free Dem Boyz",
         "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
       },
@@ -351,22 +335,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+        "name": "Soundgasm",
+        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "DAISY WORLD",
-          "url": "https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 203588,
-      "name": "RISE! (feat. DAISY WORLD)",
-      "url": "https://open.spotify.com/track/4Hta7Oy5W9HD0UgT1P8PPV"
+      "duration_ms": 204755,
+      "name": "Soundgasm",
+      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -399,22 +379,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Thirsty",
-        "url": "https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 415133,
-      "name": "Never Would Have Made It",
-      "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Slauson Boy 2",
         "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
       },
@@ -427,6 +391,42 @@
       "duration_ms": 230080,
       "name": "Ocean Views",
       "url": "https://open.spotify.com/track/1f0tj0IQ28OXq7hS0Rz0LH"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "DAISY WORLD",
+          "url": "https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT"
+        }
+      ],
+      "duration_ms": 203588,
+      "name": "RISE! (feat. DAISY WORLD)",
+      "url": "https://open.spotify.com/track/4Hta7Oy5W9HD0UgT1P8PPV"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Thirsty",
+        "url": "https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 415133,
+      "name": "Never Would Have Made It",
+      "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 275162,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "The Golden Hour",
         "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 235978,
       "name": "gold fronts (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 275162,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"
     }
   ],
   "unique_name": "Archie Davis' Taste",

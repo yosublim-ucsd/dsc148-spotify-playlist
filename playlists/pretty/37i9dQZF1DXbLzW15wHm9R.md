@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that will stay with you long after the credits roll...Cover: Hazbin Hotel
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,921 likes - 31 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,034 likes - 31 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 | 30 | [Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) | 4:46 |
 | 31 | [Greenback Boogie](https://open.spotify.com/track/2a6lmAMwH4RjNGDY01kytd) | [Ima Robot](https://open.spotify.com/artist/0JzkAORtxJjXk3XDKvIUcb) | [Greenback Boogie](https://open.spotify.com/album/3S2Qa0JKDFcZJeDd1LePku) | 4:57 |
 
-Snapshot ID: `MCxkN2MxNTdiMmQ5YTVmNDhkZmMzYmI5NzQyY2M5NTg3ZWE4NjhkMjBm`
+Snapshot ID: `MCxiZGQ0Mzc4YjhhZWQ3NzIyNjBjYWIzOTU3YmI4MDM0YTBlNjM2Mjgz`

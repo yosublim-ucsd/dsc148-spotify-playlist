@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 161762,
+  "num_followers": 161826,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmEzODI1NzU3YzIxMmU0NmRhMDBlM2Y0M2Q0ZmUxNjY0YjA3NThm",
+  "snapshot_id": "MCwwYzRjNjEwZjllMWQwNTZhZjYzMWY5NjkwY2ViMjU1OWI1N2I1ZjA2",
   "tracks": [
     {
       "added_at": "2024-02-09 07:01:34",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
+        "name": "Melodie",
+        "url": "https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 195548,
+      "name": "Traum",
+      "url": "https://open.spotify.com/track/6Mw1NYkSkqrX1HtzDdTdAZ"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
         "name": "Die gute Seite (Die lange Seite)",
         "url": "https://open.spotify.com/album/5WHyZMn0FK1eXOMzGTp4Pq"
       },
@@ -191,18 +207,18 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Melodie",
-        "url": "https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj"
+        "name": "Von Anfang An",
+        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
       },
       "artists": [
         {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+          "name": "M\u00fcnchener Freiheit",
+          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
         }
       ],
-      "duration_ms": 195548,
-      "name": "Traum",
-      "url": "https://open.spotify.com/track/6Mw1NYkSkqrX1HtzDdTdAZ"
+      "duration_ms": 247493,
+      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
+      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -219,22 +235,6 @@
       "duration_ms": 147826,
       "name": "Wei\u00dfes Kleid",
       "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
-        "name": "Von Anfang An",
-        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
-      },
-      "artists": [
-        {
-          "name": "M\u00fcnchener Freiheit",
-          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
-      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Raop",
-        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 174873,
-      "name": "Du",
-      "url": "https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "KIOX",
         "url": "https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS"
       },
@@ -323,6 +307,22 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
+        "name": "Raop",
+        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 174873,
+      "name": "Du",
+      "url": "https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "duration_ms": 222613,
+      "name": "Nur getr\u00e4umt",
+      "url": "https://open.spotify.com/track/0ukySDr4uEzZE36s7t7X8E"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
         "name": "Immer in Bewegung",
         "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
       },
@@ -359,18 +375,18 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb"
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
       },
       "artists": [
         {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 222613,
-      "name": "Nur getr\u00e4umt",
-      "url": "https://open.spotify.com/track/0ukySDr4uEzZE36s7t7X8E"
+      "duration_ms": 169500,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -407,22 +423,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Mit Dir",
-        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Mit Dir",
-      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Schwei\u00dfperlen",
         "url": "https://open.spotify.com/album/6ON8j7fH7Sxr51rYpMb7cm"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
-        "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
-      },
-      "artists": [
-        {
-          "name": "Die Toten Hosen",
-          "url": "https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ"
-        }
-      ],
-      "duration_ms": 272440,
-      "name": "Alles aus Liebe",
-      "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Dein ist mein ganzes Herz",
         "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 213666,
       "name": "Dein ist mein ganzes Herz",
       "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
+        "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
+      },
+      "artists": [
+        {
+          "name": "Die Toten Hosen",
+          "url": "https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ"
+        }
+      ],
+      "duration_ms": 272440,
+      "name": "Alles aus Liebe",
+      "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -991,22 +991,18 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "dass liebe sch\u00f6n sein kann",
-        "url": "https://open.spotify.com/album/47HTLFj9B6XTFSwaYyP1X9"
+        "name": "Herz",
+        "url": "https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O"
       },
       "artists": [
         {
-          "name": "Revelle",
-          "url": "https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA"
-        },
-        {
-          "name": "Gregor H\u00e4gele",
-          "url": "https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt"
+          "name": "Rosenstolz",
+          "url": "https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP"
         }
       ],
-      "duration_ms": 159015,
-      "name": "dass liebe sch\u00f6n sein kann",
-      "url": "https://open.spotify.com/track/1bTNHPvRgDGe2s19htkcPF"
+      "duration_ms": 210693,
+      "name": "Liebe ist alles",
+      "url": "https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB"
     }
   ],
   "unique_name": "Liebeslieder",

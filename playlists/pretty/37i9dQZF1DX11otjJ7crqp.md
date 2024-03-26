@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: FLETCHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,978 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,043 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [Cheater](https://open.spotify.com/track/0TwUTLZkSzDoaeM6uKLAWa) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [Cheater](https://open.spotify.com/album/1vawEnelJfgUfwDWRFVV7N) | 3:08 |
 | 99 | [Bug a Boo](https://open.spotify.com/track/4ErxIoEHvAaebb3D2CpJ2T) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Bug a Boo](https://open.spotify.com/album/60NlVLHgcMjcxjyjPLyNMx) | 3:24 |
 
-Snapshot ID: `MCw5NTlmOWI0ZTNmMjhiZDlhMTAwNDRmYjZkZWZjN2U2MWMxOGI5Mjdj`
+Snapshot ID: `MCw1MmU5MDQzM2M2MGQ4YTBkMjU5ODFjMTE5NGYyMDUxNjRiZDg1YTBj`

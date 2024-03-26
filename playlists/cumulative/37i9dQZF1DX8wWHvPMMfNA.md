@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-820 songs - 2 day 3 hr 48 min
+821 songs - 2 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Detour Ahead](https://open.spotify.com/track/3RqG16FeaSRU1l3CRlRZxV) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Detour Ahead](https://open.spotify.com/album/3qH33VNF4bKmgjk9Y3BWk4) | 2:57 | 2023-08-17 |  |
 | [Dextereous](https://open.spotify.com/track/1Zait2JXHhKnnAhogy1pJJ) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Dextereous](https://open.spotify.com/album/0SH6CBD4cLzhVvElKEPMtE) | 3:08 | 2023-06-01 |  |
 | [Did you dream too](https://open.spotify.com/track/2uFnSCNpfxySA144y7iIxq) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Did you dream too](https://open.spotify.com/album/4vQT9zQ6BUEuQLWACzWzhg) | 3:40 | 2023-02-16 |  |
-| [Dietz Monnin](https://open.spotify.com/track/3qfCMfMSBnIv3jWvWR4J8D) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Rue Crémieux](https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO) | 2:21 | 2023-08-10 |  |
+| [Dietz Monnin](https://open.spotify.com/track/3qfCMfMSBnIv3jWvWR4J8D) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Rue Crémieux](https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO) | 2:21 | 2023-08-10 | 2024-03-26 |
 | [Dimness](https://open.spotify.com/track/5IVl86u3PwXeo73x3tFBEh) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Dimness](https://open.spotify.com/album/5gcieuuevVgn5pfCTix7lO) | 3:19 | 2024-02-23 |  |
 | [Dipping Birds](https://open.spotify.com/track/3JtvojpnCGBLdalXoPpw4l) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Dipping Birds](https://open.spotify.com/album/2HpAQ9RPhao2ErPp3LLlGx) | 3:14 | 2022-11-17 |  |
 | [Distractions](https://open.spotify.com/track/34LqEe9GAniMgCJgN7jQzW) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Distractions](https://open.spotify.com/album/1Wgg5pGImhtCo9FJ3qGtGA) | 3:56 | 2023-06-01 |  |
@@ -493,6 +493,7 @@
 | [My Romance](https://open.spotify.com/track/3LT1zcX6o7Xv2IfJrlU4f1) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Ben And "Sweets"](https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk) | 4:14 | 2022-01-26 |  |
 | [My Shining Hour](https://open.spotify.com/track/0IBOhB35u9pJLdNSWFuCpM) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [My Shining Hour](https://open.spotify.com/album/7uqCrcgqBpD40AI8MrAxh1) | 2:23 | 2023-08-10 |  |
 | [My Ship](https://open.spotify.com/track/6LfNBoBMp1pJtnm2VQm0gy) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [My Ship](https://open.spotify.com/album/4L2n6cYNRrpHlsIO6sokyR) | 2:36 | 2023-09-22 |  |
+| [My Side Of Town](https://open.spotify.com/track/03y18NhxeD2Nq4JqftAEdm) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [My Side Of Town](https://open.spotify.com/album/0FbpuR6VWZJLaYxJbAKJqE) | 2:58 | 2024-03-22 |  |
 | [My Sweetest You](https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [My Sweetest You](https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq) | 3:07 | 2023-06-01 |  |
 | [Mysterious Stranger](https://open.spotify.com/track/5NBmnHqnUz4fOn3e1hHIaI) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Mysterious Stranger](https://open.spotify.com/album/6R7K535bnjXQy4DYE9VYnI) | 4:00 | 2023-06-01 |  |
 | [Mystic Melancholy](https://open.spotify.com/track/7489e1ULwkoljHeHUFUssi) | [Billy Buss Quartet](https://open.spotify.com/artist/5xTgx3md39lCcMRFqZU8hF) | [Mystic Melancholy](https://open.spotify.com/album/3fgiQHp4OHLbjkbavGv9Wm) | 3:42 | 2024-02-09 |  |

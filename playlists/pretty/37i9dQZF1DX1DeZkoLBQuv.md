@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,213 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,211 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 12 | [A Face Adorada de Jesus](https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:37 |
 | 13 | [Porque Ele Vive](https://open.spotify.com/track/7DK9ghk8bJnOD3PdzjV16f) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Porque Ele Vive \(Voz e Violão\)](https://open.spotify.com/album/5FITCXCCV96scIxzzeLBuI) | 3:55 |
 | 14 | [Aclame Ao Senhor](https://open.spotify.com/track/2htH5qQj7CihxAUifwvvWi) | [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Aclame Ao Sehnor](https://open.spotify.com/album/3bQ1jEclLAW8GtBFBa9Php) | 4:36 |
-| 15 | [Emanuel](https://open.spotify.com/track/35iw6IUqq1E5k1h9P0xfhR) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [Emanuel](https://open.spotify.com/album/3fr0LeKrr6xCgzCoZlFCqi) | 4:39 |
-| 16 | [Lindo És \(Beauty, Beauty\)](https://open.spotify.com/track/2yxJ5NkW9MoibplQAO0pPN) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ) | [Lindo És \(Beauty, Beauty\)](https://open.spotify.com/album/5ZUk82kpURcxXt1x2ShAZX) | 4:58 |
-| 17 | [O Nome de Jesus \- Acústico Ao Vivo](https://open.spotify.com/track/0RYH0i4FQkqJoyCrJC81Zz) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP), [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Comunhão e Adoração 6 \(Acústico Ao Vivo\)](https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ) | 4:05 |
+| 15 | [O Nome de Jesus \- Acústico Ao Vivo](https://open.spotify.com/track/0RYH0i4FQkqJoyCrJC81Zz) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP), [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Comunhão e Adoração 6 \(Acústico Ao Vivo\)](https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ) | 4:05 |
+| 16 | [Emanuel](https://open.spotify.com/track/35iw6IUqq1E5k1h9P0xfhR) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [Emanuel](https://open.spotify.com/album/3fr0LeKrr6xCgzCoZlFCqi) | 4:39 |
+| 17 | [Lindo És \(Beauty, Beauty\)](https://open.spotify.com/track/2yxJ5NkW9MoibplQAO0pPN) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ) | [Lindo És \(Beauty, Beauty\)](https://open.spotify.com/album/5ZUk82kpURcxXt1x2ShAZX) | 4:58 |
 | 18 | [Redenção](https://open.spotify.com/track/1zqYwPjbHG9klWeR3Q28OG) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Viva](https://open.spotify.com/album/62xmf2as0ezc3sb0zj5Da0) | 4:35 |
 | 19 | [Jesus Te Amamos \(feat\. Nívea Soares\)](https://open.spotify.com/track/40VfGWKp45JemcR9NWY13U) | [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Novamente](https://open.spotify.com/album/0ibQw0V0Y9WfFMWZdIwTJe) | 6:58 |
 | 20 | [Nosso Natal](https://open.spotify.com/track/59a4WSUh9OPf1CzGfuJjE3) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [André Cavalcante](https://open.spotify.com/artist/7LNwdGKKXpM9DXEx3TagtG), [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF), [Ramon e Rafael](https://open.spotify.com/artist/0ivA4QP4IYhr99InHqVOLV), [Jake Trevisan](https://open.spotify.com/artist/62TyTZv47kAsgT5yoqrTDy) | [Nosso Natal](https://open.spotify.com/album/0evesoYPLqjpaYx6D5Y6bW) | 9:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 49 | [Noite de Paz](https://open.spotify.com/track/2wiRFWjjmgzWRjmg4qUdS1) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Jeanne Mascarenhas](https://open.spotify.com/artist/1yGmI1ZztrHtndLgHTnz9J) | [Noite de Paz](https://open.spotify.com/album/385673vVXabsOzy5GjDQzn) | 4:01 |
 | 50 | [Vem Chegando o Natal](https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5) | [Perlla](https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK) | [Noite de Paz \- Canções para Celebrar](https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1) | 3:13 |
 
-Snapshot ID: `MCw4OGZjYWExZGMxNzgzNmNmM2FhMzdjMWEwZmZkYjYyNzRkZGU3NTUx`
+Snapshot ID: `MCw0OGY1MGYwMTY4ODQxZmUwMTllZGFiZTljMjMwMzdkNzEwMzYzYjgy`

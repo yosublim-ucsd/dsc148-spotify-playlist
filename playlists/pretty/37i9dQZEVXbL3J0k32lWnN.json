@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 208116,
+  "num_followers": 208154,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzY0NjQ0ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzY0NzMxMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Bellevue (feat. D1MA)",
         "url": "https://open.spotify.com/album/50IEh2Bx2YFfznWBjCA6Pe"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/6EXV782Zpktyx9NvcwkYN5"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Alt Det (feat. Noah Carter)",
         "url": "https://open.spotify.com/album/561WRtqToj8ILZEkDXkfqm"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/1knZ2cJRHNUeEidZvhypRm"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Noahs Ark",
         "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/7JfLdwhVW1Ul6CF5KFeyPe"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -93,7 +93,23 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
+    {
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Kiko Club",
         "url": "https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK"
@@ -113,71 +129,7 @@
       "url": "https://open.spotify.com/track/742ldXChILBv6QeqaXoOWi"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
-    },
-    {
-      "added_at": "2024-03-24 09:19:46",
-      "album": {
-        "name": "Det Modsatte",
-        "url": "https://open.spotify.com/album/7CEuiEBEyYDn9eXAyu1Jb8"
-      },
-      "artists": [
-        {
-          "name": "Mumle",
-          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
-        }
-      ],
-      "duration_ms": 201863,
-      "name": "Det Modsatte",
-      "url": "https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV"
-    },
-    {
-      "added_at": "2024-03-24 09:19:46",
-      "album": {
-        "name": "Knuser Hjerter",
-        "url": "https://open.spotify.com/album/00Z4rtj9djfU5graftXlEU"
-      },
-      "artists": [
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 207020,
-      "name": "Knuser Hjerter",
-      "url": "https://open.spotify.com/track/6KliOBbtUUSwHHFjDzYVPe"
-    },
-    {
-      "added_at": "2024-03-24 09:19:46",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Noahs Ark",
         "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
@@ -197,39 +149,55 @@
       "url": "https://open.spotify.com/track/3X6DHQxD7T4eZTsRKYfU2l"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd"
+        "name": "Knuser Hjerter",
+        "url": "https://open.spotify.com/album/00Z4rtj9djfU5graftXlEU"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
         }
       ],
-      "duration_ms": 235636,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq"
+      "duration_ms": 207020,
+      "name": "Knuser Hjerter",
+      "url": "https://open.spotify.com/track/6KliOBbtUUSwHHFjDzYVPe"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
-        "name": "I KNOW",
-        "url": "https://open.spotify.com/album/5DjM5MJoima73xcyXJ1mkG"
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
       "artists": [
         {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 189473,
-      "name": "I KNOW",
-      "url": "https://open.spotify.com/track/3aQzeklWllLWZSH4xk7Udj"
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
+      "album": {
+        "name": "Det Modsatte",
+        "url": "https://open.spotify.com/album/7CEuiEBEyYDn9eXAyu1Jb8"
+      },
+      "artists": [
+        {
+          "name": "Mumle",
+          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
+        }
+      ],
+      "duration_ms": 201863,
+      "name": "Det Modsatte",
+      "url": "https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV"
+    },
+    {
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "MGP 2024",
         "url": "https://open.spotify.com/album/3Av5h0fGOEkZ71t2McMWay"
@@ -245,43 +213,55 @@
       "url": "https://open.spotify.com/track/6crE5bktd0Kr3ihxQ4ZWpt"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
-        "name": "Sent",
-        "url": "https://open.spotify.com/album/2IchXZECJXUQYmD0o49uwU"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        },
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 154565,
-      "name": "Sent",
-      "url": "https://open.spotify.com/track/2zbr6Jls3FE4JCtLwCPD5N"
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
-        "name": "Noahs Ark",
-        "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd"
       },
       "artists": [
         {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 163482,
-      "name": "Noahs Ark",
-      "url": "https://open.spotify.com/track/1oFufzMNXwA5ZTAG6nrZqJ"
+      "duration_ms": 235636,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
+      "album": {
+        "name": "I KNOW",
+        "url": "https://open.spotify.com/album/5DjM5MJoima73xcyXJ1mkG"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "I KNOW",
+      "url": "https://open.spotify.com/track/3aQzeklWllLWZSH4xk7Udj"
+    },
+    {
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Noahs Ark",
         "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
@@ -297,7 +277,7 @@
       "url": "https://open.spotify.com/track/2Nsbcnwb1sSYtujPzzLOMa"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -313,7 +293,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Noahs Ark",
         "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
@@ -333,39 +313,27 @@
       "url": "https://open.spotify.com/track/7fwFV39b75w52PrBqM7OAT"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+        "name": "Sent",
+        "url": "https://open.spotify.com/album/2IchXZECJXUQYmD0o49uwU"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2024-03-24 09:19:46",
-      "album": {
-        "name": "Kiko Club",
-        "url": "https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK"
-      },
-      "artists": [
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        },
         {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
         }
       ],
-      "duration_ms": 183332,
-      "name": "Skarpt Lys",
-      "url": "https://open.spotify.com/track/2ReomS91v9imlj7ZzzEKqu"
+      "duration_ms": 154565,
+      "name": "Sent",
+      "url": "https://open.spotify.com/track/2zbr6Jls3FE4JCtLwCPD5N"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Noahs Ark",
         "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
@@ -385,7 +353,7 @@
       "url": "https://open.spotify.com/track/0k3jXjQKJL7IWhyvxog1jT"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Danser Med D\u00e6moner",
         "url": "https://open.spotify.com/album/0ylIK3wZr5wKMixNJxrqNy"
@@ -405,7 +373,47 @@
       "url": "https://open.spotify.com/track/5BKvRShfSfa1phRGEKkSvb"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 267706,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
+    },
+    {
+      "added_at": "2024-03-25 10:59:50",
+      "album": {
+        "name": "Kiko Club",
+        "url": "https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 183332,
+      "name": "Skarpt Lys",
+      "url": "https://open.spotify.com/track/2ReomS91v9imlj7ZzzEKqu"
+    },
+    {
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "MELLEM HIMMEL & JORD",
         "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
@@ -421,7 +429,23 @@
       "url": "https://open.spotify.com/track/1UTeDUAusifkVapsAZxbSc"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
+      "album": {
+        "name": "Noahs Ark",
+        "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "duration_ms": 161845,
+      "name": "winwin",
+      "url": "https://open.spotify.com/track/2MhRuxH6pJKQ0E3xcsLEaZ"
+    },
+    {
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "MELLEM HIMMEL & JORD",
         "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
@@ -437,7 +461,7 @@
       "url": "https://open.spotify.com/track/2TJwLuMXC0CZHmz5AgxELA"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Noahs Ark",
         "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
@@ -469,7 +493,7 @@
       "url": "https://open.spotify.com/track/50kvRbk8GLtPtgxoMeasSK"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Noahs Ark",
         "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
@@ -480,32 +504,12 @@
           "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
         }
       ],
-      "duration_ms": 161845,
-      "name": "winwin",
-      "url": "https://open.spotify.com/track/2MhRuxH6pJKQ0E3xcsLEaZ"
+      "duration_ms": 163482,
+      "name": "Noahs Ark",
+      "url": "https://open.spotify.com/track/1oFufzMNXwA5ZTAG6nrZqJ"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
-      "album": {
-        "name": "B\u00e6nkevarmer",
-        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
-      },
-      "artists": [
-        {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
-        },
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
-        }
-      ],
-      "duration_ms": 186242,
-      "name": "Jeg Ka' Rigtig Godt Li' Dig (feat. andreas odbjerg)",
-      "url": "https://open.spotify.com/track/5Zll07pbDGEStWriPWKwuP"
-    },
-    {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Dansktop",
         "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
@@ -521,47 +525,7 @@
       "url": "https://open.spotify.com/track/5dNSfOZb6AlEF0Xg6C970o"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
-      "album": {
-        "name": "WE DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 267706,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
-    },
-    {
-      "added_at": "2024-03-24 09:19:46",
-      "album": {
-        "name": "Godth\u00e5bsvej",
-        "url": "https://open.spotify.com/album/581IN0Iz7N7SgblmQrs2ty"
-      },
-      "artists": [
-        {
-          "name": "URO",
-          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
-        }
-      ],
-      "duration_ms": 199352,
-      "name": "Godth\u00e5bsvej",
-      "url": "https://open.spotify.com/track/5AmFAxI481dXAPtOZmXxgo"
-    },
-    {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
@@ -593,7 +557,7 @@
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
@@ -609,7 +573,23 @@
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
+      "album": {
+        "name": "Godth\u00e5bsvej",
+        "url": "https://open.spotify.com/album/581IN0Iz7N7SgblmQrs2ty"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        }
+      ],
+      "duration_ms": 199352,
+      "name": "Godth\u00e5bsvej",
+      "url": "https://open.spotify.com/track/5AmFAxI481dXAPtOZmXxgo"
+    },
+    {
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Noahs Ark",
         "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
@@ -625,7 +605,67 @@
       "url": "https://open.spotify.com/track/2LoVn1kIday8BUmNxeFEQL"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
+      "album": {
+        "name": "B\u00e6nkevarmer",
+        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
+      },
+      "artists": [
+        {
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+        },
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "duration_ms": 186242,
+      "name": "Jeg Ka' Rigtig Godt Li' Dig (feat. andreas odbjerg)",
+      "url": "https://open.spotify.com/track/5Zll07pbDGEStWriPWKwuP"
+    },
+    {
+      "added_at": "2024-03-25 10:59:50",
+      "album": {
+        "name": "F\u00f8les Godt",
+        "url": "https://open.spotify.com/album/4qe6zKD6u4d4PdmjKqq0bX"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        },
+        {
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+        }
+      ],
+      "duration_ms": 170611,
+      "name": "F\u00f8les Godt (feat. Mekdes)",
+      "url": "https://open.spotify.com/track/6OSHB3gKDyYTNNmCiOlpIc"
+    },
+    {
+      "added_at": "2024-03-25 10:59:50",
+      "album": {
+        "name": "MELLEM HIMMEL & JORD",
+        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        },
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "duration_ms": 163545,
+      "name": "Ud Af Hovedet (feat. ICEKIID)",
+      "url": "https://open.spotify.com/track/5f4wCcBdSHI5SxlfU2cpNI"
+    },
+    {
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Intet Nyt (feat. Gilli)",
         "url": "https://open.spotify.com/album/1CJ1RiMGtZkcEP5xJYJ25n"
@@ -645,7 +685,39 @@
       "url": "https://open.spotify.com/track/4Bmua8zRMOEaqV45JbmhAH"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
+      "album": {
+        "name": "Halsk\u00e6de",
+        "url": "https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        }
+      ],
+      "duration_ms": 157373,
+      "name": "Halsk\u00e6de",
+      "url": "https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID"
+    },
+    {
+      "added_at": "2024-03-25 10:59:50",
+      "album": {
+        "name": "EV1GT&ALT1D",
+        "url": "https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 197043,
+      "name": "MOONLIGHT",
+      "url": "https://open.spotify.com/track/3neYAjvKDOfvBUpIgReOkC"
+    },
+    {
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -669,27 +741,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
-      "album": {
-        "name": "MELLEM HIMMEL & JORD",
-        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        },
-        {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
-        }
-      ],
-      "duration_ms": 163545,
-      "name": "Ud Af Hovedet (feat. ICEKIID)",
-      "url": "https://open.spotify.com/track/5f4wCcBdSHI5SxlfU2cpNI"
-    },
-    {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "nu hvor vi er her",
         "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
@@ -709,43 +761,7 @@
       "url": "https://open.spotify.com/track/5yiJTfrtlzDsVMDshFLUna"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
-      "album": {
-        "name": "F\u00f8les Godt",
-        "url": "https://open.spotify.com/album/4qe6zKD6u4d4PdmjKqq0bX"
-      },
-      "artists": [
-        {
-          "name": "URO",
-          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
-        },
-        {
-          "name": "Mekdes",
-          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
-        }
-      ],
-      "duration_ms": 170611,
-      "name": "F\u00f8les Godt (feat. Mekdes)",
-      "url": "https://open.spotify.com/track/6OSHB3gKDyYTNNmCiOlpIc"
-    },
-    {
-      "added_at": "2024-03-24 09:19:46",
-      "album": {
-        "name": "EV1GT&ALT1D",
-        "url": "https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw"
-      },
-      "artists": [
-        {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
-        }
-      ],
-      "duration_ms": 197043,
-      "name": "MOONLIGHT",
-      "url": "https://open.spotify.com/track/3neYAjvKDOfvBUpIgReOkC"
-    },
-    {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
@@ -761,23 +777,23 @@
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
-        "name": "Halsk\u00e6de",
-        "url": "https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq"
+        "name": "Noahs Ark",
+        "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
       },
       "artists": [
         {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
         }
       ],
-      "duration_ms": 157373,
-      "name": "Halsk\u00e6de",
-      "url": "https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID"
+      "duration_ms": 172006,
+      "name": "Ku Ha V\u00e6ret Outroen",
+      "url": "https://open.spotify.com/track/7ztHhWxCiO3keWbBeoRWNV"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
@@ -797,7 +813,39 @@
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
+      "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "added_at": "2024-03-25 10:59:50",
+      "album": {
+        "name": "Balaclava",
+        "url": "https://open.spotify.com/album/03R0VwOAvruUcU4S6C4VgE"
+      },
+      "artists": [
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "duration_ms": 149750,
+      "name": "Balaclava",
+      "url": "https://open.spotify.com/track/0GSoForoOEUELr6W30bDpp"
+    },
+    {
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Noahs Ark",
         "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
@@ -808,12 +856,32 @@
           "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
         }
       ],
-      "duration_ms": 172006,
-      "name": "Ku Ha V\u00e6ret Outroen",
-      "url": "https://open.spotify.com/track/7ztHhWxCiO3keWbBeoRWNV"
+      "duration_ms": 148418,
+      "name": "Ro",
+      "url": "https://open.spotify.com/track/2JaaNvYLDP7fTiECPQLo4v"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
+      "album": {
+        "name": "Tilf\u00e6ldigt (feat. D1MA)",
+        "url": "https://open.spotify.com/album/3Ngfa3iuBjLSwMdFE4m2ac"
+      },
+      "artists": [
+        {
+          "name": "Caroline Dubois",
+          "url": "https://open.spotify.com/artist/1l7Qv31AZtPOBuIF7xezqJ"
+        },
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 170573,
+      "name": "Tilf\u00e6ldigt (feat. D1MA)",
+      "url": "https://open.spotify.com/track/1F1I56Ye8w74inE5krVYF9"
+    },
+    {
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
@@ -849,23 +917,7 @@
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
-      "album": {
-        "name": "Balaclava",
-        "url": "https://open.spotify.com/album/03R0VwOAvruUcU4S6C4VgE"
-      },
-      "artists": [
-        {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
-        }
-      ],
-      "duration_ms": 149750,
-      "name": "Balaclava",
-      "url": "https://open.spotify.com/track/0GSoForoOEUELr6W30bDpp"
-    },
-    {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "N\u00e5r sj\u00e6len kaster op",
         "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
@@ -885,59 +937,7 @@
       "url": "https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH"
     },
     {
-      "added_at": "2024-03-24 09:19:46",
-      "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
-    },
-    {
-      "added_at": "2024-03-24 09:19:46",
-      "album": {
-        "name": "Noahs Ark",
-        "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
-      },
-      "artists": [
-        {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
-        }
-      ],
-      "duration_ms": 148418,
-      "name": "Ro",
-      "url": "https://open.spotify.com/track/2JaaNvYLDP7fTiECPQLo4v"
-    },
-    {
-      "added_at": "2024-03-24 09:19:46",
-      "album": {
-        "name": "Tilf\u00e6ldigt (feat. D1MA)",
-        "url": "https://open.spotify.com/album/3Ngfa3iuBjLSwMdFE4m2ac"
-      },
-      "artists": [
-        {
-          "name": "Caroline Dubois",
-          "url": "https://open.spotify.com/artist/1l7Qv31AZtPOBuIF7xezqJ"
-        },
-        {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
-        }
-      ],
-      "duration_ms": 170573,
-      "name": "Tilf\u00e6ldigt (feat. D1MA)",
-      "url": "https://open.spotify.com/track/1F1I56Ye8w74inE5krVYF9"
-    },
-    {
-      "added_at": "2024-03-24 09:19:46",
+      "added_at": "2024-03-25 10:59:50",
       "album": {
         "name": "Varm",
         "url": "https://open.spotify.com/album/32LP4nRRLtUfAlhezFc2LD"

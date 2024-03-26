@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-459 songs - 1 day 6 hr 3 min
+460 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [sweetener](https://open.spotify.com/track/70khXICDeTTxgYtw3EysKH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:28 | 2024-01-29 |  |
 | [T.D \(Lil Yachty & Tierra Whack feat\. A$AP Rocky & Tyler, The Creator\)](https://open.spotify.com/track/0gO3E51A3fqp0ypJ26QbVP) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Lil Boat 3](https://open.spotify.com/album/2CYr9450iYkEWq4IWL8plY) | 3:52 | 2024-01-29 |  |
 | [Take It From Here](https://open.spotify.com/track/0qpCwx9VYn7yR3d3YdT5Wd) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 6:14 | 2024-01-29 |  |
-| [Take It Off \(Dim The Lights\)](https://open.spotify.com/track/3xyknHSrdlYkvJNpQx2Vsr) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 4:07 | 2024-02-26 |  |
+| [Take It Off \(Dim The Lights\)](https://open.spotify.com/track/3xyknHSrdlYkvJNpQx2Vsr) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 4:07 | 2024-02-26 | 2024-03-26 |
 | [Take Me Higher](https://open.spotify.com/track/5hLXpILJlmWc1Gn7vYh7ho) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [On Earth, and in Heaven](https://open.spotify.com/album/5xDfo5P0vSP0xIt6toSmGL) | 4:04 | 2024-01-29 |  |
 | [Take Ya Home](https://open.spotify.com/track/6GdX30E1389PWOcayiiPQE) | [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA) | [Doggy Bag](https://open.spotify.com/album/3QYnKegTMFDSwUPE6r17db) | 3:59 | 2024-01-29 |  |
 | [Tamagotchi](https://open.spotify.com/track/7sg9kDT8H2P0wPACXnWRdN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:48 | 2024-01-29 |  |
@@ -413,6 +413,7 @@
 | [The Night Before Christmas Song](https://open.spotify.com/track/7e2uGyRULGE43zolDDWhU2) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs), [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Rudolph The Red Nosed Reindeer And Other Christmas Classics](https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM) | 2:48 | 2024-01-29 |  |
 | [The Turn Down](https://open.spotify.com/track/5GRQNKS6OycF2szRJjknI7) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 2:29 | 2024-01-29 |  |
 | [The Unicorn Song \- From The Despicable Me Soundtrack](https://open.spotify.com/track/0rsbxP7iy8QJZSEU9lbU2Y) | [Agnes](https://open.spotify.com/artist/2RgQeO9accs4W4KVcq0Skm) | [Despicable Me](https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m) | 2:08 | 2024-03-16 |  |
+| [The Way She Dances](https://open.spotify.com/track/1uQrjTeNvSm5XwsiVBoTG4) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Fly Or Die](https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4) | 4:05 | 2024-03-25 |  |
 | [The Worst](https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 4:14 | 2024-01-29 |  |
 | [There She Goes](https://open.spotify.com/track/7dO7S7cAUqTUiVRqQ2v9zh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 4:31 | 2024-01-29 |  |
 | [There's Something Special](https://open.spotify.com/track/3yzut0D9lkugZZvqzEHIXC) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [There's Something Special \[\(Despicable Me 3 Original Motion Picture Soundtrack\) \- Video\]](https://open.spotify.com/album/6QUWA9UCQLLKNFduT7g8fL) | 2:33 | 2024-01-30 | 2024-02-01 |

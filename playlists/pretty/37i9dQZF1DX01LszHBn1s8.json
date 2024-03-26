@@ -1,29 +1,13 @@
 {
   "description": "i'm just a girl updating a playlist",
-  "num_followers": 248489,
+  "num_followers": 248789,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2Y2MTkwZmRlMGIwNDRhYWQ1ZmI2MGUyNzAwMzllYjY5ZjY5NWZj",
+  "snapshot_id": "MCxhMTM5OGUzYzgzNWJlNzI2MDRmM2EzODQzOWIxNTc0ZjNiNDc3NDVi",
   "tracks": [
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -73,36 +73,36 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-03-21 23:00:00",
+      "added_at": "2024-03-25 08:45:04",
       "album": {
-        "name": "GUTS (spilled)",
-        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
+        "name": "someday i'll get it",
+        "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Alek Olsen",
+          "url": "https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8"
         }
       ],
-      "duration_ms": 170541,
-      "name": "obsessed",
-      "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
+      "duration_ms": 94750,
+      "name": "someday i'll get it",
+      "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
     },
     {
-      "added_at": "2024-03-20 15:54:17",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "As Long As You\u2019re Here (Young Royals Remix)",
-        "url": "https://open.spotify.com/album/2LxgqfXXCD8qJJm1yIRzXQ"
+        "name": "RMCM",
+        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
       },
       "artists": [
         {
-          "name": "Moyka",
-          "url": "https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ"
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
         }
       ],
-      "duration_ms": 210000,
-      "name": "As Long As You\u2019re Here - Young Royals Remix",
-      "url": "https://open.spotify.com/track/29HY0czVeZzgSUvdF4VSPu"
+      "duration_ms": 87000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Barbie The Album",
-        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+        "name": "Still the one",
+        "url": "https://open.spotify.com/album/7fsBNhZshWlYMVyTrm00XV"
       },
       "artists": [
         {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+          "name": "Bj\u00f6rn Gustafsson",
+          "url": "https://open.spotify.com/artist/488cj6lweUKYoeDENEOTrv"
         }
       ],
-      "duration_ms": 222633,
-      "name": "I'm Just Ken",
-      "url": "https://open.spotify.com/track/3zXIvb4nZ3cTdT8CsbTy3U"
+      "duration_ms": 178791,
+      "name": "Still the one",
+      "url": "https://open.spotify.com/track/3VIWpZLeOxeexXkF2hBKwA"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -168,25 +168,45 @@
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 169717,
-      "name": "so american",
-      "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"
+      "duration_ms": 170541,
+      "name": "obsessed",
+      "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
     },
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Still the one",
-        "url": "https://open.spotify.com/album/7fsBNhZshWlYMVyTrm00XV"
+        "name": "if u think i'm pretty",
+        "url": "https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u"
       },
       "artists": [
         {
-          "name": "Bj\u00f6rn Gustafsson",
-          "url": "https://open.spotify.com/artist/488cj6lweUKYoeDENEOTrv"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 178791,
-      "name": "Still the one",
-      "url": "https://open.spotify.com/track/3VIWpZLeOxeexXkF2hBKwA"
+      "duration_ms": 128205,
+      "name": "if u think i'm pretty",
+      "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
+    },
+    {
+      "added_at": "2024-03-25 08:45:04",
+      "album": {
+        "name": "Lady Killers II (Christoph Andersson Remix)",
+        "url": "https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Christoph Andersson",
+          "url": "https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED"
+        }
+      ],
+      "duration_ms": 297794,
+      "name": "Lady Killers II (Christoph Andersson Remix)",
+      "url": "https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -237,20 +257,52 @@
       "url": "https://open.spotify.com/track/1LB3r7Nn2PE4spye87VjHp"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-25 12:06:44",
       "album": {
-        "name": "if u think i'm pretty",
-        "url": "https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u"
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 128205,
-      "name": "if u think i'm pretty",
-      "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
+    },
+    {
+      "added_at": "2024-03-20 15:54:17",
+      "album": {
+        "name": "As Long As You\u2019re Here (Young Royals Remix)",
+        "url": "https://open.spotify.com/album/2LxgqfXXCD8qJJm1yIRzXQ"
+      },
+      "artists": [
+        {
+          "name": "Moyka",
+          "url": "https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "As Long As You\u2019re Here - Young Royals Remix",
+      "url": "https://open.spotify.com/track/29HY0czVeZzgSUvdF4VSPu"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        }
+      ],
+      "duration_ms": 222633,
+      "name": "I'm Just Ken",
+      "url": "https://open.spotify.com/track/3zXIvb4nZ3cTdT8CsbTy3U"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -267,22 +319,6 @@
       "duration_ms": 235636,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "RMCM",
-        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
-      },
-      "artists": [
-        {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-        }
-      ],
-      "duration_ms": 87000,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
     },
     {
       "added_at": "2024-03-14 23:00:00",

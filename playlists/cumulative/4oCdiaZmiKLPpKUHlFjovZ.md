@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Babyface Ray, Money Man &amp; Young Dolph x Key Glock.
 
-74 songs - 3 hr 8 min
+76 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [310degrees](https://open.spotify.com/track/1f1R24tV7tx0464MCz4U9C) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [nights and weekends](https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ) | 1:05 | 2024-02-24 |  |
 | [4Lifers](https://open.spotify.com/track/3FYPMqQbbOZ1WzCztLeLBp) | [Yatta Bandz](https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK) | [4Lifers](https://open.spotify.com/album/3JPfULI1qFfTfdTA3R5GCV) | 2:15 | 2023-08-07 | 2024-03-05 |
 | [Access Granted](https://open.spotify.com/track/3DG8BACcLZTelczHn3W8Hf) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Catch Me If You Can](https://open.spotify.com/album/4l2DlHC3hnZlhpu7SxGYUR) | 2:01 | 2023-09-28 |  |
+| [All Love](https://open.spotify.com/track/7qiqChGX27g39lIhBWZKGK) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [All Love](https://open.spotify.com/album/1HBEA5Xw6jOhKyjVaWlsdL) | 2:02 | 2024-03-25 |  |
 | [All Star Team](https://open.spotify.com/track/1XymOhvY6pThNXJWYzP5h0) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [All Star Team](https://open.spotify.com/album/3cAqYBlosbQg5TmcKu6qjf) | 1:47 | 2023-06-16 |  |
 | [Alpha Bay](https://open.spotify.com/track/2RpFhFj8UsIyd7d5v2EZa9) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [CROPTOBER](https://open.spotify.com/album/19JHhDgdHmp1v4eWBP1TZU) | 2:04 | 2023-10-30 | 2024-01-20 |
 | [Amapiano](https://open.spotify.com/track/1YgIvHDTvi1vosins1jyAC) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:45 | 2024-01-12 |  |
@@ -43,6 +44,7 @@
 | [Get Off](https://open.spotify.com/track/1Pk5l0MYcmMlFG5XS9VGsK) | [Pretty Brayah](https://open.spotify.com/artist/04T13CNEP9VzNd4jMNQrQb) | [Get Off](https://open.spotify.com/album/36osWrlEhL8GT8IwreDLEM) | 2:33 | 2023-09-28 |  |
 | [Green Carpet](https://open.spotify.com/track/4OYy7dfHbLKi4lvpzpzeRv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Green Carpet](https://open.spotify.com/album/7MZCu883H2Y7Br2K9Wd3Ef) | 2:13 | 2024-03-04 |  |
 | [Hard To Handle](https://open.spotify.com/track/3N4LtsPwD5TikEeEIq1m9a) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hard To Handle](https://open.spotify.com/album/1itz9psxuHakXi5iVap9Hr) | 3:35 | 2023-08-18 |  |
+| [Hot Sauce](https://open.spotify.com/track/5Lt20ho1AmhFJt56F1M7dS) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Hot Sauce](https://open.spotify.com/album/2WuTEjbwU7oIc0rFOFVVAV) | 2:15 | 2024-03-25 |  |
 | [KAPITOL DENIM](https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FLAWLESS LIKE ME](https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS) | 1:57 | 2024-01-19 |  |
 | [Leave Her](https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Leave Her](https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc) | 2:17 | 2023-04-28 |  |
 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 | 2023-06-23 | 2024-01-20 |

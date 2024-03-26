@@ -1,12 +1,12 @@
 {
   "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
-  "num_followers": 34523,
+  "num_followers": 34528,
   "original_name": "This Is Capcom Sound Team",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmFlOWFlY2I0YmI3NGI2MDUzZTNjYzhjZDJkMjExN2ZkZWUzNTFi",
+  "snapshot_id": "MCw5ZDM3ODI4YzM3YTYwNmQzMjZjYTBiNjA5NzdiNWEzMTUwZWI1Nzgw",
   "tracks": [
     {
       "added_at": "2021-06-30 15:18:23",
@@ -119,22 +119,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "Resident Evil 4 Sound Collection",
-        "url": "https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY"
-      },
-      "artists": [
-        {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
-        }
-      ],
-      "duration_ms": 81426,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/14gmEW2jRMFzBnj3Fo8ZLZ"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "RESIDENT EVIL 7 biohazard Original Soundtrack",
         "url": "https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 174998,
       "name": "Go Tell Aunt Rhody -Resident Evil- - Full Version",
       "url": "https://open.spotify.com/track/6eHVQKLIHMF7mei6j1gbBM"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "Resident Evil 4 Sound Collection",
+        "url": "https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "duration_ms": 81426,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/14gmEW2jRMFzBnj3Fo8ZLZ"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -291,18 +291,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "STREET FIGHTER V ARCADE EDITION ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/4wx1coZnnXhhoCGBicDWFa"
+        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq"
       },
       "artists": [
         {
-          "name": "Masahiro Aoki",
-          "url": "https://open.spotify.com/artist/7jFdaWMEhqH0728GasEiki"
+          "name": "Masakazu Sugimori",
+          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
         }
       ],
-      "duration_ms": 252133,
-      "name": "Theme of Guile",
-      "url": "https://open.spotify.com/track/3dR4J0QqEyUSJCLx7xt3tO"
+      "duration_ms": 161133,
+      "name": "\u7dbe\u91cc\u771f\u5bb5 \u301c\u9006\u8ee2\u59c9\u59b9\u306e\u30c6\u30fc\u30de 2001",
+      "url": "https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -323,18 +323,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq"
+        "name": "STREET FIGHTER V ARCADE EDITION ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/4wx1coZnnXhhoCGBicDWFa"
       },
       "artists": [
         {
-          "name": "Masakazu Sugimori",
-          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
+          "name": "Masahiro Aoki",
+          "url": "https://open.spotify.com/artist/7jFdaWMEhqH0728GasEiki"
         }
       ],
-      "duration_ms": 161133,
-      "name": "\u7dbe\u91cc\u771f\u5bb5 \u301c\u9006\u8ee2\u59c9\u59b9\u306e\u30c6\u30fc\u30de 2001",
-      "url": "https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e"
+      "duration_ms": 252133,
+      "name": "Theme of Guile",
+      "url": "https://open.spotify.com/track/3dR4J0QqEyUSJCLx7xt3tO"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -419,22 +419,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "Devil May Cry 4 Original Soundtrack",
-        "url": "https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT"
-      },
-      "artists": [
-        {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
-        }
-      ],
-      "duration_ms": 231213,
-      "name": "The Time Has Come (Nero's Combat)",
-      "url": "https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "MEGA MAN X3 SOUND COLLECTION",
         "url": "https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 142853,
       "name": "Ripples in the Calm",
       "url": "https://open.spotify.com/track/1YkcXwQKOKJEILbvflSe2n"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "Devil May Cry 4 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "The Time Has Come (Nero's Combat)",
+      "url": "https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "MEGA MAN X3 SOUND COLLECTION",
-        "url": "https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK"
-      },
-      "artists": [
-        {
-          "name": "Kinuyo Yamashita",
-          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
-        }
-      ],
-      "duration_ms": 114160,
-      "name": "GRAVITY BEETBOOD STAGE",
-      "url": "https://open.spotify.com/track/1n8n4H2nn4pr6g4UE9ZBgg"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "MEGAMAN 11 Original Soundtrack",
         "url": "https://open.spotify.com/album/3H6eQfGMjmwJ6JCO22t2hx"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 183986,
       "name": "Dr. Wily Stage",
       "url": "https://open.spotify.com/track/23zLcVodVC5TkZ1tcNon15"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "MEGA MAN X3 SOUND COLLECTION",
+        "url": "https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK"
+      },
+      "artists": [
+        {
+          "name": "Kinuyo Yamashita",
+          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
+        }
+      ],
+      "duration_ms": 114160,
+      "name": "GRAVITY BEETBOOD STAGE",
+      "url": "https://open.spotify.com/track/1n8n4H2nn4pr6g4UE9ZBgg"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -631,6 +631,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "\u6226\u56fdBASARA \u897f\u8ecdBEST",
+        "url": "https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD"
+      },
+      "artists": [
+        {
+          "name": "T\u2019s MUSIC",
+          "url": "https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "\u9577\u66fe\u6211\u90e8\u5143\u89aa\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/2kDR0tn8wc11wetaxGtntt"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "E.X.TROOPERS - END OF CONVERSATION",
         "url": "https://open.spotify.com/album/5hHmRqbgktyVUM4OdUVG1F"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 298874,
       "name": "\u89e3\u653e\u30ec\u30be\u30ca\u30f3\u30b9 The Soar",
       "url": "https://open.spotify.com/track/60o03jgMfwbnjqLItcPcTa"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "\u6226\u56fdBASARA \u897f\u8ecdBEST",
-        "url": "https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD"
-      },
-      "artists": [
-        {
-          "name": "T\u2019s MUSIC",
-          "url": "https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "\u9577\u66fe\u6211\u90e8\u5143\u89aa\u306e\u30c6\u30fc\u30de",
-      "url": "https://open.spotify.com/track/2kDR0tn8wc11wetaxGtntt"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -715,6 +715,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7ruGj7abeKNiq1nROX0uC7"
+      },
+      "artists": [
+        {
+          "name": "Saori Maeda",
+          "url": "https://open.spotify.com/artist/3Ud7woLRk2efj0q3D2lCzm"
+        }
+      ],
+      "duration_ms": 126280,
+      "name": "Free From Fear",
+      "url": "https://open.spotify.com/track/2oaGI3bHKl9kXaBLfcIJwi"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcV \u30a8\u30af\u30b9\u30d1\u30f3\u30b7\u30e7\u30f3 \u30c8\u30e9\u30c3\u30af\u30b9 2",
         "url": "https://open.spotify.com/album/5d7L0BCzlNQhXPhn6XW7YZ"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 108160,
       "name": "Ryu's Theme -The Fist That Knows No End-",
       "url": "https://open.spotify.com/track/4vEztJsa9I5aTb9dPh2onZ"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "\u6226\u56fdBASARA \u897f\u8ecdBEST",
-        "url": "https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD"
-      },
-      "artists": [
-        {
-          "name": "T\u2019s MUSIC",
-          "url": "https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V"
-        }
-      ],
-      "duration_ms": 109706,
-      "name": "\u4e0a\u7530\u5408\u6226",
-      "url": "https://open.spotify.com/track/2pmeO8bvihl5LQUmwyWA7v"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -772,22 +772,6 @@
       },
       "artists": [
         {
-          "name": "Saori Maeda",
-          "url": "https://open.spotify.com/artist/3Ud7woLRk2efj0q3D2lCzm"
-        }
-      ],
-      "duration_ms": 126280,
-      "name": "Free From Fear",
-      "url": "https://open.spotify.com/track/2oaGI3bHKl9kXaBLfcIJwi"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "Resident Evil 3 Special Soundtrack",
-        "url": "https://open.spotify.com/album/7ruGj7abeKNiq1nROX0uC7"
-      },
-      "artists": [
-        {
           "name": "Masami Ueda",
           "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
         }
@@ -795,6 +779,22 @@
       "duration_ms": 345666,
       "name": "Staff & Credits",
       "url": "https://open.spotify.com/track/5I9mTndwBm5xgxjGOxbIPs"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u6226\u56fdBASARA \u897f\u8ecdBEST",
+        "url": "https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD"
+      },
+      "artists": [
+        {
+          "name": "T\u2019s MUSIC",
+          "url": "https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V"
+        }
+      ],
+      "duration_ms": 109706,
+      "name": "\u4e0a\u7530\u5408\u6226",
+      "url": "https://open.spotify.com/track/2pmeO8bvihl5LQUmwyWA7v"
     },
     {
       "added_at": "2021-06-30 15:18:23",

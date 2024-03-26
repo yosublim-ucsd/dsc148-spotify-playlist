@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 97006,
+  "num_followers": 97020,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGNmYTcxOWM4NWVkZGZhMmNiZDhkOWZiNTFiZDY4OGJjYzNhNGZi",
+  "snapshot_id": "MCwyZmVhNDFkNjY4NGM0YzlkZmZkYTdlNmI4MzUxZDNjYThhMTBiNDgy",
   "tracks": [
     {
       "added_at": "2024-03-08 06:17:14",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
-        "name": "want YOU",
-        "url": "https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1"
-      },
-      "artists": [
-        {
-          "name": "Tabber",
-          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
-        }
-      ],
-      "duration_ms": 154803,
-      "name": "want YOU",
-      "url": "https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w"
-    },
-    {
-      "added_at": "2024-03-08 06:17:14",
-      "album": {
         "name": "Love Part 2",
         "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
       },
@@ -179,6 +163,22 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
+        "name": "want YOU",
+        "url": "https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1"
+      },
+      "artists": [
+        {
+          "name": "Tabber",
+          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
+        }
+      ],
+      "duration_ms": 154803,
+      "name": "want YOU",
+      "url": "https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w"
+    },
+    {
+      "added_at": "2024-03-08 06:17:14",
+      "album": {
         "name": "EXchange3, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq"
       },
@@ -195,6 +195,38 @@
       "duration_ms": 201160,
       "name": "On my mind",
       "url": "https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B"
+    },
+    {
+      "added_at": "2024-03-08 06:17:14",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 239002,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
+    },
+    {
+      "added_at": "2024-03-08 06:17:14",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "Empty Cup",
+      "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
     },
     {
       "added_at": "2024-03-08 06:17:14",
@@ -255,38 +287,6 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
-        "name": "CR\u00c8ME",
-        "url": "https://open.spotify.com/album/50OexC7HF7AMO8ypWaGvPd"
-      },
-      "artists": [
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
-        }
-      ],
-      "duration_ms": 116086,
-      "name": "Movies",
-      "url": "https://open.spotify.com/track/5EMGQPQI60jvyDjKT2Fn2I"
-    },
-    {
-      "added_at": "2024-03-08 06:17:14",
-      "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 239002,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
-    },
-    {
-      "added_at": "2024-03-08 06:17:14",
-      "album": {
         "name": "idealism",
         "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
       },
@@ -303,18 +303,34 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+        "name": "bath",
+        "url": "https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 139800,
-      "name": "Empty Cup",
-      "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
+      "duration_ms": 261705,
+      "name": "bath",
+      "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
+    },
+    {
+      "added_at": "2024-03-08 06:17:14",
+      "album": {
+        "name": "CR\u00c8ME",
+        "url": "https://open.spotify.com/album/50OexC7HF7AMO8ypWaGvPd"
+      },
+      "artists": [
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "duration_ms": 116086,
+      "name": "Movies",
+      "url": "https://open.spotify.com/track/5EMGQPQI60jvyDjKT2Fn2I"
     },
     {
       "added_at": "2024-03-08 06:17:14",
@@ -399,22 +415,6 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
-        "name": "bath",
-        "url": "https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 261705,
-      "name": "bath",
-      "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
-    },
-    {
-      "added_at": "2024-03-08 06:17:14",
-      "album": {
         "name": "grayground.",
         "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
@@ -443,6 +443,22 @@
       "duration_ms": 171333,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g"
+    },
+    {
+      "added_at": "2024-03-08 06:17:14",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 233958,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
     },
     {
       "added_at": "2024-03-08 06:17:14",
@@ -519,22 +535,6 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 233958,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
-    },
-    {
-      "added_at": "2024-03-08 06:17:14",
-      "album": {
         "name": "PEOPLE",
         "url": "https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 119401,
       "name": "but I'll wait for you",
       "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
+    },
+    {
+      "added_at": "2024-03-08 06:17:14",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 223141,
+      "name": "Moon, 12:04am",
+      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
     },
     {
       "added_at": "2024-03-08 06:17:14",
@@ -699,22 +715,6 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 223141,
-      "name": "Moon, 12:04am",
-      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
-    },
-    {
-      "added_at": "2024-03-08 06:17:14",
-      "album": {
         "name": "STILL YOUNG BOY L",
         "url": "https://open.spotify.com/album/0x9dXa3HhLBstlkyarka7Q"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
-        "name": "Black & White Film",
-        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 159386,
-      "name": "Black & White Film (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
-    },
-    {
-      "added_at": "2024-03-08 06:17:14",
-      "album": {
         "name": "Rose",
         "url": "https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6"
       },
@@ -871,6 +855,26 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
+        "name": "That's Why I Can't Talk About Love",
+        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
+      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
+    },
+    {
+      "added_at": "2024-03-08 06:17:14",
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -891,18 +895,18 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
-        "name": "ANTIRIVER",
-        "url": "https://open.spotify.com/album/6XDZyVUQriuOqCERhaqGlj"
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
       },
       "artists": [
         {
-          "name": "Jiwoo",
-          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         }
       ],
-      "duration_ms": 267048,
-      "name": "ANTIRIVER",
-      "url": "https://open.spotify.com/track/7DcKCWQ770DoNOIov3pVnb"
+      "duration_ms": 159386,
+      "name": "Black & White Film (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
     }
   ],
   "unique_name": "4:00 AM GROOVE",

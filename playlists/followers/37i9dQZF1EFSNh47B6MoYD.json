@@ -1,5 +1,5 @@
 {
-  "2024-03-25": 459,
+  "2024-03-26": 459,
   "date_first_scraped": "2023-03-10",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS\">Erika Ender</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Erika Ender",
@@ -1639,6 +1639,24 @@
       "duration_ms": 212760,
       "name": "La Pasi\u00f3n Tiene Memoria",
       "url": "https://open.spotify.com/track/72bB7XLsKN2B6EzMzNJILE"
+    },
+    {
+      "album": {
+        "name": "La Venganza",
+        "url": "https://open.spotify.com/album/6jpC8oHw1UC0MZLQVdnQPN"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170706,
+      "name": "La Venganza",
+      "url": "https://open.spotify.com/track/6b8rE8DorNNvfaEyBmcWlv"
     },
     {
       "album": {

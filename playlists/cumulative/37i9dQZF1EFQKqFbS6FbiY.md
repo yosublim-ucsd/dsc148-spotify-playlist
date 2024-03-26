@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-495 songs - 1 day 0 hr 9 min
+496 songs - 1 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [Me Deixa Quieto \(Ao Vivo\)](https://open.spotify.com/track/7d97Ajmy6ZHZYhGSjzLnZF) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [\#Nabebidaenasofrência, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/64oZoq8E6MTyBZGUnrSb9F) | 2:33 | 2023-12-30 |  |
 | [Me Faz Esquecer Dela](https://open.spotify.com/track/0FbL9YRC00Td0yvVYvk1tw) | [Guilherme Borges](https://open.spotify.com/artist/4D53Ic5ZfpC74aFGK62SHy) | [Me Faz Esquecer Dela](https://open.spotify.com/album/65ZgdJN7PXM0AsvDHBRsj8) | 2:48 | 2024-02-08 | 2024-02-10 |
 | [Me Faz Esquecer Dela](https://open.spotify.com/track/0TVRRAvrtEuDTYh9oGpOWc) | [Guilherme Borges](https://open.spotify.com/artist/4D53Ic5ZfpC74aFGK62SHy) | [Me Faz Esquecer Dela](https://open.spotify.com/album/3YSrAlcXNOq6WRoG8YT20m) | 2:48 | 2023-12-30 | 2024-01-27 |
-| [Me Faz Esquecer Dela](https://open.spotify.com/track/6ZXGXFbwZ97fWvXZbj5gWC) | [Guilherme Torres](https://open.spotify.com/artist/75qi8XDXYOFp4JtXEd7L99) | [Me Faz Esquecer Dela](https://open.spotify.com/album/3QkYjI7ACQAYUrTmzRAOd2) | 2:48 | 2024-02-09 |  |
+| [Me Faz Esquecer Dela](https://open.spotify.com/track/6ZXGXFbwZ97fWvXZbj5gWC) | [Guilherme Torres](https://open.spotify.com/artist/4D53Ic5ZfpC74aFGK62SHy) | [Me Faz Esquecer Dela](https://open.spotify.com/album/3QkYjI7ACQAYUrTmzRAOd2) | 2:48 | 2024-02-09 |  |
 | [Me Segurou \- Ao Vivo](https://open.spotify.com/track/5O7lcZWwATyq4s94uaBclA) | [Leo Chaves](https://open.spotify.com/artist/0FYpZOHSyfPpCSsLwydVbL), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Retorno \(Ao Vivo\)](https://open.spotify.com/album/0nuU23HeR7hFATG34c1mH4) | 2:47 | 2023-12-30 |  |
 | [Me Tira do Boteco \- Ao Vivo](https://open.spotify.com/track/7616yseW2cG2Zt5qgBzihG) | [Kleo Dibah](https://open.spotify.com/artist/5xduTT7FbesL8fMuEKIqtB) | [Me Tira do Boteco \(Ao Vivo\)](https://open.spotify.com/album/2dW8z4DHo4hqWG50FOpX9h) | 2:39 | 2023-12-30 |  |
 | [Me Tira do Grupo \- Ao Vivo](https://open.spotify.com/track/2lqrdSl5dovc2BFqcN0FpD) | [Duduca & Dalvan](https://open.spotify.com/artist/3EMOVqtPqnQBmzBFiaZzuS) | [O Regresso, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/5kMYy5OIJkwDkS4pFDX4wi) | 3:10 | 2023-12-30 |  |
@@ -404,7 +404,8 @@
 | [Sexo Frágil \- Ao Vivo](https://open.spotify.com/track/5ZwIuaCGWtsOxbSsJfSD7U) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Day e Lara \(...\) \[Ao Vivo\]](https://open.spotify.com/album/4ijQqGz1C1a8JtKBykhYsj) | 3:23 | 2023-12-30 |  |
 | [Sextazona](https://open.spotify.com/track/5jCLRfRHHQOZfvdftV1MVt) | [João Stelutti](https://open.spotify.com/artist/0hdEG1P4kfjPOn1N2LkrXa), [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS) | [Sextazona](https://open.spotify.com/album/6NqTgIUrbzfvwFCpNuQ98R) | 2:26 | 2023-12-30 |  |
 | [Sigo Iludido \- Ao Vivo](https://open.spotify.com/track/2WHhhSnr3befSWt1E8hW4G) | [Diego & Ramon](https://open.spotify.com/artist/4OgxwJz0WEilpnnmHLnCCR), [Bruno](https://open.spotify.com/artist/6xTE2Q6MPdXyS5FJ6JGURo) | [Sigo Iludido \(Ao Vivo\)](https://open.spotify.com/album/6jJVD2pkEqzisCaFNc7LBG) | 2:58 | 2023-12-30 |  |
-| [Sofrendo em Miami](https://open.spotify.com/track/7iijOlRf0Sl5a4hNXYE0un) | [Zezo](https://open.spotify.com/artist/5R18GNmvBWGTfBAG0Xy8WT) | [De Bar em Bar](https://open.spotify.com/album/7HfyH5xOczzNsv0oInGzyE) | 2:52 | 2023-12-30 |  |
+| [Sofrendo em Miami](https://open.spotify.com/track/45FnqISoTh9QrvbIBsZoIu) | [Zezo](https://open.spotify.com/artist/5R18GNmvBWGTfBAG0Xy8WT) | [De Bar em Bar](https://open.spotify.com/album/0MQKywXbkxQAjSHlVSvN03) | 2:52 | 2024-03-25 |  |
+| [Sofrendo em Miami](https://open.spotify.com/track/7iijOlRf0Sl5a4hNXYE0un) | [Zezo](https://open.spotify.com/artist/5R18GNmvBWGTfBAG0Xy8WT) | [De Bar em Bar](https://open.spotify.com/album/7HfyH5xOczzNsv0oInGzyE) | 2:52 | 2023-12-30 | 2024-03-26 |
 | [Sofrendo No Mercado](https://open.spotify.com/track/5f3Um6a4Euj9j5dXrRM2bp) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Outros 500](https://open.spotify.com/album/1ZIB0ralycQip2gjNJ1iTC) | 2:44 | 2023-12-30 |  |
 | [Sol](https://open.spotify.com/track/5cOwGFDhhTVZuJzIVb4cr4) | [Tasadi](https://open.spotify.com/artist/0nuJX5dpBfdhWb1kXdt9tO) | [The System](https://open.spotify.com/album/14CHWOXmNoxDjxwLCh76mo) | 3:55 | 2023-12-30 |  |
 | [Solinho](https://open.spotify.com/track/6GsBSfGuS1wWIJNRflDUXW) | [Juan Marcus & Vinícius](https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [O Melhor Lugar do Mundo](https://open.spotify.com/album/5QfrJJedOgE6lE3zTO9eW7) | 2:37 | 2023-12-30 |  |
