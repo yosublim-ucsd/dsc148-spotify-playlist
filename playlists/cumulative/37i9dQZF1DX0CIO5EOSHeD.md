@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Bnny
 
-388 songs - 20 hr 56 min
+389 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [breakdowns](https://open.spotify.com/track/04PS35sEKukUvvVwkFCIas) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [let's play pretend](https://open.spotify.com/album/2wh1Rl0Y4M75r6QJE3fm4S) | 2:36 | 2021-02-26 | 2022-04-19 |
 | [Bridges](https://open.spotify.com/track/1Tcg3ZfPAbIgxpXkV6k29S) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [I'm Sure](https://open.spotify.com/album/79zUXfErg2kVJQxQ7ypEZ8) | 3:01 | 2020-10-30 | 2021-02-06 |
 | [Buzzkill Bummer](https://open.spotify.com/track/1A9E6L24cyCjWSyVquC2Nt) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [Buzzkill Bummer](https://open.spotify.com/album/1wyuVpcuONLiY5qsllzc4K) | 3:02 | 2021-08-13 | 2022-07-29 |
-| [buzzkill bummer](https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [i run like this](https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc) | 3:02 | 2022-09-13 |  |
+| [buzzkill bummer](https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [i run like this](https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc) | 3:02 | 2022-09-13 | 2024-03-27 |
 | [Buzzkill Bummer](https://open.spotify.com/track/5pLN9j3IQF63Dx4J5OT53p) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [Buzzkill Bummer](https://open.spotify.com/album/2TsdVKTcu9dzDb2SeZHMjd) | 3:02 | 2022-03-30 | 2022-12-05 |
 | [by the way](https://open.spotify.com/track/4zWrWNH8wEgJoLQwqjhTJE) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [softcore mourn](https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR) | 3:44 | 2021-08-16 | 2022-07-22 |
 | [Cali](https://open.spotify.com/track/3C8XRQ7aJkPf64WpEHWIgg) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Cali](https://open.spotify.com/album/1YXwbTzHlv9v9ivzvsYM6f) | 3:34 | 2021-12-09 | 2022-07-24 |
@@ -271,6 +271,7 @@
 | [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 | 2022-03-30 | 2023-12-03 |
 | [Pillars](https://open.spotify.com/track/2o8VHDVneLnrVIw9IJht9Y) | [L.A\. Sunday](https://open.spotify.com/artist/67vleotEEIwW5ymCQZFsOm) | [Pillars](https://open.spotify.com/album/5mFjZIz1AiFaAe8mXCVpK6) | 4:20 | 2020-10-27\* | 2022-07-24 |
 | [Pingin' Alone](https://open.spotify.com/track/3iT7ZQKYxrMzg4PhQAeKKl) | [Pet Grotesque](https://open.spotify.com/artist/7ySeKuTj2sRfHP5BfL1Mgl) | [Female Synth Player](https://open.spotify.com/album/2xUoknLFJIdiRICSb83JP2) | 3:18 | 2021-01-12 | 2022-07-29 |
+| [Plastic Envelope](https://open.spotify.com/track/3eiVhoqOuP5iSgnCzLvUU1) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Jonny](https://open.spotify.com/album/2yyDNz8lkP0igqZfZzEgv0) | 3:17 | 2023-12-02 |  |
 | [Plastic Envelope](https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Plastic Envelope / Protect Him Always](https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa) | 3:17 | 2023-05-18 | 2023-12-03 |
 | [Pocus](https://open.spotify.com/track/6dPxlPkJj08nNiG4V4sknI) | [T\. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG) | [Pocus](https://open.spotify.com/album/3uzgZi6NdwqWv30h9U29BW) | 2:56 | 2021-10-23 | 2022-07-24 |
 | [Pointing the Finger](https://open.spotify.com/track/67BEckciiEnrJ7s7zVamMO) | [T\. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Pointing the Finger](https://open.spotify.com/album/0UJZlL4wUaA1EednWPufpv) | 4:18 | 2021-09-25 | 2022-07-29 |

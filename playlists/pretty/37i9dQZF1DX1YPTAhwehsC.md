@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,208 likes - 74 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,231 likes - 74 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 7 | [Cupid's Guidance](https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Cupid's Guidance](https://open.spotify.com/album/6HoW3xE09yZYMAt4v9UJD5) | 2:37 |
 | 8 | [Fisherrr](https://open.spotify.com/track/6ZRQuk5CXdHlLHAnE28GKD) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr](https://open.spotify.com/album/4stkWK5jMzF3Xhc2nWWeiI) | 3:56 |
 | 9 | [Told Ya](https://open.spotify.com/track/315z94HWFxprz0cqLv8oiD) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Told Ya](https://open.spotify.com/album/6sPmFdZn1p92RnXJYamKtz) | 2:48 |
-| 10 | [DM](https://open.spotify.com/track/50uZI42IaLYngPSHkycMuI) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [DM](https://open.spotify.com/album/4GjpK08h1VbatqEgiWSKsJ) | 3:44 |
+| 10 | [DM](https://open.spotify.com/track/50uZI42IaLYngPSHkycMuI) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [DM](https://open.spotify.com/album/4GjpK08h1VbatqEgiWSKsJ) | 3:42 |
 | 11 | [I LIKE TO PARTY](https://open.spotify.com/track/2okQx65AOJkPYUe0GOdc1o) | [Sdot Go](https://open.spotify.com/artist/73sV26yCMzpIeYxesG3jdV), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l), [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2), [Jay5ive](https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB) | [I LIKE TO PARTY](https://open.spotify.com/album/4wYaKT1uFbNEJLuHbrjjjB) | 3:09 |
 | 12 | [Trenches](https://open.spotify.com/track/4NG6oAo2311NJ2Kva95adA) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [Trenches](https://open.spotify.com/album/3L1xj7PMZrMrIYjsW4fbLx) | 2:22 |
 | 13 | [Waiting \(feat\. Sheff G\)](https://open.spotify.com/track/4gOTWPI2lMFTC17LP8zjYu) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Pain & Love 2](https://open.spotify.com/album/1M1i7i0G5g0bhQIoyXeqJN) | 2:51 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 73 | [No Statements](https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [No Statements](https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK) | 2:38 |
 | 74 | [Put Me On](https://open.spotify.com/track/2DW5fYkobgMLvnsHkswg2h) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Not Now I'm Busy](https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2) | 3:37 |
 
-Snapshot ID: `MCw3NWVjMDNiZGNjZTY5OTI0YThkMjQ5M2RiMjFkNzFmMTMxNTM3ZTdk`
+Snapshot ID: `MCw3ODZlZGI1NzkwNDM3MzEwY2Q2NGIxNWMxZTFlYWY5MDY1MmZkNTI2`

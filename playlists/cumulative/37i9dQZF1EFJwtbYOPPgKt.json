@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "One More Night to Go",
+        "url": "https://open.spotify.com/album/4MGkPbRnNQKX3aPgB6slEO"
+      },
+      "artists": [
+        {
+          "name": "Swasion",
+          "url": "https://open.spotify.com/artist/2laSdQ3VWlxoqY1HOV6KFm"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158677,
+      "name": "One More Night to Go",
+      "url": "https://open.spotify.com/track/4xylMnIhy4TEpsKwFW1jFd"
+    },
+    {
+      "album": {
         "name": "PARIS",
         "url": "https://open.spotify.com/album/7mFz9BHV1E6VDp9DLMll1q"
       },

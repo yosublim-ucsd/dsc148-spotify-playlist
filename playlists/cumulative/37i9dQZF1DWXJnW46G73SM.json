@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u062d\u0633\u064a\u0646 \u0627\u0644\u062c\u0633\u0645\u064a\n",
+  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0631\u0627\u0645\u064a \u0635\u0628\u0631\u064a\n",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -600,7 +600,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 204416,
       "name": "Afalet 3alena",
       "url": "https://open.spotify.com/track/4fU10htcH0puL8Nt8oGozE"
@@ -5246,6 +5246,24 @@
       "duration_ms": 220611,
       "name": "Haolak Ser Acoustic version",
       "url": "https://open.spotify.com/track/2fwLSKrxAqfgK4vupI6ODZ"
+    },
+    {
+      "album": {
+        "name": "Hat7areb Meen (From Selat Rahem Series)",
+        "url": "https://open.spotify.com/album/5GI8UYo7NuzgaIv6sYmxVQ"
+      },
+      "artists": [
+        {
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185280,
+      "name": "Hat7areb Meen (From Selat Rahem Series)",
+      "url": "https://open.spotify.com/track/7fP0vL4oUUlysez0UEna9k"
     },
     {
       "album": {
@@ -15495,6 +15513,24 @@
     },
     {
       "album": {
+        "name": "\u0644\u0630\u0627\u0630\u0629 (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0628\u0627\u0628\u0627 \u062c\u0647)",
+        "url": "https://open.spotify.com/album/2v0WlxhOficmnLhwRjlNVf"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173831,
+      "name": "\u0644\u0630\u0627\u0630\u0629 - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0628\u0627\u0628\u0627 \u062c\u0647",
+      "url": "https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d"
+    },
+    {
+      "album": {
         "name": "\u0644\u0633\u0647 \u0628\u064a\u0633\u0623\u0644\u0648\u0646\u064a",
         "url": "https://open.spotify.com/album/0OZxqCWzZum57m6MxVcpAg"
       },
@@ -16174,7 +16210,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 266341,
       "name": "\u0645\u0648\u0636\u0648\u0639 \u0631\u062c\u0648\u0639\u0646\u0627",
       "url": "https://open.spotify.com/track/3n3qHIdb2dpQwaBpPEYKI2"

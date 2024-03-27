@@ -2,9 +2,9 @@
 
 ### [J\-Rock ON!!](https://open.spotify.com/playlist/37i9dQZF1DX6ntWKaOqGAp)
 
-> The biggest Japanese rock hits right now\.  Cover: Ryokuoushoku Shakai \(緑黄色社会\)　日本ロックシーンの最新話題曲をひとつのプレイリストに。
+> The biggest Japanese rock hits right now\.  Cover: Saba Sister \(サバシスター\)　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-1,389 songs - 3 day 15 hr 4 min
+1,393 songs - 3 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [0.1s](https://open.spotify.com/track/5o7OOyyYhECPsNY26BkUvx) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [0.1s](https://open.spotify.com/album/3oF28gWJBXWJfLWlj4PaGf) | 4:06 | 2023-06-27 | 2023-07-19 |
 | [01](https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [01](https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz) | 3:06 | 2023-10-10 |  |
 | [1096](https://open.spotify.com/track/7Ld2efllkAfXdSOkAqPNwu) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [1096](https://open.spotify.com/album/2Cf2vmP3ffvd5n1Qo1UFNY) | 5:45 | 2023-01-31 | 2023-03-01 |
-| [111511](https://open.spotify.com/track/5KT0dvGqAFVdlXJTZ1NWzs) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [Underlight & Aftertime](https://open.spotify.com/album/1wNakLzgelD7G7mGhqElBC) | 4:18 | 2024-03-05 |  |
+| [111511](https://open.spotify.com/track/5KT0dvGqAFVdlXJTZ1NWzs) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [Underlight & Aftertime](https://open.spotify.com/album/1wNakLzgelD7G7mGhqElBC) | 4:18 | 2024-03-05 | 2024-03-27 |
 | [17](https://open.spotify.com/track/1kGkbJkZTUKOpaq40DmO4X) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [17](https://open.spotify.com/album/1etb2Hta613MH9sUYvUIaj) | 2:55 | 2024-01-16 | 2024-02-14 |
 | [1R DISCO](https://open.spotify.com/track/5n8aIfrkZjSiEmtvBy9Jf3) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [ひかりのなまえ EP](https://open.spotify.com/album/09y6qexkReJUWn9Q7kr67W) | 3:51 | 2023-06-06 | 2023-07-19 |
 | [2016](https://open.spotify.com/track/0nfp4POInJUO8NggfyxJrq) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [2016](https://open.spotify.com/album/263uX6djCW564bhaGS35tN) | 4:45 | 2023-12-12 | 2024-01-24 |
@@ -82,13 +82,14 @@
 | [Be My Baby](https://open.spotify.com/track/7rTDgZStUEXS4suFRnewjl) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Be My Baby](https://open.spotify.com/album/0iccOoJs0Id7qeP40Wbuch) | 3:49 | 2023-07-04 | 2023-08-11 |
 | [Be Nothing](https://open.spotify.com/track/5UTz0G8NKuAfuKTETWyMZF) | [Newspeak](https://open.spotify.com/artist/3eaUqC1a64Qk1pjNBv5L71) | [Be Nothing](https://open.spotify.com/album/4SAoAdpY6r6Nn6I84MfNSr) | 3:32 | 2023-11-16 | 2023-12-20 |
 | [BeachBoys](https://open.spotify.com/track/2xpf1fRlCbTRf7aLhyt06u) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BeachBoys](https://open.spotify.com/album/3igMRAOzbW8TJH7xoIaylg) | 2:18 | 2023-02-14 | 2023-03-03 |
-| [Before It's Too Late](https://open.spotify.com/track/1uT4odyKXCLbuO6OqRm5gp) | [Newspeak](https://open.spotify.com/artist/3eaUqC1a64Qk1pjNBv5L71) | [Before It's Too Late](https://open.spotify.com/album/4r8IpdgaSZqSiX9RXaNjq0) | 3:39 | 2024-02-29 |  |
+| [Before It's Too Late](https://open.spotify.com/track/1uT4odyKXCLbuO6OqRm5gp) | [Newspeak](https://open.spotify.com/artist/3eaUqC1a64Qk1pjNBv5L71) | [Before It's Too Late](https://open.spotify.com/album/4r8IpdgaSZqSiX9RXaNjq0) | 3:39 | 2024-02-29 | 2024-03-27 |
 | [BEST](https://open.spotify.com/track/2eFFcYMBcw39hziOMeKq5B) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [BEST of the Tank\-top](https://open.spotify.com/album/0Ng4VLkEM5p6YLXmqJi5Gf) | 3:17 | 2023-11-14 | 2023-12-13 |
 | [Better Left Unsaid](https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Better Left Unsaid](https://open.spotify.com/album/0Bvhx5LTA2K3XWAXqrypCj) | 3:26 | 2023-05-16 | 2023-07-05 |
 | [Big tree song\(Hiroshi Takano remix\)](https://open.spotify.com/track/39Ma2cgdxwlol0dgMaMwII) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm), [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO) | [Big tree song\(Hiroshi Takano remix\)](https://open.spotify.com/album/0nd4eeZllrxxWNFhrhlaHL) | 4:10 | 2023-06-13 | 2023-06-15 |
 | [Big tree song\(Hiroshi Takano remix\)](https://open.spotify.com/track/4NpqwLanVp3JG3NLJEn6cY) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm), [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO) | [Big tree song\(Hiroshi Takano remix\)](https://open.spotify.com/album/7kPBLhjqM3qGwoS8AhgLNd) | 4:10 | 2023-06-13 | 2023-07-05 |
 | [BIGLOVE](https://open.spotify.com/track/5q5DpwaeE6qAv1TyF0D5D8) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BIGLOVE](https://open.spotify.com/album/30vJnOO8ywQhgOUyTjX5GJ) | 2:50 | 2023-10-31 | 2023-11-29 |
 | [biscuit](https://open.spotify.com/track/4zG5UsMy6ZsGppfPijtzAY) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [原作](https://open.spotify.com/album/3V4cs5j2lb4uXz3k4gk2zc) | 3:18 | 2023-08-29 | 2023-09-29 |
+| [Bite you](https://open.spotify.com/track/0HQY3oa2908qhJwIPtiYHE) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Bite you](https://open.spotify.com/album/7p1zPjZwJJA9sYTqw7lmpm) | 3:02 | 2024-03-26 |  |
 | [Black Chocolate](https://open.spotify.com/track/52hKZ9AOrKYP5PNbn3qkud) | [Panorama Panama Town](https://open.spotify.com/artist/7sfAmVy66Zdt9ykZwcg7hf) | [Black Chocolate](https://open.spotify.com/album/0PAczNH9xSxffrYBruVVRB) | 3:39 | 2023-06-20 | 2023-07-05 |
 | [Black Jean Boogie](https://open.spotify.com/track/2PlKI5l5CZaUNHhPAT3tqp) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Black Jean Boogie](https://open.spotify.com/album/4a3ANHYDPrUDZScH8lqrO0) | 3:47 | 2023-07-25 | 2023-09-01 |
 | [Black Jean Boogie](https://open.spotify.com/track/6ooCR2BIdsMSzddhiElEnp) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Black Jean Boogie](https://open.spotify.com/album/5iEulwmiFqO7uZMeYNiVZT) | 3:47 | 2023-07-25 | 2023-07-27 |
@@ -808,7 +809,7 @@
 | [だりぃ](https://open.spotify.com/track/11w5mx2G7vi5xkyIeI6DGx) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 3:16 | 2023-03-07 | 2023-04-05 |
 | [ちょうぐにゃぐにゃ](https://open.spotify.com/track/6xchPfJPRAy7cbkZ3GFvsS) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [ちょうぐにゃぐにゃ](https://open.spotify.com/album/5WPQR2JYqK4AL7ifdfahAP) | 3:49 | 2024-01-23 | 2024-02-14 |
 | [てん対称移動](https://open.spotify.com/track/0zKOfNlLeygAyy55AxJoXf) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [てん対称移動](https://open.spotify.com/album/5hRtyxHIhwg5QkK3Yt01u3) | 2:29 | 2023-09-12 | 2023-09-27 |
-| [ですとらくしょん!!](https://open.spotify.com/track/54krDxm0tOxeZy36AKT3Bj) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Chevon](https://open.spotify.com/album/5zpDo1cOOtnbzrRjKdCqA8) | 4:01 | 2024-02-20 |  |
+| [ですとらくしょん!!](https://open.spotify.com/track/54krDxm0tOxeZy36AKT3Bj) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Chevon](https://open.spotify.com/album/5zpDo1cOOtnbzrRjKdCqA8) | 4:01 | 2024-02-20 | 2024-03-27 |
 | [ときめきpart1](https://open.spotify.com/track/5lGNDmdvtbvwaXLkalxA9r) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [ひみつスタジオ](https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY) | 3:34 | 2023-05-16 | 2023-09-01 |
 | [ともしび](https://open.spotify.com/track/1gvYywLpjLo15PWI4KL27Q) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [ともしび](https://open.spotify.com/album/2AHczdH2m8e42fPrUXAzoa) | 2:56 | 2023-09-12 | 2023-09-14 |
 | [どうにもならんわ](https://open.spotify.com/track/0ZHShit8c40nUNIvY4CogW) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [どうにもならんわ](https://open.spotify.com/album/0SIeMrzT2O6KyRCojsHPnw) | 3:39 | 2023-10-03 | 2023-10-05 |
@@ -842,7 +843,7 @@
 | [わたし達のジャーニー](https://open.spotify.com/track/7jBZEvYiDd1P44XrHROHfq) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [わたし達のジャーニー](https://open.spotify.com/album/209qMKGCRlobYowrmvIRgo) | 4:07 | 2023-06-13 | 2023-06-15 |
 | [アイデンティティー](https://open.spotify.com/track/1oe5T289Oiv3s6a2QAxAyr) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [アイデンティティー](https://open.spotify.com/album/5pF9bdQUrBXSafswwiTUfP) | 4:01 | 2024-03-21 |  |
 | [アイラブ](https://open.spotify.com/track/5x6cGmgNWIWyTqTPlF14EF) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [アイラブ](https://open.spotify.com/album/4WghwGoJvLYFqIjlbsu4mF) | 4:10 | 2023-03-23 | 2023-04-19 |
-| [アウトフォーカス](https://open.spotify.com/track/2sTxEt2fDr4UDblYvad1gq) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [アウトフォーカス](https://open.spotify.com/album/5fSOoIC9xzQCy0PDlgjtRx) | 3:21 | 2024-03-05 |  |
+| [アウトフォーカス](https://open.spotify.com/track/2sTxEt2fDr4UDblYvad1gq) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [アウトフォーカス](https://open.spotify.com/album/5fSOoIC9xzQCy0PDlgjtRx) | 3:21 | 2024-03-05 | 2024-03-27 |
 | [アオトハル](https://open.spotify.com/track/6mzJebohonm5pMVPepGygB) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [アオトハル](https://open.spotify.com/album/4HNe0eLoDb2WiwANcGQ1KP) | 4:33 | 2023-05-09 | 2023-05-11 |
 | [アカネイロフィフティーン](https://open.spotify.com/track/0TWyCnlOry1DUHrpsLegJJ) | [Scenarioart](https://open.spotify.com/artist/4yHLkC0Z5EYVyinSP2AHvV) | [アカネイロフィフティーン](https://open.spotify.com/album/3wdaM1kluUAK1j1EGIoQ4V) | 3:33 | 2023-11-28 | 2024-01-03 |
 | [アマリリス](https://open.spotify.com/track/4eIDKBcRJnlZmrRLNdlbgX) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [アマリリス](https://open.spotify.com/album/5Tdq4ftTKRVA2FYE4kc0QT) | 3:53 | 2023-07-11 | 2023-09-06 |
@@ -923,6 +924,7 @@
 | [サンデイモーニング](https://open.spotify.com/track/7EKHpb7x9utoOKVzz8aZw3) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [サンデイモーニング](https://open.spotify.com/album/55ojVYLlcXJnGXDOvWeELv) | 3:26 | 2023-10-24 | 2023-11-29 |
 | [サークルゲーム \- ANOHANA Ver.](https://open.spotify.com/track/2S60nkpKsY5ixPIN7mxJGx) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ), [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [サークルゲーム \(ANOHANA Ver.\)](https://open.spotify.com/album/5lrkRIFuj1eWly7FtcRtJy) | 5:55 | 2023-08-31 | 2023-10-04 |
 | [サーセン](https://open.spotify.com/track/7jorhoSgW90sLDbeO5UnSs) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [サーセン](https://open.spotify.com/album/2s10bWcSTRHSYPvXp84p1x) | 3:44 | 2023-11-07 | 2023-11-09 |
+| [サーチライト](https://open.spotify.com/track/4bCzS3990nEr5ljzxxeLAk) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [All Right](https://open.spotify.com/album/46YRge9mufTuhuFD4IZr1n) | 3:02 | 2024-03-26 |  |
 | [シュガースポット](https://open.spotify.com/track/5KQnoIToRhc46PsWoiv5iq) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [シュガースポット](https://open.spotify.com/album/7CogGI6l5nM7bXFcQfg0Wg) | 3:50 | 2023-10-24 | 2024-01-26 |
 | [シュガーソルト](https://open.spotify.com/track/791f4rwkhCje7i8h3pn4yK) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [シュガーソルト](https://open.spotify.com/album/5pxYvuvef8LYB270lBChvq) | 4:17 | 2023-12-19 | 2023-12-22 |
 | [シロクロ・シック](https://open.spotify.com/track/1oskFobhNrsJXt51bUyXMK) | [Crab 蟹 Club](https://open.spotify.com/artist/2Po8LYeurfstvqMOLCTTs6) | [シロクロ・シック](https://open.spotify.com/album/0VM145YnzLbH7lIqjfiXPq) | 3:37 | 2023-09-20 | 2023-10-11 |
@@ -981,6 +983,7 @@
 | [ハナガサクラゲ](https://open.spotify.com/track/0ZT1mM67PXIbQnYhlIiVzd) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [ハナガサクラゲ](https://open.spotify.com/album/1sdTSlezKwSVh8qSsLgxl8) | 4:22 | 2023-02-28 | 2023-03-02 |
 | [ハルによろしく](https://open.spotify.com/track/3ZdvA9E8TadmJaTHJXuXae) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [ハルによろしく](https://open.spotify.com/album/4V8x1diicqFKQX3wX2MhJ7) | 3:50 | 2023-04-11 | 2023-05-17 |
 | [ハルのテーマ](https://open.spotify.com/track/2MWF1yLKSBRFfX7py96tko) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ハルのテーマ](https://open.spotify.com/album/68m6h0QU4b8VEAKHapRUCw) | 4:28 | 2023-04-04 | 2023-04-26 |
+| [ハルキゲニア](https://open.spotify.com/track/7EvQhxwe2M5U5pE287U43u) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ハルキゲニア](https://open.spotify.com/album/3ATSJVfCR0aRI0ZGAx0JxK) | 4:15 | 2024-03-26 |  |
 | [ハルケシ](https://open.spotify.com/track/35r5R6H2wyjkOsbvGh0YiX) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ハルケシ](https://open.spotify.com/album/5WLYwlMKYlv33hNEooeGy4) | 3:53 | 2023-05-23 | 2023-06-21 |
 | [ハルジオン](https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ハルジオン](https://open.spotify.com/album/49qXfXRHzvvCaGOnSTFCST) | 3:58 | 2023-03-30 | 2023-04-28 |
 | [ハルライト](https://open.spotify.com/track/0TlYqk7DByP0m1rSASRIP8) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕ら](https://open.spotify.com/album/4PKSj5EYOsSRFVS8V1gF9m) | 3:41 | 2023-03-07 | 2023-04-05 |
@@ -1056,6 +1059,7 @@
 | [ラブソング](https://open.spotify.com/track/1XPblQZCt1NdhEk2eEjMLI) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [ラブソング](https://open.spotify.com/album/7CRfHNh19Lz5IOlYuCh58F) | 3:50 | 2023-02-07 | 2023-02-09 |
 | [ラブソング](https://open.spotify.com/track/5ezanQZbxISkNLgQUW08Cs) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラブソング](https://open.spotify.com/album/5tSuCB8yf6cvvf6SrtyQnv) | 4:16 | 2023-09-26 | 2023-09-28 |
 | [ラブソングがいらない君へ](https://open.spotify.com/track/3VXL22jDNdom9SZfdGRM5X) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [ラブソングがいらない君へ](https://open.spotify.com/album/5CaIpCc1HiuulQWhhbtIDv) | 3:43 | 2024-01-16 | 2024-01-18 |
+| [ラブソングにも時代がある](https://open.spotify.com/track/6Ak9ymTOdgPdPS1ll0pHDe) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [HOME](https://open.spotify.com/album/3XV2J1uGpn5kvPv4SYOXmF) | 4:26 | 2024-03-26 |  |
 | [ラプス](https://open.spotify.com/track/47hW5TPsOjph8hA9kxNdcj) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6uBzTBbMEBkLEDtEkklOBy) | 3:55 | 2023-04-18 | 2023-04-20 |
 | [ランドリー](https://open.spotify.com/track/2Ig3UQesxs7Vg8ZeQLy5cp) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [天使だったじゃないか](https://open.spotify.com/album/2EfOlEm3EVfDX5XBw6baFj) | 3:26 | 2024-02-28 | 2024-02-29 |
 | [ランドルート](https://open.spotify.com/track/47tKkpSAFzzn3uHxiHbqpZ) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [ランドルート](https://open.spotify.com/album/4eb6mUK9phvO6Jcn1CIcEo) | 3:07 | 2023-07-04 | 2023-07-06 |

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Updates every Wednesday\. Cover:  <a href="https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl?si=\_AOux\-TVTgKJf1JL8RolbA">Nyota Parker</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Updates every Wednesday\. Cover:  <a href="https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU?si=sUOsQZ2ORoCmAMghEm\_hqw">Flier</a>\. Artwork: Isu Kim.
 
-724 songs - 1 day 12 hr 41 min
+725 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,7 +576,8 @@
 | [Shawarma](https://open.spotify.com/track/2ropjjIphXrLIjhDZNSinU) | [MOJO AF](https://open.spotify.com/artist/6bUwbD4YIpT5xKIQq3FTpt) | [Shawarma](https://open.spotify.com/album/5b30Ie1MljCjhxyxdC5XuV) | 2:38 | 2022-09-30 | 2022-10-29 |
 | [Shea Butter Baby](https://open.spotify.com/track/2QzHJns0EJD4nCQ1AevgwL) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Shea Butter Baby](https://open.spotify.com/album/2pOcq4SAJfA8B7eXPwseIt) | 2:33 | 2022-09-02 | 2022-10-01 |
 | [Shine](https://open.spotify.com/track/6FnTh3vGUsSwUP6ftetXC4) | [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z) | [Shine](https://open.spotify.com/album/141ba37hSzr55SLwU4qUUj) | 3:33 | 2022-09-30 | 2022-10-29 |
-| [Show Me Love](https://open.spotify.com/track/41MTYyuFbvYHcvfogxN1J0) | [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF) | [Moments \(feat\. DaBlixx Osha, MohBad\)](https://open.spotify.com/album/3eZqQym7jPA8sJcnnEOoF8) | 2:07 | 2024-03-06 |  |
+| [Show Me Love](https://open.spotify.com/track/0Dyt04A0pt4kSkbxODTdkv) | [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF) | [Dauntless](https://open.spotify.com/album/2Dq4kBxHFpo1WahDVSzxBr) | 2:07 | 2024-03-26 |  |
+| [Show Me Love](https://open.spotify.com/track/41MTYyuFbvYHcvfogxN1J0) | [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF) | [Moments \(feat\. DaBlixx Osha, MohBad\)](https://open.spotify.com/album/3eZqQym7jPA8sJcnnEOoF8) | 2:07 | 2024-03-06 | 2024-03-27 |
 | [Sikuachi](https://open.spotify.com/track/4L3UBhZ2tZdxdr2Thggg70) | [Kontawa](https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk), [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Sikuachi](https://open.spotify.com/album/7qDbTEjaKZwYpQ5WgRVRlU) | 3:23 | 2023-03-29 | 2023-06-06 |
 | [Sikwebela](https://open.spotify.com/track/4G2CEKgb8m5jKItYAuVeJA) | [MC Yallah](https://open.spotify.com/artist/5JEqaMjU6dwGqFJu2wn5Gg), [Debmaster](https://open.spotify.com/artist/44DI5jAUWYRStA0amIvFRl) | [Sikwebela](https://open.spotify.com/album/08tjyLILd9pe5oWiR1kOXe) | 2:29 | 2023-02-22 | 2023-03-30 |
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2023-06-05 | 2023-06-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 
 > Calm music to help you focus on your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,642 likes - 130 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,725 likes - 130 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,24 +15,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 | 5 | [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 |
 | 6 | [Changes Within](https://open.spotify.com/track/4hdZ8pWXvypfP0FrQTVwCs) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [A Moment of Peace](https://open.spotify.com/album/5tmAu34wwfkAzZrQZZqa3M) | 2:55 |
 | 7 | [Keeping Secrets](https://open.spotify.com/track/1AsnXOdPvQMuUmTl9hBPvD) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Keeping Secrets](https://open.spotify.com/album/1hnIKHQ7XZ1Q7YBAIjCeCE) | 2:40 |
-| 8 | [Astral Meadows](https://open.spotify.com/track/6C10cyDvoNgPzoykMMgucx) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Astral Meadows](https://open.spotify.com/album/0Eg3lP4oW76UoGBWx61OLF) | 2:48 |
-| 9 | [Ripples](https://open.spotify.com/track/0ft0r0FkcehEinp25jwzZi) | [Ningaloo](https://open.spotify.com/artist/5q3gVyAUO2idTLuANq9HAu) | [Ripples](https://open.spotify.com/album/4Xqssg19DANuwZyaRuvjzK) | 2:42 |
-| 10 | [aequor](https://open.spotify.com/track/1bg1pkCcZums63l85aFe6x) | [ẹmi](https://open.spotify.com/artist/3Ls5y8kRsJNOb5OvljWQaU) | [aequor](https://open.spotify.com/album/5nBJgzreCLff9VRA9KPKfj) | 2:31 |
-| 11 | [Quietude](https://open.spotify.com/track/5gHgNdqNDpPWdFnPp5RAdo) | [Mind Matters](https://open.spotify.com/artist/266MOuapHVsPkInxTMC8wO) | [Quietude](https://open.spotify.com/album/62Xuc4vGeWKWxx2Phv60Ld) | 3:48 |
-| 12 | [Nurtured Lilies](https://open.spotify.com/track/71UEqEJQLXPkGf9KkFgbPG) | [Phoenix Feels](https://open.spotify.com/artist/0CazI1GhvW5pqftM3uJA3l) | [Nurtured Lilies](https://open.spotify.com/album/2gTWtjQqnA5OP6jfbXAHuM) | 3:18 |
-| 13 | [Como antes](https://open.spotify.com/track/4qzw27x0zpsqtDNL5pfCc0) | [Sara Edwards](https://open.spotify.com/artist/6GiFpBwBuF6ClavjfeRZnt) | [Como antes](https://open.spotify.com/album/2embggsTkawDxjpbmUOp5y) | 3:15 |
-| 14 | [First Light](https://open.spotify.com/track/2xMRV2aluVRtSHYKNHTnGi) | [Natura](https://open.spotify.com/artist/4oy2uVLAg5ylYRiH0Q2SVM) | [First Light](https://open.spotify.com/album/08m8fgV9bmIrAqnd0E4nNG) | 2:30 |
-| 15 | [Anduin](https://open.spotify.com/track/0JMCO5CHL11nwI4NA1blxi) | [Reve De Lune](https://open.spotify.com/artist/0hR5ZibruXhF8cMnILIOEI) | [Anduin](https://open.spotify.com/album/3sCqMRUttYpfs0tEnnFBVb) | 2:56 |
-| 16 | [if not now](https://open.spotify.com/track/0xPgRZz6u1b5pIxIpsM3Kb) | [Stravae](https://open.spotify.com/artist/4eaRMciQhKjV2INHRTE95t) | [if not now](https://open.spotify.com/album/3pA9hhiF7K9N9XGDYtJEoM) | 2:54 |
-| 17 | [Facing Reality](https://open.spotify.com/track/4BqR9CZUPxI6yaBIVRKysk) | [Dalhem](https://open.spotify.com/artist/64Vb2P6lpNclAbQYxKC9d0) | [Facing Reality](https://open.spotify.com/album/2894xiO0i7tgHNn1Oouhlb) | 3:00 |
+| 8 | [Ripples](https://open.spotify.com/track/0ft0r0FkcehEinp25jwzZi) | [Ningaloo](https://open.spotify.com/artist/5q3gVyAUO2idTLuANq9HAu) | [Ripples](https://open.spotify.com/album/4Xqssg19DANuwZyaRuvjzK) | 2:42 |
+| 9 | [Nurtured Lilies](https://open.spotify.com/track/71UEqEJQLXPkGf9KkFgbPG) | [Phoenix Feels](https://open.spotify.com/artist/0CazI1GhvW5pqftM3uJA3l) | [Nurtured Lilies](https://open.spotify.com/album/2gTWtjQqnA5OP6jfbXAHuM) | 3:18 |
+| 10 | [First Light](https://open.spotify.com/track/2xMRV2aluVRtSHYKNHTnGi) | [Natura](https://open.spotify.com/artist/4oy2uVLAg5ylYRiH0Q2SVM) | [First Light](https://open.spotify.com/album/08m8fgV9bmIrAqnd0E4nNG) | 2:30 |
+| 11 | [if not now](https://open.spotify.com/track/0xPgRZz6u1b5pIxIpsM3Kb) | [Stravae](https://open.spotify.com/artist/4eaRMciQhKjV2INHRTE95t) | [if not now](https://open.spotify.com/album/3pA9hhiF7K9N9XGDYtJEoM) | 2:54 |
+| 12 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 |
+| 13 | [Velvet Stills](https://open.spotify.com/track/1gUN01HfuzSG2OZpbuQ4be) | [Ana Costa](https://open.spotify.com/artist/3PXd3y6WyVDbpmIUHtrTbu) | [Velvet Stills](https://open.spotify.com/album/0HgmMD6baTPinbd8pwifBC) | 2:26 |
+| 14 | [Sea Of Clouds](https://open.spotify.com/track/5Wz7VYgIV62O8IlKOoOsNT) | [Convallaria](https://open.spotify.com/artist/2LjyHW2buOSieEi3QG4jM4) | [Sea Of Clouds](https://open.spotify.com/album/5TgbesbRbZR0Y9cHexGQMC) | 2:59 |
+| 15 | [Tsundere](https://open.spotify.com/track/053XLQrUhxw9z3jSNZ8eS9) | [ai.umi](https://open.spotify.com/artist/6avDPCpFyESoLK7WQf1hu0) | [Tsundere](https://open.spotify.com/album/2fOHmTIhnX8Hoe4rnrEjhi) | 2:11 |
+| 16 | [sunflower](https://open.spotify.com/track/4RKkFtZrhxiTyPIE5ZGqgY) | [Just Fillin' Time](https://open.spotify.com/artist/3kpfRZ9ygubWr0Ydx9pARu) | [sunflower](https://open.spotify.com/album/7iMRPBDEQIXwXc3ORNylSM) | 2:06 |
+| 17 | [buzz](https://open.spotify.com/track/7cEfMa4xuTRegIALvQKWvl) | [Parting Clouds](https://open.spotify.com/artist/1l20ZEjuxcNE41jVZ5uy8Q) | [buzz](https://open.spotify.com/album/4KK8nCZ99exTrZ5HMx5J9w) | 2:05 |
 | 18 | [Sublime Worlds](https://open.spotify.com/track/4STFgLLAdhMBPeDv3FlnQA) | [Lofty Escape](https://open.spotify.com/artist/3VlqOVcIiqnACv20YHvqZe) | [Sublime Worlds](https://open.spotify.com/album/4VsUbjQBypb4C6XF1iq73o) | 2:26 |
-| 19 | [Sacred Alchemy](https://open.spotify.com/track/7rJMMlb0WFlfTt96o9nmWN) | [Lucia Lopez](https://open.spotify.com/artist/7jH2EHFbOaIWI1XHbOLb9X) | [Sacred Alchemy](https://open.spotify.com/album/2x5CIkNAszdckZInOtl4zn) | 2:26 |
-| 20 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 |
-| 21 | [Velvet Stills](https://open.spotify.com/track/1gUN01HfuzSG2OZpbuQ4be) | [Ana Costa](https://open.spotify.com/artist/3PXd3y6WyVDbpmIUHtrTbu) | [Velvet Stills](https://open.spotify.com/album/0HgmMD6baTPinbd8pwifBC) | 2:26 |
-| 22 | [Sea Of Clouds](https://open.spotify.com/track/5Wz7VYgIV62O8IlKOoOsNT) | [Convallaria](https://open.spotify.com/artist/2LjyHW2buOSieEi3QG4jM4) | [Sea Of Clouds](https://open.spotify.com/album/5TgbesbRbZR0Y9cHexGQMC) | 2:59 |
-| 23 | [Tsundere](https://open.spotify.com/track/053XLQrUhxw9z3jSNZ8eS9) | [ai.umi](https://open.spotify.com/artist/6avDPCpFyESoLK7WQf1hu0) | [Tsundere](https://open.spotify.com/album/2fOHmTIhnX8Hoe4rnrEjhi) | 2:11 |
-| 24 | [sunflower](https://open.spotify.com/track/4RKkFtZrhxiTyPIE5ZGqgY) | [Just Fillin' Time](https://open.spotify.com/artist/3kpfRZ9ygubWr0Ydx9pARu) | [sunflower](https://open.spotify.com/album/7iMRPBDEQIXwXc3ORNylSM) | 2:06 |
-| 25 | [buzz](https://open.spotify.com/track/7cEfMa4xuTRegIALvQKWvl) | [Parting Clouds](https://open.spotify.com/artist/1l20ZEjuxcNE41jVZ5uy8Q) | [buzz](https://open.spotify.com/album/4KK8nCZ99exTrZ5HMx5J9w) | 2:05 |
+| 19 | [Facing Reality](https://open.spotify.com/track/4BqR9CZUPxI6yaBIVRKysk) | [Dalhem](https://open.spotify.com/artist/64Vb2P6lpNclAbQYxKC9d0) | [Facing Reality](https://open.spotify.com/album/2894xiO0i7tgHNn1Oouhlb) | 3:00 |
+| 20 | [Sacred Alchemy](https://open.spotify.com/track/7rJMMlb0WFlfTt96o9nmWN) | [Lucia Lopez](https://open.spotify.com/artist/7jH2EHFbOaIWI1XHbOLb9X) | [Sacred Alchemy](https://open.spotify.com/album/2x5CIkNAszdckZInOtl4zn) | 2:26 |
+| 21 | [Astral Meadows](https://open.spotify.com/track/6C10cyDvoNgPzoykMMgucx) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Astral Meadows](https://open.spotify.com/album/0Eg3lP4oW76UoGBWx61OLF) | 2:48 |
+| 22 | [Quietude](https://open.spotify.com/track/5gHgNdqNDpPWdFnPp5RAdo) | [Mind Matters](https://open.spotify.com/artist/266MOuapHVsPkInxTMC8wO) | [Quietude](https://open.spotify.com/album/62Xuc4vGeWKWxx2Phv60Ld) | 3:48 |
+| 23 | [Anduin](https://open.spotify.com/track/0JMCO5CHL11nwI4NA1blxi) | [Reve De Lune](https://open.spotify.com/artist/0hR5ZibruXhF8cMnILIOEI) | [Anduin](https://open.spotify.com/album/3sCqMRUttYpfs0tEnnFBVb) | 2:56 |
+| 24 | [aequor](https://open.spotify.com/track/1bg1pkCcZums63l85aFe6x) | [ẹmi](https://open.spotify.com/artist/3Ls5y8kRsJNOb5OvljWQaU) | [aequor](https://open.spotify.com/album/5nBJgzreCLff9VRA9KPKfj) | 2:31 |
+| 25 | [Como antes](https://open.spotify.com/track/4qzw27x0zpsqtDNL5pfCc0) | [Sara Edwards](https://open.spotify.com/artist/6GiFpBwBuF6ClavjfeRZnt) | [Como antes](https://open.spotify.com/album/2embggsTkawDxjpbmUOp5y) | 3:15 |
 | 26 | [Bliss](https://open.spotify.com/track/79AKOkbYO8Qd8NMTZpSFzI) | [2002](https://open.spotify.com/artist/6zVSYiNDYelMzhMiZQJU7W) | [This Moment Now](https://open.spotify.com/album/20kjkEG7bfr22uJcEj0JCA) | 4:07 |
 | 27 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 |
 | 28 | [pattern](https://open.spotify.com/track/2zuxJxGXamWbjgiTF6a7rA) | [Sofia Garcia](https://open.spotify.com/artist/513qG0sPNTxFlWOkWyFpGi) | [pattern](https://open.spotify.com/album/6ttEjZOmv5fSeiEz0QTmIC) | 2:24 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 | 129 | [The Shores](https://open.spotify.com/track/4pUSEwCVnD5fYYb6pDkJNw) | [Hermosa Dawn](https://open.spotify.com/artist/2MjjjAZZhgYEyywzBnhZbN) | [The Shores](https://open.spotify.com/album/0sxe2UItX3hliFGbvLxwPq) | 2:01 |
 | 130 | [Wandering](https://open.spotify.com/track/3DSmKmCgRH7vSmdZXBbH4P) | [Jars Of Bees](https://open.spotify.com/artist/3Ni9BAJnZMfBG74X6Osx9N) | [An Opening](https://open.spotify.com/album/5n0dpiHtn11yPUbyBQY5Ak) | 3:15 |
 
-Snapshot ID: `MCw0ODBkZDY5MWY4ZjAzNjgyZDI2YjllMTRkYTU0NTUwMWY1OGI4MDY1`
+Snapshot ID: `MCwyZWI2NzEzOTFmOGI3MzA5MWJlNzIyNDhjNDcxNjYzMDFkMTQ1MmVj`

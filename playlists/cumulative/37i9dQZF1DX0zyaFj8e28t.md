@@ -4,7 +4,7 @@
 
 > Les plus grands tubes français des années 80\. Photo : Jean\-Jacques Goldman
 
-53 songs - 3 hr 44 min
+54 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Mademoiselle chante le blues](https://open.spotify.com/track/5ujGotlh6RnbCUrKh5c5AO) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Réveillon 80](https://open.spotify.com/album/1e2faUwz3Efp2dNVve2XIf) | 3:48 | 2022-09-12 | 2024-01-29 |
 | [Mademoiselle chante le blues](https://open.spotify.com/track/6vjDUJqVKU9Ws7AIHBCAv9) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Mademoiselle Chante](https://open.spotify.com/album/2I1n984xfOozMfDA1TGvo7) | 3:48 | 2022-09-12 | 2024-01-28 |
 | [Mistral gagnant](https://open.spotify.com/track/1MOSRjdAbUhvLNnHCdUEL5) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Mistral gagnant](https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb) | 2:45 | 2022-09-12 |  |
-| [Mon mec à moi](https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Rien ne s'arrête \(1987 \- 2001\)](https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw) | 4:13 | 2022-09-12 |  |
+| [Mon mec à moi](https://open.spotify.com/track/6ea6MMRFAILWDDePFlFoHY) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Chanter en voiture](https://open.spotify.com/album/3LUCT3iKWJJVI2uxaSGOui) | 4:13 | 2022-09-12 |  |
+| [Mon mec à moi](https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Rien ne s'arrête \(1987 \- 2001\)](https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw) | 4:13 | 2022-09-12 | 2024-03-27 |
 | [Morgane de toi](https://open.spotify.com/track/5OYXpxvWMhgMntxoW1Xg8c) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Renaud CD Story](https://open.spotify.com/album/1QuRVhgQ3UM7N9dz0O1s0z) | 6:12 | 2022-09-12 |  |
 | [Mélissa](https://open.spotify.com/track/4YkRb6KIi03YSfGuTDJrZG) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [A Rendez\-Vous With Julien Clerc](https://open.spotify.com/album/1BBkJnf0MLDGRcMzEsal7C) | 3:00 | 2022-09-12 |  |
 | [Nuit magique](https://open.spotify.com/track/0YxdyPaSGBTOo2ebZzIrif) | [Catherine Lara](https://open.spotify.com/artist/3eFOtlrhUuKPOrO2JlM6AS) | [Nuit Magique](https://open.spotify.com/album/7e1YgRKma8OQZ6PRIF82Ac) | 4:47 | 2022-09-12 |  |

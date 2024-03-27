@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > Shotgun Willy, born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,398,647 likes - 100 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,398,661 likes - 100 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 |
 | 2 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 |
-| 3 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
-| 4 | [Seppuku](https://open.spotify.com/track/0djEmaFqvfSdtpNMZYTSdz) | [Rob Apollo](https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V), [Baldie Balboa](https://open.spotify.com/artist/0ZlhTnEkFNumpRzXOuRz3F) | [NSFW 2: I Like Girls](https://open.spotify.com/album/1pBI9gyxvVwMRlhUWjVtNw) | 3:25 |
+| 3 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
+| 4 | [Seppuku \(feat\. Baldie Balboa\)](https://open.spotify.com/track/5lI8kRrA9y4B6Qo7WH0TJq) | [Rob Apollo](https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V), [Baldie Balboa](https://open.spotify.com/artist/0ZlhTnEkFNumpRzXOuRz3F) | [NSFW 2: I Like Girls](https://open.spotify.com/album/4KAIch2YF3Qc1HBdYfiJrO) | 3:25 |
 | 5 | [\#CERTIFIED \(feat\. DJ Ess\) \- DJ Ess Mix](https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [DJ Ess](https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ) | [\#CERTIFIED \(DJ Ess Mix\) \[feat\. DJ Ess\]](https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ) | 2:02 |
 | 6 | [One Eyed Willy](https://open.spotify.com/track/35yzokuxsPdHaDKd5h9kgQ) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Bombs Away](https://open.spotify.com/album/33VNlbyJDsvlYwglDsldXo) | 2:36 |
 | 7 | [Skidoo](https://open.spotify.com/track/5AZMFwVqoTIcx1mMSUZLXl) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Skidoo](https://open.spotify.com/album/2TFJlX6hLheRvmO1u4LW7R) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [GREEN GOBLIN \- Spotify Singles](https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Spotify Singles](https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp) | 2:09 |
 | 100 | [BUBBLE GREEN](https://open.spotify.com/track/3geCHoatBHgpCbLmittPye) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p) | [GHOST \(DELUXE EDITION\)](https://open.spotify.com/album/5Yte8LPU5DI49QYBiMmI4E) | 1:49 |
 
-Snapshot ID: `MCxhNDFkYTY1NjM0OTgxNTg1ZTkxNjRmMDkxY2QzYWM1MDVmODIzOGI4`
+Snapshot ID: `MCxjZTk3MTAyNWI4MmI0NGMzYjJkZTA1NGZhZDg3YjU5MDQyOWE4MTVk`

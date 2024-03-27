@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 328724,
+  "num_followers": 328870,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTE3ZGRjYmNjMWM5NDFiMDg1MTRkMmUzNDhlM2QxY2U1YzMwNzgx",
+  "snapshot_id": "MCw4NGVmOGEzYTRiMzViYWUyMmYxZDVmYjI0YWE3MTViNzMzNGU2OGFm",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Your Queen Is A Reptile",
-        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
-      },
-      "artists": [
-        {
-          "name": "Sons Of Kemet",
-          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
-        }
-      ],
-      "duration_ms": 314693,
-      "name": "My Queen Is Albertina Sisulu",
-      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Funked! : Volume 2 1973-1977",
         "url": "https://open.spotify.com/album/5uorwHhjLzAiFsw1eL0lMn"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 303133,
       "name": "I Want'a Do Something Freaky To You",
       "url": "https://open.spotify.com/track/4ijuSvn7dE8i9o8Ori6QmC"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Your Queen Is A Reptile",
+        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Kemet",
+          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
+        }
+      ],
+      "duration_ms": 314693,
+      "name": "My Queen Is Albertina Sisulu",
+      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -761,7 +761,23 @@
       "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
+      "added_at": "2024-03-26 13:58:29",
+      "album": {
+        "name": "Road To Freedom",
+        "url": "https://open.spotify.com/album/5NZjo5bmc4kVlVp0sIfqMg"
+      },
+      "artists": [
+        {
+          "name": "Young Disciples",
+          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
+        }
+      ],
+      "duration_ms": 321426,
+      "name": "Apparently Nothin' - Soul River",
+      "url": "https://open.spotify.com/track/5tjFtfGhmq1emybxdG6gIl"
+    },
+    {
+      "added_at": "2024-03-26 13:55:21",
       "album": {
         "name": "The People Tree",
         "url": "https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y"
@@ -859,22 +875,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Hard Work",
-        "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
-      },
-      "artists": [
-        {
-          "name": "John Handy",
-          "url": "https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR"
-        }
-      ],
-      "duration_ms": 417960,
-      "name": "Hard Work",
-      "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Adrenalin",
         "url": "https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 410319,
       "name": "Feel The Real",
       "url": "https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Hard Work",
+        "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
+      },
+      "artists": [
+        {
+          "name": "John Handy",
+          "url": "https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR"
+        }
+      ],
+      "duration_ms": 417960,
+      "name": "Hard Work",
+      "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -939,6 +955,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Joyful Noise",
+        "url": "https://open.spotify.com/album/6xQS2XV7LfBDBi745UrDsd"
+      },
+      "artists": [
+        {
+          "name": "Breakestra",
+          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
+        }
+      ],
+      "duration_ms": 310214,
+      "name": "Dark Clouds Rain Soul - Dub",
+      "url": "https://open.spotify.com/track/7DSKKjkdXccZpbhz0AhWZM"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "True Spirit",
         "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
       },
@@ -967,22 +999,6 @@
       "duration_ms": 320693,
       "name": "Whirl Keeps Turning",
       "url": "https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Joyful Noise",
-        "url": "https://open.spotify.com/album/6xQS2XV7LfBDBi745UrDsd"
-      },
-      "artists": [
-        {
-          "name": "Breakestra",
-          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
-        }
-      ],
-      "duration_ms": 310214,
-      "name": "Dark Clouds Rain Soul - Dub",
-      "url": "https://open.spotify.com/track/7DSKKjkdXccZpbhz0AhWZM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1071,26 +1087,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Girl Overboard",
-        "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
-      },
-      "artists": [
-        {
-          "name": "Snowboy",
-          "url": "https://open.spotify.com/artist/6e6FiOOuM4VotvYcIdAtXn"
-        },
-        {
-          "name": "Anna Ross",
-          "url": "https://open.spotify.com/artist/0mC0yKMC54Vo9HUuGouIE2"
-        }
-      ],
-      "duration_ms": 444333,
-      "name": "Girl Overboard",
-      "url": "https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "YUNIK\u014dN",
         "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
       },
@@ -1123,6 +1119,26 @@
       "duration_ms": 262893,
       "name": "It's A Vanity",
       "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Girl Overboard",
+        "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
+      },
+      "artists": [
+        {
+          "name": "Snowboy",
+          "url": "https://open.spotify.com/artist/6e6FiOOuM4VotvYcIdAtXn"
+        },
+        {
+          "name": "Anna Ross",
+          "url": "https://open.spotify.com/artist/0mC0yKMC54Vo9HUuGouIE2"
+        }
+      ],
+      "duration_ms": 444333,
+      "name": "Girl Overboard",
+      "url": "https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
-      },
-      "artists": [
-        {
-          "name": "The Crusaders",
-          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
-        }
-      ],
-      "duration_ms": 348760,
-      "name": "Stomp And Buck Dance",
-      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "urban lounge",
         "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
       },
@@ -1259,22 +1259,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Nuyorican Soul",
-        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
       },
       "artists": [
         {
-          "name": "Nuyorican Soul",
-          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
-        },
-        {
-          "name": "Jocelyn Brown",
-          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+          "name": "The Crusaders",
+          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
         }
       ],
-      "duration_ms": 319733,
-      "name": "I Am The Black Gold Of The Sun",
-      "url": "https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG"
+      "duration_ms": 348760,
+      "name": "Stomp And Buck Dance",
+      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
     },
     {
       "added_at": "2022-07-18 17:17:22",
@@ -1295,6 +1291,26 @@
       "duration_ms": 256133,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Nuyorican Soul",
+        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
+      },
+      "artists": [
+        {
+          "name": "Nuyorican Soul",
+          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
+        },
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        }
+      ],
+      "duration_ms": 319733,
+      "name": "I Am The Black Gold Of The Sun",
+      "url": "https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1393,7 +1409,7 @@
       "url": "https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
+      "added_at": "2024-03-26 13:55:21",
       "album": {
         "name": "Sleazeball",
         "url": "https://open.spotify.com/album/3hxRgoRmClEKCFykjpj6gb"
@@ -1431,26 +1447,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Play With the Changes",
-        "url": "https://open.spotify.com/album/5F4ERW3zwBLDTC4dYxaplL"
-      },
-      "artists": [
-        {
-          "name": "4hero",
-          "url": "https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L"
-        },
-        {
-          "name": "Face",
-          "url": "https://open.spotify.com/artist/7rAHyyAugNjIUBYTwoHHMg"
-        }
-      ],
-      "duration_ms": 246840,
-      "name": "Look Inside",
-      "url": "https://open.spotify.com/track/55vLT3xEExIooTieCfLjUQ"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Leaves of Memories",
         "url": "https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul"
       },
@@ -1467,6 +1463,26 @@
       "duration_ms": 144500,
       "name": "Clouds in the Sky",
       "url": "https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Play With the Changes",
+        "url": "https://open.spotify.com/album/5F4ERW3zwBLDTC4dYxaplL"
+      },
+      "artists": [
+        {
+          "name": "4hero",
+          "url": "https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L"
+        },
+        {
+          "name": "Face",
+          "url": "https://open.spotify.com/artist/7rAHyyAugNjIUBYTwoHHMg"
+        }
+      ],
+      "duration_ms": 246840,
+      "name": "Look Inside",
+      "url": "https://open.spotify.com/track/55vLT3xEExIooTieCfLjUQ"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1535,22 +1551,6 @@
       "duration_ms": 186324,
       "name": "Pizza Pie",
       "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Blue Break Beats",
-        "url": "https://open.spotify.com/album/2KbHNB4R33UuA09rleUrcp"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "The Final Comedown",
-      "url": "https://open.spotify.com/track/6z0FN1nu2aWhtK2Zp8iOqO"
     }
   ],
   "unique_name": "Acid Jazz",

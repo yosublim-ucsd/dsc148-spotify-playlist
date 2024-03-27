@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: Bradley Simpson",
-  "num_followers": 543885,
+  "num_followers": 543890,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODI0ZTdmZTJlOWViMTUxMGE5YTc1MDVhMTdhZTg4YjMxMTc5NDEz",
+  "snapshot_id": "MCw0ZGQ5NjVmYTMxNmM2MDFiNTdiN2Y5MzI3MmIwZGQzMGFhYjZiNzYy",
   "tracks": [
     {
       "added_at": "2024-03-22 00:00:00",
@@ -684,12 +684,12 @@
           "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
         },
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
           "name": "9lives",
           "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
       "duration_ms": 151839,

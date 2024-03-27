@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-341 songs - 17 hr 35 min
+342 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Deep Contemplation](https://open.spotify.com/track/4FmtDJ462G7hEWMbATTLLm) | [Mikael Arvo](https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C) | [Understanding Yourself](https://open.spotify.com/album/6QRXv3tItnPqmqwDeWStrZ) | 3:48 | 2022-01-19 | 2024-01-21 |
 | [Deep Down](https://open.spotify.com/track/1fNzrF4LItKYRmCquXrMVE) | [SUND](https://open.spotify.com/artist/5eVtjA0Sb7rPBwzQI2jWKL) | [Deep Down](https://open.spotify.com/album/4MwV8rgraZqq6ulPvUto82) | 2:46 | 2022-01-12 | 2024-01-18 |
 | [Deep Sleep](https://open.spotify.com/track/0y0tQeEMd2Cr694gIu5gHr) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Deep Sleep](https://open.spotify.com/album/2QSH3idzrtq7TUnpN0dBxw) | 2:37 | 2022-01-12 |  |
-| [Deep Steadiness](https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ) | [Winds Of Minds](https://open.spotify.com/artist/52zUN5HeRQAGLIyXhxZaR0) | [Deep Steadiness](https://open.spotify.com/album/2THS7bZGzzUoBPteGW8CKX) | 2:36 | 2023-04-21 |  |
+| [Deep Steadiness](https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ) | [Winds Of Minds](https://open.spotify.com/artist/52zUN5HeRQAGLIyXhxZaR0) | [Deep Steadiness](https://open.spotify.com/album/2THS7bZGzzUoBPteGW8CKX) | 2:36 | 2023-04-21 | 2024-03-27 |
 | [Descanso](https://open.spotify.com/track/7l5zGxgpsEbhKtL8t13LAM) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Descanso](https://open.spotify.com/album/1u7CqT3V9mFsVkujPEOpJy) | 3:47 | 2022-01-12 | 2023-03-15 |
 | [Desiderio](https://open.spotify.com/track/0wOCx6BAKo9ZSpejgL8C2Y) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Desiderio](https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk) | 3:26 | 2022-01-12 |  |
 | [Determination](https://open.spotify.com/track/20pBeapTd5bksxa4QZqvcR) | [JNUARY](https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak) | [Determination](https://open.spotify.com/album/1cB2QlGYVGTHeqNuibnlHt) | 1:52 | 2022-01-12 | 2023-07-29 |
@@ -203,6 +203,7 @@
 | [Luminescence](https://open.spotify.com/track/5IaT7YXAiWiW6sl2COCOx6) | [Jerzy Stól](https://open.spotify.com/artist/6bBst9TjOI1WYBRjx9LZb1) | [Luminescence](https://open.spotify.com/album/1iYFq98gSd6REc7Pqhzyhu) | 2:08 | 2022-02-01 | 2023-07-29 |
 | [Luminescent](https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Luminescent](https://open.spotify.com/album/64UGm861qokqOZbmpjR6du) | 4:24 | 2022-01-12 | 2023-03-15 |
 | [Luna](https://open.spotify.com/track/1hxbhhjj2GKukjc9q1r2XL) | [Wire 2022](https://open.spotify.com/artist/4xhgYt6nRt8pwhSRdDp1ng) | [Luna](https://open.spotify.com/album/5dJrLPIhvpQjAV3HRTBjPm) | 2:47 | 2023-07-28 | 2024-01-20 |
+| [Lunar](https://open.spotify.com/track/2ipmQj07vBI3KoVdQbo8YQ) | [Waves Of Wonder](https://open.spotify.com/artist/57lCW38CVKbL9zWSy7Ewpn) | [Lunar](https://open.spotify.com/album/2ojZqGU6hHCdc1WEmx4bX0) | 2:18 | 2024-03-20 |  |
 | [Lux Mane](https://open.spotify.com/track/4k6GvMEtWF31ShIk24rLp3) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:38 | 2022-02-01 |  |
 | [Maitri Lake \(432hz\)](https://open.spotify.com/track/5dXCkj7h7B1Hg4MwTHcixd) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Maitri Lake \(432hz\)](https://open.spotify.com/album/71rEntjg6kz31bN6xUrAHe) | 3:43 | 2022-01-19 | 2022-04-19 |
 | [Maja's Miracle](https://open.spotify.com/track/357UXnSLfG3RTRrRMc7YiU) | [Claira Mikkelsen](https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE) | [Maja's Miracle](https://open.spotify.com/album/2rwHW5rHNhGIEPokFQCrHk) | 2:03 | 2022-01-12 | 2024-01-18 |

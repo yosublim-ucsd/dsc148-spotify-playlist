@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
-  "num_followers": 23204,
+  "num_followers": 23208,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzAyOTE5ODk5NTdmNjM5MGZkNjk0MzVlNGEzMDVmYmU3NDBiYWRl",
+  "snapshot_id": "MCw0OGFmYTMwNDNhMmQ0YmY3MDVhNGIwZTM1ODhkODQ1N2Q4MGNkYTlm",
   "tracks": [
     {
       "added_at": "2024-02-01 11:11:53",
@@ -39,6 +39,22 @@
       "duration_ms": 178285,
       "name": "Ee Pattanakke Yenagide",
       "url": "https://open.spotify.com/track/4HCE5UBG5tZVdFBcHYhqHb"
+    },
+    {
+      "added_at": "2024-03-26 07:03:27",
+      "album": {
+        "name": "Kanade Hodeya Edurige",
+        "url": "https://open.spotify.com/album/0kTpmGxOf63aV2DIFh2Vuz"
+      },
+      "artists": [
+        {
+          "name": "Uttam Sarang",
+          "url": "https://open.spotify.com/artist/2hxuZDpTxvhUKzqMI0smem"
+        }
+      ],
+      "duration_ms": 222749,
+      "name": "Kanade Hodeya Edurige",
+      "url": "https://open.spotify.com/track/2wkMJqdVmMSxoukyh6eXSn"
     },
     {
       "added_at": "2024-02-28 15:40:48",
@@ -1371,30 +1387,6 @@
       "duration_ms": 188678,
       "name": "MANIFEST",
       "url": "https://open.spotify.com/track/2aukHnHoljvfUz0q7KqNet"
-    },
-    {
-      "added_at": "2023-09-20 12:58:41",
-      "album": {
-        "name": "By2Love",
-        "url": "https://open.spotify.com/album/6DcqRwXzVwgT7MAcJH5vE5"
-      },
-      "artists": [
-        {
-          "name": "Dolwin Kolalagiri",
-          "url": "https://open.spotify.com/artist/7DDPhsid60HBOEoTP3bQOk"
-        },
-        {
-          "name": "Prashanth Kankanady",
-          "url": "https://open.spotify.com/artist/0TG2p7nnb1iIbddC4YFyx5"
-        },
-        {
-          "name": "Ranjitha Yellur",
-          "url": "https://open.spotify.com/artist/6tkM6pYWcSp6mai0rg8OLI"
-        }
-      ],
-      "duration_ms": 217068,
-      "name": "By2Love",
-      "url": "https://open.spotify.com/track/5c67FvlkSg8LdX1asdzxR2"
     },
     {
       "added_at": "2023-09-04 07:21:46",

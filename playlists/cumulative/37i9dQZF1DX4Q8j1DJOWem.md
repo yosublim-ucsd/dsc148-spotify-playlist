@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4Q8j1DJOWem.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4Q8j1DJOWem) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4Q8j1DJOWem)
 
-### [RADAR Thailand 2023](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
+### [RADAR Thailand 2024](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
 > ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ศิลปิน: Flower.far
 

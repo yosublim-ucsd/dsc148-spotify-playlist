@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126666,
+  "num_followers": 126670,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDYyNCwyODAwZWYwZjYxN2RlMWVlZDhkMTkwYjk4YWRkYzc1OGEwNzFhNDI0",
+  "snapshot_id": "NDYyNiw4MTA0ZWI3NjI4Y2Y1OGM5ZjdhNjE4NzA3ZDAxYWVkZTc3ZGY3ZTYy",
   "tracks": [
+    {
+      "added_at": "2024-03-26 17:00:05",
+      "album": {
+        "name": "Erased",
+        "url": "https://open.spotify.com/album/4ajWveeGRk0MiwZqg03Nmt"
+      },
+      "artists": [
+        {
+          "name": "rshand",
+          "url": "https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Erased",
+      "url": "https://open.spotify.com/track/1E3g55PMTQsgU2fzQfEVt6"
+    },
     {
       "added_at": "2024-03-25 18:53:58",
       "album": {
@@ -1151,26 +1167,6 @@
       "duration_ms": 202794,
       "name": "Landslide - BOTCASH Remix",
       "url": "https://open.spotify.com/track/605ohRZDdw3UEzalXZWrM6"
-    },
-    {
-      "added_at": "2023-12-13 16:20:37",
-      "album": {
-        "name": "Mindbreak (Freaks & Geeks Remix)",
-        "url": "https://open.spotify.com/album/1xr3mw21gzDxHL0G94jT4O"
-      },
-      "artists": [
-        {
-          "name": "IVORY",
-          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
-        },
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        }
-      ],
-      "duration_ms": 216279,
-      "name": "Mindbreak - Freaks & Geeks Remix",
-      "url": "https://open.spotify.com/track/7q8Rg7XlkzCVgGpA7XUgTZ"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

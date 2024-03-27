@@ -932,10 +932,32 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 185500,
       "name": "Prada",
       "url": "https://open.spotify.com/track/3cdEx2rKrEdZ2Vj3AcSDt2"
+    },
+    {
+      "album": {
+        "name": "PRADA",
+        "url": "https://open.spotify.com/album/2dhSH8zRnAcGhCk0P4GGWC"
+      },
+      "artists": [
+        {
+          "name": "The Doorbeen",
+          "url": "https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc"
+        },
+        {
+          "name": "Shreya Sharma",
+          "url": "https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "PRADA",
+      "url": "https://open.spotify.com/track/4CxTBbdPUiwk2dSUrcg9CD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Tyla, Olivia Rodrigo, JVKE,  PNAU and more! cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,064 likes - 84 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,071 likes - 84 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 26 | [Dogfish](https://open.spotify.com/track/0TVMOi7iwDYpgJexAlNtm9) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Mika's Laundry](https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq) | 1:54 |
 | 27 | [CALYPSO](https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [CALYPSO](https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO) | 3:08 |
 | 28 | [Natural Buzz](https://open.spotify.com/track/19fy3JDujAYlCL0f0LZUHx) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [OHZKEY](https://open.spotify.com/artist/71j3AMPO4zOfdTMc7Blt5j), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [castermild](https://open.spotify.com/artist/6gNIKY01gcqrLVU26YJ4RX) | [DAY TIME SNACK](https://open.spotify.com/album/0puKoRo0S118LVlME7ELtp) | 3:01 |
-| 29 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
+| 29 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
 | 30 | [IT'S US \(feat\. Lil Yachty\)](https://open.spotify.com/track/7LwCqIMsKebFSsGX1eIqoS) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [DO NOT DISTURB \(DELUXE\)](https://open.spotify.com/album/2rIbOVBLitHcUD2g9UCz1P) | 2:03 |
 | 31 | [AMF \(feat\. NLE Choppa\)](https://open.spotify.com/track/7qvUHLCbPdjjnoCU7GK2z4) | [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [AMF \(feat\. NLE Choppa\)](https://open.spotify.com/album/4fp913czITruargu63nuK4) | 3:05 |
 | 32 | [Nectar](https://open.spotify.com/track/6MEtGumgTXWquxH35osvEC) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.3 Love Letter](https://open.spotify.com/album/2DcHBijnoFP2tjuRGJ1L6F) | 3:04 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 54 | [Automatic \- 2024 Mix](https://open.spotify.com/track/0PUl467MODwUpD7Vd9kebB) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Automatic \(2024 Mix\)](https://open.spotify.com/album/1OmZj0yNDdykFxrPJiqegq) | 4:55 |
 | 55 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
 | 56 | [Silver Strings](https://open.spotify.com/track/4q3kmQlkbe0v4NfWElYeS2) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Glasgow Eyes](https://open.spotify.com/album/537Y3cd2bKYcMTakW8b7YL) | 3:28 |
-| 57 | [Natural \- Japanese Version](https://open.spotify.com/track/2y0zVBp8k5ERzA24B3CuqP) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc), [Noa](https://open.spotify.com/artist/6HwRSGDwpltqE6T0xQF8Xu) | [songs that got lost in translation \(extended\)](https://open.spotify.com/album/0mZ8CubN4B0AFtG8c33OZB) | 2:36 |
+| 57 | [Natural \- Japanese Version](https://open.spotify.com/track/2y0zVBp8k5ERzA24B3CuqP) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc), [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [songs that got lost in translation \(extended\)](https://open.spotify.com/album/0mZ8CubN4B0AFtG8c33OZB) | 2:36 |
 | 58 | [Walk With Me](https://open.spotify.com/track/3X0Rp5nzDFawTmw1FlwWAP) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Walk With Me](https://open.spotify.com/album/5T4RqzpT6zoWoBA34EowdS) | 3:42 |
 | 59 | [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 |
 | 60 | [Ode To The Mets \- Spotify Singles](https://open.spotify.com/track/0Yg8GLyRPafmqNcgY9Pjnd) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [Spotify Singles](https://open.spotify.com/album/6fj664eI7LI2Ngcu76YVWq) | 4:50 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 83 | [Something in the Room She Moves](https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 6:18 |
 | 84 | [Jukebox Johnny](https://open.spotify.com/track/2QfIPh7c5QrP0mfXWpAA7Y) | [Diane Birch](https://open.spotify.com/artist/5m2sKBa2fJAm4P2MWfopum) | [Jukebox Johnny](https://open.spotify.com/album/5K8vHM9q5Zbw5sSif2xSmQ) | 4:18 |
 
-Snapshot ID: `MCw4YzM4NGJkZTdjMTc4MjI2NTQ0N2MxM2Q2MDc3ODNiMmE5YWMwMzc1`
+Snapshot ID: `MCw5ODRmMjQ3Yjg4MmYzOTU2YjJkMDY1YjA2MzA5ZGQwYWMzMTc5MDEz`

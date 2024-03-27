@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 
 > every day soul with a funky groove for a laid back day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,672 likes - 115 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,744 likes - 115 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 16 | [Strawberry Skies](https://open.spotify.com/track/27qby3flYw8zbknmRAJ6wC) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Strawberry Skies](https://open.spotify.com/album/2RwWN4kURHnzORTq8UjG09) | 3:06 |
 | 17 | [SATURDAY](https://open.spotify.com/track/0Vli1NhhK3d7XiM9VE1t4e) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [SATURDAY](https://open.spotify.com/album/3IGh2i915r40b1qHzWwx8m) | 2:39 |
 | 18 | [Daydreaming](https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Daydreaming](https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39) | 3:06 |
-| 19 | [Something Different](https://open.spotify.com/track/7kjU2PdLXMBZfPnAgX1ZuA) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Something Different](https://open.spotify.com/album/7GrnInJDvEyalLmTzAc8E4) | 5:18 |
+| 19 | [Something Different](https://open.spotify.com/track/0KftydL9BNI4g79mvD6UHR) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Welcome Home](https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P) | 5:18 |
 | 20 | [Like a Habit](https://open.spotify.com/track/0BDWvfsgwlAlFoyJPWFyrL) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Like a Habit](https://open.spotify.com/album/7LQNO7K3yEVQttdrOVOko3) | 2:46 |
 | 21 | [Time Will Tell](https://open.spotify.com/track/7t15QHGSW2IyHkVEjsD6XH) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Champagne Kisses](https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU) | 3:08 |
 | 22 | [Hideaway](https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Hideaway](https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG) | 4:19 |
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 31 | [Crush You](https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI) | [Shafiq Husayn](https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Crush You](https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3) | 4:16 |
 | 32 | [Champagne](https://open.spotify.com/track/6abNHaibTah9k7azRDKVRP) | [RM47](https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL), [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd), [Raleigh](https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C) | [Stuck With You But I Like It](https://open.spotify.com/album/3zggNDtiAUq04EhX6gF3Vo) | 2:33 |
 | 33 | [Don't Fuck My Night Up](https://open.spotify.com/track/4kHib4D7z58BcRdROaStK7) | [Feux](https://open.spotify.com/artist/4bnTHHCHsFujaD34vWr4tV) | [Don't Fuck My Night Up](https://open.spotify.com/album/4Avmj0xSkPa0uOHdubrZ1W) | 3:03 |
-| 34 | [Nothing We Can't Get Through](https://open.spotify.com/track/35R6Ru82ogVuBMVKnMf5sD) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Nothing We Can't Get Through](https://open.spotify.com/album/3A4gO5lgaOSVXgoKyNnHbi) | 2:22 |
+| 34 | [Nothing We Can't Get Through](https://open.spotify.com/track/5YoRg9SvbCmdxhVf3kyRfS) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Welcome Home](https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P) | 2:22 |
 | 35 | [Settling Down](https://open.spotify.com/track/3uWN2ZgglpRGuFvuC4fCEx) | [Vahn Black](https://open.spotify.com/artist/4RzNMvH3WP11GHpgqWjRw7), [Trunino Lowe](https://open.spotify.com/artist/6hCfWoTzVIsoS5bdnRL0JC) | [Petrichor](https://open.spotify.com/album/7DhML0tk9Cu7G9PXuZd4RV) | 6:15 |
 | 36 | [The Energy](https://open.spotify.com/track/0KhNmUNDpg3fPrGV0YpvnH) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8) | [The Energy](https://open.spotify.com/album/5swCVMFkOuL2gVurAan9ZD) | 3:39 |
 | 37 | [High](https://open.spotify.com/track/3AzYlyo9FhKyETJKQI84rm) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Love Language](https://open.spotify.com/album/5mBIU2o4sxDhbSfxuInbh7) | 3:47 |
 | 38 | [Naomi](https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing \(Deluxe\)](https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM) | 3:50 |
 | 39 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 | 40 | [Look At Me](https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Look At Me](https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat) | 3:53 |
-| 41 | [Whenever](https://open.spotify.com/track/2bD6V29O7EiIA7CKca72as) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Whenever](https://open.spotify.com/album/06plvRyV1UnY0OdxJwk4IG) | 3:25 |
+| 41 | [Whenever](https://open.spotify.com/track/1nOZdaEDnhuyZst0JPRqSs) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Welcome Home](https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P) | 3:25 |
 | 42 | [Glory](https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Glory](https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO) | 2:44 |
 | 43 | [MiSS BEHAVE](https://open.spotify.com/track/5ShRfLOfpUdmDLGqLWrGKq) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/3eZdxMaUii7OAahX0hFcJU) | 2:53 |
 | 44 | [Sign And Signal](https://open.spotify.com/track/1QpPefY7AVM2Y67CGROj39) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 4:22 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 114 | [King James](https://open.spotify.com/track/5ri4b7YQp2PWn8tl3MRYgE) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:17 |
 | 115 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I) | 2:44 |
 
-Snapshot ID: `MCwwMGIwYmYyNDQ2MzhiODZhZjVmZTJmOTFjOWFmZWE5NGZjNWRmNzE5`
+Snapshot ID: `MCw3NjIwZTI4NzI1NTU5YWNlY2E0NzJlZGQwYTA4MzE2ZWZhMGY1NDc0`

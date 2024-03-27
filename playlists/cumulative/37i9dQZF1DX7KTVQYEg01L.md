@@ -4,7 +4,7 @@
 
 > celebre seu dia no maior astral!
 
-315 songs - 18 hr 8 min
+316 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Break My Heart](https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:41 | 2022-02-04 |  |
 | [Brisa](https://open.spotify.com/track/5rNNZ6fVYxkhwqUfImVhU1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Brisa](https://open.spotify.com/album/5gJj78wR46FHuvGGXBFuzK) | 2:31 | 2022-02-04 | 2022-07-29 |
 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB) | 3:56 | 2022-03-24 | 2022-04-21 |
+| [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 | 2024-01-12 |  |
 | [Catching Feelings \(feat\. Six60\)](https://open.spotify.com/track/02VHspkXhhH1QCInRWWIfr) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8), [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Catching Feelings \(feat\. Six60\)](https://open.spotify.com/album/39qXV1tvwnmPEDnFUEFz5G) | 3:38 | 2022-03-24 | 2022-04-19 |
 | [Change the World](https://open.spotify.com/track/0xpDj4FiSoIVsNR9uJHHuF) | [Fox Blanco](https://open.spotify.com/artist/0XAzqhdQM4Oa2uzORPlqCt) | [Change the World](https://open.spotify.com/album/6A55zr5quO5XSuBn5QL2oi) | 2:57 | 2022-03-24 | 2022-04-21 |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-05-26 | 2023-09-30 |
@@ -244,7 +245,7 @@
 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 | 2022-02-04 |  |
 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 | 2022-02-04 |  |
 | [She's On My Mind](https://open.spotify.com/track/2nuveZFpiOildSCxXuL44C) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [She's On My Mind](https://open.spotify.com/album/1Fk65av5KWeuAYGKLOoru9) | 2:58 | 2022-03-24 | 2022-04-16 |
-| [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:45 | 2022-11-09 |  |
+| [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:45 | 2022-11-09 | 2024-03-27 |
 | [Shiny Happy People](https://open.spotify.com/track/3sw1PM6wj5aUq3kDrHJsk8) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time](https://open.spotify.com/album/1uJ0XNSSGOz3XiukbtbPuR) | 3:45 | 2022-03-24 | 2022-04-20 |
 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:08 | 2022-03-24 | 2022-04-17 |
 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 | 2022-03-24 |  |

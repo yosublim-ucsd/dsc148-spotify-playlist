@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 51108,
+  "2024-03-27": 51106,
   "date_first_scraped": "2023-02-11",
   "description": "Your weekly rock update. Cover: JJ Wilde",
   "name": "Ready to Rock",
@@ -4832,6 +4832,24 @@
     },
     {
       "album": {
+        "name": "Good Morning Seven",
+        "url": "https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205240,
+      "name": "Excalibur",
+      "url": "https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS"
+    },
+    {
+      "album": {
         "name": "Excalibur / Toy",
         "url": "https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR"
       },
@@ -4843,7 +4861,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 205240,
       "name": "Excalibur",
       "url": "https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w"

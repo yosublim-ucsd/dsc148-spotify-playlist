@@ -1655,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "don't blame the daylight",
+        "url": "https://open.spotify.com/album/3oSL1O5yE8E83Mi9muPpLw"
+      },
+      "artists": [
+        {
+          "name": "aiXer",
+          "url": "https://open.spotify.com/artist/38cxiZaVtAaOFokZfEN9Df"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150058,
+      "name": "don't blame the daylight",
+      "url": "https://open.spotify.com/track/4IlJCdoYJOqg5mnSJdCI5h"
+    },
+    {
+      "album": {
         "name": "Don't Need To Worry",
         "url": "https://open.spotify.com/album/2KAEt4Okt4qGb2rIMIs0ah"
       },
@@ -5212,6 +5230,24 @@
       "duration_ms": 175261,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/1rjsmzE5H51NhkH4W9Iwie"
+    },
+    {
+      "album": {
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/4oBIfNEVdSIaFGcl1kbChy"
+      },
+      "artists": [
+        {
+          "name": "Francois L\u00e9",
+          "url": "https://open.spotify.com/artist/7b8S7uo3rDxdm0W1fJv7BX"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129056,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/5hAAIFnYe7uZRQBqodvNLe"
     },
     {
       "album": {

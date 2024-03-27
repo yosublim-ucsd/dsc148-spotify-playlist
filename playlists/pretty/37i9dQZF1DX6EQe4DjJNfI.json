@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: IZRRA",
-  "num_followers": 167347,
+  "num_followers": 167371,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmM3ZTVjNTQ2ZGFlYWNlYTkzMDgzMWFmMjNjM2VkNzFiOGUzNWUx",
+  "snapshot_id": "MCxjYzNjMmMxYmFhZDMyOTkzZTQ5N2E5NWE1ZDRhYTdlZjNmNmI0NmQw",
   "tracks": [
     {
       "added_at": "2024-03-22 03:01:00",
@@ -451,6 +451,26 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "Detalhes",
+        "url": "https://open.spotify.com/album/0l32YWicNxyVAvraHQqEqD"
+      },
+      "artists": [
+        {
+          "name": "Bia Torres",
+          "url": "https://open.spotify.com/artist/5icJdDlpFGAAPTueX3DqWN"
+        },
+        {
+          "name": "Badauy",
+          "url": "https://open.spotify.com/artist/0ynBSrfkccSeJlzdIqOTHl"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Detalhes",
+      "url": "https://open.spotify.com/track/5Px7eU18TbFlkyNkHGnjR8"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "Auge",
         "url": "https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu"
       },
@@ -511,26 +531,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Nessa Vida",
-        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 189233,
-      "name": "Nessa Vida",
-      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Rec\u00edproco",
         "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
       },
@@ -551,6 +551,26 @@
       "duration_ms": 180000,
       "name": "Rec\u00edproco",
       "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Nessa Vida",
+        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 189233,
+      "name": "Nessa Vida",
+      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -703,26 +723,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Detalhes",
-        "url": "https://open.spotify.com/album/0l32YWicNxyVAvraHQqEqD"
-      },
-      "artists": [
-        {
-          "name": "Bia Torres",
-          "url": "https://open.spotify.com/artist/5icJdDlpFGAAPTueX3DqWN"
-        },
-        {
-          "name": "Badauy",
-          "url": "https://open.spotify.com/artist/0ynBSrfkccSeJlzdIqOTHl"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Detalhes",
-      "url": "https://open.spotify.com/track/5Px7eU18TbFlkyNkHGnjR8"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT"
       },
@@ -767,6 +767,26 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "S\u00f3 por Hoje",
+        "url": "https://open.spotify.com/album/23tpnVQ3ucIfwczLoOCVE4"
+      },
+      "artists": [
+        {
+          "name": "Papu",
+          "url": "https://open.spotify.com/artist/7we8OZWeAI2qXNPt9LPL9Q"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/5BJxqmyUEYvdqb2eMTZIDm"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "S\u00f3 por Hoje",
+      "url": "https://open.spotify.com/track/6qhQlrEKtF9ed8iTQWviR6"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "N\u00e3o Vou Negar",
         "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
       },
@@ -783,6 +803,30 @@
       "duration_ms": 163937,
       "name": "N\u00e3o Vou Negar",
       "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Censura e Prazer",
+        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Nael",
+          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "duration_ms": 235135,
+      "name": "Censura e Prazer",
+      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -847,30 +891,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Censura e Prazer",
-        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Nael",
-          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        }
-      ],
-      "duration_ms": 235135,
-      "name": "Censura e Prazer",
-      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Real (Citando Djonga)",
         "url": "https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 153103,
       "name": "Pra Mim N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "S\u00f3 por Hoje",
-        "url": "https://open.spotify.com/album/23tpnVQ3ucIfwczLoOCVE4"
-      },
-      "artists": [
-        {
-          "name": "Papu",
-          "url": "https://open.spotify.com/artist/7we8OZWeAI2qXNPt9LPL9Q"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/5BJxqmyUEYvdqb2eMTZIDm"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "S\u00f3 por Hoje",
-      "url": "https://open.spotify.com/track/6qhQlrEKtF9ed8iTQWviR6"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Ventilador",
-        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
-      },
-      "artists": [
-        {
-          "name": "Nagy",
-          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Ventilador",
-      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Estou Aqui",
         "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
       },
@@ -1135,18 +1119,42 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "S\u00f3 N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
+        "name": "Ventilador",
+        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
       },
       "artists": [
         {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+          "name": "Nagy",
+          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
         }
       ],
-      "duration_ms": 141502,
-      "name": "S\u00f3 N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
+      "duration_ms": 179076,
+      "name": "Ventilador",
+      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "GUAPA",
+        "url": "https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO"
+      },
+      "artists": [
+        {
+          "name": "Matheus Queiroz",
+          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Douglas Moda",
+          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
+        }
+      ],
+      "duration_ms": 139270,
+      "name": "GUAPA",
+      "url": "https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1191,26 +1199,18 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "GUAPA",
-        "url": "https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO"
+        "name": "S\u00f3 N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
       },
       "artists": [
         {
-          "name": "Matheus Queiroz",
-          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Douglas Moda",
-          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
         }
       ],
-      "duration_ms": 139270,
-      "name": "GUAPA",
-      "url": "https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm"
+      "duration_ms": 141502,
+      "name": "S\u00f3 N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
     },
     {
       "added_at": "2024-03-22 03:01:00",

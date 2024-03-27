@@ -969,6 +969,28 @@
     },
     {
       "album": {
+        "name": "Lost and found",
+        "url": "https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z"
+      },
+      "artists": [
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        },
+        {
+          "name": "Olivia Merilahti",
+          "url": "https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194960,
+      "name": "All day",
+      "url": "https://open.spotify.com/track/6GAbbgKtgj2F4BwszjEk12"
+    },
+    {
+      "album": {
         "name": "All I Ever Asked",
         "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
       },
@@ -11246,7 +11268,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 202302,
       "name": "Girls That Play",
       "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"

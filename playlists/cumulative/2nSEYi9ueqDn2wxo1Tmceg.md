@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-824 songs - 2 day 8 hr 20 min
+825 songs - 2 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Hot Evening](https://open.spotify.com/track/7l7tXEWUMfW5m5AE8vPfOB) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Hot Evening](https://open.spotify.com/album/7IZ79nalZzDtQhgtCR4Dp1) | 4:01 | 2023-03-08 | 2023-04-20 |
 | [HOUSE OF CARDS \- Kevin Shields Rainbow Belts Remix](https://open.spotify.com/track/1342lydTRFUBMIcS0dTdk1) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Kevin Shields](https://open.spotify.com/artist/6egkD3KNbPuvrNLuWpB0bM) | [HOUSE OF CARDS \(Kevin Shields Rainbow Belts Remix\)](https://open.spotify.com/album/0wxL3up90d20n6m5Tqg0YO) | 4:24 | 2023-01-25 | 2023-02-23 |
 | [How It Starts](https://open.spotify.com/track/3lATVxAMvFaussyy90K72j) | [the GOLDEN DREGS](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [On Grace & Dignity](https://open.spotify.com/album/1KBJKlupJF0ViWwQuxsw1f) | 3:52 | 2023-02-15 | 2023-03-30 |
+| [How We See The Light](https://open.spotify.com/track/4i2lt1nfGMH13ZB7sZylwu) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [How We See The Light](https://open.spotify.com/album/6xrZ6CmKzXvEpxqad5yR0f) | 4:45 | 2024-03-26 |  |
 | [Hysteria](https://open.spotify.com/track/0tCgJnSBX2A6vB8KMP7p1A) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 4:03 | 2022-10-12 | 2022-11-10 |
 | [Höstens Färger](https://open.spotify.com/track/3OGOiGoPT72xrse02X6Btw) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [En Är För Mycket Och Tusen Aldrig Nog](https://open.spotify.com/album/7DmBpVv1p9SemMSn7bqGyj) | 3:30 | 2022-10-12 | 2022-11-24 |
 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 | 2022-10-26 | 2022-12-08 |

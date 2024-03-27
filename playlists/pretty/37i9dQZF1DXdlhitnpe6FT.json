@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 222264,
+  "num_followers": 222381,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWE1MjBlZjQ1NjkzMWNkMWU4MzhjZGZkYTJmZGUzMzc3MmQ2MjEz",
+  "snapshot_id": "MCxlMDU4MmNjNzlhZWQ0N2I2MjcyOWJjNTcxM2FlNzM0MjUxNjE4Yzg5",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Before the Rain",
-        "url": "https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI"
-      },
-      "artists": [
-        {
-          "name": "Lee Oskar",
-          "url": "https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o"
-        }
-      ],
-      "duration_ms": 495466,
-      "name": "Before the Rain",
-      "url": "https://open.spotify.com/track/4GzjPsieNA1WCjImEYJvhf"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "The Leroy Anderson Collection",
         "url": "https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 169426,
       "name": "Blue Tango",
       "url": "https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Before the Rain",
+        "url": "https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI"
+      },
+      "artists": [
+        {
+          "name": "Lee Oskar",
+          "url": "https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o"
+        }
+      ],
+      "duration_ms": 495466,
+      "name": "Before the Rain",
+      "url": "https://open.spotify.com/track/4GzjPsieNA1WCjImEYJvhf"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -923,22 +923,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Guantanamera",
-        "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
-      },
-      "artists": [
-        {
-          "name": "The Sandpipers",
-          "url": "https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Somewhere In Time (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/51Jc2jeLXHZR1EempMR59j"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 204173,
       "name": "Somewhere In Time - Main Theme",
       "url": "https://open.spotify.com/track/68L5TNgWMtHcH8Ut5QZk60"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Guantanamera",
+        "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
+      },
+      "artists": [
+        {
+          "name": "The Sandpipers",
+          "url": "https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1001,20 +1001,20 @@
       "url": "https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2"
     },
     {
-      "added_at": "2023-08-10 21:46:24",
+      "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "East Bound And Down",
-        "url": "https://open.spotify.com/album/6i4T3kD5KHM5CcQu4yH9iT"
+        "name": "Canciones Inolvidables",
+        "url": "https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u"
       },
       "artists": [
         {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+          "name": "Cuerdas y Metales",
+          "url": "https://open.spotify.com/artist/4Nvo3WgDLeubApBx2YOWpM"
         }
       ],
-      "duration_ms": 162294,
-      "name": "East Bound And Down",
-      "url": "https://open.spotify.com/track/287NlxhT7ovzqs1XeChOhW"
+      "duration_ms": 220400,
+      "name": "Soleado",
+      "url": "https://open.spotify.com/track/33D7r5tvQ5bDlzjIdrqUhP"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1049,20 +1049,20 @@
       "url": "https://open.spotify.com/track/3A1nSG1uFKrpTkyTFF9cW6"
     },
     {
-      "added_at": "2020-12-08 19:02:01",
+      "added_at": "2023-08-10 21:46:24",
       "album": {
-        "name": "Canciones Inolvidables",
-        "url": "https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u"
+        "name": "East Bound And Down",
+        "url": "https://open.spotify.com/album/6i4T3kD5KHM5CcQu4yH9iT"
       },
       "artists": [
         {
-          "name": "Cuerdas y Metales",
-          "url": "https://open.spotify.com/artist/4Nvo3WgDLeubApBx2YOWpM"
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
         }
       ],
-      "duration_ms": 220400,
-      "name": "Soleado",
-      "url": "https://open.spotify.com/track/33D7r5tvQ5bDlzjIdrqUhP"
+      "duration_ms": 162294,
+      "name": "East Bound And Down",
+      "url": "https://open.spotify.com/track/287NlxhT7ovzqs1XeChOhW"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Svezia, Inferno E Paradiso",
-        "url": "https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a"
-      },
-      "artists": [
-        {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
-        }
-      ],
-      "duration_ms": 116559,
-      "name": "Mah N\u00e0 Mah N\u00e0",
-      "url": "https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Boleros Bonitos",
         "url": "https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 169773,
       "name": "Frenes\u00ed",
       "url": "https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Svezia, Inferno E Paradiso",
+        "url": "https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a"
+      },
+      "artists": [
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        }
+      ],
+      "duration_ms": 116559,
+      "name": "Mah N\u00e0 Mah N\u00e0",
+      "url": "https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Sue\u00f1o azul",
-        "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
-      },
-      "artists": [
-        {
-          "name": "Robson Miguel y grupo",
-          "url": "https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "Concierto para una sola voz",
-      "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Born Losers (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 121333,
       "name": "Billy Jack's Theme",
       "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Sue\u00f1o azul",
+        "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
+      },
+      "artists": [
+        {
+          "name": "Robson Miguel y grupo",
+          "url": "https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "Concierto para una sola voz",
+      "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Avengers and Other Top Sixties Themes",
-        "url": "https://open.spotify.com/album/1XU7ztjltJ2klhUwFk1z8M"
-      },
-      "artists": [
-        {
-          "name": "Tony Hatch",
-          "url": "https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Memories of Summer",
-      "url": "https://open.spotify.com/track/53d1VYmnh5LUkTG223zjth"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "A Regar La Polilla",
         "url": "https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 200411,
       "name": "Frenesi",
       "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Avengers and Other Top Sixties Themes",
+        "url": "https://open.spotify.com/album/1XU7ztjltJ2klhUwFk1z8M"
+      },
+      "artists": [
+        {
+          "name": "Tony Hatch",
+          "url": "https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Memories of Summer",
+      "url": "https://open.spotify.com/track/53d1VYmnh5LUkTG223zjth"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Pink Panther - Original Soundtrack",
-        "url": "https://open.spotify.com/album/4fEGGDaDNDLvXPylhbJdBy"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 169413,
-      "name": "Something for Sellers - From the Mirisch-G & E Production \"The Pink Panther\"",
-      "url": "https://open.spotify.com/track/0Y6C8gl6ypXDfRGM1fbbAq"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "A Swingin' Safari",
         "url": "https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 135666,
       "name": "A Swingin' Safari",
       "url": "https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The Pink Panther - Original Soundtrack",
+        "url": "https://open.spotify.com/album/4fEGGDaDNDLvXPylhbJdBy"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 169413,
+      "name": "Something for Sellers - From the Mirisch-G & E Production \"The Pink Panther\"",
+      "url": "https://open.spotify.com/track/0Y6C8gl6ypXDfRGM1fbbAq"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI"
-      },
-      "artists": [
-        {
-          "name": "James Last",
-          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
-        }
-      ],
-      "duration_ms": 180373,
-      "name": "Saute-Mouton",
-      "url": "https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Yellow Bird",
         "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 164920,
       "name": "Yellow Bird",
       "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI"
+      },
+      "artists": [
+        {
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+        }
+      ],
+      "duration_ms": 180373,
+      "name": "Saute-Mouton",
+      "url": "https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ"
     },
     {
       "added_at": "2020-12-08 19:02:01",

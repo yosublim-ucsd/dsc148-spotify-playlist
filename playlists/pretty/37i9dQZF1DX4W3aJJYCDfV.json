@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Tyla (pictured), Kenya Grace, Benson Boone and more!",
-  "num_followers": 849007,
+  "num_followers": 849059,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTY5MjQyYTNkMDI0YzQ2N2Y4OWM2ZmUyZTE5NzI2MmMwY2MyOTI2",
+  "snapshot_id": "MCxiMjI2ZjU0YThiYWU4MWY0NTk2MjhhNWFhZmYwNTE4MjRhM2Q5N2E3",
   "tracks": [
     {
       "added_at": "2024-03-22 00:00:00",
@@ -376,12 +376,12 @@
           "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
         },
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
           "name": "9lives",
           "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
       "duration_ms": 151839,

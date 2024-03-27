@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Mizzy Miles com Bispo e Van Zee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,554 likes - 81 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,555 likes - 81 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 60 | [Feitiço](https://open.spotify.com/track/1dGSNINnssx5BA35whIPzC) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Feitiço](https://open.spotify.com/album/1Zy5zUNTMhqXTQw0cKEDxf) | 2:41 |
 | 61 | [Neblina](https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Neblina](https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw) | 3:23 |
 | 62 | [Herança](https://open.spotify.com/track/59Emm4uPCpHLJLVhQ4LtNg) | [Silly](https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx) | [Herança](https://open.spotify.com/album/7Dd0Z2LMADxho6oXPFpK1n) | 3:00 |
-| 63 | [Se Tu Não Falasses](https://open.spotify.com/track/2G5Nq9rzDyEU85ByIbN9c9) | [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [Se Tu Não Falasses](https://open.spotify.com/album/05ew2ZZN66Z60FItm4lnbb) | 3:00 |
-| 64 | [Me perdoa](https://open.spotify.com/track/27uSwzP75h8QwjSKDonTw4) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Me perdoa](https://open.spotify.com/album/22P8PHro2NFIN8E8ZpoBKs) | 2:57 |
+| 63 | [Me perdoa](https://open.spotify.com/track/27uSwzP75h8QwjSKDonTw4) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Me perdoa](https://open.spotify.com/album/22P8PHro2NFIN8E8ZpoBKs) | 2:57 |
+| 64 | [Se Tu Não Falasses](https://open.spotify.com/track/2G5Nq9rzDyEU85ByIbN9c9) | [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [Se Tu Não Falasses](https://open.spotify.com/album/05ew2ZZN66Z60FItm4lnbb) | 3:00 |
 | 65 | [Volta](https://open.spotify.com/track/2SLW9thnVkyx4V3fjTEGTl) | [SHINY](https://open.spotify.com/artist/3PLznxCPat6iY9LWA8177i) | [Volta](https://open.spotify.com/album/3A83wpbeuo3SDWWu6lQmH1) | 3:56 |
 | 66 | [O Que Nós Fomos](https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf) | [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07) | [O Que Nós Fomos](https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ) | 2:38 |
 | 67 | [Quero Encontrar](https://open.spotify.com/track/13JbJ8nKqkuBg2uQG5BQHT) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Quero Encontrar](https://open.spotify.com/album/3egfgENT37TGdFDnzOROqh) | 3:00 |
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 75 | [batom rosa](https://open.spotify.com/track/2i5tZzooStnLGv5lL3DLpy) | [YANKEMA](https://open.spotify.com/artist/1KpBnKdAUaXpGoHvvSXUaJ) | [batom rosa](https://open.spotify.com/album/3jiCnCWy1K80ufnrRIyboo) | 2:24 |
 | 76 | [A MINHA VIDA DEPOIS DE TI](https://open.spotify.com/track/65k5sXY8UHFxNqHj0W3Hj3) | [mizx999](https://open.spotify.com/artist/6EzFjRl6oNQYmyK0ulUbZc) | [AUSENTE DE LUZ](https://open.spotify.com/album/0HWWvwNtjJvlLziHiN6Jge) | 2:36 |
 | 77 | [Encandeia](https://open.spotify.com/track/5QXceEFUvXtjPiUDTudvii) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv) | [Encandeia](https://open.spotify.com/album/07OqndgTNxflsvwnZFoPV8) | 3:46 |
-| 78 | [Hubris](https://open.spotify.com/track/1Ol1SZBJ0xnZH1SZ4Ua6W3) | [E.Se](https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l) | [Hubris](https://open.spotify.com/album/0ZF8f1SLDIObSCU98tfgJB) | 3:16 |
-| 79 | [CINTIA](https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV) | [Cozzy 2x](https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM) | [CINTIA](https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl) | 2:49 |
+| 78 | [CINTIA](https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV) | [Cozzy 2x](https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM) | [CINTIA](https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl) | 2:49 |
+| 79 | [Hubris](https://open.spotify.com/track/1Ol1SZBJ0xnZH1SZ4Ua6W3) | [E.Se](https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l) | [Hubris](https://open.spotify.com/album/0ZF8f1SLDIObSCU98tfgJB) | 3:16 |
 | 80 | [Trovador](https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS) | 3:46 |
 | 81 | [Povo](https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:54 |
 
-Snapshot ID: `MCwzZDQzYzdkMTFkMDg1ZjMzNjNiNjYxOGE1N2ZiNTYxNTYyMWYwNDRh`
+Snapshot ID: `MCxlNDQwMTlkOWM2YTVhYmQ3MjYyMzg0NjM3MTI0NmU5NjgwMzA2MDIy`

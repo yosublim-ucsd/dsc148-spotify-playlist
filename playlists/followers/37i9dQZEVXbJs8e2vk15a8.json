@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 70844,
+  "2024-03-27": 70844,
   "date_first_scraped": "2022-04-16",
   "description": "Your daily update of the most viral tracks right now - Chile.",
   "name": "Viral 50 - Chile",
@@ -3049,6 +3049,24 @@
     {
       "album": {
         "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
+    },
+    {
+      "album": {
+        "name": "What Happens Now?",
         "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
       },
       "artists": [
@@ -4755,7 +4773,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 168135,
       "name": "Bling-Bang-Bang-Born",
       "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
@@ -7149,6 +7167,24 @@
       "duration_ms": 115100,
       "name": "CONTANDO",
       "url": "https://open.spotify.com/track/4NUmj3QQX3rX9K3BUCnZc7"
+    },
+    {
+      "album": {
+        "name": "Contando",
+        "url": "https://open.spotify.com/album/50jNF7wjcf79uE5c9BOQli"
+      },
+      "artists": [
+        {
+          "name": "Giuliano Yankees",
+          "url": "https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119413,
+      "name": "Contando",
+      "url": "https://open.spotify.com/track/6bzQkBLxfsiBUT3mtWpDSY"
     },
     {
       "album": {

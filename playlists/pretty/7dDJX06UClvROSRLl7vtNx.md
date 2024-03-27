@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 56,199 likes - 189 songs - 8 hr 21 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 56,237 likes - 189 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 6 | [Smooth Operator](https://open.spotify.com/track/3z9W9fT8TFFeBY3t5WGLmm) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [Smooth Operator](https://open.spotify.com/album/0yv0ZcxUJ5wUxRXYpL21Gk) | 3:06 |
 | 7 | [Sunny Days](https://open.spotify.com/track/2d6bwIQykrN8PR6q5TRVlO) | [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY) | [Sunny Days](https://open.spotify.com/album/04INhjD81Xkvy2Pe5ivdjG) | 2:18 |
 | 8 | [Love Yourself](https://open.spotify.com/track/243vLTDXGKqOG32eWZe1v5) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Xtina Louise](https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN) | [Love Yourself](https://open.spotify.com/album/2o8dlTkFFkl0s6Xh6UUBkS) | 2:40 |
-| 9 | [Cool Kids](https://open.spotify.com/track/4yCtCRXqETtZeSEgPBwpil) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Jethro](https://open.spotify.com/artist/15oiQRdZa4LrpfMbJ2dwzK) | [Cool Kids](https://open.spotify.com/album/3Jqdfe39qohuKJDPnEOINP) | 2:37 |
+| 9 | [Cool Kids](https://open.spotify.com/track/4yCtCRXqETtZeSEgPBwpil) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Jethro](https://open.spotify.com/artist/58GGEpKDyQxbm1UIVOzazk) | [Cool Kids](https://open.spotify.com/album/3Jqdfe39qohuKJDPnEOINP) | 2:37 |
 | 10 | [running down the beach](https://open.spotify.com/track/2RsqBpiLR1Yi0MRcQltNeO) | [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [running down the beach](https://open.spotify.com/album/3U95KqsLDzPKwgaIqCRpLy) | 2:23 |
 | 11 | [Change](https://open.spotify.com/track/7vm8UVv9dT15G3TyBkZ7xQ) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Change](https://open.spotify.com/album/5rTRFmFz01vhLtttLgyQ9O) | 2:18 |
 | 12 | [Diamond](https://open.spotify.com/track/5PCjtggUt1F8mlqJNS6QTl) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Diamond](https://open.spotify.com/album/3erd0qo4WEOBvDmsltDaPz) | 2:16 |

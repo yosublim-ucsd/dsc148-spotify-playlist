@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Black artists every Friday\. Happy Women's History Month! Cover: <a href="spotify:artist:3SozjO3Lat463tQICI9LcE">Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,009 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015,157 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 19 | [I KNOW YOU CARE \(feat\. Headie One\)](https://open.spotify.com/track/3KAkDCkduuYArFXzN8nGoE) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [DO NOT DISTURB \(DELUXE\)](https://open.spotify.com/album/2rIbOVBLitHcUD2g9UCz1P) | 2:57 |
 | 20 | [Risk \(feat\. Moliy\)](https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Risk \(feat\. Moliy\)](https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh) | 2:47 |
 | 21 | [100xCiento](https://open.spotify.com/track/52qI65Ek66LV3evWVDf1ET) | [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [100xCiento](https://open.spotify.com/album/0ftjfi9ePDKKe3JI7IxqEy) | 3:39 |
-| 22 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
+| 22 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
 | 23 | [Around The World](https://open.spotify.com/track/1o9S5cM9CEWrh2ZVbvk5VS) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Around The World](https://open.spotify.com/album/0rxn9TDqFlClsXAJBF5Ayc) | 3:03 |
 | 24 | [One Night Stand](https://open.spotify.com/track/2CDGP4sWDuaYkRB8C48dJA) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [One Night Stand](https://open.spotify.com/album/3S2wJtXUAyA87jlBVxJMN4) | 4:16 |
 | 25 | [Human \(Album Version\)](https://open.spotify.com/track/2Fl4dMLepimER9eKvrqv1o) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Human](https://open.spotify.com/album/2Mr2fNS6Jz0dGUA7hR6lNR) | 4:27 |
 | 26 | [What About The Children](https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 4:39 |
 | 27 | [Fiddle in the Band](https://open.spotify.com/track/5hkViySAjn0tMhLocH7ukQ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Fiddle in the Band](https://open.spotify.com/album/449F70NfANoQxARzdu8EaD) | 2:52 |
 | 28 | [Keep You Around](https://open.spotify.com/track/4Kp1NMyG6MZzbGtmNnTbXq) | [Ashlie Amber](https://open.spotify.com/artist/10uZfqpZrD77s8GhJyEaEA) | [Keep You Around](https://open.spotify.com/album/1KIPnoqKZIfMqNjqpeMJqr) | 3:10 |
-| 29 | [GO GO GO](https://open.spotify.com/track/5rksvPbByvxccvFwqSX1E0) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [GO GO GO \(Feat\. Josman\) \[Official Video\]](https://open.spotify.com/album/0XQLwiVkRdxw0TWAmR5tl1) | 2:28 |
+| 29 | [GO GO GO \(Feat\. Josman\)](https://open.spotify.com/track/7aVmgoP5zbhgmfyzrhjkt9) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [GO GO GO \(Feat\. Josman\)](https://open.spotify.com/album/7vytsNJbYLRuIIw04DwaP0) | 2:28 |
 | 30 | [Make Me Ovah](https://open.spotify.com/track/0y9Ge4SROBj66AkfRFAdbw) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Black Sheep](https://open.spotify.com/album/7dZYVVGoirZvmYZC3s5Lyz) | 2:40 |
 | 31 | [Gimme Dat](https://open.spotify.com/track/63oMUXqcc9qUGlsgusAbe4) | [RM47](https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL), [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd), [Raleigh](https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C) | [Gimme Dat](https://open.spotify.com/album/19zJLd1gyUUKafQOsA47tR) | 3:00 |
 | 32 | [NVR RLLY](https://open.spotify.com/track/4rKY7tnvkK72142WJkVL0b) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [shed](https://open.spotify.com/album/3FUzGhGjR8rcmJIWmc67AQ) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
 | 100 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 |
 
-Snapshot ID: `MCxjMmQzZDQyYmUyMTRiMTM3NjdkMTZiNjliMWFhZWQzZWYwMzkyNDA0`
+Snapshot ID: `MCw3Njk2Nzc3NmJjMDIwZjEwZDI4YzNlNDFmZTFiNjA2YWY4OGE0OWNi`

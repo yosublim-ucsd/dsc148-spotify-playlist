@@ -4,10 +4,11 @@
 
 > The ultimate chill out playlist.
 
-564 songs - 1 day 0 hr 4 min
+570 songs - 1 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#5 Bus](https://open.spotify.com/track/05XbhzXuCNqmmOxTBCi01M) | [Kayyyy](https://open.spotify.com/artist/5g4nLwrKsbQSYCI4AXhsTJ) | [\#5 Bus](https://open.spotify.com/album/0Vdl4Vtwcw3XixkibmqXBm) | 2:49 | 2024-03-26 |  |
 | [12am](https://open.spotify.com/track/0BsZBFtJj64wr7ii2179vX) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [12am](https://open.spotify.com/album/54BSoPYRODCtunqN0TobKB) | 2:51 | 2022-10-07 |  |
 | [20th Century Noise](https://open.spotify.com/track/3RH6fd05g2tiBVfqR2qaET) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [20th Century Noise](https://open.spotify.com/album/7qXGhnID7ljmx3GQagFwdj) | 2:08 | 2022-11-25 |  |
 | [28](https://open.spotify.com/track/6PB727qx5OcinB1RVTShXh) | [Digital Sail](https://open.spotify.com/artist/2mUy6P2kHx4IdHN05KuDu1) | [Coles](https://open.spotify.com/album/62nchhQplHiqzJjPtmJVGr) | 3:48 | 2022-01-21 | 2022-07-22 |
@@ -136,6 +137,7 @@
 | [Downtown](https://open.spotify.com/track/3k7nl2pz0LR25XRRDeSi6z) | [DROPQUICK](https://open.spotify.com/artist/1kTosgOUBKvkCaOsJINFsN) | [Downtown](https://open.spotify.com/album/4lGrY9glvKimde5O26PJng) | 2:06 | 2021-11-10 | 2022-05-11 |
 | [Dream of Me](https://open.spotify.com/track/4OOs6bwPRSnmVeItVeohy1) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Dream of Me](https://open.spotify.com/album/2IfT3GlwLojFrXGKweftm2) | 3:01 | 2022-12-16 |  |
 | [Dreamer \- Edit](https://open.spotify.com/track/1mY5s1cLyo6qJ96iEP0zIg) | [Tyoto](https://open.spotify.com/artist/724XK4okQo1F8MfmjngqIT) | [Dreamer \(Edit\)](https://open.spotify.com/album/6n2woLPkCCypL7lvq1zZbw) | 2:51 | 2021-11-10 | 2022-05-20 |
+| [Dreams](https://open.spotify.com/track/66fMfoqInk5U2fwhMHgnGR) | [Mygg An](https://open.spotify.com/artist/1YaivDyy6lgWBZF6fQfuRz) | [Dreams](https://open.spotify.com/album/2m0sbRXIWEnAopuAf63GbT) | 2:14 | 2024-03-26 |  |
 | [dreams and demons](https://open.spotify.com/track/6GbdSYeYEYETm019Lou7cX) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [dreams and demons](https://open.spotify.com/album/3n246J1Sjq9xfplFJFBlFU) | 2:26 | 2024-01-23 |  |
 | [Dreams Come True](https://open.spotify.com/track/3bnbd2lbJoSjqyh4NrmNAF) | [Tenysi Abra](https://open.spotify.com/artist/4RoMEa8uh9nIgAvOC80Eba) | [Dreams Come True](https://open.spotify.com/album/6zx0mbBdkwn8VyFMkykwJd) | 1:34 | 2022-04-05 | 2022-07-22 |
 | [Dreamscapes](https://open.spotify.com/track/0lH7Pb1Tneet6TAzIAFHZq) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Dreamscapes](https://open.spotify.com/album/2odLQ4nP5FWjyH7jpHsKVh) | 3:08 | 2023-02-17 |  |
@@ -199,6 +201,7 @@
 | [Glooming](https://open.spotify.com/track/6BBM8aJxaMUylTnWyoIjIy) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Radiance](https://open.spotify.com/album/3bU4iy7ozrDdFKvxehO0me) | 3:33 | 2021-11-10 | 2022-04-15 |
 | [Glow](https://open.spotify.com/track/7Hge20vUWFF7V2kt2g20So) | [Benjamin August](https://open.spotify.com/artist/5mYtzsopZvARbaLrR0puNS) | [Glow](https://open.spotify.com/album/0kE1MMrjOc4XFCGs90wkOI) | 2:51 | 2022-08-05 | 2023-03-18 |
 | [glowing](https://open.spotify.com/track/1PoSImv99rLDkBwRDfmahe) | [Cafe Burrito](https://open.spotify.com/artist/1njjr5nwqbiRtFnoKPylMR) | [glowing](https://open.spotify.com/album/4J7Djn5UsvN10BKhq8B3Lj) | 2:36 | 2023-08-18 |  |
+| [Glowing Bay](https://open.spotify.com/track/6oEyetJ43K8dbu6VenlPxU) | [Thief Traveler](https://open.spotify.com/artist/4mrLTjLmGbyjfZHuQytlq0) | [Glowing Bay](https://open.spotify.com/album/0Gf87FTCKvYoY1tKUaXLEg) | 2:57 | 2024-03-26 |  |
 | [go back to sleep](https://open.spotify.com/track/10iVkC7JmOcnde215g7Xn1) | [pretend penguin](https://open.spotify.com/artist/0d3VJgvWH9XP3S57lQP8p8) | [go back to sleep](https://open.spotify.com/album/0IqthodrjaI1HGLjF8gM7e) | 2:11 | 2021-11-10 | 2022-08-20 |
 | [good morning, sunshine](https://open.spotify.com/track/7kQaX1eybj2Ft2QOyfpk7V) | [everything i wanted](https://open.spotify.com/artist/09tjl9q88SYz1n4I79is4s) | [good morning, sunshine](https://open.spotify.com/album/3ImmP3rm6ICaZkAOPCUfRD) | 2:24 | 2022-10-28 |  |
 | [Good Times](https://open.spotify.com/track/1pMGrPoq0hGv57n5ak7hUX) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Youthica](https://open.spotify.com/album/7BCuzmHi1yX3Zc6nWGIalm) | 2:33 | 2023-05-26 |  |
@@ -235,6 +238,7 @@
 | [Ice Castle](https://open.spotify.com/track/3yrRhxtZO4sxsAkviHFwZd) | [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U) | [Ice Castle](https://open.spotify.com/album/26iomIRqL35QWNpjGTTLDS) | 2:24 | 2021-11-10 | 2022-07-01 |
 | [Idek](https://open.spotify.com/track/0hcHE5BXofyzmFO5hDhQoF) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Idek](https://open.spotify.com/album/08gr2z5AKW09RB74L65w2g) | 2:48 | 2022-07-29 | 2023-01-13 |
 | [idle](https://open.spotify.com/track/6zlQDUZVrxyv8hYl6SXI6j) | [Yauwe](https://open.spotify.com/artist/7aEGpWT3nwjyKL7uYd7gdD) | [idle](https://open.spotify.com/album/0XhOuR0mH8Drifodo2blXX) | 2:21 | 2021-11-10 | 2022-01-22 |
+| [Imagine](https://open.spotify.com/track/6Cw5spV9WireahqbLMsbUR) | [Lewisham](https://open.spotify.com/artist/4FY7PiiJHfUCxV4EeFZJFS) | [Imagine](https://open.spotify.com/album/1yXoDOS7MEiQXozSoMxArl) | 2:12 | 2024-03-26 |  |
 | [In The Clouds](https://open.spotify.com/track/0NlVqWHgp2b7y79OC9ocEG) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [In The Clouds](https://open.spotify.com/album/1UCX6cttCUpNf3wbepwOU9) | 2:04 | 2022-10-28 |  |
 | [Infinite](https://open.spotify.com/track/7BlFnkY76uwDT9fvoeWEFZ) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Infinite](https://open.spotify.com/album/1f45mE7umvGUb9OpAhW9ke) | 1:59 | 2022-09-02 | 2023-07-29 |
 | [Inner Circle](https://open.spotify.com/track/2PHONNW4Knw22LQ9o3EvIo) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [Inner Circle](https://open.spotify.com/album/6Oa5m0iCnUyBGue9WmeBcA) | 2:26 | 2022-09-23 |  |
@@ -274,6 +278,7 @@
 | [Lilly Pad](https://open.spotify.com/track/40aLPi04VSPDhGVdg7n81t) | [Oskarr Starr](https://open.spotify.com/artist/0j6bCXv5JPvFkLqPlcwlZ9) | [Lilly Pad](https://open.spotify.com/album/2clmtz2yiq8x3aOlYVsFoW) | 3:35 | 2021-11-10 | 2022-05-27 |
 | [Limestone](https://open.spotify.com/track/2IxHkGERPdZFjN7Q2gqxXv) | [Il Greco](https://open.spotify.com/artist/6akppwCmIdXMHpXWXzYTyp) | [Limestone](https://open.spotify.com/album/47tiW14l56cvqSLUinTdzf) | 2:37 | 2024-01-23 |  |
 | [lipshells](https://open.spotify.com/track/2nfYoMN2329hAlwbPhVJuf) | [cowa cowa](https://open.spotify.com/artist/0OslD5KMKoNQvrXv7DR5VC) | [lipshells](https://open.spotify.com/album/5noCjiE5k92zUycUGD0QVq) | 2:52 | 2021-11-10 |  |
+| [Little Moon Boy](https://open.spotify.com/track/3D71qeEcBZq7jmniL0nbvB) | [niitoo](https://open.spotify.com/artist/51MgdPvDhbrdA9vZQqxgBO) | [Little Moon Boy](https://open.spotify.com/album/1M27dn1O8wSJg6djBWZmtR) | 2:39 | 2024-03-26 |  |
 | [lofiology](https://open.spotify.com/track/4eAY8ptmb2Nx9YNIK9PZss) | [Trixpot](https://open.spotify.com/artist/3XPQh0KgwDXTCHDV4LtSeK) | [lofiology](https://open.spotify.com/album/02GmJmun9UOWAeHKcjCKbd) | 2:19 | 2021-11-10 | 2022-09-09 |
 | [Lost In Stereo](https://open.spotify.com/track/3phEyblS7Zzo4Y5YqKUUl3) | [Sofachi](https://open.spotify.com/artist/0FebFOp1WFwL17NP2cC9hw) | [Lost In Stereo](https://open.spotify.com/album/3QbxhmL8WPvYzmZEnmtHy5) | 2:38 | 2022-05-20 |  |
 | [lost in time](https://open.spotify.com/track/0ttqzykX74Wwyf2aoPkogT) | [bdazzled.](https://open.spotify.com/artist/5AQW8r2NypcnevFfyEAMI5) | [lost in time](https://open.spotify.com/album/1y0qUAKE8wzn30btskUc9O) | 1:53 | 2022-10-28 | 2023-07-29 |
@@ -549,6 +554,7 @@
 | [Views from Yamashita Park](https://open.spotify.com/track/55F8bO2fpwlUyFa4AFPJQa) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 1:40 | 2022-07-29 | 2023-07-29 |
 | [Vital](https://open.spotify.com/track/2m9QssdUKhoQPWcrq9Zcck) | [Drawing With Numbers](https://open.spotify.com/artist/3BB6ImhQEX91DbeiIMyVYZ) | [Vital](https://open.spotify.com/album/2jM4lWQ1CI7F9XGqmc0zDK) | 3:28 | 2021-11-10 | 2022-07-22 |
 | [volcano view](https://open.spotify.com/track/4yNCMQjKFCYLhLolCByf9r) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [volcano view](https://open.spotify.com/album/2G2miDSSOobbl2LuiUDE1a) | 2:12 | 2022-07-15 | 2023-10-15 |
+| [Voyage](https://open.spotify.com/track/7wUs6zZsbZ5Aluv8Vq2bij) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Voyage](https://open.spotify.com/album/1rsR6Lt6I0bEx0gJ5WvGiU) | 2:33 | 2024-03-26 |  |
 | [Waking Waves](https://open.spotify.com/track/2CCvwL3lgXH94oajKSOblm) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Waking Waves](https://open.spotify.com/album/0GTAbLRocrPLSAu3y1MQT6) | 3:07 | 2021-11-10 | 2022-07-01 |
 | [Wandering](https://open.spotify.com/track/3nhSeef5tejPVeQgQyVAko) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Wandering](https://open.spotify.com/album/0jXhPMLWccW7lhXHHsMuK8) | 2:38 | 2022-05-13 | 2023-01-13 |
 | [War of Jenkins](https://open.spotify.com/track/5nOs1XotO7WDv10F9CjiH0) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL), [Soulful Playground](https://open.spotify.com/artist/0jA7y63ujwFWqTc2E6Sjyt), [Lofi Sax](https://open.spotify.com/artist/6CnIDZGUocwG0NIyYkoJ7w) | [Treasure](https://open.spotify.com/album/1PvcQ7jqRYmurma1jSfjfj) | 2:01 | 2023-01-13 |  |

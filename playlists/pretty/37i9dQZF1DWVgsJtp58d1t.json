@@ -1,12 +1,12 @@
 {
   "description": "New music from Black artists every Friday. Happy Women's History Month! Cover: <a href=\"spotify:artist:3SozjO3Lat463tQICI9LcE\">Tyla</a> ",
-  "num_followers": 1015009,
+  "num_followers": 1015157,
   "original_name": "This Is Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmQzZDQyYmUyMTRiMTM3NjdkMTZiNjliMWFhZWQzZWYwMzkyNDA0",
+  "snapshot_id": "MCw3Njk2Nzc3NmJjMDIwZjEwZDI4YzNlNDFmZTFiNjA2YWY4OGE0OWNi",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -420,12 +420,12 @@
           "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
         },
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
           "name": "9lives",
           "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
       "duration_ms": 151839,
@@ -537,10 +537,10 @@
       "url": "https://open.spotify.com/track/4Kp1NMyG6MZzbGtmNnTbXq"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-26 15:24:06",
       "album": {
-        "name": "GO GO GO (Feat. Josman) [Official Video]",
-        "url": "https://open.spotify.com/album/0XQLwiVkRdxw0TWAmR5tl1"
+        "name": "GO GO GO (Feat. Josman)",
+        "url": "https://open.spotify.com/album/7vytsNJbYLRuIIw04DwaP0"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
         }
       ],
-      "duration_ms": 148874,
-      "name": "GO GO GO",
-      "url": "https://open.spotify.com/track/5rksvPbByvxccvFwqSX1E0"
+      "duration_ms": 148877,
+      "name": "GO GO GO (Feat. Josman)",
+      "url": "https://open.spotify.com/track/7aVmgoP5zbhgmfyzrhjkt9"
     },
     {
       "added_at": "2024-03-22 04:00:00",

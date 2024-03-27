@@ -1,12 +1,12 @@
 {
   "description": "Texas Blues at its best.",
-  "num_followers": 143339,
+  "num_followers": 143384,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjI5NmRkMDUzMjE0MDdmNjgzN2NlZTUyMjJmNDIyYmJjYzEzNDY1",
+  "snapshot_id": "MCxmMzdiOTg3NzUyN2FjYjAyYjk3Mjg0ODNmZTJhYzkzZDk4OTI0Njkz",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -137,20 +137,20 @@
       "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
+      "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
+        "name": "We The People",
+        "url": "https://open.spotify.com/album/0JtSUetZ1fNYg3V23qaYxV"
       },
       "artists": [
         {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
+          "name": "Guitar Shorty",
+          "url": "https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc"
         }
       ],
-      "duration_ms": 305053,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
+      "duration_ms": 260200,
+      "name": "We The People",
+      "url": "https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -169,20 +169,20 @@
       "url": "https://open.spotify.com/track/21es9c3dvLYO0sRKeac1fQ"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
+      "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "We The People",
-        "url": "https://open.spotify.com/album/0JtSUetZ1fNYg3V23qaYxV"
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
       },
       "artists": [
         {
-          "name": "Guitar Shorty",
-          "url": "https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc"
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
         }
       ],
-      "duration_ms": 260200,
-      "name": "We The People",
-      "url": "https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R"
+      "duration_ms": 305053,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -269,22 +269,6 @@
       "url": "https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Standing My Ground",
-        "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 286960,
-      "name": "I Got My Mojo Working",
-      "url": "https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM"
-    },
-    {
       "added_at": "2016-03-18 21:56:19",
       "album": {
         "name": "Los Lonely Boys",
@@ -315,6 +299,22 @@
       "duration_ms": 261920,
       "name": "Good Texan",
       "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Standing My Ground",
+        "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 286960,
+      "name": "I Got My Mojo Working",
+      "url": "https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM"
     },
     {
       "added_at": "2016-03-18 21:56:19",

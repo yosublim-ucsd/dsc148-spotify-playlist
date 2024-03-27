@@ -4,7 +4,7 @@
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Stephen Zechariah, Priya Jerson
 
-69 songs - 4 hr 31 min
+70 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Ennavaley](https://open.spotify.com/track/1pM9kwOy7CnjRNVzOHJ2kf) | [Dhilip Varman](https://open.spotify.com/artist/4mnyuJe27mz21c8w4wo3z2), [Thila Laxshman](https://open.spotify.com/artist/4hOt4NszxtYXKVTh14rLEO), [Psychomantra](https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW), [Saint\(TFC\)](https://open.spotify.com/artist/1Im8ga1cR4Ms4dCEUjtvhx) | [Saran Z Ennavaley](https://open.spotify.com/album/552jEYJblo3g8rZ6zGVIhI) | 4:03 | 2021-12-01 |  |
 | [Hey Singari](https://open.spotify.com/track/0uQoEdoRff5G6tY64bdDH3) | [Arul Raj](https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Hey Singari](https://open.spotify.com/album/79LcnpTBgWcooeqouIf8We) | 3:51 | 2021-12-01 | 2023-11-04 |
 | [Hey Singari](https://open.spotify.com/track/3BY6Ez06AcR1MO2KljC1QC) | [Arul Raj](https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Hey Singari](https://open.spotify.com/album/0CzzSHuaMI4bwnlX2q3qKY) | 3:51 | 2021-12-01 |  |
+| [Inimel](https://open.spotify.com/track/6PxEQ1dXyhuZQtTClI6TiR) | [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6) | [Inimel](https://open.spotify.com/album/3VTNd5Fcti1lc9ASdEpiWz) | 4:00 | 2024-03-26 |  |
 | [Ithuvum Kadanthu Pogum](https://open.spotify.com/track/6E7xTWbbKFH1gHpK0SNCaX) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Hi\-Polar](https://open.spotify.com/artist/5r1MeyZN01dQ963hBaTChW) | [Ithuvum Kadanthu Pogum](https://open.spotify.com/album/7j5BLQoD616UNe6oyD3dUf) | 3:00 | 2024-01-23 |  |
 | [Kaadhalae Thalli Pogadhae](https://open.spotify.com/track/1Af3YD9ZL83s9hYMk3s8HX) | [Rajasekar\. P](https://open.spotify.com/artist/4luU9WsXlFSO6cEjJ2VHi1) | [Kaadhalae Thalli Pogadhae](https://open.spotify.com/album/7mRoK0kbC9SKdaqXiYE5Wa) | 3:10 | 2021-12-01 |  |
 | [Kaatru Veliyidai Kannamma](https://open.spotify.com/track/1UPGCtNw7TAxHKrSgyW7Jy) | [B Prasanna](https://open.spotify.com/artist/52PpuOby7bl7I1s3UiO5Qu), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L), [Harish Venkat](https://open.spotify.com/artist/5m8LjXS3VaOGVm1dT9yvhP), [Keerthana Vaidyanathan](https://open.spotify.com/artist/4L2JVt0fmwYdNB6TsKSyd8), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Susha](https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC), [Sharanya Shrinivas](https://open.spotify.com/artist/6ATp6oChAB0Uzz4YmJw3ZR) | [Kaatru Veliyidai Kannamma](https://open.spotify.com/album/6UQbVmBoNCMMdCatoofiVo) | 5:13 | 2021-12-01 | 2023-06-24 |

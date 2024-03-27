@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-286 songs - 20 hr 40 min
+287 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Equals](https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Equals](https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB) | 4:46 | 2021-11-24 | 2024-01-06 |
 | [Escape](https://open.spotify.com/track/20cNDRUVuayveIRgcYdwYL) | [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [Escape EP](https://open.spotify.com/album/6oc7OKNAXGt9qOpBoekO3t) | 4:49 | 2022-06-20 | 2022-07-02 |
 | [Every](https://open.spotify.com/track/7whh4iNy8QMZs9ad9bJ6q7) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Every](https://open.spotify.com/album/4VgGcA21sG6DXs0LMLDx5N) | 3:37 | 2021-11-24 | 2022-07-08 |
-| [Everything \- Sonnee Remix](https://open.spotify.com/track/4d8znCPQ5ilRAVhkafU0EA) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Everything \(Sonnee Remix\)](https://open.spotify.com/album/0okrSkdtLDeof2Rgeuf6IR) | 3:00 | 2024-01-05 |  |
+| [Everything \- Sonnee Remix](https://open.spotify.com/track/3ARTHQs5U6HA24voxCmTyx) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Everything](https://open.spotify.com/album/4Rk7CcNBTOoa0Izxmbsg0G) | 3:00 | 2024-01-12 |  |
+| [Everything \- Sonnee Remix](https://open.spotify.com/track/4d8znCPQ5ilRAVhkafU0EA) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Everything \(Sonnee Remix\)](https://open.spotify.com/album/0okrSkdtLDeof2Rgeuf6IR) | 3:00 | 2024-01-05 | 2024-03-27 |
 | [Everything We Talked About \(feat\. Clementine Douglas\)](https://open.spotify.com/track/6wFqs3zRpqBVRdzzQX35xX) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Everything We Talked About \(feat\. Clementine Douglas\)](https://open.spotify.com/album/6uQ4y0kpKhtBkoX9ySR1OG) | 3:41 | 2022-06-20 | 2022-07-18 |
 | [F Maj Pixie \- Rone Remix](https://open.spotify.com/track/0vPeswZSPgCco39FjXhCcy) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L), [Rone](https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq) | [F Maj Pixie \(Rone Remix\)](https://open.spotify.com/album/5DTFO9v4DzZzIW7EZPTESU) | 4:16 | 2021-11-24 | 2022-05-17 |
 | [f1 racer](https://open.spotify.com/track/0Ume2ALqcG0LDPecFmNgAV) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Dom Maker](https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [MK 3.5: F1 Racer & Locked In \| Zone 1 \(24 Hours\)](https://open.spotify.com/album/3EHJQYoofSblgWCRqlvNRk) | 2:26 | 2022-10-28 | 2023-02-02 |

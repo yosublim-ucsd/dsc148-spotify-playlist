@@ -4,7 +4,7 @@
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-644 songs - 1 day 7 hr 46 min
+645 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [The News](https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [The News](https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR) | 3:07 | 2022-12-09 | 2023-03-11 |
 | [the ringer](https://open.spotify.com/track/1rKPnrP8PxVIUKqoflty9G) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 0](https://open.spotify.com/album/3wNkf6SHSN19bVxWCNC3Lu) | 2:34 | 2022-11-04 | 2022-11-23 |
 | [the vibe](https://open.spotify.com/track/43mYpTDuMmNE8I4TXq3R0Q) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [LACUNA in The House Of Mirrors](https://open.spotify.com/album/14jEx61JDK4zj3pj1KEFPg) | 4:29 | 2023-05-05 | 2024-03-06 |
+| [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft) | 2:37 | 2024-03-26 |  |
 | [They Don't Love It](https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:53 | 2023-05-05 | 2024-03-06 |
 | [They Fightin](https://open.spotify.com/track/17l3xzZDzxzbjgRkzVEPna) | [Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d) | [They Fightin](https://open.spotify.com/album/4uXnNEqtr9q93ITK7hmdbO) | 2:31 | 2022-12-02 | 2023-03-11 |
 | [This Christmas](https://open.spotify.com/track/7ryDMjQUkbiBXjpsjAIcGV) | [Kenndog](https://open.spotify.com/artist/2NLseG7xyv3fHY5U8AUntx) | [This Christmas](https://open.spotify.com/album/7DUTGQcjw6zko30hopA2N9) | 2:16 | 2022-12-09 | 2023-03-11 |

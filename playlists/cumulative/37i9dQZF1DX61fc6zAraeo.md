@@ -4,7 +4,7 @@
 
 > Dance tracks for your power moves
 
-132 songs - 5 hr 58 min
+133 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Dance Alone](https://open.spotify.com/track/5G8pdZq3HL2sEVi5yGsq0Z) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [The Victor](https://open.spotify.com/artist/6Hvq9w688rwXhVoAKZk5wk) | [Dance Alone](https://open.spotify.com/album/7nGM3tRAjPEMjDaLhL5Ys4) | 2:54 | 2024-02-07 |  |
 | [Dancing All Alone](https://open.spotify.com/track/6ggwvlAw6i9FSD4b7CumON) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Dancing All Alone](https://open.spotify.com/album/0pxNMYEz2FyiyQNjNLotIF) | 3:06 | 2024-02-07 |  |
 | [Deja Vu](https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Deja Vu](https://open.spotify.com/album/5tinrUufdUwPi1eMf6vkRj) | 3:07 | 2024-02-07 |  |
-| [Desire](https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [Desire](https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH) | 2:39 | 2024-02-07 |  |
+| [Desire](https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [Desire](https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH) | 2:39 | 2024-02-07 | 2024-03-27 |
 | [Diamond Sky](https://open.spotify.com/track/4RGTwTk5Vd5uzDshtlYwW7) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Diamond Sky](https://open.spotify.com/album/7v6VMKg4Q3L3jbHGqjt0KK) | 2:23 | 2024-02-07 | 2024-03-07 |
 | [Dizzy](https://open.spotify.com/track/4bH4PYPmrsKcw2rI5c3QqD) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [LOUI LANE](https://open.spotify.com/artist/0ZmqAO2kf9AFpYbnT7Z9MN) | [Dizzy](https://open.spotify.com/album/5PG4dJqM18cKtGl0vE5cJk) | 2:27 | 2024-02-07 |  |
 | [Dominos](https://open.spotify.com/track/482Ev1QU02GrGT9oV9TAax) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Dominos](https://open.spotify.com/album/0Pxcx3RH5L3ZVMRxmB29iL) | 2:30 | 2024-02-07 |  |
@@ -97,6 +97,7 @@
 | [Pop Some Tags](https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8) | [WAVES](https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ) | [Pop Some Tags](https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe) | 2:19 | 2024-02-07 |  |
 | [Pouring Rain](https://open.spotify.com/track/5Dr69idwPV2vBivHWuK0bO) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Pouring Rain](https://open.spotify.com/album/76uBRY8kdybYRBhBeRfK88) | 3:11 | 2024-03-06 | 2024-03-22 |
 | [Pretty Little Lies](https://open.spotify.com/track/2gg28k4Djlpg0a7SGsB8Zc) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Pretty Little Lies](https://open.spotify.com/album/3FoBg7SY8EkQ69NkSx3eAL) | 2:15 | 2024-02-07 |  |
+| [Rapture](https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Rapture \(with Robert Falcon\)](https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB) | 3:07 | 2024-03-26 |  |
 | [REACT](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [REACT](https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv) | 3:21 | 2024-02-07 |  |
 | [Redemption](https://open.spotify.com/track/24qGzpKagxg9t1zkzzg03Z) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [RMB](https://open.spotify.com/artist/4YXOQZR6WVMNXaQ5e72DnG) | [Redemption](https://open.spotify.com/album/0DC1qER7OczaSRCZ75bULZ) | 2:15 | 2024-02-07 |  |
 | [Remedy](https://open.spotify.com/track/1LoGrm5coC2yXhofVni5Cp) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Remedy](https://open.spotify.com/album/3reZq1pI5fbX7h724Bjoz2) | 2:07 | 2024-02-07 | 2024-03-08 |

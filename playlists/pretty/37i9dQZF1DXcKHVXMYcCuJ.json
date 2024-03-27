@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 144664,
+  "num_followers": 144671,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2NiNjA3MWNjYTM2YjFhNGI2N2MyMjQxOWRkYmZhNTJmYThkYjI4",
+  "snapshot_id": "MCw4Njc0NTEzZmZkZmYzNGVlZmFiYjExMjU1NmJhODNjNzI3NTJiNWM0",
   "tracks": [
     {
       "added_at": "2024-03-25 10:22:05",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Diary (Remastered and Expanded Edition)",
-        "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
-      },
-      "artists": [
-        {
-          "name": "Sunny Day Real Estate",
-          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
-        }
-      ],
-      "duration_ms": 298413,
-      "name": "In Circles - Remastered",
-      "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "Ours Is Chrome",
         "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 203133,
       "name": "I've Been Bored",
       "url": "https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "Diary (Remastered and Expanded Edition)",
+        "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day Real Estate",
+          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
+        }
+      ],
+      "duration_ms": 298413,
+      "name": "In Circles - Remastered",
+      "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
+        "name": "Repetition",
+        "url": "https://open.spotify.com/album/30GshgppFRvO0G5RNbleZn"
+      },
+      "artists": [
+        {
+          "name": "Unwound",
+          "url": "https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0"
+        }
+      ],
+      "duration_ms": 185467,
+      "name": "Corpse Pose",
+      "url": "https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
         "name": "Bakesale: Deluxe Edition",
         "url": "https://open.spotify.com/album/0FVtcEj9ZmOa7QKvsZNFoh"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 228453,
       "name": "The Modern Leper",
       "url": "https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
-        "name": "Repetition",
-        "url": "https://open.spotify.com/album/30GshgppFRvO0G5RNbleZn"
-      },
-      "artists": [
-        {
-          "name": "Unwound",
-          "url": "https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0"
-        }
-      ],
-      "duration_ms": 185467,
-      "name": "Corpse Pose",
-      "url": "https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Troublegum",
-        "url": "https://open.spotify.com/album/6ub0GyzfrkFZahy42i7pfR"
-      },
-      "artists": [
-        {
-          "name": "Therapy?",
-          "url": "https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey"
-        }
-      ],
-      "duration_ms": 146306,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/368RLF0YBCX8FyB4RGkaVq"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "I Wish I Could Stay Here",
         "url": "https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 204631,
       "name": "Crickets Throw Their Voice",
       "url": "https://open.spotify.com/track/5KiP81agN1O40PXRyikoF7"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "Troublegum",
+        "url": "https://open.spotify.com/album/6ub0GyzfrkFZahy42i7pfR"
+      },
+      "artists": [
+        {
+          "name": "Therapy?",
+          "url": "https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey"
+        }
+      ],
+      "duration_ms": 146306,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/368RLF0YBCX8FyB4RGkaVq"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Stovall",
-        "url": "https://open.spotify.com/album/5UE6N0IU0pfG18urYs44Wp"
-      },
-      "artists": [
-        {
-          "name": "Microwave",
-          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
-        }
-      ],
-      "duration_ms": 201854,
-      "name": "Something Right",
-      "url": "https://open.spotify.com/track/1QdijT3d4feqhc39m9Wm6a"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "Pedestrian Verse",
         "url": "https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x"
       },
@@ -1167,22 +1151,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7"
-      },
-      "artists": [
-        {
-          "name": "Modern Baseball",
-          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
-        }
-      ],
-      "duration_ms": 117345,
-      "name": "Apple Cider, I Don't Mind",
-      "url": "https://open.spotify.com/track/02SdGsV2CdVzFNaMiI33Uk"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "Promise Everything (Deluxe)",
         "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
       },
@@ -1195,6 +1163,38 @@
       "duration_ms": 222040,
       "name": "Aquasun",
       "url": "https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "Stovall",
+        "url": "https://open.spotify.com/album/5UE6N0IU0pfG18urYs44Wp"
+      },
+      "artists": [
+        {
+          "name": "Microwave",
+          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
+        }
+      ],
+      "duration_ms": 201854,
+      "name": "Something Right",
+      "url": "https://open.spotify.com/track/1QdijT3d4feqhc39m9Wm6a"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7"
+      },
+      "artists": [
+        {
+          "name": "Modern Baseball",
+          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
+        }
+      ],
+      "duration_ms": 117345,
+      "name": "Apple Cider, I Don't Mind",
+      "url": "https://open.spotify.com/track/02SdGsV2CdVzFNaMiI33Uk"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Slow Heart",
-        "url": "https://open.spotify.com/album/5rSuj8zTBnFqQETbm25sFb"
+        "name": "They Liked You Better When You Were Dead",
+        "url": "https://open.spotify.com/album/5ZbCUHOohVzwi7A6yrSJtj"
       },
       "artists": [
         {
-          "name": "Balance And Composure",
-          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
+          "name": "Fightstar",
+          "url": "https://open.spotify.com/artist/3CI0BdDDxe6D21RmqTB5fn"
         }
       ],
-      "duration_ms": 249800,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/5f4cJRc2JpB92ljQRJeA6K"
+      "duration_ms": 255720,
+      "name": "Palahniuk's Laughter",
+      "url": "https://open.spotify.com/track/4cpQ7ORCRYxBqzFyPkR4z3"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "They Liked You Better When You Were Dead",
-        "url": "https://open.spotify.com/album/5ZbCUHOohVzwi7A6yrSJtj"
+        "name": "Slow Heart",
+        "url": "https://open.spotify.com/album/5rSuj8zTBnFqQETbm25sFb"
       },
       "artists": [
         {
-          "name": "Fightstar",
-          "url": "https://open.spotify.com/artist/3CI0BdDDxe6D21RmqTB5fn"
+          "name": "Balance And Composure",
+          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
         }
       ],
-      "duration_ms": 255720,
-      "name": "Palahniuk's Laughter",
-      "url": "https://open.spotify.com/track/4cpQ7ORCRYxBqzFyPkR4z3"
+      "duration_ms": 249800,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/5f4cJRc2JpB92ljQRJeA6K"
     },
     {
       "added_at": "2024-03-25 10:22:05",

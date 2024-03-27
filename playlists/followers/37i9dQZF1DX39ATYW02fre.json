@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 226187,
+  "2024-03-27": 227724,
   "date_first_scraped": "2020-06-05",
   "description": "Beautiful electronic music for melancholy moments.",
   "name": "Melantronic",
@@ -425,7 +425,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 262650,
       "name": "Bamboo",
       "url": "https://open.spotify.com/track/1vZIfej2urUYkVkgwh0O7t"
@@ -2679,7 +2679,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 220630,
       "name": "Pastoral",
       "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"

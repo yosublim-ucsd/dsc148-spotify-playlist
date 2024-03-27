@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-117 songs - 13 hr 22 min
+118 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Addicted To Sound](https://open.spotify.com/track/0n8mAv9qq4ctyOvyZIdoHA) | [Roque](https://open.spotify.com/artist/0T58iqONtkqeUUMUC8RkdQ) | [Addicted To Sound](https://open.spotify.com/album/51gsn6IiCCZSXMsX6kpBZR) | 8:13 | 2022-09-14 | 2022-10-23 |
 | [All In You](https://open.spotify.com/track/75VD2d6BPTuESBrzRqD6xl) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Kemy Chienda](https://open.spotify.com/artist/21ubOXEDOMELSW2LDxG8HK) | [All In You](https://open.spotify.com/album/0YJOAYBMM8zEhcMNHnGe95) | 8:32 | 2022-09-14 | 2023-03-18 |
 | [Amplified Zone](https://open.spotify.com/track/4nfY8k8nVypCCVSVMnui86) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [Amplified Zone](https://open.spotify.com/album/3rvIj2PfEKBmJEmfMikco8) | 7:48 | 2022-11-17 | 2024-03-21 |
+| [Amplified Zone](https://open.spotify.com/track/5B9oWE2Yp4jigMRPqg6IYs) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [Amplified Zone](https://open.spotify.com/album/6BunQuy6Xhv9XDGJChRyzE) | 7:48 | 2024-03-15 |  |
 | [Angikaze](https://open.spotify.com/track/1n2LjzjCZPYx78wdxLHvH9) | [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe), [CocoSA](https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j), [George Lesley](https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL) | [Angikaze](https://open.spotify.com/album/24jSGmLZMp4TVNnD8GSDtE) | 6:43 | 2022-09-29 | 2023-03-18 |
 | [Another Day \(feat\. Ziyon\)](https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ) | [Sculptured Music](https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN), [Ziyon](https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy) | [Reputation](https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS) | 5:30 | 2024-02-15 |  |
 | [AWA \- Ralf GUM Vocal Mix Edit](https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK) | [AWA](https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe) | 3:59 | 2024-02-15 |  |
@@ -94,7 +95,7 @@
 | [Sarhalel \- Ed\-Ward Remix](https://open.spotify.com/track/0RAXgMtZEM2KFwbsVqFCYU) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Jonny Miller](https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Ed\-Ward, Intr0beatz & Jonny Miller Remixes](https://open.spotify.com/album/35EzfNv7BipGFSlUFlZbQX) | 6:10 | 2022-09-29 | 2023-03-18 |
 | [Schrödinger's Cat](https://open.spotify.com/track/0rXVfF7ICT4NpN0p3PfUb0) | [Graham Deep](https://open.spotify.com/artist/3PMsRDsMJopoHrverCOp1R) | [Enemies By Monday](https://open.spotify.com/album/5zHZUfKSjM3kmpcjnj9CQp) | 6:48 | 2022-09-14 | 2022-12-17 |
 | [See the Light](https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu) | [Bless\_SA](https://open.spotify.com/artist/3RMfjBJXOjT0YkyCOgxIFP), [Kyika DeSoul](https://open.spotify.com/artist/0DHLdEGkjuhY0DPiOa3w5I) | [See the Light](https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA) | 6:45 | 2023-03-17 |  |
-| [Seeking](https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4) | [Buder Prince](https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a), [Ruthes Ma](https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c) | [Seeking](https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe) | 6:37 | 2022-09-14 |  |
+| [Seeking](https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4) | [Buder Prince](https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a), [Ruthes Ma](https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c) | [Seeking](https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe) | 6:37 | 2022-09-14 | 2024-03-27 |
 | [She's On Fire](https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Fako](https://open.spotify.com/artist/31UA0KGX6iDmabcov805e1) | [She's On Fire](https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS) | 6:42 | 2022-09-14 | 2023-05-13 |
 | [Solidarity](https://open.spotify.com/track/4G7KOUK2WuiGNRArzcFeDU) | [Senzo C](https://open.spotify.com/artist/00rQpaR5oh9jwZlyGMB0yA) | [Solidarity](https://open.spotify.com/album/0kkXWIhomnQLgmgbCgVu9s) | 7:36 | 2023-05-12 | 2023-07-24 |
 | [Something For Closure](https://open.spotify.com/track/5AcxLIJg935Ak4NwrfAyeR) | [Roque](https://open.spotify.com/artist/0T58iqONtkqeUUMUC8RkdQ) | [Something For Closure](https://open.spotify.com/album/7B2FPlCkJ5um6rC6VI8Bsf) | 6:51 | 2022-09-14 | 2023-02-06 |

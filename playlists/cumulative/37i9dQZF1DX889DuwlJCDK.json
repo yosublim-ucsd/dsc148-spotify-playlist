@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-30",
-  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u30ea\u30e5\u30c3\u30af\u3068\u6dfb\u3044\u5bdd\u3054\u306f\u3093",
+  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: This Is LAST",
   "name": "\u9752\u6625\u3068\u4e00\u77ac",
   "tracks": [
     {
@@ -340,7 +340,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 215283,
       "name": "Any",
       "url": "https://open.spotify.com/track/5Daxs3uXYluqXbyrIIHbG3"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 238466,
       "name": "DAY DREAM BEAT",
       "url": "https://open.spotify.com/track/3RTwBdZ4AbiIwiUwcblBCs"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 165698,
       "name": "family",
       "url": "https://open.spotify.com/track/2PrSxo7E5pqBa9lFNJt1pz"
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 194638,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/26kGk6Ia807QHtzIftKY7s"
@@ -4654,7 +4654,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 274882,
       "name": "The song for youth",
       "url": "https://open.spotify.com/track/0GNpKRS1wjndypvfqoLOk8"
@@ -6479,6 +6479,24 @@
     },
     {
       "album": {
+        "name": "All Right",
+        "url": "https://open.spotify.com/album/46YRge9mufTuhuFD4IZr1n"
+      },
+      "artists": [
+        {
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182746,
+      "name": "\u30b5\u30fc\u30c1\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/4bCzS3990nEr5ljzxxeLAk"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30a7\u30ea\u30fc\u306f\u30d7\u30ec\u30a4\u30ac\u30fc\u30eb \u60b2\u3057\u307f\u306f\u3076\u3063\u3068\u3070\u305b",
         "url": "https://open.spotify.com/album/0Fv5oZ9tSrGN1ETY5vwZhk"
       },
@@ -7037,6 +7055,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30eb\u30ad\u30b2\u30cb\u30a2",
+        "url": "https://open.spotify.com/album/3ATSJVfCR0aRI0ZGAx0JxK"
+      },
+      "artists": [
+        {
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255218,
+      "name": "\u30cf\u30eb\u30ad\u30b2\u30cb\u30a2",
+      "url": "https://open.spotify.com/track/7EvQhxwe2M5U5pE287U43u"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30fc\u30c8\u30d6\u30ec\u30a4\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
         "url": "https://open.spotify.com/album/1aqfxGXKz8tIvIi95ibwoW"
       },
@@ -7505,6 +7541,24 @@
     },
     {
       "album": {
+        "name": "\u30de\u30fc\u30ac\u30ec\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/4kImCH3F6sEZW4dUJcKG6R"
+      },
+      "artists": [
+        {
+          "name": "Blue Mash",
+          "url": "https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260526,
+      "name": "\u30de\u30fc\u30ac\u30ec\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/2Bkkl5nQXfApA8gZAGumqZ"
+    },
+    {
+      "album": {
         "name": "\u30df\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/2IrEhqLiVmJZRgSY4W0djK"
       },
@@ -7775,6 +7829,24 @@
     },
     {
       "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/3XV2J1uGpn5kvPv4SYOXmF"
+      },
+      "artists": [
+        {
+          "name": "This is LAST",
+          "url": "https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266753,
+      "name": "\u30e9\u30d6\u30bd\u30f3\u30b0\u306b\u3082\u6642\u4ee3\u304c\u3042\u308b",
+      "url": "https://open.spotify.com/track/6Ak9ymTOdgPdPS1ll0pHDe"
+    },
+    {
+      "album": {
         "name": "\u30c7\u30bf\u30e9\u30e1\u512a\u7b49\u751f",
         "url": "https://open.spotify.com/album/7cNWZrG6bYcVmenvGwgR09"
       },
@@ -7804,7 +7876,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 224545,
       "name": "\u30e9\u30f4\u30a3\u30f3\u30b0",
       "url": "https://open.spotify.com/track/2CilkMMofhv0H1o7U8C0lR"

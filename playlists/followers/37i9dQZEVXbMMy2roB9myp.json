@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 1546591,
+  "2024-03-27": 1546788,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Argentina.",
   "name": "Top 50 - Argentina",
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 252347,
       "name": "ATORRANTE - con Los Palmeras",
       "url": "https://open.spotify.com/track/3ezO8gfskSWM3rk0GTfhFl"
@@ -10885,7 +10885,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 162767,
       "name": "PERRO NEGRO",
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"

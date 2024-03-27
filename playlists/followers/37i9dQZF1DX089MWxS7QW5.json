@@ -1,7 +1,7 @@
 {
-  "2024-03-26": 50169,
+  "2024-03-27": 50207,
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Tabber(\ud0dc\ubc84))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: dori)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -1868,6 +1868,24 @@
     },
     {
       "album": {
+        "name": "Fake Happy",
+        "url": "https://open.spotify.com/album/3Yrgk8MqQG9YCUls0iSLHv"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170746,
+      "name": "Fake Happy",
+      "url": "https://open.spotify.com/track/7z45AkgscpK9Vh5WyfF3iP"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/0W2tomlU7AZNbr2wVe1gpY"
       },
@@ -2279,6 +2297,28 @@
       "duration_ms": 196844,
       "name": "Goldfish (Feat. Blueny of OuiOui)",
       "url": "https://open.spotify.com/track/0A44VMmhs42WXCNYJGeDLM"
+    },
+    {
+      "album": {
+        "name": "Good Night",
+        "url": "https://open.spotify.com/album/0S365TsIKb9yDT5DERw3Yh"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Claire Young",
+          "url": "https://open.spotify.com/artist/2EAeGGLucN4aHbThuV2MgA"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211146,
+      "name": "Good Night (feat. Claire Young)",
+      "url": "https://open.spotify.com/track/3cYii2G5OJVFwDN598fYs2"
     },
     {
       "album": {
@@ -4554,6 +4594,24 @@
     },
     {
       "album": {
+        "name": "SIDE",
+        "url": "https://open.spotify.com/album/6GO5T0RNrBgnwppYd0CLO3"
+      },
+      "artists": [
+        {
+          "name": "blessed.",
+          "url": "https://open.spotify.com/artist/54Y80c5eEYbnlvCmIPKf6W"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230322,
+      "name": "SIDE",
+      "url": "https://open.spotify.com/track/6tQxgxb63XBelPTNtD02I2"
+    },
+    {
+      "album": {
         "name": "I wanna be your deepest heart",
         "url": "https://open.spotify.com/album/7INMtslivPf4Op0LaJ8X6T"
       },
@@ -4599,6 +4657,24 @@
       "duration_ms": 167500,
       "name": "Siren",
       "url": "https://open.spotify.com/track/2Oygz6GbZrGjUgfyXSxZLO"
+    },
+    {
+      "album": {
+        "name": "Cinema Pt. 2",
+        "url": "https://open.spotify.com/album/2CPsUAUJvUIFuqK5zlQZa9"
+      },
+      "artists": [
+        {
+          "name": "dori",
+          "url": "https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197480,
+      "name": "Sketch",
+      "url": "https://open.spotify.com/track/2HXdn9Zi25cfTyjaSxoomQ"
     },
     {
       "album": {

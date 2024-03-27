@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 84246,
+  "num_followers": 84299,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTgxYjI0OWY0NjI1ZmNhOWQ1YjVlNGNlOTRiYjE0YTYwMmZiNzhj",
+  "snapshot_id": "MCw0NmNmYjQxNzczYzEwYjMzMTgwNGI4NTkxMzAxYjhmY2Q4ZTZkOTYx",
   "tracks": [
     {
       "added_at": "2023-10-27 07:45:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/28rmYerSDjX81r5KCevY7G"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
         "name": "Noise Floor (Rarities: 1998-2005)",
         "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 235325,
       "name": "St. Charles Square",
       "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/28rmYerSDjX81r5KCevY7G"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "No Regerts",
-        "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
-      },
-      "artists": [
-        {
-          "name": "Chastity Belt",
-          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
-        }
-      ],
-      "duration_ms": 159883,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Veronica Falls",
         "url": "https://open.spotify.com/album/14vFC84BzjOc8Ud9ga0vFi"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 239066,
       "name": "Found Love in a Graveyard",
       "url": "https://open.spotify.com/track/6o1oknbpGILs6eG8q3j8vV"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "No Regerts",
+        "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
+      },
+      "artists": [
+        {
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+        }
+      ],
+      "duration_ms": 159883,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi"
     },
     {
       "added_at": "2023-10-27 07:45:00",

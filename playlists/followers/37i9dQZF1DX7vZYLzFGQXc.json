@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 48607,
+  "2024-03-27": 48625,
   "date_first_scraped": "2022-01-09",
   "description": "Fresh new Korean independent & rising talents are here. (Cover: IMI_BLUE(\uc774\ubbf8\ube14\ub8e8))(\ud504\ub808\uc26c\ud55c \ud55c\uad6d\uc758 \uc0c8\ub85c\uc6b4 \uc7ac\ub2a5\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Fresh Finds Korea",
@@ -21534,6 +21534,28 @@
     },
     {
       "album": {
+        "name": "Wave on the sea (feat. Dawool Park)",
+        "url": "https://open.spotify.com/album/7ep78d3iBbSYFb9vlvvn7t"
+      },
+      "artists": [
+        {
+          "name": "PITTA",
+          "url": "https://open.spotify.com/artist/6XM2UmNjSqY2kwSP0hoZDI"
+        },
+        {
+          "name": "Dawool Park",
+          "url": "https://open.spotify.com/artist/3Ravkk848Sqvei9Fe8lZlg"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262750,
+      "name": "Wave on the sea (feat. Dawool Park)",
+      "url": "https://open.spotify.com/track/5qC95MhoHhn9c879EdjLut"
+    },
+    {
+      "album": {
         "name": "Way to go (feat. MNZU)",
         "url": "https://open.spotify.com/album/5r6YyNnljv5XpJDQMEkWga"
       },
@@ -24403,28 +24425,6 @@
       "duration_ms": 177500,
       "name": "\ud488",
       "url": "https://open.spotify.com/track/3jylDNmrfXP8pVZmJxcIqt"
-    },
-    {
-      "album": {
-        "name": "\ud574\ubb34 Wave on the sea (feat. \ubc15\ub2e4\uc6b8)",
-        "url": "https://open.spotify.com/album/7ep78d3iBbSYFb9vlvvn7t"
-      },
-      "artists": [
-        {
-          "name": "PITTA",
-          "url": "https://open.spotify.com/artist/6XM2UmNjSqY2kwSP0hoZDI"
-        },
-        {
-          "name": "\ubc15\ub2e4\uc6b8",
-          "url": "https://open.spotify.com/artist/2nHQE7gMrZ6yyTTPhIsCd4"
-        }
-      ],
-      "date_added": "2024-01-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 262750,
-      "name": "\ud574\ubb34 Wave on the sea (feat. \ubc15\ub2e4\uc6b8)",
-      "url": "https://open.spotify.com/track/5qC95MhoHhn9c879EdjLut"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc"

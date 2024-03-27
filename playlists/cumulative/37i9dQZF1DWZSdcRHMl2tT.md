@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-436 songs - 21 hr 46 min
+438 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [diced pineapple](https://open.spotify.com/track/3Z7e2ZAeI9RBX8BFOFwNc1) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [diced pineapple](https://open.spotify.com/album/65yxYvCmn7OmDydhzPYSD3) | 3:21 | 2022-07-08 |  |
 | [Disparate Vibes](https://open.spotify.com/track/5yqk6ppoMmuXWtWrzBNL9t) | [Malacca](https://open.spotify.com/artist/3CefIz6qIlfMy80r0vZJxX) | [Disparate Vibes](https://open.spotify.com/album/1SJiT6rCcQKmAPFhP07RZl) | 3:18 | 2022-10-07 |  |
 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 | 2022-04-05 |  |
+| [don't blame the daylight](https://open.spotify.com/track/4IlJCdoYJOqg5mnSJdCI5h) | [aiXer](https://open.spotify.com/artist/38cxiZaVtAaOFokZfEN9Df) | [don't blame the daylight](https://open.spotify.com/album/3oSL1O5yE8E83Mi9muPpLw) | 2:30 | 2024-03-26 |  |
 | [Don't Need To Worry](https://open.spotify.com/track/3KvSUFp8MX70Yd6am0Fp7s) | [Simple Jim](https://open.spotify.com/artist/2Y6SBRbLR1gABs3chvSUu0) | [Don't Need To Worry](https://open.spotify.com/album/2KAEt4Okt4qGb2rIMIs0ah) | 2:10 | 2023-04-14 |  |
 | [Don't Stop](https://open.spotify.com/track/6qB3DyehKho1J6Iv73L21Q) | [Ogiv](https://open.spotify.com/artist/6eBnuZ3lPeKDSPjGRdjQc9) | [Don't Stop](https://open.spotify.com/album/1MxDM1ymQdrn9IqRU3m79M) | 2:08 | 2024-01-23 |  |
 | [Don't You Know?](https://open.spotify.com/track/5qejNRsGXyw9p7qVaTocPm) | [Reya Silk](https://open.spotify.com/artist/4xpRAPHVyirmL93zZGQsps) | [Don't You Know?](https://open.spotify.com/album/6lEb1p0SYafJ734pQ1ceu4) | 2:17 | 2022-04-05 | 2022-07-01 |
@@ -295,6 +296,7 @@
 | [Peach Perfect](https://open.spotify.com/track/7K6gOJzKCvjPy8CFcvNJ0Y) | [Monsieur Sémillon](https://open.spotify.com/artist/1R9RaHyXcL3HUOh0Nbcwq3) | [Peach Perfect](https://open.spotify.com/album/4WqfKyacXs3iVH1F8TliOq) | 2:19 | 2024-02-13 |  |
 | [Peachess](https://open.spotify.com/track/4IGRNWjPIK2diFXhAIP7hT) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Peachess](https://open.spotify.com/album/0nSvJfCCj7OTvGGhjGysyw) | 2:51 | 2022-08-19 |  |
 | [Pictures](https://open.spotify.com/track/1rjsmzE5H51NhkH4W9Iwie) | [Urban Curls](https://open.spotify.com/artist/6cvuKU8oG3PqgwiJreZLfI) | [Pictures](https://open.spotify.com/album/4xgDVe0RqOtwegdGP21AFR) | 2:55 | 2022-07-22 |  |
+| [Pink](https://open.spotify.com/track/5hAAIFnYe7uZRQBqodvNLe) | [Francois Lé](https://open.spotify.com/artist/7b8S7uo3rDxdm0W1fJv7BX) | [Pink](https://open.spotify.com/album/4oBIfNEVdSIaFGcl1kbChy) | 2:09 | 2024-03-26 |  |
 | [Pinkland](https://open.spotify.com/track/3NrEA3JQTvVFfy6BMPy8EH) | [Young Community](https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR) | [Pinkland](https://open.spotify.com/album/2uEEJf58UChxAoZWm7YGat) | 5:29 | 2022-04-15 | 2022-07-22 |
 | [Play Day](https://open.spotify.com/track/0Uh3tGWukoXgGxsZvPLtmw) | [Oskarr Starr](https://open.spotify.com/artist/0j6bCXv5JPvFkLqPlcwlZ9) | [Play Day](https://open.spotify.com/album/0UKqrWV652dKSlLiF641a9) | 4:02 | 2022-04-05 | 2022-07-29 |
 | [Play It Deep](https://open.spotify.com/track/7CMPSvxS4twJI3a7RYOC6j) | [BLK BX](https://open.spotify.com/artist/1y1qkzZPEQRXs5lHzqQP41) | [Play it Deep](https://open.spotify.com/album/3r6lYpUQHUjQEpXI7mlRzh) | 2:55 | 2022-04-05 | 2022-09-09 |

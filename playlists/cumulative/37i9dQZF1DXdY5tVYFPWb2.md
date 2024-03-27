@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-801 songs - 2 day 4 hr 42 min
+803 songs - 2 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,6 +632,7 @@
 | [スウィートインスピレーション \- feat\. 仮谷せいら](https://open.spotify.com/track/7sLGRcKrp4km7tCeQUgaWJ) | [アンニュイ・ホリデイ](https://open.spotify.com/artist/4bvnpQWFoBrNWySwtF8b3b), [Seira Kariya](https://open.spotify.com/artist/0iJ6VIGJffJ0vCLJHc3xqO) | [スウィートインスピレーション \(feat\. 仮谷せいら\)](https://open.spotify.com/album/0fpUZbFCy7eyvKQcycy8Uf) | 4:59 | 2022-11-15 | 2022-11-23 |
 | [スウィート・ソウル・レヴュー \(duet with Rainych, feat\. evening cinema\)](https://open.spotify.com/track/7zc7YIxrfTzXSXTe6oQKwH) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Rainych](https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r), [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [スウィート・ソウル・レヴュー \(duet with Rainych, feat\. evening cinema\)](https://open.spotify.com/album/3spkvo7ENdH913rigIMaKI) | 4:34 | 2022-05-24 | 2022-07-27 |
 | [スターダスト](https://open.spotify.com/track/0OzrEXUFsOMbQtoIm39nj6) | [高岩 遼](https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd) | [スターダスト](https://open.spotify.com/album/5T45dqv3Icqw1wLx3Ah9YV) | 3:30 | 2024-02-29 |  |
+| [スパンコールの女](https://open.spotify.com/track/1LGqKRFZOEXobQcfk5d2Ue) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:30 | 2024-03-26 |  |
 | [スパンコールの女](https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [愛が一層メロウ \- Single](https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV) | 3:38 | 2023-01-17 | 2024-03-23 |
 | [ズラかれ](https://open.spotify.com/track/2ojNegUZsjmLDC4g4TG3tv) | [Akabane New Romantica](https://open.spotify.com/artist/0dtId6LlA1ZzD8PcoZaRVi) | [City Poop](https://open.spotify.com/album/7tOhv2taU7PYphcUWE5kuO) | 3:04 | 2022-05-24 | 2022-07-28 |
 | [ソーダポップ](https://open.spotify.com/track/7JyF36LuFCh0xDyZEVbuY9) | [トナリノサティ](https://open.spotify.com/artist/6hLQxYUIxrMWCkCUVB0P18) | [ソーダポップ](https://open.spotify.com/album/2ogIHpYUWjpnvzMvjxqOJG) | 2:55 | 2022-07-12 | 2022-07-20 |
@@ -727,7 +728,7 @@
 | [恋はジェラシー](https://open.spotify.com/track/6IXn8HunEvFtT6yihvgkYC) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [恋はジェラシー](https://open.spotify.com/album/0VzuX0pUtargb2ROyJgWXO) | 4:06 | 2023-01-24 | 2023-01-26 |
 | [恋は流星 Part Ⅱ](https://open.spotify.com/track/7ENEQQY8yvG7zseEkiS9Rg) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [TWILIGHT TIME](https://open.spotify.com/album/0WNOuQ9sN0J3lV3pkzrJMu) | 5:28 | 2022-06-14 | 2022-06-22 |
 | [恋標](https://open.spotify.com/track/1KjHPv0YOx8YgxV8nkChtk) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [恋標](https://open.spotify.com/album/0ESQn0GT1BrZTudVaIhoZ3) | 3:32 | 2022-07-27 | 2022-07-29 |
-| [悲しみがとまらない I CAN'T STOP THE LONLINESS \(feat\. ひかり\)](https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [悲しみがとまらない I CAN'T STOP THE LONLINESS \(feat\. ひかり\)](https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ) | 4:35 | 2022-05-24 |  |
+| [悲しみがとまらない I CAN'T STOP THE LONLINESS \(feat\. ひかり\)](https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [悲しみがとまらない I CAN'T STOP THE LONLINESS \(feat\. ひかり\)](https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ) | 4:35 | 2022-05-24 | 2024-03-27 |
 | [愛が一層メロウ](https://open.spotify.com/track/1s4jmPayW30yQFFOjehEFB) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:11 | 2024-03-19 |  |
 | [愛が一層メロウ](https://open.spotify.com/track/1kwO1OLDhgP4H0TnieLYio) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [愛が一層メロウ](https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV) | 3:12 | 2024-01-14 | 2024-03-20 |
 | [愛してるなんて今更](https://open.spotify.com/track/0bZLJwPW1jjTkzRcvB8sXC) | [ネオンに恋して](https://open.spotify.com/artist/0nUqLbbcq3ZxXPjaU76nB9) | [愛してるなんて今更](https://open.spotify.com/album/3jXkIlnD4d3kAAMpH0akbF) | 4:11 | 2023-12-12 | 2023-12-20 |
@@ -761,7 +762,7 @@
 | [潮騒\(feat\. 堀込泰行\)](https://open.spotify.com/track/2IG4w90GCE7P5w5Bu4kyY7) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM), [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj) | [潮騒\(feat\. 堀込泰行\)](https://open.spotify.com/album/1B3X7xeu3s7DR0g4udB640) | 5:00 | 2022-05-28 | 2022-06-15 |
 | [灯火 \(feat\. miida\)](https://open.spotify.com/track/6mtkUqVaMoJBMG86f0RTul) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [灯火 \(feat\. miida\)](https://open.spotify.com/album/0QRJ0PwVSFNg6KKla8CMtq) | 3:04 | 2023-01-31 | 2023-03-08 |
 | [無添加](https://open.spotify.com/track/6XjFPsbkATcM5XQP13WPMv) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [無添加](https://open.spotify.com/album/0BHc0krSxXLBO1LDLvuPs0) | 5:20 | 2023-05-16 | 2023-06-17 |
-| [無限さ](https://open.spotify.com/track/5hXzy6s8VF91bebMSzsd8O) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [無限さ](https://open.spotify.com/album/69vfAcogRrDZ6sHa9zoGjZ) | 4:01 | 2023-11-10 |  |
+| [無限さ](https://open.spotify.com/track/5hXzy6s8VF91bebMSzsd8O) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [無限さ](https://open.spotify.com/album/69vfAcogRrDZ6sHa9zoGjZ) | 4:01 | 2023-11-10 | 2024-03-27 |
 | [煙](https://open.spotify.com/track/7DM37TLV1vS7DQLeVAvaa6) | [Benlou](https://open.spotify.com/artist/4sECzRxkhQ0LmFaufbgbKj) | [煙 EP](https://open.spotify.com/album/6v2XkCRkxNbFsfITJcTKEA) | 3:34 | 2023-01-31 | 2023-02-02 |
 | [煙たがられて feat\. 細野晴臣](https://open.spotify.com/track/2L48NZsLCdJUZDiqNMIwaK) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [7+](https://open.spotify.com/album/6zqCDu9CpRqAgR8J9ZFmHc) | 3:49 | 2022-06-28 | 2022-07-06 |
 | [熱帯夜](https://open.spotify.com/track/112kowSRpto8kuq8ZJYkWc) | [swim swim](https://open.spotify.com/artist/2se9xMe6mXRqmRQD8jmNpf) | [熱帯夜](https://open.spotify.com/album/3BiSgv3GdEveK9Mt2nlXtL) | 4:04 | 2022-08-16 | 2022-09-30 |
@@ -775,6 +776,7 @@
 | [真珠のピアス](https://open.spotify.com/track/5hkG4VCXTufcT05JSZqyRg) | [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [ユーミン乾杯!!～松任谷由実50周年記念コラボベストアルバム～](https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX) | 5:36 | 2023-12-19 |  |
 | [真空](https://open.spotify.com/track/1RrvJAxJivlXwm0j6QUW7t) | [YUJI NAKADA](https://open.spotify.com/artist/7Kbz6xbASLAYT072Z3ZRCS) | [MOONAGE](https://open.spotify.com/album/0NTio3e2DJlseuJsFUQQeb) | 4:04 | 2023-04-25 | 2023-05-10 |
 | [眠らないでよ feat\. 原田郁子](https://open.spotify.com/track/0zwJIjcKcpkWqIJj9DwBzZ) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [眠らないでよ feat\. 原田郁子](https://open.spotify.com/album/6kSvRLfGtkjgoQDGcseEOr) | 4:17 | 2023-04-04 | 2023-04-06 |
+| [眩しい、眩しすぎる](https://open.spotify.com/track/0GgTd7vT5PgAmLhNl49i9k) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:52 | 2024-03-26 |  |
 | [眩しい、眩しすぎる](https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [眩しい、眩しすぎる](https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW) | 3:54 | 2023-08-29 | 2024-03-22 |
 | [眩しい街、黒い犬](https://open.spotify.com/track/4iWMAej6JVsPKf0TrmkhsF) | [sty](https://open.spotify.com/artist/1Bx5PeSHoY8IjIOZMnBo3Z) | [City & Bops](https://open.spotify.com/album/53fKjDCrTAVr9MU4fkXFsc) | 3:07 | 2022-05-24 | 2022-06-02 |
 | [瞳惚れ](https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [瞳惚れ](https://open.spotify.com/album/4qVQrqIXH8XToBGY4SOOss) | 4:17 | 2022-10-27 | 2023-02-22 |

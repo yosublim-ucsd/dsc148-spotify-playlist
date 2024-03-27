@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 179,
+  "num_followers": 48,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGJkMGUzY2MzOTc1MDE1ZDQ4NTdkMDBkYTE5Y2IzYjM2YWJlNjVl",
+  "snapshot_id": "MCw2NWJlYWFiYmI3ZjI5MDkwMjJkMThmMDg2NTQ5YzIwYzVmMTljZTcy",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Rhodes Island",
-        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
-      },
-      "artists": [
-        {
-          "name": "VIGI",
-          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "80s In My Blood",
-      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Groove Society",
         "url": "https://open.spotify.com/album/2Wo73jPoFsRo6LNldU3GnP"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 183372,
       "name": "Groove Society",
       "url": "https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Rhodes Island",
+        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
+      },
+      "artists": [
+        {
+          "name": "VIGI",
+          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "80s In My Blood",
+      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Forgive Me",
-        "url": "https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ"
-      },
-      "artists": [
-        {
-          "name": "Scuba",
-          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
-        }
-      ],
-      "duration_ms": 339391,
-      "name": "Forgive Me",
-      "url": "https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Ardore (feat. Tobias Bernstrup)",
         "url": "https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT"
       },
@@ -559,18 +543,18 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Know You",
-        "url": "https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm"
+        "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ"
       },
       "artists": [
         {
-          "name": "Lauer",
-          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+          "name": "Scuba",
+          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
         }
       ],
-      "duration_ms": 224262,
-      "name": "Know You",
-      "url": "https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk"
+      "duration_ms": 339391,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -587,6 +571,22 @@
       "duration_ms": 241889,
       "name": "Street Rave - Edit",
       "url": "https://open.spotify.com/track/3rsXgZfEg5ETKOeLXDxCUn"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Know You",
+        "url": "https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm"
+      },
+      "artists": [
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Know You",
+      "url": "https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk"
     },
     {
       "added_at": "2021-08-27 15:45:01",

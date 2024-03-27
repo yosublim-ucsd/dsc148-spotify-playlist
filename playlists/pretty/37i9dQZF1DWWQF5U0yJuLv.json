@@ -1,12 +1,12 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 12151,
+  "num_followers": 12155,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWVmOWYzNWZlMzQ4MTY2ZjQzMjkyMzYzMDAwZDRjMjE5ZGIzMTRj",
+  "snapshot_id": "MCxiYTMyYjZhYzc5OTc1OTRiZDYzMjkyZjk2MzM3N2FkM2Y5MTdmZDFk",
   "tracks": [
     {
       "added_at": "2023-02-17 01:10:22",
@@ -921,6 +921,22 @@
       "url": "https://open.spotify.com/track/0CFeLYd2oDWNFONwZSo65G"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Continuous Portrait",
+        "url": "https://open.spotify.com/album/51QtuRQyWyidnzs3ZNVue7"
+      },
+      "artists": [
+        {
+          "name": "Inventions",
+          "url": "https://open.spotify.com/artist/356y23wKxVdd7IowNVCSlW"
+        }
+      ],
+      "duration_ms": 210670,
+      "name": "Outlook for the Future",
+      "url": "https://open.spotify.com/track/0nMswZQeNQF96yypz93dwE"
+    },
+    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Ikiru",
@@ -935,22 +951,6 @@
       "duration_ms": 223375,
       "name": "Ikiru",
       "url": "https://open.spotify.com/track/24Gn3xI5AkAQTriCekLrf1"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Fahrenheit Fair Enough",
-        "url": "https://open.spotify.com/album/27teXombBxDGNa9f5jtOr2"
-      },
-      "artists": [
-        {
-          "name": "Telefon Tel Aviv",
-          "url": "https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC"
-        }
-      ],
-      "duration_ms": 400293,
-      "name": "Fahrenheit Fair Enough",
-      "url": "https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh"
     },
     {
       "added_at": "2023-02-17 01:29:01",
@@ -971,6 +971,22 @@
       "duration_ms": 191000,
       "name": "E.V.A.",
       "url": "https://open.spotify.com/track/4nQNNwnIUUmFzVOcVVJCk1"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Fahrenheit Fair Enough",
+        "url": "https://open.spotify.com/album/27teXombBxDGNa9f5jtOr2"
+      },
+      "artists": [
+        {
+          "name": "Telefon Tel Aviv",
+          "url": "https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC"
+        }
+      ],
+      "duration_ms": 400293,
+      "name": "Fahrenheit Fair Enough",
+      "url": "https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh"
     },
     {
       "added_at": "2023-08-29 01:12:43",
@@ -1073,22 +1089,6 @@
       "url": "https://open.spotify.com/track/0LoinP9A7yG0Irl0evvU2b"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Continuous Portrait",
-        "url": "https://open.spotify.com/album/51QtuRQyWyidnzs3ZNVue7"
-      },
-      "artists": [
-        {
-          "name": "Inventions",
-          "url": "https://open.spotify.com/artist/356y23wKxVdd7IowNVCSlW"
-        }
-      ],
-      "duration_ms": 210670,
-      "name": "Outlook for the Future",
-      "url": "https://open.spotify.com/track/0nMswZQeNQF96yypz93dwE"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Truffles Sprinkles",
@@ -1157,26 +1157,6 @@
       "url": "https://open.spotify.com/track/02svSerh4F5X5Fn3rdnd93"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Double Figure",
-        "url": "https://open.spotify.com/album/3194Mf7OpqJqCGJpv9lRFB"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        },
-        {
-          "name": "Benet Walsh",
-          "url": "https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY"
-        }
-      ],
-      "duration_ms": 260972,
-      "name": "Eyen",
-      "url": "https://open.spotify.com/track/0w1P0lcWUKniBbJfcz8Hvy"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Mahi Mahi",
@@ -1199,6 +1179,26 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Double Figure",
+        "url": "https://open.spotify.com/album/3194Mf7OpqJqCGJpv9lRFB"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        },
+        {
+          "name": "Benet Walsh",
+          "url": "https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY"
+        }
+      ],
+      "duration_ms": 260972,
+      "name": "Eyen",
+      "url": "https://open.spotify.com/track/0w1P0lcWUKniBbJfcz8Hvy"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1237,38 +1237,6 @@
       "url": "https://open.spotify.com/track/1x9zn5iITjMAg6rJF5FdoX"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Good Places",
-        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 266526,
-      "name": "Good Places",
-      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Polymer",
-        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Dancers",
-      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Hypernatural",
@@ -1287,6 +1255,22 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
+        "name": "Good Places",
+        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 266526,
+      "name": "Good Places",
+      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
         "name": "Maracuy\u00e1",
         "url": "https://open.spotify.com/album/782NCRRX6A2vjARVbugrIi"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 182000,
       "name": "Maracuy\u00e1",
       "url": "https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Polymer",
+        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Dancers",
+      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/4bbC2PWt5QDvICHQBUXyj4"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/6WJxRoJgFPTxi9odNrGKKp"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 190213,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/7oYOdF7lpYvwYNLk3BWNpD"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "For Beginner Piano",
@@ -1587,6 +1571,22 @@
       "duration_ms": 347800,
       "name": "Moodswing",
       "url": "https://open.spotify.com/track/5lztNaNPhBTrfygH1BO1W2"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/6WJxRoJgFPTxi9odNrGKKp"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/7oYOdF7lpYvwYNLk3BWNpD"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Expert Knob Twiddlers",
-        "url": "https://open.spotify.com/album/0HlGVb8TqEG6hlE9OVhCxW"
-      },
-      "artists": [
-        {
-          "name": "Mike & Rich",
-          "url": "https://open.spotify.com/artist/6J3zaNqIk0fXXFhpbLDg0H"
-        }
-      ],
-      "duration_ms": 413384,
-      "name": "Mr. Frosty",
-      "url": "https://open.spotify.com/track/0dl9NcB987SNb5bUqHQsxG"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
         "name": "Space Oddities: Studio Ganaro (1972-1982)",
         "url": "https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU"
       },
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2023-02-17 01:53:11",
       "album": {
+        "name": "Expert Knob Twiddlers",
+        "url": "https://open.spotify.com/album/0HlGVb8TqEG6hlE9OVhCxW"
+      },
+      "artists": [
+        {
+          "name": "Mike & Rich",
+          "url": "https://open.spotify.com/artist/6J3zaNqIk0fXXFhpbLDg0H"
+        }
+      ],
+      "duration_ms": 413384,
+      "name": "Mr. Frosty",
+      "url": "https://open.spotify.com/track/0dl9NcB987SNb5bUqHQsxG"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
         "name": "Body Riddle",
         "url": "https://open.spotify.com/album/3ofEXRsMidOzWed9dZsqfg"
       },
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Amaat One",
-        "url": "https://open.spotify.com/album/2elBATB2nvWGsWxvCPwQwU"
-      },
-      "artists": [
-        {
-          "name": "Manatee Commune",
-          "url": "https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Amaat One",
-      "url": "https://open.spotify.com/track/7oY7hsyhvGS5rVaMszDEEh"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
         "name": "Rounds (Special Anniversary Edition)",
         "url": "https://open.spotify.com/album/6ebN0Gkim6B1SDSp2ZbwI1"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 341160,
       "name": "Hands",
       "url": "https://open.spotify.com/track/2UFR9rHVRKPVMC5DeZvO1P"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Amaat One",
+        "url": "https://open.spotify.com/album/2elBATB2nvWGsWxvCPwQwU"
+      },
+      "artists": [
+        {
+          "name": "Manatee Commune",
+          "url": "https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Amaat One",
+      "url": "https://open.spotify.com/track/7oY7hsyhvGS5rVaMszDEEh"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2085,6 +2085,22 @@
       "url": "https://open.spotify.com/track/4t2rtg8xGq6hKgXmDJzq3k"
     },
     {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Sculpturegardening",
+        "url": "https://open.spotify.com/album/4emr9Zigmx0ZzqXF2FGEs3"
+      },
+      "artists": [
+        {
+          "name": "Tristan Arp",
+          "url": "https://open.spotify.com/artist/5PvxHyYKtHsyyI5XjdqnD9"
+        }
+      ],
+      "duration_ms": 257862,
+      "name": "From The Seams",
+      "url": "https://open.spotify.com/track/1JnBldJPPq06C2OPpapjPz"
+    },
+    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Coasting",
@@ -2103,22 +2119,6 @@
       "duration_ms": 164570,
       "name": "Walter's Jam",
       "url": "https://open.spotify.com/track/3JrmjH5RdUpW2bI5JAGCt4"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Sculpturegardening",
-        "url": "https://open.spotify.com/album/4emr9Zigmx0ZzqXF2FGEs3"
-      },
-      "artists": [
-        {
-          "name": "Tristan Arp",
-          "url": "https://open.spotify.com/artist/5PvxHyYKtHsyyI5XjdqnD9"
-        }
-      ],
-      "duration_ms": 257862,
-      "name": "From The Seams",
-      "url": "https://open.spotify.com/track/1JnBldJPPq06C2OPpapjPz"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2187,26 +2187,18 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "SEIM",
-        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
+        "name": "Lucky Cat",
+        "url": "https://open.spotify.com/album/3ctNSs8cZLgDfDVmQvdgM8"
       },
       "artists": [
         {
-          "name": "QUINQUIS",
-          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
-        },
-        {
-          "name": "Gareth Jones",
-          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
-        },
-        {
-          "name": "\u00d3lavur J\u00e1kupsson",
-          "url": "https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG"
+          "name": "Isan",
+          "url": "https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC"
         }
       ],
-      "duration_ms": 311533,
-      "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
-      "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
+      "duration_ms": 312946,
+      "name": "Cathart",
+      "url": "https://open.spotify.com/track/27F81Z0W6wfUdKH0u7f3iX"
     },
     {
       "added_at": "2023-07-28 21:27:55",
@@ -2231,34 +2223,26 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Lucky Cat",
-        "url": "https://open.spotify.com/album/3ctNSs8cZLgDfDVmQvdgM8"
+        "name": "SEIM",
+        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
       },
       "artists": [
         {
-          "name": "Isan",
-          "url": "https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC"
-        }
-      ],
-      "duration_ms": 312946,
-      "name": "Cathart",
-      "url": "https://open.spotify.com/track/27F81Z0W6wfUdKH0u7f3iX"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/48llH65qm1x3kOmAyXES7v"
-      },
-      "artists": [
+          "name": "QUINQUIS",
+          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
+        },
         {
-          "name": "Datach'i",
-          "url": "https://open.spotify.com/artist/6ZULITXmOFWJwJKilsFRm7"
+          "name": "Gareth Jones",
+          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
+        },
+        {
+          "name": "\u00d3lavur J\u00e1kupsson",
+          "url": "https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG"
         }
       ],
-      "duration_ms": 276600,
-      "name": "Rockledge 3A",
-      "url": "https://open.spotify.com/track/2zj92WTGAoXgdXXv0TjS6W"
+      "duration_ms": 311533,
+      "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
+      "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -2277,24 +2261,20 @@
       "url": "https://open.spotify.com/track/4bXwtTkkedf9RHndi65kcC"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
+      "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "lux_",
-        "url": "https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs"
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/48llH65qm1x3kOmAyXES7v"
       },
       "artists": [
         {
-          "name": "DARK",
-          "url": "https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM"
-        },
-        {
-          "name": "The Surrealist",
-          "url": "https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy"
+          "name": "Datach'i",
+          "url": "https://open.spotify.com/artist/6ZULITXmOFWJwJKilsFRm7"
         }
       ],
-      "duration_ms": 195960,
-      "name": "lux_",
-      "url": "https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z"
+      "duration_ms": 276600,
+      "name": "Rockledge 3A",
+      "url": "https://open.spotify.com/track/2zj92WTGAoXgdXXv0TjS6W"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2327,6 +2307,26 @@
       "duration_ms": 402024,
       "name": "Body Control",
       "url": "https://open.spotify.com/track/2p7F1Vq0oW7B5RKk50RuHC"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "lux_",
+        "url": "https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs"
+      },
+      "artists": [
+        {
+          "name": "DARK",
+          "url": "https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM"
+        },
+        {
+          "name": "The Surrealist",
+          "url": "https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "lux_",
+      "url": "https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2409,20 +2409,20 @@
       "url": "https://open.spotify.com/track/2v2oXIi7utdaPqH7Hz40lo"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Body Riddle (Remastered)",
-        "url": "https://open.spotify.com/album/4bH9Kc6e6sRxGoMrX1NUup"
+        "name": "First Lesson",
+        "url": "https://open.spotify.com/album/40nSeTMuFMiMHvwIwncgQG"
       },
       "artists": [
         {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+          "name": "Bur\u0113ku",
+          "url": "https://open.spotify.com/artist/4ZROS5RylFIQnzi4SRTHVH"
         }
       ],
-      "duration_ms": 174560,
-      "name": "Ted",
-      "url": "https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN"
+      "duration_ms": 135529,
+      "name": "Cat Friend",
+      "url": "https://open.spotify.com/track/5KqCoQucFcqcUCzpA2MveP"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -2445,20 +2445,20 @@
       "url": "https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
+      "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "First Lesson",
-        "url": "https://open.spotify.com/album/40nSeTMuFMiMHvwIwncgQG"
+        "name": "Body Riddle (Remastered)",
+        "url": "https://open.spotify.com/album/4bH9Kc6e6sRxGoMrX1NUup"
       },
       "artists": [
         {
-          "name": "Bur\u0113ku",
-          "url": "https://open.spotify.com/artist/4ZROS5RylFIQnzi4SRTHVH"
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
         }
       ],
-      "duration_ms": 135529,
-      "name": "Cat Friend",
-      "url": "https://open.spotify.com/track/5KqCoQucFcqcUCzpA2MveP"
+      "duration_ms": 174560,
+      "name": "Ted",
+      "url": "https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN"
     },
     {
       "added_at": "2023-02-17 01:10:22",

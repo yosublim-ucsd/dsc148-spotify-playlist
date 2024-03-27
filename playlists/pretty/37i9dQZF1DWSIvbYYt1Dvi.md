@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > poetisas no topo \(com ctz\) é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208,141 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208,158 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Zona Sul](https://open.spotify.com/track/2ZcZ4qYoqAeYgynTdfhWue) | [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Autodomínio](https://open.spotify.com/album/3kPsjo393B9b4BQ8HDEaTc) | 2:01 |
 | 50 | [Lado Sul](https://open.spotify.com/track/3oRnApxPuuDm1atizRli2p) | [PH Original](https://open.spotify.com/artist/1vxO2TvhCnd9dhox0Rpgf1), [Liip Beats](https://open.spotify.com/artist/3Pr7FENKcGB6uHVbHDXcPC), [MADDRUGA](https://open.spotify.com/artist/5WTKBWeFY0In0q57BtzZUd) | [Lado Sul](https://open.spotify.com/album/0auawK0pQ2eMKY9QlWRF1Q) | 2:43 |
 
-Snapshot ID: `MCw4NzQ1NWNjMDE5MTJhYWNlMGQzNTc3YjZjNTgxYWI3YjRiYzdhOWJh`
+Snapshot ID: `MCxjNzgxMjAzZmFhOWY0OGMzZmRmNTYyZTE2OGYxOTc4Y2MwMjA1N2Ji`

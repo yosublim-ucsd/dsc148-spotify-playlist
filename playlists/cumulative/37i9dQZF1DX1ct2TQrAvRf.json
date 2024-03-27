@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 440869,
       "name": "King Of Indian Hip Hop",
       "url": "https://open.spotify.com/track/21noylFh40f8j2lyWah95R"
@@ -2152,6 +2152,36 @@
       "duration_ms": 232173,
       "name": "Moosedrilla (feat. DIVINE)",
       "url": "https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV"
+    },
+    {
+      "album": {
+        "name": "Ek Tha Raja",
+        "url": "https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Dino James",
+          "url": "https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW"
+        },
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Nidhi Wagle",
+          "url": "https://open.spotify.com/artist/3QhhebcxZAmtffJDKFLJ4I"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245217,
+      "name": "Naraaz",
+      "url": "https://open.spotify.com/track/6zlcxk5LrPg8vQqsif8C5c"
     },
     {
       "album": {

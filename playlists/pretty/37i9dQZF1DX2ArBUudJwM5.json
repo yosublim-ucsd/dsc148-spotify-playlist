@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTE2ZTg0YTc2MTU3OGU0ZDk2ZDNjYzlmMDk2MDEwY2ViNDFhNDcy",
+  "snapshot_id": "MCw4MDE2ZWYwYWFlNTE0ZTZkMGExYjYwM2Y2MjJlOTI2Yzc1MThkYzk3",
   "tracks": [
     {
       "added_at": "2024-03-11 16:56:02",
@@ -347,26 +347,6 @@
     {
       "added_at": "2024-03-11 16:56:02",
       "album": {
-        "name": "Qui\u00e9reme (Cuarteto)",
-        "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        },
-        {
-          "name": "Magui Olave",
-          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Qui\u00e9reme - Cuarteto",
-      "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
-    },
-    {
-      "added_at": "2024-03-11 16:56:02",
-      "album": {
         "name": "No Te Pases",
         "url": "https://open.spotify.com/album/4tbJ7goF6LCXBFOxsiM8zW"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 143693,
       "name": "No Te Pases",
       "url": "https://open.spotify.com/track/3PzVTVMVGrOPRkNQXQOb20"
+    },
+    {
+      "added_at": "2024-03-11 16:56:02",
+      "album": {
+        "name": "Qui\u00e9reme (Cuarteto)",
+        "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        },
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Qui\u00e9reme - Cuarteto",
+      "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
     },
     {
       "added_at": "2024-03-11 16:56:02",

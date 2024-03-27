@@ -4,7 +4,7 @@
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Lori McKenna
 
-263 songs - 16 hr 49 min
+264 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [Never Let a Day Go By](https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y) | 3:15 | 2021-11-11 | 2023-06-08 |
 | [Night Still Comes](https://open.spotify.com/track/0l5TOyEd5RswsWnqOaOX0X) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You \(Deluxe Edition\)](https://open.spotify.com/album/56PXLjwRAZTqpZjM07FeR5) | 3:47 | 2022-04-22 |  |
 | [Night Still Comes](https://open.spotify.com/track/34n6Ea7xmSq23tzClOer3w) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You \[Deluxe Edition\]](https://open.spotify.com/album/1lZeuZHmv7Mzngg8UEIRPo) | 3:47 | 2021-11-11 | 2022-07-29 |
-| [Nightshift](https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nightshift](https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc) | 4:56 | 2022-10-14 |  |
+| [Nightshift](https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 4:56 | 2023-08-11 |  |
+| [Nightshift](https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nightshift](https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc) | 4:56 | 2022-10-14 | 2024-03-27 |
 | [No Later Than Soon](https://open.spotify.com/track/21J6IIzFPM2BUyCGN6QvA4) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Black Roses](https://open.spotify.com/album/56XdG9KmxCkvFLOH0E7dEN) | 2:56 | 2021-11-11 | 2022-07-29 |
 | [No Later than Soon](https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Black Roses](https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA) | 2:56 | 2022-04-22 |  |
 | [Oh Soul](https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Trouble and Love](https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR) | 5:26 | 2021-11-11 |  |

@@ -2,9 +2,9 @@
 
 ### [Heavy Queens](https://open.spotify.com/playlist/37i9dQZF1DWXDJDWnzE39E)
 
-> A salute to all of the women opening up the pit\. Cover: Courtney LaPlante of Spiritbox
+> A salute to all of the women opening up the pit\. Cover: Cassyette
 
-307 songs - 19 hr 43 min
+311 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Brittle](https://open.spotify.com/track/274jFVlDzqSsUh2PMlsuM7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Amorphous](https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB) | 3:28 | 2021-02-19 |  |
 | [Broken](https://open.spotify.com/track/69BhJ2YVTYR5EltHFH2wfg) | [Volturian](https://open.spotify.com/artist/1kaSMA4dkMLk11AoMUQdoJ) | [Crimson](https://open.spotify.com/album/0WA5fU4NhSv5TDIs4tOR7F) | 3:39 | 2023-09-15 |  |
 | [Broken](https://open.spotify.com/track/0KpIAcKc7fhgZwr29Svk7t) | [Volturian](https://open.spotify.com/artist/1kaSMA4dkMLk11AoMUQdoJ) | [Broken](https://open.spotify.com/album/0KFP8PnNDxR1UHqRGfaztl) | 3:39 | 2020-12-07\* | 2022-07-29 |
-| [Burning Bridges](https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Apocalypse & Chill](https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG) | 4:16 | 2022-03-11 |  |
+| [Burning Bridges](https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Apocalypse & Chill](https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG) | 4:16 | 2022-03-11 | 2024-03-27 |
 | [Burning Bridges](https://open.spotify.com/track/1fhdqCtbx5ZBmwyDgs5hQB) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Burning Bridges](https://open.spotify.com/album/7EK2E6RqmxSuYjVKaTn8T8) | 4:16 | 2020-12-07\* | 2022-07-29 |
 | [Chain of the Golden Horn](https://open.spotify.com/track/2Fn6YAHjuM0Th4L0QCvwUV) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Chain of the Golden Horn](https://open.spotify.com/album/7vGhZpOO230V2JKMNYcWXj) | 4:00 | 2020-12-07\* | 2022-07-29 |
 | [Chapter of the Witch](https://open.spotify.com/track/1gGqVVpvUHBxr59pRFOc6m) | [Liv Sin](https://open.spotify.com/artist/7aetQGX0sd3swXqUIWurrE) | [Chapter of the Witch](https://open.spotify.com/album/3JkqzDOYXNIPCdpyG7KVF5) | 4:21 | 2020-12-07\* | 2021-05-15 |
@@ -112,10 +112,10 @@
 | [Freedom \- The Wolves Within\-](https://open.spotify.com/track/5hSnN8wtaGNRgdERMeQIx1) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Freedom \- The Wolves Within](https://open.spotify.com/album/3MVad7SlfyPymJjJ1g6yk9) | 5:37 | 2020-12-07\* | 2022-07-29 |
 | [Freeze](https://open.spotify.com/track/0YbqxJG70RF9aocuFDmxmy) | [Cellar Darling](https://open.spotify.com/artist/29TiA5JlE8qICyOYEvyvGR) | [The Spell](https://open.spotify.com/album/0mqQaRXfEzysluMX4J3jqy) | 3:37 | 2020-12-07\* | 2021-02-06 |
 | [Frostbite](https://open.spotify.com/track/5EsFccsQ6TLO7rpJXq2YMW) | [Scarlet Aura](https://open.spotify.com/artist/1pbEZTFweqdpGugARfRokF) | [Frostbite](https://open.spotify.com/album/5JwccG63yR9wrcxu09kjkD) | 5:45 | 2021-08-24 | 2022-01-19 |
-| [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-10-03 |  |
+| [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-10-03 | 2024-03-27 |
 | [Get the F\*ck out of Here](https://open.spotify.com/track/1Ch7LEUcHBYzg1MRl85VCn) | [Kobra And The Lotus](https://open.spotify.com/artist/5hW7RukGK6ErG26zM3Sfzl) | [Get the F\*ck out of Here](https://open.spotify.com/album/3NaMWGZSrIKrd03q1Uinsx) | 3:23 | 2020-12-07\* | 2021-05-15 |
 | [Ghost Chapter](https://open.spotify.com/track/4MP1Cd8JF42yF7zFUUxmrj) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Ghost Chapter](https://open.spotify.com/album/4WKQe4glk7azHIj5Bfgm8y) | 4:23 | 2020-12-07\* | 2022-07-29 |
-| [Ghost Myself](https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Ghost Myself](https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F) | 3:12 | 2020-12-07\* |  |
+| [Ghost Myself](https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Ghost Myself](https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F) | 3:12 | 2020-12-07\* | 2024-03-27 |
 | [Gravity](https://open.spotify.com/track/5p8MkAxGr7LkiVvtuduiCD) | [Skarlett Riot](https://open.spotify.com/artist/6IN0ZavFCDhKZ2N3NT7E3z) | [Gravity](https://open.spotify.com/album/2WBcy59E3bZDlLXTrZK0AZ) | 3:47 | 2020-12-11 | 2022-07-29 |
 | [Grayscale](https://open.spotify.com/track/0Y3pzMEX6ZF40dp1RAOrZk) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Grayscale](https://open.spotify.com/album/2nklray2e6vk84ASC20FsK) | 3:36 | 2021-02-19 | 2022-07-23 |
 | [Hallelujah \[Feat\. Charlotte Sands\] \- Charlotte Sands Version](https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Hallelujah \[Feat\. Charlotte Sands\] \(Charlotte Sands Version\)](https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z) | 2:56 | 2022-03-11 | 2023-06-01 |
@@ -130,7 +130,7 @@
 | [Hurt You](https://open.spotify.com/track/2rFaJ6NRIRWn335tQr8lWD) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:46 | 2022-11-18 | 2023-11-18 |
 | [Hurt You](https://open.spotify.com/track/6Pd8HUW71iIjalkxJbo8FP) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:46 | 2023-09-15 |  |
 | [Hurt You](https://open.spotify.com/track/703T3v8A5aa9QdQ8NlQYlV) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Hurt You](https://open.spotify.com/album/6pvV3ZiuvBDakRK8TOztgW) | 3:46 | 2021-08-24 | 2023-02-24 |
-| [I am a Machine](https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 2:11 | 2024-02-16 |  |
+| [I am a Machine](https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 2:11 | 2024-02-16 | 2024-03-27 |
 | [I Disagree](https://open.spotify.com/track/5M1OSRePFJzlQCTJRKVGQQ) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4uTce2w80loIu3oLnW0irN) | 3:13 | 2022-10-28 |  |
 | [I Disagree](https://open.spotify.com/track/61ypvgEm3ovCFbSIq2PsRX) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree \(more\)](https://open.spotify.com/album/0jTjzLGg15C48CJEfZ9pFJ) | 3:13 | 2020-12-07\* | 2022-11-05 |
 | [I Don't Know You](https://open.spotify.com/track/0038p5duwZ3euoTDxmizmF) | [ODC](https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj) | [I Don't Know You](https://open.spotify.com/album/3psICZrRJ4DyfrMhzXSStd) | 3:41 | 2020-12-07\* | 2022-07-29 |
@@ -170,6 +170,7 @@
 | [Mark Of The Grave](https://open.spotify.com/track/2nrm5IBXH4D2gBUUbgEzf7) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Conquering](https://open.spotify.com/album/38pSlzhA3EKAx3jsPZvwU6) | 4:23 | 2022-03-11 | 2022-11-19 |
 | [Mark Of The Grave](https://open.spotify.com/track/53GhI8xreQ3oPRC2Ly5X35) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Mark Of The Grave](https://open.spotify.com/album/2tqiux2PEvRPgiPo1R94KV) | 4:23 | 2021-08-24 | 2022-07-25 |
 | [Masters Of Destiny](https://open.spotify.com/track/7DnrGaloG6hmLPrvePhH0L) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Masters Of Destiny](https://open.spotify.com/album/6FsDilyRf5xsIRMbtyqEfE) | 4:54 | 2020-12-07\* | 2021-02-06 |
+| [Maverick](https://open.spotify.com/track/1TxE8yxjFaKPEMpPy7FuLK) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Maverick](https://open.spotify.com/album/5vR3wPXSeLmGQqjcsTcJwQ) | 3:34 | 2024-03-26 |  |
 | [Mayhem](https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Mayhem](https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH) | 2:40 | 2022-03-11 | 2023-02-10 |
 | [Memoriam](https://open.spotify.com/track/0Le2T1wm78Ycrtj7vdrCwG) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Memoriam](https://open.spotify.com/album/61dUMU9JXCrHEHhXgu3yFC) | 6:15 | 2020-12-07\* | 2022-07-29 |
 | [Mere Shadow](https://open.spotify.com/track/76VG6yEGc6asJWoyYoMakJ) | [Semblant](https://open.spotify.com/artist/6XbRGptXH3evQfHCfKCqiO) | [Mere Shadow](https://open.spotify.com/album/5unM9KhVkZwr7oMlRsLo2P) | 5:03 | 2020-12-07\* | 2022-07-29 |
@@ -205,6 +206,7 @@
 | [Pink Rover](https://open.spotify.com/track/5oqVAub4vyUVoxHXZSP7LR) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Rover](https://open.spotify.com/album/6S0LmXm7aFz2dfDJVN1WXq) | 1:58 | 2022-03-11 | 2022-07-29 |
 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 | 2022-03-11 |  |
 | [Play the Greatest Hits](https://open.spotify.com/track/0rSuev4QLH0DydIV7PosuX) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 2:27 | 2022-03-11 | 2022-11-26 |
+| [Poison](https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr) | 2:52 | 2024-03-26 |  |
 | [Popular Monster](https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Popular Monster](https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC) | 3:50 | 2021-05-15 |  |
 | [Pretending](https://open.spotify.com/track/3qbl4QTZdIDTeTXyGTQdFY) | [Kaleido](https://open.spotify.com/artist/3GDe9vz83X0nbdUFw5Pmim) | [NO RLY...IM FINE](https://open.spotify.com/album/1Dlp7osne6UUIeJeDc1axR) | 3:35 | 2020-12-07\* | 2021-05-15 |
 | [Radio Silence](https://open.spotify.com/track/57ptt4wnK1PjkPCiRrwKYL) | [A Light Divided](https://open.spotify.com/artist/5xnKKbSzhpsKoPiAjD2yvV) | [Radio Silence](https://open.spotify.com/album/25PoIyxB5owLh2UUp5LyR4) | 3:08 | 2020-12-07\* | 2022-07-26 |
@@ -299,10 +301,12 @@
 | [Viral](https://open.spotify.com/track/1iqgx6BkWYRorWDLwkpMJZ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Viral](https://open.spotify.com/album/4yaARCXEEPrYUpdHFP45Aq) | 3:01 | 2020-12-07\* | 2020-12-11 |
 | [Wake The Dead](https://open.spotify.com/track/2Jvrhhgjyy5Tu8S8Is8sFb) | [September Mourning](https://open.spotify.com/artist/3u6jopsj6GeZAHJAmfUxk1) | [Wake The Dead](https://open.spotify.com/album/73Pgfi0hoibHQyesMK8x2R) | 3:26 | 2020-12-11 | 2022-07-29 |
 | [Wanted and Wild](https://open.spotify.com/track/71KBRRkf9uoIdW1sZ9zD3V) | [MoonSun](https://open.spotify.com/artist/1nSYsxBoOs3Cvi6j6WDXdS) | [Escapalace](https://open.spotify.com/album/3h7npJD5gTvtgblS9Zhqst) | 3:31 | 2020-12-07\* | 2022-07-17 |
+| [WARZ0NE](https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [WARZ0NE](https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn) | 2:38 | 2024-03-26 |  |
 | [We Are One](https://open.spotify.com/track/2ViuvO19jpQnIo27PdojnV) | [VENUES](https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd) | [We Are One](https://open.spotify.com/album/2BaVfb1VtDzcadMTIld6Bb) | 4:12 | 2020-12-07\* | 2020-12-11 |
 | [We Bring You the Stars](https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Bring You the Stars](https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so) | 3:00 | 2020-12-07\* |  |
 | [weapon](https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [weapon](https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7) | 3:17 | 2022-03-04 |  |
 | [welcome2paradise](https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [welcome2paradise](https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq) | 4:46 | 2023-05-18 |  |
+| [When She Told Me](https://open.spotify.com/track/1uRF3CIh24PY17wR5v5k6Q) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [When She Told Me](https://open.spotify.com/album/6r3emSLfF17MpkJAXzd5Tt) | 4:41 | 2024-03-26 |  |
 | [When You're Gone](https://open.spotify.com/track/67ytcy7Sg1PTLPNkGn92qZ) | [Evereal](https://open.spotify.com/artist/17mUVDdPEzybiGUGJ0zmBI) | [When You're Gone](https://open.spotify.com/album/226OTt4h9VumNc6CTsz5dl) | 4:07 | 2020-12-07\* | 2022-06-17 |
 | [Whore](https://open.spotify.com/track/2tAzcTFry1OhmNERFjUR93) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Blood](https://open.spotify.com/album/3u8UbYIIZkOtawXLDuu57l) | 4:05 | 2023-03-02 |  |
 | [WITCH](https://open.spotify.com/track/6L3L8S4nkmJl9nDE7bXnFL) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve), [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [WITCH](https://open.spotify.com/album/0zECxYD8vdnOWX6FJ7cPXJ) | 3:54 | 2024-02-16 |  |

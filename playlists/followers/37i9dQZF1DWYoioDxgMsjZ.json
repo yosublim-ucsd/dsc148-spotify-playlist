@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 59501,
+  "2024-03-27": 59556,
   "date_first_scraped": "2022-09-09",
   "description": "<a href=\"spotify:artist:1AHswQqsDNmu1xaE8KpBne\">COBRAH</a>'s favorite tracks. Updated regularly. Curated by COBRAH. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
   "name": "COBRAH's track IDs",
@@ -1581,10 +1581,32 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 127555,
       "name": "That's Hot",
       "url": "https://open.spotify.com/track/1Cli0gQaSe0NVWEHAyOBIH"
+    },
+    {
+      "album": {
+        "name": "that's hot",
+        "url": "https://open.spotify.com/album/26DFBu6KvN7B932qPryWqk"
+      },
+      "artists": [
+        {
+          "name": "dead2u",
+          "url": "https://open.spotify.com/artist/4mukJ0tIrqv6sGYEU5mCkJ"
+        },
+        {
+          "name": "undeadprincess",
+          "url": "https://open.spotify.com/artist/5lmcXlAK7ZkLf5IkYvBVQc"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127555,
+      "name": "that's hot",
+      "url": "https://open.spotify.com/track/0EJQtAbT12iKnwfloPtuxk"
     },
     {
       "album": {

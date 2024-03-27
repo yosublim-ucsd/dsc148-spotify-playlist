@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 11125191,
+  "2024-03-27": 11126848,
   "date_first_scraped": "2019-05-26",
   "description": "The biggest songs of the 2000s. Cover: Kelly Clarkson",
   "name": "All Out 2000s",
@@ -985,7 +985,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 233640,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
@@ -11929,7 +11929,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 208600,
       "name": "Wherever You Will Go",
       "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"

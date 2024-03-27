@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FIO61wizta.md) - [plain]
 
 > Verdi was the undisputed king of Italian opera in the 19th century\. Explore his greatest works, including Rigoletto and La Traviata, right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,671 likes - 60 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,690 likes - 60 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FIO61wizta.md) - [plain]
 | 59 | [La forza del destino \- Original St.Petersburg version \- Act 1: "Me pellegrina ed orfana"](https://open.spotify.com/track/52vPPhEi0c9xQJUCZdzNRf) | [Giuseppe Verdi](https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o), [Galina Gorchakova](https://open.spotify.com/artist/17zQ2xKMpkyGuH6T9F9kRD), [Mariinsky Orchestra](https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6), [Valery Gergiev](https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2) | [Verdi: La Forza del Destino](https://open.spotify.com/album/3ddkw3PcnF2yZDDeapxBsH) | 3:59 |
 | 60 | [Rigoletto / Act 1: "Pari siamo"](https://open.spotify.com/track/5eAVcGYlibIkZX3IJCu4D1) | [Giuseppe Verdi](https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o), [Renato Bruson](https://open.spotify.com/artist/73uO0irhYkEsOdWjBmAl3f), [Orchestra dell'Accademia Nazionale di Santa Cecilia](https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f), [Giuseppe Sinopoli](https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY) | [Verdi: Rigoletto](https://open.spotify.com/album/1sfnSIMuSOo9RFLgorKKfn) | 4:18 |
 
-Snapshot ID: `MCw2Mzk2YTc3YTQ2NjJiYjk2ODhiMmY1NTE5Y2ViM2RlY2I1MDc5ZTJl`
+Snapshot ID: `MCwxZTdkM2U0YTQ2YTU0YjY2OWU2ZDYxYjI2MjExMzBhYTQ4NGQwNTFi`

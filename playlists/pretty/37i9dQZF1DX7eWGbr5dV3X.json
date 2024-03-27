@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8695,
+  "num_followers": 8696,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjZiNDg0YmJlYjRiZTllMWQyZTVkZGRjYTRhYWUyNWM4NGU2YjQ3",
+  "snapshot_id": "MCxhMGMxZGZmN2ExZjA1ZWRiNDYxNmJkM2E1YjY5ZjAyMWQyYzQ5MzBl",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Fix Me",
-        "url": "https://open.spotify.com/album/5FfFt9AtFfhg2hUzntBNZk"
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
       },
       "artists": [
         {
-          "name": "Jake Zyrus",
-          "url": "https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr"
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
         }
       ],
-      "duration_ms": 205291,
-      "name": "Fix Me",
-      "url": "https://open.spotify.com/track/6e2DOhlAU5sO56eHhnEmgJ"
+      "duration_ms": 167026,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
+        "name": "Fix Me",
+        "url": "https://open.spotify.com/album/5FfFt9AtFfhg2hUzntBNZk"
       },
       "artists": [
         {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+          "name": "Jake Zyrus",
+          "url": "https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr"
         }
       ],
-      "duration_ms": 167026,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
+      "duration_ms": 205291,
+      "name": "Fix Me",
+      "url": "https://open.spotify.com/track/6e2DOhlAU5sO56eHhnEmgJ"
     },
     {
       "added_at": "2023-06-30 23:59:00",

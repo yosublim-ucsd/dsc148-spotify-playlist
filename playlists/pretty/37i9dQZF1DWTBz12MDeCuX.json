@@ -1,12 +1,12 @@
 {
   "description": "Die Playlist, die dich f\u00fchlt. Cover: 01099",
-  "num_followers": 460160,
+  "num_followers": 460264,
   "original_name": "me right now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2I1Y2FiYmU1MDQ1NGY4OWYwNWRjZjgwNTI1MTg2YzNlMzc5MjI5",
+  "snapshot_id": "MCw4ZjFlZmNjNjBkNWYyYzY2NzE1OGE1NWVmOWM4YTBlZjVlMWY0ZjEw",
   "tracks": [
     {
       "added_at": "2024-03-21 23:00:00",
@@ -55,22 +55,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 277506,
-      "name": "Supercut",
-      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
       },
@@ -83,6 +67,38 @@
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 277506,
+      "name": "Supercut",
+      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -239,6 +255,26 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "SUPERSTARS",
+        "url": "https://open.spotify.com/album/7Ijj4w9MeF2qqQN0XjoMs3"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "duration_ms": 182432,
+      "name": "SUPERSTARS",
+      "url": "https://open.spotify.com/track/6NIp5k4DPAB2hGI8Mg908B"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "DLIT (die Liebe ist tot)",
         "url": "https://open.spotify.com/album/3ZwrJdU2gxr7pZTYgm00Ce"
       },
@@ -271,22 +307,6 @@
       "duration_ms": 147046,
       "name": "Fu\u00df baumeln",
       "url": "https://open.spotify.com/track/7dIi6DS9RA6PDTU90CcNoV"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -391,26 +411,6 @@
       "duration_ms": 158822,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "SUPERSTARS",
-        "url": "https://open.spotify.com/album/7Ijj4w9MeF2qqQN0XjoMs3"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "treamiboii",
-          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
-        }
-      ],
-      "duration_ms": 182432,
-      "name": "SUPERSTARS",
-      "url": "https://open.spotify.com/track/6NIp5k4DPAB2hGI8Mg908B"
     },
     {
       "added_at": "2024-03-21 23:00:00",

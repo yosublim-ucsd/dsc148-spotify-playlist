@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. Cover \- Badshah\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
 
-205 songs - 11 hr 0 min
+206 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [52 Gaj Ka Daman](https://open.spotify.com/track/6WsSXAOzm6xpWRivqdt98X) | [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg), [MJ](https://open.spotify.com/artist/5Td6KQryvTcq1k6zUxy3Mh) | [52 Gaj Ka Daman](https://open.spotify.com/album/569R00N9f7oppUTv5ksVsc) | 2:43 | 2024-02-22 |  |
 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Rooh Sandhu](https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 | 2024-01-03 | 2024-02-23 |
 | [A Mi Tambien](https://open.spotify.com/track/547U8y8hkL0VwiGWQIawVi) | [Twinjabi](https://open.spotify.com/artist/3nU1DJyXFkJps0WK4mDniK) | [A Mi Tambien](https://open.spotify.com/album/3oGNeC63uyqRudbdsM5LUM) | 2:43 | 2022-02-11 | 2022-07-19 |
-| [Aaja We Mahiya](https://open.spotify.com/track/75Ak0cit8hV604Wjlq1gf2) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Aaja We Mahiya](https://open.spotify.com/album/3WPDQfiohVairmvwfgEEok) | 3:52 | 2024-02-22 |  |
+| [Aaja We Mahiya](https://open.spotify.com/track/5MoJ3MVKGGf25LxrFoxDSK) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Unforgettable](https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7) | 3:52 | 2024-02-24 |  |
+| [Aaja We Mahiya](https://open.spotify.com/track/75Ak0cit8hV604Wjlq1gf2) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Aaja We Mahiya](https://open.spotify.com/album/3WPDQfiohVairmvwfgEEok) | 3:52 | 2024-02-22 | 2024-03-27 |
 | [After Party](https://open.spotify.com/track/1xzXdnoVhFLNVIFSxxfDCI) | [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B), [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9) | [After Party](https://open.spotify.com/album/3VnubNDl7WjNDmXTjOdyXG) | 3:10 | 2021-11-11 | 2022-07-19 |
 | [Alisha](https://open.spotify.com/track/2MSRhHRe3BFYp7l8J4G2Yz) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp) | [Love Affair](https://open.spotify.com/album/6qc1s6JcXgstR90BfA6VQy) | 2:59 | 2021-11-11 | 2022-07-19 |
 | [Amplifier](https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Amplifier](https://open.spotify.com/album/5EC9dpKhvj5niMAA4HRmfQ) | 3:52 | 2024-02-22 | 2024-03-20 |

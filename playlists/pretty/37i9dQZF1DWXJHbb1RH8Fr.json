@@ -1,12 +1,12 @@
 {
   "description": "Ruhunu dinlendirece\u011fin bu kutsal ayda yolculu\u011funa e\u015flik edecek ney ezgileri. G\u00f6rsel: Sultanahmet Camii",
-  "num_followers": 11470,
+  "num_followers": 11497,
   "original_name": "Ramazan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzEwMzEyYjA0MmYzMmE1YTg1MTJmZWVmZGQ0OTVmY2JmMTIzOWJl",
+  "snapshot_id": "MCxmYmJlMzQxMTZkZTRlMjhmNGY1YjE3MGExYzBjMzAyOTRmZTM0ZjYw",
   "tracks": [
     {
       "added_at": "2024-03-05 11:27:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Turkey: The Turkish Ney",
-        "url": "https://open.spotify.com/album/5V1cn21rjWnC8kn3YYB6ci"
-      },
-      "artists": [
-        {
-          "name": "Kudsi Erguner",
-          "url": "https://open.spotify.com/artist/5BlN5l4Xh3Hsbj91NyP9lI"
-        }
-      ],
-      "duration_ms": 445040,
-      "name": "Makam Ferahfeza: Pesrev",
-      "url": "https://open.spotify.com/track/3xYMouSka21K56BmzRUOpf"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
         "name": "A\u015fk ile Me\u015fk / Makamlarla \u0130l\u00e2hiler 2",
         "url": "https://open.spotify.com/album/6mU5Yg4tTyxxPD936N6ng5"
       },
@@ -515,6 +499,26 @@
       "duration_ms": 84813,
       "name": "Nihavend Pe\u015frev",
       "url": "https://open.spotify.com/track/0xZGGZy6QfcJk3cN72UD0J"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
+        "name": "Sufi Ney-Kemane (Turkish Mysticism Sounds)",
+        "url": "https://open.spotify.com/album/1utFyyi2YugZ9SICyMV5jt"
+      },
+      "artists": [
+        {
+          "name": "Arzu Kopuz \u00c7elik",
+          "url": "https://open.spotify.com/artist/2hzE5PRtNqpb6HTjy9aaSp"
+        },
+        {
+          "name": "Pelin Ba\u015far",
+          "url": "https://open.spotify.com/artist/10vB42Xbs9WZ5fNx1dfy41"
+        }
+      ],
+      "duration_ms": 133960,
+      "name": "Seyreyle G\u00fczel",
+      "url": "https://open.spotify.com/track/12bK0tHPQ1ul6gaClY0ToT"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -539,22 +543,18 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Sufi Ney-Kemane (Turkish Mysticism Sounds)",
-        "url": "https://open.spotify.com/album/1utFyyi2YugZ9SICyMV5jt"
+        "name": "Turkey: The Turkish Ney",
+        "url": "https://open.spotify.com/album/5V1cn21rjWnC8kn3YYB6ci"
       },
       "artists": [
         {
-          "name": "Arzu Kopuz \u00c7elik",
-          "url": "https://open.spotify.com/artist/2hzE5PRtNqpb6HTjy9aaSp"
-        },
-        {
-          "name": "Pelin Ba\u015far",
-          "url": "https://open.spotify.com/artist/10vB42Xbs9WZ5fNx1dfy41"
+          "name": "Kudsi Erguner",
+          "url": "https://open.spotify.com/artist/5BlN5l4Xh3Hsbj91NyP9lI"
         }
       ],
-      "duration_ms": 133960,
-      "name": "Seyreyle G\u00fczel",
-      "url": "https://open.spotify.com/track/12bK0tHPQ1ul6gaClY0ToT"
+      "duration_ms": 445040,
+      "name": "Makam Ferahfeza: Pesrev",
+      "url": "https://open.spotify.com/track/3xYMouSka21K56BmzRUOpf"
     },
     {
       "added_at": "2024-03-05 11:27:00",

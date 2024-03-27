@@ -1,12 +1,12 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/4HHLYB6bM6IuVvr2uOKj3P?si=dZwcyL4NTwS3bnIqUWGHOA\">Delight Munachy</a>",
-  "num_followers": 7893,
+  "num_followers": 7919,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWI5OGEyMjBiZDQ1NmFlZDVmNDUxMTJjMjJhZjFhMDk4ZGI5NjZl",
+  "snapshot_id": "MCw3NWFjOGMyY2Y4Y2Q4ZWVmNmIzMmU2MDUyMThiYTBiNDQ1MTNiZjI5",
   "tracks": [
     {
       "added_at": "2024-02-02 00:01:00",
@@ -317,20 +317,24 @@
       "url": "https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf"
     },
     {
-      "added_at": "2024-02-09 00:01:00",
+      "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h"
+        "name": "We Prevail",
+        "url": "https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g"
       },
       "artists": [
         {
-          "name": "Jvson",
-          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Neeja",
+          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
         }
       ],
-      "duration_ms": 172083,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
+      "duration_ms": 224000,
+      "name": "We Prevail",
+      "url": "https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -353,24 +357,20 @@
       "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
     },
     {
-      "added_at": "2024-03-01 00:01:00",
+      "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "We Prevail",
-        "url": "https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Neeja",
-          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
         }
       ],
-      "duration_ms": 224000,
-      "name": "We Prevail",
-      "url": "https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i"
+      "duration_ms": 172083,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -397,6 +397,26 @@
       "url": "https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU"
     },
     {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/0lHS9xhfCMCZ9fSgvPMrol"
+      },
+      "artists": [
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 375723,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC"
+    },
+    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "Do to Me What You Want",
@@ -411,6 +431,22 @@
       "duration_ms": 714119,
       "name": "Do to Me What You Want",
       "url": "https://open.spotify.com/track/4DubS31RXrubsxE486uBPi"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Unusual (Live At Cedarwoods of Sandton, 2023)",
+        "url": "https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "duration_ms": 383320,
+      "name": "Unusual - Live At Cedarwoods of Sandton, 2023",
+      "url": "https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -433,58 +469,6 @@
       "url": "https://open.spotify.com/track/2hXrCdY4qSLeYLIgIhm5LI"
     },
     {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Pain To Praise",
-        "url": "https://open.spotify.com/album/7A5B9Z5YL8mhRxglK0rljH"
-      },
-      "artists": [
-        {
-          "name": "Nsikan Louis",
-          "url": "https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Pain To Praise",
-      "url": "https://open.spotify.com/track/2W1o9Q1zRVlPz1GYzGLXKM"
-    },
-    {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
-        "name": "Unusual (Live At Cedarwoods of Sandton, 2023)",
-        "url": "https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D"
-      },
-      "artists": [
-        {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
-        }
-      ],
-      "duration_ms": 383320,
-      "name": "Unusual - Live At Cedarwoods of Sandton, 2023",
-      "url": "https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Faithful",
-        "url": "https://open.spotify.com/album/0lHS9xhfCMCZ9fSgvPMrol"
-      },
-      "artists": [
-        {
-          "name": "Tomi Favored",
-          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 375723,
-      "name": "Faithful",
-      "url": "https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC"
-    },
-    {
       "added_at": "2024-02-23 00:01:00",
       "album": {
         "name": "Na God I Dey Praise (Craze)",
@@ -499,6 +483,22 @@
       "duration_ms": 218644,
       "name": "Na God I Dey Praise (Craze)",
       "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Pain To Praise",
+        "url": "https://open.spotify.com/album/7A5B9Z5YL8mhRxglK0rljH"
+      },
+      "artists": [
+        {
+          "name": "Nsikan Louis",
+          "url": "https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Pain To Praise",
+      "url": "https://open.spotify.com/track/2W1o9Q1zRVlPz1GYzGLXKM"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
     },
     {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Ngiyamazi Umhlengi Wam (Live At Cedarwoods of Sandton, 2023)",
-        "url": "https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG"
-      },
-      "artists": [
-        {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
-        }
-      ],
-      "duration_ms": 239506,
-      "name": "Ngiyamazi Umhlengi Wami - Live At Cedarwoods of Sandton, 2023",
-      "url": "https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG"
-    },
-    {
       "added_at": "2024-03-01 00:01:00",
       "album": {
         "name": "Deliverance",
@@ -611,6 +595,22 @@
       "duration_ms": 186239,
       "name": "Mercy (Hlabelela)",
       "url": "https://open.spotify.com/track/03ex4OAmmBM2ci5W0q2kHm"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Ngiyamazi Umhlengi Wam (Live At Cedarwoods of Sandton, 2023)",
+        "url": "https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "duration_ms": 239506,
+      "name": "Ngiyamazi Umhlengi Wami - Live At Cedarwoods of Sandton, 2023",
+      "url": "https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -777,6 +777,22 @@
       "url": "https://open.spotify.com/track/76aJBXDHpUhWS3xOeqKlSw"
     },
     {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Dry Bones",
+        "url": "https://open.spotify.com/album/55SIgOQ9eEOTGYxOW3fz7g"
+      },
+      "artists": [
+        {
+          "name": "Abbey Ojomu",
+          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
+        }
+      ],
+      "duration_ms": 691541,
+      "name": "Dry Bones",
+      "url": "https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ"
+    },
+    {
       "added_at": "2024-03-08 00:01:00",
       "album": {
         "name": "Indumiso yaseStezi",
@@ -801,22 +817,6 @@
       "url": "https://open.spotify.com/track/0oFuL4quMVGs9Hi3NN7nkM"
     },
     {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Dry Bones",
-        "url": "https://open.spotify.com/album/55SIgOQ9eEOTGYxOW3fz7g"
-      },
-      "artists": [
-        {
-          "name": "Abbey Ojomu",
-          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
-        }
-      ],
-      "duration_ms": 691541,
-      "name": "Dry Bones",
-      "url": "https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ"
-    },
-    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "BBTNTL",
@@ -833,6 +833,22 @@
       "url": "https://open.spotify.com/track/2oJktKr5udS1gtY8egIBPx"
     },
     {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "iZono Zami",
+        "url": "https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b"
+      },
+      "artists": [
+        {
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+        }
+      ],
+      "duration_ms": 319334,
+      "name": "iZono Zami",
+      "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
+    },
+    {
       "added_at": "2024-02-23 00:01:00",
       "album": {
         "name": "Souvenirs",
@@ -847,6 +863,22 @@
       "duration_ms": 243321,
       "name": "Tenkou! Why Feel Sorry?",
       "url": "https://open.spotify.com/track/1CpY1MgTJFWzXVpXU19L89"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Eyinju",
+        "url": "https://open.spotify.com/album/4QuKgFawZ5YOuVNQIqu3R4"
+      },
+      "artists": [
+        {
+          "name": "Nifemi David",
+          "url": "https://open.spotify.com/artist/4kSsJuDGIaI1LoxMlN6Skt"
+        }
+      ],
+      "duration_ms": 257496,
+      "name": "Eyinju",
+      "url": "https://open.spotify.com/track/7lVOXZclqjOTPTJOmK0F9F"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -885,22 +917,6 @@
       "url": "https://open.spotify.com/track/5BAOWgioAf2ErmB0wjRqZo"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Eyinju",
-        "url": "https://open.spotify.com/album/4QuKgFawZ5YOuVNQIqu3R4"
-      },
-      "artists": [
-        {
-          "name": "Nifemi David",
-          "url": "https://open.spotify.com/artist/4kSsJuDGIaI1LoxMlN6Skt"
-        }
-      ],
-      "duration_ms": 257496,
-      "name": "Eyinju",
-      "url": "https://open.spotify.com/track/7lVOXZclqjOTPTJOmK0F9F"
-    },
-    {
       "added_at": "2024-02-23 00:01:00",
       "album": {
         "name": "Holy",
@@ -919,22 +935,6 @@
       "duration_ms": 210599,
       "name": "Holy",
       "url": "https://open.spotify.com/track/4edGYsHaOG3PjJpyrbFdKz"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "iZono Zami",
-        "url": "https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b"
-      },
-      "artists": [
-        {
-          "name": "Nomcebo Zikode",
-          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
-        }
-      ],
-      "duration_ms": 319334,
-      "name": "iZono Zami",
-      "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
     },
     {
       "added_at": "2024-03-01 00:01:00",

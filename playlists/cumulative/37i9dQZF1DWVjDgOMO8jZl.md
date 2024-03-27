@@ -4,7 +4,7 @@
 
 > Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:3HRSdDvPAE54ocmaq0JRrJ">Camilla Magli</a>
 
-132 songs - 6 hr 23 min
+133 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Guai \(feat\. Francesca Michielin\)](https://open.spotify.com/track/34hOXJuqGnxRVg0B5eDrpG) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6), [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Numeri primi](https://open.spotify.com/album/72dqKyvNBKYp2LT4KC38vH) | 2:30 | 2022-08-31 | 2023-04-12 |
 | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd) | 2:33 | 2023-04-11 |  |
 | [Horror](https://open.spotify.com/track/6fPGBlx8wsAxhoDn7BwiAH) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 3:39 | 2023-04-11 | 2023-09-29 |
+| [I CAN FLY](https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [I CAN FLY](https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu) | 2:44 | 2024-03-26 |  |
 | [I'm On](https://open.spotify.com/track/0Jvo56KxP4t9dCxCpa9qRj) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I'm On](https://open.spotify.com/album/3kptKZRdNf94sV6gFveVYc) | 4:10 | 2022-08-31 | 2022-10-21 |
 | [I'm On](https://open.spotify.com/track/2wo5YYmTIeGhE6tbf0c0NN) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/2wjZrsSc136umDWRM6kMap) | 4:10 | 2022-08-31 | 2023-04-12 |
 | [IL FUMO UCCIDE](https://open.spotify.com/track/67OwT6y01c3IwTLjYmF7xg) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [IL FUMO UCCIDE](https://open.spotify.com/album/05VFSmqhezOJ2xelLj1MYU) | 3:05 | 2023-04-11 |  |

@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-306 songs - 15 hr 53 min
+307 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Give It All Now](https://open.spotify.com/track/0DagTSqkS7UIYWJFBN1Up1) | [Red Leopard](https://open.spotify.com/artist/5h24ruFrsYkrOrEA6PXq47) | [Give It All Now](https://open.spotify.com/album/70R5M4X86EDmrRL9jkSEhB) | 3:16 | 2022-03-25 | 2022-07-16 |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-05-26 |  |
 | [Goodbye Lover](https://open.spotify.com/track/6P62rwu9ExgXscsUCaixuc) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Goodbye Lover](https://open.spotify.com/album/4s2dJEoEyNNSYZ45ecb5mr) | 2:31 | 2021-10-29 | 2022-04-17 |
-| [Got Me Like](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Got Me Like](https://open.spotify.com/album/1oTR7MwbdO5KgAyWxxUZQP) | 2:10 | 2023-01-27 |  |
+| [Got Me Like](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Got Me Like](https://open.spotify.com/album/1oTR7MwbdO5KgAyWxxUZQP) | 2:10 | 2023-01-27 | 2024-03-27 |
 | [Green Green Grass \- Majestic Remix](https://open.spotify.com/track/1asrO7gENmmoBu9iRJtZbi) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Green Green Grass](https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q) | 3:11 | 2023-01-27 | 2023-07-15 |
 | [Green Green Grass \- Majestic Remix](https://open.spotify.com/track/5HQrESmLNtomQpoVALIVuJ) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Green Green Grass \(Majestic Remix\)](https://open.spotify.com/album/3kWWCohWkatO0uyYxXTQas) | 3:11 | 2022-06-17 | 2022-11-14 |
 | [Halfway \(feat\. Twan Ray\)](https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Halfway \(feat\. Twan Ray\)](https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1) | 2:38 | 2021-10-29 | 2022-03-22 |
@@ -277,6 +277,7 @@
 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 | 2023-06-30 |  |
 | [The Same](https://open.spotify.com/track/7pDwkFUYmSisnMIfniEiRT) | [Bomberjak](https://open.spotify.com/artist/6I9HpPprmcAGdLosyfDf3c) | [The Same](https://open.spotify.com/album/29t020aL0b4CRSv6P5XDUs) | 2:36 | 2021-10-29 | 2022-07-29 |
 | [The Scientist \(feat\. Emily Sander\)](https://open.spotify.com/track/3ArDS1f0uJjaotIuIkg2cJ) | [Marcus Brodowski](https://open.spotify.com/artist/3U5sS2ernX7nUjFZ9GSxWh), [Emily Sander](https://open.spotify.com/artist/3mysMigndcBXvVgkpa7gvc) | [The Scientist \(feat\. Emily Sander\)](https://open.spotify.com/album/3wgPs3nwytZ4mIXHuy9Z1L) | 3:34 | 2021-10-29 | 2022-08-20 |
+| [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 | 2024-03-15 |  |
 | [Thinkin Bout You](https://open.spotify.com/track/61CmIx1hiRH7VRcNb5cCY8) | [Nightcall](https://open.spotify.com/artist/3xFkHylXN9yHzwCQBypRFn), [Vi Anabella Kara](https://open.spotify.com/artist/6UI6PW7WI2jz4SF5xllpgI) | [Thinkin Bout You](https://open.spotify.com/album/3OO0NdnFvAPzcVrJ9aBBF3) | 2:34 | 2021-10-29 | 2022-07-04 |
 | [Thinking Of You](https://open.spotify.com/track/4wKyrBSIvZiNnGKGtAIwXc) | [Pierse](https://open.spotify.com/artist/6RaXGK6k9dt5lMJasbOHeg) | [Thinking Of You](https://open.spotify.com/album/5HtjTfGf1F8wSr1HATgKEF) | 2:32 | 2022-04-08 | 2022-05-21 |
 | [This Love](https://open.spotify.com/track/2PviJnruGMviJLMtNgFgSD) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/1zMyK6lBwXheSrJkRlwb9o) | 3:55 | 2022-04-29 | 2022-11-09 |

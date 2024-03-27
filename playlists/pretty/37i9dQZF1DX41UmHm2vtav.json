@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 465887,
+  "num_followers": 465948,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjcxMWYxY2E1MDI5Mzc3NmZhNTk4Mzk3MzFhYTFlYmY0M2MwMTU3",
+  "snapshot_id": "MCw1M2NjZjAyYTM3N2ZmNTY2MTE0MWU5OTg0MTA1NzJkMDUxZDE0NWM2",
   "tracks": [
     {
       "added_at": "2024-03-16 02:06:56",
@@ -687,30 +687,6 @@
     {
       "added_at": "2024-03-16 02:06:56",
       "album": {
-        "name": "All The Lies (with Felix Jaehn & The Vamps)",
-        "url": "https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "The Vamps",
-          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
-        }
-      ],
-      "duration_ms": 179456,
-      "name": "All The Lies (with Felix Jaehn & The Vamps)",
-      "url": "https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw"
-    },
-    {
-      "added_at": "2024-03-16 02:06:56",
-      "album": {
         "name": "D\u00c1KITI",
         "url": "https://open.spotify.com/album/5RE3u3esh5NWmKGP1sKKwf"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 187428,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/12UKG8o3WWlSdvK7zInWh8"
+    },
+    {
+      "added_at": "2024-03-16 02:06:56",
+      "album": {
+        "name": "All The Lies (with Felix Jaehn & The Vamps)",
+        "url": "https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "duration_ms": 179456,
+      "name": "All The Lies (with Felix Jaehn & The Vamps)",
+      "url": "https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw"
     },
     {
       "added_at": "2024-03-16 02:06:56",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2024-03-16 02:06:56",
       "album": {
-        "name": "Certeza - Zabot Remix",
-        "url": "https://open.spotify.com/album/53dgwj85VBXlIeb8UMLmtT"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "Zabot",
-          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Certeza - Zabot Remix",
-      "url": "https://open.spotify.com/track/5QmITZMc3kLAY6trGa9ohA"
-    },
-    {
-      "added_at": "2024-03-16 02:06:56",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 179481,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
+    },
+    {
+      "added_at": "2024-03-16 02:06:56",
+      "album": {
+        "name": "Certeza - Zabot Remix",
+        "url": "https://open.spotify.com/album/53dgwj85VBXlIeb8UMLmtT"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Certeza - Zabot Remix",
+      "url": "https://open.spotify.com/track/5QmITZMc3kLAY6trGa9ohA"
     },
     {
       "added_at": "2024-03-16 02:06:56",

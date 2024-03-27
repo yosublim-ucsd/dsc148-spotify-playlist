@@ -4,7 +4,7 @@
 
 > All Coke Studio Pakistan tracks in one place.
 
-398 songs - 1 day 19 hr 40 min
+399 songs - 1 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [GO](https://open.spotify.com/track/6NEEbZXla00cRzXErdNZ6k) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [GO](https://open.spotify.com/album/1LI1KTW2X2oUc7AOUvB1cC) | 5:48 | 2022-03-23 |  |
 | [Gulon Main Rang](https://open.spotify.com/track/7J4UCQmUq4T5vzMmvE2NAq) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Gulon Main Rang](https://open.spotify.com/album/0Rbfm35fV1a5uCjVK7pgjs) | 6:19 | 2022-03-23 |  |
 | [Hairaan Hua](https://open.spotify.com/track/11v6Q3rcylqZoesjs8OUP9) | [Sanam Marvi](https://open.spotify.com/artist/72kjPTpFDwhwrHPer3rtGD) | [Hairaan Hua](https://open.spotify.com/album/69xH8VuMBjZvrobppvEIXa) | 9:58 | 2022-03-23 |  |
-| [Hans Dhuni](https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T) | [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 3:59 | 2022-03-23 |  |
+| [Hans Dhuni](https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T) | [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 3:59 | 2022-03-23 | 2024-03-27 |
 | [Haq Maujood](https://open.spotify.com/track/3CRJLOEZ1xJjiYoDTfttGk) | [Amanat Ali & Sanam Marvi](https://open.spotify.com/artist/1P4ubBPUrhkW8h9j8Cp2jd), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 7:07 | 2022-03-23 | 2022-07-18 |
 | [Har Funn Maula](https://open.spotify.com/track/6TAgLk1hY89as3X36xdwtv) | [Umair Jaswal](https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Har Funn Maula](https://open.spotify.com/album/2YCOyu8SsrIu0qB3XaxZTj) | 6:06 | 2022-03-23 |  |
 | [Hare Hare Baans](https://open.spotify.com/track/0IRK0L3C0wlu6udhSY9Z21) | [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5), [Muazzam](https://open.spotify.com/artist/2HRUxGGvyo4L9mJwMSQpd3), [Shazia Manzoor](https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 8:34 | 2022-03-23 | 2022-07-28 |
@@ -388,6 +388,7 @@
 | [Umran Langiyaan](https://open.spotify.com/track/0IbTAG4VuLjhyHc98ioVpE) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Nabeel Shaukat](https://open.spotify.com/artist/1qiJhSCFa98FLAb2e2iH8G) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 8:02 | 2022-03-23 | 2023-10-08 |
 | [Umran Langiyaan](https://open.spotify.com/track/2Nrk6zWigJkwjsoiCvpCHM) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Nabeel Shaukat](https://open.spotify.com/artist/1qiJhSCFa98FLAb2e2iH8G) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 8:02 | 2022-10-12 | 2023-12-09 |
 | [Umran Langiyaan](https://open.spotify.com/track/0J4ohsvlPDkSirnrefbcls) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 8:02 | 2022-10-12 | 2024-03-23 |
+| [Umran Langiyaan \- Coke Studio Season 8](https://open.spotify.com/track/13ku97oiMKs8x01FIj2067) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Umran Langiyaan \(Coke Studio Season 8\)](https://open.spotify.com/album/4ibe0e62SlJoOu1HFLxEVr) | 8:02 | 2024-03-26 |  |
 | [Us Rah Par](https://open.spotify.com/track/2hEnuPSkZyw70ihShPE1pJ) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ), [Ali Hamza](https://open.spotify.com/artist/0O7Iu0NZE2lU74tHPcel7c), [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Coke Studio Season 10: Episode 7](https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3) | 5:34 | 2022-03-23 |  |
 | [Ve Baneya](https://open.spotify.com/track/64nhyznrBoZyOWVc6XRVoH) | [Fizza Javed](https://open.spotify.com/artist/4KCet1OcRcgSIEmiN0ZRQQ), [Mulazim](https://open.spotify.com/artist/6OeFYfYFV400uUJvFdJLFN) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 7:44 | 2022-03-23 | 2022-11-13 |
 | [Waasta e Pyar Da](https://open.spotify.com/track/5VaMM45TCyGSQieoPru3ZZ) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 7:01 | 2022-03-23 | 2022-07-23 |

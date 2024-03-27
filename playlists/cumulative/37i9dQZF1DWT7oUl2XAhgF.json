@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Zero Grace",
+        "url": "https://open.spotify.com/album/4loYR62mrFQeCzK5pHoV5l"
+      },
+      "artists": [
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228540,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/1lGYIrfy4ulioJGYAjRD0h"
+    },
+    {
+      "album": {
         "name": "Dance With Me",
         "url": "https://open.spotify.com/album/5am0gtPGTLFAADXodhymWp"
       },
@@ -1082,7 +1100,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 228540,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/3D5Lrb3hzIs5ueUvuGpWWG"

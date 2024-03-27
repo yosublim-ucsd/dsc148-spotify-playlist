@@ -498,10 +498,36 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 323964,
       "name": "La Misi\u00f3n (Episodio 2)",
       "url": "https://open.spotify.com/track/63Ue3S576DpaAaDIZlMYsF"
+    },
+    {
+      "album": {
+        "name": "La Misi\u00f3n (Episodio 4)",
+        "url": "https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293325,
+      "name": "La Misi\u00f3n (Episodio 4)",
+      "url": "https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW"
     },
     {
       "album": {
@@ -1052,7 +1078,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 208072,
       "name": "Te Enganchaste Mal - Radio Edit",
       "url": "https://open.spotify.com/track/0LU0C4fZDavfWtUN4PhRr9"

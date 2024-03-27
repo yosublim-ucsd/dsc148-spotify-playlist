@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,907 songs - 3 day 0 hr 39 min
+1,908 songs - 3 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,6 +512,7 @@
 | [Enjoy](https://open.spotify.com/track/4CFNtLZ1c7bzTWfoCK8gWl) | [billsbeats](https://open.spotify.com/artist/24ogSxdy5DLO3KUmXh9WT8) | [Enjoy](https://open.spotify.com/album/2mdTnYWSmD4lb2b2H7blc7) | 1:24 | 2023-08-03 |  |
 | [enjoy](https://open.spotify.com/track/4o7HdlY1kz3wgydBjBUnXg) | [GAB5](https://open.spotify.com/artist/6mmtaBpQJZSynqYsbln6Sk) | [enjoy](https://open.spotify.com/album/4xLi3t4sYeqwgVRmzvP4BD) | 2:04 | 2022-08-05 | 2022-08-12 |
 | [Enjoying the day](https://open.spotify.com/track/7zpBzfVMJ7pxHUtv4ovbvZ) | [Arkei](https://open.spotify.com/artist/0zRhlnZOOvpAwow405hTFw) | [Enjoying the day](https://open.spotify.com/album/4ZwnFRo81rASRwGFVZpqF4) | 1:43 | 2022-08-05 | 2022-09-17 |
+| [Envision](https://open.spotify.com/track/1uXF503ovswvRMxJ3sMdBJ) | [Rumun III](https://open.spotify.com/artist/1Wq0AZnbeWGdPTTC1Hi9Ug) | [Envision](https://open.spotify.com/album/3wrRu4qhyAbkqqKSiuNaR0) | 2:43 | 2024-03-22 |  |
 | [esmeralda](https://open.spotify.com/track/0Lj1X67CDtaEWSo1hcwJdx) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [esmeralda](https://open.spotify.com/album/3JUStuPYqenccbd0mme7OU) | 2:58 | 2022-07-01 | 2023-03-09 |
 | [Espresso Dreams](https://open.spotify.com/track/5RxXQDO8DJ3dKnvTeQUadQ) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Spoonful Of Soup](https://open.spotify.com/album/1NvgkHRMAM7qlDyFqXsa4S) | 2:32 | 2022-04-15 | 2022-08-19 |
 | [Eunoia](https://open.spotify.com/track/0xLMlmoGZY2LhZcLMU6VvK) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Eunoia](https://open.spotify.com/album/4fBD47tpwDlksDgQSimWfX) | 2:13 | 2023-11-17 |  |
@@ -963,7 +964,7 @@
 | [Lost in the Woods](https://open.spotify.com/track/1EcB1d4312bZha775c7woO) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Solsken](https://open.spotify.com/album/2JzhBFTPswo8Xzv48mSn6G) | 2:30 | 2022-04-15 | 2022-05-27 |
 | [Lost Without You](https://open.spotify.com/track/1AqN43ZIZzz74aAtnsovZ1) | [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Lost Without You](https://open.spotify.com/album/34dYkYAHSlwZg94wg8UE90) | 2:38 | 2023-11-17 |  |
 | [lostonbrick](https://open.spotify.com/track/4yiteviu6ykAfAN7AspXCE) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [lostonbrick](https://open.spotify.com/album/0dS1PtAgPFSiuUhs9o9GNs) | 2:00 | 2022-09-23 |  |
-| [Lotus](https://open.spotify.com/track/0UW7iedk0q5u3EPTlgp3Sc) | [All Names](https://open.spotify.com/artist/4hdKvR0UnMhgvQp6BzqdIK) | [Lotus](https://open.spotify.com/album/0Vpd6SmPohg4jRreilcgtE) | 1:38 | 2024-03-22 |  |
+| [Lotus](https://open.spotify.com/track/0UW7iedk0q5u3EPTlgp3Sc) | [All Names](https://open.spotify.com/artist/4hdKvR0UnMhgvQp6BzqdIK) | [Lotus](https://open.spotify.com/album/0Vpd6SmPohg4jRreilcgtE) | 1:38 | 2024-03-22 | 2024-03-27 |
 | [Loud Bolt](https://open.spotify.com/track/4JgH9mzHDXcL4ZQW9NvXwU) | [tori yami](https://open.spotify.com/artist/3ZjRFcfag9ETSC777HOBDx) | [Loud Bolt](https://open.spotify.com/album/6GpmOKP4fhN0L3lxxTQVk9) | 2:17 | 2023-01-06 |  |
 | [louis](https://open.spotify.com/track/1DAAws1qqg7mn6mrlxQFuB) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [louis](https://open.spotify.com/album/2l7BsAYyTpFMILFg6FFqs7) | 2:28 | 2022-10-01 | 2023-03-09 |
 | [lounge life](https://open.spotify.com/track/4zHwNqoIVdtq6BVg4b6r0x) | [riviwi](https://open.spotify.com/artist/4gMvYRYoBpT6za0kEtwgXb), [sage green](https://open.spotify.com/artist/48XozkeJU7sbKjb0DG40ts) | [lounge life](https://open.spotify.com/album/5bvih2zwhn2PvGMQebhySh) | 1:58 | 2022-05-27 | 2022-11-12 |
@@ -1102,7 +1103,7 @@
 | [Multiply](https://open.spotify.com/track/2hn3t1cwovKmBKdLcTa76c) | [A & C](https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A) | [Multiply](https://open.spotify.com/album/0TCNPI9uK76IZQ8zCp66SJ) | 2:06 | 2023-11-24 |  |
 | [mushroom clouds](https://open.spotify.com/track/0FjGnELYi164OPipUCqEYG) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [mushroom clouds](https://open.spotify.com/album/102vk5Vw84JxgRSFa96EQZ) | 2:48 | 2023-04-11 |  |
 | [Mutations](https://open.spotify.com/track/5HLaKYbLSAA1dFjMPpLUZz) | [Dimension 32](https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz) | [Mutations](https://open.spotify.com/album/4dTkf27M3Y2acMwnQblFzo) | 2:31 | 2022-11-11 | 2023-02-07 |
-| [muted echo](https://open.spotify.com/track/3jFJ1qLKEokhtcGBH4jcrT) | [jag glum](https://open.spotify.com/artist/1KfrvBundzNVB4zlLvuRbN) | [muted echo](https://open.spotify.com/album/5Vha8Iob5NIv31ZK3AGmjs) | 2:01 | 2024-03-22 | 2024-03-25 |
+| [muted echo](https://open.spotify.com/track/3jFJ1qLKEokhtcGBH4jcrT) | [jag glum](https://open.spotify.com/artist/1KfrvBundzNVB4zlLvuRbN) | [muted echo](https://open.spotify.com/album/5Vha8Iob5NIv31ZK3AGmjs) | 2:01 | 2024-03-22 |  |
 | [Muy Tarde](https://open.spotify.com/track/2ja1xyVemtZKehVmPy1USL) | [Greco Murillo](https://open.spotify.com/artist/1matEXRuPsWuSWx1Ksjn5h), [Andros](https://open.spotify.com/artist/6xF1vJVs8eJ04wVjW8zEa7), [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ) | [Muy Tarde](https://open.spotify.com/album/4XBtEmRbJ7XgsEw5Wc3sBx) | 2:19 | 2023-04-20 | 2023-10-27 |
 | [My Analogue Mood](https://open.spotify.com/track/353Aiv9Fsx6G5q1sqtkODB) | [Laika Room](https://open.spotify.com/artist/66UXSprsAOEdunJXyA3OVX) | [In Another Place](https://open.spotify.com/album/6kGT3rDoaiu1NZwo1mIIh2) | 1:48 | 2022-04-15 | 2022-04-22 |
 | [my garden](https://open.spotify.com/track/5on1wGhJ1vseh68mtI5JOF) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [my garden](https://open.spotify.com/album/3wckUGh9RP26nZ1Ip9jChM) | 2:35 | 2023-04-20 |  |
@@ -1298,7 +1299,7 @@
 | [Phoebe Buffay](https://open.spotify.com/track/5uzwJATgAKKErn6PqpEgH2) | [Erik Obregon](https://open.spotify.com/artist/3PfVXFtmGJxqeF9hImGSPJ) | [Phoebe Buffay](https://open.spotify.com/album/5woAL81Ow7OztxwqzULTgG) | 2:43 | 2023-01-13 | 2023-03-09 |
 | [Phone Number](https://open.spotify.com/track/1Fe8JzED1qVUb7RlPRtP8B) | [Nice Pajamas](https://open.spotify.com/artist/2CB4k7eCe8jw8Axug9BN1n) | [Phone Number](https://open.spotify.com/album/27f0zblJFCwUkPF1ZO1YcR) | 2:00 | 2022-10-14 | 2023-01-13 |
 | [Photobooth](https://open.spotify.com/track/43VEuEMhk84irvMBlF6KJp) | [Slow Bounce](https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS) | [Photobooth](https://open.spotify.com/album/6pGLr0pYoKtQg6BU7MgGI5) | 1:51 | 2023-01-20 | 2023-09-29 |
-| [Photograf Of My Room](https://open.spotify.com/track/4o16Tg4phbklKHbEMFAd7Z) | [hello low](https://open.spotify.com/artist/0rw0XSu4ERGOxViqqBfclo) | [Photograf Of My Room](https://open.spotify.com/album/0KPJZONq3IMzxa4smUXq5Q) | 2:02 | 2024-03-22 |  |
+| [Photograf Of My Room](https://open.spotify.com/track/4o16Tg4phbklKHbEMFAd7Z) | [hello low](https://open.spotify.com/artist/0rw0XSu4ERGOxViqqBfclo) | [Photograf Of My Room](https://open.spotify.com/album/0KPJZONq3IMzxa4smUXq5Q) | 2:02 | 2024-03-22 | 2024-03-27 |
 | [Phunk dilla](https://open.spotify.com/track/2dOCWgcDWcxpWq2VwmYDQE) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Phunk Dilla](https://open.spotify.com/album/09RnXYULh66hA5vyrafMmF) | 2:24 | 2023-01-06 |  |
 | [Piano Roll](https://open.spotify.com/track/1mgu8HfJP14u5czwRJlGVp) | [Vancgroover](https://open.spotify.com/artist/4oAJgYdsGm7zkJgZTCPA0a) | [Piano Roll](https://open.spotify.com/album/1pMPBn1X8SgzmIHSafKXLt) | 2:05 | 2023-11-17 |  |
 | [piece of cake](https://open.spotify.com/track/4rwk2fkjHLRF5hnJiZRIAw) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [piece of cake](https://open.spotify.com/album/2ISl6imEYl6rHKHjzASGM2) | 2:22 | 2023-11-17 |  |

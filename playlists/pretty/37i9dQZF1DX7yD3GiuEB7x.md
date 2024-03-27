@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 
 > Are you trapped in some kind of haunted Hell? What is your favorite nightmare?
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,633 likes - 111 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,651 likes - 111 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 | 110 | [Chase Me](https://open.spotify.com/track/0DctgOJ5qpE3bMCTfwwi2d) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/0H35i31IzpWMrLXSV6h2YN) | 3:09 |
 | 111 | [Emotion](https://open.spotify.com/track/2CIvNK8ErkogYbGrOi2FhE) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/0H35i31IzpWMrLXSV6h2YN) | 3:43 |
 
-Snapshot ID: `MCw5NTFlODVmYjI3ODY2OGE3OWViZDg0NTAwNTcyMTUzZGJkZmY0NmYw`
+Snapshot ID: `MCwwYWQ4MzgzMTg5YzE0YmJmYmQ1OWVlYWI1YjBmNDk5ZWE5NDEyYzA3`

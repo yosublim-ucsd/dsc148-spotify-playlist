@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=aWeU7zC4RpiTW2j8Oj2Y7g\">Tyla</a>",
-  "num_followers": 85161,
+  "num_followers": 85245,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGUzNDc4YTQ2MmExMWFhMDNiMmQ3OWViZDIzMzlhYmE3ZThjN2M2",
+  "snapshot_id": "MCxhYmE2MTE3MTRmZjQ0MWU5Y2Q1MjM1NzZkM2E3ODYzNzFjNDg1MzBj",
   "tracks": [
     {
       "added_at": "2024-03-21 23:01:00",
@@ -1376,12 +1376,12 @@
           "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
         },
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
           "name": "9lives",
           "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
       "duration_ms": 151839,

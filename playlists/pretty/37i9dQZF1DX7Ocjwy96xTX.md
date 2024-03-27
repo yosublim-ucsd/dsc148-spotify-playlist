@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 
 > back up in the sky
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,786 likes - 105 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,929 likes - 105 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 104 | [f my haterz anthem](https://open.spotify.com/track/6N0mSXLOh1j3agMiCxQlCo) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ), [Loverboyrando](https://open.spotify.com/artist/4mnSgKEkGtu1IBN2r2bM77), [Sweatcult](https://open.spotify.com/artist/31412uPiG5Il6jKLs4u2C4) | [f my haterz anthem](https://open.spotify.com/album/0s3ocpYpZlUtQmfnL6t1u2) | 3:56 |
 | 105 | [shutting me out](https://open.spotify.com/track/69vQ28ksF23utGYgq4YhxD) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [EKKSTACY](https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC) | 2:26 |
 
-Snapshot ID: `MCwwZWIxN2Y4ZDU4ZDFjNWI2MTEwYzg4YTEzNjc0M2U0MDY5NWQ0ZWFk`
+Snapshot ID: `MCwwNDAwOTE3MjkzMmYzNzgyNTU5NjExODc2YzVlMDdiYTJmNGE4ZmM0`

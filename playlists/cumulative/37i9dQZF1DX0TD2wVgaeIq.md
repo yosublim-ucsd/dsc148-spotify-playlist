@@ -4,7 +4,7 @@
 
 > Beautiful bansuri flute and sitar from India.
 
-86 songs - 7 hr 9 min
+88 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,8 +80,10 @@
 | [Shiva's Meditation](https://open.spotify.com/track/0TxmxoCQMiXvfFA6DPM1wT) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 5:09 | 2023-03-09 | 2024-01-26 |
 | [Shiva's Meditation](https://open.spotify.com/track/2PIOLxy5u0q2KzbAE2gG2b) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je) | 5:09 | 2024-01-19 |  |
 | [Siddhartha's Flute Meditation](https://open.spotify.com/track/3thZ20hmRpxshSfudFwAd2) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Siddhartha's Flute Meditation](https://open.spotify.com/album/0kCldZYKrXXyK12XcQn4Bc) | 2:26 | 2023-03-09 |  |
+| [Siddharthas Echoes](https://open.spotify.com/track/0VB1Djbd1gnDZzhLHopYIf) | [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7), [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Siddharthas Echoes](https://open.spotify.com/album/55Jz6l9fzWVopImHAFYzoG) | 3:12 | 2024-03-26 |  |
 | [Slowly Healing](https://open.spotify.com/track/7B6uXznIUsatvSuZujLlsk) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Slowly Healing](https://open.spotify.com/album/2a6QiYnjdRT9rclhvM2hQa) | 3:06 | 2023-03-09 |  |
 | [Soothing Oasis](https://open.spotify.com/track/6SLhNH99NX98JlN1rnrtFl) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Soothing Oasis](https://open.spotify.com/album/2hwuGsoJs0qmtyCB3kLGXx) | 6:17 | 2023-03-09 |  |
+| [Sublime Echoes](https://open.spotify.com/track/2NXt2eLG4kvSJovsfQC0hO) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Sublime Echoes](https://open.spotify.com/album/6NBUk1TNjJN5dyITHeeiUX) | 2:48 | 2024-03-26 |  |
 | [Sudhar](https://open.spotify.com/track/1qtzGewEnNOtBQqxL0RkcI) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Sudhar](https://open.spotify.com/album/4thvMMTyld6WqUZUue8Zop) | 3:13 | 2023-03-09 |  |
 | [Sun Salutation](https://open.spotify.com/track/5NlB5vx0KNyOr4RM9oelFz) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Sun Salutation](https://open.spotify.com/album/55KUA09F5TsAqTTCxbWtL1) | 3:34 | 2023-03-09 |  |
 | [Sweet Lotus](https://open.spotify.com/track/7HENRfW91cNww67XjwAowU) | [Shastro](https://open.spotify.com/artist/5D7gnyD7U75lCDAJxIW5Ew) | [Satsang](https://open.spotify.com/album/3LJ2FWxDXAb6iuMkxXZgnf) | 9:48 | 2023-03-09 |  |

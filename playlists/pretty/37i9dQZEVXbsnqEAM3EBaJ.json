@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MTc5NDAsMDAwMDAwMDBkMDM0ZTI2Y2ViOTQ4MTUyOTU0NjVlMGRlOTQ1MzM3OA==",
+  "snapshot_id": "Mjg1MTc5NDAsMDAwMDAwMDBlZDE0MTY5YzkwOGFlNjVkZDRkYjQ4MmVmY2MwMDdhYg==",
   "tracks": [
     {
       "added_at": "2024-03-22 03:00:00",
@@ -35,38 +35,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "El Poder Divino",
-        "url": "https://open.spotify.com/album/2PoyCS87WqwOGnfHKad6F3"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Donalson",
-          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
-        }
-      ],
-      "duration_ms": 244293,
-      "name": "Poder de Ganesha",
-      "url": "https://open.spotify.com/track/0vXPr4oJbp8a8gsF4rHVqD"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
-        "name": "Myths of Fate",
-        "url": "https://open.spotify.com/album/7BJ121ekSfZ0vPECFGPV7G"
-      },
-      "artists": [
-        {
-          "name": "Leaves' Eyes",
-          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
-        }
-      ],
-      "duration_ms": 274994,
-      "name": "Hammer of the Gods",
-      "url": "https://open.spotify.com/track/78qlA1fC79giLrL0Luzttd"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "Headless Cross / Anno Mundi",
         "url": "https://open.spotify.com/album/7yyoUmD7s0iR4jQbYfjnno"
       },
@@ -79,6 +47,54 @@
       "duration_ms": 389226,
       "name": "Headless Cross (2024 Remaster)",
       "url": "https://open.spotify.com/track/0dDDO3bLsl4Tbh5TkvQjDk"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "El Poder Divino",
+        "url": "https://open.spotify.com/album/2PoyCS87WqwOGnfHKad6F3"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Donalson",
+          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
+        }
+      ],
+      "duration_ms": 480328,
+      "name": "Poder de Tara Verde",
+      "url": "https://open.spotify.com/track/0F14szjNidMRQ9CIcgx4ge"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 139432,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/5T4RqzpT6zoWoBA34EowdS"
+      },
+      "artists": [
+        {
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        }
+      ],
+      "duration_ms": 222956,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/3X0Rp5nzDFawTmw1FlwWAP"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -103,90 +119,18 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "PODER (Bribb\u014d Remix)",
-        "url": "https://open.spotify.com/album/0mYcMzIpeNYtm2lOcADnvH"
+        "name": "Myths of Fate",
+        "url": "https://open.spotify.com/album/7BJ121ekSfZ0vPECFGPV7G"
       },
       "artists": [
         {
-          "name": "quediostesalve",
-          "url": "https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI"
-        },
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        },
-        {
-          "name": "Bribb\u014d",
-          "url": "https://open.spotify.com/artist/0I4Jwenu9U3vqvMywzWz4L"
+          "name": "Leaves' Eyes",
+          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
         }
       ],
-      "duration_ms": 260890,
-      "name": "PODER - Bribb\u014d Remix",
-      "url": "https://open.spotify.com/track/6yW8LNNbmfSHWtVsy53FIC"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/5T4RqzpT6zoWoBA34EowdS"
-      },
-      "artists": [
-        {
-          "name": "b\u00f4a",
-          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
-        }
-      ],
-      "duration_ms": 222956,
-      "name": "Walk With Me",
-      "url": "https://open.spotify.com/track/3X0Rp5nzDFawTmw1FlwWAP"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
-        "name": "Faster Than the Speed of Night (Live in Berlin)",
-        "url": "https://open.spotify.com/album/3dUdYL5bZQNo8caR8UmQwR"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 365737,
-      "name": "Faster Than the Speed of Night - Single Edit [Live]",
-      "url": "https://open.spotify.com/track/2kNTF2pFrtu3ooyL0vF3R4"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 139432,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
-        "name": "Armada",
-        "url": "https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr"
-      },
-      "artists": [
-        {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Armada",
-      "url": "https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4"
+      "duration_ms": 274994,
+      "name": "Hammer of the Gods",
+      "url": "https://open.spotify.com/track/78qlA1fC79giLrL0Luzttd"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -207,6 +151,38 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
+        "name": "Armada",
+        "url": "https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Armada",
+      "url": "https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Faster Than the Speed of Night (Live in Berlin)",
+        "url": "https://open.spotify.com/album/3dUdYL5bZQNo8caR8UmQwR"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 365737,
+      "name": "Faster Than the Speed of Night - Single Edit [Live]",
+      "url": "https://open.spotify.com/track/2kNTF2pFrtu3ooyL0vF3R4"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
         "name": "Pertenezco Aqu\u00ed",
         "url": "https://open.spotify.com/album/0Me6t0xF5TSIaPG3ayJdkW"
       },
@@ -223,6 +199,30 @@
       "duration_ms": 244333,
       "name": "Pertenezco Aqu\u00ed",
       "url": "https://open.spotify.com/track/314VxfuhEvi859ShK1nK6z"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "PODER (Bribb\u014d Remix)",
+        "url": "https://open.spotify.com/album/0mYcMzIpeNYtm2lOcADnvH"
+      },
+      "artists": [
+        {
+          "name": "quediostesalve",
+          "url": "https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI"
+        },
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        },
+        {
+          "name": "Bribb\u014d",
+          "url": "https://open.spotify.com/artist/0I4Jwenu9U3vqvMywzWz4L"
+        }
+      ],
+      "duration_ms": 260890,
+      "name": "PODER - Bribb\u014d Remix",
+      "url": "https://open.spotify.com/track/6yW8LNNbmfSHWtVsy53FIC"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -267,26 +267,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Children's Album, Op. 39, No. 1, Morning Prayer",
-        "url": "https://open.spotify.com/album/4FyfySKhMrb9C3wCLWTf1u"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "German Kitkin",
-          "url": "https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy"
-        }
-      ],
-      "duration_ms": 90333,
-      "name": "Children's Album, Op. 39, No. 1, Morning Prayer",
-      "url": "https://open.spotify.com/track/1rYrMOkieLQvOfZNUNta1h"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "What About The Children",
         "url": "https://open.spotify.com/album/3GRDspM8YHRS8P5ci5n2nx"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 279359,
       "name": "What About The Children",
       "url": "https://open.spotify.com/track/1H3ZNotB3Z6kQBcMovZwPX"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Children's Album, Op. 39, No. 1, Morning Prayer",
+        "url": "https://open.spotify.com/album/4FyfySKhMrb9C3wCLWTf1u"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "German Kitkin",
+          "url": "https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy"
+        }
+      ],
+      "duration_ms": 90333,
+      "name": "Children's Album, Op. 39, No. 1, Morning Prayer",
+      "url": "https://open.spotify.com/track/1rYrMOkieLQvOfZNUNta1h"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
+        "name": "Don't Come Running To Me",
+        "url": "https://open.spotify.com/album/74r2BQ0A1lOsUXMoi0R2rh"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 207682,
+      "name": "Don't Come Running To Me",
+      "url": "https://open.spotify.com/track/7zwftc0ehHfwjRMoK5QGKZ"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
         "name": "Left on Mars",
         "url": "https://open.spotify.com/album/3Teu4wdoUdqhuDJRIW06P5"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 301576,
       "name": "Left on Mars",
       "url": "https://open.spotify.com/track/4vR33RBNDOk6hpgqZpaom9"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
-        "name": "Don't Come Running To Me",
-        "url": "https://open.spotify.com/album/74r2BQ0A1lOsUXMoi0R2rh"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 207682,
-      "name": "Don't Come Running To Me",
-      "url": "https://open.spotify.com/track/7zwftc0ehHfwjRMoK5QGKZ"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "The Last Imagination",
-        "url": "https://open.spotify.com/album/4rZlDpT9yufJYWhzDaxbjX"
-      },
-      "artists": [
-        {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
-        }
-      ],
-      "duration_ms": 227067,
-      "name": "The Last Imagination",
-      "url": "https://open.spotify.com/track/70vbbwbAEaWokZlGta6R8g"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/03mQfTKwoRxaDLg2Vkf9vm"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 298401,
       "name": "Circles",
       "url": "https://open.spotify.com/track/18GFHVWGCED0TCARMkHUr8"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "The Last Imagination",
+        "url": "https://open.spotify.com/album/4rZlDpT9yufJYWhzDaxbjX"
+      },
+      "artists": [
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "duration_ms": 227067,
+      "name": "The Last Imagination",
+      "url": "https://open.spotify.com/track/70vbbwbAEaWokZlGta6R8g"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 223405,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
         "name": "Falter",
         "url": "https://open.spotify.com/album/1tPAdl5ojUZur7ynmEJepT"
       },
@@ -743,50 +759,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "MELLODEATH Tapes Vol. I",
-        "url": "https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        },
-        {
-          "name": "Crown The Empire",
-          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Fireball",
-      "url": "https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
-        "name": "Owner of a Lonely Heart (Back2Back Remix)",
-        "url": "https://open.spotify.com/album/1M1qW4kgDAhi5ANvwhdzrE"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        },
-        {
-          "name": "Back2Back",
-          "url": "https://open.spotify.com/artist/7qmcGs3BN2KPTS3UyFrle8"
-        }
-      ],
-      "duration_ms": 132480,
-      "name": "Owner of a Lonely Heart (Back2Back Remix) - Radio Edit",
-      "url": "https://open.spotify.com/track/3FtbjGvQOJ8D7xerDsMpKp"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "Danz\u00f3n Para La Espera",
         "url": "https://open.spotify.com/album/5NlwLkuzq9WBQa54Rytnxv"
       },
@@ -803,22 +775,6 @@
       "duration_ms": 302000,
       "name": "Danz\u00f3n Para La Espera",
       "url": "https://open.spotify.com/track/1RlcebUFfWS1DaRnlDr0Ms"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 223405,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -859,22 +815,46 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "L'ideale",
-        "url": "https://open.spotify.com/album/0CycRkODg9pxJglqVQClCY"
+        "name": "Owner of a Lonely Heart (Back2Back Remix)",
+        "url": "https://open.spotify.com/album/1M1qW4kgDAhi5ANvwhdzrE"
       },
       "artists": [
         {
-          "name": "Patrizio Trampetti",
-          "url": "https://open.spotify.com/artist/6WfqDiSWQV1hvH9dhoESas"
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
         },
         {
-          "name": "Inti-Illimani",
-          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+          "name": "Back2Back",
+          "url": "https://open.spotify.com/artist/7qmcGs3BN2KPTS3UyFrle8"
         }
       ],
-      "duration_ms": 266926,
-      "name": "L'ideale",
-      "url": "https://open.spotify.com/track/1OQr3hy0ARHiUazMvQCne3"
+      "duration_ms": 132480,
+      "name": "Owner of a Lonely Heart (Back2Back Remix) - Radio Edit",
+      "url": "https://open.spotify.com/track/3FtbjGvQOJ8D7xerDsMpKp"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "MELLODEATH Tapes Vol. I",
+        "url": "https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "Crown The Empire",
+          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Fireball",
+      "url": "https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -895,6 +875,26 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
+        "name": "L'ideale",
+        "url": "https://open.spotify.com/album/0CycRkODg9pxJglqVQClCY"
+      },
+      "artists": [
+        {
+          "name": "Patrizio Trampetti",
+          "url": "https://open.spotify.com/artist/6WfqDiSWQV1hvH9dhoESas"
+        },
+        {
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        }
+      ],
+      "duration_ms": 266926,
+      "name": "L'ideale",
+      "url": "https://open.spotify.com/track/1OQr3hy0ARHiUazMvQCne3"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
         "name": "Legs (Live from the Blockbuster Pavilion San Bernardino, California on September 15, 1993, 2023 Remaster)",
         "url": "https://open.spotify.com/album/1vrhMXQSZGt9aNTPpUvcAc"
       },
@@ -911,18 +911,22 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Someone's Daughter, Someone's Son",
-        "url": "https://open.spotify.com/album/1pCxbUrnRHbLMtdaFIFHtB"
+        "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
+        "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Your Broken Hero",
+          "url": "https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD"
+        },
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
         }
       ],
-      "duration_ms": 251666,
-      "name": "Someone's Daughter, Someone's Son",
-      "url": "https://open.spotify.com/track/2OFmXtz8iAjqhRZF4zrxb9"
+      "duration_ms": 178432,
+      "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
+      "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -951,22 +955,18 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
-        "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
+        "name": "Someone's Daughter, Someone's Son",
+        "url": "https://open.spotify.com/album/1pCxbUrnRHbLMtdaFIFHtB"
       },
       "artists": [
         {
-          "name": "Your Broken Hero",
-          "url": "https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD"
-        },
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 178432,
-      "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
-      "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
+      "duration_ms": 251666,
+      "name": "Someone's Daughter, Someone's Son",
+      "url": "https://open.spotify.com/track/2OFmXtz8iAjqhRZF4zrxb9"
     },
     {
       "added_at": "2024-03-22 03:00:00",

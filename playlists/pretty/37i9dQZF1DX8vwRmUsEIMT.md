@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Bradley Simpson
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,885 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,890 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 36 | [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 |
 | 37 | [Fundamental Memory](https://open.spotify.com/track/2vf2eGmwHZAJ9EwX2an2aE) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [All Now](https://open.spotify.com/album/3N3I408c25BJ3PjmLP5Itg) | 3:49 |
 | 38 | [Unfinished Business](https://open.spotify.com/track/15AMGNS7cN4zBtTafqZe7c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Unfinished Business](https://open.spotify.com/album/7jsXqctphtpjxSyprnVlNf) | 3:16 |
-| 39 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
+| 39 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
 | 40 | [When She Told Me](https://open.spotify.com/track/1uRF3CIh24PY17wR5v5k6Q) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [When She Told Me](https://open.spotify.com/album/6r3emSLfF17MpkJAXzd5Tt) | 4:41 |
 | 41 | [Halfway There](https://open.spotify.com/track/6yp2xpP4aqgTpxzHdVid1M) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Halfway There](https://open.spotify.com/album/3uFPkuJLDLRpugR3itMBZY) | 3:15 |
 | 42 | [Run \(feat\. Nu\-La\)](https://open.spotify.com/track/1ZxSzDlMkaUPFaLLJLY6dz) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Run \(feat\. Nu\-La\)](https://open.spotify.com/album/58eTNJXqfFUJHWBAUcMyod) | 3:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Jesus Is Dead](https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:09 |
 | 80 | [Englaso](https://open.spotify.com/track/0hDjvR6tcjTbpfpigqcJ4j) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Englaso](https://open.spotify.com/album/7E6pHTg09rMbd2fEfwylKD) | 2:39 |
 
-Snapshot ID: `MCw2ODI0ZTdmZTJlOWViMTUxMGE5YTc1MDVhMTdhZTg4YjMxMTc5NDEz`
+Snapshot ID: `MCw0ZGQ5NjVmYTMxNmM2MDFiNTdiN2Y5MzI3MmIwZGQzMGFhYjZiNzYy`

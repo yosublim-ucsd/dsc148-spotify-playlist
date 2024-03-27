@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > The finest set of Malayalam music from the past 10 years.<br/>Cover : Manjummel Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,496 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,627 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 49 | [Kamini](https://open.spotify.com/track/5sC8JC6dHcEifGMB8xPbbO) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Anugraheethan Antony](https://open.spotify.com/album/2DJyACvp30UFBGAvk9UGmL) | 3:58 |
 | 50 | [Nilapakshi Happy Version](https://open.spotify.com/track/6BvRT4pR5sr3jHgrTYAtbp) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [Tarun Bhattacharya](https://open.spotify.com/artist/75pVYyeJxeZZMforYr50pA) | [Maradona \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xW8gYFnuIbWoWhnluumNo) | 3:48 |
 
-Snapshot ID: `MCw2NGQzYjRjZmZjZWYzMzFmZWU2ZjJkMzY3ODNhODQ2MzViOWQ1OGEw`
+Snapshot ID: `MCwxN2Q5ZGY4ZGRiNjg3ZmRmNzJkYWJkYmJlZmIwZmI5MDdmMGRlMWI0`

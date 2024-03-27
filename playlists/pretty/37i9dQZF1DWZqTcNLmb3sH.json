@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57379,
+  "num_followers": 57393,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDRkMzJjZjgwNzExOWZmZDI2ZjRiZjAxZmIyNjk0MmE1NjFkMWM1",
+  "snapshot_id": "MCxjYzVkMTVlM2VlMzJjZTEwZjM5MjY3NDU2MDYyNDM2MjgyN2YwZDhl",
   "tracks": [
     {
       "added_at": "2024-01-30 12:16:19",
@@ -47,6 +47,30 @@
       "duration_ms": 214617,
       "name": "Kavithe Kavithe (From \"Yuva\")",
       "url": "https://open.spotify.com/track/51JkjupL5rHz5jGDwlWCad"
+    },
+    {
+      "added_at": "2024-03-26 07:02:46",
+      "album": {
+        "name": "Ivane Avatara Purusha (From \"Avatara Purusha 2\")",
+        "url": "https://open.spotify.com/album/7GzNuvCZAACCkPZpsHYbPb"
+      },
+      "artists": [
+        {
+          "name": "MC Bijju",
+          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
+        },
+        {
+          "name": "Auraa",
+          "url": "https://open.spotify.com/artist/7pCZ0u25jpdxDZy5Z8HbwX"
+        },
+        {
+          "name": "Abhinandan Kashyap",
+          "url": "https://open.spotify.com/artist/1V6A4aayMYPUr5tLVKmrQA"
+        }
+      ],
+      "duration_ms": 172742,
+      "name": "Ivane Avatara Purusha (From \"Avatara Purusha 2\")",
+      "url": "https://open.spotify.com/track/6yhZJxvU8kYHGtEXaiPdSY"
     },
     {
       "added_at": "2024-03-04 11:32:38",

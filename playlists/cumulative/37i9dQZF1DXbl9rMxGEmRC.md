@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-609 songs - 2 day 3 hr 58 min
+610 songs - 2 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Frozen](https://open.spotify.com/track/0PsZiLg0dJTSktbRT7FnHd) | [Dissection](https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe) | [The Past is Alive \(The Early Misschief\)](https://open.spotify.com/album/3S2EmM7VIO2P3TMCdTtM5I) | 3:28 | 2022-10-07 | 2023-07-04 |
 | [Fucking Your Ghost In Chains of Ice](https://open.spotify.com/track/5maiXlxUmXjlKqqqpJbctD) | [Leviathan](https://open.spotify.com/artist/6CJU2RwwB10D0KoYYqWYeM) | [The Tenth Sub Level Of Suicide](https://open.spotify.com/album/1a08Kc3CmrsUbCxEibttUx) | 5:40 | 2022-07-13 | 2023-02-16 |
 | [Funeral Fog](https://open.spotify.com/track/2lXi7xN0MiTfLb2DW7H9UT) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE) | 5:47 | 2022-07-13 | 2023-02-16 |
+| [Future to Come](https://open.spotify.com/track/1ukyoBUPLuLDWiGOP3TDdE) | [Furor Gallico](https://open.spotify.com/artist/3EdTAF8rCNoJhEYmNKBehq) | [Future To Come](https://open.spotify.com/album/0EJ1YN4Z6VmZzPpcEn2fbE) | 4:13 | 2024-03-22 |  |
 | [Galactic Order](https://open.spotify.com/track/4fTYgx1L02Uni6fnSbi93F) | [Assemble the Chariots](https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ) | [Galactic Order](https://open.spotify.com/album/2vOreDyZb2cDajzHWrvZAt) | 5:22 | 2023-05-12 |  |
 | [Gamle\-Erik](https://open.spotify.com/track/1NI0lQb4FXqGutjDePCaRI) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Helvegr](https://open.spotify.com/album/6eH7gLDHor7ZPiz4VQtWDM) | 3:46 | 2023-06-30 | 2023-09-03 |
 | [Gangandi](https://open.spotify.com/track/4AnR4EB1BIn481mcPalt44) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Gangandi](https://open.spotify.com/album/45VQnapn0ZwF6JV2HvAiZ9) | 7:10 | 2024-01-11 | 2024-03-22 |
@@ -282,7 +283,7 @@
 | [Immer Treu](https://open.spotify.com/track/04yFun0kpmuxmfP8z4Gve3) | [Varg](https://open.spotify.com/artist/4QjcHVaUB35395GeUoRIfZ) | [Immer Treu](https://open.spotify.com/album/56md3R00zHzNSpWvQqIkv7) | 4:19 | 2023-09-01 | 2023-09-27 |
 | [In Abeyance](https://open.spotify.com/track/5kMqGe9AgwZmgYSl6cQu1o) | [Cryptopsy](https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN) | [In Abeyance](https://open.spotify.com/album/6TxLiQzD4gg3dHNCuTA4GF) | 2:55 | 2023-07-07 | 2023-10-10 |
 | [In Death's Embrace](https://open.spotify.com/track/33Tw7bBpn08xmigGaruVhL) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Enthrone Darkness Triumphant](https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9) | 5:42 | 2022-07-13 |  |
-| [In Honour of the Fallen](https://open.spotify.com/track/4lYuiV1H112f1k9dJ9fBkK) | [Graveworm](https://open.spotify.com/artist/4XJZ7zUJzQuayqyAVJowKX) | [Killing Innocence](https://open.spotify.com/album/5Ded74WQAVnklzatKOU8Ss) | 5:50 | 2023-04-28 |  |
+| [In Honour of the Fallen](https://open.spotify.com/track/4lYuiV1H112f1k9dJ9fBkK) | [Graveworm](https://open.spotify.com/artist/4XJZ7zUJzQuayqyAVJowKX) | [Killing Innocence](https://open.spotify.com/album/5Ded74WQAVnklzatKOU8Ss) | 5:50 | 2023-04-28 | 2024-03-27 |
 | [In the Shadow of the Horns](https://open.spotify.com/track/3OJNfu0G5Ooab1ZlNCdQyb) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [A Blaze in the Northern Sky](https://open.spotify.com/album/3eE6kwrlKF0RFYMVExCC0O) | 7:01 | 2022-07-13 | 2022-07-29 |
 | [In the Shadow of the Horns \- Studio](https://open.spotify.com/track/1qY7zhfiiMVzb38kJ2806t) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [A Blaze In The Northern Sky](https://open.spotify.com/album/4ywDt046dDB2OtWLqKwvMF) | 7:01 | 2022-07-13 | 2023-02-16 |
 | [Infinite Sequential Visions of a Sphere of Hate](https://open.spotify.com/track/4tLtrLgROIRKkMkQdeYZ4h) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm), [Kyle Anderson](https://open.spotify.com/artist/2eBk2tRUVeNEfbuDvU4v44) | [Infinite Sequential Visions of a Sphere of Hate](https://open.spotify.com/album/0qMWnSbR71q3ccgPyPx9v6) | 4:41 | 2022-03-18 | 2022-07-24 |

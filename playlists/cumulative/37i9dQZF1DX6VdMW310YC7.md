@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,584 songs - 4 day 12 hr 55 min
+1,585 songs - 4 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -841,7 +841,7 @@
 | [Lost In Space](https://open.spotify.com/track/59vGBEz1TByo4BCuKFF8P0) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Lost In Space](https://open.spotify.com/album/3mS5pfJvDStk99v0QRIsJH) | 3:42 | 2022-07-01 | 2023-03-22 |
 | [Lost In Space](https://open.spotify.com/track/67ck64BdbfbWZDEcgNdP6a) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Lost In Space](https://open.spotify.com/album/7EmlgPald7UuGDXgDXBYek) | 3:42 | 2023-03-10 | 2024-03-23 |
 | [Lost In The Melody](https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Lost In The Melody](https://open.spotify.com/album/3c94wnBH81Zrj5M1KHzwYj) | 3:02 | 2024-03-01 |  |
-| [Lost In Time](https://open.spotify.com/track/3NgS3hX9JXheEU0g7c1H7T) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Lost In Time](https://open.spotify.com/album/3WF0tSjsDIbYgdttZTWO8f) | 5:24 | 2024-03-22 |  |
+| [Lost In Time](https://open.spotify.com/track/3NgS3hX9JXheEU0g7c1H7T) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Lost In Time](https://open.spotify.com/album/3WF0tSjsDIbYgdttZTWO8f) | 5:24 | 2024-03-22 | 2024-03-27 |
 | [Lost in You](https://open.spotify.com/track/41JyJ75Wf7NOIP3lk3JaNH) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Lost in You](https://open.spotify.com/album/13gn0rNGUlOHhZbnG76PAW) | 3:01 | 2022-12-28 | 2023-01-06 |
 | [Lost Souls \- Nora En Pure Remix](https://open.spotify.com/track/2UsRV8KFvHaDFUJtzQADAu) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Ost](https://open.spotify.com/artist/6nd2xPiNkapZHlg6UvIVVx), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Lost Souls \(Nora En Pure Remix\)](https://open.spotify.com/album/5eUHs8CussoumFCO2guELs) | 3:41 | 2020-03-18 | 2022-01-17 |
 | [Lost With You](https://open.spotify.com/track/3orHV9WQ9htKc6PwcypoRO) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG) | [Lost With You](https://open.spotify.com/album/3JXBRmD6zviu4BPHgN55BD) | 4:10 | 2020-05-18 | 2022-04-20 |
@@ -1414,6 +1414,7 @@
 | [Think](https://open.spotify.com/track/39GdiKa00P00AUxO7rD1xe) | [Kiso](https://open.spotify.com/artist/3okpOKUI8vvwAYi4cDoXdZ) | [Think](https://open.spotify.com/album/3b4HmUQzrud74bCPa6eeQm) | 2:50 | 2020-05-18 | 2020-07-18 |
 | [Thinking Back](https://open.spotify.com/track/6InmT6vejHqnqxUhcOGYex) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Plastic People](https://open.spotify.com/album/29R3uyqxP5iXDnHnGXXqMe) | 5:00 | 2020-05-18 | 2021-02-19 |
 | [This Could Be \- Chill Mix](https://open.spotify.com/track/1fMh032FtBwJDk1iGurH9Y) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [This Could Be \(Chill Mix\)](https://open.spotify.com/album/1EePdJthRN92skeHT0hzev) | 2:58 | 2020-11-20 | 2022-09-22 |
+| [This Is It](https://open.spotify.com/track/1RmdXgrkvOYnHrXbz2A8WC) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [This Is It](https://open.spotify.com/album/0XI1OLkA9VGYzzK5lNPu0z) | 4:23 | 2024-03-22 |  |
 | [This Place](https://open.spotify.com/track/73mS0eZixX8WFFMuKZ1iH1) | [obylx](https://open.spotify.com/artist/3oB2U9OWSyEKuSve5KNgyx) | [This Place](https://open.spotify.com/album/6cGZGCXTRVpc4Tbe9BbwBq) | 3:40 | 2020-03-17 | 2021-01-11 |
 | [This Time \- Four Tet Remix](https://open.spotify.com/track/1x62N4B6k427U5Oj2aFxRY) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [This Time \(Four Tet Remix\)](https://open.spotify.com/album/0GY2LOgXecSnpqFTLxnmhb) | 4:20 | 2022-08-26 | 2022-09-10 |
 | [This World](https://open.spotify.com/track/00p8qNEetqyyT1A61Kc5I2) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [This World](https://open.spotify.com/album/6rY1N1eCW1ZgwN6x0uqyfb) | 3:14 | 2021-12-17 | 2022-03-26 |

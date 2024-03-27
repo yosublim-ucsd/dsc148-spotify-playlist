@@ -4,7 +4,7 @@
 
 > every day soul with a funky groove for a laid back day.
 
-166 songs - 9 hr 41 min
+169 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-04-28 |  |
 | [No Particulars](https://open.spotify.com/track/3wF0M5BsOWABoOV4vr3wCr) | [Shafiq Husayn](https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Didda Joe](https://open.spotify.com/artist/6RiH4it36bTUNBvUjPH2DP), [August Rose](https://open.spotify.com/artist/4cGbWF0MMhak6Ws9ROGC44) | [So Gold](https://open.spotify.com/album/2n8xGkaNui2V7g59g9EAjC) | 4:23 | 2023-06-09 |  |
 | [No Plans for Love \(with Ne\-Yo & Kent Jones\)](https://open.spotify.com/track/5f2CDk3D2XX8XyL6kViwZI) | [D\-Nice](https://open.spotify.com/artist/4MbFOE7rR1KpTjHTw1gjWH), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Kent Jones](https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO) | [No Plans for Love \(with Ne\-Yo & Kent Jones\)](https://open.spotify.com/album/6KhNL7xE9vbfCcx6brXPiO) | 3:24 | 2021-10-22 | 2022-02-19 |
-| [Nothing We Can't Get Through](https://open.spotify.com/track/35R6Ru82ogVuBMVKnMf5sD) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Nothing We Can't Get Through](https://open.spotify.com/album/3A4gO5lgaOSVXgoKyNnHbi) | 2:22 | 2023-06-30 |  |
+| [Nothing We Can't Get Through](https://open.spotify.com/track/35R6Ru82ogVuBMVKnMf5sD) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Nothing We Can't Get Through](https://open.spotify.com/album/3A4gO5lgaOSVXgoKyNnHbi) | 2:22 | 2023-06-30 | 2024-03-27 |
+| [Nothing We Can't Get Through](https://open.spotify.com/track/5YoRg9SvbCmdxhVf3kyRfS) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Welcome Home](https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P) | 2:22 | 2023-06-30 |  |
 | [On My Shit \(feat\. Joey Bada$$\)](https://open.spotify.com/track/4Mj9FULUmiSVbcN0EcWo5r) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [On My Shit \(feat\. Joey Bada$$\)](https://open.spotify.com/album/3W3oMpBoKd5sISjqByge4g) | 3:26 | 2021-10-22 |  |
 | [Only You](https://open.spotify.com/track/4AvOXTQ2semU5FAmtl8vtk) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Only You](https://open.spotify.com/album/3rdIkWOlV1MfsZ5qmQ7Us5) | 3:14 | 2021-10-22 | 2022-07-29 |
 | [Only You](https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Rare Changes](https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8) | 3:14 | 2022-02-18 |  |
@@ -149,7 +150,8 @@
 | [Slowly](https://open.spotify.com/track/3GGhyTPYDufku46UtvLTPi) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Slowly](https://open.spotify.com/album/2DTKy8cjrG6GIvDO4s3ljv) | 3:07 | 2021-10-22 | 2022-07-23 |
 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA) | 3:06 | 2023-03-24 |  |
 | [Somebody Else](https://open.spotify.com/track/2lspfvz8Ki4p4n93W089XE) | [Maxine Ashley](https://open.spotify.com/artist/5fYyfkrYbHDQreGr7cUul0) | [Somebody Else](https://open.spotify.com/album/4DnAL7jdYRhvO6b39HAuVe) | 3:29 | 2024-02-09 |  |
-| [Something Different](https://open.spotify.com/track/7kjU2PdLXMBZfPnAgX1ZuA) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Something Different](https://open.spotify.com/album/7GrnInJDvEyalLmTzAc8E4) | 5:18 | 2023-06-01 |  |
+| [Something Different](https://open.spotify.com/track/0KftydL9BNI4g79mvD6UHR) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Welcome Home](https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P) | 5:18 | 2023-06-01 |  |
+| [Something Different](https://open.spotify.com/track/7kjU2PdLXMBZfPnAgX1ZuA) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Something Different](https://open.spotify.com/album/7GrnInJDvEyalLmTzAc8E4) | 5:18 | 2023-06-01 | 2024-03-27 |
 | [Spend The Night](https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Spend The Night](https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ) | 3:13 | 2023-09-08 |  |
 | [Square 1](https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Square 1](https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv) | 3:40 | 2021-10-22 | 2023-10-21 |
 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 | 2021-10-22 |  |
@@ -173,6 +175,7 @@
 | [Western World](https://open.spotify.com/track/0KuppmJTVdK9eW91d2URem) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Western World](https://open.spotify.com/album/6Jx2HJlfd4PhFEaYJlqcZO) | 4:13 | 2022-02-18 | 2022-11-13 |
 | [Western World](https://open.spotify.com/track/5ddmxLYw9cZ6Chhm4LtwwV) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Cosmic Wind](https://open.spotify.com/album/1Li3XvJ8VzO0QqZnNkKt3k) | 4:13 | 2022-02-18 | 2023-10-21 |
 | [Western World](https://open.spotify.com/track/6SKQvtF2QMELjqpnAyrH6O) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Western World](https://open.spotify.com/album/5v9nVNjfCMUFjzWRiOboag) | 4:13 | 2021-10-22 | 2022-10-13 |
-| [Whenever](https://open.spotify.com/track/2bD6V29O7EiIA7CKca72as) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Whenever](https://open.spotify.com/album/06plvRyV1UnY0OdxJwk4IG) | 3:25 | 2023-04-28 |  |
+| [Whenever](https://open.spotify.com/track/1nOZdaEDnhuyZst0JPRqSs) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Welcome Home](https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P) | 3:25 | 2023-04-28 |  |
+| [Whenever](https://open.spotify.com/track/2bD6V29O7EiIA7CKca72as) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Whenever](https://open.spotify.com/album/06plvRyV1UnY0OdxJwk4IG) | 3:25 | 2023-04-28 | 2024-03-27 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

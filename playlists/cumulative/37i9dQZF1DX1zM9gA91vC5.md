@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-976 songs - 1 day 18 hr 14 min
+977 songs - 1 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Esthetic](https://open.spotify.com/track/424kxlBHkHVxwwMkDlPp1s) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Esthetic](https://open.spotify.com/album/7JYclSv63BYa69okll9GKk) | 2:27 | 2021-09-30 |  |
 | [Etc...](https://open.spotify.com/track/5h4x9rXrsUALN1eYzY611B) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Hymnus Faunus](https://open.spotify.com/album/3jKzoIOYPUKxduucDofbCh) | 2:42 | 2021-04-11 | 2021-09-01 |
 | [Etude in Em](https://open.spotify.com/track/2peMLXHmImghoblbAkNjIa) | [Bill Prokopow](https://open.spotify.com/artist/0Mj8WEFMgsMyXkMmKIRwJ2) | [Etude in Em](https://open.spotify.com/album/6fbweH68e1XLsyXVuNq4i3) | 5:01 | 2020-09-02 | 2021-05-06 |
-| [Eunoia](https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Eunoia](https://open.spotify.com/album/33zpGuDjZW6Yw8xColjJ35) | 2:21 | 2021-11-12 |  |
+| [Eunoia](https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Eunoia](https://open.spotify.com/album/33zpGuDjZW6Yw8xColjJ35) | 2:21 | 2021-11-12 | 2024-03-27 |
 | [Eurytmi](https://open.spotify.com/track/2nMjde4kw1yuDyNnu9GJTO) | [Ola Claësson](https://open.spotify.com/artist/3MFfHtQUhTuey7urPpdWqQ) | [Eurytmi](https://open.spotify.com/album/6uLzK7fzvPskfWDDCwLoEj) | 2:39 | 2021-03-14 | 2021-08-05 |
 | [Evening Star](https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Evening Star](https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65) | 2:08 | 2023-06-20 |  |
 | [Evergreen Tree](https://open.spotify.com/track/4OMvHo3qtNJ2rgo6P1LjB1) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Claudia](https://open.spotify.com/album/3jHGLuvTzPVEeXwjXe3HjW) | 3:00 | 2020-08-14\* | 2023-10-18 |
@@ -273,6 +273,7 @@
 | [Firmamentum Mysteria](https://open.spotify.com/track/42X3YAIxpCHm6YbNbvdMxO) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Firmamentum Mysteria](https://open.spotify.com/album/0wlyujvSVRp3g03vVoWPRt) | 2:42 | 2021-05-06 | 2022-07-20 |
 | [Fiume](https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Fiume](https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk) | 2:20 | 2023-03-14 |  |
 | [Flashing lights](https://open.spotify.com/track/3jbaWxRwhXCZmvpPWHIKe3) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Flashing lights](https://open.spotify.com/album/6fFieao3USpz413NdKe9Or) | 3:27 | 2021-09-02 | 2024-02-12 |
+| [Fleur De Vie](https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9) | [Jonas Bergsson](https://open.spotify.com/artist/46L8889dejsvPsDQIUMlvZ) | [Fleur De Vie](https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9) | 2:56 | 2024-03-19 |  |
 | [Fleurs Séchées](https://open.spotify.com/track/70oTgyGPmB9ZtU2lrjbZfj) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Fleurs Séchées](https://open.spotify.com/album/7LeBN7j9XjqfRoxtUKIvV2) | 2:06 | 2022-01-04 |  |
 | [Float Away](https://open.spotify.com/track/5uNxH6IeDRZnn9KiRtIflT) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Distant Lovers](https://open.spotify.com/album/3GhSTFSSS851A5sykAVh0T) | 2:43 | 2020-09-16 | 2022-06-08 |
 | [Flowers](https://open.spotify.com/track/1wawCywSOC0uHeauIiCibd) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Flowers](https://open.spotify.com/album/0vXwvweYixVXGGlhfqHqw0) | 2:17 | 2023-09-05 |  |
@@ -614,7 +615,7 @@
 | [Peaceful Rebellion](https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Peaceful Rebellion](https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI) | 2:19 | 2022-02-01 |  |
 | [Pedal Chair](https://open.spotify.com/track/7BcH01qQ67ZUStmNC4qhk8) | [Lenox Blake](https://open.spotify.com/artist/27AR7w3aKM7We9eLVS4JRk) | [Beach Think](https://open.spotify.com/album/1IzBoOSHSHN2pjxOB3GbEv) | 2:14 | 2021-11-25 | 2024-03-26 |
 | [Peninsula](https://open.spotify.com/track/4Mdh699pUIURrBHokfrmmE) | [Pio Roque](https://open.spotify.com/artist/4E4gkQpb8xu95BYH9j9hWW) | [Peninsula](https://open.spotify.com/album/5Z02PzorLGCAxWQF157nWa) | 2:08 | 2020-08-14\* | 2023-01-28 |
-| [Peregrine](https://open.spotify.com/track/6ru4oHaeosmzYwl3ZQ4FOy) | [Stella Acorsi](https://open.spotify.com/artist/5cOxvGawKcmi9tVZ1CgYDc) | [Peregrine](https://open.spotify.com/album/52YTCEVKNlvcSpjkg4eE1Z) | 2:21 | 2022-07-19 | 2024-03-14 |
+| [Peregrine](https://open.spotify.com/track/6ru4oHaeosmzYwl3ZQ4FOy) | [Stella Acorsi](https://open.spotify.com/artist/5cOxvGawKcmi9tVZ1CgYDc) | [Peregrine](https://open.spotify.com/album/52YTCEVKNlvcSpjkg4eE1Z) | 2:21 | 2022-07-19 |  |
 | [Perfectly Flawed](https://open.spotify.com/track/6AdGVOupLKxDJTByA1Fs1j) | [Aiden Riedel](https://open.spotify.com/artist/77j4VlHhrvqU37GkYjwmp1) | [Perfectly Flawed](https://open.spotify.com/album/0K5ub7KMLtzFk4zM2nFiAp) | 2:47 | 2021-03-27 |  |
 | [Perpetuity](https://open.spotify.com/track/1NAue0ATmc0axe2XsTf9e0) | [Franscesca Vida](https://open.spotify.com/artist/5MWLDk254CUmT8BNBAXcWr) | [Perpetuity](https://open.spotify.com/album/4231o2DZBJ6TYnStfY8bSS) | 2:23 | 2020-08-14\* | 2022-07-20 |
 | [Perseverance](https://open.spotify.com/track/7w2SNm2phmRjSwl8ftLR8z) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Perseverance](https://open.spotify.com/album/2cEfltCZou7ueF9UR6iNH5) | 2:14 | 2021-09-01 | 2021-10-27 |
@@ -931,7 +932,7 @@
 | [Vogeltrek](https://open.spotify.com/track/4Otyz87ttyTeKK45vlO28b) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Naar Huis](https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv) | 2:14 | 2022-07-19 | 2022-09-24 |
 | [Volga](https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Volga](https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF) | 2:49 | 2022-01-18 | 2023-04-06 |
 | [Voyage mélatonine](https://open.spotify.com/track/1qzF59VZ86OUV11slBwY7J) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Voyage mélatonine](https://open.spotify.com/album/29ZPBMyCGtYyqXEwiqHj6t) | 2:10 | 2020-08-20 | 2024-02-08 |
-| [Voyager](https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Voyager](https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX) | 2:12 | 2021-11-13 |  |
+| [Voyager](https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Voyager](https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX) | 2:12 | 2021-11-13 | 2024-03-27 |
 | [Waiting](https://open.spotify.com/track/6bt1Qb3CCzQkXkXu3FzEeX) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Waiting](https://open.spotify.com/album/5z2LHBhaATswQNRQWioTXJ) | 2:44 | 2020-10-15 | 2022-05-21 |
 | [Waiting for You](https://open.spotify.com/track/5ZWodvcCq8kTLjfy821dRO) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Waiting for You](https://open.spotify.com/album/2bfBDIwzb9EFHIMhINCDLC) | 2:19 | 2021-09-17 | 2022-07-20 |
 | [Walking home](https://open.spotify.com/track/73tOHXLo3XDQgdGo9leE5J) | [Kelli Carswell](https://open.spotify.com/artist/1EYt9z9E0wab4f22IvFAJ4) | [Walking home](https://open.spotify.com/album/005YMfiHDbwZi6p1hvPhLI) | 2:52 | 2020-08-14\* | 2022-06-08 |

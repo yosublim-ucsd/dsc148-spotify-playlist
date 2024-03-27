@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,892 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,899 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 24 | [It's Just You and Me](https://open.spotify.com/track/1wUoJueIuf0OL3jagKRt8D) | [ASMR Cherry Crush](https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z) | [Let's Fall Asleep Together](https://open.spotify.com/album/3IXSl8QI6bTxwUyk1wGBL2) | 3:38 |
 | 25 | [Santorini Sunbath](https://open.spotify.com/track/4tl4BYdRlBuY6LvDJcIECm) | [Summer ASMR](https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6) | [Santorini Sunbath ASMR](https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt) | 4:31 |
 | 26 | [Relax and Close Your Eyes](https://open.spotify.com/track/3CmSxwPQVQ9sYR4SLgJR94) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Step\-Sis Takes Care Of You](https://open.spotify.com/album/3tjYY9HmKxoKV0dmAaM6VZ) | 7:00 |
-| 27 | [Uplifting Mantra Pt One](https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l) | [Asmr Brain Tingle](https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m) | [Uplifting Mantras](https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g) | 4:53 |
+| 27 | [The Invisible Man \- Unintelligible Inaudible Whispered Reading, Pt\. 6](https://open.spotify.com/track/2WYFQOEtY5Y61kGj9g5KfW) | [WhisperAudios ASMR](https://open.spotify.com/artist/7fGDcsgOFZ04EzVFGONS1G) | [ASMR \- The Invisible Man \- Unintelligible/Inaudible Whispered Reading \(WITHOUT ambient sounds\)](https://open.spotify.com/album/22STdU6oFRzb7wDQAJqKZ3) | 5:59 |
 | 28 | [Unintelligble Sleep Whisper Breathing Scratching](https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif) | [Mr\. Jones ASMR](https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb) | [ASMR Whispers \(Binaural\)](https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6) | 2:50 |
 | 29 | [Sleep\-Inducing Haircut Pt.3](https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Sleep\-Inducing Haircut](https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO) | 4:13 |
-| 30 | [The Invisible Man \- Unintelligible Inaudible Whispered Reading, Pt\. 6](https://open.spotify.com/track/2WYFQOEtY5Y61kGj9g5KfW) | [WhisperAudios ASMR](https://open.spotify.com/artist/7fGDcsgOFZ04EzVFGONS1G) | [ASMR \- The Invisible Man \- Unintelligible/Inaudible Whispered Reading \(WITHOUT ambient sounds\)](https://open.spotify.com/album/22STdU6oFRzb7wDQAJqKZ3) | 5:59 |
+| 30 | [Uplifting Mantra Pt One](https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l) | [Asmr Brain Tingle](https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m) | [Uplifting Mantras](https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g) | 4:53 |
 | 31 | [Alphabet Revision, Pt\. 1](https://open.spotify.com/track/4Jg7i26bxbojqoo1QxCA8u) | [iPad ASMR](https://open.spotify.com/artist/3oZZNdRaWl8HYAnwcbPYbN) | [Russian Language Revision \- Cyrillic Alphabet](https://open.spotify.com/album/3sLOxB7tgQQBOc614YUoGT) | 3:29 |
 | 32 | [Removing Negative Energy](https://open.spotify.com/track/5ZkeEqISDLs7RG4bPkDobc) | [LunaRexx ASMR](https://open.spotify.com/artist/1gN9pIv8jnrIYJV3S88I6D) | [May I Touch You?](https://open.spotify.com/album/3zr7dqQ2k9EG0MCAubYqql) | 4:54 |
 | 33 | [Relaxing You HEAD to TOE Pt.5](https://open.spotify.com/track/6Ult8KyCkQMVqhGWqxjZBy) | [Alana ASMR](https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM) | [Relaxing You HEAD to TOE](https://open.spotify.com/album/7rR9BrOUJew20POht76Dzg) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 49 | [DEEP SLEEP in 45 Minutes Pt.3](https://open.spotify.com/track/0vDgu0Eyll8tdk1ai6J94q) | [Alana ASMR](https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM) | [DEEP SLEEP in 45 Minutes](https://open.spotify.com/album/3lTWKjbjrHsEQ27NqB7h3u) | 4:58 |
 | 50 | [8D Mic Scratching with Spoolie and Slow Whispering, Pt\. 4](https://open.spotify.com/track/57fRbdbk9bPW5DJV508GBL) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [ASMR 8D Mic Scratching w/Spoolie and Slow Whispering](https://open.spotify.com/album/7xwDBNS7i2d09hJUwOhrEP) | 3:26 |
 
-Snapshot ID: `MCxlZGVkYjhiMjcyMGY2ZDZjNzgwNjhmOGNkYzM4YjM0ZjkyMTgwODJi`
+Snapshot ID: `MCxlM2QzOTM3NDc0YWYzYWFjMTczNGEzOGMyYzM5YTEzMjg1MWU3NGNh`

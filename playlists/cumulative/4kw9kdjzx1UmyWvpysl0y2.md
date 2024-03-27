@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-687 songs - 1 day 15 hr 45 min
+688 songs - 1 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [ENEMY](https://open.spotify.com/track/57PGa6g4Ym4XeyNWWdE6Ig) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [dabl](https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9) | [ENEMY](https://open.spotify.com/album/7EL4y1SIpzIMabjzaGBPxV) | 3:16 | 2024-01-11 |  |
 | [Equinox](https://open.spotify.com/track/3i2kegGxj12kAXephAgZ8C) | [TOMB](https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw) | [Equinox](https://open.spotify.com/album/33WUMBvwFNU514XzG7vqbz) | 3:20 | 2023-10-18 | 2024-02-02 |
 | [Erase Me](https://open.spotify.com/track/7lbKB1ULWaABpHWWJuaLu8) | [Gravas](https://open.spotify.com/artist/2ucDELeg7gohUzo8kJ9Hj3), [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [FRANK ZUMMO](https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz), [Tea Timerz](https://open.spotify.com/artist/6FvBSQRYwIMdxwvMyMyQbf), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm) | [Erase Me](https://open.spotify.com/album/69KvZgBpQLnQJTmWT6C90D) | 5:15 | 2023-08-28 | 2023-12-14 |
+| [Erased](https://open.spotify.com/track/1E3g55PMTQsgU2fzQfEVt6) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Erased](https://open.spotify.com/album/4ajWveeGRk0MiwZqg03Nmt) | 2:46 | 2024-03-26 |  |
 | [Euphoria](https://open.spotify.com/track/4tOrfScwPApEDe0adbNzxh) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Euphoria](https://open.spotify.com/album/4SfmVWUmmRcNYUUYckepDQ) | 3:04 | 2023-04-24 | 2023-07-22 |
 | [Every Little Thing](https://open.spotify.com/track/6CShhNa33zOmCqJ0SkjsWc) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Every Little Thing](https://open.spotify.com/album/51pJrPjCgYxYzzcOk4jsWQ) | 3:14 | 2023-01-31 | 2023-04-19 |
 | [Faded](https://open.spotify.com/track/7oOgau5yTVoRIDAs5GiMCf) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Faded](https://open.spotify.com/album/1WAMrFtszAHHxnKavbLG5K) | 4:24 | 2022-03-30 | 2022-06-11 |
@@ -380,7 +381,7 @@
 | [Midnight](https://open.spotify.com/track/3lLGqbg4MFogvxKKgK3dQB) | [Mick Mazoo](https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve) | [Midnight](https://open.spotify.com/album/6tekFxWP50ojlYn6jHL2vW) | 2:32 | 2022-09-23 | 2022-11-29 |
 | [Million Reasons](https://open.spotify.com/track/76LqoAbnaxhc9gaGnXluFy) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Gunnva](https://open.spotify.com/artist/7MVtZkqiCMOWchZpXPEMXh) | [Million Reasons](https://open.spotify.com/album/1shWfHagehxkIqbREDm5fx) | 3:25 | 2021-12-03 | 2022-03-09 |
 | [Mindbreak](https://open.spotify.com/track/6EP8jgwI9FS3qEEfNC6idl) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo) | [Mindbreak](https://open.spotify.com/album/21Cj0g82RnutbkJdlrwTkD) | 3:33 | 2023-03-31 | 2023-06-24 |
-| [Mindbreak \- Freaks & Geeks Remix](https://open.spotify.com/track/7q8Rg7XlkzCVgGpA7XUgTZ) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Mindbreak \(Freaks & Geeks Remix\)](https://open.spotify.com/album/1xr3mw21gzDxHL0G94jT4O) | 3:36 | 2023-12-13 |  |
+| [Mindbreak \- Freaks & Geeks Remix](https://open.spotify.com/track/7q8Rg7XlkzCVgGpA7XUgTZ) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Mindbreak \(Freaks & Geeks Remix\)](https://open.spotify.com/album/1xr3mw21gzDxHL0G94jT4O) | 3:36 | 2023-12-13 | 2024-03-27 |
 | [Mipango](https://open.spotify.com/track/0db4aR1MFcOKxeb6EG2T8P) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mipango](https://open.spotify.com/album/33kMA9mbcyCOFDLq9ms5Bz) | 4:16 | 2023-02-08 | 2023-04-28 |
 | [Mirror](https://open.spotify.com/track/7Cn5dFvCckY1q6pB8u0WHt) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Mirror](https://open.spotify.com/album/53QPiqPVq7KSdDH7y4gybZ) | 4:09 | 2022-10-07 | 2022-12-09 |
 | [Mirror Of Erised](https://open.spotify.com/track/3o9Er7gZnrvh6wHRiv7xac) | [Heard Right](https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl), [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Mirror Of Erised](https://open.spotify.com/album/4Z59SWLNVf31yAhuhzQ7FH) | 3:46 | 2022-08-19 | 2022-11-01 |

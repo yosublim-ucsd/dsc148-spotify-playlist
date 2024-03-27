@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Manuel Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,648 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,701 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 12 | [Conexión](https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Conexión](https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD) | 2:26 |
 | 13 | [MAMA](https://open.spotify.com/track/3gTkuLN7TPrKaHwKzrHv50) | [Pandemia 702](https://open.spotify.com/artist/7mBia2BQu7KJR4tIOnJeQM) | [MAMA](https://open.spotify.com/album/58uuoNSAonXvnMXBEwLpsB) | 3:06 |
 | 14 | [Bien Tony Montana](https://open.spotify.com/track/5FK2Ee6xXBspGF8nllIRKM) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Bien Tony Montana](https://open.spotify.com/album/1sv4ITV71Vv0ph7CKYLqlu) | 2:46 |
-| 15 | [Vida No Te Acabes](https://open.spotify.com/track/6IiGUPWQlqGEYj5NmbEZDD) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Vida No Te Acabes](https://open.spotify.com/album/6WucACnQ81KPiu19PT0rPH) | 2:54 |
+| 15 | [Vida No Te Acabes](https://open.spotify.com/track/6IiGUPWQlqGEYj5NmbEZDD) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Vida No Te Acabes](https://open.spotify.com/album/6WucACnQ81KPiu19PT0rPH) | 2:50 |
 | 16 | [El 08](https://open.spotify.com/track/70zzFjzX32eqHbpkd6qknb) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [El 08](https://open.spotify.com/album/1C2oX8XsbuZSr5ovOURbtG) | 3:03 |
 | 17 | [DDC](https://open.spotify.com/track/4IaMG4UOgitE01E6pYN9ZE) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [DDC](https://open.spotify.com/album/73kfcjW3oBTvxHiY1X7p61) | 3:06 |
 | 18 | [Porqué No Le Dices](https://open.spotify.com/track/3sjYYiN6ZqlEDffsogmnSc) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Porqué No le Dices](https://open.spotify.com/album/7134eOCyvXpXG7xlDjPPqz) | 4:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 74 | [Cayó La Noche](https://open.spotify.com/track/0hzrI3RR06WIldw5TZFa2O) | [Alonso Ortiz](https://open.spotify.com/artist/7cxq5jTv6N3KjPehEhnlXG) | [Cayó La Noche](https://open.spotify.com/album/2RZLuIiQROoiw4IHCfyhXl) | 2:46 |
 | 75 | [Pa' No Sentir](https://open.spotify.com/track/7dF25WcmGa1W6hCsCf9BJx) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Pa' No Sentir](https://open.spotify.com/album/0rgzvqKl0UHlmc5Rx3r68D) | 3:22 |
 
-Snapshot ID: `MCw1ZDM5NDZlNzcxNjNiOTA1OTI4MjE4OTUwZDAzZDU2MjM4NWNiZjcz`
+Snapshot ID: `MCxjNGVlNGRhOWFhYzU4MjE2OTNhMDJlNGM1NGJhMjljNDlhYWYwMGQw`

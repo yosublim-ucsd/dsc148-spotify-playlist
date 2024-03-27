@@ -4,10 +4,11 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-221 songs - 10 hr 4 min
+225 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [24k](https://open.spotify.com/track/1t7gEDMO1GigErhWBDpOuv) | [FourFiveNyne](https://open.spotify.com/artist/2YhKD44kUXGZZ58RhrFWD6) | [24k](https://open.spotify.com/album/2tJNLmGBN978TVsOR8ZBPL) | 2:20 | 2024-03-26 |  |
 | [500 gr.](https://open.spotify.com/track/6SJmVvwqAnGCdpEyTE6HvE) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [500 gr.](https://open.spotify.com/album/1txGawwmq3xShlmzfPg2mx) | 3:37 | 2021-11-11 | 2022-05-20 |
 | [A Lot Of Noise For Nothing](https://open.spotify.com/track/3Vj6A1u4JYh5aVNYFJOFPZ) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn) | [A Lot Of Noise For Nothing](https://open.spotify.com/album/1lEegQJdCxDf3Cq3e49jsh) | 2:00 | 2021-11-11 | 2022-04-22 |
 | [Aftershock](https://open.spotify.com/track/6X2DG2wogUVDPyKWkK8jBC) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Quake](https://open.spotify.com/album/44V58chGzXo8ql3f0Ds9vX) | 2:42 | 2021-11-11 |  |
@@ -18,6 +19,7 @@
 | [Ares](https://open.spotify.com/track/70eKN516JGgd1dt5zdlRbb) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Ares](https://open.spotify.com/album/7FezwNt76ZTj0OebKoBEZ0) | 2:59 | 2021-11-11 | 2023-09-22 |
 | [Ares](https://open.spotify.com/track/7ArhNBTCGlnsMDFtuyiRJ4) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Ares](https://open.spotify.com/album/7ji4kDl6JOYLrXPY8QtegV) | 2:59 | 2023-09-04 |  |
 | [Arian](https://open.spotify.com/track/0qOKwBICWzPtScjJjuLLkv) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Arian](https://open.spotify.com/album/32w458f4xQdJZp3rjLsFnR) | 1:52 | 2021-11-11 | 2024-02-23 |
+| [Assembly](https://open.spotify.com/track/5mgflX71JVHpVomQoQGhnG) | [BamJam](https://open.spotify.com/artist/3CWbOX4o8QeOTB28g9nnf2) | [Assembly](https://open.spotify.com/album/76h4O2dQCZYyWEzSuzh2bv) | 2:41 | 2024-03-26 |  |
 | [Astro](https://open.spotify.com/track/0VsvnEFxG5lZFFIeplTGy2) | [Jaller Beats](https://open.spotify.com/artist/5j2hqWZ2KnbaqKP3uRQwHH) | [Astro](https://open.spotify.com/album/1XUbFBBvHil1CD0PjGQU7I) | 2:13 | 2021-11-11 | 2022-07-15 |
 | [Atonement](https://open.spotify.com/track/0WjgLeuHiksseRDpTkzLaN) | [informat](https://open.spotify.com/artist/3m1Pg8GiO4gJm97ZUNABLS) | [Atonement / Glimmer](https://open.spotify.com/album/1GskKvzQteddw6hlFRD8Jy) | 4:42 | 2021-11-11 |  |
 | [Audio Picasso](https://open.spotify.com/track/2MK4c1sVXnaRHhhfjCIAEP) | [mzet](https://open.spotify.com/artist/4bpq7LWyKylbYqwDgly14Y), [typico](https://open.spotify.com/artist/4e1Z2c8EJSfqh5a0hW7jyq) | [Lavanda](https://open.spotify.com/album/2eCYNfhTRAydtfh7j3WY45) | 2:49 | 2022-04-22 | 2023-04-24 |
@@ -151,6 +153,7 @@
 | [PAN](https://open.spotify.com/track/2njSLjUu82lnvgSlZftXuF) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [Poly](https://open.spotify.com/album/6DOrQ8NGjYVn9FmexHUf4U) | 2:51 | 2021-11-11 |  |
 | [Participation Trophy](https://open.spotify.com/track/4Nb76xnCM8UgKVAj9LqNZ2) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Stadium Scam](https://open.spotify.com/album/4kTys2lZTk8hpIDkkcRL6F) | 2:07 | 2022-04-08 | 2022-05-20 |
 | [Polar](https://open.spotify.com/track/7KJYDU7raK2L0vDotprkHv) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Polar](https://open.spotify.com/album/3TG55vTamoL1gqJzRThCe5) | 2:42 | 2021-11-11 |  |
+| [Pollution](https://open.spotify.com/track/5bEuOEohMirZGj6kVUKTFV) | [Casiiwool](https://open.spotify.com/artist/5KutRizSdKD7jYEhULGXKu) | [Pollution](https://open.spotify.com/album/59ClEdPWnq2y8FXYCRiUTk) | 2:41 | 2024-03-26 |  |
 | [Probiotic.](https://open.spotify.com/track/3ZUuqfhDap5imYc1Jk94sL) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Probiotic.](https://open.spotify.com/album/6OzyRp3FhRgYwjhsCFn7Rv) | 2:28 | 2022-05-13 |  |
 | [PSYCHOSIS](https://open.spotify.com/track/04Levb9UGVWqOrnkzZFTv1) | [Azide](https://open.spotify.com/artist/0jZCd5FFBIaaiXlIJX6I9h), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [mark veins](https://open.spotify.com/artist/5Rt7OtfJpjne2jW8qy9Kcz) | [PSYCHOSIS](https://open.spotify.com/album/2UQSwIYGVqqL0H4XtmhVAy) | 3:10 | 2022-04-08 | 2022-05-20 |
 | [Quantum](https://open.spotify.com/track/204YRFBt8bmTHvSepEvjvO) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Quantum](https://open.spotify.com/album/2N7Y2ecrZBLIBZgSJ8zmuh) | 2:24 | 2021-11-11 | 2022-05-14 |
@@ -211,6 +214,7 @@
 | [Twenty Ten](https://open.spotify.com/track/6GfH6Y1L94563PL4sQxmzk) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Stadium Scam](https://open.spotify.com/album/4kTys2lZTk8hpIDkkcRL6F) | 2:31 | 2022-04-08 |  |
 | [Twisted](https://open.spotify.com/track/6sDk75o8Fm7a4YCVbyfWHF) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [Twisted](https://open.spotify.com/album/5l9PPNh220r3rE0PJIDAhG) | 5:20 | 2021-11-11 | 2023-09-21 |
 | [Twisted](https://open.spotify.com/track/71SIbEj7UzajdjJ2NFAxD0) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [Twisted](https://open.spotify.com/album/3EM6GP0ILKdquo32nFj00V) | 5:20 | 2023-09-04 |  |
+| [Unimerse](https://open.spotify.com/track/4zG5rjF0PLcuVu6u43OgQD) | [Push N' Glide](https://open.spotify.com/artist/6PSNxYsazdREPJeS9XnUjA) | [Unimerse](https://open.spotify.com/album/7lfcSg7ikGV3p1Zbd91e61) | 3:12 | 2024-03-26 |  |
 | [Unleashed \- Instrumental](https://open.spotify.com/track/6OoCs6YivnKTUwZ2iLjOHi) | [HiveMind](https://open.spotify.com/artist/4J3kswR8gVfSE4sOIwNeLA) | [Unleashed \(Instrumental\)](https://open.spotify.com/album/6wVqII9WsXzgC3GFgnjTu5) | 3:22 | 2021-11-11 |  |
 | [Vaporize](https://open.spotify.com/track/6N7Hgy6ZpFxdK8rxXZh9TB) | [Squiid](https://open.spotify.com/artist/7g0KymGegEPhis87m1lWWm) | [Pandoras Box / Vaporize](https://open.spotify.com/album/1ocggLB9OdafNBm5OLXDai) | 3:24 | 2021-11-11 | 2022-04-22 |
 | [Voodoo](https://open.spotify.com/track/3CTSuLpEnzvBzlnbydGQQg) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Voodoo](https://open.spotify.com/album/6J9wgS1oSWste6j8l7OwMC) | 3:35 | 2022-05-27 | 2022-06-03 |

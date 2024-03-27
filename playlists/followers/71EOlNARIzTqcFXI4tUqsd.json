@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 27214,
+  "2024-03-27": 27215,
   "date_first_scraped": "2023-12-14",
   "description": "A playlist for yoga, mindfulness and meditation with reflective moments. ",
   "name": "Yoga & Meditation with Above & Beyond and Reflections",
@@ -495,7 +495,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 176500,
       "name": "Streets",
       "url": "https://open.spotify.com/track/7eOBX0ec5FSBfDy7YmYQi0"
@@ -517,6 +517,28 @@
       "duration_ms": 144656,
       "name": "Surge",
       "url": "https://open.spotify.com/track/19ez4TX6bQxjAZsIAywNS1"
+    },
+    {
+      "album": {
+        "name": "the healing song",
+        "url": "https://open.spotify.com/album/3KJ2cn4fz1It7rTPmJGX97"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260553,
+      "name": "the healing song",
+      "url": "https://open.spotify.com/track/3GcbgbdIHYNaxJc2EBt2B2"
     },
     {
       "album": {

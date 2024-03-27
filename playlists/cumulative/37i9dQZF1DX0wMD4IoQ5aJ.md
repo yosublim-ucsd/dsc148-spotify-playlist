@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-323 songs - 16 hr 45 min
+327 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Andlegur](https://open.spotify.com/track/3RppF12Ss8vEnqA5y5gjRM) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Andlegur](https://open.spotify.com/album/02NL12FNnjonIdRMiVtb1u) | 3:33 | 2022-04-15 | 2022-07-08 |
 | [Anna \(Edit\)](https://open.spotify.com/track/14gU9MqXONePJcAftTXMtu) | [Björn Döner](https://open.spotify.com/artist/3HXuu13t2xWz0PSVjXjaOq) | [Anna \(Edit\)](https://open.spotify.com/album/216YZ8176Bp8HlXTv8xBau) | 2:45 | 2022-10-14 |  |
 | [Apelsin](https://open.spotify.com/track/2JU9HxO67unq1IxdfLWywI) | [Son\-us](https://open.spotify.com/artist/7IVjn6HqeD4DGearUhx5YY) | [Apelsin](https://open.spotify.com/album/4yfmMDdTRzvgFkzseQ6w4T) | 2:54 | 2022-07-08 |  |
+| [apples & cherries](https://open.spotify.com/track/6lGTMaRwSWwdfm60Ja1w2j) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [apples & cherries](https://open.spotify.com/album/1WQTGwGpUXf7O2n1ol0Hmo) | 2:08 | 2024-03-26 |  |
 | [Apéritif](https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Apéritif](https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN) | 2:44 | 2022-04-15 |  |
 | [Art Nomad](https://open.spotify.com/track/5zXCk4UBemtz8m8edhQ6wN) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Art Nomad](https://open.spotify.com/album/3k5ChCpkVEfV93uIcfhQ1e) | 3:09 | 2022-05-20 | 2022-08-19 |
 | [Atamasco](https://open.spotify.com/track/7x0p3Zv2c8sPbWKVMowndy) | [SCÆNDALOUS](https://open.spotify.com/artist/1Vg3IL8IPc6KmKBrfxfFUq) | [Atamasco](https://open.spotify.com/album/1Ii3LKFwRry1gGHgtwAmUd) | 2:46 | 2022-04-15 | 2022-08-19 |
@@ -174,6 +175,7 @@
 | [Leaving Lunar](https://open.spotify.com/track/79KsCHxDvK6ZSd17fJoqMU) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Goodbye Earth](https://open.spotify.com/album/1cJHB1ed0mwUMTbthrNsih) | 3:51 | 2023-03-10 |  |
 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 | 2022-04-15 | 2022-09-02 |
 | [Let Me Levitate](https://open.spotify.com/track/7CzNk9SBj1IFssmyFJxNpD) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Let Me Levitate](https://open.spotify.com/album/0nWhjwu0bGFv0FY9QRg26b) | 3:51 | 2022-10-28 |  |
+| [Lost At Sea](https://open.spotify.com/track/6dT7TuxFkl8BJEyxgca8Lq) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Lost At Sea](https://open.spotify.com/album/34CAvsbqWED0zOX9ZBtq6M) | 3:41 | 2024-03-26 |  |
 | [Lost Without You](https://open.spotify.com/track/31BXZpthSAv7PE0VnIUUUu) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Lost Without You](https://open.spotify.com/album/2cYEZzSklys23IkrpM1U3D) | 2:34 | 2022-04-15 | 2022-10-08 |
 | [Love Again](https://open.spotify.com/track/39T1Cs1NBeIDgWzMkmd6rz) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [Love Again](https://open.spotify.com/album/2fj2hqBzp8IhLztr1pYRF7) | 2:08 | 2023-11-17 |  |
 | [Lush](https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Lush](https://open.spotify.com/album/0QwKoNYrNK9g0cTMkXvl46) | 3:06 | 2022-04-15 | 2022-10-08 |
@@ -190,6 +192,7 @@
 | [mirage](https://open.spotify.com/track/56Am5PWznL2ea3NGzyUvLy) | [sir bennett](https://open.spotify.com/artist/2BmSS7TcHQpZ4yYUg2ooXL) | [mirage](https://open.spotify.com/album/5iglYs8AJ0MVpnfCQTVfPd) | 2:44 | 2022-04-15 |  |
 | [Mirage Island](https://open.spotify.com/track/4v2mZG5syVKMcERPDAMF7u) | [Purple Waves](https://open.spotify.com/artist/0KJ2P4KrAgSoL8dg3Bpoc1) | [Mirage Island](https://open.spotify.com/album/3vKiz6tdoA7xjocG8QaHL6) | 2:39 | 2023-09-15 |  |
 | [Miss U](https://open.spotify.com/track/4bLjS9vd86lvIddRDQZnSw) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Miss U](https://open.spotify.com/album/4dDBVWAKOmOd5CY52Nw7Ad) | 3:07 | 2022-10-07 |  |
+| [Molly’s Bar](https://open.spotify.com/track/7fBLX713TMkNasSsBtFgZq) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Molly’s Bar](https://open.spotify.com/album/75XqU7M9vBMWlqX5fRf3WF) | 2:07 | 2024-03-26 |  |
 | [Moon](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb) | [Safe Tock](https://open.spotify.com/artist/2Wz1Gs5fSAP2v31hzx113t) | [Moon](https://open.spotify.com/album/3M46ScNsRcUadJs8j5qajr) | 2:56 | 2022-04-15 | 2022-09-23 |
 | [Mope Amok](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Mope Amok](https://open.spotify.com/album/6yHghkwnaz76HRsPzPY9uz) | 3:17 | 2022-04-15 | 2023-01-07 |
 | [Morning Tram](https://open.spotify.com/track/1WcZDHH4d9vv9X1xYzWID1) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Morning Tram](https://open.spotify.com/album/2W1mf9JWUqNKc1FjBJiWCd) | 3:15 | 2022-04-15 | 2023-01-20 |
@@ -211,6 +214,7 @@
 | [on my mind](https://open.spotify.com/track/79A8xKMQDj3mPY0J7CNpLy) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [on my mind](https://open.spotify.com/album/3V3Wbbd4KwxV9jBJ9EB7gs) | 2:57 | 2022-09-02 | 2023-03-10 |
 | [On My Way](https://open.spotify.com/track/28H2eFbLiKPfJ44ZvGWPax) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [On My Way](https://open.spotify.com/album/62gm87KgQEdnTeZNJ129os) | 1:56 | 2022-04-15 | 2022-09-23 |
 | [On the Radio](https://open.spotify.com/track/0oJYlpXGOSAqqNwTceobvI) | [Ørn](https://open.spotify.com/artist/2g8oDoqZwwzpF6Km7f0kp2) | [On the Radio](https://open.spotify.com/album/1atSc91dCuV5QAzLczaVKo) | 2:24 | 2023-10-13 |  |
+| [on the side](https://open.spotify.com/track/3Icx7rF3DbaSypl0mkFUo8) | [Jaake Alsonn](https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f) | [on the side](https://open.spotify.com/album/1bWcWIAL420MOhrVQ9FkZA) | 3:40 | 2024-03-26 |  |
 | [Open Fields](https://open.spotify.com/track/6PsPRjRVQpuxltouIiGJfu) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [Open Fields](https://open.spotify.com/album/2fgoswYqbGfQDGQOoS3oWO) | 4:21 | 2022-10-07 | 2023-01-07 |
 | [Open Mind](https://open.spotify.com/track/3uWz3YOFSLri0qCmiWCmzY) | [Sonopad](https://open.spotify.com/artist/6a3JGgQNJ6ugMYY9CgzltE) | [Open Mind](https://open.spotify.com/album/1Mo4q3DGFgrawdBCa179Rf) | 3:30 | 2023-02-17 |  |
 | [Opposite](https://open.spotify.com/track/6VLstEbmUW5oCxgahFe0Wf) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moment EP](https://open.spotify.com/album/0lIHGVhcEfhqRTMFCCYbmt) | 4:34 | 2022-04-15 | 2023-02-10 |

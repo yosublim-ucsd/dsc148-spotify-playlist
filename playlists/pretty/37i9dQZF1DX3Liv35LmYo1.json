@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 106586,
+  "num_followers": 106589,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjIyYmFmNDM3MzU0YTQ1NmMxOWRkODlkZDY2YjVhMWI4Y2NhNjA4",
+  "snapshot_id": "MCwxYTdlOGUzNWM5ZTAyNjMzODNhMmViMzAxYzIwMWNlMzA5YmQ4N2Y0",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "From the Ashes EP",
-        "url": "https://open.spotify.com/album/5Lj8lC81J8z8CrFGao08aE"
-      },
-      "artists": [
-        {
-          "name": "Oliver Henry",
-          "url": "https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD"
-        }
-      ],
-      "duration_ms": 138337,
-      "name": "Moving Still (Reprise)",
-      "url": "https://open.spotify.com/track/1Rp73ILS3mB7rxEoDfDl8P"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Please Keep Shimmering",
         "url": "https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 263842,
       "name": "Keep Shimmering",
       "url": "https://open.spotify.com/track/7d5W34LzqiRbH8LCOZw7zz"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "From the Ashes EP",
+        "url": "https://open.spotify.com/album/5Lj8lC81J8z8CrFGao08aE"
+      },
+      "artists": [
+        {
+          "name": "Oliver Henry",
+          "url": "https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD"
+        }
+      ],
+      "duration_ms": 138337,
+      "name": "Moving Still (Reprise)",
+      "url": "https://open.spotify.com/track/1Rp73ILS3mB7rxEoDfDl8P"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Inperspect",
+        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 498001,
+      "name": "Inperspect",
+      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Interior",
         "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 213441,
       "name": "Clavicle",
       "url": "https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Inperspect",
-        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 498001,
-      "name": "Inperspect",
-      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Inperspect",
+        "url": "https://open.spotify.com/album/0Yon94iHYUaXtGcJ3u6QyW"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 329784,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/45cGbDnSsjro3Ssom6Wmbf"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Poly 61",
         "url": "https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Whatever Happens, Happens",
-        "url": "https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 227304,
-      "name": "Whatever Happens, Happens",
-      "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/2QV91V7AsQLDSKbcjSFYpG"
       },
@@ -543,34 +543,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Inperspect",
-        "url": "https://open.spotify.com/album/0Yon94iHYUaXtGcJ3u6QyW"
+        "name": "Whatever Happens, Happens",
+        "url": "https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8"
       },
       "artists": [
         {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
         }
       ],
-      "duration_ms": 329784,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/45cGbDnSsjro3Ssom6Wmbf"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck"
-      },
-      "artists": [
-        {
-          "name": "Nice Girl",
-          "url": "https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB"
-        }
-      ],
-      "duration_ms": 270271,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
+      "duration_ms": 227304,
+      "name": "Whatever Happens, Happens",
+      "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -587,6 +571,22 @@
       "duration_ms": 284477,
       "name": "SFC - Hommage Mix",
       "url": "https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck"
+      },
+      "artists": [
+        {
+          "name": "Nice Girl",
+          "url": "https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB"
+        }
+      ],
+      "duration_ms": 270271,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 317183,
+      "name": "Ultra Truth",
+      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Halcyon (30 Something) [Remixes]",
         "url": "https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 292987,
       "name": "Halcyon & On - Logic1000 Mix",
       "url": "https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Ultra Truth",
-        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 317183,
-      "name": "Ultra Truth",
-      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "View from the Aeroplane Window",
-        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
+        "name": "Absent",
+        "url": "https://open.spotify.com/album/5dR04HbCNgPfhPCBuL2gnn"
       },
       "artists": [
         {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+          "name": "Liam Thomas",
+          "url": "https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN"
         }
       ],
-      "duration_ms": 233346,
-      "name": "View from the Aeroplane Window",
-      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
+      "duration_ms": 189473,
+      "name": "Absent",
+      "url": "https://open.spotify.com/track/5gdNah69fvQqI9SuESeqT5"
     }
   ],
   "unique_name": "Night Shift",

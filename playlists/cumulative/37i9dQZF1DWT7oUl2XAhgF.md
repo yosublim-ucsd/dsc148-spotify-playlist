@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Britti
 
-392 songs - 23 hr 42 min
+393 songs - 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Cruisin' to the Parque feat\. Y La Bamba](https://open.spotify.com/track/5ogtCRgBDDaPjInCBcFHTg) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Cruisin' To The Parque feat\. Y La Bamba](https://open.spotify.com/album/1m38XyH8I9KSgnkhv4Axd1) | 3:35 | 2021-12-03 | 2022-07-29 |
 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 | 2022-04-05 |  |
 | [Damaged Heart](https://open.spotify.com/track/3Bj3ZuVPpPDwUxkwpL78L4) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Another Shot Fired](https://open.spotify.com/album/4RRggV5CrnXd2fFtgILVJC) | 3:10 | 2021-07-09 | 2022-06-26 |
-| [Dance With Me](https://open.spotify.com/track/3D5Lrb3hzIs5ueUvuGpWWG) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Dance With Me](https://open.spotify.com/album/5am0gtPGTLFAADXodhymWp) | 3:48 | 2023-11-17 |  |
+| [Dance With Me](https://open.spotify.com/track/1lGYIrfy4ulioJGYAjRD0h) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Zero Grace](https://open.spotify.com/album/4loYR62mrFQeCzK5pHoV5l) | 3:48 | 2023-11-17 |  |
+| [Dance With Me](https://open.spotify.com/track/3D5Lrb3hzIs5ueUvuGpWWG) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Dance With Me](https://open.spotify.com/album/5am0gtPGTLFAADXodhymWp) | 3:48 | 2023-11-17 | 2024-03-27 |
 | [Dancing Away In Tears \- Home Sessions](https://open.spotify.com/track/3idrlWkgtwzi5kcLN16s18) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Dancing Away In Tears b/w Back To Life \(However Do You Want Me\) \[Home Sessions\]](https://open.spotify.com/album/6z1Gm9450assU4gra5Tb9r) | 3:43 | 2023-09-08 |  |
 | [Dancing Dimensions](https://open.spotify.com/track/4NIS3J8jBhjKzk1joQWTAe) | [Ural Thomas and the Pain](https://open.spotify.com/artist/3CVDnjIPKEN8xYJ2kIpq4t) | [Dancing Dimensions](https://open.spotify.com/album/6u2hyLFGZJ8T7n2k81BSCC) | 3:36 | 2022-03-04 | 2023-09-30 |
 | [Dare You Be Mine](https://open.spotify.com/track/3VP7lVUgeTTz51Jqha8467) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Dare You Be Mine](https://open.spotify.com/album/0fqhDU5uAW2majEJfsdzyO) | 3:27 | 2022-12-16 | 2023-02-03 |

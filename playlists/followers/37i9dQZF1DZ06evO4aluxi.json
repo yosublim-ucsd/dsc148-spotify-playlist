@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 16846,
+  "2024-03-27": 16855,
   "date_first_scraped": "2023-04-03",
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
   "name": "This Is Amy Grant",
@@ -1183,10 +1183,28 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 247846,
       "name": "Trees We'll Never See",
       "url": "https://open.spotify.com/track/4eRp7LuamE8Jn8RQgBcGF4"
+    },
+    {
+      "album": {
+        "name": "Songs From The Loft",
+        "url": "https://open.spotify.com/album/3KS2ekoGoEmLlDfPVDBdhv"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222021,
+      "name": "We Believe In God",
+      "url": "https://open.spotify.com/track/4u09rUwk4uT9oHvtWNLXah"
     },
     {
       "album": {

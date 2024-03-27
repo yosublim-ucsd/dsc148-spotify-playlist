@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 33976,
+  "2024-03-27": 33996,
   "date_first_scraped": "2024-01-30",
   "description": "Live by your own rules. Listen to the official playlist inspired by Bel-Air, streaming now exclusively on  <a href=\"https://www.peacocktv.com/stream-tv/bel-air\">Peacock</a>.",
   "name": "Bel-Air Official Playlist",
@@ -563,7 +563,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 256437,
       "name": "Life is Good (feat. Scribz Riley)",
       "url": "https://open.spotify.com/track/1nY6jXOGR1ZQyUXDyRHWDc"
@@ -589,6 +589,28 @@
       "duration_ms": 256437,
       "name": "Life Is Good (feat. Scribz Riley)",
       "url": "https://open.spotify.com/track/4bxr2sOVZSLjIN7tQx53ir"
+    },
+    {
+      "album": {
+        "name": "HEAVY",
+        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Scribz Riley",
+          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256437,
+      "name": "LIFE IS GOOD (feat. Scribz Riley)",
+      "url": "https://open.spotify.com/track/6eIsZBNtNcHROqg80j2Ql5"
     },
     {
       "album": {
@@ -834,6 +856,24 @@
     },
     {
       "album": {
+        "name": "HEAVY",
+        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130981,
+      "name": "SATISFACTION",
+      "url": "https://open.spotify.com/track/0HMMmXVEAoQyS3BbjKi6tF"
+    },
+    {
+      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/2BYmwYfn4GAalGxMmhp0nM"
       },
@@ -845,7 +885,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 130981,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/3Dk7R9wRA9Y9uTk8IVnuDi"

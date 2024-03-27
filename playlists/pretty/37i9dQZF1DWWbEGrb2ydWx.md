@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,031 likes - 59 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,045 likes - 59 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 58 | [Morning Factory](https://open.spotify.com/track/5Ss4qt2UmN2MIugKdbCR6K) | [Chez Damier](https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C), [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Word, Sound & Power](https://open.spotify.com/album/3MqP5lYO3a7FYfPmhLIFkk) | 10:41 |
 | 59 | [Orage de Chaleur](https://open.spotify.com/track/44kOhdgdHbSDUz7zvcWkcj) | [Mike Dehnert](https://open.spotify.com/artist/6QLOlk9sB4Wca7i7dwVNC4) | [Switch Back to City EP](https://open.spotify.com/album/1wKXc6XsgO2NlaJY5MkZPt) | 5:30 |
 
-Snapshot ID: `MCxmNjc4Y2U5M2I0N2I0YzYwYjU4MjMxM2FjZjVjYzgxOWFiMDcxZTFi`
+Snapshot ID: `MCwwZTQyY2JjODg4ZTBhZTQyYWMwZmU1MmYyNzlhZmE0OWM1NzA3YWM4`

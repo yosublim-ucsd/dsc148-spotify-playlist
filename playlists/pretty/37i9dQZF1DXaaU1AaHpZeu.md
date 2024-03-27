@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Caloncho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,819 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,855 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 48 | [Ojalá el amor nos salve](https://open.spotify.com/track/5pbgiCNW1HN9UsJWotI97s) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Ojalá el amor nos salve](https://open.spotify.com/album/2gBLpbo6f0a9xHDsU14IG2) | 4:09 |
 | 49 | [Una De Vaqueros](https://open.spotify.com/track/20yAkyj81iGMv2T8ho0eCy) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Una De Vaqueros](https://open.spotify.com/album/4rQIECysbPtvjJ5diKhL57) | 3:28 |
 
-Snapshot ID: `MCwzMTBmMGUwY2M4YTYwN2EyMDdjMGY2NGJkYTM2OGFlOTExOTcwNWIy`
+Snapshot ID: `MCw3OWMxYzcwYWM2NzI5OTcyNTM4MjFlZTRiNDcwOGMyOTEwMjMzOWNm`

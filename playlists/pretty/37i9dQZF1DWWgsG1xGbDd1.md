@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,529 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,596 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Love Jah](https://open.spotify.com/track/2kNtkx2Bh9qRKELpJMdIks) | [Im and Sound Dimension](https://open.spotify.com/artist/1nfvWfqnzY3Mkn6CFwfe96) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 2:36 |
 | 60 | [Drum Song](https://open.spotify.com/track/7m7XbZbG4otW7AtUOtn7iU) | [Devon "Soul" Russell](https://open.spotify.com/artist/6mN77Xtmaxsk2zvOrDRHTE) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 3:53 |
 
-Snapshot ID: `MCw4ZjY4YTI4NTlmMmU3NzY0NGJjMDhiMDAzNjkyZTdhOGQwZGUyNmFi`
+Snapshot ID: `MCw1MmRiMzNmNGIzNzhlMjM4NTU2ZGU3N2UzNzk0NzEzNzhkZDJhODE3`

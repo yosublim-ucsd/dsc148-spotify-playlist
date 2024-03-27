@@ -4,7 +4,7 @@
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-345 songs - 22 hr 18 min
+346 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Azul \(Ao Vivo\)](https://open.spotify.com/track/76HOOcFt3lKVdScmoScfz1) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan "Ao Vivo"](https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7) | 4:19 | 2023-11-17 |  |
 | [Baby Me Atende](https://open.spotify.com/track/5R9KPXQVeyqsHZoPLMgfNy) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Baby Me Atende](https://open.spotify.com/album/1uDk1yrR8cucbTmpXR1G6V) | 3:45 | 2023-09-29 |  |
 | [Bad](https://open.spotify.com/track/0rl6Ts4znVI9YaGZH4bdQt) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 2:09 | 2023-08-09 |  |
-| [Baila](https://open.spotify.com/track/7FhSxqoNQLrXfDmsOtrhF6) | [Dodô Pressão](https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz) | [Baila](https://open.spotify.com/album/0xviMUzPXYsdZSLso2bfyu) | 2:52 | 2023-10-27 |  |
+| [Baila](https://open.spotify.com/track/1yvqxBVTSNGw9USdjlOQyP) | [Dodô Pressão](https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz) | [Baila](https://open.spotify.com/album/7bDykQBBWtUG9xtBQmi4Yk) | 2:52 | 2023-10-27 |  |
+| [Baila](https://open.spotify.com/track/7FhSxqoNQLrXfDmsOtrhF6) | [Dodô Pressão](https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz) | [Baila](https://open.spotify.com/album/0xviMUzPXYsdZSLso2bfyu) | 2:52 | 2023-10-27 | 2024-03-27 |
 | [Baila](https://open.spotify.com/track/5EaXEqMFbgMUioC7fSRI9B) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Baila](https://open.spotify.com/album/1SB6vpotprlr6hJ7lXdau4) | 2:57 | 2023-10-27 |  |
 | [Baile de Favela](https://open.spotify.com/track/5nwkZfrwFGehnwYA1Z664w) | [Mc João](https://open.spotify.com/artist/0bNbdA9OJv2luvEQDYYyZP), [DJ R7](https://open.spotify.com/artist/6WuTZb8WWZ5xitAQrgAJY2) | [Baile de Favela](https://open.spotify.com/album/6xkTcGAtEc2VfA7LrhezEs) | 2:50 | 2023-12-01 |  |
 | [Baile do Bruxo](https://open.spotify.com/track/00ZKeP47bZtswtANkvxz2j) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk), [SMU](https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c), [Triz](https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn) | [Baile do Bruxo](https://open.spotify.com/album/4gTpoHQozYg3jI7KTbFsfx) | 3:41 | 2023-12-08 |  |

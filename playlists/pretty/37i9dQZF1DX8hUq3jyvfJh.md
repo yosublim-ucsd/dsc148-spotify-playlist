@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > co\-curadoria com IZA em celebração ao Mês Internacional da Mulher!
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,193 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,180 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 24 | [OLHAR HD](https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Olhar HD](https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv) | 2:47 |
 | 25 | [Abismo](https://open.spotify.com/track/56JVZMurnXPoy1HbB4dcNV) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Abismo](https://open.spotify.com/album/4zYjj0oRteBn9X6QdCmU57) | 3:27 |
 | 26 | [Baile Charme \- Ao Vivo](https://open.spotify.com/track/55nT7v7CtFduUP7A1CEZvA) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:30 |
-| 27 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
-| 28 | [Melaço](https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7) | [Lucy Alves](https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Melaço](https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT) | 2:43 |
+| 27 | [Melaço](https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7) | [Lucy Alves](https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Melaço](https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT) | 2:43 |
+| 28 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
 | 29 | [Pecadinho](https://open.spotify.com/track/12NSz6DgkBEvZIZAb4wQuU) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Duda Brack](https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab) | [Pecadinho](https://open.spotify.com/album/5eEjkPXz861G8vEbKUvs83) | 2:06 |
 | 30 | [Sou + As Negras](https://open.spotify.com/track/4RqoUzXPTDgQSgSiPxmjHJ) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [Sou + As Negras](https://open.spotify.com/album/6Z6uUrQRgrTv9Uw8k1rgkg) | 2:41 |
 | 31 | [PREPARADA](https://open.spotify.com/track/1KRRVMgrqrwlAp4loIRPfE) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [PREPARADA](https://open.spotify.com/album/5XveVns4NMlHm6rQUlBqQP) | 2:23 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 39 | [Bandida](https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Bandida](https://open.spotify.com/album/1J4tkcMXQloJN4oWGH96JY) | 3:27 |
 | 40 | [A BELEZA É VOCÊ MENINA](https://open.spotify.com/track/7rNhzJJQaO1CQwDYsejFGP) | [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA) | [A BELEZA É VOCÊ MENINA](https://open.spotify.com/album/0VIVSFkDikh8A0WBM0cN13) | 3:27 |
 | 41 | [Sonhos & Ilusões \- acoustic](https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Sonhos & Ilusões \(acoustic\)](https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f) | 3:51 |
-| 42 | [A Loba](https://open.spotify.com/track/1GrtIxLbh56ArbN9AkYFRO) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [A BRABA É ELA 2](https://open.spotify.com/album/23cbfoApa2IEWN8rscmIBi) | 1:51 |
-| 43 | [Ref Delas](https://open.spotify.com/track/2saEZ80HauiGjLE8wt9syS) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [It Girl](https://open.spotify.com/album/1Ynhp5YkHTsVYmtHdvUwe5) | 2:19 |
+| 42 | [Ref Delas](https://open.spotify.com/track/2saEZ80HauiGjLE8wt9syS) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [It Girl](https://open.spotify.com/album/1Ynhp5YkHTsVYmtHdvUwe5) | 2:19 |
+| 43 | [A Loba](https://open.spotify.com/track/1GrtIxLbh56ArbN9AkYFRO) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [A BRABA É ELA 2](https://open.spotify.com/album/23cbfoApa2IEWN8rscmIBi) | 1:51 |
 | 44 | [Telefone](https://open.spotify.com/track/06pNle1p87Hvz8YMv7IJkV) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Riff](https://open.spotify.com/artist/7HWxy4b4td3XP7WjueymyN) | [Mete Mac Vol 1](https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er) | 3:08 |
 | 45 | [Vou Atrás](https://open.spotify.com/track/5Q5VE9VJtiroXsLxTQWOGM) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [Som Da Minha Casa](https://open.spotify.com/album/7baL0IZSoNpKjn5aNykKhc) | 2:26 |
 | 46 | [Passione](https://open.spotify.com/track/75rWUt2aqjGj2qKLD7hFcY) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Passione](https://open.spotify.com/album/3cGGvKieKWwGfqB3LJJAP0) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [A BRABA É ELA](https://open.spotify.com/track/0jCVZPKATio2VCF37Jf6O6) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [A BRABA É ELA](https://open.spotify.com/album/1sLRI3xGm5m0Hf1gj5dWQc) | 2:22 |
 | 50 | [Me Leva Pra Casa](https://open.spotify.com/track/4leTvVRDhTdHMZAtSnwntn) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Me Leva Pra Casa](https://open.spotify.com/album/4Vf8NtFMlx2Ftw7iyymGZs) | 2:44 |
 
-Snapshot ID: `MCxkM2Y2YTgzNTI0ZTFiNWNkOGU2Yjg1N2FlMjYwNGFkYTQyMmE4Yzc0`
+Snapshot ID: `MCwwMWFkZDEwZTZjNTYxNjlkN2E3NjcyNzIyODRkZDIyYTBhNzcyMjIx`

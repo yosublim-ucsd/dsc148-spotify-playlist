@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 172468,
+  "num_followers": 172564,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWY4ZmNiM2M2NzlhOGI2NDAxNDRjM2Q2ZTU0YWExYzA1YWZhNjc0",
+  "snapshot_id": "MCxhNGVlMzZmNWYzNDMwMDdlNWY1OTc4OGE0NmI5OWNjZGVmMzYyZWI4",
   "tracks": [
     {
       "added_at": "2023-10-05 13:18:26",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Bluesmen Don't Use Umbrellas",
-        "url": "https://open.spotify.com/album/4f8EqC1IzbcSosXgbkSbTm"
-      },
-      "artists": [
-        {
-          "name": "Michigan Curve",
-          "url": "https://open.spotify.com/artist/6gMUWmZUceCtcaztahkqba"
-        }
-      ],
-      "duration_ms": 419600,
-      "name": "J.C's. Blues",
-      "url": "https://open.spotify.com/track/7j1KFZmBIKtv8lsmTptiM1"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 295466,
       "name": "Spoonful",
       "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Bluesmen Don't Use Umbrellas",
+        "url": "https://open.spotify.com/album/4f8EqC1IzbcSosXgbkSbTm"
+      },
+      "artists": [
+        {
+          "name": "Michigan Curve",
+          "url": "https://open.spotify.com/artist/6gMUWmZUceCtcaztahkqba"
+        }
+      ],
+      "duration_ms": 419600,
+      "name": "J.C's. Blues",
+      "url": "https://open.spotify.com/track/7j1KFZmBIKtv8lsmTptiM1"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "I Be Trying",
-        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 171346,
-      "name": "Pretty Flowers",
-      "url": "https://open.spotify.com/track/60vycVSlMAOiqZd7qtW9Vp"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Push The Blues Away",
         "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
       },
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "I Be Trying",
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 171346,
+      "name": "Pretty Flowers",
+      "url": "https://open.spotify.com/track/60vycVSlMAOiqZd7qtW9Vp"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Sailin' Shoes",
         "url": "https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt"
       },
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "One Scotch, One Bourbon, One Beer",
-        "url": "https://open.spotify.com/album/7uDIaa0VUbDhhEA4CkqNN6"
-      },
-      "artists": [
-        {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
-        }
-      ],
-      "duration_ms": 192121,
-      "name": "One Scotch, One Bourbon, One Beer",
-      "url": "https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Your Lies",
         "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 193130,
       "name": "Your Lies",
       "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "One Scotch, One Bourbon, One Beer",
+        "url": "https://open.spotify.com/album/7uDIaa0VUbDhhEA4CkqNN6"
+      },
+      "artists": [
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "duration_ms": 192121,
+      "name": "One Scotch, One Bourbon, One Beer",
+      "url": "https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Contemporary",
-        "url": "https://open.spotify.com/album/1iarrnQhFVvqazwsGSz0G7"
-      },
-      "artists": [
-        {
-          "name": "Rick Estrin & The Nightcats",
-          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Nothing But Love",
-      "url": "https://open.spotify.com/track/4O4GPgWzFwIjMZggucEDk2"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Live At The Cafe Au-Go-Go",
         "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 186493,
       "name": "Drifting From Town To Town",
       "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Contemporary",
+        "url": "https://open.spotify.com/album/1iarrnQhFVvqazwsGSz0G7"
+      },
+      "artists": [
+        {
+          "name": "Rick Estrin & The Nightcats",
+          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Nothing But Love",
+      "url": "https://open.spotify.com/track/4O4GPgWzFwIjMZggucEDk2"
     },
     {
       "added_at": "2023-10-05 13:18:26",

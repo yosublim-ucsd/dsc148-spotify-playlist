@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 13332,
+  "num_followers": 13351,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTY1YjJkOGY5YjFiMjQzNjEwNjEwZjU4NDU0NWZjYzFlYmE1ZDY1",
+  "snapshot_id": "MCxiMzk4ZDkwZjE4OTMxM2JmYzRhNTQ0NDM0NWI3NDg2ZjQ4NWI1YTI1",
   "tracks": [
     {
       "added_at": "2023-07-18 18:13:51",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-07-18 18:13:51",
       "album": {
+        "name": "Ama, who?",
+        "url": "https://open.spotify.com/album/7BWDLFcIlUrgZdtjwLEJxw"
+      },
+      "artists": [
+        {
+          "name": "Ama Lou",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "duration_ms": 209722,
+      "name": "NORTHSIDE",
+      "url": "https://open.spotify.com/track/01HGXW27UXeMWa8Eglzgcf"
+    },
+    {
+      "added_at": "2023-07-18 18:13:51",
+      "album": {
         "name": "IRL",
         "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 214026,
       "name": "November (feat. Stormzy)",
       "url": "https://open.spotify.com/track/7xkHbITyunC0rn47Gs8hS4"
-    },
-    {
-      "added_at": "2023-07-18 18:13:51",
-      "album": {
-        "name": "Ama, who?",
-        "url": "https://open.spotify.com/album/7BWDLFcIlUrgZdtjwLEJxw"
-      },
-      "artists": [
-        {
-          "name": "Ama Lou",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
-        }
-      ],
-      "duration_ms": 209722,
-      "name": "NORTHSIDE",
-      "url": "https://open.spotify.com/track/01HGXW27UXeMWa8Eglzgcf"
     },
     {
       "added_at": "2023-07-18 18:13:51",

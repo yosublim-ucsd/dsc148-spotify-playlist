@@ -1,15 +1,31 @@
 {
-  "description": "The best new music by independent African artists and labels. Updates every Wednesday. Cover:  <a href=\"https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl?si=_AOux-TVTgKJf1JL8RolbA\">Nyota Parker</a>. Artwork: Isu Kim. ",
-  "num_followers": 8016,
+  "description": "The best new music by independent African artists and labels. Updates every Wednesday. Cover:  <a href=\"https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU?si=sUOsQZ2ORoCmAMghEm_hqw\">Flier</a>. Artwork: Isu Kim. ",
+  "num_followers": 8021,
   "original_name": "Fresh Finds Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWExMjc3ZDQyMTJhMzU5MDViNjUxZDY3YjEwNzNjMWMyYTk2OWMz",
+  "snapshot_id": "MCw5ZjlmZTM1NGRlMzdmZjkxMGEyNTVmMGU2OWVmMTc1NmJkNGMzZWVl",
   "tracks": [
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
+      "album": {
+        "name": "Too Young To Go",
+        "url": "https://open.spotify.com/album/4TsZGn6aEpy14f2dufhmbI"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Too Young To Go",
+      "url": "https://open.spotify.com/track/3WaMdVfPf5vsjRQTpyiVHz"
+    },
+    {
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "MIDST",
         "url": "https://open.spotify.com/album/2AUuYLf37fCO2FEnz3fVER"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/53PNIzmsDfZZ7IxhSbvxz6"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Abyss",
         "url": "https://open.spotify.com/album/3SVQB6dIQvEaXe53CbZ1QQ"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/1c3Uvil5DpA6FfFPIi4914"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/3edbe7CGUZvGnHYN9K1jkP"
@@ -61,23 +77,7 @@
       "url": "https://open.spotify.com/track/5nnGqBHjGNGUu6Khin46XL"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
-      "album": {
-        "name": "Too Young To Go",
-        "url": "https://open.spotify.com/album/4TsZGn6aEpy14f2dufhmbI"
-      },
-      "artists": [
-        {
-          "name": "Flier",
-          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Too Young To Go",
-      "url": "https://open.spotify.com/track/3WaMdVfPf5vsjRQTpyiVHz"
-    },
-    {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Sweet Lie",
         "url": "https://open.spotify.com/album/0H6PuFejIzA4Nx4u0bDQO5"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/45n3y4Zma6IHpzK73PonQn"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/1mzN3IVisdj5OSEkVW0rD3"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/5CqoCjBdBTTsVrf6aZOP3t"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "OLORI (The EP)",
         "url": "https://open.spotify.com/album/01htjp8rIvwLsIKxZSidDq"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/54Fc0M8PNb7yAI5ieyuUEk"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/6sgJbJLPVdIEMOw1xVivHN"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/0n01Jo84IjPVepCtZ6ZFnr"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "KAY KAY - EP",
         "url": "https://open.spotify.com/album/5lnenJTP9B8s9ybNTRyquE"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/3nQZnve335BZM8ICWdtWXq"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/7qsq6moMEWasMS0zR5Ycwo"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/6kSbTPcBqhPHObtLgKgJsm"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/2PpyHqgNR1h3eQrazaHx7W"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/1tf6kydlVfP17D2J3QWqS0"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Time To Love Again",
         "url": "https://open.spotify.com/album/4DkV7VjFbEg0n4AsHVLtz9"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/0LaCgmzJqzWymrvuXrimkd"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/4K9LHHHW7DOrW0FS9kz6Cr"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/1rygCbBVSKhfwTLvEWAEsF"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "gin and wine (ginuwine)",
         "url": "https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Toxic Love",
         "url": "https://open.spotify.com/album/2FArfl0H4GtG1R8wztA2HK"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/0WL1rJuCiGYR4Jp5MlA4uU"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "No More",
         "url": "https://open.spotify.com/album/1Ox2kUReJXvoBgK2xJYFiu"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/49ki3oqWJdFEJaEbMCC9SC"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "It's A No From Me",
         "url": "https://open.spotify.com/album/0H0ZGtrZT81cG5x0lMf9sw"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/6xRevLNVt6fBDEueLFQAM4"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "I Might",
         "url": "https://open.spotify.com/album/0ZTLZgvrz0KhPTiPnS1O32"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/0vUMCgfgcoblVHcz1Qopt9"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Pete",
         "url": "https://open.spotify.com/album/5D4ETjU3vwslf8b6HOLUWx"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/2DDM0D8wOXNPxshFgtYIG1"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Tamu",
         "url": "https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "ECHOLOCATION",
         "url": "https://open.spotify.com/album/1MJRIE0t9OfQP2PfAC71kD"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/5HN8VVC24FpSe5a3kVQKdD"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/4gIsSa6Waz3CCWuD0sVl8s"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/545wkwUovk2jPQ6qk6yLv3"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Prodigy",
         "url": "https://open.spotify.com/album/1WosT5FWrSYcFHLbt3VEy4"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/3mJP2ejsQtYioV8hAiXqfc"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Mrs Sativa",
         "url": "https://open.spotify.com/album/3xFHiV8Qx0bUNZ76iO9tvQ"
@@ -425,10 +425,10 @@
       "url": "https://open.spotify.com/track/5ARd8VUjVywyr4eSh6cBLA"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
-        "name": "Moments (feat. DaBlixx Osha, MohBad)",
-        "url": "https://open.spotify.com/album/3eZqQym7jPA8sJcnnEOoF8"
+        "name": "Dauntless",
+        "url": "https://open.spotify.com/album/2Dq4kBxHFpo1WahDVSzxBr"
       },
       "artists": [
         {
@@ -438,10 +438,10 @@
       ],
       "duration_ms": 127085,
       "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/41MTYyuFbvYHcvfogxN1J0"
+      "url": "https://open.spotify.com/track/0Dyt04A0pt4kSkbxODTdkv"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "14:02",
         "url": "https://open.spotify.com/album/3NAOgVCijgJpyauvqHis0a"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/0rIDiFRgtsNB81roHxRPx6"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Ifunanya",
         "url": "https://open.spotify.com/album/7IUoO4JbBSWSt11xgtErYi"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/6xceRdBFi2uSbaCnpXcaja"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Mayo",
         "url": "https://open.spotify.com/album/186Ly8U3fdCHSAxSRI4gt2"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/0FjalQZo0G4xiLh0weUZ9x"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Ewuresi",
         "url": "https://open.spotify.com/album/4KYWufXuha7wm6eNkl53wc"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/4bDPMNeqRFk9WXgXnl567Y"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Musow Danse",
         "url": "https://open.spotify.com/album/5dAzFUrPUt0dpdnsZMdqPP"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/1wDWjFZze7ck2ziBgCQtWI"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "the one",
         "url": "https://open.spotify.com/album/1r6ei26yZTJDOMktiyOAzE"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/3N1kTwDdzYW0R6oHwkgENB"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "If I\u2019m Wrong - Vol 1",
         "url": "https://open.spotify.com/album/5E7FXTjU8ZulcL7d2yrNhT"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/40VtWXF3SL8gobkEgd6gt3"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "MY EX + DELILAH",
         "url": "https://open.spotify.com/album/7geTCSDldvSXv9VhNypsnm"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/6s4xvKwFL4x5gueZUtE2Cp"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "40107 Express",
         "url": "https://open.spotify.com/album/6tMmGkXKopT2msRF9QwLHN"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/5D9jsMLLaxGXOIKxc9PpXR"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Aurientation",
         "url": "https://open.spotify.com/album/5EiEQlGR045stLX3LSitAi"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/3BP2NL1f7Q2OjfcfKW8dZx"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/6FSsQppU4uk9ZKnm8rus0B"
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/2uA5tRmqlc3i0Lfqzqq3x5"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Addicted / Arise",
         "url": "https://open.spotify.com/album/4ttoGuPlX5HthFo7PXrq3x"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/3PXVIAoWdQKt18DojyEWQI"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "It Was Real",
         "url": "https://open.spotify.com/album/22ld0gylyTBWlm1sqyUTid"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/6OGC3FiJ6pIALSVTYtYF6W"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Lock Down (Kayamata)",
         "url": "https://open.spotify.com/album/0ZxR4HibWqyf9z70yE5nvZ"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/5ugYHnSyPfd3esF4JKLie2"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/6ZyMhzShv9Za412D2lqCwh"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/40Wc3xoBbU3YZdoHk1kwoA"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Nimejibeba",
         "url": "https://open.spotify.com/album/0g6uq1bB129ewHvpIJw3vw"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/5qRnpj32fYhke0Sh0Yjoa6"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Ruguru",
         "url": "https://open.spotify.com/album/6KxBTlz9GjwMGR9ZEEbbRg"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/5lHDOOekGbZn5AmHc8hhvN"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/4mMF1H9pNv61LY1TegflVE"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/5pjnd6OFWjovQZpQ9KDkmI"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/5F4wRFPtLERNzGd7S03h6P"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/0JBG80Tzd9dsK9NY7QhYI8"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/2a37proFkFTJZkrWPB7Nu9"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/6drtB7tFWbtKvp4QikYuTo"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Get Away",
         "url": "https://open.spotify.com/album/2cxhdTIizDlFNBepvdBARm"
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/0Li9bGOQJIhYFAHMUWS6jE"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/75QrUTRTBvo1KZl9Y9PDpp"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/0qm74zjAsMAPzJwlQBF4aE"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/4USNblY3pWNtnFimwY5nA1"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/4UpZ6B4RjACUO5t0BwtlyG"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/3b62lg9qZylXGvbXTY5BSf"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/1bl9eXOR5fBlPdZg3Nwr0A"
     },
     {
-      "added_at": "2024-03-19 23:00:00",
+      "added_at": "2024-03-26 23:00:00",
       "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/42x6GlAegX4dxYKB0R4ALK"

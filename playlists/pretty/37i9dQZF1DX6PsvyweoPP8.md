@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,373 likes - 83 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,400 likes - 83 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 40 | [Good Vibe](https://open.spotify.com/track/0ssgd2ZvDawP0KHGfBYRpv) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 3:01 |
 | 41 | [MÍDIA](https://open.spotify.com/track/5hMMfJWPMuGfOKiFpuOorM) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [MÍDIA](https://open.spotify.com/album/2UX0mWZIM4I258iEoefXjq) | 1:56 |
 | 42 | [Ninguém Ama Ninguém](https://open.spotify.com/track/1z2JhprrpIx3Frjh59NXud) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Ninguém Ama Ninguém](https://open.spotify.com/album/5pNjfoqyUbZi2msTjdxPWM) | 1:55 |
-| 43 | [Fazer Oque :/](https://open.spotify.com/track/3r97yuGCqBhH0LmgM2SW75) | [D3cker](https://open.spotify.com/artist/5YurNLeTXZ7DdkAuNDDZsx), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Skarzin](https://open.spotify.com/artist/6D54GXqZUfKZFbmxVYpBrI) | [Fazer Oque :/](https://open.spotify.com/album/20ZQMMfRzh4ccunH62Qb1e) | 2:17 |
+| 43 | [Fazer Oque :/](https://open.spotify.com/track/4RSQPyQTghwGwG7WAhBROT) | [D3cker](https://open.spotify.com/artist/5YurNLeTXZ7DdkAuNDDZsx), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Skarzin](https://open.spotify.com/artist/6D54GXqZUfKZFbmxVYpBrI) | [Fazer Oque :/](https://open.spotify.com/album/2pBZXvgrEK4OAfa9CRXXEZ) | 2:17 |
 | 44 | [Cheia de charme](https://open.spotify.com/track/0QdHGwhhBff5yFKEvmKHYS) | [Real Nage](https://open.spotify.com/artist/5zUzbSkYRVlxgmQ0W9wlKm), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Cheia de charme](https://open.spotify.com/album/4qwXqQ0Z9eeNObgkO9fN0N) | 2:04 |
 | 45 | [Cartier](https://open.spotify.com/track/1R2kdZX8vA5BV7NrX1vs2b) | [Real Nage](https://open.spotify.com/artist/5zUzbSkYRVlxgmQ0W9wlKm), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Cartier](https://open.spotify.com/album/0IvMsNWwLOhhlcPyx3O6VQ) | 2:08 |
 | 46 | [Adrenalina](https://open.spotify.com/track/4lrCXOBcdVspjbPw8P6hxX) | [Young Di](https://open.spotify.com/artist/2YU1M1onw9SekYgpXe1oG8) | [Amor Bandido](https://open.spotify.com/album/1Hn0T5W7uLjn0CIFaiXyxQ) | 2:51 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 82 | [Corpo Quente](https://open.spotify.com/track/6RRVJ39Nu1GfiWhxBvixMg) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Corpo Quente](https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN) | 4:00 |
 | 83 | [Casting](https://open.spotify.com/track/0AjXz2Myfg84rqki7vnmEk) | [Lionel](https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq), [Rav1](https://open.spotify.com/artist/7x2rCYvquFbnXpEsKQ0lsp), [JOTA](https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk), [D\-Lex](https://open.spotify.com/artist/5VfxICkBmOXynfEQjSlgUV) | [Casting](https://open.spotify.com/album/5KFVVSCLLBHuWCZxqqY20V) | 2:29 |
 
-Snapshot ID: `MCwzNDI2Yjc0YmIxNjkxN2VmMTQwMzYzYzJmYzQwNmE5OTFjODY4ZDlh`
+Snapshot ID: `MCw5YjNlMjc4ZGM3NTFjZTU0OTc0NTgxMTI2YjIzNTNhMmJhM2RiMDdj`

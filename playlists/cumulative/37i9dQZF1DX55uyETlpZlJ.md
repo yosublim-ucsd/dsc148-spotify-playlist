@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-302 songs - 16 hr 23 min
+303 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Bucket](https://open.spotify.com/track/31VSLnPSt72KHWns93bvzX) | [Karibasava Tadakal](https://open.spotify.com/artist/2tXhjGmqVhR2vYQXfqi8Ro) | [Bucket](https://open.spotify.com/album/3Le6epBQsmsjeUH5XBWpv8) | 4:30 | 2023-08-24 | 2024-03-23 |
 | [Busy](https://open.spotify.com/track/6Ik6XU8hqWsF12nLsrlMJi) | [Battalionsz](https://open.spotify.com/artist/7tEa14uRsSNHWC20EKFHra) | [PRAYANIKA](https://open.spotify.com/album/05Kv7PQi2JgSaUGdBIXjvo) | 3:05 | 2024-01-29 | 2024-02-17 |
 | [By2Love](https://open.spotify.com/track/2FLf8XNpQKxBEUbwPZocHn) | [Dolwin Kolalagiri](https://open.spotify.com/artist/7DDPhsid60HBOEoTP3bQOk), [Prashanth Kankanady](https://open.spotify.com/artist/0TG2p7nnb1iIbddC4YFyx5), [Ranjitha Yellur](https://open.spotify.com/artist/6tkM6pYWcSp6mai0rg8OLI) | [By2Love](https://open.spotify.com/album/2WHsDQKag50lnPXjQveFcG) | 3:37 | 2023-09-20 | 2024-01-07 |
-| [By2Love](https://open.spotify.com/track/5c67FvlkSg8LdX1asdzxR2) | [Dolwin Kolalagiri](https://open.spotify.com/artist/7DDPhsid60HBOEoTP3bQOk), [Prashanth Kankanady](https://open.spotify.com/artist/0TG2p7nnb1iIbddC4YFyx5), [Ranjitha Yellur](https://open.spotify.com/artist/6tkM6pYWcSp6mai0rg8OLI) | [By2Love](https://open.spotify.com/album/6DcqRwXzVwgT7MAcJH5vE5) | 3:37 | 2023-09-20 |  |
+| [By2Love](https://open.spotify.com/track/5c67FvlkSg8LdX1asdzxR2) | [Dolwin Kolalagiri](https://open.spotify.com/artist/7DDPhsid60HBOEoTP3bQOk), [Prashanth Kankanady](https://open.spotify.com/artist/0TG2p7nnb1iIbddC4YFyx5), [Ranjitha Yellur](https://open.spotify.com/artist/6tkM6pYWcSp6mai0rg8OLI) | [By2Love](https://open.spotify.com/album/6DcqRwXzVwgT7MAcJH5vE5) | 3:37 | 2023-09-20 | 2024-03-27 |
 | [Careless](https://open.spotify.com/track/1JP69nFgf27iCGO3lnvAxh) | [Raakki](https://open.spotify.com/artist/27nxoPW1MD0nRL7ZMu2khf) | [Careless](https://open.spotify.com/album/4CqMVtBDarc1veEKP4NzVm) | 3:57 | 2023-07-03 | 2023-07-18 |
 | [Cash Race](https://open.spotify.com/track/0fyj6lCdRmakvild3EyarH) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Cyclone Og](https://open.spotify.com/artist/4yAKQB0twqPFlGwjF69epo) | [Cash Race](https://open.spotify.com/album/0V8riX9jaGWnVtBd9JbnW9) | 2:25 | 2023-07-20 | 2023-07-29 |
 | [Chaa](https://open.spotify.com/track/1MGXOBkxHXJACP6zm16kf2) | [D Rapper](https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E) | [Chaa](https://open.spotify.com/album/3fNlWxPWdY8mzxgzXlLkNm) | 3:21 | 2023-08-21 | 2024-03-15 |
@@ -125,6 +125,7 @@
 | [KALEDH HODHE](https://open.spotify.com/track/5IQ37HCYwY7lBryfgZKa6k) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [KALEDH HODHE](https://open.spotify.com/album/27fcdIaX5jfGiPm5lBmQgO) | 1:25 | 2024-03-17 |  |
 | [Kalitha Hudugi 2.0](https://open.spotify.com/track/5W1wfINyvzgflRPjbqDpA2) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Kalitha Hudugi 2.0](https://open.spotify.com/album/1eusEx2WLiPspt0YwUs0vU) | 3:46 | 2022-10-20 | 2023-08-17 |
 | [Kalitha Hudugi 3.0](https://open.spotify.com/track/4Ck7u07WKdzIVq8DpOToQM) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC) | [Kalitha Hudugi 3.0](https://open.spotify.com/album/2bTu7wXCFCy5DnCFBIIAkO) | 3:25 | 2024-02-23 |  |
+| [Kanade Hodeya Edurige](https://open.spotify.com/track/2wkMJqdVmMSxoukyh6eXSn) | [Uttam Sarang](https://open.spotify.com/artist/2hxuZDpTxvhUKzqMI0smem) | [Kanade Hodeya Edurige](https://open.spotify.com/album/0kTpmGxOf63aV2DIFh2Vuz) | 3:42 | 2024-03-26 |  |
 | [Kanasella](https://open.spotify.com/track/4GfvMLzjCSbgS7NSofhAW3) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kanasella](https://open.spotify.com/album/4VyGp00IzrXHFCp4FXWx0B) | 4:28 | 2023-05-25 | 2023-06-08 |
 | [Kanasella \- Female Version](https://open.spotify.com/track/7kbJqyrHwdUCmQ3H7Fkgl5) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Kanasella \- Female Version](https://open.spotify.com/album/1WNn6I7B7eFbqzZCYDGbRf) | 4:28 | 2023-07-05 | 2023-07-25 |
 | [Kanasina Doni](https://open.spotify.com/track/75Ra0OjXkUkfhA49fgJWhx) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kanasina Doni](https://open.spotify.com/album/20gGD5bzERTIck6K7wtj0k) | 4:02 | 2023-06-22 | 2023-07-11 |

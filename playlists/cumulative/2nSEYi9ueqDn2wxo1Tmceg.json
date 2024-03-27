@@ -6419,6 +6419,24 @@
     },
     {
       "album": {
+        "name": "How We See The Light",
+        "url": "https://open.spotify.com/album/6xrZ6CmKzXvEpxqad5yR0f"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285375,
+      "name": "How We See The Light",
+      "url": "https://open.spotify.com/track/4i2lt1nfGMH13ZB7sZylwu"
+    },
+    {
+      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk"
       },

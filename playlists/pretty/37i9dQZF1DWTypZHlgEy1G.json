@@ -1,12 +1,12 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : Jacques Brel",
-  "num_followers": 535892,
+  "num_followers": 535921,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2I1NzViYjQzOTE3YWQ3Y2Y0NmM5NWFkOTIxMzhkOTQ3Yjc2YmNi",
+  "snapshot_id": "MCwzZjIwNmIxNGI1OGZlN2RlN2I4YWYxMjA1ZjIxNGY1YzUyZTYwYzQ1",
   "tracks": [
     {
       "added_at": "2023-10-19 14:26:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-10-19 14:26:00",
       "album": {
-        "name": "Fais comme l'oiseau",
-        "url": "https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP"
-      },
-      "artists": [
-        {
-          "name": "Michel Fugain & Le Big Bazar",
-          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "Une belle histoire",
-      "url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V"
-    },
-    {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
         "name": "Aline",
         "url": "https://open.spotify.com/album/1ZfOSvrmz8by3bdz0w6NBA"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 169946,
       "name": "Aline",
       "url": "https://open.spotify.com/track/4pU5MiapjzzbqvXfKhcZT9"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
+        "name": "Fais comme l'oiseau",
+        "url": "https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP"
+      },
+      "artists": [
+        {
+          "name": "Michel Fugain & Le Big Bazar",
+          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "Une belle histoire",
+      "url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -1225,22 +1225,6 @@
       "url": "https://open.spotify.com/track/30bqPdEUBZhn44u10awaup"
     },
     {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
-        "name": "30 Ans De Passion",
-        "url": "https://open.spotify.com/album/089iJNvU6GBmyfSmwsReZy"
-      },
-      "artists": [
-        {
-          "name": "Nicoletta",
-          "url": "https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0"
-        }
-      ],
-      "duration_ms": 231200,
-      "name": "Mamy Blue",
-      "url": "https://open.spotify.com/track/66GLDVt5iyBBGfoWQ2WmbC"
-    },
-    {
       "added_at": "2024-03-22 19:37:47",
       "album": {
         "name": "Heritage - Jolie M\u00f4me - Philips (1961)",
@@ -1255,6 +1239,22 @@
       "duration_ms": 166573,
       "name": "Les rupins",
       "url": "https://open.spotify.com/track/4hOj5cF3vQ6lNOKkOLQdef"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
+        "name": "30 Ans De Passion",
+        "url": "https://open.spotify.com/album/089iJNvU6GBmyfSmwsReZy"
+      },
+      "artists": [
+        {
+          "name": "Nicoletta",
+          "url": "https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0"
+        }
+      ],
+      "duration_ms": 231200,
+      "name": "Mamy Blue",
+      "url": "https://open.spotify.com/track/66GLDVt5iyBBGfoWQ2WmbC"
     },
     {
       "added_at": "2023-10-19 14:26:00",

@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: ELENA ROSE",
-  "num_followers": 284259,
+  "num_followers": 284267,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGJhZWU4MTE0ZDc3NzM3ZDZmYjQyYjdjMGQ3MWUxNDc3Yjg0MTll",
+  "snapshot_id": "MCxlN2E4MDI5Mzc4NmU3NzE5MDg0MzUxMWNkOTBmMjgxZTM4NzNiY2Qz",
   "tracks": [
     {
       "added_at": "2024-03-22 04:01:00",
@@ -223,26 +223,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "TU Y YO",
-        "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 192517,
-      "name": "TU Y YO",
-      "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 181666,
       "name": "Punter\u00eda",
       "url": "https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "TU Y YO",
+        "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 192517,
+      "name": "TU Y YO",
+      "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "PAENAMORAR",
-        "url": "https://open.spotify.com/album/4690a9jilzn3yfvvtKdqMj"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        }
-      ],
-      "duration_ms": 178701,
-      "name": "PAENAMORAR",
-      "url": "https://open.spotify.com/track/6N9hiZx8ZvZznXjaWoiPJ1"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "mimos",
         "url": "https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 186373,
       "name": "mimos",
       "url": "https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "PAENAMORAR",
+        "url": "https://open.spotify.com/album/4690a9jilzn3yfvvtKdqMj"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        }
+      ],
+      "duration_ms": 178701,
+      "name": "PAENAMORAR",
+      "url": "https://open.spotify.com/track/6N9hiZx8ZvZznXjaWoiPJ1"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Lejos De Mis Ojos",
+        "url": "https://open.spotify.com/album/4j14bzS5YpWDsmGdbPV4un"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "Lejos De Mis Ojos",
+      "url": "https://open.spotify.com/track/1ZIKWQ97kDMhu28IyhEtVU"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "Mi Coraz\u00f3n (feat. Camilo)",
         "url": "https://open.spotify.com/album/6Lmp3WKfNvIKLJuyED6gqJ"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 185853,
       "name": "Mi Coraz\u00f3n (feat. Camilo)",
       "url": "https://open.spotify.com/track/421IxIwggbLYx9XUSUJpZN"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Lejos De Mis Ojos",
-        "url": "https://open.spotify.com/album/4j14bzS5YpWDsmGdbPV4un"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "Lejos De Mis Ojos",
-      "url": "https://open.spotify.com/track/1ZIKWQ97kDMhu28IyhEtVU"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Extra\u00f1os de Nuevo",
-        "url": "https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Extra\u00f1os de Nuevo",
-      "url": "https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "el afortunado",
         "url": "https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 200597,
       "name": "el afortunado",
       "url": "https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Extra\u00f1os de Nuevo",
+        "url": "https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 195720,
+      "name": "Extra\u00f1os de Nuevo",
+      "url": "https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "viernes 13 iv",
-        "url": "https://open.spotify.com/album/3BMckINSS666LAqscJxMdg"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "viernes 13 iv",
-      "url": "https://open.spotify.com/track/2qaI5v34tf7eLeboINCCon"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "El Disfraz",
         "url": "https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 168426,
       "name": "El Disfraz",
       "url": "https://open.spotify.com/track/6ktPBO8Otumx59kpmKXlls"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "viernes 13 iv",
+        "url": "https://open.spotify.com/album/3BMckINSS666LAqscJxMdg"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "viernes 13 iv",
+      "url": "https://open.spotify.com/track/2qaI5v34tf7eLeboINCCon"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "fuimos amigos",
-        "url": "https://open.spotify.com/album/0BUtNIpF14nZatEGITDsXr"
-      },
-      "artists": [
-        {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "fuimos amigos",
-      "url": "https://open.spotify.com/track/52T4reGBKaHkDkTNt9YEGo"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "quise quererte",
         "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 219786,
       "name": "quise quererte",
       "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "fuimos amigos",
+        "url": "https://open.spotify.com/album/0BUtNIpF14nZatEGITDsXr"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "fuimos amigos",
+      "url": "https://open.spotify.com/track/52T4reGBKaHkDkTNt9YEGo"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -951,26 +951,6 @@
       "duration_ms": 159935,
       "name": "A Oscuras",
       "url": "https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "desbarat\u00e1ndome",
-        "url": "https://open.spotify.com/album/1JhFONe2KrAFPeSzX6fyRp"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        },
-        {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
-        }
-      ],
-      "duration_ms": 159473,
-      "name": "desbarat\u00e1ndome",
-      "url": "https://open.spotify.com/track/2Ves2z0imE2vQD6mwTUbXe"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1019,6 +999,26 @@
       "duration_ms": 141226,
       "name": "Cositas Sucias",
       "url": "https://open.spotify.com/track/5OkBhZHRMKGpoFTc5WXw50"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "desbarat\u00e1ndome",
+        "url": "https://open.spotify.com/album/1JhFONe2KrAFPeSzX6fyRp"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "duration_ms": 159473,
+      "name": "desbarat\u00e1ndome",
+      "url": "https://open.spotify.com/track/2Ves2z0imE2vQD6mwTUbXe"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "de mi pa ti",
-        "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 206351,
-      "name": "de mi pa ti",
-      "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "COLIBR\u00cd",
         "url": "https://open.spotify.com/album/7vt8WLdwLRU2dEfuoa0hBZ"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "en el pasado",
-        "url": "https://open.spotify.com/album/78EFQKhgET0w845QMun4na"
+        "name": "de mi pa ti",
+        "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
       },
       "artists": [
         {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
         }
       ],
-      "duration_ms": 223124,
-      "name": "en el pasado",
-      "url": "https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q"
+      "duration_ms": 206351,
+      "name": "de mi pa ti",
+      "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1191,6 +1175,22 @@
       "duration_ms": 167485,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "en el pasado",
+        "url": "https://open.spotify.com/album/78EFQKhgET0w845QMun4na"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 223124,
+      "name": "en el pasado",
+      "url": "https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Enemigos",
+        "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "duration_ms": 157375,
+      "name": "Enemigos",
+      "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "DEKKOLETERA 3",
         "url": "https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 188405,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/4DyVhH4VtUcl42sNJgp0wr"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Enemigos",
-        "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 157375,
-      "name": "Enemigos",
-      "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
     },
     {
       "added_at": "2024-03-22 04:01:00",

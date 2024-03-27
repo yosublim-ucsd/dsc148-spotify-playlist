@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,345 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,403 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 46 | [Babylon Fallin](https://open.spotify.com/track/2FL8K44Q8e2ICbK3W9NoEo) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [One Time Music](https://open.spotify.com/artist/33me5od0CPHlQtuzgHkF7h) | [Babylon Fallin](https://open.spotify.com/album/1toCcJIyEHFFRYFPxuUOJc) | 3:00 |
 | 47 | [Do Your Ting](https://open.spotify.com/track/7pXiEvsPrQDXfgl1Cq1I8m) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Do Your Ting](https://open.spotify.com/album/2H6K5EZURlSU5dnnlEFJxU) | 3:12 |
 | 48 | [Good Love \(feat\. General Levy\)](https://open.spotify.com/track/6tFLKJWMwqn5XbbHlzojPz) | [Reggae Roast](https://open.spotify.com/artist/6X9sCKOanZEWlaDnFw24Ed), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Turn Up the Heat](https://open.spotify.com/album/2ZYXtGcQxwAkjZhpz4oDaS) | 3:03 |
-| 49 | [Chosen People](https://open.spotify.com/track/6syjfmKZUlo6IAPJqGDvR2) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 3:12 |
-| 50 | [Same Ole Song \(feat\. Teejay\)](https://open.spotify.com/track/3WuV9z3uVDZ3nbWFCYasdL) | [Dre Island](https://open.spotify.com/artist/0TS9FVfPz9X4ijxno3KBi8), [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q) | [Now I Rise \(Deluxe Edition\)](https://open.spotify.com/album/2JEKU9fLF96votapKBB4cZ) | 3:57 |
+| 49 | [Same Ole Song \(feat\. Teejay\)](https://open.spotify.com/track/3WuV9z3uVDZ3nbWFCYasdL) | [Dre Island](https://open.spotify.com/artist/0TS9FVfPz9X4ijxno3KBi8), [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q) | [Now I Rise \(Deluxe Edition\)](https://open.spotify.com/album/2JEKU9fLF96votapKBB4cZ) | 3:57 |
+| 50 | [Chosen People](https://open.spotify.com/track/6syjfmKZUlo6IAPJqGDvR2) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 3:12 |
 
-Snapshot ID: `MCwwMDk3NjI4NWVkMGU1ODI2ODNhY2FkNTlhNDI1M2E2ODJlYjVmMGY3`
+Snapshot ID: `MCxkMDBkYTNmNjA3NWEzMDAzNTNkOGI1NzMzYzI5MDI2NjRhMjcxZjU2`

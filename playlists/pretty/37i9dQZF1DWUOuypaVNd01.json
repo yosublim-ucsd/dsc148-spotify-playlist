@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nebrugg",
-  "num_followers": 37144,
+  "num_followers": 37164,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWFmMjRkZmVmZDBmYTAzZTVmZGY5ZDI3NzE1Mjc3YzU5ZjZiMmVj",
+  "snapshot_id": "MCw1NmZjMTExNzY5NTVkOTljN2Q3Yjg0NTA0ZjVjY2FhYTJlZTJhM2Nj",
   "tracks": [
     {
       "added_at": "2024-02-16 03:01:00",
@@ -919,30 +919,6 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
-        "name": "ISSO \u00d1 \u00c9 GPT",
-        "url": "https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI"
-      },
-      "artists": [
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        },
-        {
-          "name": "Coruja Bc1",
-          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
-        }
-      ],
-      "duration_ms": 186454,
-      "name": "TA\u00c7A",
-      "url": "https://open.spotify.com/track/64BcBJ5my00gL91v6Dvgne"
-    },
-    {
-      "added_at": "2024-02-16 03:01:00",
-      "album": {
         "name": "Maior Que O Amor, S\u00f3 O \u00d3dio",
         "url": "https://open.spotify.com/album/1SyRKMpzUFQHqMcJIzcc6X"
       },
@@ -975,6 +951,30 @@
       "duration_ms": 322298,
       "name": "Rival",
       "url": "https://open.spotify.com/track/56V2S0c5x60HACG3HBuWEi"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
+        "name": "ISSO \u00d1 \u00c9 GPT",
+        "url": "https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        },
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        }
+      ],
+      "duration_ms": 186454,
+      "name": "TA\u00c7A",
+      "url": "https://open.spotify.com/track/64BcBJ5my00gL91v6Dvgne"
     },
     {
       "added_at": "2024-02-16 03:01:00",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
-        "name": "Ruas da Leste",
-        "url": "https://open.spotify.com/album/0eBzFsIYzN6yZUAhmkCSYY"
-      },
-      "artists": [
-        {
-          "name": "Teixeirw",
-          "url": "https://open.spotify.com/artist/2pzOuwEHKoZ3ZRGz0ovblx"
-        },
-        {
-          "name": "Beats by GorJah",
-          "url": "https://open.spotify.com/artist/2JgTsHY5NoDEChnpZTdJcU"
-        }
-      ],
-      "duration_ms": 169825,
-      "name": "Ruas da Leste",
-      "url": "https://open.spotify.com/track/5tpqkzcDvvIAHmkBJEhUyK"
-    },
-    {
-      "added_at": "2024-02-16 03:01:00",
-      "album": {
         "name": "Chav\u00e3o",
         "url": "https://open.spotify.com/album/0ZATod1zpCGAnD5gNin9CN"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 118153,
       "name": "Chav\u00e3o",
       "url": "https://open.spotify.com/track/5sz8xfbQ7dkr4ggUZpATok"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
+        "name": "Ruas da Leste",
+        "url": "https://open.spotify.com/album/0eBzFsIYzN6yZUAhmkCSYY"
+      },
+      "artists": [
+        {
+          "name": "Teixeirw",
+          "url": "https://open.spotify.com/artist/2pzOuwEHKoZ3ZRGz0ovblx"
+        },
+        {
+          "name": "Beats by GorJah",
+          "url": "https://open.spotify.com/artist/2JgTsHY5NoDEChnpZTdJcU"
+        }
+      ],
+      "duration_ms": 169825,
+      "name": "Ruas da Leste",
+      "url": "https://open.spotify.com/track/5tpqkzcDvvIAHmkBJEhUyK"
     },
     {
       "added_at": "2024-02-16 03:01:00",

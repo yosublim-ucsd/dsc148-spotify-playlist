@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Blanke",
-  "num_followers": 977397,
+  "num_followers": 977387,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjQyMjhjZDUxYzE3MjZmOTJmZTZmY2U3MDA1N2Y3MzJiNjI2YmE3",
+  "snapshot_id": "MCxjZjRjY2QyY2ViNjA4NTdhODQ4ZDEyMDU1N2Q1NzllODcyZGM0ZTg0",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -925,26 +925,6 @@
       "url": "https://open.spotify.com/track/5SNvyCJJ5OLKDLQza2EPLP"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Movement",
-        "url": "https://open.spotify.com/album/0bFMug20XZY4WlslsX3Gt4"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "HOL!",
-          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
-        }
-      ],
-      "duration_ms": 192004,
-      "name": "Movement",
-      "url": "https://open.spotify.com/track/6cXZ5xkPNb9P5C6Z9564Cx"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Zombie (feat. Valerie Broussard)",
@@ -971,6 +951,26 @@
       "duration_ms": 284643,
       "name": "Zombie (feat. Valerie Broussard)",
       "url": "https://open.spotify.com/track/5AZJbQwaYGHWCY53k7fO57"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/0bFMug20XZY4WlslsX3Gt4"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "HOL!",
+          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+        }
+      ],
+      "duration_ms": 192004,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/6cXZ5xkPNb9P5C6Z9564Cx"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1785,26 +1785,6 @@
       "url": "https://open.spotify.com/track/4bjyN1jFFC43cSTPtxqWpt"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Harbinger",
-        "url": "https://open.spotify.com/album/5pazNbyAVUbzngKtSko5zS"
-      },
-      "artists": [
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        },
-        {
-          "name": "Bejalvin",
-          "url": "https://open.spotify.com/artist/2tIX1YEoPn5Mzxh2LPzeIb"
-        }
-      ],
-      "duration_ms": 133587,
-      "name": "Teeth (feat. Bejalvin)",
-      "url": "https://open.spotify.com/track/0HC2VZhRBHFvpYe0T7IHxI"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "You Found Me",
@@ -1829,6 +1809,26 @@
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
     },
     {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Harbinger",
+        "url": "https://open.spotify.com/album/5pazNbyAVUbzngKtSko5zS"
+      },
+      "artists": [
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "Bejalvin",
+          "url": "https://open.spotify.com/artist/2tIX1YEoPn5Mzxh2LPzeIb"
+        }
+      ],
+      "duration_ms": 133587,
+      "name": "Teeth (feat. Bejalvin)",
+      "url": "https://open.spotify.com/track/0HC2VZhRBHFvpYe0T7IHxI"
+    },
+    {
       "added_at": "2024-03-08 05:01:00",
       "album": {
         "name": "Buried Beneath You",
@@ -1847,26 +1847,6 @@
       "duration_ms": 211013,
       "name": "Buried Beneath You",
       "url": "https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "DYSPHORIA",
-        "url": "https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
-        }
-      ],
-      "duration_ms": 157637,
-      "name": "DYSPHORIA",
-      "url": "https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1897,6 +1877,26 @@
       "url": "https://open.spotify.com/track/7LpQXlw2o9xWBE5CuATFJk"
     },
     {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "DYSPHORIA",
+        "url": "https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "duration_ms": 157637,
+      "name": "DYSPHORIA",
+      "url": "https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa"
+    },
+    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Stone cold.",
@@ -1913,10 +1913,10 @@
       "url": "https://open.spotify.com/track/27hGDu6VTcXy0sugTIsDvv"
     },
     {
-      "added_at": "2024-01-05 05:03:38",
+      "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/4yPvemc8nP0odWoFjFoPbV"
+        "name": "Back For More",
+        "url": "https://open.spotify.com/album/11kp1IYIHPxZhBKHNaeKgb"
       },
       "artists": [
         {
@@ -1924,17 +1924,17 @@
           "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
         },
         {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
         },
         {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
         }
       ],
-      "duration_ms": 174400,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/172fEHxGJMdwxcD2ZR1er6"
+      "duration_ms": 148800,
+      "name": "Back For More",
+      "url": "https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"
     },
     {
       "added_at": "2024-02-12 18:48:17",

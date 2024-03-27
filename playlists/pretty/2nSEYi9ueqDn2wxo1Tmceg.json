@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 70599,
+  "num_followers": 70602,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzkwNCw1OTk3MjgzZmZhYjFkMWU0YTAyYzg5OWU5NWRlODdmYmE3YzRkZWUw",
+  "snapshot_id": "MzkwNSw5OTdlNzQwZjFhNjhkMDM5ZjY4YzdhN2I4ZTY4ZTk5ZWEzMTY3NjE5",
   "tracks": [
+    {
+      "added_at": "2024-03-26 14:10:25",
+      "album": {
+        "name": "How We See The Light",
+        "url": "https://open.spotify.com/album/6xrZ6CmKzXvEpxqad5yR0f"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 285375,
+      "name": "How We See The Light",
+      "url": "https://open.spotify.com/track/4i2lt1nfGMH13ZB7sZylwu"
+    },
     {
       "added_at": "2024-03-25 20:04:35",
       "album": {

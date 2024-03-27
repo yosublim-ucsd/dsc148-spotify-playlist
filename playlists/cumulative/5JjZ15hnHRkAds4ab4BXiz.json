@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Maladroit",
+        "url": "https://open.spotify.com/album/274YHaMmctXWht39Olh8ub"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158592,
+      "name": "Burndt Jamb",
+      "url": "https://open.spotify.com/track/1ytYTPuKbW0NIXb2kgmSVq"
+    },
+    {
+      "album": {
         "name": "All The Leaves Are Brown The Golden Era Collection",
         "url": "https://open.spotify.com/album/6d9b6qTmzQ2WOOGB2cDCDq"
       },

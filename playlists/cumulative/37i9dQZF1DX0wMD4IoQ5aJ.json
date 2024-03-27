@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "apples & cherries",
+        "url": "https://open.spotify.com/album/1WQTGwGpUXf7O2n1ol0Hmo"
+      },
+      "artists": [
+        {
+          "name": "MayDance",
+          "url": "https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128875,
+      "name": "apples & cherries",
+      "url": "https://open.spotify.com/track/6lGTMaRwSWwdfm60Ja1w2j"
+    },
+    {
+      "album": {
         "name": "Ap\u00e9ritif",
         "url": "https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN"
       },
@@ -3001,6 +3019,24 @@
     },
     {
       "album": {
+        "name": "Lost At Sea",
+        "url": "https://open.spotify.com/album/34CAvsbqWED0zOX9ZBtq6M"
+      },
+      "artists": [
+        {
+          "name": "Jo Lange",
+          "url": "https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221174,
+      "name": "Lost At Sea",
+      "url": "https://open.spotify.com/track/6dT7TuxFkl8BJEyxgca8Lq"
+    },
+    {
+      "album": {
         "name": "Lost Without You",
         "url": "https://open.spotify.com/album/2cYEZzSklys23IkrpM1U3D"
       },
@@ -3286,6 +3322,24 @@
       "duration_ms": 187368,
       "name": "Miss U",
       "url": "https://open.spotify.com/track/4bLjS9vd86lvIddRDQZnSw"
+    },
+    {
+      "album": {
+        "name": "Molly\u2019s Bar",
+        "url": "https://open.spotify.com/album/75XqU7M9vBMWlqX5fRf3WF"
+      },
+      "artists": [
+        {
+          "name": "Dia Louge",
+          "url": "https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127090,
+      "name": "Molly\u2019s Bar",
+      "url": "https://open.spotify.com/track/7fBLX713TMkNasSsBtFgZq"
     },
     {
       "album": {
@@ -3664,6 +3718,24 @@
       "duration_ms": 144719,
       "name": "On the Radio",
       "url": "https://open.spotify.com/track/0oJYlpXGOSAqqNwTceobvI"
+    },
+    {
+      "album": {
+        "name": "on the side",
+        "url": "https://open.spotify.com/album/1bWcWIAL420MOhrVQ9FkZA"
+      },
+      "artists": [
+        {
+          "name": "Jaake Alsonn",
+          "url": "https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220863,
+      "name": "on the side",
+      "url": "https://open.spotify.com/track/3Icx7rF3DbaSypl0mkFUo8"
     },
     {
       "album": {

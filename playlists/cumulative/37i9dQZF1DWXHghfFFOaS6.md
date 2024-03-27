@@ -4,7 +4,7 @@
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-177 songs - 13 hr 45 min
+178 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alright \- Remastered](https://open.spotify.com/track/5sBSotSAMpBlz97tLswT7v) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX) | 3:42 | 2022-07-14 | 2023-03-13 |
 | [Alright \- Remastered 2006](https://open.spotify.com/track/6Fsme6JdS9n1apzVi800jL) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Driving Songs](https://open.spotify.com/album/0PZ6p6h37zPRCskVNqBRbw) | 3:42 | 2022-07-14 |  |
 | [Apparently Nothin' \- Edit](https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt) | [Young Disciples](https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4) | [urban lounge](https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr) | 4:00 | 2022-07-14 |  |
+| [Apparently Nothin' \- Soul River](https://open.spotify.com/track/5tjFtfGhmq1emybxdG6gIl) | [Young Disciples](https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4) | [Road To Freedom](https://open.spotify.com/album/5NZjo5bmc4kVlVp0sIfqMg) | 5:21 | 2024-03-26 |  |
 | [Apple Green](https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa) | [Mother Earth](https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw) | [The People Tree](https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y) | 4:25 | 2022-07-14 |  |
 | [Apple Green](https://open.spotify.com/track/2Z3MKjSHpftOE42mBbqxMR) | [Mother Earth](https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw) | [Jesse / Apple Green](https://open.spotify.com/album/7HEjnDZzg3jz241sAAQo45) | 4:25 | 2021-12-12 | 2022-07-29 |
 | [Astronomy \(8th Light\)](https://open.spotify.com/track/1mIpDPCehnf3EPk6J4ZCUF) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB), [Weldon Irvine](https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 3:23 | 2021-12-12 |  |
@@ -145,7 +146,7 @@
 | [Texas Twister](https://open.spotify.com/track/7bdwicJ9n8VgKyXkrEgDSY) | [Melvin Sparks](https://open.spotify.com/artist/0S7VS7ckdWsmpPgHTvWd3c) | [Texas Twister / '75](https://open.spotify.com/album/5wVspPWK8rOvMWTcSvqNFB) | 6:07 | 2021-12-12 | 2022-03-12 |
 | [The Creator Has A Master Plan \- Original Album Version](https://open.spotify.com/track/2YxwTmbJP4oBy4W7DJ6hsq) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA) | [Cool And Steady And Easy](https://open.spotify.com/album/4MTudI2qwuB2eV3tbVvwBA) | 5:50 | 2022-07-14 |  |
 | [The Creator Has A Masterplan \- Full Length Version](https://open.spotify.com/track/7kbTgdND4XUvMkXioeHKBu) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Papa Dee](https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y), [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ), [Paul Shapiro](https://open.spotify.com/artist/1JRCfqlBqsyqHPFaooGAKK) | [The Creator Has A Masterplan](https://open.spotify.com/album/3z49aX4goRnYSliS08Dp7D) | 5:55 | 2021-12-12 | 2022-07-29 |
-| [The Final Comedown](https://open.spotify.com/track/6z0FN1nu2aWhtK2Zp8iOqO) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Blue Break Beats](https://open.spotify.com/album/2KbHNB4R33UuA09rleUrcp) | 3:27 | 2022-07-14 |  |
+| [The Final Comedown](https://open.spotify.com/track/6z0FN1nu2aWhtK2Zp8iOqO) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Blue Break Beats](https://open.spotify.com/album/2KbHNB4R33UuA09rleUrcp) | 3:27 | 2022-07-14 | 2024-03-27 |
 | [The Final Comedown](https://open.spotify.com/track/4kvcSogx5uXHYuQMYBgCSs) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k), [Wade Marcus](https://open.spotify.com/artist/6TyNxthThaivJa2Sxii9fH) | [Best of Acid Jazz](https://open.spotify.com/album/1YBTymL1i5kLEZ2VpxkbDa) | 3:27 | 2021-12-12 | 2022-03-03 |
 | [The Light](https://open.spotify.com/track/2XQYIIJb628ORXhv5kPdyG) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Like Water For Chocolate](https://open.spotify.com/album/5Vdh9NszWNh82xuzTBdNHO) | 4:02 | 2021-12-12 | 2022-07-25 |
 | [The Light](https://open.spotify.com/track/5fybLNY2eBRnEGg8SUW6yk) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Go! Common Classics](https://open.spotify.com/album/2IGKisSgNle7264UoY57vO) | 4:03 | 2022-07-14 |  |

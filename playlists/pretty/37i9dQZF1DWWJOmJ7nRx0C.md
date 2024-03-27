@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: Pearl Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,813 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,832 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 51 | [Anxiety](https://open.spotify.com/track/09oM7MKKiUMlfmm55WILWN) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Anxiety / Making Miseries](https://open.spotify.com/album/6V1fBbeKJwhXCEKRrFNlZD) | 2:55 |
 | 52 | [Mars To Liverpool](https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Mars To Liverpool](https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi) | 3:40 |
 | 53 | [Crack Cocaine](https://open.spotify.com/track/6t1WBBQsSDjYuZL2TglrEN) | [Billy Morrison](https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Steve Stevens](https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb) | [Crack Cocaine](https://open.spotify.com/album/4u9d35U27Iy0lK5Z0zxeXF) | 4:01 |
-| 54 | [Devil You Know](https://open.spotify.com/track/3VfLRvfDdy7iXW057kPm2x) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Devil You Know](https://open.spotify.com/album/1JHMeaoUwnGzpen1EOSYie) | 2:58 |
+| 54 | [Devil You Know](https://open.spotify.com/track/3VfLRvfDdy7iXW057kPm2x) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Devil You Know](https://open.spotify.com/album/1JHMeaoUwnGzpen1EOSYie) | 2:59 |
 | 55 | [Need A Favor](https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:17 |
 | 56 | [Look Alive \(Netic\)](https://open.spotify.com/track/4LAI7qgpkx8uoMdpobZrPg) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Melanin Punk](https://open.spotify.com/album/0l0pfg7fOxU9YHQkHhXTTD) | 3:13 |
 | 57 | [Below The Belt \(feat\. Set It Off\)](https://open.spotify.com/track/1kTWMMX7LjK8a2GnpKVRlM) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Below The Belt \(feat\. Set It Off\)](https://open.spotify.com/album/5PpGvWHxcI2ddJ94i3KTGj) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 74 | [READY ROCK](https://open.spotify.com/track/6j2OrgBeuEa8NdVHXk78FS) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [READY ROCK](https://open.spotify.com/album/17a1MLeP2CGHvkPRuBQRLs) | 2:46 |
 | 75 | [I Still Believe](https://open.spotify.com/track/1atc0z1xkg02bSjkfkpOUv) | [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [I Still Believe](https://open.spotify.com/album/5yK0LHapGQcaUFeyKkjfZG) | 2:54 |
 
-Snapshot ID: `MCwyN2RmYWM1ZTc0MWU1MTYwYjk3YzBmMzlhODJlMzJkYWFmNDBiMGUz`
+Snapshot ID: `MCxiOTJkZDgwM2Q4ODQzZTcwMGRmZTJhNzgyNmViYzIyNWRmMGVjMmRl`

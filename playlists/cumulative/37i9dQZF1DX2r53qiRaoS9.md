@@ -4,7 +4,7 @@
 
 > Warm Up! Burn! Cooldown! Ready, Steady, move to Bhangra.
 
-59 songs - 3 hr 4 min
+60 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Outfit \(From "Ujda Chaman"\)](https://open.spotify.com/track/1D3I1pyiuOCwvTWlg1sldd) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Outfit \(From "Ujda Chaman"\)](https://open.spotify.com/album/0Z0glAuviNSDGRsa6xNK1w) | 2:41 | 2023-06-05 | 2023-12-19 |
 | [Panjeban](https://open.spotify.com/track/5UpDw777uj0nvw6dtDRjw7) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Panjeban](https://open.spotify.com/album/05IH45QvIWWy7g77Cd9uzB) | 3:20 | 2023-06-05 |  |
 | [Pasand Jatt Di \(From "Qismat"\)](https://open.spotify.com/track/6PpAjLBEPg6pWS2zRM2aaP) | [Sukh\-E Muzical Doctors](https://open.spotify.com/artist/4xNrcA9hST3uGNpsZ5kG7q), [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Pasand Jatt Di \(From "Qismat"\) \- Single](https://open.spotify.com/album/0kJA5yHLsDMA0cll0LitIB) | 3:14 | 2023-06-05 |  |
-| [Prada](https://open.spotify.com/track/3cdEx2rKrEdZ2Vj3AcSDt2) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Shreya Sharma](https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5) | [Prada](https://open.spotify.com/album/2JZmViMjoYTqnTvtkkTloI) | 3:05 | 2023-06-05 |  |
+| [Prada](https://open.spotify.com/track/3cdEx2rKrEdZ2Vj3AcSDt2) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Shreya Sharma](https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5) | [Prada](https://open.spotify.com/album/2JZmViMjoYTqnTvtkkTloI) | 3:05 | 2023-06-05 | 2024-03-27 |
+| [PRADA](https://open.spotify.com/track/4CxTBbdPUiwk2dSUrcg9CD) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Shreya Sharma](https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5) | [PRADA](https://open.spotify.com/album/2dhSH8zRnAcGhCk0P4GGWC) | 3:05 | 2024-02-02 |  |
 | [Proper Patola](https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Namaste England \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qokplIH6RyEbm9Q2DiBQB) | 2:58 | 2023-06-05 |  |
 | [Pyaar Tenu Karda Gabru \(From "Shubh Mangal Zyada Saavdhan"\)](https://open.spotify.com/track/0OcVZqIer0LLu3K8sdU5Yb) | [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Pyaar Tenu Karda Gabru \(From "Shubh Mangal Zyada Saavdhan"\)](https://open.spotify.com/album/4FSDkGEXFPKgmrnxHNvp2Y) | 2:45 | 2023-06-05 |  |
 | [Sauda Khara Khara \- From "Good Newwz"](https://open.spotify.com/track/7Fq769JN9wwaVHUgVdkxNg) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sukhbir](https://open.spotify.com/artist/7bcSOvqOKoyZqU41p5YuoJ), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Sauda Khara Khara \(From "Good Newwz"\)](https://open.spotify.com/album/4s111tHGrcnzOoZpIxijX5) | 3:31 | 2023-12-18 |  |

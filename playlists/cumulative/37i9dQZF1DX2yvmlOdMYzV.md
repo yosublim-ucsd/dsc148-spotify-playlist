@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-660 songs - 1 day 12 hr 14 min
+661 songs - 1 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [Just A Little](https://open.spotify.com/track/3SOL11Sz3MwFoCye7r8gQW) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Chekhov's Gun](https://open.spotify.com/album/5Ej0IOSmRQbb1o961TqMzG) | 3:41 | 2023-06-09 | 2023-10-29 |
 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 | 2023-02-16 | 2023-09-18 |
 | [Just Friends](https://open.spotify.com/track/4fECQCAJRoonwoGXi898an) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Mayila](https://open.spotify.com/artist/0hgXW6IxEjc5qbrvZbiD2O) | [Just Friends](https://open.spotify.com/album/14thQ7BVtbG7elqv2OrumA) | 2:57 | 2024-02-17 | 2024-03-23 |
-| [Kaleidoscope](https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Kaleidoscope](https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ) | 3:19 | 2023-04-07 |  |
+| [Kaleidoscope](https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Kaleidoscope](https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ) | 3:19 | 2023-04-07 | 2024-03-27 |
 | [Kendrick \- Too Hot Outside Edit](https://open.spotify.com/track/3agOGtAAYH5dH0h8AoZXn3) | [Anushka](https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody) | [Kendrick](https://open.spotify.com/album/1Cj7R7Gp0rO6q5bSuAiFEe) | 3:38 | 2021-12-15 | 2022-04-19 |
 | [Khala My Friend](https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy) | [Amanaz](https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt) | [Africa](https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3) | 3:23 | 2021-12-15 | 2023-03-11 |
 | [Kimmi](https://open.spotify.com/track/4PICq5Ndi0cEWsyRAEWED6) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [I'll Miss You](https://open.spotify.com/album/1Rmb0T7FGzLK9fOrZHmwyz) | 4:34 | 2021-12-15 | 2022-07-29 |
@@ -545,6 +545,7 @@
 | [Space is the Place](https://open.spotify.com/track/38PFECJBX4yGhiHFH9XgYX) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [You Can't Steal My Joy](https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl) | 2:34 | 2021-12-15 | 2023-01-28 |
 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 | 2023-06-30 | 2023-09-09 |
 | [Spooky \- Recorded at RAK Studios, London](https://open.spotify.com/track/2y0odeTeYsxWvYQ5rYANu0) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Spotify Singles](https://open.spotify.com/album/0aqv2HD8GPGDDM0CokS0Fk) | 3:41 | 2021-12-15 | 2022-04-08 |
+| [Star](https://open.spotify.com/track/2QKzMseogTEJuEqVkESSUS) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv), [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Star](https://open.spotify.com/album/38UFOxnEdJVaNsMqeOVePI) | 3:55 | 2024-03-22 |  |
 | [Starts with a Text](https://open.spotify.com/track/55PclVSKZK3aLxxARrZ0DW) | [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Starts with a Text](https://open.spotify.com/album/04fKp2Y7ThOEUstlz9C3SY) | 2:59 | 2023-01-27 | 2023-03-11 |
 | [Stay](https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Blue](https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH) | 4:30 | 2021-12-15 |  |
 | [STAY HERE](https://open.spotify.com/track/4szGWqPeGsVeZLpAytmh46) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [STAY HERE \(feat\. Amaria\)](https://open.spotify.com/album/58lZ1th8kkoMJ0O7jd1jJp) | 4:27 | 2023-07-07 | 2024-01-13 |

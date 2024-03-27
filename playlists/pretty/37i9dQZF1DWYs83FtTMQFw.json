@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks of today ft. SZA, 4batz, Drake and more.",
-  "num_followers": 2286529,
+  "num_followers": 2286877,
   "original_name": "Hot Rhythmic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWI3Mzg1Mjk3ODQ3OTJjNmIxZmNlNmQwZDFhOGE2NGE5M2JkMzA2",
+  "snapshot_id": "MCwxZTllMTk4Y2ZmOWYyYjg0ZmRiNDdmM2I1ZDgxYWMzNGZiNDA1MmMz",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -380,12 +380,12 @@
           "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
         },
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
           "name": "9lives",
           "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
       "duration_ms": 151839,

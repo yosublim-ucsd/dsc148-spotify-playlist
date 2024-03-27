@@ -4,11 +4,12 @@
 
 > Stay focused with electronic and trap beats.
 
-361 songs - 16 hr 41 min
+365 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2](https://open.spotify.com/track/6NSnzxpvIvORdC3EsTIdd2) | [squeezy X](https://open.spotify.com/artist/6H015tYdaj2rRNR9YOX5b9) | [Aphro Deezy](https://open.spotify.com/album/6ODZgjrMDeXErOdsmhgYPG) | 3:14 | 2021-08-26 |  |
+| [24k](https://open.spotify.com/track/1t7gEDMO1GigErhWBDpOuv) | [FourFiveNyne](https://open.spotify.com/artist/2YhKD44kUXGZZ58RhrFWD6) | [24k](https://open.spotify.com/album/2tJNLmGBN978TVsOR8ZBPL) | 2:20 | 2024-03-26 |  |
 | [30 30](https://open.spotify.com/track/65sdOSWPi0yNwqTkgR7pJK) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [30 30](https://open.spotify.com/album/2SgXvw9j5YcmyarliH5nct) | 3:10 | 2022-08-19 |  |
 | [500 gr.](https://open.spotify.com/track/6SJmVvwqAnGCdpEyTE6HvE) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [500 gr.](https://open.spotify.com/album/1txGawwmq3xShlmzfPg2mx) | 3:37 | 2021-09-10 | 2021-10-14 |
 | [A Cruel Angel's Thesis \(From "Neon Genesis Evangelion"\) \- Calmadò Remix](https://open.spotify.com/track/2Ve3UUmJtUzXjo1iOjVVyg) | [Calmadò](https://open.spotify.com/artist/44uFtT0wcd9MDJ7hSeJyHQ) | [A Cruel Angel's Thesis \(From "Neon Genesis Evangelion"\) \[Calmadò Remix\]](https://open.spotify.com/album/2WXBxDS4HFf6cfJDIVQKyD) | 2:20 | 2021-07-09 | 2021-10-14 |
@@ -25,6 +26,7 @@
 | [Apocalypse](https://open.spotify.com/track/5u0XFEuy08KLJIxawYnkjo) | [BlackFrost](https://open.spotify.com/artist/1Wmkb9aWIvUb2h7q6MSHzI) | [Awakening](https://open.spotify.com/album/44i8vDWmQGXQwoK33zeXTS) | 2:03 | 2021-04-26\* | 2021-09-10 |
 | [Arian](https://open.spotify.com/track/0qOKwBICWzPtScjJjuLLkv) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Arian](https://open.spotify.com/album/32w458f4xQdJZp3rjLsFnR) | 1:52 | 2021-09-10 | 2024-02-14 |
 | [Ascend](https://open.spotify.com/track/0Gybm8PWOmYTQG4Bjqxh0f) | [DayoffSounds](https://open.spotify.com/artist/50Dn3JAzqpZVKtcykEz8NE) | [Instrumental Gems, Vol\. 1](https://open.spotify.com/album/0dvyfEiOU5Wks9vPjEQhfb) | 2:33 | 2021-07-09 | 2021-10-14 |
+| [Assembly](https://open.spotify.com/track/5mgflX71JVHpVomQoQGhnG) | [BamJam](https://open.spotify.com/artist/3CWbOX4o8QeOTB28g9nnf2) | [Assembly](https://open.spotify.com/album/76h4O2dQCZYyWEzSuzh2bv) | 2:41 | 2024-03-26 |  |
 | [Astro Beat](https://open.spotify.com/track/4U6d6txn9S3BV6MrFefQuI) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [Astro Beat](https://open.spotify.com/album/2NY3CbNis1x7g34As1kKqc) | 3:41 | 2021-07-09 | 2021-08-26 |
 | [Ataraxis](https://open.spotify.com/track/0CWViXbXU67Xto3hbeHcPI) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Ascension](https://open.spotify.com/album/0G43axY2mZJzvnM7gHI0yq) | 3:16 | 2021-07-09 | 2022-09-15 |
 | [Ataraxis](https://open.spotify.com/track/16uSBcWTIq2kDzgoUGy7Pl) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Ataraxis](https://open.spotify.com/album/6jJ3D7mfIcq085Oo52SgqZ) | 3:16 | 2022-09-09 |  |
@@ -243,6 +245,7 @@
 | [PITS](https://open.spotify.com/track/0mjK7y2U7jDEaQTrPytWpi) | [Nowhere Now Here](https://open.spotify.com/artist/28VTxH3Tc2T5tamVQGYnI6) | [PITS](https://open.spotify.com/album/0S2NAqlM9yKiAaCYB6EGsp) | 2:20 | 2023-07-19 |  |
 | [Player Haters](https://open.spotify.com/track/4CBaPRru0HxmZ5GHPBpdwQ) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Anthony's Surprise](https://open.spotify.com/album/6NXaEvZCo7hPLjsFWL4Zf6) | 3:03 | 2023-07-19 |  |
 | [Polar](https://open.spotify.com/track/7KJYDU7raK2L0vDotprkHv) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Polar](https://open.spotify.com/album/3TG55vTamoL1gqJzRThCe5) | 2:42 | 2021-11-10 |  |
+| [Pollution](https://open.spotify.com/track/5bEuOEohMirZGj6kVUKTFV) | [Casiiwool](https://open.spotify.com/artist/5KutRizSdKD7jYEhULGXKu) | [Pollution](https://open.spotify.com/album/59ClEdPWnq2y8FXYCRiUTk) | 2:41 | 2024-03-26 |  |
 | [Powerwalk](https://open.spotify.com/track/2ph6ScN92MMhfJQfRrU1nJ) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Wheel of Life](https://open.spotify.com/album/2SwyzaK73I5ynws5UNyfyg) | 2:56 | 2021-04-26\* | 2021-06-18 |
 | [Presi Face](https://open.spotify.com/track/52v3ynq7TeiusKESiwUIRv) | [Jharee](https://open.spotify.com/artist/1h8ZzbKCnh7wCxDH8Z3iJi) | [Presi Face](https://open.spotify.com/album/2elmCoxrHi4lsKaIuMfjV7) | 3:10 | 2022-05-27 |  |
 | [Primetime](https://open.spotify.com/track/6ykb5iNlaQvvK2dDnKdGVq) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Midas Touch](https://open.spotify.com/album/0MZgSxNdAJyb1IN6y2Z2AE) | 2:21 | 2021-04-26\* | 2021-08-26 |
@@ -340,6 +343,7 @@
 | [Under Blue](https://open.spotify.com/track/7CEycuhaJ8aR9fJlRIlt2u) | [Mooshy](https://open.spotify.com/artist/25CodL66ToRkp4p6b86S5I) | [Under Blue](https://open.spotify.com/album/2OEPCvtFSVgaQzVDcqGX61) | 2:27 | 2022-12-23 |  |
 | [Unfaithful](https://open.spotify.com/track/0PhO372l28G96GYTAIguhO) | [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [Unfaithful](https://open.spotify.com/album/4lAcr0NSO9OF06inxnKITz) | 2:36 | 2022-06-17 | 2022-07-29 |
 | [Unfeeling](https://open.spotify.com/track/4T0BMGKEt5MeIdrhfD8TWm) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Nothing Lasts](https://open.spotify.com/album/23OWJHbhF5o0NRe7GWUS6O) | 2:53 | 2022-10-28 |  |
+| [Unimerse](https://open.spotify.com/track/4zG5rjF0PLcuVu6u43OgQD) | [Push N' Glide](https://open.spotify.com/artist/6PSNxYsazdREPJeS9XnUjA) | [Unimerse](https://open.spotify.com/album/7lfcSg7ikGV3p1Zbd91e61) | 3:12 | 2024-03-26 |  |
 | [Valley of Sin](https://open.spotify.com/track/3i6llm3O6vCS5jJZsiucSU) | [Demon Hyde](https://open.spotify.com/artist/1uNOwLCW6VYqcymgPCLZE6) | [Valley of Sin](https://open.spotify.com/album/4dyODljQRo2WScYKMaxfRw) | 2:26 | 2024-01-19 |  |
 | [Vaporize](https://open.spotify.com/track/6N7Hgy6ZpFxdK8rxXZh9TB) | [Squiid](https://open.spotify.com/artist/7g0KymGegEPhis87m1lWWm) | [Pandoras Box / Vaporize](https://open.spotify.com/album/1ocggLB9OdafNBm5OLXDai) | 3:24 | 2021-04-26\* | 2022-05-20 |
 | [Vermilion](https://open.spotify.com/track/2jTt400XuvBW6EhMASvVEY) | [Loe Moe](https://open.spotify.com/artist/7wKZzfuAPYrjb3kMCQX6II) | [Vermilion](https://open.spotify.com/album/4XBG6OzeLRBakz8V8WVDxI) | 2:49 | 2021-10-14 |  |

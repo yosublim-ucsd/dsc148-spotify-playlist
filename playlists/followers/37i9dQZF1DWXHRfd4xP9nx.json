@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 49034,
+  "2024-03-27": 49062,
   "date_first_scraped": "2023-10-23",
   "description": "Uma chuva calma e tranquila para te fazer companhia.",
   "name": "Chuva Leve",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 180000,
       "name": "Abacos (Rain)",
       "url": "https://open.spotify.com/track/2eIEk2o3XtzmjyE5wVgttP"
@@ -2861,7 +2861,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 181000,
       "name": "Nopiming Rain",
       "url": "https://open.spotify.com/track/0gUX6bHRIW2ow9uEgsW2Co"
@@ -3311,7 +3311,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 175833,
       "name": "Rain All Night",
       "url": "https://open.spotify.com/track/4Xo8r5FeWsiJSuku38tVAH"
@@ -4197,6 +4197,24 @@
       "duration_ms": 129000,
       "name": "Raining Me Softly",
       "url": "https://open.spotify.com/track/4CTDJG3F26MUJEwnJ2fhJh"
+    },
+    {
+      "album": {
+        "name": "Raining Through The Night",
+        "url": "https://open.spotify.com/album/0HaCBoTn0tHkCGe0ArR7nH"
+      },
+      "artists": [
+        {
+          "name": "The Nightgate",
+          "url": "https://open.spotify.com/artist/5Q3USAuNC7NpbhO9JqN2uK"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184173,
+      "name": "Raining Through The Night",
+      "url": "https://open.spotify.com/track/0EVnTfAZHE6wWkCnxugHmq"
     },
     {
       "album": {

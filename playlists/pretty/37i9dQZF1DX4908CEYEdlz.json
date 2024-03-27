@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Kings of Leon",
-  "num_followers": 676186,
+  "num_followers": 676174,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2Y5YjIzYTdiYzU5NDkwYjNmZGQ4M2JjZGFmNzQ5ZGZhMTk4Nzhh",
+  "snapshot_id": "MCw5ZDRkMDBhZTk1Nzk4YjM3ZjllYWQwNmIxZTRiOWFmNDEzZWFmYTlj",
   "tracks": [
     {
       "added_at": "2024-03-22 03:01:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "One Eyed Bastard",
-        "url": "https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 172899,
-      "name": "One Eyed Bastard",
-      "url": "https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "CMF2",
         "url": "https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 184215,
       "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
       "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "One Eyed Bastard",
+        "url": "https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 172899,
+      "name": "One Eyed Bastard",
+      "url": "https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Dilemma",
-        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 198324,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Mars To Liverpool",
         "url": "https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi"
       },
@@ -327,6 +311,22 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 198324,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "Starcatcher",
         "url": "https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE"
       },
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 459120,
+      "name": "72 Seasons",
+      "url": "https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "Welcome To My House",
         "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
       },
@@ -411,18 +427,18 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+        "name": "LIES WE TELL OURSELVES",
+        "url": "https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 459120,
-      "name": "72 Seasons",
-      "url": "https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js"
+      "duration_ms": 207931,
+      "name": "LIES WE TELL OURSELVES",
+      "url": "https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -495,22 +511,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "LIES WE TELL OURSELVES",
-        "url": "https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 207931,
-      "name": "LIES WE TELL OURSELVES",
-      "url": "https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "CMF2",
         "url": "https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Blood In The Water",
-        "url": "https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI"
-      },
-      "artists": [
-        {
-          "name": "Ayron Jones",
-          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
-        }
-      ],
-      "duration_ms": 217582,
-      "name": "Blood In The Water",
-      "url": "https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Lighting Up The Sky",
         "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 245099,
       "name": "Soul On Fire",
       "url": "https://open.spotify.com/track/1Pgd9JfKgEe1UkmlnR57hL"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Blood In The Water",
+        "url": "https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI"
+      },
+      "artists": [
+        {
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
+        }
+      ],
+      "duration_ms": 217582,
+      "name": "Blood In The Water",
+      "url": "https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Hotel Kalifornia (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2QmovINf6cQMuNTTZYNBWi"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 215643,
-      "name": "Salvation",
-      "url": "https://open.spotify.com/track/7lLjB1RVkIG3CangYngvtJ"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "GODMODE",
         "url": "https://open.spotify.com/album/2c1e4GA90vn9Arbo4b8CU7"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 190271,
       "name": "ARMY OF ME",
       "url": "https://open.spotify.com/track/2AVYRVgHgIhRPs8a1d4ynL"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Hotel Kalifornia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2QmovINf6cQMuNTTZYNBWi"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 215643,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/7lLjB1RVkIG3CangYngvtJ"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -651,6 +651,22 @@
       "duration_ms": 248511,
       "name": "Poor Boy a Long Way From Home",
       "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Lighting Up The Sky",
+        "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 316979,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/3vbUfrHlvij1EiBW2CgFEs"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -703,18 +719,18 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Lighting Up The Sky",
-        "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
+        "name": "Feast Of Fire",
+        "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
       },
       "artists": [
         {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 316979,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/3vbUfrHlvij1EiBW2CgFEs"
+      "duration_ms": 258837,
+      "name": "Feast Of Fire",
+      "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -731,22 +747,6 @@
       "duration_ms": 182526,
       "name": "High on Me",
       "url": "https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "Feast Of Fire",
-        "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 258837,
-      "name": "Feast Of Fire",
-      "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Chaos In Bloom",
-        "url": "https://open.spotify.com/album/2uHbskNXxJFARyl686aN6T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 238720,
-      "name": "Going Crazy",
-      "url": "https://open.spotify.com/track/4roPy7UCHujegMBkutBawy"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Cut The Line",
         "url": "https://open.spotify.com/album/3rv2w5JJMNl3YCJXt5wPFw"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 209664,
       "name": "Cut The Line",
       "url": "https://open.spotify.com/track/4NsPN2aQZCrgraYbKoMKsO"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Chaos In Bloom",
+        "url": "https://open.spotify.com/album/2uHbskNXxJFARyl686aN6T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 238720,
+      "name": "Going Crazy",
+      "url": "https://open.spotify.com/track/4roPy7UCHujegMBkutBawy"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1179,7 +1179,7 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Dante XXI (2021 - Remaster)",
+        "name": "Dante XXI (2021 Remaster)",
         "url": "https://open.spotify.com/album/7rX8txeF5YyFsCbDvUxU3R"
       },
       "artists": [
@@ -1189,7 +1189,7 @@
         }
       ],
       "duration_ms": 269333,
-      "name": "Fighting On (2021 - Remaster)",
+      "name": "Fighting On - 2021 Remaster",
       "url": "https://open.spotify.com/track/1T9xnCIWFjJUHkOlIIqHOb"
     },
     {

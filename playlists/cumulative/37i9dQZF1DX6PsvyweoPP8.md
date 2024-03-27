@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-211 songs - 10 hr 20 min
+212 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Eu Presto](https://open.spotify.com/track/2yyG2gtYGsRbkH6BN816ep) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Eu Presto](https://open.spotify.com/album/0NQrQxJXvtaL7goJG29Z3I) | 2:32 | 2022-03-18 |  |
 | [Explícito](https://open.spotify.com/track/6NYqvbaeS7XgcUse43r20R) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Carol Andrade](https://open.spotify.com/artist/3fctTsft6lHY1Aqayr1Tj7) | [Explícito](https://open.spotify.com/album/110KVzMll2pkSCue4TKblu) | 3:20 | 2024-03-01 |  |
 | [Faz Assim Mozão](https://open.spotify.com/track/5Y9Ovmryvd6AAxRo20UWR3) | [PTK](https://open.spotify.com/artist/4M7XfX7J0sw520nrZXkbpL), [Bero Costa DJ](https://open.spotify.com/artist/4m3zOv7q3RCCDkEI506vxD), [Signobeat](https://open.spotify.com/artist/2oyDLcP8d7oXp4rWHNIXol) | [Faz Assim Mozão](https://open.spotify.com/album/5CcgaUjR3LI7WSnwARqJCw) | 2:59 | 2022-12-23 |  |
-| [Fazer Oque :/](https://open.spotify.com/track/3r97yuGCqBhH0LmgM2SW75) | [D3cker](https://open.spotify.com/artist/5YurNLeTXZ7DdkAuNDDZsx), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Skarzin](https://open.spotify.com/artist/6D54GXqZUfKZFbmxVYpBrI) | [Fazer Oque :/](https://open.spotify.com/album/20ZQMMfRzh4ccunH62Qb1e) | 2:17 | 2023-08-18 |  |
+| [Fazer Oque :/](https://open.spotify.com/track/4RSQPyQTghwGwG7WAhBROT) | [D3cker](https://open.spotify.com/artist/5YurNLeTXZ7DdkAuNDDZsx), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Skarzin](https://open.spotify.com/artist/6D54GXqZUfKZFbmxVYpBrI) | [Fazer Oque :/](https://open.spotify.com/album/2pBZXvgrEK4OAfa9CRXXEZ) | 2:17 | 2024-03-22 |  |
+| [Fazer Oque :/](https://open.spotify.com/track/3r97yuGCqBhH0LmgM2SW75) | [D3cker](https://open.spotify.com/artist/5YurNLeTXZ7DdkAuNDDZsx), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Skarzin](https://open.spotify.com/artist/6D54GXqZUfKZFbmxVYpBrI) | [Fazer Oque :/](https://open.spotify.com/album/20ZQMMfRzh4ccunH62Qb1e) | 2:17 | 2023-08-18 | 2024-03-27 |
 | [FDP](https://open.spotify.com/track/3LbPOVdMrVm8yBMDcb5s2F) | [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [FDP](https://open.spotify.com/album/1iLSwd1HT54A9EDI3w2F5F) | 2:15 | 2022-12-16 | 2023-03-25 |
 | [Fetiches](https://open.spotify.com/track/1DKn6TWLuF9JYuOngK9gKq) | [Wilker](https://open.spotify.com/artist/6DxZiufdSdVSptIGiQvFB2), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Fetiches](https://open.spotify.com/album/2ZIc8smEdKWnoMuYGG1MOH) | 3:18 | 2023-04-28 |  |
 | [FILME](https://open.spotify.com/track/12jzQkI3F5VNdVgByUX0PW) | [Mirim](https://open.spotify.com/artist/1zWKOtdpMainVsbeOR6kk6) | [AGL](https://open.spotify.com/album/2W5bmF4OOyHXQSp1M1bAgG) | 2:33 | 2023-09-01 | 2023-09-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Kita Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,153 likes - 101 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,236 likes - 101 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 100 | [Superficial](https://open.spotify.com/track/4AdlOa29QpkflsV8L01ucW) | [Hey! Astro](https://open.spotify.com/artist/1kqvSaPRrMEjWr4wEi9pfl) | [Superficial](https://open.spotify.com/album/7CehTpnrO76WMHIHJ2ikKg) | 3:05 |
 | 101 | [Hat Hair](https://open.spotify.com/track/0ZSaYrcaQUDf4I3CCdaz1Q) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Hat Hair](https://open.spotify.com/album/4L0mrvm4RBHrkweUi9bFIQ) | 3:28 |
 
-Snapshot ID: `MCw3NDczN2QxYTkwMDhlZTY0M2E5MDBiZmFjN2I5MTA1MjA1M2ZkOGM0`
+Snapshot ID: `MCwzNGMwYjA5YjMxYjVjMWY2YjhlZDRkYzM5OWFjNjU4M2UyMzdiMTU4`

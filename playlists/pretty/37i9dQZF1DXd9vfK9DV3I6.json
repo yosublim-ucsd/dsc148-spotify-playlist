@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 309111,
+  "num_followers": 309282,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzYyODUyZDNiZGY4M2IzZDYyNTk5ZGJhNzZkODBiMDc2NjE3Y2Vm",
+  "snapshot_id": "MCw5Y2M4MjI0ZTI4ZTVmYjM1MTAyYWY0ODNiMmE1YTgyZjcxODBhODA1",
   "tracks": [
     {
       "added_at": "2024-03-13 08:19:05",
@@ -271,26 +271,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Dubai (Hussein Arbabi Remix)",
-        "url": "https://open.spotify.com/album/6HHFMRIzXD7lCl6XvuknSl"
-      },
-      "artists": [
-        {
-          "name": "DNDM",
-          "url": "https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA"
-        },
-        {
-          "name": "Hussein Arbabi",
-          "url": "https://open.spotify.com/artist/23ee8DsQnOD2MfvDh5uJrT"
-        }
-      ],
-      "duration_ms": 333618,
-      "name": "Dubai (Hussein Arbabi Remix)",
-      "url": "https://open.spotify.com/track/1VNAGi3gYuZIFA3t9nbC9G"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Orient Spirit",
         "url": "https://open.spotify.com/album/5LuVSGPgIS5cgo3TbonA3m"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 147976,
       "name": "Orient Spirit",
       "url": "https://open.spotify.com/track/02BR08RbCSnp8yBBZLr6sO"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Dubai (Hussein Arbabi Remix)",
+        "url": "https://open.spotify.com/album/6HHFMRIzXD7lCl6XvuknSl"
+      },
+      "artists": [
+        {
+          "name": "DNDM",
+          "url": "https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA"
+        },
+        {
+          "name": "Hussein Arbabi",
+          "url": "https://open.spotify.com/artist/23ee8DsQnOD2MfvDh5uJrT"
+        }
+      ],
+      "duration_ms": 333618,
+      "name": "Dubai (Hussein Arbabi Remix)",
+      "url": "https://open.spotify.com/track/1VNAGi3gYuZIFA3t9nbC9G"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -531,6 +531,26 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Moulayiten",
+        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Ahmad Sleiman",
+          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
+        }
+      ],
+      "duration_ms": 297593,
+      "name": "Moulayiten",
+      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Dle Yaman (116 Deep Mix)",
         "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
       },
@@ -567,26 +587,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "My Name Is Tokyo",
-        "url": "https://open.spotify.com/album/46xD9eLKb1BeoIvB6vkw7v"
-      },
-      "artists": [
-        {
-          "name": "Ilkan Gunuc",
-          "url": "https://open.spotify.com/artist/02vT04WkgQ8dO4f1GLMTP9"
-        },
-        {
-          "name": "Emrah Turken",
-          "url": "https://open.spotify.com/artist/5J4Z1x3652wBUvuci5gVXe"
-        }
-      ],
-      "duration_ms": 172216,
-      "name": "My Name Is Tokyo",
-      "url": "https://open.spotify.com/track/0JZv3A589Gt4wFSHxOYWxq"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Le Beirut",
         "url": "https://open.spotify.com/album/7MQQTBdzZwwH5nlLR4AlXX"
       },
@@ -607,42 +607,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Moulayiten",
-        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
+        "name": "My Name Is Tokyo",
+        "url": "https://open.spotify.com/album/46xD9eLKb1BeoIvB6vkw7v"
       },
       "artists": [
         {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+          "name": "Ilkan Gunuc",
+          "url": "https://open.spotify.com/artist/02vT04WkgQ8dO4f1GLMTP9"
         },
         {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
+          "name": "Emrah Turken",
+          "url": "https://open.spotify.com/artist/5J4Z1x3652wBUvuci5gVXe"
         }
       ],
-      "duration_ms": 297593,
-      "name": "Moulayiten",
-      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/0QbS1GUJgoVoM21wlHDIs9"
-      },
-      "artists": [
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        },
-        {
-          "name": "K\u00e1llay Saunders",
-          "url": "https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj"
-        }
-      ],
-      "duration_ms": 201125,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/0oe5TCBBSszAglzUynjiUy"
+      "duration_ms": 172216,
+      "name": "My Name Is Tokyo",
+      "url": "https://open.spotify.com/track/0JZv3A589Gt4wFSHxOYWxq"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -663,6 +643,26 @@
       "duration_ms": 262647,
       "name": "Journey - Mahmut Orhan Remix",
       "url": "https://open.spotify.com/track/3ePcCqdWyYvtyKY95qjCZ0"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/0QbS1GUJgoVoM21wlHDIs9"
+      },
+      "artists": [
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        },
+        {
+          "name": "K\u00e1llay Saunders",
+          "url": "https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj"
+        }
+      ],
+      "duration_ms": 201125,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/0oe5TCBBSszAglzUynjiUy"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/5Rqz7SWCbh3bZ5ny8tN36t"
+      },
+      "artists": [
+        {
+          "name": "Shkoon",
+          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
+        },
+        {
+          "name": "JAVID",
+          "url": "https://open.spotify.com/artist/6rcpZJj6qCAAYEqbDR7oif"
+        }
+      ],
+      "duration_ms": 551025,
+      "name": "Ala Moj Al Bahr - Javid Remix",
+      "url": "https://open.spotify.com/track/5l4PuZcYTIpFPpzPdfdSlj"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Prophecies of the Ancient Future",
         "url": "https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH"
       },
@@ -1255,22 +1275,18 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Letters",
-        "url": "https://open.spotify.com/album/5Rqz7SWCbh3bZ5ny8tN36t"
+        "name": "Arabic Nights",
+        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
       },
       "artists": [
         {
-          "name": "Shkoon",
-          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
-        },
-        {
-          "name": "JAVID",
-          "url": "https://open.spotify.com/artist/6rcpZJj6qCAAYEqbDR7oif"
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
         }
       ],
-      "duration_ms": 551025,
-      "name": "Ala Moj Al Bahr - Javid Remix",
-      "url": "https://open.spotify.com/track/5l4PuZcYTIpFPpzPdfdSlj"
+      "duration_ms": 165333,
+      "name": "Arabic Nights",
+      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1295,22 +1311,6 @@
       "duration_ms": 97636,
       "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
       "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Arabic Nights",
-        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Arabic Nights",
-      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "La rose \u00e9ternelle",
-        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 270015,
-      "name": "La rose \u00e9ternelle",
-      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 196800,
       "name": "Mosaic",
       "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "La rose \u00e9ternelle",
+        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        }
+      ],
+      "duration_ms": 270015,
+      "name": "La rose \u00e9ternelle",
+      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Tawada",
         "url": "https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 435121,
       "name": "Tawada - Saint Evo Remix",
       "url": "https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/0VCPlHKrNaXBmvDLuXdBVH"
+      },
+      "artists": [
+        {
+          "name": "Berat Oz",
+          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/6swUlpIZQ3ogPdfnn2Sh5Y"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Hayati",
         "url": "https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 484644,
       "name": "Hebele Hubulu",
       "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Eternal Roots",
-        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
-      },
-      "artists": [
-        {
-          "name": "SAFAR",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        }
-      ],
-      "duration_ms": 305005,
-      "name": "Eternal Roots",
-      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
     },
     {
       "added_at": "2024-03-13 08:19:05",

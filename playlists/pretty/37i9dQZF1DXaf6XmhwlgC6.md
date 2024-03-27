@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus and study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,528 likes - 206 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,563 likes - 206 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,19 +16,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 6 | [Submerse](https://open.spotify.com/track/5xVEKVMskuh7swhSZ34s2B) | [Andrew Land](https://open.spotify.com/artist/20DtfXEcnCgoWY9b35nPXk) | [Submerse](https://open.spotify.com/album/51rKwdDlgPKoZjKUcdlFS7) | 2:52 |
 | 7 | [Anticipation](https://open.spotify.com/track/2kquN2eOnCnY4oK8QiJvUd) | [Space Access](https://open.spotify.com/artist/1s2VXzYMLAHNVLNohNAmQy) | [Anticipation](https://open.spotify.com/album/3Ug6zLk4vJ4V99LXOG3Wk2) | 2:59 |
 | 8 | [farewells](https://open.spotify.com/track/1EoaRggXd8RBKp4uFYB6PW) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Under the Weather](https://open.spotify.com/album/22nxXrvNWalmBOHUQkE85D) | 2:22 |
-| 9 | [Stars Aligned](https://open.spotify.com/track/174Qm1we2PpksdAwRftfts) | [Light of Sun](https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf) | [Stars Aligned](https://open.spotify.com/album/2iZmpvPnSUy2HiUcUsjAkx) | 3:09 |
-| 10 | [Mulberry](https://open.spotify.com/track/0YOglzVvXxbxukOXZ61ZaP) | [Harry Bloom](https://open.spotify.com/artist/0nACN1QCrIGr7S2ATgH5ja) | [Pastel Skies](https://open.spotify.com/album/2mdlqHvs5eQm49ZRqBcGZ4) | 2:01 |
-| 11 | [Take Some Time](https://open.spotify.com/track/0kxt7uTJNVt4F2cFSpXue8) | [Skyrios](https://open.spotify.com/artist/55uEL0DabWyI3Yv8dt1Y0Q) | [Take Some Time](https://open.spotify.com/album/08z23SckSlbseclzjxRy7f) | 2:19 |
-| 12 | [Fell into Falling](https://open.spotify.com/track/6dmgkJpjuJqloIwtx44QFy) | [Aguto Rising](https://open.spotify.com/artist/3L7kF3nc7Xv5oFW6T4sZfG), [Revelation Beats](https://open.spotify.com/artist/4CmNxkpN8gd4M1HeY88Gbm) | [Fell into Falling](https://open.spotify.com/album/7MNBd9D7EcfyNEa66hkt3S) | 2:53 |
-| 13 | [Lunar Rainbow](https://open.spotify.com/track/1NMxmBVNn7fP2nzl8dzHrj) | [Louaminé](https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF) | [Lunar Rainbow](https://open.spotify.com/album/4ErS1KMmmBecV5ZCmVUs4V) | 2:27 |
-| 14 | [Reunions](https://open.spotify.com/track/47ezbpr8ZmZROWawkLax2D) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Reunions](https://open.spotify.com/album/3q05MKglhtaMC6a3v1TJeA) | 2:36 |
-| 15 | [Displace](https://open.spotify.com/track/4PSh6Xs1SIXT6JEAz8QGYk) | [Oblivion](https://open.spotify.com/artist/5bay23a7lnykOEQWt7FVnQ) | [Displace](https://open.spotify.com/album/0T0ham97bER92N0nshZX97) | 2:20 |
-| 16 | [Pressure point](https://open.spotify.com/track/6xFp7SSpgtxDV1L3jwmees) | [Halcyon](https://open.spotify.com/artist/6uKnnABqlxCnC40GjvgkP1) | [Pressure point](https://open.spotify.com/album/7D1yzUcHzPXtBPn8KJTYxd) | 2:56 |
-| 17 | [Cherokee Point](https://open.spotify.com/track/4Lf8xGr7jJh4LL4nPxU3ZO) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Cherokee Point](https://open.spotify.com/album/1G4n8tLjpGW45AzOzXNTf3) | 2:10 |
-| 18 | [Dream Feed](https://open.spotify.com/track/6bW51gk3OMgPBb8UE8deEV) | [Valedictorian](https://open.spotify.com/artist/7462TK0rDK0xZvVXEaMUOa) | [Dream Feed](https://open.spotify.com/album/0Lx6LZrxx3ALJ8x0vi3qQy) | 2:36 |
-| 19 | [Levitate](https://open.spotify.com/track/1rGnzd7MyIyNW3BW7qaGf9) | [Lykke Juno](https://open.spotify.com/artist/6cJCpDjNQBjGqBNB453M9J) | [Levitate](https://open.spotify.com/album/3YL3vJTN2gvf61j8iJSfFI) | 2:26 |
-| 20 | [Lose The Distraction](https://open.spotify.com/track/27BvJqf3phlbQGYTyXBSu3) | [Distant Waves](https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG) | [Lose The Distraction](https://open.spotify.com/album/3os1dyXtbVtpUO7kTvxWqD) | 3:55 |
-| 21 | [Ledges](https://open.spotify.com/track/58XQ5QMrzsppJC1j95ZE6N) | [Kal Koren](https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v) | [Ledges](https://open.spotify.com/album/2LweYJjFBluLUEYVdVTCcs) | 2:32 |
+| 9 | [Mulberry](https://open.spotify.com/track/0YOglzVvXxbxukOXZ61ZaP) | [Harry Bloom](https://open.spotify.com/artist/0nACN1QCrIGr7S2ATgH5ja) | [Pastel Skies](https://open.spotify.com/album/2mdlqHvs5eQm49ZRqBcGZ4) | 2:01 |
+| 10 | [Take Some Time](https://open.spotify.com/track/0kxt7uTJNVt4F2cFSpXue8) | [Skyrios](https://open.spotify.com/artist/55uEL0DabWyI3Yv8dt1Y0Q) | [Take Some Time](https://open.spotify.com/album/08z23SckSlbseclzjxRy7f) | 2:19 |
+| 11 | [Reunions](https://open.spotify.com/track/47ezbpr8ZmZROWawkLax2D) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Reunions](https://open.spotify.com/album/3q05MKglhtaMC6a3v1TJeA) | 2:36 |
+| 12 | [Cherokee Point](https://open.spotify.com/track/4Lf8xGr7jJh4LL4nPxU3ZO) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Cherokee Point](https://open.spotify.com/album/1G4n8tLjpGW45AzOzXNTf3) | 2:10 |
+| 13 | [Lose The Distraction](https://open.spotify.com/track/27BvJqf3phlbQGYTyXBSu3) | [Distant Waves](https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG) | [Lose The Distraction](https://open.spotify.com/album/3os1dyXtbVtpUO7kTvxWqD) | 3:55 |
+| 14 | [Dream Feed](https://open.spotify.com/track/6bW51gk3OMgPBb8UE8deEV) | [Valedictorian](https://open.spotify.com/artist/7462TK0rDK0xZvVXEaMUOa) | [Dream Feed](https://open.spotify.com/album/0Lx6LZrxx3ALJ8x0vi3qQy) | 2:36 |
+| 15 | [Fell into Falling](https://open.spotify.com/track/6dmgkJpjuJqloIwtx44QFy) | [Aguto Rising](https://open.spotify.com/artist/3L7kF3nc7Xv5oFW6T4sZfG), [Revelation Beats](https://open.spotify.com/artist/4CmNxkpN8gd4M1HeY88Gbm) | [Fell into Falling](https://open.spotify.com/album/7MNBd9D7EcfyNEa66hkt3S) | 2:53 |
+| 16 | [Levitate](https://open.spotify.com/track/1rGnzd7MyIyNW3BW7qaGf9) | [Lykke Juno](https://open.spotify.com/artist/6cJCpDjNQBjGqBNB453M9J) | [Levitate](https://open.spotify.com/album/3YL3vJTN2gvf61j8iJSfFI) | 2:26 |
+| 17 | [Displace](https://open.spotify.com/track/4PSh6Xs1SIXT6JEAz8QGYk) | [Oblivion](https://open.spotify.com/artist/5bay23a7lnykOEQWt7FVnQ) | [Displace](https://open.spotify.com/album/0T0ham97bER92N0nshZX97) | 2:20 |
+| 18 | [Ledges](https://open.spotify.com/track/58XQ5QMrzsppJC1j95ZE6N) | [Kal Koren](https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v) | [Ledges](https://open.spotify.com/album/2LweYJjFBluLUEYVdVTCcs) | 2:32 |
+| 19 | [Pressure point](https://open.spotify.com/track/6xFp7SSpgtxDV1L3jwmees) | [Halcyon](https://open.spotify.com/artist/6uKnnABqlxCnC40GjvgkP1) | [Pressure point](https://open.spotify.com/album/7D1yzUcHzPXtBPn8KJTYxd) | 2:56 |
+| 20 | [Stars Aligned](https://open.spotify.com/track/174Qm1we2PpksdAwRftfts) | [Light of Sun](https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf) | [Stars Aligned](https://open.spotify.com/album/2iZmpvPnSUy2HiUcUsjAkx) | 3:09 |
+| 21 | [Lunar Rainbow](https://open.spotify.com/track/1NMxmBVNn7fP2nzl8dzHrj) | [Louaminé](https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF) | [Lunar Rainbow](https://open.spotify.com/album/4ErS1KMmmBecV5ZCmVUs4V) | 2:27 |
 | 22 | [Warmed Rain](https://open.spotify.com/track/6d1tqEJjDt9uCDxl2hHTMe) | [Electric Rivers](https://open.spotify.com/artist/4ATjV5COMvZp7XfnELm7nV) | [Warmed Rain](https://open.spotify.com/album/3fBpYInTjqo9KIVf5bZO9q) | 2:31 |
 | 23 | [Tranquillity Coast](https://open.spotify.com/track/4pNApe3zxo7l2iv7ryP5t0) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V) | [Beyond Silence](https://open.spotify.com/album/4QYQk9sEi1k8a8T4Q98Duh) | 3:27 |
 | 24 | [Epiphany](https://open.spotify.com/track/2JCRMMJHw8miYdipCimJLh) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [Epiphany](https://open.spotify.com/album/7siWjOTKEkXUyTQCycRSPj) | 3:05 |
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 205 | [jubilance](https://open.spotify.com/track/4F21Bmd7GOjukwGjOUy67I) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [Great Heights, Great Falls](https://open.spotify.com/album/4PQdI5zCwFWpV3D2exeGSl) | 2:42 |
 | 206 | [Rectifier](https://open.spotify.com/track/2tIF7PmitHZi13Mc2dssPO) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Rectifier](https://open.spotify.com/album/6hclYDcLNlkaXAnVwgmOlP) | 2:32 |
 
-Snapshot ID: `MCxjMGI4MWRiNTE0YWM0NmFiMDQ1ZmRjYzdhZTgzMjY1ZmQwOTVhMWU4`
+Snapshot ID: `MCxhODU0MTVjNGU3ZmQxOGRhYjYwODg3MjMxZmQ1OGE5MmZhMzE4ZGI1`

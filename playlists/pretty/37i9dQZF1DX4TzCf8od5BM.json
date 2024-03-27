@@ -1,12 +1,12 @@
 {
   "description": "Sing-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.",
-  "num_followers": 55846,
+  "num_followers": 55856,
   "original_name": "Disney Junior Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjljZWQxMmZmMTlhOWQ0ZWMzMjYxYTkzOTJkN2NlMjZlMDE3ODJm",
+  "snapshot_id": "MCwzNzVmMmZlYmM2MGMxNWM4NzhmYTZlN2NiNWRjZTczZTRkNjgyNDEx",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -696,6 +696,10 @@
           "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
         },
         {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        },
+        {
           "name": "Sofia",
           "url": "https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali"
         }
@@ -1266,6 +1270,10 @@
         {
           "name": "\"Puppy Dog Pals\" Cast",
           "url": "https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
         }
       ],
       "duration_ms": 57789,
@@ -2602,6 +2610,10 @@
         {
           "name": "They Might Be Giants (For Kids)",
           "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
         }
       ],
       "duration_ms": 59920,
@@ -2998,6 +3010,10 @@
         {
           "name": "They Might Be Giants (For Kids)",
           "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
         }
       ],
       "duration_ms": 148093,
@@ -3014,6 +3030,10 @@
         {
           "name": "Mickey Mouse",
           "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
         }
       ],
       "duration_ms": 157573,

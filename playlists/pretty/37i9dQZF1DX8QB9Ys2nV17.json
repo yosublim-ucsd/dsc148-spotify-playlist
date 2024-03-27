@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 174954,
+  "num_followers": 174994,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDkwYWFiZGVjMWM0ZTZmZjFjOGViYjI2MmQwMWM1MmQ5OTUxMjk1",
+  "snapshot_id": "MCwwODBkNjllNDk0ODZmZTFmMzM2NTc4YjRjMTY1MDYyNWZmMjhhZGE0",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Out Of The Dark",
-        "url": "https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt"
-      },
-      "artists": [
-        {
-          "name": "Gr\u00e1inne Duffy",
-          "url": "https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y"
-        }
-      ],
-      "duration_ms": 215946,
-      "name": "Good Love Had To Die",
-      "url": "https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Hannah Wicklund and the Steppin Stones",
         "url": "https://open.spotify.com/album/6kP0lrd4sA5I698Z6Z5ug1"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 243396,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6LlpzicubW19YU70CJnhkm"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Out Of The Dark",
+        "url": "https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e1inne Duffy",
+          "url": "https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y"
+        }
+      ],
+      "duration_ms": 215946,
+      "name": "Good Love Had To Die",
+      "url": "https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -575,18 +575,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Heavy Hearts Hard Fists",
-        "url": "https://open.spotify.com/album/0fo7S7VAXlvSnmApHKJ2if"
+        "name": "The Lily",
+        "url": "https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8"
       },
       "artists": [
         {
-          "name": "Nikki Hill",
-          "url": "https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz"
+          "name": "Layla Zoe",
+          "url": "https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU"
+        },
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Heavy Hearts Hard Fists",
-      "url": "https://open.spotify.com/track/3s4ZPDlawFagjAr5yMRSMx"
+      "duration_ms": 370760,
+      "name": "Gemini Heart",
+      "url": "https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -607,22 +611,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "The Lily",
-        "url": "https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8"
+        "name": "Heavy Hearts Hard Fists",
+        "url": "https://open.spotify.com/album/0fo7S7VAXlvSnmApHKJ2if"
       },
       "artists": [
         {
-          "name": "Layla Zoe",
-          "url": "https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU"
-        },
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+          "name": "Nikki Hill",
+          "url": "https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz"
         }
       ],
-      "duration_ms": 370760,
-      "name": "Gemini Heart",
-      "url": "https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq"
+      "duration_ms": 197640,
+      "name": "Heavy Hearts Hard Fists",
+      "url": "https://open.spotify.com/track/3s4ZPDlawFagjAr5yMRSMx"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "10,000 Feet Below",
-        "url": "https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5"
-      },
-      "artists": [
-        {
-          "name": "Eliza Neals",
-          "url": "https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb"
-        }
-      ],
-      "duration_ms": 264521,
-      "name": "You Ain't My Dog No More",
-      "url": "https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Healing Creek",
         "url": "https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Throw Away Your Blues",
-        "url": "https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe"
+        "name": "10,000 Feet Below",
+        "url": "https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5"
       },
       "artists": [
         {
-          "name": "Kyla Brox",
-          "url": "https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42"
+          "name": "Eliza Neals",
+          "url": "https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb"
         }
       ],
-      "duration_ms": 298173,
-      "name": "If You See Him",
-      "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
+      "duration_ms": 264521,
+      "name": "You Ain't My Dog No More",
+      "url": "https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -863,6 +847,22 @@
       "duration_ms": 306680,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Throw Away Your Blues",
+        "url": "https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe"
+      },
+      "artists": [
+        {
+          "name": "Kyla Brox",
+          "url": "https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42"
+        }
+      ],
+      "duration_ms": 298173,
+      "name": "If You See Him",
+      "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
     },
     {
       "added_at": "2022-03-08 14:01:09",

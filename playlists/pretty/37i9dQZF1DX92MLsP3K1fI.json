@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Ela Taubert en portada.",
-  "num_followers": 83373,
+  "num_followers": 83393,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGE5Y2Q2YzkwYTZhMmZjZDY5OGFhNTBjOTM2ODViMTYwZTY1ZTc0",
+  "snapshot_id": "MCxjNWY5NjIwZWJmYTYwNDFjMGMwYmM0ZGI2NDgxNDE4MDc3NzQ5OTdi",
   "tracks": [
     {
       "added_at": "2024-03-15 19:55:41",
@@ -715,26 +715,6 @@
     {
       "added_at": "2024-03-15 19:55:41",
       "album": {
-        "name": "Modo Melanc\u00f3lico",
-        "url": "https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 166207,
-      "name": "Modo Melanc\u00f3lico",
-      "url": "https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI"
-    },
-    {
-      "added_at": "2024-03-15 19:55:41",
-      "album": {
         "name": "Tu Look",
         "url": "https://open.spotify.com/album/11pMPWJT66aQcb0m6UhnsZ"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 169010,
       "name": "Tu Look",
       "url": "https://open.spotify.com/track/1eeJ8xrZTorbacEPCmharT"
+    },
+    {
+      "added_at": "2024-03-15 19:55:41",
+      "album": {
+        "name": "Modo Melanc\u00f3lico",
+        "url": "https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 166207,
+      "name": "Modo Melanc\u00f3lico",
+      "url": "https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI"
     },
     {
       "added_at": "2024-03-15 19:55:41",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-03-15 19:55:41",
       "album": {
-        "name": "Verano En NY",
-        "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
+        "name": "Feliz Feliz",
+        "url": "https://open.spotify.com/album/29CQM5gFLFNCYCJewKtsax"
       },
       "artists": [
         {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
         }
       ],
-      "duration_ms": 186617,
-      "name": "Verano En NY",
-      "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
+      "duration_ms": 167597,
+      "name": "Feliz Feliz",
+      "url": "https://open.spotify.com/track/3X4O457O6740ekNTlvEG6f"
     },
     {
       "added_at": "2024-03-15 19:55:41",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-03-15 19:55:41",
       "album": {
-        "name": "Feliz Feliz",
-        "url": "https://open.spotify.com/album/29CQM5gFLFNCYCJewKtsax"
+        "name": "Verano En NY",
+        "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
       },
       "artists": [
         {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 167597,
-      "name": "Feliz Feliz",
-      "url": "https://open.spotify.com/track/3X4O457O6740ekNTlvEG6f"
+      "duration_ms": 186617,
+      "name": "Verano En NY",
+      "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
     },
     {
       "added_at": "2024-03-15 19:55:41",
@@ -1003,22 +1003,22 @@
     {
       "added_at": "2024-03-15 19:55:41",
       "album": {
-        "name": "Mis Impulsos Sobre Ti",
-        "url": "https://open.spotify.com/album/07R6N3nhqDnZpFMUCvaqxu"
+        "name": "S\u00f3lo Qu\u00e9date En Silencio",
+        "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
       },
       "artists": [
         {
-          "name": "Aleks Syntek",
-          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
         },
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 242100,
-      "name": "Mis Impulsos Sobre Ti",
-      "url": "https://open.spotify.com/track/1k6Q5x5CkuGOm4TSRHICDP"
+      "duration_ms": 235360,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
     }
   ],
   "unique_name": "Oye Pop",

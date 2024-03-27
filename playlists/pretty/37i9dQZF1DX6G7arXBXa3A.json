@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 396961,
+  "num_followers": 396998,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzMyMGU0YWU0MDYzNjg2MDM1NGQ3NWRhOGEwNzNhZjU3NzdjM2Vl",
+  "snapshot_id": "MCw5ZmQxYzU3MjQ5YjExOTZlMjhmNGIyMGJiMTM5MjYzMmM5OTIxOWM4",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -439,26 +439,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
-        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Harry James",
-          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Lullaby of Broadway (with Harry James & His Orchestra) - Version 2",
-      "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "The World Of Nat King Cole (Expanded Edition)",
         "url": "https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 153973,
       "name": "Orange Colored Sky - Remastered 2005",
       "url": "https://open.spotify.com/track/0CEWQROXhDHxcbXlZYYdym"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
+        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Harry James",
+          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Lullaby of Broadway (with Harry James & His Orchestra) - Version 2",
+      "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -821,6 +821,22 @@
       "url": "https://open.spotify.com/track/6chc0hinq5KuAhQhML22Hv"
     },
     {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Presenting Thad Jones-Mel Lewis & The Jazz Orchestra",
+        "url": "https://open.spotify.com/album/0GVZOTR7vm9mYlZrbKTDPh"
+      },
+      "artists": [
+        {
+          "name": "Thad Jones-Mel Lewis Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/486Xo5PeXA3TAkK0hisOtc"
+        }
+      ],
+      "duration_ms": 348733,
+      "name": "Three In One",
+      "url": "https://open.spotify.com/track/5NdEAODwKFtl1ZJ0Bjyk9h"
+    },
+    {
       "added_at": "2021-02-26 05:01:00",
       "album": {
         "name": "That's Life",
@@ -851,22 +867,6 @@
       "duration_ms": 147080,
       "name": "Straight, No Chaser",
       "url": "https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Presenting Thad Jones-Mel Lewis & The Jazz Orchestra",
-        "url": "https://open.spotify.com/album/0GVZOTR7vm9mYlZrbKTDPh"
-      },
-      "artists": [
-        {
-          "name": "Thad Jones-Mel Lewis Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/486Xo5PeXA3TAkK0hisOtc"
-        }
-      ],
-      "duration_ms": 348733,
-      "name": "Three In One",
-      "url": "https://open.spotify.com/track/5NdEAODwKFtl1ZJ0Bjyk9h"
     },
     {
       "added_at": "2020-03-06 16:28:56",

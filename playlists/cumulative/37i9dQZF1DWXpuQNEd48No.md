@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
 
-202 songs - 10 hr 41 min
+203 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Naina Ki Talwar](https://open.spotify.com/track/0o26gLFYauwW6oBwtHZFZZ) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:43 | 2023-07-11 |  |
 | [Nature](https://open.spotify.com/track/7suBMs3Cb9lMTSnJncc7cC) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa), [NJ Nindaniya](https://open.spotify.com/artist/1YDHNg4ktw5sY6bLsZ2L4V) | [Nature](https://open.spotify.com/album/1RBHpREFfZemn6f2aXfrQh) | 3:28 | 2023-03-28 |  |
 | [No Darling](https://open.spotify.com/track/0OKJzI2n4YfSCPS8dN3wvj) | [GP JI](https://open.spotify.com/artist/6ywjnb6yFBU9sEvF4onlX5) | [No Darling](https://open.spotify.com/album/2VJhRHyWaPX9U86xYxpUo1) | 3:29 | 2023-06-10 | 2023-08-15 |
+| [No Escape](https://open.spotify.com/track/0BEitiMLJyddZ7yY2LyD7x) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [No Escape](https://open.spotify.com/album/44GmLku7At0sHfzevpWJn7) | 3:16 | 2024-03-26 |  |
 | [No Fake](https://open.spotify.com/track/6g9O3FKotfjT9rxqgNOTi2) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [No Fake](https://open.spotify.com/album/54xTuRGq24Av5cqavO8jmE) | 3:14 | 2023-12-14 |  |
 | [No Love](https://open.spotify.com/track/681FN54hdHlpYkXXgHoOlJ) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [No Love](https://open.spotify.com/album/47UPjlcNYUogBn5QUm7zFF) | 3:59 | 2023-12-14 |  |
 | [No Mercy](https://open.spotify.com/track/5vdsRp6ExGxmfuJ2cG5Kqx) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Desi Melbourniye](https://open.spotify.com/artist/3ZDK52wRO5QRwoW3QyyRfH) | [No Mercy](https://open.spotify.com/album/0ig0cN50Yv63nJs0O0LyZo) | 3:05 | 2023-06-16 |  |
@@ -191,7 +192,7 @@
 | [System Tedda Se](https://open.spotify.com/track/5yZ77HXLAx330lFs3gUF5k) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [System Tedda Se](https://open.spotify.com/album/5W5SiIoPxx179PpUCb1397) | 2:09 | 2023-08-14 | 2023-08-31 |
 | [Systumm](https://open.spotify.com/track/3cBFnVztvQnMcPcIgipLTV) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Systumm](https://open.spotify.com/album/3X6OFKhCfx2cG3rzLHDkAK) | 2:34 | 2023-05-24 | 2023-06-17 |
 | [Systumm X Bollywood \(feat\. Biru Kataria, Wish Rathod & Sihag Muzik\)](https://open.spotify.com/track/0eHtA7c9Y0PsehVPNfGsa0) | [Sahil Khatter](https://open.spotify.com/artist/0L1m54mozVsbLI6ewWhv1b), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob), [Biru Kataria](https://open.spotify.com/artist/2TLPcgpoJdXIB1luZcYX2R), [Wish Rathod](https://open.spotify.com/artist/1eVtZT9BZg4r1rcgnai8qS), [Sihag Muzik](https://open.spotify.com/artist/04XbdTO8fkae4s1ExLeYyC) | [Systumm X Bollywood \(feat\. Biru Kataria, Wish Rathod & Sihag Muzik\)](https://open.spotify.com/album/6FMMIMuJ9tPw0RZGvrC5xL) | 3:04 | 2023-08-23 | 2023-09-28 |
-| [Taal Maar Diye](https://open.spotify.com/track/76zBlcfe7R0MGzaaA0ecHH) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7) | [Taal Maar Diye](https://open.spotify.com/album/5C0F0Gonh6NkLeHpyZK04Q) | 2:46 | 2024-03-08 |  |
+| [Taal Maar Diye](https://open.spotify.com/track/76zBlcfe7R0MGzaaA0ecHH) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7) | [Taal Maar Diye](https://open.spotify.com/album/5C0F0Gonh6NkLeHpyZK04Q) | 2:46 | 2024-03-08 | 2024-03-27 |
 | [Tabahi](https://open.spotify.com/track/4jKJMH7LA1KqldCoczZZFe) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [Yachi Dhounchak](https://open.spotify.com/artist/5pUmnQvCEu3sTcSZWH5USc) | [Tabahi](https://open.spotify.com/album/5BT0ymXN0KNnlFVS9ytIqh) | 4:04 | 2024-02-06 |  |
 | [Tabahi](https://open.spotify.com/track/01aP0lDm92ehOIy7zfpJkw) | [Yachi Dhounchak](https://open.spotify.com/artist/5pUmnQvCEu3sTcSZWH5USc), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Tabahi](https://open.spotify.com/album/5UTeuo86cat06VcIp7Nnrk) | 4:03 | 2023-06-12 | 2024-03-07 |
 | [TAMASHA](https://open.spotify.com/track/4T8C29foDJgAbVNKZT14Vq) | [Y2A](https://open.spotify.com/artist/6N1Gax5MyNXDO3vxg3N7y7), [Triminati Records](https://open.spotify.com/artist/5q39iK8eIGRZgTaazDgHG8) | [TAMASHA](https://open.spotify.com/album/7wNoGdhbo6bxjjyOBeXYAh) | 3:13 | 2023-03-28 | 2023-04-15 |

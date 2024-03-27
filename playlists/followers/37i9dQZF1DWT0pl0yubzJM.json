@@ -1,9 +1,27 @@
 {
-  "2024-03-26": 15857,
+  "2024-03-27": 15861,
   "date_first_scraped": "2022-06-30",
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
   "name": "Rock S\u00f3nico",
   "tracks": [
+    {
+      "album": {
+        "name": "Amor Amarillo",
+        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388480,
+      "name": "A Merced",
+      "url": "https://open.spotify.com/track/3ZC8BXItb2bvgs8oKgz5qG"
+    },
     {
       "album": {
         "name": "Revoluci\u00f3n",
@@ -21,6 +39,24 @@
       "duration_ms": 158786,
       "name": "Agujeros Negros",
       "url": "https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK"
+    },
+    {
+      "album": {
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "ANDATE",
+      "url": "https://open.spotify.com/track/3LQ4SNMbPBpVY5XYxQloCT"
     },
     {
       "album": {
@@ -143,7 +179,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 228466,
       "name": "Emoci\u00f3n Diamante",
       "url": "https://open.spotify.com/track/0rUb5mvK44ldO7PvhYRLHR"
@@ -201,6 +237,24 @@
       "duration_ms": 178493,
       "name": "Fabrico Cuero",
       "url": "https://open.spotify.com/track/6N2wExoJG3MQe331rSTPAT"
+    },
+    {
+      "album": {
+        "name": "Todos Tus Muertos",
+        "url": "https://open.spotify.com/album/58GZrNOJyanBdSRnKqrJfK"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158026,
+      "name": "Gente Que No",
+      "url": "https://open.spotify.com/track/0nShxrQfMcHl2sTcUst04Q"
     },
     {
       "album": {
@@ -269,7 +323,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 240333,
       "name": "Lo Que Se Ve No Es Lo Real",
       "url": "https://open.spotify.com/track/2zop3NXKZxAoW5Z724yQzt"
@@ -421,7 +475,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 282600,
       "name": "Marmota",
       "url": "https://open.spotify.com/track/60i7zzErAk7saXLo9YVHpL"
@@ -475,7 +529,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 191000,
       "name": "MATE",
       "url": "https://open.spotify.com/track/6gmGCkSs5AA0FWwI2poY9Z"
@@ -681,7 +735,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 202800,
       "name": "Remisero",
       "url": "https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ"
@@ -724,6 +778,24 @@
     },
     {
       "album": {
+        "name": "Amor Amarillo",
+        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263093,
+      "name": "Rombos (Un Cuarto Lleno de Rombos)",
+      "url": "https://open.spotify.com/track/3Y1HyEI4ommUvkLuhMm7Sn"
+    },
+    {
+      "album": {
         "name": "Excursiones",
         "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
       },
@@ -757,6 +829,24 @@
       "duration_ms": 165360,
       "name": "Sabado A La Noche",
       "url": "https://open.spotify.com/track/3Aa4WYAaWgoZLrvwsTgKD8"
+    },
+    {
+      "album": {
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "SE QUE NO/REKEBRA",
+      "url": "https://open.spotify.com/track/1S8nrL6kv2sVdmcVkBBJAM"
     },
     {
       "album": {
@@ -897,7 +987,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 141000,
       "name": "TRECE",
       "url": "https://open.spotify.com/track/6KlyjmAKmTzXdxhzA6DAh3"
@@ -919,6 +1009,24 @@
       "duration_ms": 145000,
       "name": "Trece",
       "url": "https://open.spotify.com/track/26CbBuWyZ6mX4V2xuk3ZHa"
+    },
+    {
+      "album": {
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229426,
+      "name": "TU ALMA MIA/ADELITA",
+      "url": "https://open.spotify.com/track/24w6juIgwVkJQ3XmPH9C3Q"
     },
     {
       "album": {

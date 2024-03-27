@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: girl in red, Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,919 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,994 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 79 | [Radiosoul \- Single Version](https://open.spotify.com/track/6AyaAytveXEC4AEUiQj0Sa) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Radiosoul](https://open.spotify.com/album/5doIyRFTqHfAgqu8oy0rXE) | 3:38 |
 | 80 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/2RjD1CgW7MWRWSNkimCPNy) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg) | 3:21 |
 
-Snapshot ID: `MCwyMzU2YTBmNzFiMzZjMWQ2Nzg3ZGIxNTYyMjIxMzMwMTAzNWEyMjUx`
+Snapshot ID: `MCxlZGMxZjJiODNiMTVjZGM1MWJkN2IzOWRlZjAyNDM2M2Q0NTVhMDk3`

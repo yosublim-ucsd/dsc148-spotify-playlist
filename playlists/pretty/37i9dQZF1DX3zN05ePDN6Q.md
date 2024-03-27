@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Jota Ghetto
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,998 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,029 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Número Desconhecido feat Cesar](https://open.spotify.com/track/2PrJEyJvfWxihR1RHVC9ou) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Vitinho Olimpo](https://open.spotify.com/artist/0StjexbxySAdLjte5fuhxU), [THXLIS](https://open.spotify.com/artist/2PE39uGtlGUQ1LgZnfGJFS) | [Ligações Estranhas](https://open.spotify.com/album/0M2JvghtMOUmJ9dV7IVALt) | 4:54 |
 | 75 | [Papaya \(Meditando em Finanças\)](https://open.spotify.com/track/4LDAsGf3TEuTDV8DcbWhio) | [O' LIMA 021](https://open.spotify.com/artist/0eAY7JwBUiFi2sNfiZm3ID), [Mahal Reis](https://open.spotify.com/artist/5jG0MAA7TLDdeZq2O03s8U) | [Papaya \(Meditando em Finanças\)](https://open.spotify.com/album/59t7VlEncVkzSu0GaZ78R4) | 2:22 |
 
-Snapshot ID: `MCw5ZWU3MTE5N2VkOGYwZTRiMzJlMDA5MjdiODc1NDU3MjQ1Yzc4ZjUw`
+Snapshot ID: `MCxmMzdiYjI4Yzk5ZDJlNjc3MmFkOTZkMjhiNWRlMzdiYjM3OGIyZDk5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,869,646 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,870,188 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 23 | [Who Knows](https://open.spotify.com/track/43CAMHDrAVA3nJP2zgKJDI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Ancient Future](https://open.spotify.com/album/6BsOed5euH2KWEujQZrFaF) | 3:28 |
 | 24 | [Buffalo Soldier](https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 4:15 |
 | 25 | [Here Comes Trouble](https://open.spotify.com/track/5Wwr2S7QZTR5PVJn6jhgdk) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Dread & Terrible](https://open.spotify.com/album/4zYr71y5wIjnoizuJ4o6ZK) | 3:54 |
-| 26 | [Rudy, a Message to You](https://open.spotify.com/track/4gukGozFOurNmDXZzgQHaP) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [The Best of Dandy Livingstone](https://open.spotify.com/album/1dTWKqQJuXoR4u9Kqjkrj3) | 2:42 |
-| 27 | [Dream Land](https://open.spotify.com/track/7vp89zcbYncoBCbX5HA3tZ) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/45Ae5UMjDuXNXot7PvJCjr) | 2:46 |
-| 28 | [Milk & Honey](https://open.spotify.com/track/5kHSFEtrXMjXnqSrgdg4bx) | [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [Hollie Cook](https://open.spotify.com/album/1maKK0LZS4kKqJmrDPMMU5) | 3:39 |
+| 26 | [Milk & Honey](https://open.spotify.com/track/5kHSFEtrXMjXnqSrgdg4bx) | [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [Hollie Cook](https://open.spotify.com/album/1maKK0LZS4kKqJmrDPMMU5) | 3:39 |
+| 27 | [Rudy, a Message to You](https://open.spotify.com/track/4gukGozFOurNmDXZzgQHaP) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [The Best of Dandy Livingstone](https://open.spotify.com/album/1dTWKqQJuXoR4u9Kqjkrj3) | 2:42 |
+| 28 | [Dream Land](https://open.spotify.com/track/7vp89zcbYncoBCbX5HA3tZ) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/45Ae5UMjDuXNXot7PvJCjr) | 2:46 |
 | 29 | [Cool Down The Pace](https://open.spotify.com/track/4llIZen1Cn4mi3DJm2Lqlz) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse \(Expanded Edition\)](https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx) | 5:17 |
 | 30 | [Pressure Drop \- Single Version](https://open.spotify.com/track/2GImcOxFZ0GP49rmPnPOjT) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM) | 2:53 |
 | 31 | [Police In Helicopter](https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Police In Helicopter](https://open.spotify.com/album/7naj9A5QZbYxYbj9Susywq) | 3:39 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 47 | [True To Myself](https://open.spotify.com/track/0sgx4UjoIrLB8rFURf3tIr) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:45 |
 | 48 | [Mellow Mood](https://open.spotify.com/track/6r9KZ2g5dXZXXLF6vOHnet) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Bunny Wailer Sings The Wailers](https://open.spotify.com/album/3D6W8G8ZtbZoeQeyBUUAhu) | 3:51 |
 | 49 | [Everything I Own \(7'' Mix\)](https://open.spotify.com/track/4PfDS6wcDp7YvikkmbySak) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own](https://open.spotify.com/album/1yQvIiS4aFxcPhzyN7Gw2W) | 3:44 |
-| 50 | [I'm Still in Love](https://open.spotify.com/track/7d2h9rCEOYTWQN3zQz9LpX) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Reggae Legends: Alton Ellis](https://open.spotify.com/album/4J5PDz0V1msazHQwt7GHFV) | 3:45 |
-| 51 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Most Wanted Series \- Yellowman](https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N) | 6:27 |
+| 50 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Most Wanted Series \- Yellowman](https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N) | 6:27 |
+| 51 | [I'm Still in Love](https://open.spotify.com/track/7d2h9rCEOYTWQN3zQz9LpX) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Reggae Legends: Alton Ellis](https://open.spotify.com/album/4J5PDz0V1msazHQwt7GHFV) | 3:45 |
 | 52 | [Morning Sun](https://open.spotify.com/track/5uqqDha6xHfmP4Gu1VyYxd) | [Al Barry](https://open.spotify.com/artist/4vNQY9dqHGNTP3VLJonsHU) | [Al Barry & Friends \(Deluxe Edition\)](https://open.spotify.com/album/4tPcpsbuVXJ9X4IfrZNeJd) | 2:56 |
 | 53 | [Book Of Rules](https://open.spotify.com/track/4PKri4OX2AB2RXj95Y9ZgB) | [The Heptones](https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4) | [Night Food](https://open.spotify.com/album/4ZOQeByfXd1iAgmMk8xpYN) | 3:31 |
 | 54 | [World\-A\-Reggae](https://open.spotify.com/track/70idjVtmzhvE1tXgHYEF2y) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [Ini Kamoze](https://open.spotify.com/album/0RRP4qIFXHxmaMyMLzP86U) | 3:50 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 57 | [The Tide Is High](https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Original Paragons At Treasure Isle](https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1) | 2:45 |
 | 58 | [Let Me Down Easy](https://open.spotify.com/track/1FDCOnNeSDzuOWrWDfklMv) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/3RxfT8zLSmteZfX3snggnb) | 2:55 |
 | 59 | [Better Must Come](https://open.spotify.com/track/34nNIDXjXDkaSghgY8XJTF) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 2:43 |
-| 60 | [What Does It Take \(To Win Your Love\)](https://open.spotify.com/track/2ACEZokhi5fKPcpGslKy4r) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Mr Soul of Jamaica](https://open.spotify.com/album/4EpjLfEAWQ4aVhlTMk69Fh) | 3:18 |
-| 61 | [Swing Easy](https://open.spotify.com/track/6gyKNejreOJfwfeQQ7fNVw) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ball Of Fire](https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN) | 6:22 |
+| 60 | [Swing Easy](https://open.spotify.com/track/6gyKNejreOJfwfeQQ7fNVw) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ball Of Fire](https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN) | 6:22 |
+| 61 | [What Does It Take \(To Win Your Love\)](https://open.spotify.com/track/2ACEZokhi5fKPcpGslKy4r) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Mr Soul of Jamaica](https://open.spotify.com/album/4EpjLfEAWQ4aVhlTMk69Fh) | 3:18 |
 | 62 | [Stop That Train](https://open.spotify.com/track/04ZaKWF8eYEsVhO8mNxvhB) | [Keith](https://open.spotify.com/artist/7hm0Ngouir56yhbzXu9yRH), [Tex](https://open.spotify.com/artist/1OFhmPA8VQArSdLb7CVClv) | [Stop That Train!](https://open.spotify.com/album/6B5wJp7kFC8s0VMilKj7ou) | 3:20 |
 | 63 | [Fu Man Chu](https://open.spotify.com/track/5sC836mBGkD9vni59G1YyV) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Action! \(Expanded Version\)](https://open.spotify.com/album/6Bz3k5kG4guAbv3lAHMK6u) | 3:17 |
 | 64 | [Hail H.I.M \- 2002 Remastered Version](https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Hail H.I.M](https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg) | 4:15 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 70 | [Fighting Against Conviction](https://open.spotify.com/track/5MKYnizdhDDik45mEncVXu) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/45Ae5UMjDuXNXot7PvJCjr) | 5:10 |
 | 71 | [Don't Give Up](https://open.spotify.com/track/4VC6Ihh1epJiQPiiMpJXDE) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/05JkJkbziKzfr0wOFA4iFJ) | 3:18 |
 | 72 | [Handsworth Revolution](https://open.spotify.com/track/54cMaPPTAoC57ZgnMTJKHM) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA) | 5:22 |
-| 73 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/7BECNKQnIHCREUGA0Zty7g) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 2:41 |
-| 74 | [Untold Strories](https://open.spotify.com/track/3HOBTvzauIkHi2TiVCGw0B) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [5 Decades of Jamaica's Musical Heritage](https://open.spotify.com/album/2xV5VH34Y2v2YPoinzCeyT) | 4:32 |
+| 73 | [Untold Strories](https://open.spotify.com/track/3HOBTvzauIkHi2TiVCGw0B) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [5 Decades of Jamaica's Musical Heritage](https://open.spotify.com/album/2xV5VH34Y2v2YPoinzCeyT) | 4:32 |
+| 74 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/7BECNKQnIHCREUGA0Zty7g) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 2:41 |
 | 75 | [Girlie Girlie](https://open.spotify.com/track/6rbqfol1CfDGWiv5gvj5pn) | [Sophia George](https://open.spotify.com/artist/30cz8YgBZbMVQ5XT8xIPDI) | [Girlie Girlie \- The Best of Sophia George](https://open.spotify.com/album/3chHospOsPf6xrbAmgFn6l) | 3:06 |
 | 76 | [War Ina Babylon](https://open.spotify.com/track/5Me6F9y6iArvYxyuP30m14) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon \(Expanded Edition\)](https://open.spotify.com/album/7xlWX3qBfCI68LjswqlBH6) | 4:50 |
 | 77 | [Love Has Found Its Way](https://open.spotify.com/track/67WC3ZMEQDCvIEVIC0u2Gv) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Love Has Found Its Way](https://open.spotify.com/album/0tnGHsEavusTKzuoiqbSFl) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 99 | [Under Me Sleng Teng](https://open.spotify.com/track/1YjBJlLZh4wwnfYZCr3jrE) | [Wayne Smith](https://open.spotify.com/artist/7kwcin6f7eYIvo6hG3GEn4) | [Under Me Sleng Teng](https://open.spotify.com/album/43bIT6PuC4DKlvC4iKTWHA) | 4:07 |
 | 100 | [Ku Klux Klan](https://open.spotify.com/track/1ViW8CWCiUff8iwlSpeI1r) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA) | 3:35 |
 
-Snapshot ID: `MCw0ZGYwZjRmOTk3YmU0ZWRiMDk2NjM2MzNmMzQ5MDE5NTBiYzYxY2I0`
+Snapshot ID: `MCw5NWQ0ZWMzN2RlZjNhYzYwOWFmMjE5ODI2NzhmNThlM2ExZTU3NDVm`

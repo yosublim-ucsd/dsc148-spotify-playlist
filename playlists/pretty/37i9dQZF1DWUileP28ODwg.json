@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
-  "num_followers": 343291,
+  "num_followers": 343497,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWUyMzZkMGZkYjU3MDU1ODQwMjRlOWU0NGM3YWJiYmVjMWVhYzM1",
+  "snapshot_id": "MCxhMmY5NTI3NjA0NTM3NjBhNzU2M2I1OTIyZDkzYTFlNjI2MGQxMzBi",
   "tracks": [
     {
       "added_at": "2024-03-20 12:47:22",
@@ -131,26 +131,18 @@
     {
       "added_at": "2024-03-20 12:47:22",
       "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+        "name": "Grave Robber",
+        "url": "https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px"
       },
       "artists": [
         {
           "name": "Crowder",
           "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         }
       ],
-      "duration_ms": 263833,
-      "name": "God Really Loves Us",
-      "url": "https://open.spotify.com/track/1pDKzl0oWh9jWfCCt8cIbE"
+      "duration_ms": 170854,
+      "name": "Grave Robber",
+      "url": "https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy"
     },
     {
       "added_at": "2024-03-20 12:47:22",
@@ -271,18 +263,26 @@
     {
       "added_at": "2024-03-20 12:47:22",
       "album": {
-        "name": "Grave Robber",
-        "url": "https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px"
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
       },
       "artists": [
         {
           "name": "Crowder",
           "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         }
       ],
-      "duration_ms": 170854,
-      "name": "Grave Robber",
-      "url": "https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy"
+      "duration_ms": 263833,
+      "name": "God Really Loves Us",
+      "url": "https://open.spotify.com/track/1pDKzl0oWh9jWfCCt8cIbE"
     },
     {
       "added_at": "2024-03-20 12:47:22",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-03-20 12:47:22",
       "album": {
-        "name": "Narrow Road",
-        "url": "https://open.spotify.com/album/06bBBzYhH0ZP73qteIAEX1"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 265911,
-      "name": "Narrow Road",
-      "url": "https://open.spotify.com/track/6nUhW3DT9vGkKyiEpP5j6c"
-    },
-    {
-      "added_at": "2024-03-20 12:47:22",
-      "album": {
         "name": "My Light (Acoustic Version)",
         "url": "https://open.spotify.com/album/2cjjFYOq98eUZSMY2Nqbm4"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 147390,
       "name": "My Light",
       "url": "https://open.spotify.com/track/1XhNAeoka7OOCPf3MbKJU6"
+    },
+    {
+      "added_at": "2024-03-20 12:47:22",
+      "album": {
+        "name": "Narrow Road",
+        "url": "https://open.spotify.com/album/06bBBzYhH0ZP73qteIAEX1"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 265911,
+      "name": "Narrow Road",
+      "url": "https://open.spotify.com/track/6nUhW3DT9vGkKyiEpP5j6c"
     },
     {
       "added_at": "2024-03-20 12:47:22",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-03-20 12:47:22",
       "album": {
+        "name": "Deeper Waters",
+        "url": "https://open.spotify.com/album/6FYE1tFCtHcIWTRGjy19zB"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 156410,
+      "name": "Deeper Waters",
+      "url": "https://open.spotify.com/track/3TyXxUT1D3EiATkn4g5vJ6"
+    },
+    {
+      "added_at": "2024-03-20 12:47:22",
+      "album": {
         "name": "Christ Our Hope In Life And Death",
         "url": "https://open.spotify.com/album/0hz5LRsLloj4raXH1EF3f1"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 227893,
       "name": "Rejoice",
       "url": "https://open.spotify.com/track/1QMXR5HEcic19jfv6AhaLh"
-    },
-    {
-      "added_at": "2024-03-20 12:47:22",
-      "album": {
-        "name": "Deeper Waters",
-        "url": "https://open.spotify.com/album/6FYE1tFCtHcIWTRGjy19zB"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 156410,
-      "name": "Deeper Waters",
-      "url": "https://open.spotify.com/track/3TyXxUT1D3EiATkn4g5vJ6"
     },
     {
       "added_at": "2024-03-20 12:47:22",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-03-20 12:47:22",
       "album": {
-        "name": "The Stonebrook Project",
-        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 206560,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/2pOzcg0ID39t34si3387GC"
-    },
-    {
-      "added_at": "2024-03-20 12:47:22",
-      "album": {
         "name": "Before I Knew Jesus",
         "url": "https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 196975,
       "name": "Before I Knew Jesus",
       "url": "https://open.spotify.com/track/656oooz2McvWe0TezAzkDL"
+    },
+    {
+      "added_at": "2024-03-20 12:47:22",
+      "album": {
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/2pOzcg0ID39t34si3387GC"
     },
     {
       "added_at": "2024-03-20 12:47:22",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-03-20 12:47:22",
       "album": {
+        "name": "I LOVE YOU TO DEATH",
+        "url": "https://open.spotify.com/album/1DXLjXc0K8noPurFkXIzZK"
+      },
+      "artists": [
+        {
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
+        }
+      ],
+      "duration_ms": 203832,
+      "name": "I LOVE YOU TO DEATH",
+      "url": "https://open.spotify.com/track/05nthkowAN1YmD7Y8ospny"
+    },
+    {
+      "added_at": "2024-03-20 12:47:22",
+      "album": {
         "name": "Won't Let Me Go",
         "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 215213,
       "name": "Won't Let Me Go",
       "url": "https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ"
-    },
-    {
-      "added_at": "2024-03-20 12:47:22",
-      "album": {
-        "name": "I LOVE YOU TO DEATH",
-        "url": "https://open.spotify.com/album/1DXLjXc0K8noPurFkXIzZK"
-      },
-      "artists": [
-        {
-          "name": "TEMITOPE",
-          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
-        }
-      ],
-      "duration_ms": 203832,
-      "name": "I LOVE YOU TO DEATH",
-      "url": "https://open.spotify.com/track/05nthkowAN1YmD7Y8ospny"
     },
     {
       "added_at": "2024-03-20 12:47:22",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-03-20 12:47:22",
       "album": {
-        "name": "Still Standing",
-        "url": "https://open.spotify.com/album/4dm87zKKSWl09tAY3v6dcn"
-      },
-      "artists": [
-        {
-          "name": "Josh Wright",
-          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
-        }
-      ],
-      "duration_ms": 204479,
-      "name": "Still Standing",
-      "url": "https://open.spotify.com/track/18dUAYjA7DOknCPtczKUuD"
-    },
-    {
-      "added_at": "2024-03-20 12:47:22",
-      "album": {
         "name": "Let It Begin",
         "url": "https://open.spotify.com/album/5uaE6PEmXaM9qkEknV2qFj"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2024-03-20 12:47:22",
       "album": {
-        "name": "Worst Days",
-        "url": "https://open.spotify.com/album/2cJ58kOSn3ilqpCdPUNFJO"
+        "name": "Still Standing",
+        "url": "https://open.spotify.com/album/4dm87zKKSWl09tAY3v6dcn"
       },
       "artists": [
         {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+          "name": "Josh Wright",
+          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
         }
       ],
-      "duration_ms": 211327,
-      "name": "Worst Days",
-      "url": "https://open.spotify.com/track/2LBcgkrR59qVYgwyuzy5Wg"
+      "duration_ms": 204479,
+      "name": "Still Standing",
+      "url": "https://open.spotify.com/track/18dUAYjA7DOknCPtczKUuD"
     },
     {
       "added_at": "2024-03-20 12:47:22",
@@ -1487,18 +1471,38 @@
     {
       "added_at": "2024-03-20 12:47:22",
       "album": {
-        "name": "Where The Glory Is",
-        "url": "https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm"
+        "name": "Rescue",
+        "url": "https://open.spotify.com/album/01Bdh6eWt3Vp6pjyVf3qFk"
       },
       "artists": [
         {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
         }
       ],
-      "duration_ms": 270576,
-      "name": "Where The Glory Is",
-      "url": "https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO"
+      "duration_ms": 221403,
+      "name": "Rescue (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/1qA19MGPhY4VXJw4RywdWM"
+    },
+    {
+      "added_at": "2024-03-20 12:47:22",
+      "album": {
+        "name": "Worst Days",
+        "url": "https://open.spotify.com/album/2cJ58kOSn3ilqpCdPUNFJO"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 211327,
+      "name": "Worst Days",
+      "url": "https://open.spotify.com/track/2LBcgkrR59qVYgwyuzy5Wg"
     },
     {
       "added_at": "2024-03-20 12:47:22",
@@ -1523,22 +1527,18 @@
     {
       "added_at": "2024-03-20 12:47:22",
       "album": {
-        "name": "Rescue",
-        "url": "https://open.spotify.com/album/01Bdh6eWt3Vp6pjyVf3qFk"
+        "name": "Where The Glory Is",
+        "url": "https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm"
       },
       "artists": [
         {
-          "name": "Jordan St. Cyr",
-          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 221403,
-      "name": "Rescue (feat. Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/1qA19MGPhY4VXJw4RywdWM"
+      "duration_ms": 270576,
+      "name": "Where The Glory Is",
+      "url": "https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO"
     },
     {
       "added_at": "2024-03-20 12:47:22",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2024-03-20 12:47:22",
       "album": {
+        "name": "Crowns Down (Live / Deluxe)",
+        "url": "https://open.spotify.com/album/6Mh3CQITw07mEI0JJ0YIP9"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        }
+      ],
+      "duration_ms": 448179,
+      "name": "Joy (What The World Calls Foolish) - Live",
+      "url": "https://open.spotify.com/track/59XvMohAPJxOYI2qNnsJ6w"
+    },
+    {
+      "added_at": "2024-03-20 12:47:22",
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 241951,
       "name": "Time",
       "url": "https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj"
-    },
-    {
-      "added_at": "2024-03-20 12:47:22",
-      "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/1Jx6RxYgQJX9pHBNLHhWMQ"
-      },
-      "artists": [
-        {
-          "name": "Point Of Grace",
-          "url": "https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6"
-        },
-        {
-          "name": "Wes King",
-          "url": "https://open.spotify.com/artist/0mv7taBJWmKVK7KVZs2Yep"
-        }
-      ],
-      "duration_ms": 191167,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/07i9grlktadLuWDbfOwVTG"
     },
     {
       "added_at": "2024-03-20 12:47:22",
@@ -1643,18 +1643,22 @@
     {
       "added_at": "2024-03-20 12:47:22",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp"
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/1Jx6RxYgQJX9pHBNLHhWMQ"
       },
       "artists": [
         {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+          "name": "Point Of Grace",
+          "url": "https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6"
+        },
+        {
+          "name": "Wes King",
+          "url": "https://open.spotify.com/artist/0mv7taBJWmKVK7KVZs2Yep"
         }
       ],
-      "duration_ms": 297413,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6"
+      "duration_ms": 191167,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/07i9grlktadLuWDbfOwVTG"
     },
     {
       "added_at": "2024-03-20 12:47:22",
@@ -1679,6 +1683,22 @@
     {
       "added_at": "2024-03-20 12:47:22",
       "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 297413,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6"
+    },
+    {
+      "added_at": "2024-03-20 12:47:22",
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/1RKGwSiX9BMJq3mQS7RI3f"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 220962,
       "name": "Run",
       "url": "https://open.spotify.com/track/6AYDBBuLOp7DvRoPC3P9Uv"
-    },
-    {
-      "added_at": "2024-03-20 12:47:22",
-      "album": {
-        "name": "Crowns Down (Live / Deluxe)",
-        "url": "https://open.spotify.com/album/6Mh3CQITw07mEI0JJ0YIP9"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
-        }
-      ],
-      "duration_ms": 448179,
-      "name": "Joy (What The World Calls Foolish) - Live",
-      "url": "https://open.spotify.com/track/59XvMohAPJxOYI2qNnsJ6w"
     },
     {
       "added_at": "2024-03-20 12:47:22",

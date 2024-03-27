@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Nestor En Bloque.",
-  "num_followers": 1189978,
+  "num_followers": 1190032,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2ExOWE2NTJmYTAwZjllNzhmNWU0YzM1MzFlNmM4YWUxN2JhYTFh",
+  "snapshot_id": "MCw5ZjgxNTJjNzAyMTlhODA3MDgzODc1MjY4NmRjOTk3ZTg1NGE0NjI1",
   "tracks": [
     {
       "added_at": "2024-03-22 03:00:00",
@@ -147,6 +147,26 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
+        "name": "Sin Querer",
+        "url": "https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx"
+      },
+      "artists": [
+        {
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "duration_ms": 141071,
+      "name": "Sin Querer",
+      "url": "https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
         "name": "Bronceado (Remix)",
         "url": "https://open.spotify.com/album/5h6GCVe6hkOkaG12TVrzr2"
       },
@@ -167,26 +187,6 @@
       "duration_ms": 156631,
       "name": "Bronceado - Remix",
       "url": "https://open.spotify.com/track/1xxtsuafCIJm7WPQ1tdDDi"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
-        "name": "Sin Querer",
-        "url": "https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx"
-      },
-      "artists": [
-        {
-          "name": "Fer Vazquez",
-          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
-        },
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        }
-      ],
-      "duration_ms": 141071,
-      "name": "Sin Querer",
-      "url": "https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "DEFINITIVA",
-        "url": "https://open.spotify.com/album/4CN4xSKYPY8Cthkyej2uPI"
-      },
-      "artists": [
-        {
-          "name": "LiL CaKe",
-          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        }
-      ],
-      "duration_ms": 192111,
-      "name": "DEFINITIVA",
-      "url": "https://open.spotify.com/track/2krRK5mPFejIewRSmkTKpb"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "Ya No M\u00e1s",
         "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 158447,
       "name": "Ya No M\u00e1s",
       "url": "https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "DEFINITIVA",
+        "url": "https://open.spotify.com/album/4CN4xSKYPY8Cthkyej2uPI"
+      },
+      "artists": [
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        }
+      ],
+      "duration_ms": 192111,
+      "name": "DEFINITIVA",
+      "url": "https://open.spotify.com/track/2krRK5mPFejIewRSmkTKpb"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1319,30 +1319,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Verano 2024",
-        "url": "https://open.spotify.com/album/1rEHJwwb30B6DfAotpO4Lq"
-      },
-      "artists": [
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        },
-        {
-          "name": "DJ Pirata",
-          "url": "https://open.spotify.com/artist/4MlPk7Q5wc1b5KRKSCDNnh"
-        }
-      ],
-      "duration_ms": 156893,
-      "name": "Verano 2024",
-      "url": "https://open.spotify.com/track/3ivubUfc3U4Qu0u2GYA6T6"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "Si Me Tomo una Cerveza (Remix)",
         "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
       },
@@ -1375,6 +1351,30 @@
       "duration_ms": 237521,
       "name": "Si Me Tomo una Cerveza - Remix",
       "url": "https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Verano 2024",
+        "url": "https://open.spotify.com/album/1rEHJwwb30B6DfAotpO4Lq"
+      },
+      "artists": [
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "DJ Pirata",
+          "url": "https://open.spotify.com/artist/4MlPk7Q5wc1b5KRKSCDNnh"
+        }
+      ],
+      "duration_ms": 156893,
+      "name": "Verano 2024",
+      "url": "https://open.spotify.com/track/3ivubUfc3U4Qu0u2GYA6T6"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1447,18 +1447,22 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Ya Fue",
-        "url": "https://open.spotify.com/album/0X4z32fZIdYrvbvP6CbE78"
+        "name": "NO FUIMOS",
+        "url": "https://open.spotify.com/album/6vvHDYSxaLuhOZUMAU4xIf"
       },
       "artists": [
         {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         }
       ],
-      "duration_ms": 164333,
-      "name": "Ya Fue",
-      "url": "https://open.spotify.com/track/5NBvvix3gt1hZNcKAMyy37"
+      "duration_ms": 136853,
+      "name": "NO FUIMOS",
+      "url": "https://open.spotify.com/track/717KavpEoZakUVizYk70TU"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1499,22 +1503,18 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "NO FUIMOS",
-        "url": "https://open.spotify.com/album/6vvHDYSxaLuhOZUMAU4xIf"
+        "name": "Ya Fue",
+        "url": "https://open.spotify.com/album/0X4z32fZIdYrvbvP6CbE78"
       },
       "artists": [
         {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
         }
       ],
-      "duration_ms": 136853,
-      "name": "NO FUIMOS",
-      "url": "https://open.spotify.com/track/717KavpEoZakUVizYk70TU"
+      "duration_ms": 164333,
+      "name": "Ya Fue",
+      "url": "https://open.spotify.com/track/5NBvvix3gt1hZNcKAMyy37"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Tranquila",
-        "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 183430,
-      "name": "Tranquila",
-      "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "Messirve mix 5",
         "url": "https://open.spotify.com/album/7pw9Do4aXAbWamX4ZcKLoF"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 312737,
       "name": "Messirve mix 5",
       "url": "https://open.spotify.com/track/5piFBPcOsr6OWbBvNjJRuF"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Tranquila",
+        "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 183430,
+      "name": "Tranquila",
+      "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
+        "name": "CUANDO SALE EL SOL",
+        "url": "https://open.spotify.com/album/4RumX1vBmnP74qE5h0ZayI"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "CUANDO SALE EL SOL",
+      "url": "https://open.spotify.com/track/2cxOBgPSWMgtJtAqNVOqra"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
         "name": "LOKITA",
         "url": "https://open.spotify.com/album/4HcuTZU8zMdNHKfwWp9NMR"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 151623,
       "name": "LOKITA",
       "url": "https://open.spotify.com/track/4bDKRo2qGLPQlbcEWCluKT"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
-        "name": "CUANDO SALE EL SOL",
-        "url": "https://open.spotify.com/album/4RumX1vBmnP74qE5h0ZayI"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "CUANDO SALE EL SOL",
-      "url": "https://open.spotify.com/track/2cxOBgPSWMgtJtAqNVOqra"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
+        "name": "CUMBIA DE BARRIO",
+        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 181354,
+      "name": "CUMBIA DE BARRIO",
+      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
         "name": "Copacabana (Remix)",
         "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
       },
@@ -2007,30 +2023,6 @@
       "duration_ms": 153133,
       "name": "Copacabana - Remix",
       "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
-        "name": "No Te Vas a Olvidar",
-        "url": "https://open.spotify.com/album/5HNIgxDU0zkg1VyuHGDUQB"
-      },
-      "artists": [
-        {
-          "name": "Diel Paris",
-          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
-        },
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        },
-        {
-          "name": "Jorgito Barrionuevo",
-          "url": "https://open.spotify.com/artist/192E8ptSuYPT0rgJRyImNH"
-        }
-      ],
-      "duration_ms": 140790,
-      "name": "No Te Vas a Olvidar",
-      "url": "https://open.spotify.com/track/6RwAPBAOhvyS3BTK5JaSq2"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

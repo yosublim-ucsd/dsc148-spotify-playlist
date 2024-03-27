@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: TWRP
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,976 likes - 102 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,146 likes - 102 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 2 | [Body Heat](https://open.spotify.com/track/5SqrG4iYtYJ5Pz02zMIVYo) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Body Heat](https://open.spotify.com/album/3x89dH8gykGUMNlvUDz4qu) | 3:21 |
 | 3 | [Keep It High](https://open.spotify.com/track/23xaHEMtIg6AamiSOh5AXI) | [Nikka Costa](https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK) | [Keep It High](https://open.spotify.com/album/1ukkIgYlPtLdceJKTTGqIV) | 3:54 |
 | 4 | [The Influencers](https://open.spotify.com/track/0SlZtFKCvY6hLjDNEgGQMe) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Fantaazma](https://open.spotify.com/artist/2PSnVa4aT9bntUbGmLAa0V), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Westcoast Stone](https://open.spotify.com/artist/57rHgqodIDand2TzQgqcmm) | [The Influencers](https://open.spotify.com/album/0KjHXHl5skSrt07K2ejxcn) | 4:37 |
-| 5 | [Look Around](https://open.spotify.com/track/4cH9h6nvtxYNo450VXEo1s) | [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr), [Moorea Masa](https://open.spotify.com/artist/5iYuFbZMJEydHyzZYYYPTo), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Look Around](https://open.spotify.com/album/6ttL4crGEJOfpcIiEVQFmM) | 3:41 |
+| 5 | [Look Around](https://open.spotify.com/track/4cH9h6nvtxYNo450VXEo1s) | [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr), [Moorea Masa & the Mood](https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Look Around](https://open.spotify.com/album/6ttL4crGEJOfpcIiEVQFmM) | 3:41 |
 | 6 | [Atlanta](https://open.spotify.com/track/4WOfRya3PSbwNk0ZTU8ent) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Atlanta](https://open.spotify.com/album/6daZUauCIOcopysTBj9CVj) | 3:03 |
 | 7 | [Dumpalltheguns \- Feat\. Danielle Ponder](https://open.spotify.com/track/6p3011ub8UH8gohU0cmG7K) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Dumpalltheguns \(Feat\. Danielle Ponder\)](https://open.spotify.com/album/7CIcz7JIpKAcogiVQXwPMq) | 4:53 |
 | 8 | [Break A Sweat](https://open.spotify.com/track/4tYi9HxvYJFgBUGEvSdMyV) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Break A Sweat](https://open.spotify.com/album/0Td911AFIykZTKBYlhlhUU) | 2:54 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 101 | [Bullseye](https://open.spotify.com/track/0nxkE2MFVrm7UpdzgQ0CJO) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Bullseye](https://open.spotify.com/album/5Xl95STYauCnKb1qvbt1mm) | 2:17 |
 | 102 | [Come and Get It \- A COLORS SHOW](https://open.spotify.com/track/4exwQETG1yC3KPp8t57C9q) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Come and Get It \- A COLORS SHOW](https://open.spotify.com/album/6ESzAJ6LlsxURRRiDpJRsb) | 2:25 |
 
-Snapshot ID: `MCxkMGZjZjg3MmZjYmY4NDQ0NDAyYzMzMGM2Zjk1ZTJkYjVmMTI4ZWIx`
+Snapshot ID: `MCxlY2QxOTIwMWE4NDQ5NWYwMjY3ZWMyMWU1ZmQ3ZDVjOTMyZmFlOGJk`

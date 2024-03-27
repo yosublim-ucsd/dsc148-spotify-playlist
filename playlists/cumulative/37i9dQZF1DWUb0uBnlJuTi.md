@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Sly5thAve
 
-399 songs - 1 day 6 hr 31 min
+400 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Disconnections](https://open.spotify.com/track/2yi9iYn6gL9Rtg5DpTiYJX) | [Final Step](https://open.spotify.com/artist/278pNEL794WGvrxqTBfJDS) | [Disconnections](https://open.spotify.com/album/5I8Mdt715i0tGH2I2Gcw6l) | 5:34 | 2021-06-18 |  |
 | [Driving](https://open.spotify.com/track/6dT65xQ9mLooOD9or4oWvX) | [Riot Jazz Brass Band](https://open.spotify.com/artist/1txSIgiNjE6LpvkxP7sYyP) | [Driving](https://open.spotify.com/album/5BRGf4KjeBFPG7WpPAgxxH) | 3:06 | 2023-01-27 | 2023-11-11 |
 | [Dumb People](https://open.spotify.com/track/0bLLEb8lkYeyK7gqiilVy4) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Harry Pope](https://open.spotify.com/artist/6HEABwt9mukkCM55kzNhV0) | [Dumb People](https://open.spotify.com/album/1iEOCeBsOTXhzHALELmghm) | 2:56 | 2021-03-05 | 2022-07-29 |
-| [Echo A.D.](https://open.spotify.com/track/00cDda3lfNh6lI9qoYwqnn) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Echo A.D.](https://open.spotify.com/album/3nggWpLX9v8zCnpFcDsYMe) | 4:04 | 2023-08-11 |  |
+| [Echo A.D.](https://open.spotify.com/track/00cDda3lfNh6lI9qoYwqnn) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Echo A.D.](https://open.spotify.com/album/3nggWpLX9v8zCnpFcDsYMe) | 4:04 | 2023-08-11 | 2024-03-27 |
+| [Echo A.D.](https://open.spotify.com/track/1ZlUY5Ue5RGOYWKGmfa4OK) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Hox](https://open.spotify.com/album/3gVEuGNplHxs8zVzfeC4vU) | 4:04 | 2023-08-11 |  |
 | [El Jonito](https://open.spotify.com/track/4LvpjpTB9SJEVNINopueyX) | [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Martin Wangermée](https://open.spotify.com/artist/6Cko0OY4MlDWb57nLFMV4q), [Alexis Bourguignon](https://open.spotify.com/artist/3KbkoymkBIQF812bJQYPPE), [Robinson Khoury](https://open.spotify.com/artist/1L0xfJpihhDB3N8GEbmV6J), [Stéphane Guillaume](https://open.spotify.com/artist/2JmUauyONacBoIcYvSggJr), [Lucas Saint\-Cricq](https://open.spotify.com/artist/7AB1iv55p57sSmfa9d7GsI), [Nicolas Folmer](https://open.spotify.com/artist/42oVkAbF0mIgvyFEIfeUUQ), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Jeremy Bruyere](https://open.spotify.com/artist/27B9cx6PSADN8csmFRU0Tj) | [El Jonito](https://open.spotify.com/album/6ssT3ZX7pn4Ud0V1JWeHuW) | 3:41 | 2022-06-03 |  |
 | [Empire](https://open.spotify.com/track/37IQoTfeVqNx5Q4KtUKgkD) | [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Empire](https://open.spotify.com/album/0JRjksr7Dl8jX1ecE4r3uK) | 4:47 | 2023-10-20 |  |
 | [Everything Is Changing](https://open.spotify.com/track/2plqXe2wauMgMHQLSDwWBD) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [The Best of Groove Collective](https://open.spotify.com/album/6Z3d1nnm9V24kAb6t5ejuj) | 5:40 | 2020-10-09 | 2022-04-21 |

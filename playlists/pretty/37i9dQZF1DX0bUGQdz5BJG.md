@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: George Birge
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,768 likes - 205 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,839 likes - 205 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 85 | [Girl Next Door](https://open.spotify.com/track/3WVDA3Gqfz4l7lvBCKWdfe) | [Logan Crosby](https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q) | [Girl Next Door](https://open.spotify.com/album/25PzQJK3Q2aNmf5eswlNPr) | 2:40 |
 | 86 | [Turn It Down \(with Ashland Craft\)](https://open.spotify.com/track/6GGdHtj1oe3UbtgfDvKAdA) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919), [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Turn It Down \(with Ashland Craft\)](https://open.spotify.com/album/64LmbL4yIxCE6NwwK6WLPK) | 3:12 |
 | 87 | [I Seen A Cowboy Cry](https://open.spotify.com/track/11xFmdkzYfqBLGIm9LkwbH) | [Caleb Lathrop](https://open.spotify.com/artist/40bsTqQeta2NZ0KHrRqN7w) | [Bitter Sweet](https://open.spotify.com/album/5Ud4LcJtg8AJnougrcBWLF) | 3:10 |
-| 88 | [I Don't Wanna Hear About It](https://open.spotify.com/track/1GNtxMHyg3mOcFfjQ5wzNu) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp), [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [I Don't Wanna Hear About It](https://open.spotify.com/album/02iC7ALKCzSTqEi6Z5gSSu) | 4:42 |
+| 88 | [I Don't Wanna Hear About It \(feat\. Brendan Walter\)](https://open.spotify.com/track/1GNtxMHyg3mOcFfjQ5wzNu) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp), [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [I Don't Wanna Hear About It \(feat\. Brendan Walter\)](https://open.spotify.com/album/02iC7ALKCzSTqEi6Z5gSSu) | 4:42 |
 | 89 | [Not Letting Go](https://open.spotify.com/track/1ptmBjD7OmedBByuiXbpgz) | [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Not Letting Go](https://open.spotify.com/album/5xRHHlHF8ncZDLx5bDQuvr) | 3:58 |
 | 90 | [Rainin' in Dallas](https://open.spotify.com/track/5R1VLQaMBkfw9Hc1AANOEw) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Rainin' in Dallas](https://open.spotify.com/album/7vkRag6sGvwVHeNiRihqQs) | 3:17 |
 | 91 | [If You're Up](https://open.spotify.com/track/0wAcCW4YOcF2LkrCIawolt) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T), [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [If You're Up](https://open.spotify.com/album/7c8x9g0uWLko3WIqYXaeTY) | 3:06 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 204 | [Flip a Coin \- Spotify OUTSIDE Version \- Live from Burnet, TX](https://open.spotify.com/track/2Hc0gzPRXrmUleRpUwX0sb) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Flip a Coin \(Spotify OUTSIDE Version \- Live from Burnet, TX\)](https://open.spotify.com/album/3SLqSzzUoodKo22UfEOGUd) | 3:32 |
 | 205 | [We Should Get A Drink Sometime](https://open.spotify.com/track/0eIghbzgNwsFL26W2wyPS4) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [We Should Get A Drink Sometime](https://open.spotify.com/album/68Wj8LVQQUCQB36Z3UXhTu) | 3:09 |
 
-Snapshot ID: `MCw4MzJlMGRkM2QzYTgzZTMzYzA4YTlkYzY2MzU5MDQ2NjA4YTFlZTJj`
+Snapshot ID: `MCxjNGQyM2EzOWExYTdlNDc3NzdjYjJjMDIyNDRiMThlODgwNTg5ZTIw`

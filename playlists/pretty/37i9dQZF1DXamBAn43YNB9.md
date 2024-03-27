@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,075 likes - 90 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,125 likes - 90 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 29 | [Pretty as a Peach](https://open.spotify.com/track/54RYn17az87d1ZbuJpAc3l) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Pretty as a Peach](https://open.spotify.com/album/1Mqv4rah3GosAfHfXGce5p) | 2:30 |
 | 30 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 |
 | 31 | [The Good I'll Do](https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:31 |
-| 32 | [Diamonds and Gold](https://open.spotify.com/track/6aFfDXmScA1MoYepsaD3pm) | [Meghan Maike](https://open.spotify.com/artist/4kBaxVPaAbjTyIb7qItJzl) | [Dead Horse Creek](https://open.spotify.com/album/35AQrnW1vnZFyFtyRA27s3) | 4:41 |
+| 32 | [Diamonds and Gold](https://open.spotify.com/track/7jAXgQLEEXVfrJkiYn624O) | [Meghan Maike](https://open.spotify.com/artist/4kBaxVPaAbjTyIb7qItJzl) | [Dead Horse Creek](https://open.spotify.com/album/4NHYFaC5sDmUcufvztLjXp) | 4:41 |
 | 33 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 |
 | 34 | [Home](https://open.spotify.com/track/7g4rTgNRHnfj1EguB4ETow) | [Nathan May](https://open.spotify.com/artist/1MSZWYELfRVbVsRH9I8HdT) | [Home](https://open.spotify.com/album/7B8mcC2S9XkvBG59tMzGwr) | 4:17 |
 | 35 | [Real Life](https://open.spotify.com/track/5Aei6kEJraIFh79f14P6NB) | [Austin Mackay](https://open.spotify.com/artist/4mQFSs5uamW2DxyRiHxJvh) | [Real Life](https://open.spotify.com/album/2WOAQbWNRLRlWq3c5fIgB8) | 4:14 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 89 | [Holy Water](https://open.spotify.com/track/0iXqDv92jTifES3rxAYDNc) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Holy Water](https://open.spotify.com/album/2IqSupOGT9SFUaxv7oQUMn) | 2:45 |
 | 90 | [Touch of the Outback](https://open.spotify.com/track/2futotmCCo2tIHmPsybQcd) | [Josh Arnold](https://open.spotify.com/artist/3bNkSSl10ckpEpWGVV4V3G) | [Touch of the Outback](https://open.spotify.com/album/4J6wpJHpq1HX88TVbYFvbe) | 2:40 |
 
-Snapshot ID: `MCwzM2VjNWFkMTI1ZGI4OTU2ZjMxOTZlZjdhOGJlY2ZiN2IxYjMxOWQ1`
+Snapshot ID: `MCwxY2JhNjIwNmI2OTgxNDBhM2MwZDI0NmE4MzM0NTQ3NDc4ZDkxZTRk`

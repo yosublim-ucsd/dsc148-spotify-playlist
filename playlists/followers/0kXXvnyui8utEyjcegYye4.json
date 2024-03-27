@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 0,
+  "2024-03-27": 0,
   "date_first_scraped": "2023-07-14",
   "description": "",
   "name": "driving",
@@ -4713,6 +4713,24 @@
       "duration_ms": 277386,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/4wTMBYRE6xVTIUQ6fEudsJ"
+    },
+    {
+      "album": {
+        "name": "Can't Hold Back",
+        "url": "https://open.spotify.com/album/2gLYQmHLHZhNpTxlnlkXy7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Money",
+          "url": "https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211160,
+      "name": "Take Me Home Tonight",
+      "url": "https://open.spotify.com/track/7b4yGtR0rujvLi5EBfKKJ2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-218 songs - 11 hr 5 min
+224 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Biting](https://open.spotify.com/track/3VR8hpmEvOMxW3nM4TNoBM) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Biting](https://open.spotify.com/album/3wo2lUtYASfyHEQbYxEosQ) | 2:46 | 2023-03-24 |  |
 | [Blink Of An Eye](https://open.spotify.com/track/7bwF8qvBd0DAquB1DVNSfV) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Blink Of An Eye](https://open.spotify.com/album/3k5r1aVVzWQVjufWyUMhYn) | 2:28 | 2021-11-11 | 2023-09-23 |
 | [Blue Gold](https://open.spotify.com/track/2TU4uc1YAQrWV57fJ7TPk4) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Blue Gold](https://open.spotify.com/album/2eRVCECu1ZfOApQApR9opm) | 3:44 | 2021-11-11 |  |
+| [Body & Mind](https://open.spotify.com/track/66g8tZeyTA6RK4eZhq8VHn) | [Lou Kil](https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh) | [Body & Mind](https://open.spotify.com/album/74WLWBBSOIoQh3Xbzv631P) | 2:11 | 2024-03-26 |  |
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2021-11-11 | 2023-03-10 |
 | [Breeze](https://open.spotify.com/track/0whoBMh85W6OGcp9SXvpeH) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Breeze](https://open.spotify.com/album/15NQ6RxghzQVEOrms9xl5S) | 2:54 | 2023-05-05 |  |
 | [Bubbly Vibes](https://open.spotify.com/track/1cvX6BDM6QiuPfOFeXXRuM) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Bubbly Vibes](https://open.spotify.com/album/6e2RkxY6bYkhuT0tmsGKod) | 3:03 | 2023-03-10 |  |
@@ -45,6 +46,7 @@
 | [Copycat](https://open.spotify.com/track/4fRDbN8d9hKBbYs0rG4El0) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Copycat / Sunspot](https://open.spotify.com/album/5rgFFppEQzw3lOlzgIPmKV) | 5:54 | 2021-11-11 |  |
 | [Crepuscular](https://open.spotify.com/track/5mFUHYZXlZhiSdqKmscDcU) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Balmy](https://open.spotify.com/album/2w24KFSj3y18ardZ75SIMm) | 5:10 | 2021-11-11 |  |
 | [Dawn](https://open.spotify.com/track/3VFCT5TD5P9HQQIIEPcaiY) | [Von Sunshine](https://open.spotify.com/artist/3cSqgxGzUiV21kYqcrD6zB) | [Dawn](https://open.spotify.com/album/4gjEOyzw5Zwqc2fjFKyX7a) | 3:32 | 2021-11-11 | 2022-04-06 |
+| [Days Without End](https://open.spotify.com/track/1xW88yZCTEbKtdAtVUezBO) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Days Without End](https://open.spotify.com/album/3tnEE5kQPtp1C6N3xpyi7i) | 2:58 | 2024-03-26 |  |
 | [Deeper Spheres](https://open.spotify.com/track/1pKglyymqDNY0yXIv94ztW) | [Duplé](https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf) | [Deeper Spheres](https://open.spotify.com/album/31jWTV8wMy7Q12z5ENEWWl) | 2:29 | 2021-11-11 | 2022-01-22 |
 | [Don't Stop My Heart](https://open.spotify.com/track/5P4EpJA9NgsBpzDoGO4A98) | [dvine](https://open.spotify.com/artist/3VV2pfR0CoFp9JbX6PsaLs) | [Don't Stop My Heart](https://open.spotify.com/album/59vG5QyIX7REK3sxomex53) | 3:14 | 2022-04-15 | 2023-03-10 |
 | [Don't Wanna Let Go](https://open.spotify.com/track/3GINyEMoUV13pzJxNMuvxW) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Don't Wanna Let Go](https://open.spotify.com/album/2RQ5mV8lNxAzLRi8xKTgie) | 2:28 | 2022-05-27 | 2023-03-10 |
@@ -62,6 +64,7 @@
 | [Feuilles](https://open.spotify.com/track/26BeLmiiIvwMzU4dJbpitV) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Feuilles](https://open.spotify.com/album/739JpDz78mPc7hTX0zLvhN) | 2:33 | 2021-11-11 | 2023-03-10 |
 | [Five Minutes](https://open.spotify.com/track/3smdcgKfBFj8xCchNZQjV0) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Five Minutes](https://open.spotify.com/album/3tntTvhbE4vfgZJ4CrtTG8) | 3:12 | 2021-11-11 |  |
 | [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 | 2021-11-11 | 2022-02-11 |
+| [Floating Secret](https://open.spotify.com/track/2zeCIPXBx3TGr4nGHUgVzA) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Floating Secret](https://open.spotify.com/album/4qnNAa0KWZ4h9BzfvO1RcJ) | 3:12 | 2024-03-26 |  |
 | [Fluffy](https://open.spotify.com/track/0s050M5SSv4hLyZ73cg5oh) | [NoCloudSky](https://open.spotify.com/artist/6ED30UOfoZVV94homQZYHl) | [Fluffy](https://open.spotify.com/album/0f7giVEcSFX5FY3rhAsBAj) | 2:14 | 2021-11-11 | 2022-04-06 |
 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Slow](https://open.spotify.com/artist/5II01coLXrJeSFThmONDoB) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 | 2021-11-11 |  |
 | [Fragmented Memories](https://open.spotify.com/track/0WK4DEtDECPLSiI93oyLbj) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 3:27 | 2022-05-10 | 2022-08-05 |
@@ -98,6 +101,7 @@
 | [Imagination](https://open.spotify.com/track/4uRf2Tj4d0DXLuekQDBwwU) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Imagination](https://open.spotify.com/album/7azMMhLw5xBgBi0Ir7uaOH) | 2:29 | 2023-09-15 |  |
 | [in deep](https://open.spotify.com/track/7rqQxJViCFUr8wcR834xtX) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [in deep](https://open.spotify.com/album/7zqrnHXPFDs3fpqpYRmbih) | 2:37 | 2022-07-08 |  |
 | [Inside](https://open.spotify.com/track/266AcipKTXIgXJxre9q96l) | [Karl Spark](https://open.spotify.com/artist/1fT4bjnaK1NRVL2Kt62clf) | [Eternity](https://open.spotify.com/album/1hao8mc9TnqAnw0CxneHYN) | 2:38 | 2023-08-11 |  |
+| [Interstellar Travel](https://open.spotify.com/track/5PFtFvNKX72dq2iWjXpMfi) | [Hans Blu](https://open.spotify.com/artist/3EREyIqFqpNOLCxa98i5k5) | [Interstellar Travel](https://open.spotify.com/album/7y00DWYw15yDh14i8SFWWR) | 3:58 | 2024-03-26 |  |
 | [joy love](https://open.spotify.com/track/6k7j89mjONxCj8FioP1cii) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [joy love](https://open.spotify.com/album/6G4Hf6evzUuupK4RQjGPQy) | 2:33 | 2023-06-19 |  |
 | [Jubilant](https://open.spotify.com/track/4dOnXu1V4izJqcB7D8qF9B) | [Rubiii Sky](https://open.spotify.com/artist/4TlmlpgwSdQJmElNxWh8Gz) | [Jubilant](https://open.spotify.com/album/0oo1OT0z6GVMKPXSq7yPJG) | 2:28 | 2024-02-22 |  |
 | [Jungle](https://open.spotify.com/track/1bYYkgs2MnDgmKstwHmTCN) | [Sleap Year](https://open.spotify.com/artist/3rHbl02YzcYLfkNurILXKH) | [Jungle](https://open.spotify.com/album/3gydl4PaR5RDJIirW4eARZ) | 2:08 | 2023-03-17 |  |
@@ -121,6 +125,7 @@
 | [Magnolia](https://open.spotify.com/track/1awvT0baqmByEbazQVzm3W) | [Chakra Lounge](https://open.spotify.com/artist/7Biy6OokTAlZOmGAIhx944) | [Magnolia](https://open.spotify.com/album/6e93BRGJ8p6Gg7Elwbb5un) | 3:13 | 2022-10-07 |  |
 | [Make it Count](https://open.spotify.com/track/0HEW5kt8TXf75HiAzhuht2) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Make it Count](https://open.spotify.com/album/1OVrw11t0hkDglQPrjB4oq) | 3:58 | 2021-11-11 | 2023-06-03 |
 | [Mar y Sol](https://open.spotify.com/track/7ET0GAyYAy35LEZJnFwFEa) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Mar y Sol](https://open.spotify.com/album/2zRJG1SeLJ2LzyULzKyUPj) | 3:28 | 2023-08-25 |  |
+| [martini](https://open.spotify.com/track/7j2pwMJSgQuM0fjokSvLHB) | [isabel okon](https://open.spotify.com/artist/6djuL8izqD2Et4k0b107hz) | [martini](https://open.spotify.com/album/2gilmtr2COoK4bDkidzCxc) | 2:09 | 2024-03-26 |  |
 | [Maui](https://open.spotify.com/track/6BUbZorl2FQwfGYDx5tVrO) | [Blue Daisy](https://open.spotify.com/artist/2l3CKt1KfWQAduDjHFDqsf) | [Maui](https://open.spotify.com/album/07vdmGKGSipTkXbBLlg5Ic) | 2:19 | 2022-11-25 |  |
 | [Melted Ice Cream](https://open.spotify.com/track/0XY7kMJEAKm0f3hzgUPFFA) | [JAS Ü RAGY](https://open.spotify.com/artist/7b2TMfZW8CqOmhlCbPD7Y6) | [Melted Ice Cream](https://open.spotify.com/album/6uUx9zYBBOl9VUFMUJvd67) | 3:11 | 2022-07-22 |  |
 | [Mermaid](https://open.spotify.com/track/0mMHRtKs72ns7zPDNaZzPY) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Mermaid](https://open.spotify.com/album/6s4ly0ToaV0tE2A3hdKWbV) | 2:39 | 2021-11-11 |  |
@@ -174,6 +179,7 @@
 | [Sidebar Sally](https://open.spotify.com/track/21ypSBlIsEL8siDMTmufhK) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Sidebar Sally](https://open.spotify.com/album/6fnD0mBt9kdNagaR2oBvmu) | 2:55 | 2022-02-10 |  |
 | [Sights](https://open.spotify.com/track/5UNnhT9Ni6tW72zFLADsjy) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Sights](https://open.spotify.com/album/1nKontDiwLQHVBj5usVEgt) | 3:34 | 2021-11-11 |  |
 | [SkyLine](https://open.spotify.com/track/6df4BhFdbN9GmbFcrjMKnn) | [Remy Bishop](https://open.spotify.com/artist/0wUt9Mhv62Ou9brQ1IpD3u) | [SkyLine](https://open.spotify.com/album/0QeUVy88a7MH1JkRnouLH0) | 2:12 | 2023-11-24 |  |
+| [Smoke It Up](https://open.spotify.com/track/2R8kqKkSlPF0u6ebpVcE32) | [Pascal Marcel](https://open.spotify.com/artist/33NKN9m9zscNEiDcHoqvkW) | [Smoke It Up](https://open.spotify.com/album/4xBTdNvoVBrnKlBpDbuOM2) | 2:09 | 2024-03-26 |  |
 | [Snapshot](https://open.spotify.com/track/5F3Js0D4Yj4eLQVeAKJcUV) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Snapshot](https://open.spotify.com/album/6RE5jCWoFWlVbnpRJiKSPi) | 2:56 | 2022-12-23 |  |
 | [So Solar](https://open.spotify.com/track/1El70dxYc3YFC4QsXkxpbp) | [SunnX](https://open.spotify.com/artist/1d1QrP53Eak9McNiwCDMpE) | [So Solar](https://open.spotify.com/album/4vwYFBcuYQEJ4HdxkVc66t) | 2:02 | 2021-11-11 |  |
 | [Solar Sun](https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Solar Sun](https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh) | 3:52 | 2021-11-11 | 2023-08-05 |

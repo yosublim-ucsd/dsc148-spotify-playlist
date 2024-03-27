@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 1,
+  "2024-03-27": 1,
   "date_first_scraped": "2023-06-01",
   "description": "",
   "name": "\ud835\ude5b\ud835\ude68\ud835\ude5d \ud835\ude63\ud835\ude59 \ud835\ude58\ud835\ude5d\ud835\ude65 \ud835\ude5f\ud835\ude62\ud835\ude68 ",
@@ -11405,6 +11405,24 @@
       "duration_ms": 147493,
       "name": "Freight Yard",
       "url": "https://open.spotify.com/track/12IZSRtnjulqIUX3Sad4gG"
+    },
+    {
+      "album": {
+        "name": "French Girl",
+        "url": "https://open.spotify.com/album/4N8sHmZLrlfaYVyVL0GeL4"
+      },
+      "artists": [
+        {
+          "name": "roro",
+          "url": "https://open.spotify.com/artist/0Y9jBmQGmBdDhlu3bSxECs"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86171,
+      "name": "French Girl",
+      "url": "https://open.spotify.com/track/72Hh1GP6yxzD8XlVlMdfz9"
     },
     {
       "album": {

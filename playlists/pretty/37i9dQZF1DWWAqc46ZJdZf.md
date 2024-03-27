@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > New age songs of empowerment and pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,525 likes - 55 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,581 likes - 55 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 54 | [RUN \(feat\. Young Thug\)](https://open.spotify.com/track/4EPfeopXB7rDQGR4ae0Xmt) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 4:45 |
 | 55 | [Just Us](https://open.spotify.com/track/3qtsAky6G5DJkmVvGL0Gx1) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Worship & Justice](https://open.spotify.com/album/4MEVPrIwFmSlRh5MWHH0J8) | 5:56 |
 
-Snapshot ID: `MCxlNDA4YzdmZmM0NWRlNjA1YTk3OTJjMDJiY2E1ZGUxZTdkNWEwMmIz`
+Snapshot ID: `MCwxY2MwMDQ2MjJiOTkwNTU5MWJhZDViMmM2ZDMzZmUyNWU5ODgwZTVm`

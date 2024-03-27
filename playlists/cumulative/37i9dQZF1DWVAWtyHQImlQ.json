@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "13 Smash Hits",
+        "url": "https://open.spotify.com/album/3LumVSaE9Zd7rvT4ngCHrD"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257440,
+      "name": "(It Looks Like) I'll Never Fall In Love Again",
+      "url": "https://open.spotify.com/track/70wRitifPn1bC1FGjOrFwN"
+    },
+    {
+      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -308,13 +326,17 @@
         {
           "name": "Roy Orbison",
           "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
         }
       ],
       "date_added": "2019-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 178760,
-      "name": "Crying - with The Royal Philharmonic Orchestra",
+      "name": "Crying",
       "url": "https://open.spotify.com/track/56SVBTiWKPVwqNxiNkCpKS"
     },
     {
@@ -428,6 +450,24 @@
       "duration_ms": 144880,
       "name": "Here, There And Everywhere - Remastered 2009",
       "url": "https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP"
+    },
+    {
+      "album": {
+        "name": "Bee Gees 1st (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1gdufKFjd3BrmWh824oNk6"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174960,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/4v691ZpLue4dwsV7eJQkIB"
     },
     {
       "album": {
@@ -586,7 +626,7 @@
       ],
       "date_added": "2019-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 233520,
       "name": "Joanna",
       "url": "https://open.spotify.com/track/3wU4Rm4aNBXTTOTZNOEyEz"
@@ -694,7 +734,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 162840,
       "name": "Love Letters (Alternate Take)",
       "url": "https://open.spotify.com/track/3DDV3CsZan0GcUVZAtvs7N"
@@ -748,7 +788,7 @@
       ],
       "date_added": "2019-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 155960,
       "name": "My True Story",
       "url": "https://open.spotify.com/track/1paWReMsPIqKGEOxdlHT2D"
@@ -856,7 +896,7 @@
       ],
       "date_added": "2019-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 195960,
       "name": "Sitting In The Park - Single Version",
       "url": "https://open.spotify.com/track/2DW26fhI4XCVUmR0ong4Nn"
@@ -950,6 +990,24 @@
       "duration_ms": 260666,
       "name": "The First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+    },
+    {
+      "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/3clrlTlu2wENPvdXz88YPh"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216266,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/1Kx5LdJPpqRXKUUHBu9CTe"
     },
     {
       "album": {
@@ -1061,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
+        "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d"
+    },
+    {
+      "album": {
         "name": "You'll Lose A Good Thing",
         "url": "https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ"
       },
@@ -1076,6 +1152,24 @@
       "duration_ms": 159866,
       "name": "You'll Lose A Good Thing",
       "url": "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
+    },
+    {
+      "album": {
+        "name": "Mermaids (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0YwPUGgDesj4O6Hw9TFtk9"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179333,
+      "name": "You've Really Got A Hold On Me",
+      "url": "https://open.spotify.com/track/2HoShHOKiQZNdozXCa117r"
     },
     {
       "album": {

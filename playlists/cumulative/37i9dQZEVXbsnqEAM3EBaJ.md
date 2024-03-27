@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,290 songs - 3 day 18 hr 1 min
+1,291 songs - 3 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -833,7 +833,8 @@
 | [Playing For Time \- Dark\-Side Mix](https://open.spotify.com/track/4EzzZaunP8AFmQi90mrYZD) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Playing For Time \(Dark\-Side Mix\)](https://open.spotify.com/album/6ivAharmVJNYBaffaLZXMi) | 6:17 | 2023-03-10 | 2023-03-25 |
 | [Plein D'Amour](https://open.spotify.com/track/4ZoAWoO0n96v8mekipLgDx) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Plein D'Amour](https://open.spotify.com/album/6EVahxO9mNINs8O1Bnb3MK) | 4:24 | 2023-04-07 | 2023-04-15 |
 | [PODER \- Bribbō Remix](https://open.spotify.com/track/6yW8LNNbmfSHWtVsy53FIC) | [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Bribbō](https://open.spotify.com/artist/0I4Jwenu9U3vqvMywzWz4L) | [PODER \(Bribbō Remix\)](https://open.spotify.com/album/0mYcMzIpeNYtm2lOcADnvH) | 4:20 | 2024-03-22 |  |
-| [Poder de Ganesha](https://open.spotify.com/track/0vXPr4oJbp8a8gsF4rHVqD) | [Iván Donalson](https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg) | [El Poder Divino](https://open.spotify.com/album/2PoyCS87WqwOGnfHKad6F3) | 4:04 | 2024-03-22 |  |
+| [Poder de Ganesha](https://open.spotify.com/track/0vXPr4oJbp8a8gsF4rHVqD) | [Iván Donalson](https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg) | [El Poder Divino](https://open.spotify.com/album/2PoyCS87WqwOGnfHKad6F3) | 4:04 | 2024-03-22 | 2024-03-27 |
+| [Poder de Tara Verde](https://open.spotify.com/track/0F14szjNidMRQ9CIcgx4ge) | [Iván Donalson](https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg) | [El Poder Divino](https://open.spotify.com/album/2PoyCS87WqwOGnfHKad6F3) | 8:00 | 2024-03-22 |  |
 | [Poema No\. 15 \- En Vivo](https://open.spotify.com/track/2hHZiiV0qKPOfT94JIFIwx) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Acústico \(En Vivo\)](https://open.spotify.com/album/3bc0DXravo99FhuX5ocVzR) | 3:13 | 2023-04-14 | 2023-04-29 |
 | [Poison Pill](https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Poison Pill](https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca) | 3:17 | 2023-03-24 | 2023-04-01 |
 | [Portobello Belle \- Extended Intro / Live At Hammersmith Odeon, London / 1983 / Mixed And Remastered 2023](https://open.spotify.com/track/0UwtpEJKrbCgrONqPjvcMu) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Live 1978 \- 1992](https://open.spotify.com/album/0HzNGuEaCuKDmYsZACO83h) | 7:22 | 2023-10-06 | 2023-10-28 |

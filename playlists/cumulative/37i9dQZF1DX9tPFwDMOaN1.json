@@ -2207,6 +2207,24 @@
     },
     {
       "album": {
+        "name": "Emptiness",
+        "url": "https://open.spotify.com/album/7Iipt9N6AEqCDHy73xPVtU"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186866,
+      "name": "Emptiness",
+      "url": "https://open.spotify.com/track/55W3ONBbW98Cqvk0ZIoaKR"
+    },
+    {
+      "album": {
         "name": "the Billage of perception: chapter three",
         "url": "https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g"
       },

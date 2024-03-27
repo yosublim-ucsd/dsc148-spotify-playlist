@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 133986,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/2ZIGZwbJGcjFrqimcqMHrf"
@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 122067,
       "name": "DAIJINAMON",
       "url": "https://open.spotify.com/track/15PqacIqJY8r44MuvO3USS"
@@ -2108,6 +2108,24 @@
       "duration_ms": 137180,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/70jIqx9w97Pt2Qn80X0GUI"
+    },
+    {
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/05GfyVLN8MED0p9Wy3VyOz"
+      },
+      "artists": [
+        {
+          "name": "LOM",
+          "url": "https://open.spotify.com/artist/1EUJrEkPvE0hC3qVhl8FuT"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175830,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/5Ahoqsn71dZDbanhtIgBEs"
     },
     {
       "album": {
@@ -3102,7 +3120,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 124716,
       "name": "Intro",
       "url": "https://open.spotify.com/track/7K6eRXTjhBVG3ahlUhZPfm"
@@ -3554,7 +3572,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 169806,
       "name": "Letters",
       "url": "https://open.spotify.com/track/1VfWLAu4LZrermWZnhbt1E"
@@ -3628,6 +3646,24 @@
       "duration_ms": 177087,
       "name": "LIT",
       "url": "https://open.spotify.com/track/7DBU8TXKL8mGWbwj8JcKxd"
+    },
+    {
+      "album": {
+        "name": "Self-Assertive",
+        "url": "https://open.spotify.com/album/0of1qpeFOd3nrz0eVOYPB4"
+      },
+      "artists": [
+        {
+          "name": "AssToro",
+          "url": "https://open.spotify.com/artist/1XVnuN1WPe1VMw78MuYeic"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109333,
+      "name": "Loneliness Notes",
+      "url": "https://open.spotify.com/track/6nTyOvaiJEHihfYioQBkH5"
     },
     {
       "album": {
@@ -4242,10 +4278,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 184487,
       "name": "One Love",
       "url": "https://open.spotify.com/track/5CDAva91X7wImJJ07puXeP"
+    },
+    {
+      "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/3i0lCdzLcLoZ2GDSg0vPU3"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157431,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/61X4zRkLsIrWKmtRTqFtdQ"
     },
     {
       "album": {
@@ -5821,6 +5875,24 @@
     },
     {
       "album": {
+        "name": "We step go",
+        "url": "https://open.spotify.com/album/1cr9iL8skqdxgKN2VmmF2H"
+      },
+      "artists": [
+        {
+          "name": "Question starrr",
+          "url": "https://open.spotify.com/artist/1OKAqC2zsJCceCozpGcIOu"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174558,
+      "name": "We step go",
+      "url": "https://open.spotify.com/track/4dnAXuR7VFTErSS52zsXHW"
+    },
+    {
+      "album": {
         "name": "Weak self tudo kill",
         "url": "https://open.spotify.com/album/6LMTXUorrSUkUUXfDp27Rw"
       },
@@ -6170,7 +6242,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 136636,
       "name": "Youth",
       "url": "https://open.spotify.com/track/5cacwNDm744DRT4ja7je6t"
@@ -6222,6 +6294,54 @@
       "duration_ms": 177914,
       "name": "\u00b1",
       "url": "https://open.spotify.com/track/72VqxxCtgZPGSnQbO1qzZx"
+    },
+    {
+      "album": {
+        "name": "\u5922\u898b\u308b\u8005\u306e\u5831\u3044",
+        "url": "https://open.spotify.com/album/2pdaDaaed0Pd6xTI2PW2JO"
+      },
+      "artists": [
+        {
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/27QgdEsqcHRgVAhy7zWTzw"
+        },
+        {
+          "name": "KAKKY",
+          "url": "https://open.spotify.com/artist/0Ryt5TJOtBvoRwozJDW3sC"
+        },
+        {
+          "name": "\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/6Tg13Bi1F0RVsHBEglMrsW"
+        },
+        {
+          "name": "HIBIKI",
+          "url": "https://open.spotify.com/artist/4hUkfseB97lM6qhbcfwERG"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318680,
+      "name": "\u5922\u898b\u308b\u8005\u306e\u5831\u3044",
+      "url": "https://open.spotify.com/track/3uBCLTq1gBL74dyCBLaKWu"
+    },
+    {
+      "album": {
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/5wCMx9HiXXvFNqrSamZfJn"
+      },
+      "artists": [
+        {
+          "name": "\u6953",
+          "url": "https://open.spotify.com/artist/0L8NJHQYHpLt05yuyEUOlf"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251253,
+      "name": "\u5e78",
+      "url": "https://open.spotify.com/track/5zRR6GzhLpvUkBlWINQJPF"
     },
     {
       "album": {

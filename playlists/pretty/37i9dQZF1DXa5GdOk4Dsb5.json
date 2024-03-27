@@ -1,12 +1,12 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 130749,
+  "num_followers": 130813,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWEzYjA2ZGFiMTUwZTU5OWQzZWZlOTlkNjc1NGJlYjU2ZTMzNzhj",
+  "snapshot_id": "MCw1ZjMwYThmNjAwODhjZmVjNzBhNWVhZGUzNzk5ZWMwMmUyNTVmNzIx",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Aventurero",
-        "url": "https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 190961,
-      "name": "Aventurero",
-      "url": "https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Mi Venganza",
         "url": "https://open.spotify.com/album/0GfKEcyPtvzo7hNNJFCAfZ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 191634,
       "name": "Mi Venganza",
       "url": "https://open.spotify.com/track/4MAGNMEAi6yUpC5w58eHLN"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Aventurero",
+        "url": "https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 190961,
+      "name": "Aventurero",
+      "url": "https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1355,22 +1355,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Voy a Conquistarte",
-        "url": "https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ"
+        "name": "De Pura Rabia",
+        "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
       },
       "artists": [
         {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 175051,
-      "name": "Voy a Conquistarte",
-      "url": "https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6"
+      "duration_ms": 187397,
+      "name": "De Pura Rabia",
+      "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1391,18 +1387,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "De Pura Rabia",
-        "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
+        "name": "Voy a Conquistarte",
+        "url": "https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ"
       },
       "artists": [
         {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 187397,
-      "name": "De Pura Rabia",
-      "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
+      "duration_ms": 175051,
+      "name": "Voy a Conquistarte",
+      "url": "https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Pa' Olvidar",
-        "url": "https://open.spotify.com/album/42C8pktaxUVrz8NKQEtTC3"
-      },
-      "artists": [
-        {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
-        }
-      ],
-      "duration_ms": 199210,
-      "name": "Dile al Amor",
-      "url": "https://open.spotify.com/track/6h7dFkekl5awWSe9IGtAfP"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "La Voz Popular de Am\u00e9rica",
         "url": "https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 214306,
       "name": "Si Se Fue, Se Fue",
       "url": "https://open.spotify.com/track/6WTF798e9hxNDWj95ISu5e"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Pa' Olvidar",
+        "url": "https://open.spotify.com/album/42C8pktaxUVrz8NKQEtTC3"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        }
+      ],
+      "duration_ms": 199210,
+      "name": "Dile al Amor",
+      "url": "https://open.spotify.com/track/6h7dFkekl5awWSe9IGtAfP"
     },
     {
       "added_at": "2023-04-14 06:00:00",

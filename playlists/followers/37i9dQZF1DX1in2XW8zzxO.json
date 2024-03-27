@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 65207,
+  "2024-03-27": 65281,
   "date_first_scraped": "2022-09-22",
   "description": "Amapiano tracks to fuel your beast mode!",
   "name": "Beast Mode Amapiano",
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 351450,
       "name": "Groove",
       "url": "https://open.spotify.com/track/2vfo9BBe8AZVKoQonYsWxk"
@@ -4231,6 +4231,32 @@
       "duration_ms": 416496,
       "name": "Washaaa",
       "url": "https://open.spotify.com/track/1PN9qUEsfYzf8r9Av4uafK"
+    },
+    {
+      "album": {
+        "name": "ZERO TO HUNDRED",
+        "url": "https://open.spotify.com/album/2f0qPjsPX4xPj1KdHnZeJ9"
+      },
+      "artists": [
+        {
+          "name": "2.0 Worldwide",
+          "url": "https://open.spotify.com/artist/4gCBp9CiBWLVfMKhjUFWtS"
+        },
+        {
+          "name": "Bangs MuziQ",
+          "url": "https://open.spotify.com/artist/4DiVrEeqbJOSHp7CWn7P8v"
+        },
+        {
+          "name": "Uncle Kee",
+          "url": "https://open.spotify.com/artist/263fuIlGLHbVR3tFA9taEm"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437712,
+      "name": "Welcome To Cairo!",
+      "url": "https://open.spotify.com/track/03B03MnFWmnPMLYno36gdi"
     },
     {
       "album": {

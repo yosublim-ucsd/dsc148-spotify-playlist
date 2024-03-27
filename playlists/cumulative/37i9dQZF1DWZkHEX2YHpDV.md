@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: The Story So Far
 
-1,170 songs - 2 day 13 hr 50 min
+1,171 songs - 2 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Apt\. 438](https://open.spotify.com/track/1NdtS7tLnCPWm84r7tlF7T) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [Daydreamer](https://open.spotify.com/album/4rWQEhE0VdEbwniGwhaazp) | 3:28 | 2022-03-25 | 2022-04-17 |
 | [Are You Impressed?](https://open.spotify.com/track/0maaBh5icICjXYfY0urTnU) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f) | 3:07 | 2023-09-22 | 2024-03-21 |
 | [Are You Impressed?](https://open.spotify.com/track/26hI6Cea82njvwJfG6t3Jl) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Are You Impressed?](https://open.spotify.com/album/00n4GIjQ2bZB9IteCDeIGU) | 3:07 | 2023-04-10 | 2023-07-26 |
+| [Are You Impressed?](https://open.spotify.com/track/46UDlYUFZgpRDzouOGBM1m) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh) | 3:07 | 2024-03-22 |  |
 | [Arm's Length](https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Arm's Length](https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA) | 4:33 | 2024-01-19 |  |
 | [Arm's Length](https://open.spotify.com/track/2k3SHrWJROuEVFkJwbI94Z) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids](https://open.spotify.com/album/5WKGQhrvySygwE72Ny9nMb) | 4:18 | 2023-04-10 | 2023-04-12 |
 | [Arrows](https://open.spotify.com/track/35r4qfODdAxAUuDl7VRE8C) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE), [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [nulla.](https://open.spotify.com/album/2w0oUtRdOjhPPS30TcJi4X) | 3:35 | 2023-12-15 |  |
@@ -708,7 +709,7 @@
 | [No Love In LA](https://open.spotify.com/track/6bmJYonQyJrjlmBiGf9OeK) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 3:22 | 2022-11-04 | 2023-04-11 |
 | [No Love In LA](https://open.spotify.com/track/3umZJ14AG4lctE7Dj7xEVn) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6eeA8ZWz6tMe2lpNQ9QOMr) | 3:22 | 2022-07-08 | 2022-10-31 |
 | [No Love In LA](https://open.spotify.com/track/79rJtBxUfZzPuEYLoGma28) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6F5Nq2vim1uZ960TmhVuLd) | 3:22 | 2021-12-10 | 2022-07-29 |
-| [No News Is Good News](https://open.spotify.com/track/6cZntUHzJ0shH0wq7mEKUg) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [No News Is Good News](https://open.spotify.com/album/7sLi0samb6YmLrHzVa94Ei) | 3:29 | 2024-02-23 |  |
+| [No News Is Good News](https://open.spotify.com/track/6cZntUHzJ0shH0wq7mEKUg) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [No News Is Good News](https://open.spotify.com/album/7sLi0samb6YmLrHzVa94Ei) | 3:29 | 2024-02-23 | 2024-03-27 |
 | [No Shoes in the Coffee Shop \(Or Socks\)](https://open.spotify.com/track/67BoLcQZhPok0yVe9J0Br8) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Why Would I Watch](https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ) | 3:20 | 2023-05-12 | 2023-09-23 |
 | [Nomu](https://open.spotify.com/track/4vLqMaYufCNrk4D2DA3mja) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Nomu](https://open.spotify.com/album/0B4NOE3I9keouma91iRaLx) | 2:47 | 2021-12-10 | 2022-05-20 |
 | [Normal \(Acoustic\)](https://open.spotify.com/track/2gbDhXquxmfOEDhOyWaZrc) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Sonder \(Deluxe\)](https://open.spotify.com/album/3GsklSgrjsGXpon2kSFT5J) | 4:33 | 2022-11-04 | 2023-04-12 |

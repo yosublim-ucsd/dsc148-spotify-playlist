@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,713 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,780 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 49 | [Heat Waves \- Acoustic](https://open.spotify.com/track/0QzY6rP7C8IWMnpEyuQmC6) | [Daniel Robinson](https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa) | [Heat Waves \(Acoustic\)](https://open.spotify.com/album/4UFCNxjO9gA2SvQ6YV2mro) | 3:13 |
 | 50 | [Lonely \(with benny blanco\) \- Acoustic](https://open.spotify.com/track/4fKiuIavbsoTRZ6R7xuAyT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\) \[Main + Acoustic\]](https://open.spotify.com/album/7HWrpFGNHEaylb0DK0xrkH) | 2:35 |
 
-Snapshot ID: `MCw1NzdkYzIyOTI4MWM2MWI1M2E1ZTEzYTRjNTlhMTA2ZGMxZmExYTE1`
+Snapshot ID: `MCxlNDIxZDliZDcyZWY4NWM1OTg4YzY5YTVhYTAyNTg2NDlhNWVhOWUx`

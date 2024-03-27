@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Manifesto Musical (Ao Vivo / Vol. 1)",
+        "url": "https://open.spotify.com/album/3qL1ZV5aLsA2U0lVdIadau"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190161,
+      "name": "A Maior Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/14JKzKrJbPDflw8XyATMey"
+    },
+    {
+      "album": {
         "name": "A Mala",
         "url": "https://open.spotify.com/album/4g6F3WuVRHQVHQSKaDxVmK"
       },
@@ -726,10 +744,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 139693,
       "name": "Atiradinha - Ao Vivo",
       "url": "https://open.spotify.com/track/1tAyd99jKjRkXWyNxZyF3a"
+    },
+    {
+      "album": {
+        "name": "Ressurgindo das Cinzas",
+        "url": "https://open.spotify.com/album/59dkg3TPf2DnpHtWqFQvI9"
+      },
+      "artists": [
+        {
+          "name": "Everton e Marcos",
+          "url": "https://open.spotify.com/artist/3vWwVA0XeEpUj1hjIBwPzg"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171168,
+      "name": "At\u00e9 Nunca Mais",
+      "url": "https://open.spotify.com/track/2usm5XOFde2zSxaKJ3fNLN"
     },
     {
       "album": {
@@ -1165,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Vibrations",
+        "url": "https://open.spotify.com/album/4KUSZZs7eDgNK2OlCUdBhZ"
+      },
+      "artists": [
+        {
+          "name": "Wallas Arrais",
+          "url": "https://open.spotify.com/artist/33GsYMJgWMgIt4vbhUwTEe"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132936,
+      "name": "Bumbum Terremoto",
+      "url": "https://open.spotify.com/track/3BGXDXoUna59g6M6WcnF1w"
+    },
+    {
+      "album": {
         "name": "Gustavo Mioto Ao Vivo Em Fortaleza",
         "url": "https://open.spotify.com/album/0G0XDcUxMafXvky8AZttxF"
       },
@@ -1216,6 +1270,24 @@
       "duration_ms": 158325,
       "name": "Cama Preferida - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5vP1KO5bslgsrg1WBQc6S6"
+    },
+    {
+      "album": {
+        "name": "Camisa de For\u00e7a",
+        "url": "https://open.spotify.com/album/1R5pzyVylKyTCznYnJ1zQX"
+      },
+      "artists": [
+        {
+          "name": "Chininha",
+          "url": "https://open.spotify.com/artist/3lI032ULhqFakqCue9srcR"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187834,
+      "name": "Camisa de For\u00e7a",
+      "url": "https://open.spotify.com/track/64qPPNWpZU8FPgVpCx3zeY"
     },
     {
       "album": {
@@ -1444,7 +1516,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 266124,
       "name": "Ci\u00fame de Ficante - Ao Vivo",
       "url": "https://open.spotify.com/track/0PQReJcKSm475ZHOzWSMCD"
@@ -1466,6 +1538,24 @@
       "duration_ms": 177856,
       "name": "Ci\u00fame Doido",
       "url": "https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY"
+    },
+    {
+      "album": {
+        "name": "Ver\u00e3o 2023",
+        "url": "https://open.spotify.com/album/0AHnqhnRVbpVRQ6pdIBCrS"
+      },
+      "artists": [
+        {
+          "name": "Francildo Silva",
+          "url": "https://open.spotify.com/artist/0o610ZIdyAxlQ8qWweA0mw"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Ci\u00fames de Ficante",
+      "url": "https://open.spotify.com/track/7bWTyzWNst2XuGtYv3e3FY"
     },
     {
       "album": {
@@ -1622,6 +1712,28 @@
       "duration_ms": 189525,
       "name": "CPF Cancelado - Ao Vivo",
       "url": "https://open.spotify.com/track/4a69tuDX6ZwGtVzHBoQiby"
+    },
+    {
+      "album": {
+        "name": "A Pele do Futuro",
+        "url": "https://open.spotify.com/album/1K9kdxE8GhOHuOnFYxoBco"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220226,
+      "name": "Cuidando de Longe",
+      "url": "https://open.spotify.com/track/2DgAknj9a6riqm4h7mZdGD"
     },
     {
       "album": {
@@ -2789,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "Buteco in Boston (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139617,
+      "name": "I Love You Baby - Ao Vivo",
+      "url": "https://open.spotify.com/track/0GlX2QCMFpZdG7Fmd9CRWO"
+    },
+    {
+      "album": {
         "name": "Igual Ela S\u00f3 Uma",
         "url": "https://open.spotify.com/album/5jje5KBAPQrZXdASs4Uv5y"
       },
@@ -3253,6 +3383,24 @@
     },
     {
       "album": {
+        "name": "Rol\u00ea dos Meninos",
+        "url": "https://open.spotify.com/album/1JPcP5OHhKaej7WDpgMTp4"
+      },
+      "artists": [
+        {
+          "name": "Beto & Breno",
+          "url": "https://open.spotify.com/artist/7iFKA14MpJ9bhPhZIUqDOS"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162150,
+      "name": "Melhor Rol\u00ea do Mundo",
+      "url": "https://open.spotify.com/track/0B9VPrWWiwhKUSEN0yIpO2"
+    },
+    {
+      "album": {
         "name": "Menos \u00c9 Mais (Ao Vivo)",
         "url": "https://open.spotify.com/album/6iGvvnauoKKjkutnB2b7lB"
       },
@@ -3312,6 +3460,28 @@
       "duration_ms": 183118,
       "name": "Meu Cora\u00e7\u00e3o Surtou - Ao Vivo",
       "url": "https://open.spotify.com/track/1rE4rtonA6QbhpwaPAJm4e"
+    },
+    {
+      "album": {
+        "name": "Meu Desejo",
+        "url": "https://open.spotify.com/album/6MIJa3YpNC1C3SC1uchv9N"
+      },
+      "artists": [
+        {
+          "name": "Marcus V\u00ednicius",
+          "url": "https://open.spotify.com/artist/0jb3xKjYF7isUmx6yrDqcJ"
+        },
+        {
+          "name": "Cefas Music",
+          "url": "https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330857,
+      "name": "Meu Desejo",
+      "url": "https://open.spotify.com/track/2rsr2BUDbmiYIOApnDmLAI"
     },
     {
       "album": {
@@ -3588,7 +3758,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 168887,
       "name": "Nem Com A Pol\u00edcia - Ao Vivo",
       "url": "https://open.spotify.com/track/1E9W77tIQzO90pVpm3dg2c"
@@ -4197,6 +4367,28 @@
     },
     {
       "album": {
+        "name": "Pared\u00e3o",
+        "url": "https://open.spotify.com/album/1Qz7k0o2W0D1EPTh0fHcRC"
+      },
+      "artists": [
+        {
+          "name": "Talis e Welinton",
+          "url": "https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t"
+        },
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175111,
+      "name": "Pared\u00e3o",
+      "url": "https://open.spotify.com/track/7BQ1caXyyykx49tKtFj5X6"
+    },
+    {
+      "album": {
         "name": "Avi\u00f5es Fantasy (Ao Vivo)",
         "url": "https://open.spotify.com/album/1qOhPJ43PrzQMkpUGqNAcy"
       },
@@ -4252,6 +4444,24 @@
       "duration_ms": 163730,
       "name": "Pesquisa no Google (feat. Henrique & Diego) - Ao Vivo",
       "url": "https://open.spotify.com/track/1xg3EbmhAr1cfNOA55pvKH"
+    },
+    {
+      "album": {
+        "name": "Hipnose Ao Vivo",
+        "url": "https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci"
+      },
+      "artists": [
+        {
+          "name": "Pedro e Benicio",
+          "url": "https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177919,
+      "name": "Petit Gateau - Ao Vivo",
+      "url": "https://open.spotify.com/track/3x3E9rYIFnvtHprtojqShL"
     },
     {
       "album": {
@@ -4791,6 +5001,24 @@
     },
     {
       "album": {
+        "name": "Proposta Ousada",
+        "url": "https://open.spotify.com/album/5GPY0YeuM308v8rKT1cUiM"
+      },
+      "artists": [
+        {
+          "name": "Sem Reznha",
+          "url": "https://open.spotify.com/artist/1jcSJxePI4nTKpjHrWfBNd"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160742,
+      "name": "Quero Ver Voc\u00ea Fazer",
+      "url": "https://open.spotify.com/track/4S7qM1EarHgEd0DUnzHSMf"
+    },
+    {
+      "album": {
         "name": "Encontrin 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4oZHsyeGM0RGSJlfGZWeo9"
       },
@@ -5154,7 +5382,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 137142,
       "name": "Se Eu Piscar Ela Volta",
       "url": "https://open.spotify.com/track/0uGH74ABGXxVxWQYJaPzHQ"
@@ -5408,10 +5636,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 206628,
       "name": "Ser\u00e1 Que a Gente Tem Volta - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2AKGcG0KzgI4GCq8OjnZD7"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo em Fortaleza",
+        "url": "https://open.spotify.com/album/00E3EvVE12UEJu3K4ouPIb"
+      },
+      "artists": [
+        {
+          "name": "Felip\u00e3o",
+          "url": "https://open.spotify.com/artist/29fHZcTMW9pUzhTF4Deu0j"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185730,
+      "name": "Ser\u00e1 Que tem Volta - Ao Vivo",
+      "url": "https://open.spotify.com/track/07L2oiBf2xxJtxcVMQOxDh"
     },
     {
       "album": {
@@ -5466,7 +5712,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 178111,
       "name": "Sexo Comigo",
       "url": "https://open.spotify.com/track/4HGcOPB6otuHusjyI7QLk2"
@@ -5858,6 +6104,24 @@
       "duration_ms": 154741,
       "name": "S\u00f3 pra me Machucar",
       "url": "https://open.spotify.com/track/1ev2QXGGjssMJBGOf87x3T"
+    },
+    {
+      "album": {
+        "name": "Volume Topado",
+        "url": "https://open.spotify.com/album/7gQQaXLXVubhpuOkSVlD80"
+      },
+      "artists": [
+        {
+          "name": "Marcynho Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165393,
+      "name": "S\u00f3 Quer Sexo Comigo",
+      "url": "https://open.spotify.com/track/6FuRpB293vtUW7VmxEWeRB"
     },
     {
       "album": {
@@ -6688,10 +6952,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 148739,
       "name": "Voltadinha",
       "url": "https://open.spotify.com/track/3dNzVNhH1tUGcnw3CJEPmQ"
+    },
+    {
+      "album": {
+        "name": "Ah!Mar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb"
+      },
+      "artists": [
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        },
+        {
+          "name": "Lu\u00edza & Maur\u00edlio",
+          "url": "https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179762,
+      "name": "Voltadinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/3zRCqQVCc73rfXPYvserdy"
     },
     {
       "album": {

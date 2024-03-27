@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Conway The Machine",
-  "num_followers": 1602544,
+  "num_followers": 1602539,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmI2Y2MzNDdhMWE5MGJhZmRjZThkYmUzMTRhOWIzOTdjY2QwOWNl",
+  "snapshot_id": "MCw5N2ZlZTQ4NTEwNzQwNzFkNWNlY2FjZTllYjQxOTliNjI3NTBlODVl",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -351,26 +351,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Lyrics to GO Vol. 5",
-        "url": "https://open.spotify.com/album/0R78djLTRtZIvdySvSRjql"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 155169,
-      "name": "TULUM",
-      "url": "https://open.spotify.com/track/7xSlkebKRYibm6plhrEQAX"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Not Now I'm Busy",
         "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
       },
@@ -395,6 +375,26 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Lyrics to GO Vol. 5",
+        "url": "https://open.spotify.com/album/0R78djLTRtZIvdySvSRjql"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "duration_ms": 155169,
+      "name": "TULUM",
+      "url": "https://open.spotify.com/track/7xSlkebKRYibm6plhrEQAX"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "A Forsaken Lover's Plea",
         "url": "https://open.spotify.com/album/02MmFj3ONHFwvZMfZXWtPy"
       },
@@ -411,46 +411,6 @@
       "duration_ms": 180588,
       "name": "Polish Jazz",
       "url": "https://open.spotify.com/track/60D2JqdH4iixYCW5KQFNyR"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Muggsy Bogues",
-        "url": "https://open.spotify.com/album/476DYeSACCOnbGwVThJ82W"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Muggsy Bogues",
-      "url": "https://open.spotify.com/track/17VsGeETmPijC3sjZq1lwu"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Vertino",
-        "url": "https://open.spotify.com/album/5sVyLTNrY5i8PJa8tImE5R"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 333671,
-      "name": "Vertino",
-      "url": "https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -475,6 +435,62 @@
       "duration_ms": 161506,
       "name": "Mancala (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Vertino",
+        "url": "https://open.spotify.com/album/5sVyLTNrY5i8PJa8tImE5R"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 333671,
+      "name": "Vertino",
+      "url": "https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Not Now I'm Busy",
+        "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "duration_ms": 191146,
+      "name": "Three Little Pigs",
+      "url": "https://open.spotify.com/track/6kcjECjGff27bbXZ4fILFa"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Muggsy Bogues",
+        "url": "https://open.spotify.com/album/476DYeSACCOnbGwVThJ82W"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Muggsy Bogues",
+      "url": "https://open.spotify.com/track/17VsGeETmPijC3sjZq1lwu"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -543,22 +559,6 @@
       "duration_ms": 313397,
       "name": "Oprah & Gayle (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/0CFqRIdR0LbMGGHSjTaQYt"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Not Now I'm Busy",
-        "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "Three Little Pigs",
-      "url": "https://open.spotify.com/track/6kcjECjGff27bbXZ4fILFa"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Lyrics to GO Vol. 5",
+        "url": "https://open.spotify.com/album/0R78djLTRtZIvdySvSRjql"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Backstage in Minneapolis",
+      "url": "https://open.spotify.com/track/41vQRKj7mWmwDWKnkrUJhI"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Lyrics to GO Vol. 5",
-        "url": "https://open.spotify.com/album/0R78djLTRtZIvdySvSRjql"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Backstage in Minneapolis",
-      "url": "https://open.spotify.com/track/41vQRKj7mWmwDWKnkrUJhI"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "The Patience",
         "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
       },
@@ -823,22 +823,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Penalty of Leadership",
-        "url": "https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL"
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc"
       },
       "artists": [
         {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+          "name": "Jourden",
+          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
         }
       ],
-      "duration_ms": 185806,
-      "name": "Formal Invite",
-      "url": "https://open.spotify.com/track/6JAVPIgZPynxA3xKtd8WW0"
+      "duration_ms": 162162,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -875,18 +871,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc"
+        "name": "Penalty of Leadership",
+        "url": "https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL"
       },
       "artists": [
         {
-          "name": "Jourden",
-          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 162162,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
+      "duration_ms": 185806,
+      "name": "Formal Invite",
+      "url": "https://open.spotify.com/track/6JAVPIgZPynxA3xKtd8WW0"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "BRON",
-        "url": "https://open.spotify.com/album/4cCYV9iMR8cWSM1MBYlbWB"
+        "name": "Max Julien",
+        "url": "https://open.spotify.com/album/0pXT8h1meziQU01MyMA89Z"
       },
       "artists": [
         {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 148702,
-      "name": "BRON",
-      "url": "https://open.spotify.com/track/0ZnuDlDFjSCphxqtB04Oq1"
+      "duration_ms": 170800,
+      "name": "Max Julien",
+      "url": "https://open.spotify.com/track/6qYCswyML9pHuvYDBdZJYd"
     },
     {
       "added_at": "2024-03-22 04:00:00",

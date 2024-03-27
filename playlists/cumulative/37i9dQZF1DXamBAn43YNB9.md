@@ -4,7 +4,7 @@
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-121 songs - 7 hr 7 min
+122 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN) | 2:51 | 2023-08-01 |  |
 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-03-07 | 2024-03-21 |
 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-14 |  |
-| [Diamonds and Gold](https://open.spotify.com/track/6aFfDXmScA1MoYepsaD3pm) | [Meghan Maike](https://open.spotify.com/artist/4kBaxVPaAbjTyIb7qItJzl) | [Dead Horse Creek](https://open.spotify.com/album/35AQrnW1vnZFyFtyRA27s3) | 4:41 | 2023-10-27 |  |
+| [Diamonds and Gold](https://open.spotify.com/track/6aFfDXmScA1MoYepsaD3pm) | [Meghan Maike](https://open.spotify.com/artist/4kBaxVPaAbjTyIb7qItJzl) | [Dead Horse Creek](https://open.spotify.com/album/35AQrnW1vnZFyFtyRA27s3) | 4:41 | 2023-10-27 | 2024-03-27 |
+| [Diamonds and Gold](https://open.spotify.com/track/7jAXgQLEEXVfrJkiYn624O) | [Meghan Maike](https://open.spotify.com/artist/4kBaxVPaAbjTyIb7qItJzl) | [Dead Horse Creek](https://open.spotify.com/album/4NHYFaC5sDmUcufvztLjXp) | 4:41 | 2024-03-21 |  |
 | [Different Kind Of High](https://open.spotify.com/track/6qFyQDHtl1WgnTt2bGi74U) | [Katelann Maree](https://open.spotify.com/artist/4oHkIit2ZOd9HqKws5LKcf) | [Different Kind Of High](https://open.spotify.com/album/454VDDoKkNtDWpmlGyimoq) | 3:56 | 2023-06-15 | 2023-07-07 |
 | [Don't Wanna Meet Your Parents](https://open.spotify.com/track/288yWYGCLTgvgeuz3XKYJI) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [Don't Wanna Meet Your Parents](https://open.spotify.com/album/7FxEaf5QzdEYno0jDfPVY1) | 3:06 | 2023-10-27 |  |
 | [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 | 2023-06-15 |  |

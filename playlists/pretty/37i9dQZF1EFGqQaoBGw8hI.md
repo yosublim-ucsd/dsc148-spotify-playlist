@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,690 likes - 575 songs - 1 day 16 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,691 likes - 575 songs - 1 day 16 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,8 +217,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 207 | [Son Of Your Father](https://open.spotify.com/track/0LiczY4DOe2qDlTw6KgcJg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 3:48 |
 | 208 | [Dream \# 1](https://open.spotify.com/track/4zGOAR0zFJf4IEKOlbqvJA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board](https://open.spotify.com/album/7nXmwymeNTvJd1CnpEugH2) | 0:39 |
 | 209 | [Once We Were Kings](https://open.spotify.com/track/4oxUtmvokfpIqg1HJ9g4pf) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 4:14 |
-| 210 | [The Diving Board](https://open.spotify.com/track/0QRKs4JhXJR7BG4E0Zc3Ka) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 5:59 |
-| 211 | [Tonight](https://open.spotify.com/track/2X9tm8VBLbN7UUnX8xCaV4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 7:52 |
+| 210 | [Tonight](https://open.spotify.com/track/2X9tm8VBLbN7UUnX8xCaV4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 7:52 |
+| 211 | [The Diving Board](https://open.spotify.com/track/0QRKs4JhXJR7BG4E0Zc3Ka) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 5:59 |
 | 212 | [A Word In Spanish](https://open.spotify.com/track/1EsN2D481Q3E8vz68nkNoA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:39 |
 | 213 | [Tambourine](https://open.spotify.com/track/3Y6uVmU5ndnKlbGdyuwP4t) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 4:17 |
 | 214 | [The Cage](https://open.spotify.com/track/0DCyXrySuYSRIVDIuLPzdd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 3:26 |
@@ -361,8 +361,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 351 | [If The River Can Bend](https://open.spotify.com/track/1ZjjErIZeYuwsy6GzdVttX) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 5:21 |
 | 352 | [Birds](https://open.spotify.com/track/6wUgJcub5RD3PXGsmR53Uv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 3:52 |
 | 353 | [Blue Avenue](https://open.spotify.com/track/6CK7N5K49iTzBnReWF89Nj) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 4:18 |
-| 354 | [Understanding Women](https://open.spotify.com/track/1L209N6WHxTyzljrKhRKN4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:03 |
-| 355 | [Cry](https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Cry](https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa) | 3:15 |
+| 354 | [Cry](https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Cry](https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa) | 3:15 |
+| 355 | [Understanding Women](https://open.spotify.com/track/1L209N6WHxTyzljrKhRKN4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:03 |
 | 356 | [Heart Blanche Intro](https://open.spotify.com/track/2UWOyb5yo1aB7sgQbXrBFM) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Heart Blanche](https://open.spotify.com/album/7gUiG0bEsWsD5kEUHVIajS) | 1:22 |
 | 357 | [When A Woman Doesn't Want You](https://open.spotify.com/track/2hfWkzKibVUGoaM24mit5J) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 4:55 |
 | 358 | [Cold Highway \- Remastered 1995](https://open.spotify.com/track/0CY864emS4cZAUYM55R8sW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:25 |
@@ -538,11 +538,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 528 | [Tortured](https://open.spotify.com/track/7dZZCEhlZotH74rNfdl9pH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:44 |
 | 529 | [Fools In Fashion](https://open.spotify.com/track/64knGUmkWtf2DkbxgFTASc) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:18 |
 | 530 | [I'll Stop Living When You Stop Loving Me \- Piano Demo](https://open.spotify.com/track/6MTdkyCyUn0d2umJWKpuRM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:23 |
-| 531 | [Just An Ordinary Man \- Piano Demo](https://open.spotify.com/track/1pN0ABe43VkVbJF4taGWDm) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:01 |
-| 532 | [Did Anybody Sleep With Joan Of Arc](https://open.spotify.com/track/77WtobyE37HDLY80c4uXkb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:19 |
-| 533 | [Take Me Down To The Ocean](https://open.spotify.com/track/2d5e2UuUibqZJ0WXmwUkh8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:08 |
-| 534 | [Highlander](https://open.spotify.com/track/2mtiU4df0bUQgpTFgakJBR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 3:40 |
-| 535 | [Back To Paramount](https://open.spotify.com/track/7a9CW7ve8muchxA3Ei6leZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:43 |
+| 531 | [Back To Paramount](https://open.spotify.com/track/7a9CW7ve8muchxA3Ei6leZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:43 |
+| 532 | [Just An Ordinary Man \- Piano Demo](https://open.spotify.com/track/1pN0ABe43VkVbJF4taGWDm) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:01 |
+| 533 | [Did Anybody Sleep With Joan Of Arc](https://open.spotify.com/track/77WtobyE37HDLY80c4uXkb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:19 |
+| 534 | [Take Me Down To The Ocean](https://open.spotify.com/track/2d5e2UuUibqZJ0WXmwUkh8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:08 |
+| 535 | [Highlander](https://open.spotify.com/track/2mtiU4df0bUQgpTFgakJBR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 3:40 |
 | 536 | [A Simple Man](https://open.spotify.com/track/6by7no3mwQb3YibfpsuNfu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 3:52 |
 | 537 | [Hey Papa Legba](https://open.spotify.com/track/1InIfRmQryLtFvUcskVVCe) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 5:17 |
 | 538 | [Tactics](https://open.spotify.com/track/4GP1WhzP3nQxJZgSUIjNsQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:48 |
@@ -584,4 +584,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 574 | [Reprise](https://open.spotify.com/track/4tXLX0unQSWg2TenJa3MEx) | [Uncle Ho](https://open.spotify.com/artist/1DD4yp3ebKBtH6Vm5auC7B) | [Everything Must Be Destroyed](https://open.spotify.com/album/61ewEVlLpT7EiB9zGhwKd6) | 1:06 |
 | 575 | [Sua Canção](https://open.spotify.com/track/5ABQkEGK30DVvB07JhYh5H) | [Plinio Oliveira](https://open.spotify.com/artist/3H0QZbeiCwLxBAqbnzbBK0), [Coro Infantil Sou da Paz](https://open.spotify.com/artist/1NVq6eZp8PQiYBSVAFNahZ), [Orquestra Jovem da Paz](https://open.spotify.com/artist/05RyEHgRQ9x8tJ25ulYEN4) | [Show da Paz 2017](https://open.spotify.com/album/4p3WhZIn7qLUX1UCEDeCUc) | 4:19 |
 
-Snapshot ID: `Mjg1MjM2NDAsMDAwMDAwMDA0ZDMyMjMyMjk0MTVmMjkyZjI4MzQzODBlMzNhOTFmOQ==`
+Snapshot ID: `Mjg1MjUwODAsMDAwMDAwMDAxYzcyZmYxNmFhOTc4ZTA0ZmM2NjNkYWYwOTZiZjllZQ==`

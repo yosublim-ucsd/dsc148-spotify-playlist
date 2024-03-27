@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Waxahatchee
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,006 likes - 151 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,101 likes - 151 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 84 | [Never gone](https://open.spotify.com/track/0QT4IfEZnZOmiSnYw0eabI) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Never gone](https://open.spotify.com/album/08kxKWy20ZwGmoMnAUTQEM) | 5:22 |
 | 85 | [All I Have](https://open.spotify.com/track/5v6Jj76nTkyTTvZ70NSUVJ) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [All I Have](https://open.spotify.com/album/0ViaFGRXDdTIzIEtTNELs2) | 3:46 |
 | 86 | [Logic of Color \- Variation](https://open.spotify.com/track/3bVc8xgaWA0ejgwed8B6Sl) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB), [Metropolis Ensemble](https://open.spotify.com/artist/7M4SGchCWEPMVvx16DKXOy), [Paul Wiancko](https://open.spotify.com/artist/0A8HBV4n2KCWWnBEVZK8dw), [William Brittelle](https://open.spotify.com/artist/466nMSvwGWb3f8G7hR4Gja) | [Logic of Color \(Variation\)](https://open.spotify.com/album/3JFO5xqxWHH803ugN0y7LV) | 4:47 |
-| 87 | [I'll Never Leave You Alone](https://open.spotify.com/track/57Xa77d97gAuxKxeTrgEj0) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [I'll Never Leave You Alone](https://open.spotify.com/album/5xRRnkMr4VvfBSiPRT7Nc4) | 3:59 |
+| 87 | [I'll Never Leave You Alone](https://open.spotify.com/track/2A3EioYwwgeBT84WplFQ6Q) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [All Now](https://open.spotify.com/album/3N3I408c25BJ3PjmLP5Itg) | 3:59 |
 | 88 | [How to Forget](https://open.spotify.com/track/5E7ShoQeHx2WoEa5uFwRWW) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [How to Forget](https://open.spotify.com/album/3MYJWD831kp1HuvlBCE61X) | 3:54 |
 | 89 | [Your Eyes Tell Stories](https://open.spotify.com/track/2L0lffL9iJypY0PDGEg169) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Your Eyes Tell Stories](https://open.spotify.com/album/1QgZwqU2YobE0pxiD3tzkE) | 5:20 |
 | 90 | [Is There Still a Light On?](https://open.spotify.com/track/5y6psYdUSjFFVTGcN5YqmE) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Is There Still a Light On?](https://open.spotify.com/album/2yCWy5yUJaVhYnm5wZTCET) | 4:11 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 150 | [Upcountry Lemonade](https://open.spotify.com/track/6oe2fxqV3DzlJabXcTem1n) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Upcountry Lemonade](https://open.spotify.com/album/0T14xe1cObe3UCCzeGIS8U) | 3:14 |
 | 151 | [Slow Decay](https://open.spotify.com/track/5dQ6k002CdfiBXVtjA93ra) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Slow Decay](https://open.spotify.com/album/3WcOJPn6pzdftLyzrmpOCK) | 3:19 |
 
-Snapshot ID: `MCwzYzUxODJkNWFhYjY3ZGMxNmEzMzMzMGExYTQ1OGVmYTFiMWFmNTZk`
+Snapshot ID: `MCxmOWU4NzM2YTZhMjIwYTMxMGM5M2VkZjYyYTVjZDU1MDhkNzRkZjBm`

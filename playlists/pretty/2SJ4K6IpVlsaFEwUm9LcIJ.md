@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 18,595 likes - 30 songs - 1 hr 41 min
+[margeaux](https://open.spotify.com/user/1220511975) - 18,595 likes - 32 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,5 +38,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 28 | [The Beat Of Black Wings](https://open.spotify.com/track/2DyQKUqKUpOFV3Fs3ijW9Q) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 5:24 |
 | 29 | [Up Er Mei](https://open.spotify.com/track/1N7oGtGMR3GzIN1WpcS62z) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Hourglass](https://open.spotify.com/album/3E7Sj3kKbxY1Tsp7U0SKQi) | 3:46 |
 | 30 | [Against All Odds \(Take a Look at Me Now\) \- 2016 Remaster](https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:26 |
+| 31 | [Like Fire Like Ice](https://open.spotify.com/track/2J2Xzrf5nUnX3YZE6lPa8n) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Alternity](https://open.spotify.com/album/7zS98tpOYwsJje1Qs9KhOx) | 1:58 |
+| 32 | [I Just Want to Be Your Friend](https://open.spotify.com/track/4rKpi6H6IFtuBVAdNN3fUe) | [The Millennium](https://open.spotify.com/artist/2C49JSiNeHN0xwLQCohpyY) | [Begin](https://open.spotify.com/album/6sSb8m6MPGJIEMKH8FWCS0) | 2:37 |
 
-Snapshot ID: `MjU5OSxhNzg3ODRhOTZmYzI2YWJhMWQ4YjRkNjUwNGE3NzQ0ZjRjY2IxNzhh`
+Snapshot ID: `MjYwMSxmMzRhYTlkYzZlOTRiN2E4MjZlNjhjMzZiODc5MjMwMWFjMzdlNmQz`

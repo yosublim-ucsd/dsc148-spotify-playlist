@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Chita.",
-  "num_followers": 760178,
+  "num_followers": 760157,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzM1OTA2ZjNkNGQ3NjU3ZjdjOWY2ZTU0NTFkNzkzZGE1ZjU2ODcz",
+  "snapshot_id": "MCw1NDMwOGQyYmQ2MjU5MzU5Y2Y3OGQ1NDJkNjQ2NWM2ZjFlNzlhNTEy",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "\u00c1nimo",
-        "url": "https://open.spotify.com/album/4wVGGSFFjp7AhOs7LsdquC"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 157880,
-      "name": "\u00c1nimo",
-      "url": "https://open.spotify.com/track/7ze0MX6Gwoosk1QPia2GGZ"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/2ba1GR1RqRdQGVVY4wWuOI"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 141000,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/6iCFPzvvt0AcpmvnWbrGfg"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "\u00c1nimo",
+        "url": "https://open.spotify.com/album/4wVGGSFFjp7AhOs7LsdquC"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 157880,
+      "name": "\u00c1nimo",
+      "url": "https://open.spotify.com/track/7ze0MX6Gwoosk1QPia2GGZ"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -371,26 +371,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Feeling Low",
-        "url": "https://open.spotify.com/album/2e7sqim2tJBpTAwXpl9r4j"
-      },
-      "artists": [
-        {
-          "name": "Lara Project",
-          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Feeling Low",
-      "url": "https://open.spotify.com/track/4HGwDCdSkGJWfgCmwl54Qr"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "CELL",
         "url": "https://open.spotify.com/album/2r3inkJAGBtP7ZxTdrXGoH"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 138000,
       "name": "CELL",
       "url": "https://open.spotify.com/track/5syGVoLzDjXCvPt1OpdKtc"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Feeling Low",
+        "url": "https://open.spotify.com/album/2e7sqim2tJBpTAwXpl9r4j"
+      },
+      "artists": [
+        {
+          "name": "Lara Project",
+          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Feeling Low",
+      "url": "https://open.spotify.com/track/4HGwDCdSkGJWfgCmwl54Qr"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "1UNAMORSUPREMO",
+        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "duration_ms": 240680,
+      "name": "SUFICIENTEPUNTOWAV",
+      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/4blp4UsUuc0KiXHSUj9Bie"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 211475,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/4qivrywz0cptut4imbWJJf"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "1UNAMORSUPREMO",
-        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
-      },
-      "artists": [
-        {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        }
-      ],
-      "duration_ms": 240680,
-      "name": "SUFICIENTEPUNTOWAV",
-      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Hielo",
-        "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 184795,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "aguardiente",
         "url": "https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 171279,
       "name": "aguardiente",
       "url": "https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Hielo",
+        "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 184795,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Un Llavero",
+        "url": "https://open.spotify.com/album/3ZrNXXbBefilXHWqhlO0I0"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 190235,
+      "name": "Un Llavero",
+      "url": "https://open.spotify.com/track/3DrXPknIBDtEdPchAuRYD5"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Caballo De Troya",
         "url": "https://open.spotify.com/album/2ktrvCJRAq4Fb65XXmaQmL"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 121000,
       "name": "Caballo De Troya",
       "url": "https://open.spotify.com/track/5pDGdSmydVnl11KBsPmNXs"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Un Llavero",
-        "url": "https://open.spotify.com/album/3ZrNXXbBefilXHWqhlO0I0"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 190235,
-      "name": "Un Llavero",
-      "url": "https://open.spotify.com/track/3DrXPknIBDtEdPchAuRYD5"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "PALOMINO",
+        "url": "https://open.spotify.com/album/4UElHgLdeGzNnv9d55NYRZ"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "PALOMINO",
+      "url": "https://open.spotify.com/track/3cqhuqp6N9D3XoAsL0kCC4"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Mam\u00e1 Flor",
         "url": "https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz"
       },
@@ -1067,38 +1083,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "PALOMINO",
-        "url": "https://open.spotify.com/album/4UElHgLdeGzNnv9d55NYRZ"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        }
-      ],
-      "duration_ms": 141714,
-      "name": "PALOMINO",
-      "url": "https://open.spotify.com/track/3cqhuqp6N9D3XoAsL0kCC4"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Nervios de Acero",
-        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "Nervios de Acero",
-      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Tu Camisa",
         "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 188139,
       "name": "Tu Camisa",
       "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Nervios de Acero",
+        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "Nervios de Acero",
+      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "La Casa De Las Flores",
-        "url": "https://open.spotify.com/album/207GF4xh9pWBVhiALKyxSe"
+        "name": "El Abismo",
+        "url": "https://open.spotify.com/album/6s6Mxa7bn8FYGWKQzgoOWc"
       },
       "artists": [
         {
-          "name": "Bad Milk",
-          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
+          "name": "Molinette Cinema",
+          "url": "https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7"
         }
       ],
-      "duration_ms": 150236,
-      "name": "La Casa De Las Flores",
-      "url": "https://open.spotify.com/track/3ivUzc6yLzHuXbS0TBSGC5"
+      "duration_ms": 223500,
+      "name": "Estrellas en la Oscuridad",
+      "url": "https://open.spotify.com/track/5x8067jSWiCT7BXWsWPxia"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "El Abismo",
-        "url": "https://open.spotify.com/album/6s6Mxa7bn8FYGWKQzgoOWc"
+        "name": "La Casa De Las Flores",
+        "url": "https://open.spotify.com/album/207GF4xh9pWBVhiALKyxSe"
       },
       "artists": [
         {
-          "name": "Molinette Cinema",
-          "url": "https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7"
+          "name": "Bad Milk",
+          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
         }
       ],
-      "duration_ms": 223500,
-      "name": "Estrellas en la Oscuridad",
-      "url": "https://open.spotify.com/track/5x8067jSWiCT7BXWsWPxia"
+      "duration_ms": 150236,
+      "name": "La Casa De Las Flores",
+      "url": "https://open.spotify.com/track/3ivUzc6yLzHuXbS0TBSGC5"
     },
     {
       "added_at": "2024-03-22 04:00:00",

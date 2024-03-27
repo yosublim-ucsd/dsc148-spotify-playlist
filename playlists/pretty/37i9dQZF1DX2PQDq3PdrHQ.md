@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,115 likes - 318 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,362 likes - 318 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -327,4 +327,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 317 | [Fireflies](https://open.spotify.com/track/30RBPOOwjABC3G1k0QXsfj) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Fireflies](https://open.spotify.com/album/4ZHqOdkFxvVhispfS44eKC) | 2:51 |
 | 318 | [Empyreal](https://open.spotify.com/track/1pvSMxjRqHzDDwSdjOwLbX) | [Dimension 32](https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz) | [Empyreal](https://open.spotify.com/album/75kTZInzYeaqpZstd13B0e) | 2:23 |
 
-Snapshot ID: `MCxkNGJjMzRkNzhmNjUyMjk3ZDE2MjY1MDIxMjMyMWI3OTJiNzA0YWRk`
+Snapshot ID: `MCxmYzQyZDZlMTJiY2QzZTRjODZlMjIxZTM1ZDFkMGRiZTI0MzRkNjI2`

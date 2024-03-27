@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: xBValentine & Frankie J",
-  "num_followers": 113871,
+  "num_followers": 113883,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWQyNWQ3MGQ2MjI4YjM2NmMxZjZmZGU4ZGYwYTUyNTU4YWI0NjZk",
+  "snapshot_id": "MCxhMzQyMmUwNzFmMzhhMzU5ZDIyODlmMTgzYTM5MTY3Y2EwODFjMWFl",
   "tracks": [
     {
       "added_at": "2024-03-08 11:12:38",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-03-08 11:12:38",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
-    },
-    {
-      "added_at": "2024-03-08 11:12:38",
-      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 214008,
       "name": "CUANDO HACEMOS EL AMOR",
       "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
+    },
+    {
+      "added_at": "2024-03-08 11:12:38",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
     },
     {
       "added_at": "2024-03-08 11:12:38",
@@ -511,22 +511,18 @@
     {
       "added_at": "2024-03-08 11:12:38",
       "album": {
-        "name": "This Is Me...Now (Deluxe)",
-        "url": "https://open.spotify.com/album/5n2H8XDZfGQS92t0dpTNtg"
+        "name": "Estoy Bien",
+        "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
       },
       "artists": [
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
         }
       ],
-      "duration_ms": 199133,
-      "name": "Rebound (feat. Anuel AA)",
-      "url": "https://open.spotify.com/track/0kc2XuAnTuAA4viTMoKsjV"
+      "duration_ms": 168000,
+      "name": "Estoy Bien",
+      "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
     },
     {
       "added_at": "2024-03-08 11:12:38",
@@ -547,18 +543,22 @@
     {
       "added_at": "2024-03-08 11:12:38",
       "album": {
-        "name": "Estoy Bien",
-        "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
+        "name": "This Is Me...Now (Deluxe)",
+        "url": "https://open.spotify.com/album/5n2H8XDZfGQS92t0dpTNtg"
       },
       "artists": [
         {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Estoy Bien",
-      "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
+      "duration_ms": 199133,
+      "name": "Rebound (feat. Anuel AA)",
+      "url": "https://open.spotify.com/track/0kc2XuAnTuAA4viTMoKsjV"
     },
     {
       "added_at": "2024-03-08 11:12:38",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-03-08 11:12:38",
       "album": {
-        "name": "Carmes\u00ed",
-        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 165562,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
-    },
-    {
-      "added_at": "2024-03-08 11:12:38",
-      "album": {
         "name": "Garabatos",
         "url": "https://open.spotify.com/album/3RsEjiStHrHJFKktlr9AcO"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 202478,
       "name": "Garabatos",
       "url": "https://open.spotify.com/track/3nXitBuQU6JFccfQWH3oN1"
+    },
+    {
+      "added_at": "2024-03-08 11:12:38",
+      "album": {
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 165562,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
     },
     {
       "added_at": "2024-03-08 11:12:38",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-03-08 11:12:38",
       "album": {
-        "name": "Emociones 1.5",
-        "url": "https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Te La Dedico",
-      "url": "https://open.spotify.com/track/6xAARuLFMtSZhhFERpB7vC"
-    },
-    {
-      "added_at": "2024-03-08 11:12:38",
-      "album": {
         "name": "Truth Is",
         "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 225733,
       "name": "Truth Is (Spanish Version)",
       "url": "https://open.spotify.com/track/4DkmvgEtrLZ9vzmDAHFzVZ"
+    },
+    {
+      "added_at": "2024-03-08 11:12:38",
+      "album": {
+        "name": "Emociones 1.5",
+        "url": "https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Te La Dedico",
+      "url": "https://open.spotify.com/track/6xAARuLFMtSZhhFERpB7vC"
     },
     {
       "added_at": "2024-03-08 11:12:38",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-03-08 11:12:38",
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Ruido",
-      "url": "https://open.spotify.com/track/0rQv29gK4jSBbU9pcmfODP"
-    },
-    {
-      "added_at": "2024-03-08 11:12:38",
-      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 161305,
       "name": "Pleasure (feat. RINI)",
       "url": "https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI"
+    },
+    {
+      "added_at": "2024-03-08 11:12:38",
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Ruido",
+      "url": "https://open.spotify.com/track/0rQv29gK4jSBbU9pcmfODP"
     },
     {
       "added_at": "2024-03-08 11:12:38",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2024-03-08 11:12:38",
       "album": {
-        "name": "1vezmas",
-        "url": "https://open.spotify.com/album/2kHJ8qdYkgRdMJ2uXeQMk1"
-      },
-      "artists": [
-        {
-          "name": "Svarez",
-          "url": "https://open.spotify.com/artist/1CtE7kcqimHMARnwm2Hb23"
-        },
-        {
-          "name": "Choclock",
-          "url": "https://open.spotify.com/artist/1Ixof0imwzqpuV21Ug9pKn"
-        }
-      ],
-      "duration_ms": 150717,
-      "name": "1vezmas",
-      "url": "https://open.spotify.com/track/4fyF5S5cnABhKpjycdxGFr"
-    },
-    {
-      "added_at": "2024-03-08 11:12:38",
-      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 215156,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
+    },
+    {
+      "added_at": "2024-03-08 11:12:38",
+      "album": {
+        "name": "1vezmas",
+        "url": "https://open.spotify.com/album/2kHJ8qdYkgRdMJ2uXeQMk1"
+      },
+      "artists": [
+        {
+          "name": "Svarez",
+          "url": "https://open.spotify.com/artist/1CtE7kcqimHMARnwm2Hb23"
+        },
+        {
+          "name": "Choclock",
+          "url": "https://open.spotify.com/artist/1Ixof0imwzqpuV21Ug9pKn"
+        }
+      ],
+      "duration_ms": 150717,
+      "name": "1vezmas",
+      "url": "https://open.spotify.com/track/4fyF5S5cnABhKpjycdxGFr"
     },
     {
       "added_at": "2024-03-08 11:12:38",

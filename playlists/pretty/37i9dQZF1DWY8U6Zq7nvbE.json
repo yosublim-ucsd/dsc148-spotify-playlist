@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1720125,
+  "num_followers": 1720132,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODk0NWUzNDIxM2MxNWVlYjRlYWIzNTNlYjg4M2RjMGE1ZjA2ZTQx",
+  "snapshot_id": "MCwyNmViYzVjMzZmOGFkYjNjZjg5MThlNTc5MTNlYzE2MmJhZGVjN2E1",
   "tracks": [
     {
       "added_at": "2024-03-21 08:22:30",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 176542,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Waterfalls",
         "url": "https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 170884,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 176542,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Boat",
-        "url": "https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Hodge",
-          "url": "https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE"
-        }
-      ],
-      "duration_ms": 192975,
-      "name": "Boat",
-      "url": "https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Lift Me Up",
         "url": "https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ"
       },
@@ -267,18 +251,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Overpass Graffiti",
-        "url": "https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC"
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2"
       },
       "artists": [
         {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+          "name": "Kelsey Hodge",
+          "url": "https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE"
         }
       ],
-      "duration_ms": 226603,
-      "name": "Overpass Graffiti",
-      "url": "https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC"
+      "duration_ms": 192975,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -315,22 +299,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "what if",
-        "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
-      },
-      "artists": [
-        {
-          "name": "JML",
-          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "what if",
-      "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Issues (Acoustic)",
         "url": "https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8"
       },
@@ -343,6 +311,38 @@
       "duration_ms": 189732,
       "name": "Issues - Acoustic",
       "url": "https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Overpass Graffiti",
+        "url": "https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 226603,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "what if",
+        "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
+      },
+      "artists": [
+        {
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "what if",
+      "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Make You Feel My Love",
-        "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
-      },
-      "artists": [
-        {
-          "name": "Morgan St. Douglas",
-          "url": "https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 166019,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/2p5TVHyvFkVFBcJNKHwjh4"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Make You Feel My Love",
+        "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
+      },
+      "artists": [
+        {
+          "name": "Morgan St. Douglas",
+          "url": "https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Dance Monkey",
-        "url": "https://open.spotify.com/album/21n1KOLGCVWVnqsaaOWqTT"
-      },
-      "artists": [
-        {
-          "name": "Roses & Frey",
-          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
-        }
-      ],
-      "duration_ms": 197850,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/4zYkSXrfgJyrNkNv3mTiIZ"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/0diqsjfEEOC1n4LVVLSMgr"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 217078,
       "name": "The Best",
       "url": "https://open.spotify.com/track/1cskeMwfKX1G0mV1T0ypHf"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Dance Monkey",
+        "url": "https://open.spotify.com/album/21n1KOLGCVWVnqsaaOWqTT"
+      },
+      "artists": [
+        {
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+        }
+      ],
+      "duration_ms": 197850,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/4zYkSXrfgJyrNkNv3mTiIZ"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm"
-      },
-      "artists": [
-        {
-          "name": "Mia Rainn",
-          "url": "https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP"
-        }
-      ],
-      "duration_ms": 206101,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Here I Go Again - Acoustic EP",
         "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV"
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm"
       },
       "artists": [
         {
-          "name": "Roses & Frey",
-          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+          "name": "Mia Rainn",
+          "url": "https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP"
         }
       ],
-      "duration_ms": 197851,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19"
+      "duration_ms": 206101,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -791,6 +775,22 @@
       "duration_ms": 189600,
       "name": "Hands To Myself",
       "url": "https://open.spotify.com/track/3pZmWRdZfUMGgxQrEhTRKG"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV"
+      },
+      "artists": [
+        {
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+        }
+      ],
+      "duration_ms": 197851,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/2KaUS3nSP8EgKStEa8Jeia"
+      },
+      "artists": [
+        {
+          "name": "J. Seasons",
+          "url": "https://open.spotify.com/artist/3RSFoHIhEK1TsXXWDXQnvP"
+        }
+      ],
+      "duration_ms": 157611,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/0QUUfXxit1xeCtmuF6VNrc"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
         "name": "I Was Never There",
         "url": "https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 199114,
       "name": "No Air",
       "url": "https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/2KaUS3nSP8EgKStEa8Jeia"
-      },
-      "artists": [
-        {
-          "name": "J. Seasons",
-          "url": "https://open.spotify.com/artist/3RSFoHIhEK1TsXXWDXQnvP"
-        }
-      ],
-      "duration_ms": 157611,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/0QUUfXxit1xeCtmuF6VNrc"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Too Good At Goodbyes",
-        "url": "https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ"
-      },
-      "artists": [
-        {
-          "name": "Beatrice",
-          "url": "https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8"
-        }
-      ],
-      "duration_ms": 170074,
-      "name": "Too Good At Goodbyes",
-      "url": "https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "STAY",
         "url": "https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/0JfWY6oQJ8wrXnPGgsqWTe"
+        "name": "Too Good At Goodbyes",
+        "url": "https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ"
       },
       "artists": [
         {
-          "name": "Nara Gilberto",
-          "url": "https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs"
+          "name": "Beatrice",
+          "url": "https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8"
         }
       ],
-      "duration_ms": 241184,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/16E5mZkwY5hNR5VAsaCJBI"
+      "duration_ms": 170074,
+      "name": "Too Good At Goodbyes",
+      "url": "https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "I Ain't Worried",
-        "url": "https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb"
+        "name": "Good",
+        "url": "https://open.spotify.com/album/0JfWY6oQJ8wrXnPGgsqWTe"
       },
       "artists": [
         {
-          "name": "Mother's Daughter",
-          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+          "name": "Nara Gilberto",
+          "url": "https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs"
         }
       ],
-      "duration_ms": 164647,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7"
+      "duration_ms": 241184,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/16E5mZkwY5hNR5VAsaCJBI"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
+        "name": "I Ain't Worried",
+        "url": "https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb"
+      },
+      "artists": [
+        {
+          "name": "Mother's Daughter",
+          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+        }
+      ],
+      "duration_ms": 164647,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
         "name": "Got You (Where I Want You)",
         "url": "https://open.spotify.com/album/6sDxOln0tkqDXj8qy6t3Qd"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Because the Night",
-        "url": "https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD"
-      },
-      "artists": [
-        {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
-        }
-      ],
-      "duration_ms": 190209,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/53b0UGKJrMVpyq5yF3Uaru"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Arcade",
         "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 148015,
       "name": "Arcade",
       "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Because the Night",
+        "url": "https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "duration_ms": 190209,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/53b0UGKJrMVpyq5yF3Uaru"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1"
+      },
+      "artists": [
+        {
+          "name": "Demi Femme",
+          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
+        }
+      ],
+      "duration_ms": 206819,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
         "name": "OTW (Acoustic Version)",
         "url": "https://open.spotify.com/album/6l6dNBkA3JjaUHbfQqidei"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 201655,
       "name": "OTW - Acoustic Version",
       "url": "https://open.spotify.com/track/3kK2BuV20t1y7zMLSxDy6h"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1"
-      },
-      "artists": [
-        {
-          "name": "Demi Femme",
-          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
-        }
-      ],
-      "duration_ms": 206819,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/27wqComza4OEQnzS4AniQe"
-      },
-      "artists": [
-        {
-          "name": "Mother's Daughter",
-          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
-        }
-      ],
-      "duration_ms": 175002,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1E8YY35FSQpnw8fgpDOCq6"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 162461,
       "name": "SOS",
       "url": "https://open.spotify.com/track/2IfYpa1MOT2tuvgH4i0gBr"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/27wqComza4OEQnzS4AniQe"
+      },
+      "artists": [
+        {
+          "name": "Mother's Daughter",
+          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+        }
+      ],
+      "duration_ms": 175002,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP"
     },
     {
       "added_at": "2024-03-21 08:22:30",

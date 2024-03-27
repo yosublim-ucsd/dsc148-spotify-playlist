@@ -422,7 +422,7 @@
       ],
       "date_added": "2021-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 266186,
       "name": "Come On Over feat. Afrodyete",
       "url": "https://open.spotify.com/track/4Q0Qx5khaN6qJZ5AN7durj"
@@ -2284,6 +2284,24 @@
       "duration_ms": 170865,
       "name": "Upside",
       "url": "https://open.spotify.com/track/1eRvvnfpeisIH2JY07equa"
+    },
+    {
+      "album": {
+        "name": "What I'm Made Of",
+        "url": "https://open.spotify.com/album/4nPGjrCGFvwhxtY2OyBW9k"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201394,
+      "name": "What I'm Made Of",
+      "url": "https://open.spotify.com/track/4Xj0zimzNjGnfHwkToTZpS"
     },
     {
       "album": {

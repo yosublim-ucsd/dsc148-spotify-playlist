@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,660 likes - 95 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,668 likes - 95 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,14 +58,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 48 | [Hold Me Back](https://open.spotify.com/track/69Bx1c9Hzv7IZGkLyFCeMw) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Queen of Tears \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/2pnbrVkxwo8uEBMg1J1GqE) | 3:52 |
 | 49 | [Lonely Stars \(Korean Ver.\)](https://open.spotify.com/track/5EIMmyT519rdZzdeSGEj0m) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Lonely Stars](https://open.spotify.com/album/01Jmjq2ScXdj8hufqKXrlP) | 4:06 |
 | 50 | [The knight who can't die and the silk cradle](https://open.spotify.com/track/7liPa1ogr6uKLBBfuKuCJh) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [The knight who can't die and the silk cradle](https://open.spotify.com/album/2AuUWIKUhxvxoD2gS7Z2mG) | 4:08 |
-| 51 | [ROSE](https://open.spotify.com/track/1yP0QDwRm0JlOFhOCBeyul) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [ROSE](https://open.spotify.com/album/57kWJ6gaAyOiAuvGRztjeT) | 3:19 |
+| 51 | [ROSE](https://open.spotify.com/track/4os7urcz8CwRxrUWXLLssL) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [606](https://open.spotify.com/album/4UhuKCLwLJ3cuvBsNNY64H) | 3:19 |
 | 52 | [Rodeo](https://open.spotify.com/track/7AlouNnZFdsl3KHDfoAX8O) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Rodeo](https://open.spotify.com/album/3voR7zaoHVxZSznmu7MXnW) | 3:00 |
 | 53 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 |
 | 54 | [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 |
 | 55 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 |
 | 56 | [Cry at the Moon](https://open.spotify.com/track/0TY9m3iHAO4I0VflhnuFJI) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Cry at the Moon](https://open.spotify.com/album/0FUlMafsW5YS0OPPAra5IB) | 3:07 |
 | 57 | [The Quest](https://open.spotify.com/track/4ZhOSdcezNOSI8StRRqqik) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Quest](https://open.spotify.com/album/59h4HNypq1jgCHOkYUtyoW) | 3:53 |
-| 58 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
+| 58 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
 | 59 | [oh, Mr DJ!!!](https://open.spotify.com/track/2E8LllpSU2FmTFbo9EKfQz) | [Shelhiel](https://open.spotify.com/artist/1YiJh4CyYHF215ak2CmoaE) | [SuperKiss: A](https://open.spotify.com/album/6AS9T4GWYPrK8BnhFkBLzw) | 3:19 |
 | 60 | [Telepathy](https://open.spotify.com/track/1FTrMwUgHkX1ERAUbRxzS3) | [Joel See](https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps) | [Telepathy](https://open.spotify.com/album/1tKGmk8oFyoOhuXBeV7vnJ) | 3:08 |
 | 61 | [I Just Did It](https://open.spotify.com/track/3vk40Y2U6S7VhIS4Nxcx6E) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC) | [I Just Did It](https://open.spotify.com/album/4QOFqJmS8ZmqbUWCdVt6qJ) | 1:54 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 94 | [MNSF](https://open.spotify.com/track/6JouPb4bv2ki48IDhq9D9F) | [MANJA](https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX) | [MNSF](https://open.spotify.com/album/1zEvKoMzRqXIRM9RnAzi84) | 3:13 |
 | 95 | [Close To Me](https://open.spotify.com/track/4uqrNjosNZKTxtsEUpjkIm) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Close To Me](https://open.spotify.com/album/5OOea733uhyneBGd5UKDRS) | 3:29 |
 
-Snapshot ID: `MCw4MTAwNWExOWViZGM1MmY4NTVhNTdlM2JhZTAzODBkMDAzYmFiYTM2`
+Snapshot ID: `MCxmMGE4YWFhYzBkNjk5OGJiMDY5ZDcwMWZhODY2NjJlZTgwYjdlYjAy`

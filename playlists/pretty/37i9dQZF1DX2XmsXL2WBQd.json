@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 387981,
+  "num_followers": 388075,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTUxNjAyZTJkNmQ4ZDQ4MGVhZDY1MjgyMTFlY2Y4ZTdlNjYwMGQ0",
+  "snapshot_id": "MCw0MTJkMDgzNDIwMDEzMmUzN2MyN2VkNTViYzE0ZmZkNDFjZDYyNTUy",
   "tracks": [
     {
       "added_at": "2024-03-07 12:05:42",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-03-07 12:05:42",
       "album": {
-        "name": "Rhyme Pays",
-        "url": "https://open.spotify.com/album/267xiIVnif2CUxhbRQk115"
-      },
-      "artists": [
-        {
-          "name": "ICE-T",
-          "url": "https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "6 'N the Mornin'",
-      "url": "https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O"
-    },
-    {
-      "added_at": "2024-03-07 12:05:42",
-      "album": {
         "name": "It's A Big Daddy Thing",
         "url": "https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 284466,
       "name": "Smooth Operator",
       "url": "https://open.spotify.com/track/1Z4mVNtYGnpjHUoZVo3IMU"
+    },
+    {
+      "added_at": "2024-03-07 12:05:42",
+      "album": {
+        "name": "Rhyme Pays",
+        "url": "https://open.spotify.com/album/267xiIVnif2CUxhbRQk115"
+      },
+      "artists": [
+        {
+          "name": "ICE-T",
+          "url": "https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "6 'N the Mornin'",
+      "url": "https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O"
     },
     {
       "added_at": "2024-03-07 12:05:42",

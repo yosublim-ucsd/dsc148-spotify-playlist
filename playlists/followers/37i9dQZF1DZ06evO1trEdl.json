@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 5798,
+  "2024-03-27": 5800,
   "date_first_scraped": "2022-05-26",
   "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
   "name": "This Is The Three Degrees",
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 293906,
       "name": "Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner - Live Medley",
       "url": "https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn"
@@ -981,7 +981,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 302642,
       "name": "Love Train - Live",
       "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
@@ -1359,7 +1359,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 202026,
       "name": "Sugar On Sunday",
       "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 174653,
       "name": "T.S.O.P. - The Sound Of Philadelphia - Rerecorded",
       "url": "https://open.spotify.com/track/3nmNoQu3fG7shfIw3XBetT"

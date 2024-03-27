@@ -1,12 +1,12 @@
 {
   "description": "New music from Shakira, Metro Boomin & Future, Tyla, Olivia Rodrigo, and more!",
-  "num_followers": 4173897,
+  "num_followers": 4174851,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2RhN2FiNzEzZjc0MTZhZGI3NzVlYjE3NjEyMDVlMzhlNDhlZWI0",
+  "snapshot_id": "MCxkOTE0OTBmZTcwZDU2MzRjZTYxMzNmOTgxYzg3YWJkZTI3MjU2NmVh",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -544,12 +544,12 @@
           "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
         },
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
           "name": "9lives",
           "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
       "duration_ms": 151839,
@@ -1328,7 +1328,7 @@
           "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
         }
       ],
-      "duration_ms": 224881,
+      "duration_ms": 222992,
       "name": "DM",
       "url": "https://open.spotify.com/track/50uZI42IaLYngPSHkycMuI"
     },

@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-457 songs - 1 day 8 hr 38 min
+458 songs - 1 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bird](https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Bird EP](https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec) | 5:50 | 2021-05-07 | 2022-04-19 |
 | [Bloom](https://open.spotify.com/track/6pRvIg1q3LVQw63PwLJGlb) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Intercell](https://open.spotify.com/album/1H5RU9ymFKcu0GGt3QVZbI) | 3:16 | 2023-10-13 | 2023-11-04 |
 | [Bloom](https://open.spotify.com/track/4O8aAhhXLBCSTDW7zUF1FV) | [Paul Arcane](https://open.spotify.com/artist/4mX6KkWIws87dwZdorDOQA) | [Bloom / Rise](https://open.spotify.com/album/7z8dvy3gNn7Yys09BKgBtS) | 4:49 | 2021-05-07 | 2022-04-21 |
+| [Bloom At Night](https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Bloom At Night](https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj) | 3:19 | 2024-03-22 |  |
 | [Blur](https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [Blur](https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr) | 2:58 | 2023-10-06 |  |
 | [Breakfast In Vegas](https://open.spotify.com/track/2o6RuGihlwJhA7vT41lz5A) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Breakfast In Vegas](https://open.spotify.com/album/3vAAypb5bNznpu4gml1xCI) | 3:40 | 2022-02-25 | 2022-07-29 |
 | [Breathe Me In](https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Breathe Me In](https://open.spotify.com/album/0Ez7Txv5ziazJVEVZq41Rc) | 2:58 | 2021-12-10 |  |
@@ -287,7 +288,7 @@
 | [Out of My Mind](https://open.spotify.com/track/2hMto0hWs4hULLbySN6E9o) | [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Out of My Mind](https://open.spotify.com/album/0YNPKMJVUSf7zj353BakRn) | 2:57 | 2022-03-11 | 2022-07-25 |
 | [Out Of Reach](https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Out Of Reach](https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF) | 4:15 | 2021-06-04 |  |
 | [Out Of The Dark](https://open.spotify.com/track/7hdSpU6G5jyA7lmBVqHMwr) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Out Of The Dark](https://open.spotify.com/album/5MkfidCcFwwTDaZ0qVqsf8) | 3:19 | 2023-10-13 | 2023-11-14 |
-| [Over](https://open.spotify.com/track/1Ef6SrzW4vM7uJT11jAJvO) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cami Bear](https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG) | [Over](https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ) | 3:10 | 2023-06-30 |  |
+| [Over](https://open.spotify.com/track/1Ef6SrzW4vM7uJT11jAJvO) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cami Bear](https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG) | [Over](https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ) | 3:10 | 2023-06-30 | 2024-03-27 |
 | [Over Again](https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Over Again](https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br) | 2:39 | 2023-05-05 |  |
 | [Paradise \(feat\. Lucas Ariel\)](https://open.spotify.com/track/299lnrCInmGfXBeSu8A6lw) | [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW), [Lucas Ariel](https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T) | [Paradise \(feat\. Lucas Ariel\)](https://open.spotify.com/album/11AxCghy6UurshHIAKNaRe) | 3:52 | 2021-05-07 | 2022-11-13 |
 | [Peace Of Mind](https://open.spotify.com/track/1hyfS51nwrYQOCSEVEIfOi) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Peace Of Mind](https://open.spotify.com/album/7HuaK77m1azcfrtBCIpE97) | 2:46 | 2021-05-28 | 2022-07-29 |

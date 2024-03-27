@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Hot Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,866 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,945 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 49 | [TALK TOO MUCH](https://open.spotify.com/track/5G0lhABZxslqQ7lebhVcMN) | [GANS](https://open.spotify.com/artist/05PzzXnIetN4rWDlYv23SK) | [TALK TOO MUCH](https://open.spotify.com/album/7e0oukJAZVjz4XeIWMcHSN) | 3:27 |
 | 50 | [Velvet Concrete Park](https://open.spotify.com/track/2OuRdn6Uq1doMOz9l9IPX8) | [H.i.T.](https://open.spotify.com/artist/4VQtc1kGvvi5LPbvioiGlD) | [Velvet Concrete Park](https://open.spotify.com/album/3lo5eE56hjhnNfVOB85i06) | 2:10 |
 | 51 | [Heartless](https://open.spotify.com/track/7aTqySEeR1QktRuAtF62bq) | [Napoleon](https://open.spotify.com/artist/4UtWYEpykNIdMwiwCoAiBW) | [Heartless](https://open.spotify.com/album/12SH5u5SNXTkvXPlpuDVJq) | 2:40 |
-| 52 | [Internet Boyfriend](https://open.spotify.com/track/3hkT89QZ4uuuQKP8VXhxEj) | [The Fake Friends](https://open.spotify.com/artist/5kUo5px2DcGcD6RRV2R4jz) | [Internet Boyfriend](https://open.spotify.com/album/7leEn1Bs8jcwDhFbvR1Co8) | 3:21 |
+| 52 | [Internet Boyfriend](https://open.spotify.com/track/3tWPWMnhhRo22xZG3825lL) | [The Fake Friends](https://open.spotify.com/artist/5kUo5px2DcGcD6RRV2R4jz) | [Always Worse / Never Better](https://open.spotify.com/album/2wfMzAAEVgoW9gD9zICjHZ) | 3:21 |
 | 53 | [Typical Me](https://open.spotify.com/track/57IbDKMqYTdopZAxLiBMah) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Life’s Going Great](https://open.spotify.com/album/0yXsEspUqhclhWF27TqUbq) | 2:39 |
 | 54 | [Sixteen](https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Sixteen](https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY) | 3:44 |
 | 55 | [Makes Me Violent](https://open.spotify.com/track/1nNSdsmH6rqpa6x7WeUL5v) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Makes Me Violent](https://open.spotify.com/album/0j6c4JKUS4ofsa0P927Irn) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Scrapbook](https://open.spotify.com/track/4Jz7wnOkNBozJVyiee2fM1) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Scrapbook](https://open.spotify.com/album/6HAW9bHXN7cFRP1NWMu7BK) | 4:15 |
 | 100 | [An Optimist's Dilemma](https://open.spotify.com/track/4D09RCu6vkP24faRNgETXS) | [Aversions](https://open.spotify.com/artist/65fB37pXWPMPJrNg1ZJOpR) | [You Wanted the Bike](https://open.spotify.com/album/0HXlYi9tvT5oiRWNw11lKF) | 5:21 |
 
-Snapshot ID: `MCw2M2U3YWIwMTA0ZThjNDcwNmE2YmUwOWJjZWM1Y2JhZDEzZTg0MGI2`
+Snapshot ID: `MCxiNWZlYzc3MDY2ZWE0MTE3NDMzZTQ2MzJjZGJmNWFmOTQ3NzcyNTY3`

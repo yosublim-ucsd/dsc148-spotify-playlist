@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,353 likes - 100 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,439 likes - 100 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 32 | [Little B's Poem \- Remastered 1994](https://open.spotify.com/track/1H6HqwUyRWW55IzH3k1ewz) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Components](https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP) | 5:11 |
 | 33 | [One For 'Grew \(For Mulgrew Miller\)](https://open.spotify.com/track/55hyRqaAASnPhQEHK8ts9a) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [In My Element](https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS) | 6:33 |
 | 34 | [Search For Peace](https://open.spotify.com/track/4qRJ7ZJyfzchEd2fjle7Bz) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Real McCoy \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX) | 6:32 |
-| 35 | [Maiden Voyage \- Remastered](https://open.spotify.com/track/0T1EaGm6b9eM7xBf4F1hlc) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Maiden Voyage](https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf) | 7:57 |
+| 35 | [Maiden Voyage](https://open.spotify.com/track/0T1EaGm6b9eM7xBf4F1hlc) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Maiden Voyage](https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf) | 7:57 |
 | 36 | [Chicago Blues](https://open.spotify.com/track/03GB3BpOhd8PiIug8UKQQy) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 4:53 |
 | 37 | [Waltz for Hal Willner](https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Waltz for Hal Willner](https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK) | 2:47 |
 | 38 | [I'm All For You](https://open.spotify.com/track/7fLpfSVEJiYmPT7gx0UCAX) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [I'm All For You \(Ballad Songbook\)](https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL) | 7:50 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 68 | [Wind Parade](https://open.spotify.com/track/4okz1TH0GeLw3J51pNRDGd) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Places And Spaces](https://open.spotify.com/album/6btV6MDYhXZ2F6ZKKUfvdh) | 6:09 |
 | 69 | [The Windjammer](https://open.spotify.com/track/2YqY5cZyFA4G1F8Ni1PL1Q) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Green Is Beautiful](https://open.spotify.com/album/6ZeCLbP7BArydb5ueOPysy) | 5:42 |
 | 70 | [Orange Peel](https://open.spotify.com/track/1rgBIkLubecld0M92q5ulV) | [Reuben Wilson](https://open.spotify.com/artist/1lkarpPUSukugn1UWuU2Ut) | [Blue Mode](https://open.spotify.com/album/0e0wYhumzrbDwoAhhZihs8) | 6:39 |
-| 71 | [Watermelon Man \- Remastered](https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 7:09 |
+| 71 | [Watermelon Man \- Remastered 2007](https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 7:09 |
 | 72 | [March On Selma \- Remastered 2005/Rudy Van Gelder Edition](https://open.spotify.com/track/2J8zEC95MQuuQSSzdVXJg5) | [The Blue Mitchell Quintet](https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj) | [Down With It! \(Remastered 2005/Rudy Van Gelder Edition\)](https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF) | 6:16 |
 | 73 | [The Sidewinder \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Sidewinder \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg) | 10:25 |
 | 74 | [Soy Califa \- 2005 Digital Remaster](https://open.spotify.com/track/7ueu8ToQEZOzjz0QE3iqhJ) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [A Swingin' Affair](https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3) | 6:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 99 | [Old Folks](https://open.spotify.com/track/5iLiu2yxhOs97x9VILKzHF) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Vol\. 1](https://open.spotify.com/album/5ogYqVF7SaAZSgdYM9sDba) | 5:50 |
 | 100 | [Jackie Gets Out](https://open.spotify.com/track/12zuJhwGaqJu8fvgBWqYuy) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv), [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Carl Allen](https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n), [David Pulphus](https://open.spotify.com/artist/02amhnCtIA62SbXmNashjW) | [The Comedian \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1a1fkH8V57Wxm1cEVzRgxt) | 2:56 |
 
-Snapshot ID: `MCw0ZmIwNDNlNzkzN2MxNmM1Y2Q1YmVmMGZlYjRhNDkyZjJkNjhiMGQ5`
+Snapshot ID: `MCw3YTQxMmI1OWVkNjRhZTYyZDcyZTE2ZDExNmZkMmYxODc0MTQ4MjFi`

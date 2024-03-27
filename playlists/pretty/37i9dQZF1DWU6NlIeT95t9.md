@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 
 > Meet the future\.  Cover: Annural Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,162 likes - 67 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,163 likes - 67 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 | 8 | [Diya](https://open.spotify.com/track/6be2Qb95JM8HnKtJHYWpzG) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Diya](https://open.spotify.com/album/6ngQPB42n6qbvTHhoDHoNX) | 3:15 |
 | 9 | [Aankhon Mein Aansu](https://open.spotify.com/track/6S9wFxOlnz42LpCKIhlpJR) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Aankhon Mein Aansu](https://open.spotify.com/album/43dYT1CnZXvbA71yk1t7sn) | 3:11 |
 | 10 | [Rent Free](https://open.spotify.com/track/33ceEkDXui08r2MswdCBcX) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Rent Free](https://open.spotify.com/album/1pPIHSuDOCRs8mJkYqv6xK) | 2:42 |
-| 11 | [Duur Se](https://open.spotify.com/track/3vHfL9YMHlx3VL6JcbDOkm) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Day 5](https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU) | 4:04 |
+| 11 | [Duur Se](https://open.spotify.com/track/7vvdeN9CX9xhNtNeiGNgOT) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Day 5](https://open.spotify.com/album/0i6ojSzvOTKDj9u7jgwzeg) | 4:04 |
 | 12 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 |
 | 13 | [Filhaal](https://open.spotify.com/track/0PNU96DGl5PRswbstQgbtv) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Filhaal](https://open.spotify.com/album/7ClbtfOcCG9bzO30ZTRgI2) | 4:15 |
 | 14 | [JOGI](https://open.spotify.com/track/6KO2ptwXLvr8JiGxk2rFHl) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [JOGI](https://open.spotify.com/album/42ul4c3YVf87TWk7u2d2oG) | 2:07 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 | 66 | [Shuru Karein](https://open.spotify.com/track/3yqoD9SYDfwvNEdU2NEpFx) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Shuru Karein](https://open.spotify.com/album/1MxsE2k1buYRltVVXfcivf) | 2:26 |
 | 67 | [Laiyan](https://open.spotify.com/track/2l7Z6J3b0wpohKqmNfASdC) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Laiyan](https://open.spotify.com/album/7sunQsnhjmkVyPKQZsjJDy) | 3:13 |
 
-Snapshot ID: `MCxjODgxMDI3OWI5ZmQ0YTc0NjNhNzUxMmJhMGUzNzg0ODY3Y2ExNWY5`
+Snapshot ID: `MCw3N2FlMDEwMDIyYjM1ZTVjNjYzZWI0YzUyNmVkYzQ2ZTRiZTU3YTQ0`

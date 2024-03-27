@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: rhyu\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,392 likes - 105 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,396 likes - 105 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 74 | [Lonely People](https://open.spotify.com/track/73jttJCbEqljrZewmisf7D) | [WHYLUCAS](https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z) | [Lonely People](https://open.spotify.com/album/3FNvjChh58SNEviGimHWRd) | 3:25 |
 | 75 | [Ivory](https://open.spotify.com/track/4jXvHTFGDPqfWml9bAhPYg) | [Sio Lubis](https://open.spotify.com/artist/6fzB3myUVKUDnUriIReh26), [Danesh Leonadi](https://open.spotify.com/artist/1k0wAlKAGHhKN6W3QeC52J) | [Ivory](https://open.spotify.com/album/3JoAY9aRx1P6iEkFQdaIwT) | 3:01 |
 | 76 | [Overdue](https://open.spotify.com/track/4kVfVJeDATvSx3mFCWtBw0) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI), [Owen Li](https://open.spotify.com/artist/7xuejP4sf719tkfOOTrWqv) | [Overdue](https://open.spotify.com/album/2k8MJWQ1GDcNsqZ3bbsqda) | 3:43 |
-| 77 | [us being us](https://open.spotify.com/track/4iZmZsFgvJqqmKtVnIrjlS) | [lovlaine](https://open.spotify.com/artist/2QIkDLNdxDBgcJV6Fho6XV), [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [us being us](https://open.spotify.com/album/5poydfb1GnLEeNNn9RIjqr) | 3:34 |
+| 77 | [us being us](https://open.spotify.com/track/4iZmZsFgvJqqmKtVnIrjlS) | [Elaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx), [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [us being us](https://open.spotify.com/album/5poydfb1GnLEeNNn9RIjqr) | 3:34 |
 | 78 | [IDNY](https://open.spotify.com/track/7tMhaLuIR8EgQtkhmPqZtv) | [KEAT](https://open.spotify.com/artist/5lzooGwfNsjMjk96wHkZJg) | [from me, to me, by me](https://open.spotify.com/album/6VZgwWua67u3WHImSkhzRf) | 3:10 |
 | 79 | [Call Me](https://open.spotify.com/track/3ubEtnB8eFSsmov0zKgDSZ) | [myraa](https://open.spotify.com/artist/1e0KI88UQfNVW2HNRwQE3U), [kid raw](https://open.spotify.com/artist/5OHFSQKADXkzvpuzqghEbO), [hohoman16](https://open.spotify.com/artist/7yV83KFDjcx1QREEzqPUKk) | [Call Me](https://open.spotify.com/album/6bInz2tQaU29mCGLBWsSbe) | 3:31 |
 | 80 | [Only A Dream](https://open.spotify.com/track/6hzd92DBZ6ffLPvsDwasqo) | [SENNA](https://open.spotify.com/artist/7y7JSh3skPdhrkXziDTTyL), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z), [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl) | [Only A Dream](https://open.spotify.com/album/3mvWSYa3oVzHVXOXXIj2Xr) | 3:18 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 104 | [New York](https://open.spotify.com/track/7xKt7i4Erx0UbSz8hsTaGY) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [New York](https://open.spotify.com/album/7gLt0wcQfPDPIJdQfcMFob) | 3:20 |
 | 105 | [crash](https://open.spotify.com/track/4gfWiAAXM73PQaORRWd3dZ) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [crash](https://open.spotify.com/album/2DQDpAr42xvWoio41HvGPB) | 3:58 |
 
-Snapshot ID: `MCw5ZTg1YzA1MTg3M2Y3MGYzOTMyNjNkODNkODE3YTY4N2RjNjIxNjVj`
+Snapshot ID: `MCwwYTBkYmMyODg2OGI3MTkwNjIzNzI0OWE2NjEzNjdjMjkxNzRlOTZj`

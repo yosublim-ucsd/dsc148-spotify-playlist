@@ -1,12 +1,12 @@
 {
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: LAY, Lauv",
-  "num_followers": 1260139,
+  "num_followers": 1260629,
   "original_name": "Lagi Viral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTRiMjA1MDU3MzA5OTVhOTIwY2NmNDdkOWU0NzA4NzQ1NTMxMjU2",
+  "snapshot_id": "MCxmMDBjZjk1MWM5OTc5NmM0NWUxZmZlYTJjOGNmM2JhZDY3ODVjMTJl",
   "tracks": [
     {
       "added_at": "2024-03-21 18:32:25",
@@ -43,6 +43,22 @@
       "duration_ms": 188750,
       "name": "Run Back To You",
       "url": "https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK"
+    },
+    {
+      "added_at": "2024-03-26 17:00:00",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
     },
     {
       "added_at": "2024-03-21 18:32:25",
@@ -157,6 +173,22 @@
       "url": "https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ"
     },
     {
+      "added_at": "2024-03-26 17:00:00",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 92400,
+      "name": "intro (end of the world)",
+      "url": "https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq"
+    },
+    {
       "added_at": "2024-03-21 18:32:25",
       "album": {
         "name": "Tip Toe",
@@ -259,22 +291,6 @@
     {
       "added_at": "2024-03-21 18:32:25",
       "album": {
-        "name": "I Like You The Most",
-        "url": "https://open.spotify.com/album/1bIYccSTQbGFcCrqkuoRz1"
-      },
-      "artists": [
-        {
-          "name": "SHAD",
-          "url": "https://open.spotify.com/artist/5MxQZFj0dZlvwo2bIFfE3p"
-        }
-      ],
-      "duration_ms": 164792,
-      "name": "I Like You The Most",
-      "url": "https://open.spotify.com/track/51IJ7laS1nxqDfjTz8xDfH"
-    },
-    {
-      "added_at": "2024-03-21 18:32:25",
-      "album": {
         "name": "parallel universe pt. 1",
         "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
       },
@@ -321,6 +337,22 @@
       "url": "https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe"
     },
     {
+      "added_at": "2024-03-26 17:00:00",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "eternal sunshine",
+      "url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
+    },
+    {
       "added_at": "2024-03-21 18:32:25",
       "album": {
         "name": "Katakan Saja",
@@ -353,6 +385,22 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
+      "added_at": "2024-03-26 17:00:00",
+      "album": {
+        "name": "Kita Bikin Romantis",
+        "url": "https://open.spotify.com/album/0empe1Mwd55VSS0tqE6gRo"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "duration_ms": 236752,
+      "name": "Kita Bikin Romantis",
+      "url": "https://open.spotify.com/track/7geh51STedQfizitdiNPCg"
+    },
+    {
       "added_at": "2024-03-21 18:32:25",
       "album": {
         "name": "prince of egypt",
@@ -367,6 +415,22 @@
       "duration_ms": 124595,
       "name": "prince of egypt",
       "url": "https://open.spotify.com/track/44U5sw3AvxKI0Sy0tYakll"
+    },
+    {
+      "added_at": "2024-03-26 17:00:00",
+      "album": {
+        "name": "Berdamai",
+        "url": "https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "duration_ms": 220010,
+      "name": "Teramini",
+      "url": "https://open.spotify.com/track/238QZNu3LMzPj2PUoE8AIk"
     },
     {
       "added_at": "2024-03-21 18:32:25",
@@ -403,6 +467,26 @@
       "duration_ms": 271080,
       "name": "Love wins all",
       "url": "https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o"
+    },
+    {
+      "added_at": "2024-03-26 17:00:00",
+      "album": {
+        "name": "Mika's Laundry",
+        "url": "https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/2FT0GRV9dOFe9rpwoZWgis"
     },
     {
       "added_at": "2024-03-21 18:32:25",
@@ -529,36 +613,36 @@
       "url": "https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u"
     },
     {
-      "added_at": "2024-03-21 18:32:25",
+      "added_at": "2024-03-26 17:00:00",
       "album": {
-        "name": "Malam Tak Berjudul",
-        "url": "https://open.spotify.com/album/7lCDU5y9iZ9f4T2WULA5eS"
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
       "artists": [
         {
-          "name": "Monica Christiana",
-          "url": "https://open.spotify.com/artist/2GqWsg2YJM3SRdIreM7f2h"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 189512,
-      "name": "Malam Tak Berjudul",
-      "url": "https://open.spotify.com/track/72G8Le8BhpTKe5abDqZQEE"
+      "duration_ms": 153633,
+      "name": "i wish i hated you",
+      "url": "https://open.spotify.com/track/5cQX9BexkPIEESTZijJhXg"
     },
     {
-      "added_at": "2024-03-21 18:32:25",
+      "added_at": "2024-03-26 17:00:00",
       "album": {
-        "name": "Tejano Blue",
-        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
+        "name": "someday i'll get it",
+        "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "Alek Olsen",
+          "url": "https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8"
         }
       ],
-      "duration_ms": 234453,
-      "name": "Tejano Blue",
-      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
+      "duration_ms": 94750,
+      "name": "someday i'll get it",
+      "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
     },
     {
       "added_at": "2024-03-21 18:32:25",
@@ -645,6 +729,22 @@
       "url": "https://open.spotify.com/track/1x075F39Q0zOhjPzPKgG8E"
     },
     {
+      "added_at": "2024-03-26 17:00:00",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 173639,
+      "name": "the boy is mine",
+      "url": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"
+    },
+    {
       "added_at": "2024-03-21 18:32:25",
       "album": {
         "name": "Little Bit Better",
@@ -699,6 +799,22 @@
     {
       "added_at": "2024-03-21 18:32:25",
       "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "Kiss It Better",
+      "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS"
+    },
+    {
+      "added_at": "2024-03-21 18:32:25",
+      "album": {
         "name": "Dia Masa Lalumu, Aku Masa Depanmu",
         "url": "https://open.spotify.com/album/31t2Ua284TmIA9ZjgEhQVl"
       },
@@ -729,6 +845,22 @@
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
+      "added_at": "2024-03-26 17:00:00",
+      "album": {
+        "name": "Praise Jah In The Moonlight",
+        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
+    },
+    {
       "added_at": "2024-03-21 18:32:25",
       "album": {
         "name": "EASY",
@@ -745,6 +877,22 @@
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
     },
     {
+      "added_at": "2024-03-26 17:00:00",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 174006,
+      "name": "don't wanna break up again",
+      "url": "https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA"
+    },
+    {
       "added_at": "2024-03-21 18:32:25",
       "album": {
         "name": "The 4th Mini Album 'VERSUS'",
@@ -759,22 +907,6 @@
       "duration_ms": 195520,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
-    },
-    {
-      "added_at": "2024-03-21 18:32:25",
-      "album": {
-        "name": "Dunia Yang Indah",
-        "url": "https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5"
-      },
-      "artists": [
-        {
-          "name": "Seventeen",
-          "url": "https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ"
-        }
-      ],
-      "duration_ms": 289280,
-      "name": "Tanpa Pesan Terakhir",
-      "url": "https://open.spotify.com/track/4v9JJX3ZzuFFOKrMOYHTVZ"
     },
     {
       "added_at": "2024-03-21 18:32:25",
@@ -799,6 +931,22 @@
     {
       "added_at": "2024-03-21 18:32:25",
       "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 220946,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt"
+    },
+    {
+      "added_at": "2024-03-21 18:32:25",
+      "album": {
         "name": "Good Side",
         "url": "https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii"
       },
@@ -811,6 +959,22 @@
       "duration_ms": 164286,
       "name": "Good Side",
       "url": "https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv"
+    },
+    {
+      "added_at": "2024-03-26 17:00:00",
+      "album": {
+        "name": "Dari planet lain",
+        "url": "https://open.spotify.com/album/6hsolRPGQKyTBCRTT30zSn"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "duration_ms": 169220,
+      "name": "Dari planet lain",
+      "url": "https://open.spotify.com/track/70tp7UndgN0dLcAklTIrPJ"
     },
     {
       "added_at": "2024-03-21 18:32:25",
@@ -827,22 +991,6 @@
       "duration_ms": 157906,
       "name": "TAP",
       "url": "https://open.spotify.com/track/1JxRZB6gjp3nsn2jUIaXMs"
-    },
-    {
-      "added_at": "2024-03-21 18:32:25",
-      "album": {
-        "name": "Avenged Sevenfold",
-        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 480706,
-      "name": "A Little Piece of Heaven",
-      "url": "https://open.spotify.com/track/1BLfQ6dPXmuDrFmbdfW7Jl"
     },
     {
       "added_at": "2024-03-21 18:32:25",
@@ -875,6 +1023,22 @@
       "duration_ms": 205253,
       "name": "Pergi Tanpa Pesan",
       "url": "https://open.spotify.com/track/524W6iOfPJX0g9uzjF4jQ1"
+    },
+    {
+      "added_at": "2024-03-26 17:00:00",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 164927,
+      "name": "bye",
+      "url": "https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl"
     },
     {
       "added_at": "2024-03-21 18:32:25",
@@ -927,22 +1091,6 @@
     {
       "added_at": "2024-03-21 18:32:25",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "Kiss It Better",
-      "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS"
-    },
-    {
-      "added_at": "2024-03-21 18:32:25",
-      "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
       },
@@ -983,22 +1131,6 @@
     {
       "added_at": "2024-03-21 18:32:25",
       "album": {
-        "name": "COBA CINTAKU",
-        "url": "https://open.spotify.com/album/2ydSDu6C3zj9jT9ukPmxhp"
-      },
-      "artists": [
-        {
-          "name": "UN1TY",
-          "url": "https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK"
-        }
-      ],
-      "duration_ms": 206183,
-      "name": "COBA CINTAKU",
-      "url": "https://open.spotify.com/track/4lehCx6bf5uarWHvhw9XGx"
-    },
-    {
-      "added_at": "2024-03-21 18:32:25",
-      "album": {
         "name": "Why Can't I",
         "url": "https://open.spotify.com/album/335eRtnoExauLL8Zbj0MoK"
       },
@@ -1011,78 +1143,6 @@
       "duration_ms": 200571,
       "name": "Why Can't I",
       "url": "https://open.spotify.com/track/5umoaDBuH6bIV7oazLwouw"
-    },
-    {
-      "added_at": "2024-03-21 18:32:25",
-      "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 220946,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt"
-    },
-    {
-      "added_at": "2024-03-21 18:32:25",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 319191,
-      "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
-      "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
-    },
-    {
-      "added_at": "2024-03-21 18:32:25",
-      "album": {
-        "name": "15 Seleksi Terlaris",
-        "url": "https://open.spotify.com/album/6KYRCqMwHMVfosvo0Ctonu"
-      },
-      "artists": [
-        {
-          "name": "Doel Sumbang",
-          "url": "https://open.spotify.com/artist/7uK1hDwCzfG6qyOlxxb8AD"
-        }
-      ],
-      "duration_ms": 229523,
-      "name": "Ai",
-      "url": "https://open.spotify.com/track/0rRgmGxfrSJMuSHE4oZLwr"
-    },
-    {
-      "added_at": "2024-03-21 18:32:25",
-      "album": {
-        "name": "Bling-Bang-Bang-Born",
-        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
-      },
-      "artists": [
-        {
-          "name": "Creepy Nuts",
-          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
-        }
-      ],
-      "duration_ms": 168135,
-      "name": "Bling-Bang-Bang-Born",
-      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
     },
     {
       "added_at": "2024-03-21 18:32:25",
@@ -1101,46 +1161,10 @@
       "url": "https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo"
     },
     {
-      "added_at": "2024-03-21 18:32:25",
+      "added_at": "2024-03-26 17:00:00",
       "album": {
-        "name": "Welcome to Samdal-ri (Original Television Soundtrack), Pt.3",
-        "url": "https://open.spotify.com/album/6zQirDfbwXQbtdPJta5Xx3"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/5DIooJbJaNbxidKBMbk2ts"
-    },
-    {
-      "added_at": "2024-03-21 18:32:25",
-      "album": {
-        "name": "Terminator (feat. Young Jonn)",
-        "url": "https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 234024,
-      "name": "Terminator (feat. Young Jonn)",
-      "url": "https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc"
-    },
-    {
-      "added_at": "2024-03-21 18:32:25",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
       "artists": [
         {
@@ -1148,41 +1172,25 @@
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 216893,
-      "name": "bloodline",
-      "url": "https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX"
+      "duration_ms": 182566,
+      "name": "imperfect for you",
+      "url": "https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob"
     },
     {
-      "added_at": "2024-03-21 18:32:25",
+      "added_at": "2024-03-26 17:00:00",
       "album": {
-        "name": "Dunia Yang Indah",
-        "url": "https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5"
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
       },
       "artists": [
         {
-          "name": "Seventeen",
-          "url": "https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 293480,
-      "name": "Yang Tlah Merelakanmu",
-      "url": "https://open.spotify.com/track/7zcmeZ4Xt54ICq90anFSXq"
-    },
-    {
-      "added_at": "2024-03-21 18:32:25",
-      "album": {
-        "name": "Rusuk",
-        "url": "https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt"
-      },
-      "artists": [
-        {
-          "name": "Gery Gany",
-          "url": "https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e"
-        }
-      ],
-      "duration_ms": 255939,
-      "name": "Rusuk",
-      "url": "https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL"
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
     },
     {
       "added_at": "2024-03-21 18:32:25",
@@ -1201,36 +1209,20 @@
       "url": "https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI"
     },
     {
-      "added_at": "2024-03-21 18:32:25",
+      "added_at": "2024-03-26 17:00:00",
       "album": {
-        "name": "Nicole",
-        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
       "artists": [
         {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 303933,
-      "name": "Take A Chance With Me",
-      "url": "https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4"
-    },
-    {
-      "added_at": "2024-03-21 18:32:25",
-      "album": {
-        "name": "HAHAHA",
-        "url": "https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI"
-      },
-      "artists": [
-        {
-          "name": "Juicy Luicy",
-          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
-        }
-      ],
-      "duration_ms": 193959,
-      "name": "HAHAHA",
-      "url": "https://open.spotify.com/track/0coPXOjcMS7mhizONlReis"
+      "duration_ms": 163381,
+      "name": "supernatural",
+      "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa"
     },
     {
       "added_at": "2024-03-21 18:32:25",
@@ -1275,18 +1267,18 @@
     {
       "added_at": "2024-03-21 18:32:25",
       "album": {
-        "name": "Walking Back Home",
-        "url": "https://open.spotify.com/album/6CT1mfBRIKFU0mjn8YN7vS"
+        "name": "Rusuk",
+        "url": "https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt"
       },
       "artists": [
         {
-          "name": "FUR",
-          "url": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+          "name": "Gery Gany",
+          "url": "https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e"
         }
       ],
-      "duration_ms": 136666,
-      "name": "Walking Back Home",
-      "url": "https://open.spotify.com/track/7lu5yyLdgRTMTnYw8yCWvM"
+      "duration_ms": 255939,
+      "name": "Rusuk",
+      "url": "https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL"
     }
   ],
   "unique_name": "Lagi Viral",

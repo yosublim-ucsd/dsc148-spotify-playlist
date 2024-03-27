@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 34254,
+  "num_followers": 34290,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGRkZjc4YWFiZjU1NDQxZTljNGYxZDU4ODIwNTFiNmU3MjQwOGI0",
+  "snapshot_id": "MCwzYzFhNDNiMzFmZDZlYjQyNWUyYTc2OWMwZTQ2ZDdmMzhlNWMwMzlj",
   "tracks": [
     {
       "added_at": "2024-03-22 04:01:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Downstream",
-        "url": "https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z"
-      },
-      "artists": [
-        {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
-        },
-        {
-          "name": "Life on Planets",
-          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
-        }
-      ],
-      "duration_ms": 175179,
-      "name": "Downstream",
-      "url": "https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Raw (Tony Romera Remix)",
         "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 217500,
       "name": "Raw - Tony Romera Remix",
       "url": "https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Downstream",
+        "url": "https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        }
+      ],
+      "duration_ms": 175179,
+      "name": "Downstream",
+      "url": "https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Midtown Playground",
+        "url": "https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 222475,
+      "name": "Midtown Playground",
+      "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 337000,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Midtown Playground",
-        "url": "https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 222475,
-      "name": "Midtown Playground",
-      "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "In You",
-        "url": "https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        }
-      ],
-      "duration_ms": 373920,
-      "name": "In You",
-      "url": "https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Nywtf (feat. Mikhail Beltran)",
         "url": "https://open.spotify.com/album/1xiDEFjzO0Il22pdIk3oo7"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 184761,
       "name": "NYWTF (feat. Mikhail Beltran) - Edit",
       "url": "https://open.spotify.com/track/3FoOzVf0Snj4ym2xjZCikn"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "In You",
+        "url": "https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "duration_ms": 373920,
+      "name": "In You",
+      "url": "https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -987,6 +987,22 @@
       "duration_ms": 390000,
       "name": "Playing With Foc...",
       "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Bonito",
+        "url": "https://open.spotify.com/album/0GRAvBOREScwdewiySp05v"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 195365,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/0HGX3Sk2Wp4ibJDyW9hvdY"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Bonito",
-        "url": "https://open.spotify.com/album/0GRAvBOREScwdewiySp05v"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 195365,
-      "name": "Bonito",
-      "url": "https://open.spotify.com/track/0HGX3Sk2Wp4ibJDyW9hvdY"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Unfair",
         "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 247566,
       "name": "Unfair",
       "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Ready For The Blues",
+        "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 300041,
+      "name": "Ready For The Blues",
+      "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Nobody Else",
-        "url": "https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm"
-      },
-      "artists": [
-        {
-          "name": "Jack Orley",
-          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Sete (Carlita Remix)",
         "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
       },
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm"
+      },
+      "artists": [
+        {
+          "name": "Jack Orley",
+          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "Space Bump",
         "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 167004,
       "name": "Space Bump",
       "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Teki Teki",
-        "url": "https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n"
-      },
-      "artists": [
-        {
-          "name": "Ishimaru",
-          "url": "https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n"
-        }
-      ],
-      "duration_ms": 200307,
-      "name": "Teki Teki",
-      "url": "https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Ready For The Blues",
-        "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 300041,
-      "name": "Ready For The Blues",
-      "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Supermodel Thick",
         "url": "https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 326357,
       "name": "Supermodel Thick",
       "url": "https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Teki Teki",
+        "url": "https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n"
+      },
+      "artists": [
+        {
+          "name": "Ishimaru",
+          "url": "https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n"
+        }
+      ],
+      "duration_ms": 200307,
+      "name": "Teki Teki",
+      "url": "https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Rudeboi",
-        "url": "https://open.spotify.com/album/2TDe6STKY9g4aZJNAYaHjq"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 181054,
-      "name": "Rudeboi",
-      "url": "https://open.spotify.com/track/4ViEI1gmu2hsyYNPVZnenR"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/12quZo2PlX4wa0k6S1NveB"
       },
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Rudeboi",
+        "url": "https://open.spotify.com/album/2TDe6STKY9g4aZJNAYaHjq"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 181054,
+      "name": "Rudeboi",
+      "url": "https://open.spotify.com/track/4ViEI1gmu2hsyYNPVZnenR"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "Space Is The Place",
         "url": "https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp"
       },
@@ -1419,6 +1419,26 @@
       "duration_ms": 385511,
       "name": "Space Is The Place",
       "url": "https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Disco Trip EP",
+        "url": "https://open.spotify.com/album/3g2dwNVLlAeXMGmgYqDtLY"
+      },
+      "artists": [
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+        },
+        {
+          "name": "Ramin Rezaie",
+          "url": "https://open.spotify.com/artist/4kJADEfmcYZAHfXzvIfg2w"
+        }
+      ],
+      "duration_ms": 215076,
+      "name": "Disco Trip",
+      "url": "https://open.spotify.com/track/0lVQP0FIJhruy3yXiuH7vu"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1443,26 +1463,6 @@
       "duration_ms": 436309,
       "name": "Hand In Hand - Jonathan Kaspar Remix",
       "url": "https://open.spotify.com/track/2X3iHKbejETh1uW08Y1qti"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Disco Trip EP",
-        "url": "https://open.spotify.com/album/3g2dwNVLlAeXMGmgYqDtLY"
-      },
-      "artists": [
-        {
-          "name": "Prok & Fitch",
-          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
-        },
-        {
-          "name": "Ramin Rezaie",
-          "url": "https://open.spotify.com/artist/4kJADEfmcYZAHfXzvIfg2w"
-        }
-      ],
-      "duration_ms": 215076,
-      "name": "Disco Trip",
-      "url": "https://open.spotify.com/track/0lVQP0FIJhruy3yXiuH7vu"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1691,6 +1691,38 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Where Ya At",
+        "url": "https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4"
+      },
+      "artists": [
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Where Ya At",
+      "url": "https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa"
+      },
+      "artists": [
+        {
+          "name": "Sam Paganini",
+          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        }
+      ],
+      "duration_ms": 420559,
+      "name": "Another Chance",
+      "url": "https://open.spotify.com/track/7xrFeZuSzIhVmDqV2QhqPH"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/0Bg7QNJQrlWzyXIKuOoV3h"
       },
@@ -1727,50 +1759,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Where Ya At",
-        "url": "https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4"
+        "name": "YAP EP",
+        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
       },
       "artists": [
         {
-          "name": "TOBEHONEST",
-          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+          "name": "Kollektiv Turmstrasse",
+          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
         }
       ],
-      "duration_ms": 228750,
-      "name": "Where Ya At",
-      "url": "https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa"
-      },
-      "artists": [
-        {
-          "name": "Sam Paganini",
-          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
-        }
-      ],
-      "duration_ms": 420559,
-      "name": "Another Chance",
-      "url": "https://open.spotify.com/track/7xrFeZuSzIhVmDqV2QhqPH"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Touch Me",
-        "url": "https://open.spotify.com/album/6AGx5r4hGfYYK1uZLpJCUR"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 164340,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi"
+      "duration_ms": 246474,
+      "name": "YAP",
+      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1791,18 +1791,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "YAP EP",
-        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/6AGx5r4hGfYYK1uZLpJCUR"
       },
       "artists": [
         {
-          "name": "Kollektiv Turmstrasse",
-          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
         }
       ],
-      "duration_ms": 246474,
-      "name": "YAP",
-      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
+      "duration_ms": 164340,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi"
     },
     {
       "added_at": "2024-03-22 04:01:00",

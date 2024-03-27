@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 673665,
+  "2024-03-27": 673738,
   "date_first_scraped": "2021-12-21",
   "description": "killer rock & alternative covers. Cover: Paramore",
   "name": "Rock Covers",
@@ -1327,6 +1327,24 @@
       "duration_ms": 176533,
       "name": "Dancing With Myself",
       "url": "https://open.spotify.com/track/19X7O2SlQNMkiJEjVYN6ts"
+    },
+    {
+      "album": {
+        "name": "Loose Change Soundtrack",
+        "url": "https://open.spotify.com/album/3wSx4x8n54325HUFl1QRtL"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176533,
+      "name": "Dancing with Myself",
+      "url": "https://open.spotify.com/track/4y2qF52ShKI6w3pxnwt3wl"
     },
     {
       "album": {
@@ -4293,7 +4311,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 265547,
       "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
       "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"

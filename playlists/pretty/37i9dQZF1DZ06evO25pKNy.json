@@ -1,15 +1,15 @@
 {
   "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
-  "num_followers": 4527,
+  "num_followers": 4532,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MjI4ODgsMDAwMDAwMDA1YjRlNjllMDZmZDIwNGNjMzgzMWRmZTczZTQ2ODY5Ng==",
+  "snapshot_id": "Mjg1MjQyMjcsMDAwMDAwMDAwNGI5N2Q1Y2ZmMGJlM2MxZDIxYjliMDNiOThlYTFlZg==",
   "tracks": [
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Moreno 80 (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Slapperz",
         "url": "https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/09n6isQIxzROWYMFgkKz10"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "J\u00e1lese Carnal",
         "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/33vhqnKK2bjeweICzJdtIT"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Lujos De La Vida",
         "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/36m0b1aad6A4CXq41VYxDe"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Yo, Billetes y Damas (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/54UMtaPgBFFOUwqr0QKBTG"
@@ -105,7 +105,27 @@
       "url": "https://open.spotify.com/track/1ybkixLiM92Wgbp72m6Ddt"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
+      "album": {
+        "name": "Seguimos De Pie",
+        "url": "https://open.spotify.com/album/17qGyplLRnEhPdpPASdcSy"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 166562,
+      "name": "Seguimos De Pie",
+      "url": "https://open.spotify.com/track/39oXiJCb2hTwApmhnCqtDB"
+    },
+    {
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Como Debe Ser",
         "url": "https://open.spotify.com/album/0tQPxSvQvoCWF2p2ziWmqM"
@@ -129,27 +149,7 @@
       "url": "https://open.spotify.com/track/7BYQKLz2yWFePlxApyvbeP"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
-      "album": {
-        "name": "Seguimos De Pie",
-        "url": "https://open.spotify.com/album/17qGyplLRnEhPdpPASdcSy"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 166562,
-      "name": "Seguimos De Pie",
-      "url": "https://open.spotify.com/track/39oXiJCb2hTwApmhnCqtDB"
-    },
-    {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Lujos De La Vida",
         "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/465CNemByQDps6aOI24859"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "The Bank Robbery (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/5neNi0izz26mhmGuyJ0U5C"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/63WM96hTQYjZmgke8rJ3Ph"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/5XQ3jhSTIRkFSNKn1Ed6v7"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Loco Malandro",
         "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
@@ -229,23 +229,7 @@
       "url": "https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
-      "album": {
-        "name": "Niveles",
-        "url": "https://open.spotify.com/album/4t4tkSCl2kGVNuX5funZSM"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "Niveles",
-      "url": "https://open.spotify.com/track/3jPympWdTjXK59qcJ83kpZ"
-    },
-    {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "J\u00e1lese Carnal",
         "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
@@ -265,7 +249,23 @@
       "url": "https://open.spotify.com/track/74B8W79gWO3nswzkVE7vLi"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
+      "album": {
+        "name": "Niveles",
+        "url": "https://open.spotify.com/album/4t4tkSCl2kGVNuX5funZSM"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Niveles",
+      "url": "https://open.spotify.com/track/3jPympWdTjXK59qcJ83kpZ"
+    },
+    {
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "El Taliban",
         "url": "https://open.spotify.com/album/40EEdGVKmA7zcMOr5HGP6r"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Loco Malandro",
         "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/0xPdnHjuVi4eP6R0MviZin"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "De Botas O Gabanas",
         "url": "https://open.spotify.com/album/1SgK2Myee9Gpohf5L8d5Mp"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/7gt6tXgzx8zvVepdf7Kmp4"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Lujos De La Vida",
         "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/2FhDsHZwgCILLXbpIHOget"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "J\u00e1lese Carnal",
         "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/5r4u6fCR5DngmhB9SUj7ay"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Duetos Con La Clika",
         "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/0CGpWyDPr89T453kMb638E"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Cabezones Azules",
         "url": "https://open.spotify.com/album/1Lkokal6RcHYzxDfqMrPY9"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/05y6GAASJNXAOAyk4dZVKQ"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Lujos De La Vida",
         "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/2hO3w9dSz1FLgzXFdA0Bzv"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Lujos y Libras",
         "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/50ocU9plfD2wa1j6NmClEj"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "La Querian Facil",
         "url": "https://open.spotify.com/album/4tp7hs9DwBnKmFtrTUjflY"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/4JlwxYmewZay9BAbLsBHK6"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "J\u00e1lese Carnal",
         "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/2hoOS2ABkC8JrcN69owHYE"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "En Vivo Con Tololoche",
         "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/6d7s3sqE0cOR1oUdbxPrhS"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Debajo De La Gorra",
         "url": "https://open.spotify.com/album/6KoTqQ3CRPUOgt9iMbe1cw"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/37jvbQaDuG76ZXPRPHnjSl"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Lujos De La Vida",
         "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "J\u00e1lese Carnal",
         "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/44rxSvGpVmqoPt6RGkhbQp"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "En Vivo Con Tololoche",
         "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/4i0SFmcMd79sCXfnuFKqlf"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Lujos y Libras",
         "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Loco Malandro",
         "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/3llJtYFMgm41fqcuaQi32S"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "J\u00e1lese Carnal",
         "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "La Gre\u00f1ita",
         "url": "https://open.spotify.com/album/11gHCZZq5kRtQvpN0D1dVz"
@@ -609,39 +609,7 @@
       "url": "https://open.spotify.com/track/40P38t8Q2JYgngn5xke2Mm"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
-      "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 135005,
-      "name": "De Texas A California",
-      "url": "https://open.spotify.com/track/3UbF0LvIMkKfU7y0EcupQ6"
-    },
-    {
-      "added_at": "2024-03-25 13:28:45",
-      "album": {
-        "name": "Loco Malandro",
-        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 110682,
-      "name": "Los 3 Del NM",
-      "url": "https://open.spotify.com/track/3zufohszplV5IN3S7j6bTI"
-    },
-    {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/2W0a475HJ51N4lLX0czxQG"
@@ -661,7 +629,39 @@
       "url": "https://open.spotify.com/track/4l1d34SW8r4yD4klZZj8oC"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
+      "album": {
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 135005,
+      "name": "De Texas A California",
+      "url": "https://open.spotify.com/track/3UbF0LvIMkKfU7y0EcupQ6"
+    },
+    {
+      "added_at": "2024-03-26 11:47:45",
+      "album": {
+        "name": "Loco Malandro",
+        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 110682,
+      "name": "Los 3 Del NM",
+      "url": "https://open.spotify.com/track/3zufohszplV5IN3S7j6bTI"
+    },
+    {
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "La Casa De La Esquina",
         "url": "https://open.spotify.com/album/5ahdqBULRpO7ISU4jBazcP"
@@ -677,23 +677,7 @@
       "url": "https://open.spotify.com/track/6qw1U481E7u4DAw5UZv3vD"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
-      "album": {
-        "name": "Lujos y Libras",
-        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 189789,
-      "name": "Cuando Me Muera",
-      "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
-    },
-    {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Aqui Nada Me Va Mal",
         "url": "https://open.spotify.com/album/3QfoLOlTy4yUlO7R1HWadb"
@@ -713,7 +697,23 @@
       "url": "https://open.spotify.com/track/3EKCwgqtzhNRD51XOHkjzM"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
+      "album": {
+        "name": "Lujos y Libras",
+        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 189789,
+      "name": "Cuando Me Muera",
+      "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
+    },
+    {
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Nuestro Estilo",
         "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/3hiximGfpxNy8fgsbWm4hm"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "En Vivo Con Tololoche",
         "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Quisiste T\u00fa Volver",
         "url": "https://open.spotify.com/album/4wBviDB8A3WuLU9PRFNDSR"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/6sXr9EGXkIkWtSMU74VBDM"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "El Fracasado",
         "url": "https://open.spotify.com/album/6RaNwXyfahQ2r4tVVMFwNm"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/4VZmwLWmUsw81pkzDekhxT"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Nuestro Estilo",
         "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/2KLUdYgj4FDAMjznuqCJyn"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Classroom Love",
         "url": "https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o"
@@ -813,55 +813,7 @@
       "url": "https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
-      "album": {
-        "name": "Loco Malandro",
-        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 182640,
-      "name": "Recordando La Sierra",
-      "url": "https://open.spotify.com/track/0dMeXStZXBSurWBhZlZtTV"
-    },
-    {
-      "added_at": "2024-03-25 13:28:45",
-      "album": {
-        "name": "Historia Personal",
-        "url": "https://open.spotify.com/album/4L6pnNGvsAOaku8qqJaIlA"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 261002,
-      "name": "Historia Personal",
-      "url": "https://open.spotify.com/track/0LjJoRueKZJCdz31eZCVnI"
-    },
-    {
-      "added_at": "2024-03-25 13:28:45",
-      "album": {
-        "name": "Nuestro Estilo",
-        "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 195221,
-      "name": "Por Buen Camino",
-      "url": "https://open.spotify.com/track/7s3erZkEkuTJ29qB2d0MDX"
-    },
-    {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Pisteando Con Larry Hern\u00e1ndez, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/2NBIYoC2EnQndQkfIHffQf"
@@ -881,7 +833,7 @@
       "url": "https://open.spotify.com/track/4LllVWdo8dth4v3wZTwh1X"
     },
     {
-      "added_at": "2024-03-25 13:28:45",
+      "added_at": "2024-03-26 11:47:45",
       "album": {
         "name": "Loco Malandro",
         "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
@@ -892,9 +844,57 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 135711,
-      "name": "Gorra De Tijuana",
-      "url": "https://open.spotify.com/track/2ef6lyJzo9pj6UNdoWgqes"
+      "duration_ms": 182640,
+      "name": "Recordando La Sierra",
+      "url": "https://open.spotify.com/track/0dMeXStZXBSurWBhZlZtTV"
+    },
+    {
+      "added_at": "2024-03-26 11:47:45",
+      "album": {
+        "name": "Nuestro Estilo",
+        "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 195221,
+      "name": "Por Buen Camino",
+      "url": "https://open.spotify.com/track/7s3erZkEkuTJ29qB2d0MDX"
+    },
+    {
+      "added_at": "2024-03-26 11:47:45",
+      "album": {
+        "name": "Historia Personal",
+        "url": "https://open.spotify.com/album/4L6pnNGvsAOaku8qqJaIlA"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 261002,
+      "name": "Historia Personal",
+      "url": "https://open.spotify.com/track/0LjJoRueKZJCdz31eZCVnI"
+    },
+    {
+      "added_at": "2024-03-26 11:47:45",
+      "album": {
+        "name": "Blanca Nieves",
+        "url": "https://open.spotify.com/album/70riXpr57NKCdX0b6h2siw"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 257531,
+      "name": "Blanca Nieves",
+      "url": "https://open.spotify.com/track/0cIjGS69xkKGavLQG8n0YK"
     }
   ],
   "unique_name": "This Is Los Hijos De Garcia",

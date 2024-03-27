@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- This weeks DEADNOISE.FM playlist is  curated by Finn McKenty from The Punk Rock MBA Podcast
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,757 likes - 20 songs - 57 min 33 sec
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,755 likes - 20 songs - 57 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 | 15 | [Tessaiga](https://open.spotify.com/track/2FslD0OQZGD86cShe75JDS) | [Gaijin](https://open.spotify.com/artist/5XLI1FNiqds7mF4kquDljP) | [Third Impact](https://open.spotify.com/album/79lR9qXlPIx9V70qhtxnCT) | 2:27 |
 | 16 | [When The Darkness Comes](https://open.spotify.com/track/1D1Dheq2uzlRYjSc2ylOOR) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [When The Darkness Comes](https://open.spotify.com/album/0jV3O2151Wa1Qb1qF6Wp4K) | 3:12 |
 | 17 | [Motorbike](https://open.spotify.com/track/2HYay9cjoX0v5mgOaQFufh) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Motorbike](https://open.spotify.com/album/6KuekGFTXLpJU73y7jXqG0) | 2:26 |
-| 18 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:27 |
+| 18 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 |
 | 19 | [hot girls in hell](https://open.spotify.com/track/7vys2uYSgV5eN1QvdBw6iz) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [hot girls in hell](https://open.spotify.com/album/7Cg3eGiwQB6KVfVoEMWi8y) | 2:50 |
 | 20 | [guilt](https://open.spotify.com/track/3RYluxwP7PfEywwILPUv7a) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [guilt](https://open.spotify.com/album/0LVttb1RQtilr2pH65rk7S) | 2:36 |
 

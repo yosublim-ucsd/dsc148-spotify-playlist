@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,349 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,367 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,19 +67,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 57 | [Start Again](https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Start Again](https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k) | 3:50 |
 | 58 | [10,000 Reasons \(Bless the Lord\)](https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN) | [Holy Communion Instrumental Duo](https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr) | [Contemporary Worship Hits](https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0) | 2:23 |
 | 59 | [Survive These Seas](https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Survive These Seas](https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc) | 3:41 |
-| 60 | [Nineveh \- Live](https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Nineveh \(Live\)](https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a) | 4:28 |
-| 61 | [hold on \(alt\. version\)](https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2) | [Paul Whitacre](https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO), [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [features](https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz) | 3:36 |
+| 60 | [hold on \(alt\. version\)](https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2) | [Paul Whitacre](https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO), [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [features](https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz) | 3:36 |
+| 61 | [Nineveh \- Live](https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Nineveh \(Live\)](https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a) | 4:28 |
 | 62 | [Celeste](https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv) | [Kye Kye](https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ) | [Fantasize](https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3) | 3:44 |
 | 63 | [You & I Again](https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [You & I Again](https://open.spotify.com/album/0Q5FgBERKireTEtap76rej) | 2:40 |
 | 64 | [Psalm 68](https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ) | [Poor Bishop Hooper](https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0) | [Psalm 68](https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g) | 4:12 |
 | 65 | [Pomegranates](https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy) | [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [Phone to Logos](https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG) | 7:27 |
 | 66 | [To The Sky](https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO) | [The Spacies](https://open.spotify.com/artist/3YpKkSd9uluZRtrh2oUsVn) | [The Spacies](https://open.spotify.com/album/4mDTFF0tmIpDbW92F9FzJp) | 4:21 |
-| 67 | [Breathe My Name](https://open.spotify.com/track/0xBQYzgZky7yqbGw4lmddl) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Rachel Robinson](https://open.spotify.com/artist/6X0YXY6bwynFIPUu7Qc97g) | [Breathe My Name](https://open.spotify.com/album/2OY620HBzdwEPr5XrhFZMR) | 2:55 |
-| 68 | [Letters](https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8) | [LaPeer](https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc) | ['90s Kids](https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h) | 3:26 |
+| 67 | [Letters](https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8) | [LaPeer](https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc) | ['90s Kids](https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h) | 3:26 |
+| 68 | [Breathe My Name](https://open.spotify.com/track/0xBQYzgZky7yqbGw4lmddl) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Rachel Robinson](https://open.spotify.com/artist/6X0YXY6bwynFIPUu7Qc97g) | [Breathe My Name](https://open.spotify.com/album/2OY620HBzdwEPr5XrhFZMR) | 2:55 |
 | 69 | [Peace](https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh) | [Radiant City Music](https://open.spotify.com/artist/6rL36WOY9966aJbw6AZofk), [Devin Strasser](https://open.spotify.com/artist/1VbAFYZiE9VGWfHdf6sflI) | [Peace](https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep) | 5:38 |
 | 70 | [Glorious Ruins](https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Glorious Ruins](https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7) | 4:05 |
-| 71 | [Lord Have Mercy](https://open.spotify.com/track/3PncNGSRsBsDXuSTSTtSv2) | [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [The Universal Christ](https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t) | 3:51 |
-| 72 | [kindling.mp3](https://open.spotify.com/track/3ajOQsKvV2LeVZhqYMLnaK) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [an ep of some songs u can read ur bible + journal to](https://open.spotify.com/album/0FjqdsNhcipVrps8W4qBra) | 4:01 |
+| 71 | [kindling.mp3](https://open.spotify.com/track/3ajOQsKvV2LeVZhqYMLnaK) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [an ep of some songs u can read ur bible + journal to](https://open.spotify.com/album/0FjqdsNhcipVrps8W4qBra) | 4:01 |
+| 72 | [Lord Have Mercy](https://open.spotify.com/track/3PncNGSRsBsDXuSTSTtSv2) | [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [The Universal Christ](https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t) | 3:51 |
 | 73 | [5am](https://open.spotify.com/track/4I5EclhnK253hJsoDbJTKA) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX) | [I'm Healing](https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET) | 4:42 |
 | 74 | [How Much You Mean To Me](https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [How Much You Mean To Me](https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0) | 3:38 |
 | 75 | [Something About The Name \- Live](https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv), [Ellisha Carter](https://open.spotify.com/artist/2vEOfYrqqx0Crq1UH7joYE) | [Spirit Of God](https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J) | 4:50 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 96 | [A Reason to Hide](https://open.spotify.com/track/4pffZgndhbmArERQwcVYSk) | [Caves](https://open.spotify.com/artist/2tzzfW0A5ktHkQ8W2JcBxD) | [Caves \(Deluxe Edition\)](https://open.spotify.com/album/7mIWBTJ3wBaYOtLiL0zwtJ) | 5:31 |
 | 97 | [Faith Fall \- pensive piano](https://open.spotify.com/track/3sZtzuWSGkOBvr8n8XGGTP) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Faith Fall](https://open.spotify.com/album/2vJsF3qyoL0wqmyrAZsVZ8) | 4:18 |
 | 98 | [I Won't Let Go](https://open.spotify.com/track/706slEZ03AMqpvUAAI95zs) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [I Won't Let Go](https://open.spotify.com/album/2VA6K5Fan0mXPpBuZs5ZBv) | 3:52 |
-| 99 | [How To Love](https://open.spotify.com/track/1IC9zHtLv9Kmsqnsj4RLsB) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [How To Love](https://open.spotify.com/album/5GimHqufYnL4RwURn1kiMB) | 2:00 |
-| 100 | [Smile](https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju) | [Sarah Hawkyard](https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr) | [Smile](https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar) | 3:39 |
+| 99 | [Smile](https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju) | [Sarah Hawkyard](https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr) | [Smile](https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar) | 3:39 |
+| 100 | [How To Love](https://open.spotify.com/track/1IC9zHtLv9Kmsqnsj4RLsB) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [How To Love](https://open.spotify.com/album/5GimHqufYnL4RwURn1kiMB) | 2:00 |
 
-Snapshot ID: `MCwxOTljMzU2YjA4MGRhYWQ1NTAyZjc0NjFlNDkxN2ZjMjM1MGE4MDU0`
+Snapshot ID: `MCw0OWExMjY0MzQ2ZWZjODRkYTRlYWRhMzAyM2ExMmIyZThlYTk4ZTY1`

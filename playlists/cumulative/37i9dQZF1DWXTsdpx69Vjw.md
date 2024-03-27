@@ -4,7 +4,7 @@
 
 > The official playlist for The Pentaverate\. Watch now on Netflix.
 
-20 songs - 1 hr 37 min
+21 songs - 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Living in the Dark](https://open.spotify.com/track/0ocita5XIGAXtXATIBWlwG) | [Myuu](https://open.spotify.com/artist/5sP3ci0jwrXUBo76t8pGTF) | [The Dark Piano, Vol\. 1 \(Creepypasta Music\)](https://open.spotify.com/album/1d3X0w0kdfqcvOVNfnthhP) | 2:30 | 2022-05-05 |  |
 | [Love To Love You Baby](https://open.spotify.com/track/6Szw3sQC5Zssr15AJsUY9J) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Love To Love You Baby](https://open.spotify.com/album/210folYgKMSZAz4IiqDnmy) | 16:48 | 2022-05-05 |  |
 | [Musica Ricercata: II\. Mesto, rigido e cerimoniale](https://open.spotify.com/track/5cL4CQJv6B5a33raAHEFqU) | [György Ligeti](https://open.spotify.com/artist/1zb5zmIuX2lTbzcn7YeQlg), [Noelia Rodiles](https://open.spotify.com/artist/14k220b66tZzMFeozFFj1R) | [György Ligeti: Musica Ricercata \- Franz Schubert: Impromptus, Op\. 90, D899](https://open.spotify.com/album/7DYlw5RuShkpqIu1HpSJOZ) | 3:39 | 2022-05-05 |  |
-| [One Night in Bangkok](https://open.spotify.com/track/6erBowZaW6Ur3vNOWhS2zM) | [Murray Head](https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR) | [Emotions \(My Favourite Songs\)](https://open.spotify.com/album/4zNqO0KPoLtp90U3Ljl9PT) | 3:56 | 2022-05-05 |  |
+| [One Night in Bangkok](https://open.spotify.com/track/6erBowZaW6Ur3vNOWhS2zM) | [Murray Head](https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR) | [Emotions \(My Favourite Songs\)](https://open.spotify.com/album/4zNqO0KPoLtp90U3Ljl9PT) | 3:56 | 2022-05-05 | 2024-03-27 |
+| [One Night In Bangkok \- Original Single Version / From “Chess”](https://open.spotify.com/track/0NwB4MtnpUGEaGotcX0vmt) | [Murray Head](https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR) | [One Night In Bangkok \(From “Chess”\)](https://open.spotify.com/album/1WvTsFFx5WjKqdusXov73H) | 3:55 | 2022-05-05 |  |
 | [Run Boy Run](https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [The Golden Age](https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2) | 3:33 | 2022-05-05 |  |
 | [Teddy Bear's Picnic](https://open.spotify.com/track/6DHCNTRLdVHJHoaNpFTPJw) | [Henry Hall](https://open.spotify.com/artist/6ZvPawZKckuHlqY8n7CUnl), [The BBC Dance Orchestra](https://open.spotify.com/artist/5PFXkTaxxM0cd42woXZBvP) | [It's Just Time for Dancing \(1932\)](https://open.spotify.com/album/321VdNbk8aSIXH2Qi0VB6e) | 2:57 | 2022-05-05 |  |
 | [Wake Up](https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:35 | 2022-05-05 |  |

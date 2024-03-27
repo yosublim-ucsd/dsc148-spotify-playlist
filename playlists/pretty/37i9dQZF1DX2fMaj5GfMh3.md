@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Olivia Rodrigo op de cover van Fresh Pop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,119 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,117 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 74 | [if you only knew](https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:42 |
 | 75 | [Perfectly Broken \- Duet Version](https://open.spotify.com/track/3upvbgPrhTRSH7y84AzBQz) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Perfectly Broken \(Duet Version\)](https://open.spotify.com/album/2jNHD7pMPo4mdzGKS78Qoz) | 3:06 |
 
-Snapshot ID: `MCxjOTI3MzE1MWYxY2RiNDQzNWU3NGVlZWQwMjIwMjRmNWUyYmQ2OTg2`
+Snapshot ID: `MCxmYmIxYTJjOWMzYzFhYzVlMDgyYzVjNjNmYjIwOWZiNGI3YzkxOWY4`

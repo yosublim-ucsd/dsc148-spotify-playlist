@@ -4,7 +4,7 @@
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 
-291 songs - 13 hr 45 min
+292 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Cozy Rain Sound](https://open.spotify.com/track/3byF8Z5oOsuVbrPlyfFyIK) | [Fabricantes De Lluvia](https://open.spotify.com/artist/2lftazVP7IG1illXsbjxti) | [Relaxing Rain Sounds](https://open.spotify.com/album/6qrvy911i1moGl6gTwpENu) | 2:49 | 2023-06-16 | 2024-03-22 |
 | [Days Of Raining](https://open.spotify.com/track/2tm78Wsjoxum3i1wm2gpPj) | [Himmel](https://open.spotify.com/artist/2jrGWDU5MvR3sYIT1OpZfI) | [After Sunshine](https://open.spotify.com/album/6FR2KwpmkCeXSvvoE3slmQ) | 2:35 | 2023-06-16 |  |
 | [Deep Sleep Rain](https://open.spotify.com/track/5pw1sVck5W8BQ31gCHrips) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj) | 2:10 | 2023-06-16 |  |
+| [Desert Rainsong](https://open.spotify.com/track/3qOFrtd8FqEKGNP8UmzRbD) | [Zen Sound Garden](https://open.spotify.com/artist/2Mk95LJtfBy9tTwtM6qHRd) | [Desert Rainsong](https://open.spotify.com/album/21qoW5JcmcE4JNHGqVh6Rq) | 3:00 | 2024-03-21 |  |
 | [Det Regnar](https://open.spotify.com/track/0M3WuiuXXtxT1g2uAydhSs) | [Regnmannen](https://open.spotify.com/artist/64tKbWpanYm2SDHGclvjSj) | [Regnmannen](https://open.spotify.com/album/61sPEWCE2jjChul4Xs66Tn) | 3:12 | 2023-06-16 |  |
 | [Devotion Rain](https://open.spotify.com/track/5u1G6j3gGvHs6BDar1xLEi) | [Splash n' Dash](https://open.spotify.com/artist/3H8JEgORKc06mYrKIaFMPa) | [Droppin´ Drops](https://open.spotify.com/album/2c2E2txhQSZhvw51PFtdfp) | 2:21 | 2023-06-16 |  |
 | [Distant Rain](https://open.spotify.com/track/5yvsWvwVq8bYrltqTi9TxJ) | [Pacific Rain](https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP) | [Distant Rain](https://open.spotify.com/album/5hy25TSUbMLRjGzyQp0FMR) | 3:28 | 2023-06-16 | 2024-03-22 |
@@ -208,7 +209,7 @@
 | [Raining After Midnight](https://open.spotify.com/track/0ngmRlW9zdGf52YSsZfhbM) | [Ray N.Y](https://open.spotify.com/artist/6QOi0WtxrycnPENvP8Rhvz) | [Heavy Rain](https://open.spotify.com/album/5yz3wrR41kYNUrYoQeIzzs) | 2:20 | 2023-06-16 |  |
 | [Raining Coma](https://open.spotify.com/track/3Iz6G9HAuoh31yBriwzMMw) | [Precip](https://open.spotify.com/artist/2MvLKa31qeJOBzobqE10FX) | [Heavy Due](https://open.spotify.com/album/3RcTFyLySVy1aRt1ah2Ytx) | 3:00 | 2023-06-16 |  |
 | [raining for hours](https://open.spotify.com/track/3L1JHXiqNOJ57w3n2R3HyU) | [ame](https://open.spotify.com/artist/7htQnykNfk2Bu39bSw7owz) | [grey cloud](https://open.spotify.com/album/2Iyw159svPU1i8iNnHDIne) | 2:11 | 2023-06-16 |  |
-| [Raining In The City At Night](https://open.spotify.com/track/0lMUyII33ZjGhNyuiSJQR5) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Rain For Sleep](https://open.spotify.com/album/5ALoceFx2jK3zQ2Wj4WJ3B) | 2:53 | 2023-06-16 |  |
+| [Raining In The City At Night](https://open.spotify.com/track/0lMUyII33ZjGhNyuiSJQR5) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Rain For Sleep](https://open.spotify.com/album/5ALoceFx2jK3zQ2Wj4WJ3B) | 2:53 | 2023-06-16 | 2024-03-27 |
 | [raining in the courtyard](https://open.spotify.com/track/1qnvK2dDhAK48fA3fk31iC) | [Rain is my Life](https://open.spotify.com/artist/1TnTnEuSNAIMiqXv2GdVbh) | [I wish it was raining everyday](https://open.spotify.com/album/4E9a8kOkuKHgk8wujsnB90) | 2:36 | 2023-06-16 |  |
 | [Raining Me Softly](https://open.spotify.com/track/4CTDJG3F26MUJEwnJ2fhJh) | [Epiphonema](https://open.spotify.com/artist/7zVXfjqG8yM5gVp8WLab5s) | [Cloudburst](https://open.spotify.com/album/4U0en0trmZzCyst9IvCvDA) | 2:09 | 2023-06-16 | 2024-03-22 |
 | [Raining On Metal](https://open.spotify.com/track/5111ChNfx2UEqdJo57ZqSt) | [DreamDrops](https://open.spotify.com/artist/20XfshUALsTbm05gj6Ea5M) | [Strawberry Rain](https://open.spotify.com/album/2sQA6ju0ve2lCiPHJo4VC1) | 3:35 | 2023-06-16 |  |

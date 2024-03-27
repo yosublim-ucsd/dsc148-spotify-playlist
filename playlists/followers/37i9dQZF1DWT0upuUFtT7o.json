@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 210738,
+  "2024-03-27": 211274,
   "date_first_scraped": "2022-01-09",
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Zsela",
   "name": "Fresh Finds Indie",
@@ -4293,6 +4293,24 @@
       "duration_ms": 195272,
       "name": "Big Trees",
       "url": "https://open.spotify.com/track/78LgyytZ57eBM18kx5YFAk"
+    },
+    {
+      "album": {
+        "name": "Billabong Babe",
+        "url": "https://open.spotify.com/album/4iG1MtI6JbD55Prajh5Yj2"
+      },
+      "artists": [
+        {
+          "name": "Royce Fisherman",
+          "url": "https://open.spotify.com/artist/2tdQ97EH4slBa4xawJS0GR"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134500,
+      "name": "Billabong Babe",
+      "url": "https://open.spotify.com/track/1ehPpLSc6xdKsncqXIMWkS"
     },
     {
       "album": {

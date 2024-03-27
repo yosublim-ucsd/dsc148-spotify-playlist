@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,528 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,526 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 33 | [Dr\. Wily Stage](https://open.spotify.com/track/23zLcVodVC5TkZ1tcNon15) | [Marika Suzuki](https://open.spotify.com/artist/41kVzr5RxwegBwWAWzwRG6) | [MEGAMAN 11 Original Soundtrack](https://open.spotify.com/album/3H6eQfGMjmwJ6JCO22t2hx) | 3:03 |
 | 34 | [GRAVITY BEETBOOD STAGE](https://open.spotify.com/track/1n8n4H2nn4pr6g4UE9ZBgg) | [Kinuyo Yamashita](https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx) | [MEGA MAN X3 SOUND COLLECTION](https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK) | 1:54 |
 | 35 | [暴砂の巨城/オディバトラス](https://open.spotify.com/track/1Tc7rnUznYbFfyGZOPVnLJ) | [Hideyuki Fukasawa](https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu) | [モンスターハンター フロンティアG オリジナル・サウンドトラック](https://open.spotify.com/album/5V9SaJ7QjH2Gq56Yt8HpXE) | 5:34 |
-| 36 | [Running Through The Cyber World \- CAP\-JAMS ver.](https://open.spotify.com/track/78mZSjQnanUOHxMCdth4hX) | [カプチューン](https://open.spotify.com/artist/48zP0iCHYhRzrjlB2QbwJR) | [ONE](https://open.spotify.com/album/1F6EOzOlqnV7k7c4qQFvDc) | 4:07 |
-| 37 | [Graveyard](https://open.spotify.com/track/3Rv6dMArRUGv7X2JzpGgbe) | [M\-TWO Inc.](https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9), [designwave co.,ltd.](https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62) | [Ghosts 'n Goblins Resurrection Original Soundtrack](https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu) | 1:42 |
+| 36 | [Graveyard](https://open.spotify.com/track/3Rv6dMArRUGv7X2JzpGgbe) | [M\-TWO Inc.](https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9), [designwave co.,ltd.](https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62) | [Ghosts 'n Goblins Resurrection Original Soundtrack](https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu) | 1:42 |
+| 37 | [Running Through The Cyber World \- CAP\-JAMS ver.](https://open.spotify.com/track/78mZSjQnanUOHxMCdth4hX) | [カプチューン](https://open.spotify.com/artist/48zP0iCHYhRzrjlB2QbwJR) | [ONE](https://open.spotify.com/album/1F6EOzOlqnV7k7c4qQFvDc) | 4:07 |
 | 38 | [長曾我部元親のテーマ](https://open.spotify.com/track/2kDR0tn8wc11wetaxGtntt) | [T’s MUSIC](https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V) | [戦国BASARA 西軍BEST](https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD) | 2:06 |
 | 39 | [解放レゾナンス The Soar](https://open.spotify.com/track/60o03jgMfwbnjqLItcPcTa) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d), [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [E.X.TROOPERS \- END OF CONVERSATION](https://open.spotify.com/album/5hHmRqbgktyVUM4OdUVG1F) | 4:58 |
 | 40 | [エンドレスアンコール \(ロックマン2メドレー\)](https://open.spotify.com/track/3TML1tC6NkDOeaQq3XycaO) | [ベイシスケイプ](https://open.spotify.com/artist/6tdfd7LYozgWFIw9ijvlm5) | [ロックマン ユートピア](https://open.spotify.com/album/1tEipaGsZZ16UsutVOsFLx) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 49 | [Shall Never Surrender \(End Credits\)](https://open.spotify.com/track/11s4cDWdCABvn9Xkg4eHl2) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 4:58 |
 | 50 | [Guile's Theme](https://open.spotify.com/track/29drzlJamuYPBRh1LPpXM4) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Super Street Fighter II Turbo Original Soundtrack](https://open.spotify.com/album/3sinqjuzlAI7QWTyJxNut6) | 3:43 |
 
-Snapshot ID: `MCw5ZDM3ODI4YzM3YTYwNmQzMjZjYTBiNjA5NzdiNWEzMTUwZWI1Nzgw`
+Snapshot ID: `MCwwZmFlOWFlY2I0YmI3NGI2MDUzZTNjYzhjZDJkMjExN2ZkZWUzNTFi`

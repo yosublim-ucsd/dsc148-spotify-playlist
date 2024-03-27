@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Don Diablo & Major Lazer",
-  "num_followers": 236803,
+  "num_followers": 236860,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjc3MDYxOGEzOTNkOWQ3MTBkNjZjZDk0ZjZhYzJjMTgwODg2MTMy",
+  "snapshot_id": "MCxhZDY1NDY5OWQyNTU0YWQwZGFkNzQ5NzlhYmMxMWRlZmFkNmI0NmYy",
   "tracks": [
     {
       "added_at": "2024-03-08 18:47:55",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2024-03-08 18:47:55",
       "album": {
-        "name": "Vibrate / On The Ground",
-        "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 134170,
-      "name": "Vibrate",
-      "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
-    },
-    {
-      "added_at": "2024-03-08 18:47:55",
-      "album": {
         "name": "New Bottega",
         "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 188915,
       "name": "New Bottega",
       "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
+    },
+    {
+      "added_at": "2024-03-08 18:47:55",
+      "album": {
+        "name": "Vibrate / On The Ground",
+        "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 134170,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
     },
     {
       "added_at": "2024-03-08 18:47:55",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-03-08 18:47:55",
       "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 174565,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
+    },
+    {
+      "added_at": "2024-03-08 18:47:55",
+      "album": {
         "name": "Badders",
         "url": "https://open.spotify.com/album/0K5ljicneNOkdgx2rNxYBv"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 167172,
       "name": "Badders",
       "url": "https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh"
-    },
-    {
-      "added_at": "2024-03-08 18:47:55",
-      "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 174565,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
     },
     {
       "added_at": "2024-03-08 18:47:55",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-03-08 18:47:55",
       "album": {
-        "name": "Overdrive EP",
-        "url": "https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 254836,
-      "name": "Overdrive - Edit",
-      "url": "https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9"
-    },
-    {
-      "added_at": "2024-03-08 18:47:55",
-      "album": {
         "name": "FAME?",
         "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 142562,
       "name": "FAME?",
       "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
+    },
+    {
+      "added_at": "2024-03-08 18:47:55",
+      "album": {
+        "name": "Overdrive EP",
+        "url": "https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 254836,
+      "name": "Overdrive - Edit",
+      "url": "https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9"
     },
     {
       "added_at": "2024-03-08 18:47:55",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2024-03-08 18:47:55",
       "album": {
-        "name": "Counting",
-        "url": "https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "Princess Superstar",
-          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
-        }
-      ],
-      "duration_ms": 232468,
-      "name": "Counting",
-      "url": "https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78"
-    },
-    {
-      "added_at": "2024-03-08 18:47:55",
-      "album": {
         "name": "Don't Look Down (Hold On)",
         "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 245333,
       "name": "Don't Look Down (Hold On)",
       "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
+    },
+    {
+      "added_at": "2024-03-08 18:47:55",
+      "album": {
+        "name": "Counting",
+        "url": "https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "duration_ms": 232468,
+      "name": "Counting",
+      "url": "https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78"
     },
     {
       "added_at": "2024-03-08 18:47:55",
@@ -1935,22 +1935,18 @@
     {
       "added_at": "2024-03-08 18:47:55",
       "album": {
-        "name": "TESSERACT",
-        "url": "https://open.spotify.com/album/6ccsXcDzYI8vkqzPhp7SB4"
+        "name": "Alien Communication",
+        "url": "https://open.spotify.com/album/0UNMmzWR7e7Ulh1P6tkQJq"
       },
       "artists": [
         {
           "name": "Subtronics",
           "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Crooked Bangs",
-          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Dreams (Plasma Reflex) (feat. Crooked Bangs)",
-      "url": "https://open.spotify.com/track/4d3Bpulz7wXrd8hndD7ci1"
+      "duration_ms": 303428,
+      "name": "Alien Communication",
+      "url": "https://open.spotify.com/track/5l5eTWEYoBllCByeF4Zjwt"
     },
     {
       "added_at": "2024-03-08 18:47:55",
@@ -2063,18 +2059,22 @@
     {
       "added_at": "2024-03-08 18:47:55",
       "album": {
-        "name": "Alien Communication",
-        "url": "https://open.spotify.com/album/0UNMmzWR7e7Ulh1P6tkQJq"
+        "name": "TESSERACT",
+        "url": "https://open.spotify.com/album/6ccsXcDzYI8vkqzPhp7SB4"
       },
       "artists": [
         {
           "name": "Subtronics",
           "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
         }
       ],
-      "duration_ms": 303428,
-      "name": "Alien Communication",
-      "url": "https://open.spotify.com/track/5l5eTWEYoBllCByeF4Zjwt"
+      "duration_ms": 240000,
+      "name": "Dreams (Plasma Reflex) (feat. Crooked Bangs)",
+      "url": "https://open.spotify.com/track/4d3Bpulz7wXrd8hndD7ci1"
     },
     {
       "added_at": "2024-03-08 18:47:55",
@@ -2383,26 +2383,6 @@
     {
       "added_at": "2024-03-08 18:47:55",
       "album": {
-        "name": "DYSPHORIA",
-        "url": "https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
-        }
-      ],
-      "duration_ms": 157637,
-      "name": "DYSPHORIA",
-      "url": "https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa"
-    },
-    {
-      "added_at": "2024-03-08 18:47:55",
-      "album": {
         "name": "Fuck Your Sunshine (Adventure Club Remix)",
         "url": "https://open.spotify.com/album/6icWyduCnRXtFYlEBPgavf"
       },
@@ -2419,6 +2399,26 @@
       "duration_ms": 224250,
       "name": "Fuck Your Sunshine (Adventure Club Remix)",
       "url": "https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b"
+    },
+    {
+      "added_at": "2024-03-08 18:47:55",
+      "album": {
+        "name": "DYSPHORIA",
+        "url": "https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "duration_ms": 157637,
+      "name": "DYSPHORIA",
+      "url": "https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa"
     },
     {
       "added_at": "2024-03-08 18:47:55",

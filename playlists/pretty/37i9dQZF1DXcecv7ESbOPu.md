@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,079 likes - 128 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,086 likes - 128 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hålla mig](https://open.spotify.com/track/2FImFbdIGJEnlftYDmwU6f) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Hålla mig](https://open.spotify.com/album/5Dv5FqFIMGsPaRwGuLhgQa) | 3:06 |
-| 2 | [Dör För Dig \- Acoustic](https://open.spotify.com/track/7kfiCNYua949ue8oF997cA) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH) | 2:15 |
+| 2 | [Dör För Dig \- Acoustic](https://open.spotify.com/track/3yAP1AKORlEgS8JFjUDbLK) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/6JYg8ZoDwgKL20qLy10SW8) | 2:15 |
 | 3 | [VEM FAN E DU?](https://open.spotify.com/track/4BliCq54T5TbxmaLdXJGEK) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [VEM FAN E DU?](https://open.spotify.com/album/0BWAxu1c9xgq4z4BvhsXUT) | 2:32 |
 | 4 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 |
 | 5 | [Electric](https://open.spotify.com/track/2T0dh7hiBM73mEFwUGSqMQ) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Electric](https://open.spotify.com/album/0p1JV81BhYbX8dQWuQVmvE) | 2:52 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 10 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 |
 | 11 | [Full på dan](https://open.spotify.com/track/5od9GEWisg8lTv9jmQRz90) | [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1), [Jonas Teglund](https://open.spotify.com/artist/6WrDpCXVSYSwaMv3jhgpuT) | [Full på dan](https://open.spotify.com/album/2TqVA9ey7RvSCv8V6uJoeC) | 3:37 |
 | 12 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
-| 13 | [DIAMANTER](https://open.spotify.com/track/6z8QKwRlKLG81uKYMPnvcI) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH) | 2:41 |
+| 13 | [DIAMANTER](https://open.spotify.com/track/75yxwZbg4YmiAdXslkrLiM) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/6JYg8ZoDwgKL20qLy10SW8) | 2:41 |
 | 14 | [King Size Bed](https://open.spotify.com/track/5ARG0eQKOYOsFAdFeUuXrm) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [King Size Bed](https://open.spotify.com/album/2zyhZS6ViIAqZbTD1IssVy) | 2:44 |
 | 15 | [Cherry On Top](https://open.spotify.com/track/27prlvK4avPPpYntCg7wEo) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Cherry On Top](https://open.spotify.com/album/1ThLpe0d8lTwMNRuSTtRqM) | 3:00 |
 | 16 | [Oh, Gemini](https://open.spotify.com/track/3SYNTZgVt7Wht3jRf0ElGh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Oh, Gemini](https://open.spotify.com/album/1REr4nKLgAAe1GoKIDG2c9) | 2:44 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 44 | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft) | 2:37 |
 | 45 | [This Is It](https://open.spotify.com/track/1RmdXgrkvOYnHrXbz2A8WC) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [This Is It](https://open.spotify.com/album/0XI1OLkA9VGYzzK5lNPu0z) | 4:23 |
 | 46 | [Barrikader](https://open.spotify.com/track/4xLOGrC7yvDiptpeTv8hDJ) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Barrikader](https://open.spotify.com/album/6A8SuD81ZyA7vBfWDt9GgK) | 3:21 |
-| 47 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
+| 47 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
 | 48 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 |
 | 49 | [Awé](https://open.spotify.com/track/004rnp3iKWM3kCknbaqIIT) | [Kronan](https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Awé](https://open.spotify.com/album/5OaO6KwuGtUoItEhuknOZj) | 2:50 |
 | 50 | [I TRIED](https://open.spotify.com/track/1VIluVyu6Ravrt5MoITvdR) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [I TRIED](https://open.spotify.com/album/5uRyfxpwbP4PxHDoTO8STv) | 3:07 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 74 | [Dreaming of You](https://open.spotify.com/track/5ACpj0beBlHTxtmstEYjGl) | [OLSSON](https://open.spotify.com/artist/6InjDqElJC0wOI2rEy9ldH) | [Sunny Hill](https://open.spotify.com/album/4zRyvMQMLHkPlZJkXWF1M7) | 4:00 |
 | 75 | [Into the Ooze](https://open.spotify.com/track/1zQt5176sy24KXYMZAvMcG) | [Brimheim](https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J) | [RATKING](https://open.spotify.com/album/6y8cj46k6QCUuRZdT4tUSK) | 4:16 |
 | 76 | [Eremiten](https://open.spotify.com/track/3nfXGdx2HfhypGySvmpQyI) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Eremiten](https://open.spotify.com/album/5SID8oaQLDedeSkEpnW7od) | 3:24 |
-| 77 | [Getting Reminders](https://open.spotify.com/track/5cDyOIGlxy8OEZ2xJEa1UJ) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU), [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Getting Reminders](https://open.spotify.com/album/3JcAt7K6ZONTWl6e1Bc23X) | 2:40 |
+| 77 | [Getting Reminders](https://open.spotify.com/track/5cDyOIGlxy8OEZ2xJEa1UJ) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU), [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Getting Reminders](https://open.spotify.com/album/3JcAt7K6ZONTWl6e1Bc23X) | 2:42 |
 | 78 | [ID feat\. Smerz](https://open.spotify.com/track/73vd9RPInhU84pK2MtVj9T) | [Hekt](https://open.spotify.com/artist/0SOn6FeWwXGHcF9JEGM4Y1), [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Lens](https://open.spotify.com/album/0jxO0Uldxx8O2wKtGtKCsb) | 3:16 |
 | 79 | [Always Ballin](https://open.spotify.com/track/0gfF1aSUYR2CIZPuHaF2gm) | [Benji](https://open.spotify.com/artist/3neUCGkPr49wZFy3UXaYpg) | [Always Ballin](https://open.spotify.com/album/2XM2Yt2IqrxUgQ26uJ0vVL) | 3:15 |
 | 80 | [Crush Me Up](https://open.spotify.com/track/6YFEYclecVFUsvZ4dKoqjh) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Crush Me Up](https://open.spotify.com/album/4iwkw4bGIapRyVEc0WzwBm) | 2:30 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 127 | [DREAMING](https://open.spotify.com/track/401gRMsxqq2I1sbVMfj0FM) | [CHRIS LYNN](https://open.spotify.com/artist/6ZVcRPWf6D8PmUH2uFpcWp) | [DREAMING](https://open.spotify.com/album/115wQuGSLSvvpP1HPzGY3I) | 2:36 |
 | 128 | [Double Team](https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Double Team](https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V) | 3:51 |
 
-Snapshot ID: `MCw1YWM5NTBkMzBmYTg0YWI3MWJjNDJhYjJiMTFlN2ZmNDVjODc1ODg4`
+Snapshot ID: `MCxjM2Y4MjkyY2ZlNTJjNjZjYjcyMThhODU1YzQ5ZmRkYmM2ZmMxY2Zk`

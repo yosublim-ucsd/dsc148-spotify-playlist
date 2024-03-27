@@ -4,7 +4,7 @@
 
 > Enjoy music from "My Hero Academia"! 歴代OP/ED、サントラ曲で辿る<a href="http://heroaca.com/">「僕のヒーローアカデミア」</a>の世界。© 堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-91 songs - 5 hr 11 min
+92 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,8 +73,9 @@
 | [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 | 2022-10-01 |  |
 | [アップデート](https://open.spotify.com/track/4eGHWStO6G4iWA6NFcXwgD) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [アップデート](https://open.spotify.com/album/2YmVtVogdZl4RFLF183v6o) | 4:17 | 2022-10-11 | 2022-11-13 |
 | [アップデート](https://open.spotify.com/track/53XiMm0e6FRh6dUbezX53A) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [miwa THE BEST](https://open.spotify.com/album/68EOdB4soWFzWNdJ9EYQbT) | 4:19 | 2022-10-01 |  |
-| [アバンタイトル](https://open.spotify.com/track/4LkhqAOcXUekylJ5EXhqF4) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 0:37 | 2022-10-01 |  |
+| [アバンタイトル](https://open.spotify.com/track/4LkhqAOcXUekylJ5EXhqF4) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 0:37 | 2022-10-01 | 2024-03-27 |
 | [アバンタイトル](https://open.spotify.com/track/43SPH7Iy8Iu30uUiZjpSPm) | [林ゆうき](https://open.spotify.com/artist/3WVnDzwxJm470Nog8Gza8R) | [TVアニメ「僕のヒーローアカデミア」サウンドトラックセレクション 2016\~2018](https://open.spotify.com/album/2NWlZqCr8lFt98s2psLjSN) | 0:37 | 2023-03-14 | 2024-03-24 |
+| [アバンタイトル](https://open.spotify.com/track/763qcDPkDrdTe61Yq3sF8R) | [林ゆうき](https://open.spotify.com/artist/3WVnDzwxJm470Nog8Gza8R) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 0:37 | 2023-03-14 |  |
 | [エンパシー](https://open.spotify.com/track/2QaD2jnLNJgvyjT84hODSE) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [エンパシー](https://open.spotify.com/album/2rb7VoFHOluiQsRfSFwkii) | 4:44 | 2022-10-01 |  |
 | [キタカゼ](https://open.spotify.com/track/2KiZEAlUsTNSDzihxCRnB6) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [キタカゼ](https://open.spotify.com/album/4necvS3oFQ2YyMxJrGvyjG) | 3:31 | 2023-01-10 |  |
 | [スターマーカー](https://open.spotify.com/track/0pQm5AbAaVy9XrOLf7rgSF) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [スターマーカー](https://open.spotify.com/album/3i5qvSK7NKmpeLT0a76qXN) | 3:33 | 2022-10-11 | 2022-11-14 |

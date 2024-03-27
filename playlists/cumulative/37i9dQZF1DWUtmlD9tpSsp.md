@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR?si=139b36be70ba4df1">「RADAR:Early Noise 2023」</a>選出アーティスト、DURDNの楽曲を一つのプレイリストで。All the essentials from RADAR: Early Noise 2023 artist, DURDN.
 
-25 songs - 1 hr 29 min
+26 songs - 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Itsuka Omoideni](https://open.spotify.com/track/2PHjxSqMkdggrr9rVBEoAP) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Itsuka Omoideni](https://open.spotify.com/album/7q2D9UdP89jvxiMWEyRM1J) | 4:18 | 2023-11-07 |  |
 | [LIFE](https://open.spotify.com/track/1c5SBryW5e9DMUAkqY3ZBH) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [LIFE](https://open.spotify.com/album/1OgIqYOUwLfaXjb1AmRpuY) | 3:23 | 2023-11-07 |  |
 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 | 2023-11-07 |  |
+| [Pretense](https://open.spotify.com/track/1iGilBtLO9t5Wm6hs4I7pj) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Pretense](https://open.spotify.com/album/64Ucc9nGoY5gpfh86alRVm) | 4:27 | 2024-03-26 |  |
 | [Regrets](https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Regrets](https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5) | 4:25 | 2023-11-07 |  |
 | [Runner's High](https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Runner's High](https://open.spotify.com/album/1tpOYlbVsbkjXRASB6GJia) | 3:42 | 2023-11-07 |  |
 | [Sutetaraii](https://open.spotify.com/track/1wINgO2126rCB6aUSyTrhY) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Sutetaraii](https://open.spotify.com/album/2dh1l5Q4wPbELTQ1ZCTRW6) | 3:22 | 2023-11-07 |  |

@@ -4,7 +4,7 @@
 
 > saturation, distortion, feedBack\. ft\. bixby
 
-398 songs - 17 hr 41 min
+399 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [fullmoonblood \(feat\. Extra Large Holiday Card & Genosky\)](https://open.spotify.com/track/4GCSIu06v7vp1a8htqMc3X) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe), [Genosky](https://open.spotify.com/artist/6WH867Ul1iFFTCsM1sFn8k) | [ALTAR74](https://open.spotify.com/album/1i12M4uoJJqRNsZrvFMG85) | 2:26 | 2023-06-23 | 2023-09-22 |
 | [Fun and Forget](https://open.spotify.com/track/3cZ1SjHd0QIVRgGXiJfb5n) | [SSJ Twiin](https://open.spotify.com/artist/6XvELv4pue2ll8vImdm6ts), [thekid.ACE](https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM) | [Fun and Forget](https://open.spotify.com/album/4fOAgauRwqgTolmLomauv9) | 2:38 | 2023-03-16 | 2023-04-09 |
 | [fuzz](https://open.spotify.com/track/2ctn0r5FOaCMKNC3JPojaG) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [fuzz](https://open.spotify.com/album/45jK0xCxf13uNLUKfpPMyR) | 2:46 | 2023-06-23 | 2023-11-18 |
-| [get it together !](https://open.spotify.com/track/2QiRrkBZtIYrt2HVjZgNo6) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [harry houdini](https://open.spotify.com/album/42L1S5YuqINChXquOm1gKn) | 2:43 | 2024-02-13 |  |
+| [get it together !](https://open.spotify.com/track/1kfA8NyEx2Pltit1mtBpex) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [the life and death of a dog](https://open.spotify.com/album/3zzzsk0VzmLORaVtENlOHY) | 2:43 | 2024-02-14 |  |
+| [get it together !](https://open.spotify.com/track/2QiRrkBZtIYrt2HVjZgNo6) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [harry houdini](https://open.spotify.com/album/42L1S5YuqINChXquOm1gKn) | 2:43 | 2024-02-13 | 2024-03-27 |
 | [get it together !](https://open.spotify.com/track/55M402rjWXPIBjtZ48X5xm) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [get it together !](https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u) | 2:43 | 2023-12-05 | 2024-03-01 |
 | [ghost](https://open.spotify.com/track/7HyoylCqytSPsWnWXQK0wf) | [login](https://open.spotify.com/artist/5JZPSVFMUk4HGDdx68lN77) | [ghost](https://open.spotify.com/album/0pHpy3CZH0BBK6wlBebBmc) | 3:43 | 2023-08-04 | 2023-09-22 |
 | [ghosts in my bedroom](https://open.spotify.com/track/0dyKxgFleS69NuIEvXZJ5J) | [Crape](https://open.spotify.com/artist/2FWet7RIyCyNlZSNpYpJxi) | [ghosts in my bedroom](https://open.spotify.com/album/0lAFlbICz6eHpzjBthLpL0) | 2:31 | 2023-08-04 | 2023-09-22 |

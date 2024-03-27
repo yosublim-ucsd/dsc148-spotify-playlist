@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Future & Metro Boomin, Big Sean and Nemzzz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,744 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,741 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 74 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 |
 | 75 | [Ghetto & Ratchet \- Remy Ma Remix](https://open.spotify.com/track/2Dw5BoAmPzp23Yy8mLmuYh) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [Ghetto & Ratchet \(Remy Ma Remix\)](https://open.spotify.com/album/2NsgClxFL7DP93rhyZkgp3) | 2:44 |
 
-Snapshot ID: `MCw4MDAxZWU4NzE3ZGM4MzZiNmNmYjQyZjJmZDE3NDIzMDg4YzUyODgw`
+Snapshot ID: `MCw0MDQ5OTdmODA1ZTNkMTJkMTA0MjVmYmEwZTRlNzc2ZTdjY2U0Zjg4`

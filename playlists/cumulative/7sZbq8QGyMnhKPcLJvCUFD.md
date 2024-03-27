@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-518 songs - 1 day 2 hr 32 min
+519 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 | 2022-06-23 |  |
 | [Crazy](https://open.spotify.com/track/5nihLVpUd4birzwDlSp1Ph) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Crazy](https://open.spotify.com/album/59yKZOWSuX7wYlH5nZneRY) | 3:08 | 2023-08-08 | 2023-12-14 |
 | [Crossed The Line](https://open.spotify.com/track/1j3N4TCykSmXy12iUiMQWk) | [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0), [Linn Sandin](https://open.spotify.com/artist/3zr3aDseqNYhcqexvcS5ir) | [Crossed The Line](https://open.spotify.com/album/2hlugmYMiNqGeMYmksckMe) | 2:27 | 2023-08-08 | 2024-03-08 |
+| [Cruising](https://open.spotify.com/track/6wbsJTgOAlKbpKvhQbQkqW) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [Cruising](https://open.spotify.com/album/4wS9vXssesDfru8gNF7aNY) | 2:40 | 2024-03-26 |  |
 | [Curse](https://open.spotify.com/track/2y2vXCLSpVGhXU501Nw8Ll) | [Strybo](https://open.spotify.com/artist/3IrKXf6yLQUpniQZM100Eg) | [Curse](https://open.spotify.com/album/548qfP8YqJRprr3kiDxuFx) | 1:30 | 2022-11-22 | 2023-04-28 |
 | [Cyberpunk](https://open.spotify.com/track/0x5iuaeBzKEVT49lJKpRAR) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [Cyberpunk](https://open.spotify.com/album/5gh5pmkrqFscbkp3XumdHv) | 3:35 | 2023-08-08 | 2024-01-04 |
 | [DANGEROUS](https://open.spotify.com/track/2WUua0PT86pEpMwo4ePH92) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [DANGEROUS](https://open.spotify.com/album/3dwNpIaKdJM1MFmvCWKcjs) | 2:45 | 2023-05-30 | 2023-08-10 |
@@ -433,7 +434,7 @@
 | [Surrender](https://open.spotify.com/track/6PRMRlSzHca1q0wYvGzU5f) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Playing with Fire](https://open.spotify.com/album/19wkkvKkqO1SY9M3jYD8Nl) | 4:19 | 2023-07-07 | 2023-08-10 |
 | [Survive](https://open.spotify.com/track/3GFe0eZOOk3Fzkb902ZRQR) | [Axel Oliver](https://open.spotify.com/artist/32TdmnKAhRkuXvBmUX6dcE), [THEBOYWITHSPEC](https://open.spotify.com/artist/44LgzonzLV7ByKgYY2JKUQ) | [Survive](https://open.spotify.com/album/1swjDa36id38pp4nwoJvTD) | 4:08 | 2022-08-16 | 2023-04-28 |
 | [Sweet](https://open.spotify.com/track/7zheGycYrMgijrwtHEGsu5) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [MAZAN](https://open.spotify.com/artist/0y0mNvcQKUUsbRlOcekXG4) | [Sweet](https://open.spotify.com/album/3JiNug3c3xJbvhIGHzuBcl) | 2:40 | 2022-10-04 | 2023-04-28 |
-| [Symbolism](https://open.spotify.com/track/2RQWB4Asy1rjZL4IUcJ7kn) | [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Symbolism](https://open.spotify.com/album/5SYrSHZq6di4OzUqa3ZUbb) | 4:53 | 2023-08-08 |  |
+| [Symbolism](https://open.spotify.com/track/2RQWB4Asy1rjZL4IUcJ7kn) | [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Symbolism](https://open.spotify.com/album/5SYrSHZq6di4OzUqa3ZUbb) | 4:53 | 2023-08-08 | 2024-03-27 |
 | [Symbolism pt\. III](https://open.spotify.com/track/3j9repS7j0ic94QnkmBWow) | [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Symbolism pt\. III](https://open.spotify.com/album/2W3HSyUgF9aoXOUIxB5xyx) | 4:06 | 2022-08-12 | 2023-04-28 |
 | [Sympathy](https://open.spotify.com/track/1N1KPecsoHnrGMWT8kitc7) | [Jo Cohen](https://open.spotify.com/artist/0Szh8DhUXEL2iujQ9cdS4q), [Coral Oulu](https://open.spotify.com/artist/3pPttv2n3nkVlMqPBGYUUk) | [Sympathy](https://open.spotify.com/album/6Sv3Xr0w959DvBg6BhvHsj) | 2:33 | 2023-01-26 | 2023-08-10 |
 | [Take Away](https://open.spotify.com/track/3YznekTxinfXAG4K6Wuc3n) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Take Away](https://open.spotify.com/album/74ojukDockOm8Q8Ly5NUYr) | 2:34 | 2023-07-14 | 2023-08-10 |

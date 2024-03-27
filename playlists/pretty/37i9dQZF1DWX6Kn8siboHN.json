@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Carlos & Jos\u00e9 en portada.",
-  "num_followers": 680404,
+  "num_followers": 680925,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWQ4MWI3ODk2MjJjOTgxZDYyY2RiOTFmNGY1ZDkyNTAyODI4ZTI3",
+  "snapshot_id": "MCwxMjQ4ZmY0MDQ5Y2IzNzlhODdmMzk4Y2IxY2JhOGQ1MzM1ZDJjY2Iz",
   "tracks": [
     {
       "added_at": "2023-12-20 19:40:25",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "40 Aniversario, Vol. 1",
-        "url": "https://open.spotify.com/album/5iaYoqKoHUa1kIJjOeXB7F"
-      },
-      "artists": [
-        {
-          "name": "Eliseo Robles Y Los Barbaros Del Norte",
-          "url": "https://open.spotify.com/artist/4NEmR7zH9rp0sqovTevYOq"
-        }
-      ],
-      "duration_ms": 184106,
-      "name": "Hay Unos Ojos",
-      "url": "https://open.spotify.com/track/5qWXKWK2m1w949LMpQoeRz"
-    },
-    {
-      "added_at": "2023-12-20 19:40:25",
-      "album": {
         "name": "Celos del Viento y Corridos Impactantes",
         "url": "https://open.spotify.com/album/0taQnd9YyP7HL8nKc1buow"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 212688,
       "name": "Quedate Conmigo Esta Noche",
       "url": "https://open.spotify.com/track/694CyIR0ghq9USCLU4F6sc"
+    },
+    {
+      "added_at": "2023-12-20 19:40:25",
+      "album": {
+        "name": "40 Aniversario, Vol. 1",
+        "url": "https://open.spotify.com/album/5iaYoqKoHUa1kIJjOeXB7F"
+      },
+      "artists": [
+        {
+          "name": "Eliseo Robles Y Los Barbaros Del Norte",
+          "url": "https://open.spotify.com/artist/4NEmR7zH9rp0sqovTevYOq"
+        }
+      ],
+      "duration_ms": 184106,
+      "name": "Hay Unos Ojos",
+      "url": "https://open.spotify.com/track/5qWXKWK2m1w949LMpQoeRz"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "20 Exitos Historia Musical",
-        "url": "https://open.spotify.com/album/5PTwoe4hUdLUXKTeVTPTOv"
+        "name": "Norte\u00f1o 2000",
+        "url": "https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv"
       },
       "artists": [
         {
-          "name": "Eliseo Robles Y Los Barbaros Del Norte",
-          "url": "https://open.spotify.com/artist/4NEmR7zH9rp0sqovTevYOq"
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 220499,
-      "name": "Un Rinconcito En El Cielo",
-      "url": "https://open.spotify.com/track/3Bab8rkL9ByngZwofNYQkt"
+      "duration_ms": 147069,
+      "name": "El Perro De Tu Marido",
+      "url": "https://open.spotify.com/track/4xv7mwcq6os6dO5l3TtRqS"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -1303,34 +1303,18 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Norte\u00f1o 2000",
-        "url": "https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv"
+        "name": "20 Exitos Historia Musical",
+        "url": "https://open.spotify.com/album/5PTwoe4hUdLUXKTeVTPTOv"
       },
       "artists": [
         {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+          "name": "Eliseo Robles Y Los Barbaros Del Norte",
+          "url": "https://open.spotify.com/artist/4NEmR7zH9rp0sqovTevYOq"
         }
       ],
-      "duration_ms": 147069,
-      "name": "El Perro De Tu Marido",
-      "url": "https://open.spotify.com/track/4xv7mwcq6os6dO5l3TtRqS"
-    },
-    {
-      "added_at": "2023-12-20 19:40:25",
-      "album": {
-        "name": "Besos Y Caricias",
-        "url": "https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 210026,
-      "name": "Que Me Lleve El Diablo",
-      "url": "https://open.spotify.com/track/4aChlMVq129vxl8lb0xreC"
+      "duration_ms": 220499,
+      "name": "Un Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/3Bab8rkL9ByngZwofNYQkt"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -1347,6 +1331,22 @@
       "duration_ms": 149884,
       "name": "Traficante De Besos",
       "url": "https://open.spotify.com/track/6F1VmuzOgcOxaj4idJKU9i"
+    },
+    {
+      "added_at": "2023-12-20 19:40:25",
+      "album": {
+        "name": "Besos Y Caricias",
+        "url": "https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 210026,
+      "name": "Que Me Lleve El Diablo",
+      "url": "https://open.spotify.com/track/4aChlMVq129vxl8lb0xreC"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Casas De Madera (Remasterizado)",
-        "url": "https://open.spotify.com/album/6axSGbcNWfp6TJUJNZuOEo"
+        "name": "S\u00f3lo Exitos una Pagina Mas",
+        "url": "https://open.spotify.com/album/5x828YRyGbYuMxm8RNPyon"
       },
       "artists": [
         {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+          "name": "Chuy Vega Y Los Nuevos Cadetes",
+          "url": "https://open.spotify.com/artist/4z0bf5L3so06FIdkqprCnz"
         }
       ],
-      "duration_ms": 264373,
-      "name": "Casas De Madera",
-      "url": "https://open.spotify.com/track/2iKtCnQnLVuYyrqhhz15Uz"
+      "duration_ms": 177841,
+      "name": "Aquel Amor",
+      "url": "https://open.spotify.com/track/6Syhx2jXvL0jjSdh8RsP8q"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "S\u00f3lo Exitos una Pagina Mas",
-        "url": "https://open.spotify.com/album/5x828YRyGbYuMxm8RNPyon"
+        "name": "Casas De Madera (Remasterizado)",
+        "url": "https://open.spotify.com/album/6axSGbcNWfp6TJUJNZuOEo"
       },
       "artists": [
         {
-          "name": "Chuy Vega Y Los Nuevos Cadetes",
-          "url": "https://open.spotify.com/artist/4z0bf5L3so06FIdkqprCnz"
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 177841,
-      "name": "Aquel Amor",
-      "url": "https://open.spotify.com/track/6Syhx2jXvL0jjSdh8RsP8q"
+      "duration_ms": 264373,
+      "name": "Casas De Madera",
+      "url": "https://open.spotify.com/track/2iKtCnQnLVuYyrqhhz15Uz"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -1539,22 +1539,6 @@
       "duration_ms": 219008,
       "name": "Colgado De Un \u00c1rbol",
       "url": "https://open.spotify.com/track/2j5X89pGdAoI2OoXffzeqt"
-    },
-    {
-      "added_at": "2023-12-20 19:40:25",
-      "album": {
-        "name": "Casas De Madera (Remasterizado)",
-        "url": "https://open.spotify.com/album/6axSGbcNWfp6TJUJNZuOEo"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 165922,
-      "name": "Solo Una Patada",
-      "url": "https://open.spotify.com/track/6k5zdQsyk5yHD2vzKgKDBU"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
+        "name": "Casas De Madera (Remasterizado)",
+        "url": "https://open.spotify.com/album/6axSGbcNWfp6TJUJNZuOEo"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 165922,
+      "name": "Solo Una Patada",
+      "url": "https://open.spotify.com/track/6k5zdQsyk5yHD2vzKgKDBU"
+    },
+    {
+      "added_at": "2023-12-20 19:40:25",
+      "album": {
         "name": "Puras de Juan Gabriel, vol. 2",
         "url": "https://open.spotify.com/album/3vPgQxFr1vdoiKIdbtg911"
       },
@@ -1687,38 +1687,6 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Imprescindibles",
-        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Chaparra De Mi Amor",
-      "url": "https://open.spotify.com/track/6dNEvfhpiy394j8bZ4pSbT"
-    },
-    {
-      "added_at": "2023-12-20 19:40:25",
-      "album": {
-        "name": "Norte\u00f1o",
-        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 145575,
-      "name": "Ojitos De Golondrina",
-      "url": "https://open.spotify.com/track/0IaCGBaevs1R7EMagCf8d5"
-    },
-    {
-      "added_at": "2023-12-20 19:40:25",
-      "album": {
         "name": "Cantandole al Cielo",
         "url": "https://open.spotify.com/album/6aH8mRc2bmVPsjyoSMQU6q"
       },
@@ -1751,6 +1719,22 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
+        "name": "Norte\u00f1o",
+        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 145575,
+      "name": "Ojitos De Golondrina",
+      "url": "https://open.spotify.com/track/0IaCGBaevs1R7EMagCf8d5"
+    },
+    {
+      "added_at": "2023-12-20 19:40:25",
+      "album": {
         "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
         "url": "https://open.spotify.com/album/2irJrOSLxOnQJz6POcqJQF"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 190080,
       "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
       "url": "https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp"
+    },
+    {
+      "added_at": "2023-12-20 19:40:25",
+      "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Chaparra De Mi Amor",
+      "url": "https://open.spotify.com/track/6dNEvfhpiy394j8bZ4pSbT"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Pesado: Clasicas para la Bohemia",
-        "url": "https://open.spotify.com/album/3KszSxOjja4JfSv32Xhqwa"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "Y",
-      "url": "https://open.spotify.com/track/7xBNHVbYVfi3CqNHDOYWbm"
-    },
-    {
-      "added_at": "2023-12-20 19:40:25",
-      "album": {
         "name": "Cesar Chavez",
         "url": "https://open.spotify.com/album/4plZH8Yjw48cxfnigBu0ma"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 202533,
       "name": "Contigo O Sin Ti",
       "url": "https://open.spotify.com/track/0YuNdAYlbhQ4sMMHxuWE6e"
+    },
+    {
+      "added_at": "2023-12-20 19:40:25",
+      "album": {
+        "name": "Pesado: Clasicas para la Bohemia",
+        "url": "https://open.spotify.com/album/3KszSxOjja4JfSv32Xhqwa"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "Y",
+      "url": "https://open.spotify.com/track/7xBNHVbYVfi3CqNHDOYWbm"
     },
     {
       "added_at": "2023-12-20 19:40:25",

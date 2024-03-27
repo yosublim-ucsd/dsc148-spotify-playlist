@@ -4,7 +4,7 @@
 
 > The best Dance and EDM tracks right now! Cover: Rezz
 
-160 songs - 8 hr 20 min
+161 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Murder On The Dancefloor \- PNAU Remix](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Murder On The Dancefloor \(PNAU Remix\)](https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ) | 4:20 | 2024-02-09 | 2024-03-09 |
 | [Never Be Alone](https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Never Be Alone](https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM) | 3:09 | 2024-02-20 |  |
 | [Never Be Lonely](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Never Be Lonely](https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX) | 2:14 | 2024-02-09 |  |
+| [Not Even Love](https://open.spotify.com/track/65s9dLrylbHp60IYIcUZEz) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Not Even Love](https://open.spotify.com/album/3tjAvXx7DnY6tYkzcZ4wXc) | 4:05 | 2024-03-26 |  |
 | [Now Or Never](https://open.spotify.com/track/34xBhUgjCTUxe1BuypLL0X) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Now Or Never](https://open.spotify.com/album/5Z4uXurjwmsYr59E1quhV6) | 3:27 | 2023-10-27 | 2023-11-25 |
 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 | 2023-10-27 | 2024-02-27 |
 | [On & On \(Again\) \- Edit](https://open.spotify.com/track/1tYwSPYzoCZLQKbFbvt0fS) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [On & On \(Again\) \[Edit\]](https://open.spotify.com/album/6icyrehEsAbRwrnVPvGn5u) | 3:15 | 2023-10-27 | 2023-11-25 |

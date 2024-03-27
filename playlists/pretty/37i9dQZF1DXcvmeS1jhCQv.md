@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Pillow Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,088 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,105 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 23 | [The First Time](https://open.spotify.com/track/6QHVGZoT5oZqIbn2TkpNW6) | [Stella and the Dreaming](https://open.spotify.com/artist/3GOfdAHQH8AfUfA2lisXp6) | [The First Time](https://open.spotify.com/album/2lMsA1YGTTt93coLMkAlFP) | 4:27 |
 | 24 | [Day By Day](https://open.spotify.com/track/7qnmJKc7wqNrKP8Rkxcdyw) | [Alex Konchar](https://open.spotify.com/artist/0j7yukxKXLsF3DZZhwpyW0) | [Day By Day](https://open.spotify.com/album/74MQXYjrUQbJ7W818qOUw7) | 2:08 |
 | 25 | [Sentences](https://open.spotify.com/track/2MI97Z7aN6BsMUpKjGs6MJ) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Sentences](https://open.spotify.com/album/4vduPHyboJB0uaGjft8I8b) | 2:13 |
-| 26 | [Who's That Girl](https://open.spotify.com/track/6w61gKlPulkVsGTxx4hzVl) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [CHAMELEON](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK), [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud) | [Who's That Girl](https://open.spotify.com/album/0oLjDXlF2nNcEdDVUyCDTo) | 2:29 |
+| 26 | [Who's That Girl](https://open.spotify.com/track/6w61gKlPulkVsGTxx4hzVl) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK), [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud) | [Who's That Girl](https://open.spotify.com/album/0oLjDXlF2nNcEdDVUyCDTo) | 2:29 |
 | 27 | [Wretched](https://open.spotify.com/track/0UpfYdgOKjW6ui1TNnkJUZ) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Wretched](https://open.spotify.com/album/4fYvu8Dm4AHQtHeVJOprrH) | 3:36 |
 | 28 | [Our Time](https://open.spotify.com/track/0m3rJzSC3u0DAgRp8V5y0b) | [Luke Dunleavy](https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga) | [Our Time](https://open.spotify.com/album/7uNkcvXJxHH3roLYAjBixB) | 2:30 |
 | 29 | [The State](https://open.spotify.com/track/2z8W8Wyfy2XMU7kSnDTPNF) | [Fynch](https://open.spotify.com/artist/0IKMnBuBLJuHcrTejKmrtx) | [Youngfella](https://open.spotify.com/album/1RRioAfHKB6wujcoO1Zi3p) | 3:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 79 | [i shouldn’t be here](https://open.spotify.com/track/20GibSptxBlsWlJRwWOsrB) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [i shouldn’t be here](https://open.spotify.com/album/2LywM7oEuEHwX5wofh6Gg7) | 3:06 |
 | 80 | [INFINITY](https://open.spotify.com/track/2cBpwQbzk3MdkoaPNKpUN9) | [Rachel Mae Hannon](https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc) | [INFINITY](https://open.spotify.com/album/078rjfb2B2LNh1FwQdngoT) | 3:05 |
 
-Snapshot ID: `MCxhYzdiMTdmMjQ2MzZjZWM0OGE2ZDg2ZTJmMWFmNDE0ODllZjg4MzRi`
+Snapshot ID: `MCw2OTBhM2JmNDMzNjUzNjVlZTkzYTRlNzI4YjFiZDU0OGZlNjQzN2M4`

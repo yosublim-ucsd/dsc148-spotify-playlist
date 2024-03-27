@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 126666,
+  "2024-03-27": 126670,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -2453,6 +2453,28 @@
       "duration_ms": 217600,
       "name": "Crashing Hard",
       "url": "https://open.spotify.com/track/3zxi11w6lXJgDBmIhhWjpR"
+    },
+    {
+      "album": {
+        "name": "CREATION OF DISGUST",
+        "url": "https://open.spotify.com/album/0KLFcQSTmJH4V1UWSkue2b"
+      },
+      "artists": [
+        {
+          "name": "Avance",
+          "url": "https://open.spotify.com/artist/7jIewPOjOwffB1mcJIk4vP"
+        },
+        {
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201931,
+      "name": "CREATION OF DISGUST",
+      "url": "https://open.spotify.com/track/12Ekt7NiSWR0CJWIgVK37m"
     },
     {
       "album": {
@@ -10365,7 +10387,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 187509,
       "name": "Sakura - Misc.Inc Remix",
       "url": "https://open.spotify.com/track/60iuDxgNcrAPXtLBCfmP4f"

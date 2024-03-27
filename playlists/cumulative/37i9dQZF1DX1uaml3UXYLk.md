@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-585 songs - 1 day 12 hr 25 min
+591 songs - 1 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Cho](https://open.spotify.com/track/7qMHP3EvSdQV7fpmJgx1h6) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Cho](https://open.spotify.com/album/3SdoRxeJXEy0GnALHjAI1G) | 3:29 | 2020-10-20\* | 2021-06-23 |
 | [Ciao Janet](https://open.spotify.com/track/50qpjR5hMQb5h285ANel1f) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [Ciao Janet](https://open.spotify.com/album/3cl6WY7e8NpajLtdHYMRCG) | 2:50 | 2022-06-17 |  |
 | [Circles](https://open.spotify.com/track/6T5s8zKGyTVZ1C2HSX2boi) | [Grisha](https://open.spotify.com/artist/4043uBfLzokraq7oHeqUso) | [Circles](https://open.spotify.com/album/6DRXeCV5dZtJ5xB0tb8ijP) | 5:02 | 2020-12-24 | 2021-02-20 |
+| [Circuit Trainer](https://open.spotify.com/track/0AVXvPliuc7C6RcfjY3z2X) | [Hans Blu](https://open.spotify.com/artist/3EREyIqFqpNOLCxa98i5k5) | [Circuit Trainer](https://open.spotify.com/album/1mgEUQ3zwdNDHufBof66Dk) | 2:48 | 2024-03-26 |  |
 | [Circuits](https://open.spotify.com/track/5ETYY1iN1ij5cBMBS94NAf) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Circuits / Roundabouts](https://open.spotify.com/album/65H0oHMFqZmnT2qpAOEJji) | 3:20 | 2021-06-23 | 2022-01-22 |
 | [City Heatwave](https://open.spotify.com/track/5WDB1BuVSdgPZTQsGpXnat) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Anticyclone Velodrome](https://open.spotify.com/album/6mlT2K4JCofZHXmLzSxDUx) | 3:05 | 2021-07-09 | 2022-08-05 |
 | [City Highs](https://open.spotify.com/track/7Fask2JUtxg4jhCDuTF3tj) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Limes on Ice](https://open.spotify.com/album/09b5SXwJG8vnh0eNxakj7Y) | 3:12 | 2022-09-02 |  |
@@ -152,6 +153,7 @@
 | [Discovery](https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Discovery](https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f) | 2:31 | 2021-07-09 |  |
 | [Distance](https://open.spotify.com/track/0gvKnOM5kxr8k7ft05abKD) | [Ilya Orange](https://open.spotify.com/artist/3GWnzwTAnzpZYIbNhRNhtz) | [Parallel](https://open.spotify.com/album/5TAPx8rt1i2YaAXA93vOne) | 5:47 | 2020-11-21 | 2020-12-24 |
 | [Distant \- Chill Edit](https://open.spotify.com/track/1v8g6MMMYWUy3IY06bEgwV) | [MusicbyAden](https://open.spotify.com/artist/3QgJNrZ9jkKy6IFQBjdvEV) | [Distant \(Chill Edit\)](https://open.spotify.com/album/3RsQcX0eLTZBNyfNay6HxU) | 4:28 | 2021-03-25 | 2021-08-25 |
+| [Do It Again](https://open.spotify.com/track/48YpKQYrE4hXtLkLmgEy89) | [Tales of Terra](https://open.spotify.com/artist/44PWNrMWTLwg7crjJN127B) | [Do It Again](https://open.spotify.com/album/4I5bHzjoly4vQVFCKMms1Z) | 2:18 | 2024-03-26 |  |
 | [Do U Really Want Me](https://open.spotify.com/track/6wdVevBlSEJzhvvC5LiORU) | [Bæn Gen](https://open.spotify.com/artist/0fQecWmbvA6CIixG0HOsK2) | [Heat Gun](https://open.spotify.com/album/10wynnQcCVPuizFzZQxqD7) | 6:12 | 2020-12-11 | 2021-01-29 |
 | [Doja Dojo](https://open.spotify.com/track/3y0raD8eU9EHrxTCSr9AvL) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Doja Dojo](https://open.spotify.com/album/3oyC5IKHH1VdM7L9o18gfA) | 4:12 | 2021-11-10 |  |
 | [Doliing](https://open.spotify.com/track/0psCXzD0edhxVFv8oiK6YY) | [GVNN](https://open.spotify.com/artist/0zXUbyiI3f7ZkCjBtDh2fV) | [SAKKYA EP](https://open.spotify.com/album/2WEBSGLnvi8EjZuenG9b5F) | 4:18 | 2020-10-20\* | 2021-06-23 |
@@ -343,6 +345,7 @@
 | [New Angeles](https://open.spotify.com/track/5y0tN7T4fu7fNnHp4RYcpH) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [New Angeles](https://open.spotify.com/album/4cSf0FF9F9yqMVwmV9vY1A) | 2:21 | 2023-06-23 |  |
 | [New Frontier](https://open.spotify.com/track/6hkZ974ZJcWY6NorsnIFIV) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [New Frontier](https://open.spotify.com/album/3cSuL271dmIfPhrzwbcCvE) | 3:30 | 2020-10-20\* | 2021-03-25 |
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2021-06-23 | 2021-10-16 |
+| [Newark](https://open.spotify.com/track/3VSL6qzD1jjXGzp99rncwE) | [Pedro Amblar](https://open.spotify.com/artist/4X2KYm3AxSmnslRkjs0A22) | [Newark](https://open.spotify.com/album/3RHjkM61EmiEOie5CLSEaq) | 2:22 | 2024-03-26 |  |
 | [Next To You](https://open.spotify.com/track/7CsOoJMd3gFKEJvX7nLhQ8) | [Bending Lights](https://open.spotify.com/artist/6P02YGhZmko2kdalxsmctl) | [Right Direction](https://open.spotify.com/album/1uB1qUZQ7CytxeGELt9QAy) | 3:40 | 2021-02-20 | 2021-05-13 |
 | [Night Visions](https://open.spotify.com/track/3kIaZnczSu1uoCQ78P7TxD) | [Thirsty Ear](https://open.spotify.com/artist/6RqaxUVExoKE01pPo39A2e) | [Night Visions](https://open.spotify.com/album/37VCmWXI1SMZO3vsbp4Ecc) | 3:55 | 2021-01-07 | 2022-09-02 |
 | [Nightly Purpose](https://open.spotify.com/track/1eJpAPbFOJ9FcVrq99Vbsz) | [Reglisse](https://open.spotify.com/artist/5JSk86YHGR6UKHISzJDlp6) | [Nightly Purpose](https://open.spotify.com/album/3S8IKRk8a8kZp9r68emkm2) | 2:51 | 2021-10-16 | 2022-04-15 |
@@ -377,6 +380,7 @@
 | [Parabola \- Edit](https://open.spotify.com/track/695FXM9HsfmTF4nJ84UlVF) | [Hammer](https://open.spotify.com/artist/3KtaBB3asBs44O4h3xx2V0) | [Parabola](https://open.spotify.com/album/7BCpwazCgnPVBybhYOiNCc) | 4:09 | 2020-10-20\* | 2020-10-30 |
 | [Paradisio](https://open.spotify.com/track/7GbmFwC2i0P5kqkDdMPmhz) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Paradisio](https://open.spotify.com/album/4E6olUhJDgeSKnXPDTsTd7) | 2:51 | 2021-08-25 | 2022-02-11 |
 | [Passage](https://open.spotify.com/track/7wOZCITHxHO4j7dQ5jd2iL) | [Ben Travel](https://open.spotify.com/artist/6s1MIr0LiLjEnSGjvPqaUC) | [Passage](https://open.spotify.com/album/2ODUevO5ok7PMjrhlTmU3l) | 2:57 | 2021-06-04 |  |
+| [Perfect Heat](https://open.spotify.com/track/1QY1tXdQmtmFh0vcf6VJTc) | [Finn Horizon](https://open.spotify.com/artist/4y19AUiBySss0zxq6dqNve) | [Perfect Heat](https://open.spotify.com/album/0ocuWkwPpDHqpQzXG9VgrF) | 2:42 | 2024-03-26 |  |
 | [Persist Display](https://open.spotify.com/track/77upAj6MD4twfI9UVQLT0d) | [Ixxx](https://open.spotify.com/artist/5xqKcWEO2z2WdF6CXAsm4Y) | [Persist Display](https://open.spotify.com/album/4JuU828Mu0bygg7RANN2cp) | 2:50 | 2021-11-10 | 2022-08-05 |
 | [Phase Off](https://open.spotify.com/track/4jnuEF4AKcTnJg0bpiVsKQ) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Phase Off EP](https://open.spotify.com/album/2iEyHd5HSBeKQlRpHZMnar) | 3:32 | 2021-07-09 |  |
 | [physalis](https://open.spotify.com/track/2MmIwBMgQRMlsEcOe0xgyj) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [physalis](https://open.spotify.com/album/0n0bdmxfYRptHngS5foew4) | 2:53 | 2022-06-24 |  |
@@ -420,6 +424,7 @@
 | [Rhodos 02 \- Remix](https://open.spotify.com/track/1sgHOElq9SxmhJGo0PK34Y) | [Hankerman](https://open.spotify.com/artist/1GlhYXeeRZBtr3peDzzg0F) | [Rhodos 02 \- Remix](https://open.spotify.com/album/1gCjhYqfKeTixgcN2zQrK7) | 2:46 | 2021-11-10 |  |
 | [Right Days](https://open.spotify.com/track/33LCCushOR1xZnjwlQqpqp) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Right Days](https://open.spotify.com/album/5ze159FKhoZpJZ3VZy9H3E) | 3:33 | 2021-03-25 |  |
 | [Right Direction](https://open.spotify.com/track/3PQlWzST5koIKZDgKqV0Pc) | [Bending Lights](https://open.spotify.com/artist/6P02YGhZmko2kdalxsmctl) | [Right Direction](https://open.spotify.com/album/1uB1qUZQ7CytxeGELt9QAy) | 3:34 | 2021-02-20 | 2022-10-07 |
+| [Rising Higher](https://open.spotify.com/track/5UQJY2DKNKUxpeFmXi2c3d) | [Faux Facet](https://open.spotify.com/artist/7tG7d82cOk5x0WkNAL2TZk) | [Rising Higher](https://open.spotify.com/album/2VWPcCC7wRSmgrE2PKtebl) | 2:55 | 2024-03-26 |  |
 | [Rissa](https://open.spotify.com/track/3UxADbf7B5ZCuJxSxdbf5O) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vella](https://open.spotify.com/album/0WSLBPf8mXcAFQpaq6EteH) | 4:42 | 2021-01-21 |  |
 | [rollacoasta](https://open.spotify.com/track/1CRcnpmLaXxdipLh4g0plB) | [Mateo Hill](https://open.spotify.com/artist/6ZwI5BEf3SVNDkdOKFpxKQ) | [rollacoasta](https://open.spotify.com/album/6oXbyjfKySarMAKjy6BCQr) | 2:42 | 2022-05-20 |  |
 | [Rolling](https://open.spotify.com/track/6OMQhaJVeUuPm9OFbIjXAL) | [Martin Monroi](https://open.spotify.com/artist/4IB5E37eyDYzrP0nQPogaq) | [Rolling](https://open.spotify.com/album/3lHEFKAG3FS8xAPyh7jWhE) | 2:46 | 2023-11-17 |  |
@@ -558,6 +563,7 @@
 | [Underview](https://open.spotify.com/track/5Ut0xXdUvgW5TVuTr6FZCv) | [Shiruky](https://open.spotify.com/artist/1Tr7ffkJ66E8bXTm2g7uEM) | [Got This](https://open.spotify.com/album/0TtK0hLbzepa08Rosnmgqb) | 3:57 | 2021-06-23 | 2021-10-16 |
 | [Unknown Controlpanel](https://open.spotify.com/track/4Jbd4SmdEeNeH6if9lsNLe) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Anticyclone Velodrome](https://open.spotify.com/album/6mlT2K4JCofZHXmLzSxDUx) | 3:06 | 2021-07-09 |  |
 | [Until I'm Home](https://open.spotify.com/track/1UA9mnrucrT9yYOscmw1be) | [imagiro](https://open.spotify.com/artist/2O8Fgh14LT9QBGfFM5q5Rb) | [Until I'm Home](https://open.spotify.com/album/0rDZkSIj0LVNQWrDzXInpu) | 3:18 | 2020-10-20\* | 2021-01-15 |
+| [Unwind](https://open.spotify.com/track/5OUkIjHE8ZDYHYOlFmFbgH) | [Sobbel Sosch](https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok) | [Unwind](https://open.spotify.com/album/08ePa0heewLPWS4XogNoSS) | 2:10 | 2024-03-26 |  |
 | [Urban Exploration](https://open.spotify.com/track/1ykMsXleK0ys7uJYCDttJT) | [SÁBADA](https://open.spotify.com/artist/4XzpwlfkxNpig7JhxSJxTn) | [Urban Exploration](https://open.spotify.com/album/61uzHmj37eSY7jeP7UHM4s) | 2:11 | 2021-08-25 | 2022-01-22 |
 | [Utopia](https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM) | [Vivaldi Verdes](https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc) | [Utopia](https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa) | 3:55 | 2020-10-20\* | 2022-04-15 |
 | [Vacaciones](https://open.spotify.com/track/7qZigaS8Wx6JuBue3JMGzc) | [Sebastian Campos](https://open.spotify.com/artist/6ziUFFJdD7qKJESWP1K1Ee) | [Vacaciones](https://open.spotify.com/album/6S1OAh4LVIhJs9QDDKPZBG) | 2:41 | 2021-02-12 | 2022-09-02 |

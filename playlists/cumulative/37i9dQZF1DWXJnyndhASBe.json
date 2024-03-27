@@ -45,6 +45,32 @@
     },
     {
       "album": {
+        "name": "15 MINUT",
+        "url": "https://open.spotify.com/album/4Zdit50vrKOrDlC4LH04TR"
+      },
+      "artists": [
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "Sergiusz",
+          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193733,
+      "name": "15 MINUT",
+      "url": "https://open.spotify.com/track/0ohhlmedLa72XMSJwxW62A"
+    },
+    {
+      "album": {
         "name": "3 w nocy w Mi\u0119dzyzdrojach",
         "url": "https://open.spotify.com/album/3Kb9Hu7HPcylofDU8ekkZy"
       },
@@ -709,6 +735,36 @@
     },
     {
       "album": {
+        "name": "BLOK!",
+        "url": "https://open.spotify.com/album/5enVbTWwFKmmCxc8RGNmYO"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        },
+        {
+          "name": "Suwal",
+          "url": "https://open.spotify.com/artist/5ySH1SGdybbpB07zl03goY"
+        },
+        {
+          "name": "Kusha",
+          "url": "https://open.spotify.com/artist/2a3CjKMScCbYiM3XTay0zf"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137480,
+      "name": "BLOK!",
+      "url": "https://open.spotify.com/track/031b3RMm1OxdNAta0tBcvN"
+    },
+    {
+      "album": {
         "name": "BOSSMOVES",
         "url": "https://open.spotify.com/album/4uPRY1bh3S3FxjeakQnlcM"
       },
@@ -1108,6 +1164,32 @@
       "duration_ms": 199090,
       "name": "co by si\u0119 nie dzia\u0142o",
       "url": "https://open.spotify.com/track/0WTvAeSKmSE7SE73u40OLG"
+    },
+    {
+      "album": {
+        "name": "Co ty mi dasz ale to DRILL",
+        "url": "https://open.spotify.com/album/0wfRReRNYIdKi0yP5XCrvm"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "m\u0142ody klakson",
+          "url": "https://open.spotify.com/artist/5OpbwO25KnXFv2nUYlMwOu"
+        },
+        {
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/00ekfPE5ZS3NwF8H8o8GBk"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132042,
+      "name": "Co ty mi dasz ale to DRILL",
+      "url": "https://open.spotify.com/track/0cN69CM2rw5hoEgeGdF87m"
     },
     {
       "album": {
@@ -1842,7 +1924,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 144375,
       "name": "Freddie",
       "url": "https://open.spotify.com/track/4Kbi7UnFd5CsarYSqtQKiK"
@@ -3020,7 +3102,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 141500,
       "name": "Mam Ci\u0119",
       "url": "https://open.spotify.com/track/3moDqdYK90QDw3Lk9q5yDE"
@@ -4000,7 +4082,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 232717,
       "name": "Ostatni kieliszek",
       "url": "https://open.spotify.com/track/5CEYkx8yKy3jqHdgyxTx8F"
@@ -4274,7 +4356,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 157894,
       "name": "Piegi",
       "url": "https://open.spotify.com/track/5mJ816ZkF5m0PQSk8NRjnP"
@@ -4476,6 +4558,36 @@
       "duration_ms": 153461,
       "name": "Puff Daddy",
       "url": "https://open.spotify.com/track/2smHwbTqnvAMSNjOIlkhYc"
+    },
+    {
+      "album": {
+        "name": "P\u00f3\u0142 na p\u00f3\u0142",
+        "url": "https://open.spotify.com/album/1stHVQaEoGA91wGezjYv0n"
+      },
+      "artists": [
+        {
+          "name": "Sarius",
+          "url": "https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S"
+        },
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "Kuba Hejz",
+          "url": "https://open.spotify.com/artist/54FDfzo1I8n6TBqm9dkBWl"
+        },
+        {
+          "name": "Szatt",
+          "url": "https://open.spotify.com/artist/7CvAaHIdLQdAGOIEL9MKkS"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "P\u00f3\u0142 na p\u00f3\u0142",
+      "url": "https://open.spotify.com/track/1RYLelysoMdpVd4So9Wiwd"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 58404,
+  "num_followers": 58437,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjIxZDQwMmEwYzRmOTBkYTI2ZWExMzRlN2MwODE2NjkyMDI2MmJl",
+  "snapshot_id": "MCw4N2YxMmFlMGI1NTQ3MDZlMTVmZDk4YWJhZjY2MzU0MzE0YmFmNjNi",
   "tracks": [
     {
       "added_at": "2023-08-10 19:42:53",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Gnawa Home Songs",
-        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
+        "name": "Live in Casablanca",
+        "url": "https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR"
       },
       "artists": [
         {
-          "name": "Amida Boussou",
-          "url": "https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5"
+          "name": "Fehd Benchemsi",
+          "url": "https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky"
         }
       ],
-      "duration_ms": 193693,
-      "name": "Boulila",
-      "url": "https://open.spotify.com/track/7K0e9c4yavJcHGpGr4VxpG"
+      "duration_ms": 569244,
+      "name": "Lalla Mira",
+      "url": "https://open.spotify.com/track/2Ya5BmjguLHtvnIznh35cf"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Live in Casablanca",
-        "url": "https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR"
+        "name": "Gnawa Home Songs",
+        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
       },
       "artists": [
         {
-          "name": "Fehd Benchemsi",
-          "url": "https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky"
+          "name": "Amida Boussou",
+          "url": "https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5"
         }
       ],
-      "duration_ms": 569244,
-      "name": "Lalla Mira",
-      "url": "https://open.spotify.com/track/2Ya5BmjguLHtvnIznh35cf"
+      "duration_ms": 193693,
+      "name": "Boulila",
+      "url": "https://open.spotify.com/track/7K0e9c4yavJcHGpGr4VxpG"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Jah Gnawi",
-        "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
-      },
-      "artists": [
-        {
-          "name": "Gnawa Impulse",
-          "url": "https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ"
-        }
-      ],
-      "duration_ms": 245097,
-      "name": "Lalla Mira - Jan Rase Remix",
-      "url": "https://open.spotify.com/track/2yXvT1eHZzo5y2fyv6fo3W"
-    },
-    {
-      "added_at": "2023-08-10 19:42:53",
-      "album": {
         "name": "Africa Soyo",
         "url": "https://open.spotify.com/album/0TS8sECdyoJTL0n7aKozrx"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 388466,
       "name": "Arabiato",
       "url": "https://open.spotify.com/track/2THND2AOdM0UKRIi5RJNZk"
+    },
+    {
+      "added_at": "2023-08-10 19:42:53",
+      "album": {
+        "name": "Jah Gnawi",
+        "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
+      },
+      "artists": [
+        {
+          "name": "Gnawa Impulse",
+          "url": "https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ"
+        }
+      ],
+      "duration_ms": 245097,
+      "name": "Lalla Mira - Jan Rase Remix",
+      "url": "https://open.spotify.com/track/2yXvT1eHZzo5y2fyv6fo3W"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
+        "name": "Moroccan Spring (Live)",
+        "url": "https://open.spotify.com/album/4Oj9M6TMJTIsxIXXhEVJYX"
+      },
+      "artists": [
+        {
+          "name": "Chalaban",
+          "url": "https://open.spotify.com/artist/7wy6H1DoR6ORojXiehTmbG"
+        }
+      ],
+      "duration_ms": 343840,
+      "name": "Chalaban - Live",
+      "url": "https://open.spotify.com/track/2kQIp8ezdvT75GnZyXpLpz"
+    },
+    {
+      "added_at": "2023-08-10 19:42:53",
+      "album": {
         "name": "Gnawa Njoum Experience",
         "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 292520,
       "name": "Marhaba",
       "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"
-    },
-    {
-      "added_at": "2023-08-10 19:42:53",
-      "album": {
-        "name": "Sewary\u00e9 gnawa influences",
-        "url": "https://open.spotify.com/album/27PzrBG8lH8FmMZX5vYI3c"
-      },
-      "artists": [
-        {
-          "name": "Hassan Boussou",
-          "url": "https://open.spotify.com/artist/3FX6IGUTOn1zh4D8iMFpeI"
-        }
-      ],
-      "duration_ms": 358700,
-      "name": "Fangara",
-      "url": "https://open.spotify.com/track/3ZbOt3J5GlRhuIUcWxgMY1"
     }
   ],
   "unique_name": "Gnawa Music",

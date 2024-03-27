@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,003 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,017 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 14 | [Eternal Light](https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 4:06 |
 | 15 | [EMOTION](https://open.spotify.com/track/5hi5zEqlG3kXMDVH84i7N7) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d) | [Eutopia / EMOTION / stars we chase \(三船栞子盤\)](https://open.spotify.com/album/0LiQMHhv95LfzN5RkdkP5T) | 3:50 |
 | 16 | [ツナガルコネクト](https://open.spotify.com/track/5STRLlJ8d8O8cImBgyxvNv) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [サイコーハート / La Bella Patria / ツナガルコネクト \(天王寺璃奈盤\)](https://open.spotify.com/album/7KjQ0RvxpgVELdpiIOkCSv) | 3:57 |
-| 17 | [Butterfly](https://open.spotify.com/track/0CmpgRM57Uq8KOQAzKOxrq) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [Butterfly / Solitude Rain / VIVID WORLD \(近江彼方盤\)](https://open.spotify.com/album/5FT50eiC2wHEFWfTU1DxYR) | 3:36 |
-| 18 | [stars we chase](https://open.spotify.com/track/4VLmRpAuJGyTYSf1kN6xBT) | [ミア・テイラー \(CV.内田 秀\)](https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P) | [Eutopia / EMOTION / stars we chase \(ミア・テイラー盤\)](https://open.spotify.com/album/3sNQAhFiFAUFCFGwGf7mtg) | 3:13 |
+| 17 | [stars we chase](https://open.spotify.com/track/4VLmRpAuJGyTYSf1kN6xBT) | [ミア・テイラー \(CV.内田 秀\)](https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P) | [Eutopia / EMOTION / stars we chase \(ミア・テイラー盤\)](https://open.spotify.com/album/3sNQAhFiFAUFCFGwGf7mtg) | 3:13 |
+| 18 | [Butterfly](https://open.spotify.com/track/0CmpgRM57Uq8KOQAzKOxrq) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [Butterfly / Solitude Rain / VIVID WORLD \(近江彼方盤\)](https://open.spotify.com/album/5FT50eiC2wHEFWfTU1DxYR) | 3:36 |
 | 19 | [無敵級\*ビリーバー](https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [無敵級\*ビリーバー](https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn) | 4:04 |
 | 20 | [ENJOY IT！](https://open.spotify.com/track/0tgisyzU6IT2FRLtoTJuM7) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [ENJOY IT!](https://open.spotify.com/album/2iVFzFSdX4eEyOVVvXI7SN) | 4:13 |
 | 21 | [決意の光](https://open.spotify.com/track/5bKOT6xcTF9SLJw4sKgb2s) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 49 | [めっちゃGoing!!](https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN) | [宮下 愛 \(CV.村上奈津実\)](https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:48 |
 | 50 | [Kofukuron](https://open.spotify.com/track/05DZPBOfAqqdywyCX33yh1) | [Shioriko Mifune \(CV: Moeka Koizumi\)](https://open.spotify.com/artist/3hVNHMjYAkdcgYgqxXy1G3) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 4:20 |
 
-Snapshot ID: `MCxjZDEzYjViNmQ0Y2IxOGE2ODdhNjljYWQ1MTQwYmNjNDlmMWMzN2I4`
+Snapshot ID: `MCwyNjdjMmVjNGJlMzhlOGFkNjk2ZjQyNmY3YzIxYTk2MzJhZTIxODY1`

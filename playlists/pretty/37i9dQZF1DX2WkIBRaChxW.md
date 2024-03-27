@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in r&b, right now – featuring PARTYNEXTDOOR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,090 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,099 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 74 | [Pick it Up](https://open.spotify.com/track/10rJH6BggTxh7esR2Hvpbd) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Pick it Up](https://open.spotify.com/album/6hVfd2o9FBBrzSVkZ3wHdO) | 2:41 |
 | 75 | [Be My Summer](https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Be My Summer](https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C) | 3:06 |
 
-Snapshot ID: `MCxjOWY2MzJkZTFkYTYzNTcwMzQxYjk4ZWZkODQ0ZmM3Yjg4NmQyYjA5`
+Snapshot ID: `MCw3Yjk0NzU1YjE3MzIwMmNiMGNmYjA1ODcxNmE5ZTM2Y2MyZDk3M2M4`

@@ -2579,6 +2579,24 @@
     },
     {
       "album": {
+        "name": "the life and death of a dog",
+        "url": "https://open.spotify.com/album/3zzzsk0VzmLORaVtENlOHY"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163384,
+      "name": "get it together !",
+      "url": "https://open.spotify.com/track/1kfA8NyEx2Pltit1mtBpex"
+    },
+    {
+      "album": {
         "name": "harry houdini",
         "url": "https://open.spotify.com/album/42L1S5YuqINChXquOm1gKn"
       },
@@ -2590,7 +2608,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 163384,
       "name": "get it together !",
       "url": "https://open.spotify.com/track/2QiRrkBZtIYrt2HVjZgNo6"

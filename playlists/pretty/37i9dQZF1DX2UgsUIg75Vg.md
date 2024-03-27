@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: SiR
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,355,023 likes - 155 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,355,285 likes - 155 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 154 | [Leaves](https://open.spotify.com/track/7sqLzX73av3Gy1aPM4i1tG) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:39 |
 | 155 | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/album/1KUP4jLGY0Jil7j43w3dx8) | 4:18 |
 
-Snapshot ID: `MCw5OTE2NWFmNjFiM2JiNTgwYThlNjgyM2VjMzVlNGNlMGMyNzA1MDU4`
+Snapshot ID: `MCxhYmE4YTNkZGZjY2E2ODUwNDQ1ZDllOGZjOGM2NzVhOWI3YTk0NzY5`

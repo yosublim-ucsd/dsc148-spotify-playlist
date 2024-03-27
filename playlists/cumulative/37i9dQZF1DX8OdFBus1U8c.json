@@ -409,6 +409,32 @@
     },
     {
       "album": {
+        "name": "Ballaatha Jaathi",
+        "url": "https://open.spotify.com/album/2lVMOwZzF8iqaPbO83XScW"
+      },
+      "artists": [
+        {
+          "name": "NJ",
+          "url": "https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp"
+        },
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "BABY JEAN",
+          "url": "https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Ballaatha Jaathi",
+      "url": "https://open.spotify.com/track/1LBSyVTSeYbgBzV7AznMsN"
+    },
+    {
+      "album": {
         "name": "BANDANA",
         "url": "https://open.spotify.com/album/6LnrtNJONoihgwiKbZqJv0"
       },
@@ -816,6 +842,10 @@
         {
           "name": "NJ",
           "url": "https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp"
+        },
+        {
+          "name": "Rzee",
+          "url": "https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et"
         }
       ],
       "date_added": "2024-03-08",
@@ -2486,7 +2516,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 234145,
       "name": "Saavadhaanam",
       "url": "https://open.spotify.com/track/0naYPixoWCVoKdUAcpIJYG"

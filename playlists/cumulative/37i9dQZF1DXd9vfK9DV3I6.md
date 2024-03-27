@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-289 songs - 21 hr 16 min
+290 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Enta Omry Remix 2022](https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ) | [Hijazi](https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Enta Omry Remix 2022](https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG) | 4:38 | 2022-06-27 |  |
 | [Escuro](https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv) | [Cut Off](https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1) | [Escuro](https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx) | 4:45 | 2022-01-31 |  |
 | [Estrela Do Mar \- Turu Anasi Remix](https://open.spotify.com/track/6pnEKbDzenW63MH86ckAsP) | [Perspectiv](https://open.spotify.com/artist/6moLRtxxKjxIV7s71NSxt7), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Turu Anasi](https://open.spotify.com/artist/1HKyZXQv90cYQtoZQDya0d) | [Estrela Do Mar \(Turu Anasi Remix\)](https://open.spotify.com/album/6L2JZKq0BcB8yLjADtq4Ms) | 7:47 | 2023-01-19 | 2023-03-18 |
-| [Eternal Roots](https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg) | [SAFAR](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Eternal Roots](https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL) | 5:05 | 2022-08-04 |  |
+| [Eternal Roots](https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg) | [SAFAR](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Eternal Roots](https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL) | 5:05 | 2022-08-04 | 2024-03-27 |
 | [Ethnique](https://open.spotify.com/track/4amCThUWU1U7Bbuh1FXHu4) | [Yusuf Ekşioğlu](https://open.spotify.com/artist/4vmQIVTg6D7bAQw0BR5SMv) | [Ethnique](https://open.spotify.com/album/4MTL284tVGDYytBQIkHLQ4) | 2:47 | 2023-01-13 |  |
 | [Euphrates](https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Amare](https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K) | 6:50 | 2020-10-18\* |  |
 | [Fade Away](https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [Rhi'N'B](https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn) | [Fade Away](https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7) | 2:38 | 2022-10-27 |  |
@@ -163,6 +163,7 @@
 | [Love of You \(The Violin Song\)](https://open.spotify.com/track/3Plxq17VtrPDcXMFvFqBI4) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv), [Brianna](https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ) | [Love of You \(The Violin Song\)](https://open.spotify.com/album/34OrTqooBQrQqkwJpxPTJJ) | 2:40 | 2023-12-04 |  |
 | [Love of You \(The Violin Song\)](https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv), [Brianna](https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ) | [Love of You \(The Violin Song\)](https://open.spotify.com/album/5enimcWdUNJu7ijU0MSHaW) | 2:40 | 2021-02-16 | 2023-12-11 |
 | [Lovely](https://open.spotify.com/track/593LEeuExHU4WfqxxaIOYG) | [Berat Oz](https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1) | [Lovely](https://open.spotify.com/album/05zjElhX5hGafbGN1YUb6H) | 2:56 | 2023-03-24 | 2024-03-18 |
+| [Lovely](https://open.spotify.com/track/6swUlpIZQ3ogPdfnn2Sh5Y) | [Berat Oz](https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1) | [Lovely](https://open.spotify.com/album/0VCPlHKrNaXBmvDLuXdBVH) | 2:56 | 2024-03-13 |  |
 | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/track/2pCAbg8LNmLBThAJoA6gj8) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nicole Saba](https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW) | 8:38 | 2021-03-08 | 2023-03-18 |
 | [Magic](https://open.spotify.com/track/0jqczwiW0nZS9nbHcP53zH) | [Mert Kurt](https://open.spotify.com/artist/4RT6cDwglyYnmCDaxX2LHL), [Barış Çakır](https://open.spotify.com/artist/4UXic6o2WzSQJwgMzAP32J) | [Magic](https://open.spotify.com/album/60BkiwqufLrelLEbCueKG5) | 2:50 | 2021-07-16 | 2022-07-29 |
 | [Mandala](https://open.spotify.com/track/1Y4z9pcqHF9KHHnZQoB07O) | [5054281243927](https://open.spotify.com/artist/19XpYYkXzHg5NrQVMYflP7) | [Mandala](https://open.spotify.com/album/3dUAftuoKoE2HUDPpEVJeS) | 3:57 | 2022-06-27 | 2022-09-24 |

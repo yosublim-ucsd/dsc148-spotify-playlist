@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. \nCo-curada por Cami.",
-  "num_followers": 13467,
+  "num_followers": 13468,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2QyZmVlYmRiZTk5YTI3NWFlYTA1OTNkZDQ2N2VlMmNhN2YzNGQx",
+  "snapshot_id": "MCw2NDNhYWY5ZDljNzMwMDA1MzQ3NTEzZDUzOTAwZjRiNTg3ZDQ2YjQz",
   "tracks": [
     {
       "added_at": "2024-03-11 17:02:36",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-03-11 17:02:36",
       "album": {
+        "name": "Al calor de un sol que acaba de morir",
+        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 178055,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0bxSYZKwDjqFm11YRt987r"
+    },
+    {
+      "added_at": "2024-03-11 17:02:36",
+      "album": {
         "name": "Baby del Rey",
         "url": "https://open.spotify.com/album/1DzOsYZEhcXcbJvICzzhnB"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 200833,
       "name": "Baby del Rey",
       "url": "https://open.spotify.com/track/457jFfPXJqTZtG0o9uNokI"
-    },
-    {
-      "added_at": "2024-03-11 17:02:36",
-      "album": {
-        "name": "Al calor de un sol que acaba de morir",
-        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 178055,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0bxSYZKwDjqFm11YRt987r"
     },
     {
       "added_at": "2024-03-11 17:02:36",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-03-11 17:02:36",
       "album": {
-        "name": "Cuerpo y Guitarra",
-        "url": "https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ"
-      },
-      "artists": [
-        {
-          "name": "Mariel Mariel",
-          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
-        }
-      ],
-      "duration_ms": 177056,
-      "name": "Cuerpo y Guitarra",
-      "url": "https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq"
-    },
-    {
-      "added_at": "2024-03-11 17:02:36",
-      "album": {
         "name": "ANT\u00cdDOTO",
         "url": "https://open.spotify.com/album/26rubL6YMJu0GFTpyDcHxX"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2024-03-11 17:02:36",
       "album": {
+        "name": "Cuerpo y Guitarra",
+        "url": "https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ"
+      },
+      "artists": [
+        {
+          "name": "Mariel Mariel",
+          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
+        }
+      ],
+      "duration_ms": 177056,
+      "name": "Cuerpo y Guitarra",
+      "url": "https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq"
+    },
+    {
+      "added_at": "2024-03-11 17:02:36",
+      "album": {
         "name": "Las Cosas Lento",
         "url": "https://open.spotify.com/album/6FmvVxbiZ0LuYe4qwFVngj"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 208295,
       "name": "Voy a hacer las cosas lento",
       "url": "https://open.spotify.com/track/49duWGcDtY71As1gHIuQGz"
+    },
+    {
+      "added_at": "2024-03-11 17:02:36",
+      "album": {
+        "name": "REPR\u00cdS",
+        "url": "https://open.spotify.com/album/6VV0FKDFoMDWL1vAuL2DBP"
+      },
+      "artists": [
+        {
+          "name": "Javiera Electra",
+          "url": "https://open.spotify.com/artist/7c2QpfLeD8s647evep6Mbp"
+        }
+      ],
+      "duration_ms": 269210,
+      "name": "Cuarta pared",
+      "url": "https://open.spotify.com/track/1gADJxAF0of5vxTRisUWCj"
     },
     {
       "added_at": "2024-03-11 17:02:36",
@@ -751,22 +767,6 @@
       "duration_ms": 178285,
       "name": "aterrizar",
       "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
-    },
-    {
-      "added_at": "2024-03-11 17:02:36",
-      "album": {
-        "name": "REPR\u00cdS",
-        "url": "https://open.spotify.com/album/6VV0FKDFoMDWL1vAuL2DBP"
-      },
-      "artists": [
-        {
-          "name": "Javiera Electra",
-          "url": "https://open.spotify.com/artist/7c2QpfLeD8s647evep6Mbp"
-        }
-      ],
-      "duration_ms": 269210,
-      "name": "Cuarta pared",
-      "url": "https://open.spotify.com/track/1gADJxAF0of5vxTRisUWCj"
     },
     {
       "added_at": "2024-03-11 17:02:36",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-03-11 17:02:36",
       "album": {
-        "name": "Del Trueno",
-        "url": "https://open.spotify.com/album/0XDq3spP4uE6DEiX30mxZU"
+        "name": "Asumir",
+        "url": "https://open.spotify.com/album/5SgEb2eLkyxrz9CbaZi8UY"
       },
       "artists": [
         {
-          "name": "Roc\u00edo Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/3sxc4zdETNUXmbex0OEJ8z"
+          "name": "Kurmi",
+          "url": "https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W"
         }
       ],
-      "duration_ms": 154124,
-      "name": "La Muerte",
-      "url": "https://open.spotify.com/track/0yaSwRYXIriSk12LHaUSc0"
+      "duration_ms": 227500,
+      "name": "Asumir",
+      "url": "https://open.spotify.com/track/7Cy6yRnryMFgUb0Hx3Iv3I"
     }
   ],
   "unique_name": "EQUAL Chile",

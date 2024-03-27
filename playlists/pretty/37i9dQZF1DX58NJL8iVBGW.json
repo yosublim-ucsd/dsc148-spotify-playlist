@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 599659,
+  "num_followers": 599800,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2JiODQ2ZGNiNDE0NTliNWMzYTFhMWE0OThlOGNlZTg1YzE5OWJj",
+  "snapshot_id": "MCwyMzcxOTEzNjI3ZTk2MTQ3ZTc0YTRkODIzMTMwMWM5ODc1Yjg1ODc4",
   "tracks": [
     {
       "added_at": "2024-02-16 19:57:55",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
+        "name": "The Devil Dancing",
+        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226324,
+      "name": "Danger and Dread",
+      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
         "name": "Sad But True",
         "url": "https://open.spotify.com/album/2Io6ybkhshdFUJhBgWQETk"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 128893,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/0BCtG2fGjxoztlnetLoqBc"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
-        "name": "The Devil Dancing",
-        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226324,
-      "name": "Danger and Dread",
-      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Black Is the Color",
-        "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
-      },
-      "artists": [
-        {
-          "name": "Lucette",
-          "url": "https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "Bobby Reid",
-      "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/1LkiSSGpC70DBh7UsGB0y2"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 111186,
       "name": "Dreamcatchers",
       "url": "https://open.spotify.com/track/66K0gSHdemfDspYgDgPrcf"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Black Is the Color",
+        "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
+      },
+      "artists": [
+        {
+          "name": "Lucette",
+          "url": "https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn"
+        }
+      ],
+      "duration_ms": 138440,
+      "name": "Bobby Reid",
+      "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Out Of Hands We Go",
-        "url": "https://open.spotify.com/album/2TBHUDbwjZoNir22a43aSr"
-      },
-      "artists": [
-        {
-          "name": "O'Death",
-          "url": "https://open.spotify.com/artist/5oTGxE6TDRsEr0jfbIlp7O"
-        }
-      ],
-      "duration_ms": 233873,
-      "name": "Herd",
-      "url": "https://open.spotify.com/track/7Gp6rliJK9iw8CEJvvD8oe"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Real Gone (Remastered)",
         "url": "https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 290680,
       "name": "How's It Gonna End",
       "url": "https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Out Of Hands We Go",
+        "url": "https://open.spotify.com/album/2TBHUDbwjZoNir22a43aSr"
+      },
+      "artists": [
+        {
+          "name": "O'Death",
+          "url": "https://open.spotify.com/artist/5oTGxE6TDRsEr0jfbIlp7O"
+        }
+      ],
+      "duration_ms": 233873,
+      "name": "Herd",
+      "url": "https://open.spotify.com/track/7Gp6rliJK9iw8CEJvvD8oe"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Blacklisted",
-        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 150293,
-      "name": "Things That Scare Me",
-      "url": "https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Folksinger Vol. 2",
         "url": "https://open.spotify.com/album/2CBLeaL8ProyeOOhc1QFpb"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 246146,
       "name": "Gallows Pole",
       "url": "https://open.spotify.com/track/5L1BHZ2uApRTpP95yGykjv"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Blacklisted",
+        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 150293,
+      "name": "Things That Scare Me",
+      "url": "https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
-      },
-      "artists": [
-        {
-          "name": "The Huntress and Holder of Hands",
-          "url": "https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX"
-        }
-      ],
-      "duration_ms": 331908,
-      "name": "Shake off Your Flesh",
-      "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Horehound",
         "url": "https://open.spotify.com/album/1nxECUyuIZF5JCrO9Xo2jO"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 380160,
       "name": "Will There Be Enough Water?",
       "url": "https://open.spotify.com/track/3VYbLgJNS7Jr7YlatA0lNe"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
+      },
+      "artists": [
+        {
+          "name": "The Huntress and Holder of Hands",
+          "url": "https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX"
+        }
+      ],
+      "duration_ms": 331908,
+      "name": "Shake off Your Flesh",
+      "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Look Homeward",
-        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
-      },
-      "artists": [
-        {
-          "name": "Look Homeward",
-          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Sister Death",
-      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Empire",
         "url": "https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 217240,
       "name": "Fire in the Empire",
       "url": "https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Look Homeward",
+        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
+      },
+      "artists": [
+        {
+          "name": "Look Homeward",
+          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "Sister Death",
+      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
     },
     {
       "added_at": "2024-02-16 19:57:55",

@@ -4,7 +4,7 @@
 
 > New music from Black artists every Friday\. Happy Women's History Month! Cover: <a href="spotify:artist:3SozjO3Lat463tQICI9LcE">Tyla</a>
 
-2,988 songs - 6 day 5 hr 53 min
+2,989 songs - 6 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1048,7 +1048,8 @@
 | [Go Boy](https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Go Boy](https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E) | 2:56 | 2023-04-24 | 2023-05-13 |
 | [Go Get It](https://open.spotify.com/track/0CIusTSIe1WLFrIPg6ekKx) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Go Get It](https://open.spotify.com/album/03etiL2wGRCdc7VDHiKpni) | 1:45 | 2022-08-19 | 2022-09-10 |
 | [Go Getta](https://open.spotify.com/track/1XOy0JUyQBeSP4TE0WILFy) | [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [Not A Pissing Contest/Go Getta](https://open.spotify.com/album/611wDTLbLNlAw0ayHfMoi0) | 2:22 | 2022-05-20 | 2022-06-11 |
-| [GO GO GO](https://open.spotify.com/track/5rksvPbByvxccvFwqSX1E0) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [GO GO GO \(Feat\. Josman\) \[Official Video\]](https://open.spotify.com/album/0XQLwiVkRdxw0TWAmR5tl1) | 2:28 | 2024-03-22 |  |
+| [GO GO GO](https://open.spotify.com/track/5rksvPbByvxccvFwqSX1E0) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [GO GO GO \(Feat\. Josman\) \[Official Video\]](https://open.spotify.com/album/0XQLwiVkRdxw0TWAmR5tl1) | 2:28 | 2024-03-22 | 2024-03-27 |
+| [GO GO GO \(Feat\. Josman\)](https://open.spotify.com/track/7aVmgoP5zbhgmfyzrhjkt9) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [GO GO GO \(Feat\. Josman\)](https://open.spotify.com/album/7vytsNJbYLRuIIw04DwaP0) | 2:28 | 2024-03-26 |  |
 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 | 2023-05-05 | 2023-07-22 |
 | [Go Home](https://open.spotify.com/track/3lQeU943lFCg95XDi8De7Y) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [Left on Read](https://open.spotify.com/album/0yJkua96DygoM61HyEQ4Uy) | 2:15 | 2022-03-25 | 2022-04-16 |
 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 | 2023-01-13 | 2023-02-11 |
@@ -1504,7 +1505,7 @@
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-28 | 2022-11-26 |
 | [Liftin Me Up \- Mixed](https://open.spotify.com/track/3IuoMVdAjjYvvQqsIMxaUE) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Liftin Me Up \(Mixed\)](https://open.spotify.com/album/0GPU70krmiBmiNHpMkWhQt) | 3:34 | 2022-06-07 | 2022-06-18 |
 | [Light Breeze](https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Light Breeze](https://open.spotify.com/album/0N1u2tCscAuCsNYia6HAM4) | 2:38 | 2022-07-22 | 2022-08-13 |
-| [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 | 2024-03-22 |  |
+| [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 | 2024-03-22 |  |
 | [Like I Love Country Music](https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Like I Love Country Music](https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg) | 3:54 | 2022-05-06 | 2022-06-08 |
 | [Like That](https://open.spotify.com/track/0PC0xE49RsOT49PZmmxR0Z) | [Cuban Doll](https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc) | [Like That](https://open.spotify.com/album/4Z5vnVWtGBQM9ej7MEklrp) | 3:44 | 2023-04-28 | 2023-05-13 |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-03-22 |  |

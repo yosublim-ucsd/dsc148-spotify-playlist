@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,426 songs - 3 day 2 hr 6 min
+1,427 songs - 3 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1095,6 +1095,7 @@
 | [Schaduw](https://open.spotify.com/track/1hYUqHaKoxI9KRhWIU36LM) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Schaduw](https://open.spotify.com/album/6jRQEVs85OSaRyWWxgzltR) | 3:18 | 2021-11-28 | 2021-12-19 |
 | [Schakelen](https://open.spotify.com/track/4XAs1VBbmfnf8sUjKwF6Tp) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Schakelen](https://open.spotify.com/album/34SBy6wepe7JLEcMvTL78w) | 3:40 | 2023-10-28 | 2023-11-05 |
 | [Schakelen](https://open.spotify.com/track/6jQaK9D9PHGrh50lgvMYhO) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Beschadigd](https://open.spotify.com/album/5poVrMO8E2jTqTkEPJFlNv) | 3:40 | 2023-11-04 | 2023-11-19 |
+| [Schudden](https://open.spotify.com/track/2E3Vt7fF1tuvnkwc8Pqk7B) | [Def Rhymz](https://open.spotify.com/artist/5MP0NXMhl5TfFKtG3Q5uk2) | [De Allergoeiste \(Reissue\)](https://open.spotify.com/album/1dbz3bcXwCQUMZr226anyI) | 3:42 | 2024-03-26 |  |
 | [Schultenbräu](https://open.spotify.com/track/540BsMhL329p3KhB8ZZ7Ez) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Chantal Janzen](https://open.spotify.com/artist/2FyAfRcka8m38xmE2vjZIn) | [Schultenbräu](https://open.spotify.com/album/5ssEaym3WyrakcCkZzihxu) | 3:02 | 2023-06-07 | 2023-09-12 |
 | [Schultenbräu](https://open.spotify.com/track/6t0zMT2rOSI0lKFyJmGExD) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Chantal Janzen](https://open.spotify.com/artist/2FyAfRcka8m38xmE2vjZIn) | [De Kibbelingsound](https://open.spotify.com/album/1GiQ2G7EReqJU3N2qRNsqb) | 3:02 | 2023-06-03 | 2023-06-08 |
 | [Scootertijd](https://open.spotify.com/track/7AzYfYR24g3dFRrIxKHMGF) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Luxeprobleem](https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy) | 2:19 | 2023-02-18 | 2023-02-23 |
@@ -1178,7 +1179,7 @@
 | [Sterrenstof](https://open.spotify.com/track/7D5vAulNfrQV6xEwzgH0OF) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/2xBEH6Yx2yaKVJNljOW2V4) | 3:40 | 2022-01-01 | 2023-04-30 |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2023-11-10 |  |
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2022-06-18 | 2022-06-25 |
-| [Stiekem](https://open.spotify.com/track/4fWyBvLIPO68D2Ff87t1em) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Leven](https://open.spotify.com/album/7CDXtPqw2B36tlBnvI912N) | 3:23 | 2022-11-05 |  |
+| [Stiekem](https://open.spotify.com/track/4fWyBvLIPO68D2Ff87t1em) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Leven](https://open.spotify.com/album/7CDXtPqw2B36tlBnvI912N) | 3:23 | 2022-11-05 | 2024-03-27 |
 | [Stop The Cavalry](https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr) | [Jona Lewie](https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB) | [Heart Skips Beat](https://open.spotify.com/album/5IWeqnBDLYy5YdnsKOxh2n) | 2:56 | 2021-12-26 | 2023-12-30 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-04 | 2024-03-24 |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-12-01 |

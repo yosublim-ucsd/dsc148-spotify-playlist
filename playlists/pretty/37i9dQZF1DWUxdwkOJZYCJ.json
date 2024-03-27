@@ -1,12 +1,12 @@
 {
   "description": "Energetic tracks from the 1990s to boost your running session.",
-  "num_followers": 564027,
+  "num_followers": 564276,
   "original_name": "90s Pop Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODAzM2Y0Yjg5OWFjNzVmZWFiMjcwYWU3YmM5MzE5YzMyMGZiOWI5",
+  "snapshot_id": "MCxhZWQzZjU0NjUwYzBkNTQ3NWIwMmZhNDM4MjZmM2NhMDhlNzM1NzIz",
   "tracks": [
     {
       "added_at": "2023-01-03 14:53:32",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-01-03 14:53:32",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
-      },
-      "artists": [
-        {
-          "name": "CeCe Peniston",
-          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
-    },
-    {
-      "added_at": "2023-01-03 14:53:32",
-      "album": {
         "name": "Europop",
         "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
+    },
+    {
+      "added_at": "2023-01-03 14:53:32",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
+      },
+      "artists": [
+        {
+          "name": "CeCe Peniston",
+          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
     },
     {
       "added_at": "2023-01-03 14:53:32",

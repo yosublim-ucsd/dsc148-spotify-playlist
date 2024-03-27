@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296563,
+  "num_followers": 296562,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzQwNDc1MGU3ZTRkMzc0NTQ0MGFkOTZiMGEzYzk1OTFiY2Y2MDIy",
+  "snapshot_id": "MCw1NGFlMDY4NTc4ZmM1MDFiMWExYmY0YzgxNGY4MThhYTNlMTVlYzI2",
   "tracks": [
     {
       "added_at": "2024-03-06 16:30:36",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "What Separates Me From You",
-        "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "Take Off Your Pants And Jacket",
         "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 227200,
       "name": "Anthem Part Two",
       "url": "https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "What Separates Me From You",
+        "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "Overcome",
-        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "Simulation Theory (Super Deluxe)",
         "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 235600,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "The Strange Case of... (Deluxe)",
-        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Love Bites (So Do I)",
-      "url": "https://open.spotify.com/track/5l3gAGbkXFfPWxh4a3J8mp"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "Will Of The People",
         "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 198849,
       "name": "Will Of The People",
       "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "The Strange Case of... (Deluxe)",
+        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Love Bites (So Do I)",
+      "url": "https://open.spotify.com/track/5l3gAGbkXFfPWxh4a3J8mp"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "AB III",
-        "url": "https://open.spotify.com/album/0ocWLhnTiUKSq8Ksa3FX4Z"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 253167,
-      "name": "Isolation",
-      "url": "https://open.spotify.com/track/6JV3DyXgHVMPVVDsvjcM1s"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 190133,
       "name": "Who Needs Friends",
       "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "AB III",
+        "url": "https://open.spotify.com/album/0ocWLhnTiUKSq8Ksa3FX4Z"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 253167,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/6JV3DyXgHVMPVVDsvjcM1s"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1407,22 +1407,18 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "Here's What You Could Have Won",
-        "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/48xEEpRoIOOex883iHkGhT"
       },
       "artists": [
         {
-          "name": "Kid Kapichi",
-          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
-        },
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+          "name": "Ally Nicholas",
+          "url": "https://open.spotify.com/artist/3F2at4eIx4GXByVo0hGJaX"
         }
       ],
-      "duration_ms": 218400,
-      "name": "New England",
-      "url": "https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1"
+      "duration_ms": 150685,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/66nHiuTgSTKCwNxWSwYNLG"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1443,18 +1439,22 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/48xEEpRoIOOex883iHkGhT"
+        "name": "Here's What You Could Have Won",
+        "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
       },
       "artists": [
         {
-          "name": "Ally Nicholas",
-          "url": "https://open.spotify.com/artist/3F2at4eIx4GXByVo0hGJaX"
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        },
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
         }
       ],
-      "duration_ms": 150685,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/66nHiuTgSTKCwNxWSwYNLG"
+      "duration_ms": 218400,
+      "name": "New England",
+      "url": "https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1"
     },
     {
       "added_at": "2024-03-06 16:30:36",

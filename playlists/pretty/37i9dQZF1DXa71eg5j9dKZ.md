@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Logic1000
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,526 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,584 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 77 | [Smoke In Your Eyes](https://open.spotify.com/track/2Kurh5hEYRgzDzuahjHytQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Ossie](https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Smoke In Your Eyes](https://open.spotify.com/album/5EEitGHmxCB0XD0rtV3bE7) | 6:31 |
 | 78 | [I Believe In Love Again \- Jex Opolis Remix Edit](https://open.spotify.com/track/17t5Ba4T5CEYw2WG2clNeu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [I Believe In Love Again \(Jex Opolis Remix\)](https://open.spotify.com/album/5HRtN5JcxONyY8WlvayG2g) | 3:19 |
 | 79 | [My Only Love](https://open.spotify.com/track/2tqZV9H8uOP1bPK6WRrCLO) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [My Only Love](https://open.spotify.com/album/0oo9DANNKIwWW1SgNNL3mY) | 3:35 |
-| 80 | [Ringtone](https://open.spotify.com/track/75q34GIOlR1GGDvO6CGbbP) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Ringtone](https://open.spotify.com/album/1ZfcZrAM0Lz8WYjvI4n19Z) | 1:54 |
+| 80 | [Ringtone](https://open.spotify.com/track/1Ln6q5X4dpqbKA4VMZcg9l) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [In Sri Lanka](https://open.spotify.com/album/2sIpOaUihE0eLxmYWkAbOD) | 1:54 |
 | 81 | [thicc](https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [thicc](https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5) | 3:42 |
 | 82 | [HENRY'S REVENGE](https://open.spotify.com/track/43ibXIVa1Vz273QcmTtNEU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [HENRY'S REVENGE](https://open.spotify.com/album/0JwZDMbKZtTjBViOxbsVq7) | 4:24 |
 | 83 | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [My Crew \(feat\. Flowdan\)](https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [My Crew \(feat\. Flowdan\)](https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np) | 3:25 |
 | 100 | [Free](https://open.spotify.com/track/05dsewKoowRsvsnRjUEXvX) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Free EP](https://open.spotify.com/album/0zZG5gWDyQXDTJUXbpSyxl) | 3:26 |
 
-Snapshot ID: `MCwzZWE1NDhjMDZlMzNkODZmMDY4ODhhZWE3NWU4ZGY0OGVmMmY5NzZm`
+Snapshot ID: `MCw1MjQzMzQ5M2ExNGRiOGQ0ZWRiZTM2YWE5MjA4MTljMThkMTZkZmI2`

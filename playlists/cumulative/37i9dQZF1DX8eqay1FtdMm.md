@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Kassy\(케이시\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: DAVICHI\(다비치\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-500 songs - 1 day 8 hr 32 min
+501 songs - 1 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [come as you are](https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:28 | 2021-12-20 | 2023-06-01 |
 | [Come back](https://open.spotify.com/track/3zerSNZzG5MqbyQK6mYH1d) | [J.Lee](https://open.spotify.com/artist/324dYLqc0sal9kI5GJdyfr) | [Come back](https://open.spotify.com/album/12D3oDk7gbnBLhjXhzNkQl) | 4:11 | 2022-12-14 | 2023-01-03 |
 | [comedy](https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:33 | 2022-07-25 | 2024-01-07 |
-| [comedy](https://open.spotify.com/track/2vTtdPT1qUYAn5KhivJuOt) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/600af5WWeNaasoZFOzG8DN) | 3:33 | 2024-03-08 |  |
+| [comedy](https://open.spotify.com/track/2vTtdPT1qUYAn5KhivJuOt) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/600af5WWeNaasoZFOzG8DN) | 3:33 | 2024-03-08 | 2024-03-27 |
 | [cry a lot](https://open.spotify.com/track/2hZ2RcltIgme5PO8eJ6pWj) | [Ha Jun Seok](https://open.spotify.com/artist/12RmWQ26FATAkL0Dzua0QB) | [cry a lot](https://open.spotify.com/album/4R1uG9fvia8PYjndO4BNH7) | 3:23 | 2024-02-15 | 2024-03-09 |
 | [Dandelion](https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Dandelion](https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO) | 4:34 | 2024-02-27 |  |
 | [Day by Day](https://open.spotify.com/track/4nndQ97Nm2HZAIVvrMSjpu) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Yoon Mi Rae \(T\) the First Album \(As Time Goes By\)](https://open.spotify.com/album/0RoshgK629hYRo0wU6LHb0) | 4:17 | 2023-12-01 | 2023-12-14 |
@@ -215,6 +215,7 @@
 | [It's You](https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [Destined with You \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz) | 3:23 | 2023-08-24 |  |
 | [It′s My Life](https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOSPITAL PLAYLIST Season2, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8) | 4:16 | 2021-12-20 |  |
 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2021-12-27 |  |
+| [I′ll be by your side](https://open.spotify.com/track/1CjOylFGEsCzOlgd2xiEw2) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [I'll be by your side](https://open.spotify.com/album/1pdxVaLPFmbKCtWKP3sfTS) | 3:54 | 2024-03-26 |  |
 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 | 2023-01-13 |  |
 | [Journey](https://open.spotify.com/track/2kyyJtsitronmU6HMGsm1m) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Journey](https://open.spotify.com/album/1uEb7pZr66xdSQcbfVVSX7) | 4:34 | 2024-02-27 |  |
 | [Just Broke Up Today 오늘 내가 한 이별 \(With Kim Min Seok\)](https://open.spotify.com/track/1qAlxROzuF3LlyIydGQ31E) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [With](https://open.spotify.com/album/4pPY24vHNrX6nL5EJyIIT7) | 4:12 | 2021-12-27 | 2022-07-14 |

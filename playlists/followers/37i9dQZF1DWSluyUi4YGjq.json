@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 153213,
+  "2024-03-27": 153564,
   "date_first_scraped": "2022-05-11",
   "description": "The state of shoegaze. Gazing at pedals, soaring celestially high. Cover: Wisp",
   "name": "Shoegaze Now",
@@ -3065,7 +3065,7 @@
     {
       "album": {
         "name": "drown",
-        "url": "https://open.spotify.com/album/1jJAYDO1JbuJvlnhAl8jW8"
+        "url": "https://open.spotify.com/album/31O4a5pvYzcY0tVBHZJgw0"
       },
       "artists": [
         {
@@ -3076,6 +3076,24 @@
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 175447,
+      "name": "drown",
+      "url": "https://open.spotify.com/track/3CGM4X26XQf8J9PI30o1VB"
+    },
+    {
+      "album": {
+        "name": "drown",
+        "url": "https://open.spotify.com/album/1jJAYDO1JbuJvlnhAl8jW8"
+      },
+      "artists": [
+        {
+          "name": "Paradise Blossom",
+          "url": "https://open.spotify.com/artist/69CROBu60QZWX8uig8XpDb"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-26",
       "duration_ms": 175447,
       "name": "drown",
       "url": "https://open.spotify.com/track/6kf8AGQdxUmEx2mwJESQPN"

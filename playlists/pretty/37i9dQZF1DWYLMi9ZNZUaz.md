@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,411 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,463 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 39 | [Okeokeoke](https://open.spotify.com/track/3nw5vYaH4qVx8joq3qhtNx) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Okeokeoke](https://open.spotify.com/album/6jz6E152RTO3RfyjmdpAri) | 2:19 |
 | 40 | [NGTANOISE](https://open.spotify.com/track/57FeZINjlat9NLEhYUejmd) | [VSOUL](https://open.spotify.com/artist/22MX8BG5870DGzpNricY7q), [MFREE](https://open.spotify.com/artist/3Gx0fp4mXr6YU4DONMHqB8), [TUYEN VO](https://open.spotify.com/artist/0HhRjPFqN1sqrUpJA7NuDe) | [NGTANOISE](https://open.spotify.com/album/5dh8bC64DiQUb0o3E73LFc) | 2:59 |
 | 41 | [Lối Nhỏ](https://open.spotify.com/track/25edeHHueINMguqu9emCyV) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Phương Anh Đào](https://open.spotify.com/artist/6ZNAsA4h8V7SOLtiK8Vfav) | [Lối Nhỏ](https://open.spotify.com/album/77yV2mEkJaZ4oLu1M4fe5N) | 4:12 |
-| 42 | [Liệu Giờ](https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Văn](https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv) | [Liệu Giờ](https://open.spotify.com/album/4DyctgZKkMuHCcjQ9UvJbG) | 4:18 |
-| 43 | [Mượn Rượu Tỏ Tình](https://open.spotify.com/track/4x8vUZgiQWB25eS2M0we6Q) | [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6), [Emily](https://open.spotify.com/artist/2XKlSkrslCs0egLOvSB4Ul) | [Mượn Rượu Tỏ Tình](https://open.spotify.com/album/44gpk43ZzXo2grV47gOgTM) | 3:18 |
+| 42 | [Mượn Rượu Tỏ Tình](https://open.spotify.com/track/4x8vUZgiQWB25eS2M0we6Q) | [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6), [Emily](https://open.spotify.com/artist/2XKlSkrslCs0egLOvSB4Ul) | [Mượn Rượu Tỏ Tình](https://open.spotify.com/album/44gpk43ZzXo2grV47gOgTM) | 3:18 |
+| 43 | [Liệu Giờ](https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Văn](https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv) | [Liệu Giờ](https://open.spotify.com/album/4DyctgZKkMuHCcjQ9UvJbG) | 4:18 |
 | 44 | [NOLOVENOLIFE](https://open.spotify.com/track/6D94p9ASguBcYlDC0o56vx) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ) | 2:50 |
 | 45 | [Thanh Xuân](https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thanh Xuân](https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw) | 3:40 |
 | 46 | [Anh Chỉ Muốn](https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Anh Chỉ Muốn](https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [Để cho anh cưa](https://open.spotify.com/track/1Y5fE11yvUPL4YCX0J8efO) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j) | [Để cho anh cưa](https://open.spotify.com/album/0woJbWw5KwUZXG3p6ZKM85) | 2:53 |
 | 50 | [Chưa Bao Giờ](https://open.spotify.com/track/75rsMKqFUVEQvhwCL6Qc9m) | [DSK](https://open.spotify.com/artist/0KqWWEbDa21psQwESpf3pD) | [Chưa Bao Giờ](https://open.spotify.com/album/6Q0nObZ1DJ746K31OZiOfM) | 4:48 |
 
-Snapshot ID: `MCxlN2ViZTk1YzI2ODJlYWJlN2IwOGVjOGFkZjZkYmJkM2M3NGRiZjU2`
+Snapshot ID: `MCw5MGFjMzZkNDRjZjgwM2YxMDI3MTJhY2QwZGE3NzEwNWU5ZmZjZjIx`

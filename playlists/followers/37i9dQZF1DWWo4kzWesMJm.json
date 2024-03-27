@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 150539,
+  "2024-03-27": 150589,
   "date_first_scraped": "2022-12-28",
   "description": "Les meilleurs airs d'autoroute.",
   "name": "Bleu Blanc Route",
@@ -707,7 +707,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 249666,
       "name": "L'autre finist\u00e8re",
       "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 250413,
       "name": "Le Premier jour (Du reste de ta vie)",
       "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"

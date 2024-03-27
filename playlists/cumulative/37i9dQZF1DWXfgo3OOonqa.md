@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-1,404 songs - 2 day 13 hr 38 min
+1,405 songs - 2 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,8 @@
 | [Deregna](https://open.spotify.com/track/4Iu0U8U9PkivbcJvSkrSqg) | [XO](https://open.spotify.com/artist/4kBuSaq9Vb6XlJUgqFie4a), [Loco Ivo](https://open.spotify.com/artist/5aQNmyn9l28EzN7uwneL0Y), [Gigo](https://open.spotify.com/artist/14RRQZprirjq9tBb9T1Kgw) | [Deregna](https://open.spotify.com/album/2CJ6Iw6i5bj9YbvQZLcRBl) | 3:50 | 2023-08-10 | 2023-08-13 |
 | [Devilish](https://open.spotify.com/track/21qmv5S238wxa9ZDiwbllJ) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Devilish](https://open.spotify.com/album/6gFdMohjEfbgysvBwTedKF) | 2:28 | 2022-09-15 | 2022-11-25 |
 | [Dexter](https://open.spotify.com/track/7lEvAbpXa91doVdZGMkQHy) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan](https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3) | 2:55 | 2022-09-01 | 2022-09-30 |
-| [DIAMANTER](https://open.spotify.com/track/6z8QKwRlKLG81uKYMPnvcI) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH) | 2:41 | 2024-03-21 |  |
+| [DIAMANTER](https://open.spotify.com/track/6z8QKwRlKLG81uKYMPnvcI) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH) | 2:41 | 2024-03-21 | 2024-03-27 |
+| [DIAMANTER](https://open.spotify.com/track/75yxwZbg4YmiAdXslkrLiM) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/6JYg8ZoDwgKL20qLy10SW8) | 2:41 | 2024-03-21 |  |
 | [DIANA](https://open.spotify.com/track/2HZa3OkAl7d3bxszgobBE3) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [AVENTURA](https://open.spotify.com/album/463hymJPPE49Iyhxdzgy5s) | 2:28 | 2023-06-01 | 2023-06-10 |
 | [DIANA](https://open.spotify.com/track/3fYtCSU8WwhrUql7VHYoFn) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [AVENTURA](https://open.spotify.com/album/6G2FVjxl8Ag5rDe4eC3KkV) | 2:28 | 2023-06-08 | 2023-06-23 |
 | [Dikembe Mutombo](https://open.spotify.com/track/0XTatUuWCV9Cjfue2Y3PiP) | [ISON](https://open.spotify.com/artist/7zJdWmVoGsqxaEl09XOvM5) | [Dikembe Mutombo](https://open.spotify.com/album/4bSVtE8StstXg8BhEZpwQf) | 2:35 | 2022-02-25 | 2022-03-25 |

@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 202403,
+  "num_followers": 202428,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzc3NGVhMjExNGIxZDM5YjNlYzkzNzgxNjZlN2M4MWY2NjMwNjkz",
+  "snapshot_id": "MCxhMWFjYzgxZDk2MzlkOTQ1Nzg4ZjJlZGIxZmViZDA1YTkyZmRhZDRm",
   "tracks": [
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Brave",
-        "url": "https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f"
-      },
-      "artists": [
-        {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        }
-      ],
-      "duration_ms": 226053,
-      "name": "I'll Wait For You",
-      "url": "https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Every Falling Tear",
         "url": "https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 246461,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f"
+      },
+      "artists": [
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "duration_ms": 226053,
+      "name": "I'll Wait For You",
+      "url": "https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 222918,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
-      },
-      "artists": [
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 222918,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Wherever I Go",
         "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
       },
@@ -1443,6 +1443,26 @@
       "duration_ms": 178253,
       "name": "Going Together",
       "url": "https://open.spotify.com/track/3s1gWhwN7IFE0dxxYhrJyW"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Carried",
+        "url": "https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v"
+      },
+      "artists": [
+        {
+          "name": "Ethan C. Davis",
+          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+        },
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        }
+      ],
+      "duration_ms": 137223,
+      "name": "Carried",
+      "url": "https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1479,26 +1499,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Carried",
-        "url": "https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v"
-      },
-      "artists": [
-        {
-          "name": "Ethan C. Davis",
-          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
-        },
-        {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
-        }
-      ],
-      "duration_ms": 137223,
-      "name": "Carried",
-      "url": "https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Adam & Eve'n",
         "url": "https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk"
       },
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "The Soul",
+        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Pilots",
+      "url": "https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "A Little Crazy",
         "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 198000,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "The Soul",
-        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Pilots",
-      "url": "https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Can't Help Falling In Love",
-        "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
-      },
-      "artists": [
-        {
-          "name": "Tommee Profitt",
-          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
-        },
-        {
-          "name": "brooke",
-          "url": "https://open.spotify.com/artist/7FUnhnuowTICdtK0KzH7Ng"
-        }
-      ],
-      "duration_ms": 171150,
-      "name": "Can't Help Falling In Love - LIGHT",
-      "url": "https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Kingdom Business: Season 1",
         "url": "https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 248926,
       "name": "Crazy Kinda Love",
       "url": "https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Can't Help Falling In Love",
+        "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "brooke",
+          "url": "https://open.spotify.com/artist/7FUnhnuowTICdtK0KzH7Ng"
+        }
+      ],
+      "duration_ms": 171150,
+      "name": "Can't Help Falling In Love - LIGHT",
+      "url": "https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Kundi",
-        "url": "https://open.spotify.com/album/7kKQg3ltXjslGxkhXEzG5Q"
+        "name": "Far Kingdom // Summer Sessions",
+        "url": "https://open.spotify.com/album/3iKuyGRbczWDnigOalSaq7"
       },
       "artists": [
         {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Kundi",
-      "url": "https://open.spotify.com/track/7lEbed8bJ3kVRXSv4eJUwW"
+      "duration_ms": 208493,
+      "name": "Band of Gold // Summer Sessions",
+      "url": "https://open.spotify.com/track/4kwsg89ymfCXPPt4VdjsmJ"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1739,18 +1739,34 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Far Kingdom // Summer Sessions",
-        "url": "https://open.spotify.com/album/3iKuyGRbczWDnigOalSaq7"
+        "name": "Easy Never Needed You",
+        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
       },
       "artists": [
         {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
         }
       ],
-      "duration_ms": 208493,
-      "name": "Band of Gold // Summer Sessions",
-      "url": "https://open.spotify.com/track/4kwsg89ymfCXPPt4VdjsmJ"
+      "duration_ms": 244693,
+      "name": "Feel The Waters",
+      "url": "https://open.spotify.com/track/4aIqxQgeNADC1RmI3uYdxb"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Kundi",
+        "url": "https://open.spotify.com/album/7kKQg3ltXjslGxkhXEzG5Q"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Kundi",
+      "url": "https://open.spotify.com/track/7lEbed8bJ3kVRXSv4eJUwW"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1771,22 +1787,6 @@
       "duration_ms": 275135,
       "name": "OMM (On My Mind) [Remix]",
       "url": "https://open.spotify.com/track/5NSk2v3d5O32aJPBnWQ2b3"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Easy Never Needed You",
-        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
-      },
-      "artists": [
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "Feel The Waters",
-      "url": "https://open.spotify.com/track/4aIqxQgeNADC1RmI3uYdxb"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2"
-      },
-      "artists": [
-        {
-          "name": "Million Miles",
-          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw"
       },
@@ -1939,6 +1923,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2"
+      },
+      "artists": [
+        {
+          "name": "Million Miles",
+          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Te Quiero Cerca",
         "url": "https://open.spotify.com/album/7gp9Iqcg9xX9A8XcKGmiUU"
       },
@@ -1951,6 +1951,22 @@
       "duration_ms": 227661,
       "name": "Te Quiero Cerca",
       "url": "https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Me + You = Pi",
+        "url": "https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Me + You = Pi",
+      "url": "https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1975,22 +1991,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Me + You = Pi",
-        "url": "https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Me + You = Pi",
-      "url": "https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "TEMPERATURA",
         "url": "https://open.spotify.com/album/6Zd0nWUKXIsOBituSPhqK6"
       },
@@ -2003,22 +2003,6 @@
       "duration_ms": 111910,
       "name": "TEMPERATURA",
       "url": "https://open.spotify.com/track/5RwBAq3yfF3skrMDgV2GVA"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "True Beauty",
-        "url": "https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2039,18 +2023,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "2nd Happy",
-        "url": "https://open.spotify.com/album/4qo16UyarKgPkXdSZkNK0s"
+        "name": "True Beauty",
+        "url": "https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re"
       },
       "artists": [
         {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
         }
       ],
-      "duration_ms": 225890,
-      "name": "2nd Happy",
-      "url": "https://open.spotify.com/track/5q38R7YPq4uHSpVTUYye1k"
+      "duration_ms": 228093,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2087,6 +2071,38 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "2nd Happy",
+        "url": "https://open.spotify.com/album/4qo16UyarKgPkXdSZkNK0s"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 225890,
+      "name": "2nd Happy",
+      "url": "https://open.spotify.com/track/5q38R7YPq4uHSpVTUYye1k"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/6CAihXsGyMgAdZHAAfseM0"
+      },
+      "artists": [
+        {
+          "name": "Brandin Reed",
+          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/6r1IIwzxt1m8Ks8Me6V2Av"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "South Florida (Remix)",
         "url": "https://open.spotify.com/album/74wMNGzBXYobjUUhZIvg0E"
       },
@@ -2107,22 +2123,6 @@
       "duration_ms": 165000,
       "name": "South Florida (Remix)",
       "url": "https://open.spotify.com/track/7rcXtR06BJ0D6xU9wmwgkI"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Love Like This",
-        "url": "https://open.spotify.com/album/6CAihXsGyMgAdZHAAfseM0"
-      },
-      "artists": [
-        {
-          "name": "Brandin Reed",
-          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/6r1IIwzxt1m8Ks8Me6V2Av"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2527,26 +2527,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/5tFVSwKfZ7A5WAH3vtak1I"
-      },
-      "artists": [
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        },
-        {
-          "name": "Michelle Vinueza",
-          "url": "https://open.spotify.com/artist/0sP7O4UNgzyEZk9x0Vba1m"
-        }
-      ],
-      "duration_ms": 177968,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/5wAh9qbpzlRrdgVtIeNObM"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Love You, Still",
         "url": "https://open.spotify.com/album/5fYsh7JcLm4oIA5N5dkG1f"
       },
@@ -2563,6 +2543,26 @@
       "duration_ms": 307000,
       "name": "Love You, Still",
       "url": "https://open.spotify.com/track/7hsWnD0nwuMp9hRACCtdm8"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/5tFVSwKfZ7A5WAH3vtak1I"
+      },
+      "artists": [
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "Michelle Vinueza",
+          "url": "https://open.spotify.com/artist/0sP7O4UNgzyEZk9x0Vba1m"
+        }
+      ],
+      "duration_ms": 177968,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5wAh9qbpzlRrdgVtIeNObM"
     },
     {
       "added_at": "2024-02-05 17:58:02",

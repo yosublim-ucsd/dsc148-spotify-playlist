@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,636 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,652 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 34 | [Gone \(with Bryson Tiller\)](https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:33 |
 | 35 | [Got Time For Me \(with Channel Tres\)](https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Got Time For Me \(with Channel Tres\)](https://open.spotify.com/album/02YZvXUwPEvxb0YLdI7oEk) | 2:59 |
 | 36 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 |
-| 37 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 |
-| 38 | [Nobody Khan \(Ain't Nobody\)](https://open.spotify.com/track/0KynSPlg3g8OdZq6irgMH2) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Nobody Khan \(Ain't Nobody\)](https://open.spotify.com/album/7gxUTuaxmc484W0mfNyMk1) | 3:01 |
+| 37 | [Nobody Khan \(Ain't Nobody\)](https://open.spotify.com/track/0KynSPlg3g8OdZq6irgMH2) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Nobody Khan \(Ain't Nobody\)](https://open.spotify.com/album/7gxUTuaxmc484W0mfNyMk1) | 3:01 |
+| 38 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 |
 | 39 | [hmu](https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:55 |
 | 40 | [Tighten It Up \- Barney Bones \- DRAMA Edit](https://open.spotify.com/track/5suNUnahl3rSictF1dBPei) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Tighten It Up \(Barney Bones \- DRAMA Edit\)](https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply) | 2:52 |
 | 41 | [Someone](https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Someone](https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN) | 2:37 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 68 | [Say Yes \(feat\. TOKiMONSTA\)](https://open.spotify.com/track/2pBVR6cD0ClaSNByNKeN8T) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Homegrown \(Deluxe\)](https://open.spotify.com/album/1g8c7UXl9odDwOpdoPJsWa) | 3:53 |
 | 69 | [TITO'S](https://open.spotify.com/track/3KtJc97wstkCvrRLs10epl) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:52 |
 | 70 | [Interstellar.](https://open.spotify.com/track/4k9BF0WyAx8l8GaB9oJzyV) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Interstellar.](https://open.spotify.com/album/09q6uMoetRAZ4ESnPaEM1F) | 3:55 |
-| 71 | [Freeway \(with Estelle\)](https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Freeway \(with Estelle\)](https://open.spotify.com/album/2o1dIZfifqYphPXxxsprwZ) | 3:22 |
-| 72 | [Good Love 2.0](https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [damnshestamil](https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm) | 2:54 |
-| 73 | [WOW!](https://open.spotify.com/track/0F95C4z2gQJ8NigLuO4z4u) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Amén \(The Nomad’s Dream\)](https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD) | 2:37 |
-| 74 | [Part Of Me](https://open.spotify.com/track/5Y8LjJ9Riiw8i5d6D06fYS) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/27l2BTUmETSHmFQwsZyzTa) | 2:09 |
+| 71 | [Good Love 2.0](https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [damnshestamil](https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm) | 2:54 |
+| 72 | [Freeway \(with Estelle\)](https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Freeway \(with Estelle\)](https://open.spotify.com/album/2o1dIZfifqYphPXxxsprwZ) | 3:22 |
+| 73 | [Part Of Me](https://open.spotify.com/track/5Y8LjJ9Riiw8i5d6D06fYS) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/27l2BTUmETSHmFQwsZyzTa) | 2:09 |
+| 74 | [WOW!](https://open.spotify.com/track/0F95C4z2gQJ8NigLuO4z4u) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Amén \(The Nomad’s Dream\)](https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD) | 2:37 |
 | 75 | [PLAY](https://open.spotify.com/track/4FuIICqqCqELB9TxsxLqNv) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [PLAY](https://open.spotify.com/album/3ZyxwnxqSbSdYpuUHFyP13) | 2:22 |
 | 76 | [Hourglass](https://open.spotify.com/track/7udNt8rbaYcuYKaAtkA8qn) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Hourglass](https://open.spotify.com/album/5mAndmKGkXWSwNFHywzB5e) | 2:54 |
 | 77 | [Bubbles](https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 99 | [Sumthin Crazy \(with Rochelle Jordan\)](https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:06 |
 | 100 | [Boundaries \- DRAMA Remix](https://open.spotify.com/track/7olP7S3e0XDQ08eisCHVgp) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Boundaries \(DRAMA Remix\)](https://open.spotify.com/album/0KFOUugVRJwr9pnevuIrtl) | 3:40 |
 
-Snapshot ID: `MCwyYjdhNWEyYjc4YWI1OGNiMDliYjYxYjhhNDQ4ZmI2MjUwYThiMjY0`
+Snapshot ID: `MCw3MjU0MDRlYTNjOTUwMGEzMmRlODRlNzJhZjUwMmJlOWY4Mjk0Mzll`

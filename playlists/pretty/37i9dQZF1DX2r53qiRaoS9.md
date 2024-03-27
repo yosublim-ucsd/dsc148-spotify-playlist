@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 
 > Warm Up! Burn! Cooldown! Ready, Steady, move to Bhangra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,371 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,381 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 | 47 | [Gangland](https://open.spotify.com/track/1AGeDbAlIcoJN01bLkFN82) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Mankirt Aulakh \- Best Hits](https://open.spotify.com/album/5Cjo7LqqidLgnitIbm9G3L) | 2:48 |
 | 48 | [Nikle Currant](https://open.spotify.com/track/5T3rp70MEW4XnWv82BDVey) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Nikle Currant](https://open.spotify.com/album/7dXErOdlQlzs0pYIYmPP2c) | 3:32 |
 | 49 | [Daru Band](https://open.spotify.com/track/5ykIUH7FqS7J9rMIGx07sj) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Do Gabru \- Mankirt Aulakh & Parmish Verma](https://open.spotify.com/album/0VCDWiGktLuwEvDZyOqYmn) | 3:17 |
-| 50 | [Prada](https://open.spotify.com/track/3cdEx2rKrEdZ2Vj3AcSDt2) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Shreya Sharma](https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5) | [Prada](https://open.spotify.com/album/2JZmViMjoYTqnTvtkkTloI) | 3:05 |
+| 50 | [PRADA](https://open.spotify.com/track/4CxTBbdPUiwk2dSUrcg9CD) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Shreya Sharma](https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5) | [PRADA](https://open.spotify.com/album/2dhSH8zRnAcGhCk0P4GGWC) | 3:05 |
 
-Snapshot ID: `MCxiZjQ0YmUwZjk1NTcxY2RkMDBkZGY3OWFiZTc5MzdiMWU3ODA2NTM2`
+Snapshot ID: `MCw3MTQ4NjFkYzUxMTMwYTk0Y2QxMGE2MzVkMDYwMDY3OGMxYzE4OTNm`

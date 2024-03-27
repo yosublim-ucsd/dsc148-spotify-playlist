@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: C\u00e9u",
-  "num_followers": 346679,
+  "num_followers": 346702,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjllNjIzNTVkYjQ0ZDY2NWEwMzBhN2YxOTVkNmUwNTEwY2FhYjk5",
+  "snapshot_id": "MCxhYTNkYWM2YjM4MTlhM2JlMThkNGYxYmU0MWZhYjViYjBiZGZmZjkw",
   "tracks": [
     {
       "added_at": "2024-03-22 03:00:00",
@@ -223,18 +223,22 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Se o Meu Peito Fosse o Mundo (Lado A)",
-        "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
+        "name": "Se o Meu Peito Fosse o Mundo",
+        "url": "https://open.spotify.com/album/5fxJ6R9Amz69Jl5B3JkMIO"
       },
       "artists": [
         {
           "name": "Jota.p\u00ea",
           "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
         }
       ],
-      "duration_ms": 177099,
-      "name": "Um, Dois, Tr\u00eas",
-      "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
+      "duration_ms": 192423,
+      "name": "Feito A Mar\u00e9",
+      "url": "https://open.spotify.com/track/45LVLF9D3NnQLgRxfAjae7"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -347,22 +351,18 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Se o Meu Peito Fosse o Mundo",
-        "url": "https://open.spotify.com/album/5fxJ6R9Amz69Jl5B3JkMIO"
+        "name": "Se o Meu Peito Fosse o Mundo (Lado A)",
+        "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
       },
       "artists": [
         {
           "name": "Jota.p\u00ea",
           "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
         }
       ],
-      "duration_ms": 192423,
-      "name": "Feito A Mar\u00e9",
-      "url": "https://open.spotify.com/track/45LVLF9D3NnQLgRxfAjae7"
+      "duration_ms": 177099,
+      "name": "Um, Dois, Tr\u00eas",
+      "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "LIM\u00c3O",
-        "url": "https://open.spotify.com/album/7o8LOcVrGcSecxWCdDtaKT"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 161152,
-      "name": "LIM\u00c3O",
-      "url": "https://open.spotify.com/track/4jPUsd9EElz1AgiEM0axZG"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "ESTRELA",
         "url": "https://open.spotify.com/album/505ue7P0oSrg8Wbv40w2dN"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 185777,
       "name": "ESTRELA",
       "url": "https://open.spotify.com/track/0ATewX9eHprIqyQvcIjUVD"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "LIM\u00c3O",
+        "url": "https://open.spotify.com/album/7o8LOcVrGcSecxWCdDtaKT"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 161152,
+      "name": "LIM\u00c3O",
+      "url": "https://open.spotify.com/track/4jPUsd9EElz1AgiEM0axZG"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Sonho de Rainha Rei",
-        "url": "https://open.spotify.com/album/3snZBvOcbyhRfwOzbVxjmQ"
-      },
-      "artists": [
-        {
-          "name": "Jair Oliveira",
-          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
-        }
-      ],
-      "duration_ms": 251686,
-      "name": "Sonho de Rainha Rei",
-      "url": "https://open.spotify.com/track/0kOtSOUyumKGiN21NTF30l"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "Afeto e Luta - Bruna Caram Canta Gonzaguinha",
         "url": "https://open.spotify.com/album/0Jac5fEWIbZz4YvVsa3SVs"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 207375,
       "name": "Redescobrir",
       "url": "https://open.spotify.com/track/6535UwR6A0VkwXqnrDJgG9"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Sonho de Rainha Rei",
+        "url": "https://open.spotify.com/album/3snZBvOcbyhRfwOzbVxjmQ"
+      },
+      "artists": [
+        {
+          "name": "Jair Oliveira",
+          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
+        }
+      ],
+      "duration_ms": 251686,
+      "name": "Sonho de Rainha Rei",
+      "url": "https://open.spotify.com/track/0kOtSOUyumKGiN21NTF30l"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "A Gra\u00e7a Delas",
-        "url": "https://open.spotify.com/album/2gS1Td8bVvmp817bN9nTbN"
-      },
-      "artists": [
-        {
-          "name": "Gra\u00e7a Cunha",
-          "url": "https://open.spotify.com/artist/4glKqNjKUaUDvxlihkNuwc"
-        }
-      ],
-      "duration_ms": 201571,
-      "name": "Os Cabelos Dela",
-      "url": "https://open.spotify.com/track/4zZw9edlH0A52ldxB9I49Q"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "a trilha do carro dos meus pais (ac\u00fastico)",
         "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 144000,
       "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
       "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "A Gra\u00e7a Delas",
+        "url": "https://open.spotify.com/album/2gS1Td8bVvmp817bN9nTbN"
+      },
+      "artists": [
+        {
+          "name": "Gra\u00e7a Cunha",
+          "url": "https://open.spotify.com/artist/4glKqNjKUaUDvxlihkNuwc"
+        }
+      ],
+      "duration_ms": 201571,
+      "name": "Os Cabelos Dela",
+      "url": "https://open.spotify.com/track/4zZw9edlH0A52ldxB9I49Q"
     },
     {
       "added_at": "2024-03-22 03:00:00",

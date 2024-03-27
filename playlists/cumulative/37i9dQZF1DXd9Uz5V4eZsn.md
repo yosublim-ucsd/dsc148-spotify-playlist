@@ -4,7 +4,7 @@
 
 > Ambient Indian sounds for your daily Yoga practise.
 
-62 songs - 6 hr 22 min
+64 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Echoes of Shiva](https://open.spotify.com/track/5bLg8nvysvHou7vDjAUwrX) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub) | 6:01 | 2023-06-30 | 2024-02-03 |
 | [Echoes of Shiva](https://open.spotify.com/track/7GdMQZxsylLkx3VEJDbeWD) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/3JXXSLswIpf1GNoptaXXvx) | 6:01 | 2023-12-20 |  |
 | [Endless Nights](https://open.spotify.com/track/1khJhtT78fpUbjiZCH1rLV) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Endless Nights](https://open.spotify.com/album/39G4Sh25irfylUiwli0abu) | 2:58 | 2023-06-30 |  |
+| [Evening Dhyana Melody](https://open.spotify.com/track/5IpxsMTtOcfZjnSZREKWbb) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Evening Dhyana Melody](https://open.spotify.com/album/3yqQhQvGcgHWsdeNOHCTer) | 3:34 | 2024-03-26 |  |
 | [Evening Meditation](https://open.spotify.com/track/2Ao32nF0lHXSrF4wjj2wpO) | [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY) | [Cosmic Meditation](https://open.spotify.com/album/3Fz75bL5JPz1UopPGGUbIu) | 7:57 | 2023-06-30 |  |
 | [Ever So Lonely / Eyes / Ocean](https://open.spotify.com/track/6PeTYB1Wiv5ijg46xkPBdE) | [Sheila Chandra](https://open.spotify.com/artist/7eYoqLpLD211aYrxb64AzN) | [Weaving My Ancestors' Voices \(Real World Gold\)](https://open.spotify.com/album/18xHLkID2nZIjqAGCrKVs6) | 3:24 | 2023-06-30 |  |
 | [Flute Puriya Dhanashri](https://open.spotify.com/track/25m6wScMul9ga6xH7eo9Md) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 2:08 | 2023-06-30 |  |
@@ -49,7 +50,8 @@
 | [Purnamadah](https://open.spotify.com/track/73iMOvR544T1n5QIVGHLuX) | [Shantala](https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi) | [The Love Window](https://open.spotify.com/album/2LBLfPrjJ8ofb5iWfvPjn8) | 8:35 | 2023-06-30 | 2024-01-29 |
 | [Raga Bhoopali](https://open.spotify.com/track/2FvS3T9QA1K7RibQDrTYqc) | [Sangit Om](https://open.spotify.com/artist/51OgTOMeriyJbz07cpve3u) | [The Spirit of Yoga](https://open.spotify.com/album/3twYsK4gKVEaBVOUUdeT88) | 3:52 | 2023-06-30 |  |
 | [Raga Hansadhwani](https://open.spotify.com/track/6QT56xgKBPA15RyuGft5hh) | [Pravin Godkhindi](https://open.spotify.com/artist/5zsiGj3C1bfEBeWtq0ryPe) | [Music Therapy \- For Motivation & Rejuvenation](https://open.spotify.com/album/5onhOTw07V7vWwwZW5E4Vk) | 20:19 | 2023-06-30 |  |
-| [Raga Hansadhwani \(Dancing Spring\)](https://open.spotify.com/track/2lalSgHoXxZWSHTT9PNV2t) | [Ustad Usman Khan](https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq) | [Nada Yoga: Music of the Mystic](https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9) | 9:00 | 2023-06-30 |  |
+| [Raga Hansadhwani \(Dancing Spring\)](https://open.spotify.com/track/04942bXBzp3OCulD6X5mNS) | [Ustad Usman Khan](https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq) | [Nada Yoga: Music of the Mystic](https://open.spotify.com/album/39u7g1NNCW3vMrxRLiJh1w) | 9:00 | 2024-03-12 |  |
+| [Raga Hansadhwani \(Dancing Spring\)](https://open.spotify.com/track/2lalSgHoXxZWSHTT9PNV2t) | [Ustad Usman Khan](https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq) | [Nada Yoga: Music of the Mystic](https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9) | 9:00 | 2023-06-30 | 2024-03-27 |
 | [Raga Marwa, Alap](https://open.spotify.com/track/1P1K6R9QoB9RQsqJKtXBys) | [Shivkumar Sharma & Zakir Hussain](https://open.spotify.com/artist/4csQgytzDVQbZVQNfkFdwN) | [The Flow Of Time](https://open.spotify.com/album/5n2VyhtcSF6k0JJcCtabD0) | 8:50 | 2023-06-30 |  |
 | [Raga Reflections](https://open.spotify.com/track/1dNVSWcdN7QKA2uiduZL3D) | [Gomis Golab](https://open.spotify.com/artist/29nePvmDsNHG26KHxVMcqa) | [Raga Reflections](https://open.spotify.com/album/3inLCxbubaf17rpWjpBHzT) | 2:16 | 2024-02-19 |  |
 | [Raga Vachaspati](https://open.spotify.com/track/2XHoUye408nrCMwDWA1sQH) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [From the NCPA Archives](https://open.spotify.com/album/0asRCIwh1AWKSebsnAltWt) | 15:50 | 2023-06-30 |  |

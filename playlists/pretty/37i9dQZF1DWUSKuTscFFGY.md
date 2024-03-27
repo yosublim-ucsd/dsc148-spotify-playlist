@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,375 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,386 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 49 | [What If We Met?](https://open.spotify.com/track/4QL02RjuuotlfggAqQeNwy) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [all the things i wish i said](https://open.spotify.com/album/5S2eLJTOI1sxhAKkMpbrqM) | 2:23 |
 | 50 | [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 |
 
-Snapshot ID: `MCwwYWJmNGE0NjJmODJjM2YxODRlMDkxMjZlZWRiZmQ5NGI5ZGZjYjk0`
+Snapshot ID: `MCwzYzg0NmFlNTRmODM3ODUyYjRiODEwZDY2OWU3YjQxMGNmZDZiMzEy`

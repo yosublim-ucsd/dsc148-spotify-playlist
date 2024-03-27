@@ -2,9 +2,9 @@
 
 ### [This Is BoA](https://open.spotify.com/playlist/37i9dQZF1DWVcZmFvFFJ5L)
 
-> Jumping BoAs, Our Beloved BoA is here and BETTER than ever!
+> Jumping BoAs, Our Beloved BoA is back!
 
-113 songs - 7 hr 3 min
+114 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Double Jack](https://open.spotify.com/track/5exYNFnFD5qOIZ7DaRRRxe) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Kiss My Lips \- The 8th Album](https://open.spotify.com/album/0SmJjNGEXCMp5bTGbxmjyy) | 3:46 | 2020-12-02 |  |
 | [Dreams come true](https://open.spotify.com/track/6U6rPiP59yH8K8fXwukjfI) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [LISTEN TO MY HEART](https://open.spotify.com/album/7MbckmjrDXeNy4k1caTgbM) | 4:54 | 2020-12-02 |  |
 | [Dry Flower](https://open.spotify.com/track/6LD2SnMI0KmrCDzy6JZShu) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Starry Night \- The 2nd Mini Album](https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W) | 3:33 | 2020-12-02 |  |
+| [Emptiness](https://open.spotify.com/track/55W3ONBbW98Cqvk0ZIoaKR) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Emptiness](https://open.spotify.com/album/7Iipt9N6AEqCDHy73xPVtU) | 3:06 | 2024-03-26 |  |
 | [Everlasting](https://open.spotify.com/track/5OYRcBGh06ZWUbH0PbszTH) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Everlasting](https://open.spotify.com/album/2iOslafOoV5DB13c6gaIBv) | 5:24 | 2020-12-02 |  |
 | [Every Heart\-ミンナノキモチ\-](https://open.spotify.com/track/2R0EAqFQQ60m274ZyNA2Bg) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Every Heart \-ミンナノキモチ\-](https://open.spotify.com/album/10eyCFPQlZsdaSsApJwHPQ) | 4:32 | 2020-12-02 |  |
 | [EVERYBODY KNOWS](https://open.spotify.com/track/3nts3JEnWM8CIhcsKahCvC) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ONE SHOT, TWO SHOT \- The 1st Mini Album](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) | 3:36 | 2020-12-02 |  |

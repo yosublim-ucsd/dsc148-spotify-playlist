@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-558 songs - 1 day 15 hr 58 min
+559 songs - 1 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Furia Electronica](https://open.spotify.com/track/5cHjMM0sX3nOME4JHIJfJq) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Furia Electronica](https://open.spotify.com/album/29AEcGabeudmQqN03ReQcs) | 4:50 | 2024-02-07 |  |
 | [G Shit](https://open.spotify.com/track/0KE0pJOq71sJWqsO1FGfmH) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [XXIV Bit EP](https://open.spotify.com/album/44zt80xY9vVrpdBIS4cc9I) | 4:15 | 2022-07-08 | 2024-03-23 |
 | [G Shit](https://open.spotify.com/track/2S4MJ7mQM725upW6egRBwo) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [XXIV Bit EP](https://open.spotify.com/album/74E6fh2JCcfzCq0B7i1i07) | 4:15 | 2022-02-17 | 2022-07-29 |
+| [G\-WAGON](https://open.spotify.com/track/4giAQuDQ8hrWILDQMaOHYj) | [kLL sMTH](https://open.spotify.com/artist/5vKYp6eOOHPKfb8UX5nUXK) | [G\-WAGON](https://open.spotify.com/album/16PjiU1ektzaX9Qi6ByTAL) | 4:25 | 2024-03-22 |  |
 | [Gassed Up \- IMANU Remix](https://open.spotify.com/track/4ewD29TNuL4ph7gCp2xdKP) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [ANTIFRACTALS](https://open.spotify.com/album/0XDUYwgZnjw3SdlxsVXl5S) | 2:58 | 2023-01-20 |  |
 | [Generation Sound](https://open.spotify.com/track/6ZBHdFUvqhX2px4mcmxUjP) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [My Religion EP](https://open.spotify.com/album/3IynPUiKNPQ6SeEJ3Uze8x) | 5:08 | 2022-12-16 |  |
 | [Get Loose](https://open.spotify.com/track/6fFnLNiQpvoihWr9EyujET) | [Chad Dubz](https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd) | [Mount Weed LP](https://open.spotify.com/album/2hbpxyM2kIstkLqEPXFYpI) | 3:40 | 2022-02-17 | 2022-07-29 |
@@ -547,7 +548,7 @@
 | [What It Is](https://open.spotify.com/track/1UFsoj3swW2Cwobwcmgpgp) | [Repulsion](https://open.spotify.com/artist/3MHtENpcR9DnnnuBf4d1vU) | [Uh Oh EP](https://open.spotify.com/album/1t7aznJKetUOJgYRWrlsoE) | 6:25 | 2022-02-17 | 2023-03-20 |
 | [Which Way](https://open.spotify.com/track/0EzdqfGGIH5YfBQrmd4XTl) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [Daydreams / Which Way](https://open.spotify.com/album/6FF8H331Wy3gIWP2TmaurF) | 2:58 | 2023-05-05 |  |
 | [Whirlwind](https://open.spotify.com/track/02sVsBVipXWONilEMGe8IE) | [Sub Basics](https://open.spotify.com/artist/6zpwlKhz2dq8BlG1BME5Zh) | [Whirlwind](https://open.spotify.com/album/4J1CQMiCJkreVAbJ0AJa45) | 7:34 | 2022-02-17 | 2022-07-02 |
-| [Who's the Best](https://open.spotify.com/track/3zKMchlxXeERZIkqKXXeA4) | [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo) | [Who's the Best](https://open.spotify.com/album/6eoLZYdJansEyvd5LsdnID) | 3:12 | 2024-03-01 |  |
+| [Who's the Best](https://open.spotify.com/track/3zKMchlxXeERZIkqKXXeA4) | [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo) | [Who's the Best](https://open.spotify.com/album/6eoLZYdJansEyvd5LsdnID) | 3:12 | 2024-03-01 | 2024-03-27 |
 | [Winter Horns](https://open.spotify.com/track/6cPZIB5yZMq6rojtLKGnlq) | [Tetrad](https://open.spotify.com/artist/1SA9pZ8uTxr9yGFOhVNSfD) | [For The Heads Compilation Vol\. 1](https://open.spotify.com/album/22of22T3TL25A3iq2HDn5y) | 5:36 | 2022-02-17 | 2022-07-29 |
 | [Wisdom](https://open.spotify.com/track/3F9yTY87haeNOoPZzNRHN9) | [Chad Dubz](https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd) | [Wisdom](https://open.spotify.com/album/3OU2VNhplpTYkcFdX8YcxH) | 5:48 | 2022-02-17 |  |
 | [Within](https://open.spotify.com/track/22rS6Landsw6Zon5zHmOML) | [NotLö](https://open.spotify.com/artist/0UmpDfZvwJpXxsOBaKmW5Z) | [Within](https://open.spotify.com/album/67ZJpFFJP9G2ykTl9P2Rbs) | 3:12 | 2022-02-17 | 2023-05-03 |

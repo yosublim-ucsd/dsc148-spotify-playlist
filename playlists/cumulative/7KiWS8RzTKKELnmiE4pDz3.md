@@ -4,7 +4,7 @@
 
 > 
 
-652 songs - 1 day 6 hr 52 min
+655 songs - 1 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [From A Mile](https://open.spotify.com/track/1YcW7OZBYQNhZ1Ub5IJRuJ) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [From A Mile](https://open.spotify.com/album/5nUViFewcaK9s4ej3aRU3u) | 2:00 | 2022-12-21 | 2023-03-21 |
 | [From Now On \(feat\. Future\)](https://open.spotify.com/track/2wdgjxZPgtrPd8OUqMSuYh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:59 | 2022-10-14 | 2023-05-09 |
 | [FroZone](https://open.spotify.com/track/0LA62GKyphyLZVGkvrWi6g) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [5TH AMNDMNT](https://open.spotify.com/album/5IJAhCl93xn2Ybqk8OGm6n) | 2:46 | 2023-11-01 |  |
+| [Fuck Everybody Else](https://open.spotify.com/track/4UqvWxvygh6aTOXfXvvQd8) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 2:07 | 2024-03-26 |  |
 | [Fuck Good Business](https://open.spotify.com/track/1VD6wUwdgSGlvRap1ygUA5) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Fuck Good Business](https://open.spotify.com/album/6lCLumKtwy6FzgUMrPkwe4) | 2:23 | 2023-01-11 | 2023-04-12 |
 | [Fukit](https://open.spotify.com/track/2QJLqxLXlzMiApFS6eBY4G) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Trëndi](https://open.spotify.com/album/7EO5zGsZP0HHxEhSLGw2aj) | 2:28 | 2023-01-06 | 2023-12-14 |
 | [Gallo](https://open.spotify.com/track/6MxQI7I1R4oXwRdZ09g4Yy) | [Kankan](https://open.spotify.com/artist/7si09ku22hK6h4WQmvlVAb), [BenjiCold](https://open.spotify.com/artist/0qqFi0cuGlFtBzmRIQOQa9) | [Gallo](https://open.spotify.com/album/0aKpQa6FrzHjn1eicljFUR) | 1:42 | 2022-12-21 | 2023-05-09 |
@@ -351,6 +352,7 @@
 | [Mad bout that](https://open.spotify.com/track/7nZwBbH8F8FqArrVIe8Zl4) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Trëndi](https://open.spotify.com/album/7EO5zGsZP0HHxEhSLGw2aj) | 2:10 | 2023-01-10 | 2023-05-09 |
 | [Maze](https://open.spotify.com/track/55XOUxXsBBbC07PD3Zml3F) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 2:24 | 2022-11-24 | 2023-12-14 |
 | [Mazel Tron](https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mazel Tron](https://open.spotify.com/album/1F841omtmck75byakwMGnx) | 3:28 | 2023-04-03 | 2023-12-14 |
+| [Me And My Bitch](https://open.spotify.com/track/1Kz0tgMRWsbLzEuzRaU1vP) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 3:05 | 2024-03-26 |  |
 | [Me N My Kup](https://open.spotify.com/track/0hhNTyH6RJJGItHeSMCof3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:54 | 2023-10-14 |  |
 | [Mic Line](https://open.spotify.com/track/0pu6JO1sPqW1TxE0nQC080) | [Monsta Island Czars](https://open.spotify.com/artist/6cN2ZI3Rsi0K6SXANDlZvc), [King Ghidra](https://open.spotify.com/artist/21IYa0bMpDZiSFY9x0y02q) | [Escape from Monsta Island](https://open.spotify.com/album/2DPjykMKiZZrL6mKPHM4hX) | 3:13 | 2023-10-03 | 2024-03-05 |
 | [Millions](https://open.spotify.com/track/43YQDj1KOPMFAUcTEPKy4p) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [So Much Fun \(Deluxe\)](https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK) | 2:37 | 2023-11-29 |  |
@@ -638,6 +640,7 @@
 | [WHARF TALK \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:24 | 2023-04-04 | 2023-12-14 |
 | [WHAT A DAY](https://open.spotify.com/track/3v3gyQkwRQGwDUZ7V2q2lF) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:36 | 2023-04-04 | 2023-12-14 |
 | [What Am I To Do](https://open.spotify.com/track/4TXPbHOeQE0Az7T71uybPu) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [What Am I To Do](https://open.spotify.com/album/3dyRrIw0NzRFi26EwfZo6V) | 2:55 | 2024-01-29 |  |
+| [WHAT KIND OF RAPPIN' IS THIS?](https://open.spotify.com/track/2dvgoGTEjoPWou8KdL9h1g) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [LP!](https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh) | 1:52 | 2024-03-26 |  |
 | [What You Got \- Radio Edit](https://open.spotify.com/track/73s0ZgbwGPE2f6NrbnPeWR) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [SSGKⲟbe](https://open.spotify.com/artist/3KnFGmNMtL6zcGbpcuYxFH) | [Sapphire.](https://open.spotify.com/album/22HA1nornnauA428zn6gHB) | 1:58 | 2022-07-22 | 2023-12-14 |
 | [WHAT'S\_IN\_IT](https://open.spotify.com/track/2jaocRB7aIKvfzKazb4Wh7) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [Riсh Amiri](https://open.spotify.com/artist/72bqhCHwdLkYsCI6KS33Fj), [Dⲟm Corleo](https://open.spotify.com/artist/6kgQSuTUg3M66NKuu2gzQh) | [JERM\_X](https://open.spotify.com/album/0hCSTaxoPwXy91tCT5t073) | 2:40 | 2023-02-26 | 2023-12-14 |
 | [When I](https://open.spotify.com/track/4QUsmmXmINYXwh7UsiMX2j) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 1:00 | 2023-06-18 | 2023-12-14 |

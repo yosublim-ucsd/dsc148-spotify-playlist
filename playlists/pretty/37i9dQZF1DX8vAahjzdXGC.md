@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,232 likes - 89 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,244 likes - 89 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 43 | [Hold Me Back](https://open.spotify.com/track/69Bx1c9Hzv7IZGkLyFCeMw) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Queen of Tears \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/2pnbrVkxwo8uEBMg1J1GqE) | 3:52 |
 | 44 | [Lonely Stars \(Korean Ver.\)](https://open.spotify.com/track/5EIMmyT519rdZzdeSGEj0m) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Lonely Stars](https://open.spotify.com/album/01Jmjq2ScXdj8hufqKXrlP) | 4:06 |
 | 45 | [The knight who can't die and the silk cradle](https://open.spotify.com/track/7liPa1ogr6uKLBBfuKuCJh) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [The knight who can't die and the silk cradle](https://open.spotify.com/album/2AuUWIKUhxvxoD2gS7Z2mG) | 4:08 |
-| 46 | [ROSE](https://open.spotify.com/track/1yP0QDwRm0JlOFhOCBeyul) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [ROSE](https://open.spotify.com/album/57kWJ6gaAyOiAuvGRztjeT) | 3:19 |
+| 46 | [ROSE](https://open.spotify.com/track/4os7urcz8CwRxrUWXLLssL) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [606](https://open.spotify.com/album/4UhuKCLwLJ3cuvBsNNY64H) | 3:19 |
 | 47 | [Dikira](https://open.spotify.com/track/6YGBbJ49l9q4UCjmykQaI3) | [Uncle Yama](https://open.spotify.com/artist/5U8OyapJbmGecWOMQ3eoMd), [Tuantigabelas](https://open.spotify.com/artist/0CKf1Ac7v8HTqXxYdWsyWn) | [Dikira](https://open.spotify.com/album/1eFiQoOeKMjZFU3aMJoK7q) | 4:11 |
 | 48 | [Ready or Not](https://open.spotify.com/track/3Fo2QBzY9M3G3q50uC9Tfv) | [ICEBOX ID](https://open.spotify.com/artist/2DxcoF8pY8WD0QQar9x9Ze), [Rand Slam](https://open.spotify.com/artist/1iyVKG7OICkb4Npxy3LVIN), [Malik Ros](https://open.spotify.com/artist/1iMm7HKmKXs1MNVQ6genf3) | [Ready or Not](https://open.spotify.com/album/6U0uUpJRSP4uaLOVzUIZza) | 3:12 |
 | 49 | [IDGAF \(PROD\. YO\)](https://open.spotify.com/track/7qF5QOKTnOiezQNQl4bLMk) | [IN:A](https://open.spotify.com/artist/27u2IhosoH9I9NUiHPikjJ) | [IDGAF \(PROD\. YO\)](https://open.spotify.com/album/45ogP8RhlTjz8XyMEIRY7W) | 3:25 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 55 | [Masa Laluku](https://open.spotify.com/track/3eEBB2eCp1to53wYplKr8N) | [Alvin Lapian](https://open.spotify.com/artist/4eNEwLjU3XV6NIO5RfTqPs) | [Masa Laluku](https://open.spotify.com/album/6Ui3wWpKR7BU0HvvXz1JvN) | 3:27 |
 | 56 | [Cry at the Moon](https://open.spotify.com/track/0TY9m3iHAO4I0VflhnuFJI) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Cry at the Moon](https://open.spotify.com/album/0FUlMafsW5YS0OPPAra5IB) | 3:07 |
 | 57 | [The Quest](https://open.spotify.com/track/4ZhOSdcezNOSI8StRRqqik) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Quest](https://open.spotify.com/album/59h4HNypq1jgCHOkYUtyoW) | 3:53 |
-| 58 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
+| 58 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
 | 59 | [FUEGO](https://open.spotify.com/track/2iCy2qfDdWN8duitTHeHSm) | [THE NEW SIX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [FUEGO](https://open.spotify.com/album/6KizwQiaESv5h3FIhcr8ta) | 3:12 |
 | 60 | [BBB](https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [BXX](https://open.spotify.com/album/3xX7eBfa5HTqDZXepyvjfw) | 2:46 |
 | 61 | [BAD](https://open.spotify.com/track/2TAK1QNGElbN2fIy6UOu4J) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS) | [BAD](https://open.spotify.com/album/2Abu3BsKcVE3bSdXk6Cukx) | 2:38 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 88 | [GET UP!](https://open.spotify.com/track/2iOj3L29Yx2Ljk4ETcpa6z) | [Timmy Albert](https://open.spotify.com/artist/4acGozsQZscrP4YKMg2Xwn) | [GET UP!](https://open.spotify.com/album/65uwn9RCsDRo3yTyCRZd2I) | 2:53 |
 | 89 | [Close To Me](https://open.spotify.com/track/4uqrNjosNZKTxtsEUpjkIm) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Close To Me](https://open.spotify.com/album/5OOea733uhyneBGd5UKDRS) | 3:29 |
 
-Snapshot ID: `MCxkOGFkMWZkYTE5M2MzYWVlYmNhNmFhOGIyNjg0NWU4NDYyYjNiNzhj`
+Snapshot ID: `MCxhOTZkYWM1N2U3MWYxOTUxMmFlZWNiYzI3NDFiNjkwMTEwMWZmY2E1`

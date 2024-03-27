@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 19266,
+  "2024-03-27": 19266,
   "date_first_scraped": "2022-12-09",
   "description": "All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party",
   "name": "Indie songs from 2023 you may have missed",
@@ -2281,7 +2281,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 214013,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
@@ -2683,6 +2683,24 @@
       "duration_ms": 173329,
       "name": "pink dress",
       "url": "https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo"
+    },
+    {
+      "album": {
+        "name": "every night was the same",
+        "url": "https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173329,
+      "name": "pink dress",
+      "url": "https://open.spotify.com/track/4UYMPoAzPFMkWUYa5t5Fpb"
     },
     {
       "album": {

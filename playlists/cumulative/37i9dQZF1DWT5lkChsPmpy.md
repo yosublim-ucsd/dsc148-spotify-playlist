@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-464 songs - 20 hr 40 min
+470 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [dripp](https://open.spotify.com/track/2lFxo4fAtmVXgVaabVB01x) | [Lil Skate](https://open.spotify.com/artist/3nrcM9gaRDpXvGYBxuhxl6) | [dripp](https://open.spotify.com/album/51XMKMY21TwNOv44FS4ZxR) | 2:14 | 2021-11-10 | 2022-09-02 |
 | [Drive So Well](https://open.spotify.com/track/2vde9odrAwABY7w6IAzCFB) | [Kirsi Aimée](https://open.spotify.com/artist/74RWlGT8fQPqVvXSLuxL4j) | [Drive So Well](https://open.spotify.com/album/5Rfo2PeHtIHzVs8eP9v5RX) | 2:38 | 2022-05-10 |  |
 | [Eagle](https://open.spotify.com/track/2gHawVp05GgRFsghwuJasb) | [Diz](https://open.spotify.com/artist/02Fpx7VRq10jCSdPM89TUT) | [Eagle](https://open.spotify.com/album/6sehfPAmRF7aCZfnX8nSNM) | 2:51 | 2021-11-10 | 2022-07-08 |
+| [Early Morning Hours](https://open.spotify.com/track/390Nqebjl51P4LyEJTfoew) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Early Morning Hours](https://open.spotify.com/album/759K8y3BqHdAAgDJWx0Hf9) | 3:30 | 2024-03-26 |  |
 | [Earlybird](https://open.spotify.com/track/2BdKiwPRV6UbxAwdqS8iDA) | [HATAMITSUNAMI](https://open.spotify.com/artist/6FgjnW0Q1Kx3WEyWfApXmv) | [Glad U Made It](https://open.spotify.com/album/2mXDLDMuVrcnD2OyAvoLL3) | 2:12 | 2022-12-16 |  |
 | [Earth Echos](https://open.spotify.com/track/5jymR5eXOTcIieZenxJwCX) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [The Afternoon Breeze](https://open.spotify.com/album/06FNY9stCHsUBU5ZGcN5YU) | 2:52 | 2021-11-10 | 2022-05-20 |
 | [Easter 21](https://open.spotify.com/track/7JXtkW4LnNqPkTCULCm1bk) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [Easter 21](https://open.spotify.com/album/3agydje4ZdZuBpYu8WBYQb) | 3:50 | 2021-11-10 | 2022-06-03 |
@@ -196,6 +197,7 @@
 | [How The Story Goes](https://open.spotify.com/track/4C1kmQjG42md25gFTyqvik) | [The Escape Route](https://open.spotify.com/artist/0OtRCgwx2kuOZy7ylYPU7g) | [Ariadne](https://open.spotify.com/album/71YzYvRCooN8yB2itVAE3d) | 2:26 | 2023-03-03 |  |
 | [Humbling](https://open.spotify.com/track/1kcX7g54f1TW6JtzIXJI6F) | [NueBoo](https://open.spotify.com/artist/4m8Hq8mE0p2ajbjQBDOLDk), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [Window Shades](https://open.spotify.com/album/5Yh3xIKw4VK04mSZXPLIyN) | 2:30 | 2023-05-05 |  |
 | [I and Love](https://open.spotify.com/track/0GFBdfj09IKlRucWbvOITu) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [I and Love](https://open.spotify.com/album/254L0w6tz1JkfmmYNCuX4t) | 4:01 | 2021-11-10 | 2023-01-21 |
+| [I Call You](https://open.spotify.com/track/45h1MEiWX3VKcxSCQLW0Vk) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [I Call You](https://open.spotify.com/album/677Xq1hTwIcyl7zkVxbuY4) | 3:12 | 2024-03-26 |  |
 | [i tried](https://open.spotify.com/track/6W7hFzh8GNeSTljK7qzCsT) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [i tried](https://open.spotify.com/album/3WyFAmRvYnIo7c3ZzyL7uo) | 3:12 | 2022-07-29 | 2023-04-07 |
 | [I'm nothin'](https://open.spotify.com/track/4sVY4JmPEBLPsX5GRH8S6u) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [I'm nothin'](https://open.spotify.com/album/5L29YvrjfGVhkkTWLdeS31) | 3:42 | 2021-11-10 | 2022-05-27 |
 | [Idle](https://open.spotify.com/track/79gx3Gij4dKGWd51devriE) | [Forgt](https://open.spotify.com/artist/0OndrzOYkj0brCMkn66B5C) | [Idle](https://open.spotify.com/album/5WqJp4sumpU0cucq0iZSPl) | 3:30 | 2021-11-10 | 2022-05-20 |
@@ -391,6 +393,7 @@
 | [Somewhere](https://open.spotify.com/track/1CYrpAj5Gdnv1zNBoEhJj4) | [Pat Poker](https://open.spotify.com/artist/6CAC4ia3z2NKbunyFfzEDS) | [Somewhere](https://open.spotify.com/album/559m1quyOHDPpwenShOIp6) | 2:48 | 2022-02-10 |  |
 | [soul serum](https://open.spotify.com/track/0Sx2O6A7j16arO6vIPTwqQ) | [temperley](https://open.spotify.com/artist/5lDF5BScxTU2sgkyqBONFU) | [soul serum](https://open.spotify.com/album/7MaUGcfvsLuWu2YYxxAUNX) | 2:39 | 2021-11-10 | 2022-09-09 |
 | [Souls](https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Souls](https://open.spotify.com/album/118kdRwrFscCUlo9bSr096) | 4:14 | 2021-11-10 |  |
+| [Speak to the Gods](https://open.spotify.com/track/7wpz85aP80cXOCTFhzS5HO) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Speak to the Gods](https://open.spotify.com/album/3ykAV6bhL88p5kFvu8Dzfe) | 2:44 | 2024-03-26 |  |
 | [Spinn](https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv) | [Off Grand](https://open.spotify.com/artist/1O3Vddh08h7H2GWTqxbZ77) | [Spinn](https://open.spotify.com/album/46UKdbMr79aySMIiL5wXqd) | 2:52 | 2021-11-10 |  |
 | [Spirit Lovers](https://open.spotify.com/track/2TEI2zNtxUL2XOrIZP9Lil) | [Snowman vs](https://open.spotify.com/artist/0YPrHloQKCZTqyxG4fFAuv) | [Spirit Lovers](https://open.spotify.com/album/6P9OnTlNLSvIlHHyDMRrkn) | 2:11 | 2021-11-10 |  |
 | [spring](https://open.spotify.com/track/6mpcfOpE6QGqRKHlaJuRkP) | [slowseventeen](https://open.spotify.com/artist/09h6Xfv6UuvH9rIjAASA2X) | [spring](https://open.spotify.com/album/3efxXYGDQvWZFTqarrykWX) | 2:23 | 2021-11-10 | 2022-09-02 |
@@ -428,6 +431,7 @@
 | [Time](https://open.spotify.com/track/7AlUplIMwg0AFXK4Ypj1KD) | [The Peaceful Beats Project](https://open.spotify.com/artist/2HxsVVdPzarYSgmY3UAtCB) | [Focus Inside](https://open.spotify.com/album/6j0BaPQlbezfWxEcVB7CLB) | 2:57 | 2021-11-10 | 2022-05-20 |
 | [Time Imprisoned](https://open.spotify.com/track/0LbCtG6IBveEF7MejHErAM) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [Time Imprisoned](https://open.spotify.com/album/679DOisO4TQwg5UR3WKWP5) | 2:50 | 2022-06-17 |  |
 | [Time Warped](https://open.spotify.com/track/3hNBfFtEyb4qFhaSLrvQi2) | [Kaj Lee](https://open.spotify.com/artist/21w3W6pw3KRqaaX3DhiVFG) | [Time Warped](https://open.spotify.com/album/6ghwOw5CnwlFmgM26gG9EQ) | 1:58 | 2021-11-10 | 2022-04-06 |
+| [To Be Here](https://open.spotify.com/track/54GvvO3gB5aW6tcwT2IvpJ) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [To Be Here](https://open.spotify.com/album/68ciTSRU84Bu3jHlLlCPgx) | 3:09 | 2024-03-26 |  |
 | [To you](https://open.spotify.com/track/7hPqGFVUZHdKGLS7xQIwd0) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [To you](https://open.spotify.com/album/2pUZkKAIngyGI5yJH7fz8e) | 1:51 | 2022-11-25 | 2023-07-29 |
 | [Tombstone Diploma](https://open.spotify.com/track/5jL5LiIeD5eJ3kTvrx2D6K) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Solvable](https://open.spotify.com/album/3ygEnJjQY0S9mDyYy2sVcB) | 3:48 | 2021-11-10 | 2022-09-09 |
 | [Torches to the Sky](https://open.spotify.com/track/5aIpECieH9BYbLdUt6iJI4) | [Lighter Days](https://open.spotify.com/artist/2ruDLZUYhNG7PMwQWEt0Pn) | [Torches to the Sky](https://open.spotify.com/album/0lHKzPVZAFbn3LXmtmcp6C) | 3:21 | 2021-11-10 |  |
@@ -445,6 +449,7 @@
 | [Vacation](https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n) | [Hanawal](https://open.spotify.com/artist/3xUcEsjHpe4Ps5ziYErlqs) | [Vacation](https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv) | 3:15 | 2022-05-20 | 2022-09-09 |
 | [Vacation](https://open.spotify.com/track/4OxrNowK5VDQzcstmh0lXs) | [Pascal Marcel](https://open.spotify.com/artist/33NKN9m9zscNEiDcHoqvkW) | [Vacation](https://open.spotify.com/album/4f7tC6G41h7QXEvLsJDXEO) | 2:11 | 2024-03-03 |  |
 | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/track/1N4jRXLb40EAyJMzFQZzX2) | [Millennial Matt](https://open.spotify.com/artist/2NTRqwTkxJsD6o5WtJ3rVB) | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/album/0rRUr0U1aJM8uu5RejSV9R) | 2:43 | 2021-11-10 |  |
+| [Valleys](https://open.spotify.com/track/3Hh8gjI0VKmqLCLlEHYtKS) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [Valleys](https://open.spotify.com/album/5NvJf9r979kBnvwVCEfEFx) | 2:35 | 2024-03-26 |  |
 | [Views from Yamashita Park](https://open.spotify.com/track/08GrJ04y6DrNm6t1OZ7a7N) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Views from Yamashita Park / Hatagaya Greenways](https://open.spotify.com/album/0CAD18JM3by6WU8WYPOMIC) | 1:40 | 2021-11-10 | 2022-08-17 |
 | [Views from Yamashita Park](https://open.spotify.com/track/1A6cccEj6qKdj4O0qbYSL9) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/7KoIdddL9V7auQaffvseFl) | 1:40 | 2022-10-28 | 2022-11-13 |
 | [Views from Yamashita Park](https://open.spotify.com/track/55F8bO2fpwlUyFa4AFPJQa) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 1:40 | 2022-07-29 | 2023-07-29 |
@@ -468,6 +473,7 @@
 | [Yama](https://open.spotify.com/track/5S94oJQP87jbUfsDZ2uj4h) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:13 | 2021-11-10 | 2023-04-22 |
 | [You Bring Me Joy](https://open.spotify.com/track/0QuRKVBqzM0M3OBD8fkbbl) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [You Bring Me Joy](https://open.spotify.com/album/4kqLcy9CZENOXuG3Hfwsew) | 4:04 | 2023-11-24 | 2024-01-20 |
 | [You Did Good](https://open.spotify.com/track/1VQDFJkBUwz9e0OF0IzTuY) | [Underself](https://open.spotify.com/artist/7rw99EZC3keTqq7BH7a6qF) | [This too shall pass](https://open.spotify.com/album/4alH4oDSO2AZtDLZE7cjf4) | 1:44 | 2023-04-21 | 2023-07-29 |
+| [You'll Be Arriving Soon](https://open.spotify.com/track/0mszVO9oXAvXyY2zHGqbNK) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [You'll Be Arriving Soon](https://open.spotify.com/album/5NNJdefoYCAD0nlr8uzMfU) | 2:19 | 2024-03-26 |  |
 | [Youth](https://open.spotify.com/track/0w1Bmnum1Fk0Unjy5Ok2ov) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Youth](https://open.spotify.com/album/1qOuL7TsLLRCTDMFXCCnGm) | 2:24 | 2022-09-02 |  |
 | [Zakky](https://open.spotify.com/track/0hZ2N9qQUApVWKWR1allC5) | [K9 Division](https://open.spotify.com/artist/14mNenIi1W5u68fvDTd7ES) | [Zakky](https://open.spotify.com/album/0qoRty23FJ6Whk9gQQvBIT) | 2:35 | 2021-11-10 | 2022-07-08 |
 | [Zodiac Interstellar](https://open.spotify.com/track/2lOa0pC5BbOchxyxWg9EPS) | [Mimimi](https://open.spotify.com/artist/5RE5W8McrdwFqlv0mG2Jet) | [Zodiac Interstellar](https://open.spotify.com/album/0U6GqcJAnfi8qr9KCwVzpJ) | 2:34 | 2022-12-09 |  |

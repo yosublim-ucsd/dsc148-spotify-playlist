@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 24295,
+  "2024-03-27": 24297,
   "date_first_scraped": "2023-11-08",
   "description": "The freshest Hip Hop and R&amp;B. ",
   "name": "Fresh Out",
@@ -588,6 +588,24 @@
     },
     {
       "album": {
+        "name": "DARC ROOM",
+        "url": "https://open.spotify.com/album/2Jh7uDbzE04g6zrhen37o5"
+      },
+      "artists": [
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165706,
+      "name": "DARC ROOM",
+      "url": "https://open.spotify.com/track/5lWEygGCrVxP3jmr8A468Q"
+    },
+    {
+      "album": {
         "name": "DAT BOY DEN",
         "url": "https://open.spotify.com/album/2woKrYebaZSEdLLxxDEFir"
       },
@@ -810,6 +828,24 @@
     },
     {
       "album": {
+        "name": "Unstable",
+        "url": "https://open.spotify.com/album/5x7wqxTP1TabARqn5RB6UW"
+      },
+      "artists": [
+        {
+          "name": "Pretty Brayah",
+          "url": "https://open.spotify.com/artist/04T13CNEP9VzNd4jMNQrQb"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144042,
+      "name": "Fall In Line",
+      "url": "https://open.spotify.com/track/6us18U9dnR2rY15AMvYbyZ"
+    },
+    {
+      "album": {
         "name": "Fear No Man",
         "url": "https://open.spotify.com/album/0ic9UPGkVgy9W8qrM2rdFf"
       },
@@ -843,6 +879,24 @@
       "duration_ms": 106736,
       "name": "Fish Bowl",
       "url": "https://open.spotify.com/track/56sxhRbTBj6ekLi0sPW28B"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/2k16zP9LysfnBtxnyw6Ihd"
+      },
+      "artists": [
+        {
+          "name": "RIMON",
+          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190380,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0892L8jMWtFSKq5Xo9EEfA"
     },
     {
       "album": {
@@ -1255,6 +1309,24 @@
       "duration_ms": 97222,
       "name": "Hop Out The V!",
       "url": "https://open.spotify.com/track/6lDAYnMU80ULvsP6vDA2xT"
+    },
+    {
+      "album": {
+        "name": "Hot Sauce",
+        "url": "https://open.spotify.com/album/2WuTEjbwU7oIc0rFOFVVAV"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135039,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/5Lt20ho1AmhFJt56F1M7dS"
     },
     {
       "album": {
@@ -2006,6 +2078,28 @@
     },
     {
       "album": {
+        "name": "The Blue Seasons",
+        "url": "https://open.spotify.com/album/0cO3HVsoNAQu21aQcKip2s"
+      },
+      "artists": [
+        {
+          "name": "Kenny Muney",
+          "url": "https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162813,
+      "name": "Paper Route (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/56nM2xxlvoqwBDSMJdXkrv"
+    },
+    {
+      "album": {
         "name": "Flying High, Part 2",
         "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
       },
@@ -2223,6 +2317,24 @@
       "duration_ms": 151548,
       "name": "Shot Caller",
       "url": "https://open.spotify.com/track/6enDzOsAXFajdU3HclV4Cz"
+    },
+    {
+      "album": {
+        "name": "Shy Kid",
+        "url": "https://open.spotify.com/album/6R1HQ5z8g0kBdAz7QKW2sG"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140624,
+      "name": "Shy Kid",
+      "url": "https://open.spotify.com/track/5wnRBkl2S25GSTS5WqJVJ0"
     },
     {
       "album": {

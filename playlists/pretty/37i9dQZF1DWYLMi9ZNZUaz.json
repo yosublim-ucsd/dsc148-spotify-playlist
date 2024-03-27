@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y c\u1ee7a rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: \u0110en",
-  "num_followers": 90411,
+  "num_followers": 90463,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2ViZTk1YzI2ODJlYWJlN2IwOGVjOGFkZjZkYmJkM2M3NGRiZjU2",
+  "snapshot_id": "MCw5MGFjMzZkNDRjZjgwM2YxMDI3MTJhY2QwZGE3NzEwNWU5ZmZjZjIx",
   "tracks": [
     {
       "added_at": "2024-03-22 02:15:13",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-03-22 02:15:13",
       "album": {
-        "name": "Li\u1ec7u Gi\u1edd",
-        "url": "https://open.spotify.com/album/4DyctgZKkMuHCcjQ9UvJbG"
-      },
-      "artists": [
-        {
-          "name": "2T",
-          "url": "https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH"
-        },
-        {
-          "name": "V\u0103n",
-          "url": "https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv"
-        }
-      ],
-      "duration_ms": 258668,
-      "name": "Li\u1ec7u Gi\u1edd",
-      "url": "https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm"
-    },
-    {
-      "added_at": "2024-03-22 02:15:13",
-      "album": {
         "name": "M\u01b0\u1ee3n R\u01b0\u1ee3u T\u1ecf T\u00ecnh",
         "url": "https://open.spotify.com/album/44gpk43ZzXo2grV47gOgTM"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 198375,
       "name": "M\u01b0\u1ee3n R\u01b0\u1ee3u T\u1ecf T\u00ecnh",
       "url": "https://open.spotify.com/track/4x8vUZgiQWB25eS2M0we6Q"
+    },
+    {
+      "added_at": "2024-03-22 02:15:13",
+      "album": {
+        "name": "Li\u1ec7u Gi\u1edd",
+        "url": "https://open.spotify.com/album/4DyctgZKkMuHCcjQ9UvJbG"
+      },
+      "artists": [
+        {
+          "name": "2T",
+          "url": "https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH"
+        },
+        {
+          "name": "V\u0103n",
+          "url": "https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv"
+        }
+      ],
+      "duration_ms": 258668,
+      "name": "Li\u1ec7u Gi\u1edd",
+      "url": "https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm"
     },
     {
       "added_at": "2024-03-22 02:15:13",

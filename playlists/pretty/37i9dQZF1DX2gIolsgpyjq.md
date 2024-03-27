@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Killen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,275 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,299 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 99 | [Someone To Come Home To](https://open.spotify.com/track/5yVtHz94qJwWDhj2Y35lcX) | [Melis](https://open.spotify.com/artist/6kSTKwK0UxnSFLdpF3DCc3) | [Someone To Come Home To](https://open.spotify.com/album/1Or2hpu3qAR7IAcZtL9aD8) | 4:17 |
 | 100 | [Breathe In, Breathe Out](https://open.spotify.com/track/2tf69mAQzbEupQygqyO0a2) | [Rangleklods](https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz) | [Breathe In, Breathe Out](https://open.spotify.com/album/4bTmFYuvM6UeFiyT12aSww) | 4:26 |
 
-Snapshot ID: `MCxiOGEzYzE0MzUzYTIwYTgxNjVjMjkyMjI4ZTJlZTEyOGEyNmI2ZmQ4`
+Snapshot ID: `MCwyZmJlM2NmNzk3NWVjMzViMWM2ZTg2NGFiMzM2YTExMmJmMzgxNGM3`

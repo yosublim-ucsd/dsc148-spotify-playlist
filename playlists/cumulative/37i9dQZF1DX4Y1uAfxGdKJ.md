@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-169 songs - 9 hr 21 min
+177 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Endless](https://open.spotify.com/track/4Momr3h4hq6YsBCTAY7hN8) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Endless](https://open.spotify.com/album/6w6Scuiq5dhnNoqJLfpa3j) | 2:51 | 2023-01-13 | 2023-07-18 |
 | [Eridani](https://open.spotify.com/track/5QkMlAxHmZG33OGA81oWSa) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Eridani](https://open.spotify.com/album/6UVuoIa23nsZimsHnTFzxZ) | 3:48 | 2022-09-23 |  |
 | [Escapism](https://open.spotify.com/track/3pc3At69FqsZtWmvfyMDqQ) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Escapism](https://open.spotify.com/album/6PcXdMwu5xe46sGQZRPbv3) | 3:00 | 2022-09-23 |  |
+| [Eve I](https://open.spotify.com/track/6n7JkfomVUrGXVIMoNDZR6) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Eve I](https://open.spotify.com/album/2L1ywSLmZHHYK3bMMvJDmF) | 3:48 | 2024-03-26 |  |
 | [Fade Away](https://open.spotify.com/track/3RO9tD7ttecxGrxJ0te80c) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [Fade Away](https://open.spotify.com/album/0iK59pBranztef9NbvtK1F) | 4:59 | 2022-09-23 |  |
 | [Fall](https://open.spotify.com/track/7HnJXWqcZGCjcMQX29lkqq) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [Fall](https://open.spotify.com/album/2YGKlK0R82VtrqZXYqKjWG) | 2:18 | 2022-10-28 |  |
 | [Feelings](https://open.spotify.com/track/4KohjkgXdXqYNHUOhcxJmF) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [Feelings](https://open.spotify.com/album/49IUgUWndwR4zm99VyAi0J) | 2:48 | 2022-09-23 |  |
@@ -88,6 +89,7 @@
 | [Indi](https://open.spotify.com/track/6myfz5g9b9U6bQSr4XcKGu) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/3eFlBkbtH9AiyEXXr0YBeT) | 3:20 | 2022-12-23 |  |
 | [Indi](https://open.spotify.com/track/7zeOr0r8bQO5BO9Om7BuAt) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/37iP4wnkJE5ImiW2Q94nKx) | 3:20 | 2022-09-23 | 2022-12-25 |
 | [Inner Light](https://open.spotify.com/track/2ohFbsoB7uVvTTgCk7aWY3) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Inner Light](https://open.spotify.com/album/0kyY8NnooE5jHa3TBB2Dd9) | 3:57 | 2022-09-23 |  |
+| [Just Like a Fire](https://open.spotify.com/track/5GbV5r0eRBC1I0AqQM9bU8) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Just Like a Fire](https://open.spotify.com/album/7d2xxDThiNT7y8dnxizKG9) | 6:52 | 2024-03-26 |  |
 | [Keep Them Alive](https://open.spotify.com/track/3VKRg5UXSovJoNabq2vrnq) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [Keep Them Alive](https://open.spotify.com/album/2szJ6N7MDi2ekOSNO6BWs2) | 3:15 | 2023-02-17 |  |
 | [Landmarks](https://open.spotify.com/track/0p4zxScTH4QBPnDdIeInfB) | [Aural](https://open.spotify.com/artist/4IagxrvnhCy4YV29Qjqc8o) | [Landmarks](https://open.spotify.com/album/1Fe00jswSTGhfYMKDktS28) | 5:06 | 2022-09-23 |  |
 | [Lasting Moments](https://open.spotify.com/track/5Hr9Y7IUmWzUZW2AUnzk1e) | [Kamizuro](https://open.spotify.com/artist/4nF5uh9GPzeV02AnChx3q9) | [Lasting Moments](https://open.spotify.com/album/3nyl36Z97weIsLrkI8w3pJ) | 2:02 | 2023-01-06 |  |
@@ -111,6 +113,7 @@
 | [ocean walk](https://open.spotify.com/track/34WwE20Cawvpowutt29ieG) | [Hasse Hans](https://open.spotify.com/artist/4PjVK6KNfnMASGMI6gmMTW) | [ocean walk](https://open.spotify.com/album/6IxeXdhmaOPk66JJcWDVur) | 3:20 | 2022-09-23 | 2023-03-25 |
 | [Off the radar](https://open.spotify.com/track/6LpCOSM7ti0RkktlPHPBbK) | [Martin Monroi](https://open.spotify.com/artist/4IB5E37eyDYzrP0nQPogaq) | [Off the radar](https://open.spotify.com/album/1KmL8xWaFnWAWMbistk5L6) | 2:12 | 2022-09-23 |  |
 | [Once Upon A World](https://open.spotify.com/track/0OsxgJTV7hlPz6AkSW2Luz) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [Once Upon A World](https://open.spotify.com/album/4mw0Q07pxSpQEmS7QuOBRy) | 3:27 | 2022-09-23 | 2023-07-18 |
+| [ONLY ONE](https://open.spotify.com/track/1VySFfG8KbxI4SSMl4jZ5z) | [Caspian](https://open.spotify.com/artist/1f10N5xKYd8z0y1IgCGHFe) | [ONLY ONE](https://open.spotify.com/album/3hi0kJU3YSfjvE87aI5UAp) | 3:13 | 2024-03-26 |  |
 | [Original Game](https://open.spotify.com/track/5q0KwjJ7RhmdnqlS6h1oEL) | [Caribbean Tiger](https://open.spotify.com/artist/06doN8kiUlhzC22kxfpmrU) | [Coconut Catch](https://open.spotify.com/album/3nK3B6WCVagAsC1y52Abl1) | 2:24 | 2023-05-22 |  |
 | [Osmosis](https://open.spotify.com/track/6GgPl2EbOG69cvo59kETdw) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Osmosis](https://open.spotify.com/album/7gIZQbcjtE5edqwBu9DwMQ) | 3:21 | 2022-11-25 | 2023-07-18 |
 | [Our Time Now](https://open.spotify.com/track/2aZuFiKKYc1nA9ASa2ymwq) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Our Time Now](https://open.spotify.com/album/6KtMeqAX5259a1x3E2i1RS) | 2:15 | 2022-09-23 | 2023-04-15 |
@@ -144,9 +147,11 @@
 | [Running through Fire](https://open.spotify.com/track/6D4T0BRng7TOuoBvHCBAj5) | [Hercules' Revenge](https://open.spotify.com/artist/4qO1Q1xGNK6sczpkc2qoX7) | [Running through Fire](https://open.spotify.com/album/1hlKwTiR9SsrKiLzo1dxSl) | 3:17 | 2022-09-23 | 2023-07-18 |
 | [Rush](https://open.spotify.com/track/3CC9G02pqtJ88KCabogFba) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Catch](https://open.spotify.com/album/4rS56AkPxsyz6CH2qwRRQa) | 2:56 | 2023-03-03 | 2023-10-20 |
 | [Saltwater Dreams](https://open.spotify.com/track/6pRocudXtLnKRd61gtotIk) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Saltwater Dreams / Vague Sunset](https://open.spotify.com/album/6XIUklaqCksEasrYoQizZQ) | 2:47 | 2022-10-07 |  |
+| [Sciphy](https://open.spotify.com/track/1tABYQIq5YhJjMOYPFKSxT) | [Azucares](https://open.spotify.com/artist/4nBe4luXcnZ8QqpoyZq4OC) | [Sciphy](https://open.spotify.com/album/4UT8ceG2QpXQFsedZV7T5U) | 2:52 | 2024-03-26 |  |
 | [Seadrift](https://open.spotify.com/track/3L3Zugtoy4iSpky2oiOjDI) | [Joshua Kimiko](https://open.spotify.com/artist/0rseV1mtdhrtR6FEHuvOIm) | [Seadrift](https://open.spotify.com/album/6EQYRA1zDcrhK0N9faGKbe) | 2:46 | 2022-09-23 |  |
 | [Searching for Wisdom](https://open.spotify.com/track/4cBsG1TLPilTTMzXaUncPa) | [Ensaimada](https://open.spotify.com/artist/63NtBEePdHXzCQHm09JJYw) | [Searching For Wisdom](https://open.spotify.com/album/0x7CMGw3QJmo9rCviqYCnZ) | 2:46 | 2024-01-23 |  |
 | [Serenity Lake](https://open.spotify.com/track/15eqN6GPpzHGifzihLGsGr) | [Béatrice Dupont](https://open.spotify.com/artist/4lGZ8fr3b2fq7uruNbUGcf) | [Serenity Lake](https://open.spotify.com/album/2otWMjizseTnAZrMGowQ91) | 2:36 | 2022-09-23 | 2023-07-18 |
+| [Shift Trust \(Extended Version\)](https://open.spotify.com/track/6SuMHpEZiA4d449N7uAIrY) | [Blue Saga](https://open.spotify.com/artist/3EUYJ46gohBhdmS96WqsbF) | [Severance: Extended Versions](https://open.spotify.com/album/14PI5CNTYIzOeRYxucvaNh) | 8:10 | 2024-03-26 |  |
 | [Shimone Shimone](https://open.spotify.com/track/4CXcplkSoeBK15TewprZMe) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Shimone Shimone / Dune](https://open.spotify.com/album/16pkWYptZHPk7hCJj4eY0C) | 3:53 | 2022-10-28 |  |
 | [Sinking Walls](https://open.spotify.com/track/4EH5JfnTScFvYhwadLbS3c) | [Gullen](https://open.spotify.com/artist/61k6okbUw17fpK27TFEXtI) | [Sinking Walls](https://open.spotify.com/album/4X6X9NKF0IUnXMtAHIgLSr) | 7:15 | 2022-09-23 | 2023-07-18 |
 | [Skin Deep](https://open.spotify.com/track/1CAozfu6bPDxaKe39x030x) | [Jay FM](https://open.spotify.com/artist/0XHQV1DM8cqEJrB4gRuogs) | [Skin Deep](https://open.spotify.com/album/3pejPyeMAWaEasm6SzmURn) | 2:57 | 2022-09-23 |  |
@@ -161,9 +166,12 @@
 | [Tempted](https://open.spotify.com/track/6hiA6WO0DRm9D480BIGqOT) | [Summon U](https://open.spotify.com/artist/0TyHSpKbAEP2QoXB7jVxCE) | [Technically Sane](https://open.spotify.com/album/3zVigb4My48jZIPLWVDiRW) | 2:55 | 2022-12-09 |  |
 | [The Eclipse](https://open.spotify.com/track/71wKe7nLKqkaq3JYAFEdna) | [Svalka](https://open.spotify.com/artist/3sKxosk24x3adgfDCvOBCr) | [The Eclipse](https://open.spotify.com/album/12mh93J0d59nHpqkWUEeqJ) | 2:34 | 2022-09-23 |  |
 | [The Life of an Empath](https://open.spotify.com/track/6SKHpIBF0zImsmqmRkgvwp) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Melodic Mind](https://open.spotify.com/album/6U1k2aJKB0xIeHXAeG52mS) | 5:26 | 2022-09-23 |  |
+| [The Mood](https://open.spotify.com/track/2dg8QqhiOBLhblkDTMHIlP) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [The Mood](https://open.spotify.com/album/3xrQafDuEf98L7KMLWdsRC) | 3:07 | 2024-03-26 |  |
 | [To Do List](https://open.spotify.com/track/2yboFvgwf9aj8kNpYzWFJb) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Autograph](https://open.spotify.com/album/1RiVyB6YIkv3cwCtnzVwE9) | 3:17 | 2023-03-03 |  |
 | [too](https://open.spotify.com/track/7egRCR2SWh6a75o2eeWl6c) | [Part2](https://open.spotify.com/artist/07NTW8rhDS0FTuXB9eBuex) | [too](https://open.spotify.com/album/4rKCO49fIF93PsGXULoAND) | 2:56 | 2023-08-25 |  |
 | [Type 1](https://open.spotify.com/track/2Z515QtI12xintnkboGQZw) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Type 1](https://open.spotify.com/album/7w6fHYrIaKbqXDN96dbEJf) | 3:47 | 2022-11-25 |  |
+| [Under The Impression](https://open.spotify.com/track/0kdhJpAOgHfD95FbpPhFOv) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Under The Impression](https://open.spotify.com/album/6cBX1LMi0RAXQfksMIw586) | 2:47 | 2024-03-26 |  |
+| [Unwind](https://open.spotify.com/track/5OUkIjHE8ZDYHYOlFmFbgH) | [Sobbel Sosch](https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok) | [Unwind](https://open.spotify.com/album/08ePa0heewLPWS4XogNoSS) | 2:10 | 2024-03-26 |  |
 | [Vana](https://open.spotify.com/track/1X1teXcaWQFH4iOTkCOh9a) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vana / Ocea](https://open.spotify.com/album/1hOFPN4SzceP1DJD5LTEmU) | 4:20 | 2022-10-07 |  |
 | [Vexed](https://open.spotify.com/track/1lBhMsLkgsaVQTsaoE8GEd) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Vexed](https://open.spotify.com/album/090RrN1MNhYqO6DWsFOwxT) | 2:33 | 2023-08-18 |  |
 | [We Are the Stars](https://open.spotify.com/track/5nRHKAgw6ZY1NqNA5amA2Y) | [Lady DJ](https://open.spotify.com/artist/3luz91ywJZl3n8zqhqNTLP) | [We Are the Stars](https://open.spotify.com/album/5OGy2WlkfkHf8uSchuFEkl) | 2:19 | 2022-09-23 | 2023-07-18 |

@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:7EHtFdWeBK26GJ5lKt02SV\">Reblah</a>",
-  "num_followers": 81578,
+  "num_followers": 81638,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjkzNzkxOThjZDk2MzRhM2JmNDc4ODU5MTc0MjNlNmNiNmY1MDI0",
+  "snapshot_id": "MCxkOTcxZWFkMTQ5YzkxMDhkODY0YWM5NjBiYmY0YWZlYmU4YTQ4MzIz",
   "tracks": [
     {
       "added_at": "2024-02-23 09:40:22",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "My Dey",
+        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 131065,
+      "name": "My Dey",
+      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Baba Mi",
         "url": "https://open.spotify.com/album/7pin5EpD8uZx8vsXR82A1f"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 181782,
       "name": "Baba Mi",
       "url": "https://open.spotify.com/track/5K823Dh3DwBeP60vn0PYmn"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "My Dey",
-        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 131065,
-      "name": "My Dey",
-      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Authentic",
-        "url": "https://open.spotify.com/album/2VWuSbbTf2jV4TFaT8C8OX"
-      },
-      "artists": [
-        {
-          "name": "Princeton South",
-          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 130856,
-      "name": "Authentic",
-      "url": "https://open.spotify.com/track/29Z3FVYbkAkrP5fIPHQGfR"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "Overwhelmed",
         "url": "https://open.spotify.com/album/1yZSwXMSUGePIKwJLt7HHh"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 176000,
       "name": "Overwhelmed",
       "url": "https://open.spotify.com/track/5lI39HnRnc9quha7PwzFlz"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "Authentic",
+        "url": "https://open.spotify.com/album/2VWuSbbTf2jV4TFaT8C8OX"
+      },
+      "artists": [
+        {
+          "name": "Princeton South",
+          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 130856,
+      "name": "Authentic",
+      "url": "https://open.spotify.com/track/29Z3FVYbkAkrP5fIPHQGfR"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1219,46 +1219,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Already Won",
-        "url": "https://open.spotify.com/album/6wJQFqrxl6EkCY9PyVFeHY"
-      },
-      "artists": [
-        {
-          "name": "Mo'Lola",
-          "url": "https://open.spotify.com/artist/2ejOctEUrvGWrMuTwZPdaO"
-        },
-        {
-          "name": "Mike Abdul",
-          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
-        }
-      ],
-      "duration_ms": 228979,
-      "name": "Already Won",
-      "url": "https://open.spotify.com/track/6iMeVb83BHP9IetgCLaf2q"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "NOMO (Never On My Own)",
-        "url": "https://open.spotify.com/album/6ce2fkYBmX7GizmHK007La"
-      },
-      "artists": [
-        {
-          "name": "Winter Amadin",
-          "url": "https://open.spotify.com/artist/0Lg4taC1hwg9FMfyPiwuBH"
-        },
-        {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
-        }
-      ],
-      "duration_ms": 134838,
-      "name": "NOMO (Never On My Own)",
-      "url": "https://open.spotify.com/track/7GR1NYT1L1iZFIEpubuOxw"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "Your Mind",
         "url": "https://open.spotify.com/album/6Hz8dBX8nHEjlyEF8Fg2na"
       },
@@ -1283,18 +1243,22 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Trip of the Faith",
-        "url": "https://open.spotify.com/album/6RO1J4ULw7wSCXVfvEAbTF"
+        "name": "Already Won",
+        "url": "https://open.spotify.com/album/6wJQFqrxl6EkCY9PyVFeHY"
       },
       "artists": [
         {
-          "name": "Grace Lokwa",
-          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
+          "name": "Mo'Lola",
+          "url": "https://open.spotify.com/artist/2ejOctEUrvGWrMuTwZPdaO"
+        },
+        {
+          "name": "Mike Abdul",
+          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
         }
       ],
-      "duration_ms": 195789,
-      "name": "Promesse",
-      "url": "https://open.spotify.com/track/3KtzWPaxaJEinXDnGCK30B"
+      "duration_ms": 228979,
+      "name": "Already Won",
+      "url": "https://open.spotify.com/track/6iMeVb83BHP9IetgCLaf2q"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1323,6 +1287,42 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "Trip of the Faith",
+        "url": "https://open.spotify.com/album/6RO1J4ULw7wSCXVfvEAbTF"
+      },
+      "artists": [
+        {
+          "name": "Grace Lokwa",
+          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Promesse",
+      "url": "https://open.spotify.com/track/3KtzWPaxaJEinXDnGCK30B"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "NOMO (Never On My Own)",
+        "url": "https://open.spotify.com/album/6ce2fkYBmX7GizmHK007La"
+      },
+      "artists": [
+        {
+          "name": "Winter Amadin",
+          "url": "https://open.spotify.com/artist/0Lg4taC1hwg9FMfyPiwuBH"
+        },
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        }
+      ],
+      "duration_ms": 134838,
+      "name": "NOMO (Never On My Own)",
+      "url": "https://open.spotify.com/track/7GR1NYT1L1iZFIEpubuOxw"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
       },
@@ -1339,6 +1339,30 @@
       "duration_ms": 154218,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "PRAISE YOUR NAME",
+        "url": "https://open.spotify.com/album/14AVnCZS82Y9Nsxqc4wwE4"
+      },
+      "artists": [
+        {
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
+        }
+      ],
+      "duration_ms": 197456,
+      "name": "PRAISE YOUR NAME",
+      "url": "https://open.spotify.com/track/6ps4Zeolnh6O30i6wMh9t8"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1383,26 +1407,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i"
-      },
-      "artists": [
-        {
-          "name": "Nolly",
-          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
-        },
-        {
-          "name": "Omojo",
-          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
-        }
-      ],
-      "duration_ms": 216111,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "Ah Ya Ya",
         "url": "https://open.spotify.com/album/3vzzQKuIn0WV58V4DKYZnN"
       },
@@ -1431,26 +1435,22 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "PRAISE YOUR NAME",
-        "url": "https://open.spotify.com/album/14AVnCZS82Y9Nsxqc4wwE4"
+        "name": "Good",
+        "url": "https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i"
       },
       "artists": [
         {
-          "name": "King Dareal",
-          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
         },
         {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Drakare",
-          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
         }
       ],
-      "duration_ms": 197456,
-      "name": "PRAISE YOUR NAME",
-      "url": "https://open.spotify.com/track/6ps4Zeolnh6O30i6wMh9t8"
+      "duration_ms": 216111,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Beside Me",
-        "url": "https://open.spotify.com/album/5FPFTd2KVC70Ysowxwhwhd"
-      },
-      "artists": [
-        {
-          "name": "Omojo",
-          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
-        },
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 153962,
-      "name": "Beside Me",
-      "url": "https://open.spotify.com/track/4kqNM2dyPSuQqcChPPgIXe"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/46Xv9JDjZmRr7xXvrRuZ5b"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 194400,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7LOETCwG4oq6u0a8947zNP"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "Beside Me",
+        "url": "https://open.spotify.com/album/5FPFTd2KVC70Ysowxwhwhd"
+      },
+      "artists": [
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        },
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 153962,
+      "name": "Beside Me",
+      "url": "https://open.spotify.com/track/4kqNM2dyPSuQqcChPPgIXe"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Good 2 Me",
-        "url": "https://open.spotify.com/album/3Ir3eESTZEQDEGKiqFDF6m"
-      },
-      "artists": [
-        {
-          "name": "Romeyo Wilson",
-          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Good 2 Me",
-      "url": "https://open.spotify.com/track/3mczLeyhLCkkbn5jb5IMaX"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "Fire on the Mountain",
         "url": "https://open.spotify.com/album/0iW7DU3HZzEnHa4l2zEzmp"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 181500,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/6a8G6scqUjGIrRCArFRNYP"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "Good 2 Me",
+        "url": "https://open.spotify.com/album/3Ir3eESTZEQDEGKiqFDF6m"
+      },
+      "artists": [
+        {
+          "name": "Romeyo Wilson",
+          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Good 2 Me",
+      "url": "https://open.spotify.com/track/3mczLeyhLCkkbn5jb5IMaX"
     },
     {
       "added_at": "2024-02-23 09:40:22",

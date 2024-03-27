@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: Hannah Grae
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,706 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,709 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 54 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 |
 | 55 | [Wishing Well](https://open.spotify.com/track/4Q9iqf0cw04PfSqfszILdh) | [Love For The Peaches](https://open.spotify.com/artist/5cNXmgwjCuMCUtbob0aMrh) | [Wishing Well](https://open.spotify.com/album/65q5IJ29u559Lwbo9NUQ5u) | 3:12 |
 
-Snapshot ID: `MCw0NzlhYjRiNjQyZjNlMGM3YmJjM2RjYzNiNjQzMzFlMTFlYTNiMmY2`
+Snapshot ID: `MCxkZDY1NTJkNDY2YmMwMzBkMWI5Y2I2NmEwZWZjMTJiMGE3NDI4YzQ2`

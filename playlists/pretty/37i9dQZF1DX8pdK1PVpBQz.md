@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Glass Beams  Artwork: Elsy Wameyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,447 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,470 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 98 | [5 In The Morning](https://open.spotify.com/track/3FW2ZVOIDAKAH48EJRB5RH) | [Sailor Goon](https://open.spotify.com/artist/1FZj2HbeTP7F5xOqIrPKKZ), [POETIK](https://open.spotify.com/artist/32yy4XQE2Pnziuq7rc58EA), [BIGGs 685](https://open.spotify.com/artist/1iIdYSoOB5dhc90R9ENrjM) | [5 In The Morning](https://open.spotify.com/album/4Ef0syAM5UUL0NNvHZp0hL) | 3:27 |
 | 99 | [COOLAID](https://open.spotify.com/track/3gzU9BgGq1EUdtiqnsaJ9K) | [coolthekid](https://open.spotify.com/artist/72VGlD2XP1a2eGhsZx2VaE) | [COOLAID](https://open.spotify.com/album/25H8ho70NGeKXFYC0IYm1A) | 2:59 |
 
-Snapshot ID: `MCwwMjE5NmUzNmQzMjdlZDNiY2QwZTY3YzVjNGVhNmEzNzFkZDgwMTNk`
+Snapshot ID: `MCw1MTA5Y2Q2Y2M4ODZkMjNiNjAzM2JiNDg4OTA4OWJiZTZhYTliYWE2`

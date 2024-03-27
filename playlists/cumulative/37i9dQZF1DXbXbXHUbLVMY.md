@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-154 songs - 6 hr 38 min
+156 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [DAY ONE](https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [DAY ONE](https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj) | 2:28 | 2023-09-21 | 2023-09-29 |
 | [DEJA VU](https://open.spotify.com/track/1lIAdiuji8iJXGHOdAGCj7) | [Hiwá](https://open.spotify.com/artist/6dxaJO4moD1NB2YpmTRg4a) | [ALT DET HER FOR HVA?](https://open.spotify.com/album/6QxpsJgAPM242CqMshoHW3) | 2:19 | 2023-10-19 | 2023-11-11 |
 | [Det Regner Penger \(Allez Allez\)](https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [Det Regner Penger \(Allez Allez\)](https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k) | 1:33 | 2024-02-22 |  |
-| [DIAMANTER](https://open.spotify.com/track/6z8QKwRlKLG81uKYMPnvcI) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH) | 2:41 | 2024-03-21 |  |
+| [DIAMANTER](https://open.spotify.com/track/6z8QKwRlKLG81uKYMPnvcI) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH) | 2:41 | 2024-03-21 | 2024-03-27 |
+| [DIAMANTER](https://open.spotify.com/track/75yxwZbg4YmiAdXslkrLiM) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/6JYg8ZoDwgKL20qLy10SW8) | 2:41 | 2024-03-21 |  |
 | [Distrikt 4](https://open.spotify.com/track/3B25I4fYZ8ARelPX6tCYmV) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Adam Aden](https://open.spotify.com/artist/3tEZ6bzTrFzApPwyyUlADz) | [Distrikt 4](https://open.spotify.com/album/0YyPqDxwT8jeZYequlNmsJ) | 2:06 | 2024-02-09 | 2024-03-01 |
 | [Dreams](https://open.spotify.com/track/2e9JCw6tagF1APPHXWy6ff) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [M.O.B](https://open.spotify.com/album/3OayJHDFHtATwvDVJ8ccuT) | 2:08 | 2023-09-21 |  |
 | [Du & Jag](https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Du & Jag](https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK) | 2:12 | 2023-09-21 |  |
@@ -93,10 +94,11 @@
 | [Lean & $prite](https://open.spotify.com/track/1iW01MpA3PwLW97dq1hHEH) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Lean & $prite](https://open.spotify.com/album/7eEKWJ2EWUqDTHNQnyDwCW) | 2:34 | 2024-01-22 |  |
 | [Ledare](https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Ledare](https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA) | 2:41 | 2023-09-21 |  |
 | [Lenge Leve](https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 2:15 | 2023-09-21 |  |
+| [Leve](https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Leve](https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER) | 2:44 | 2024-03-21 |  |
 | [LEVENDE LEGENDE](https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [LEVENDE LEGENDE](https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb) | 4:10 | 2023-09-21 | 2024-02-09 |
 | [Løsningsorienterte](https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Løsningsorienterte](https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf) | 2:53 | 2023-12-08 |  |
 | [M.O.B](https://open.spotify.com/track/7scyrGYhNkIz5t4U630EmD) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [M.O.B](https://open.spotify.com/album/3gfzgUuXhBJC2KMjvWgGQ7) | 1:48 | 2023-09-21 |  |
-| [Mama](https://open.spotify.com/track/774f2Kn00cBgYObzXGEHbx) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Mama](https://open.spotify.com/album/7IELyzUSjtZ8BRFXXsvvPO) | 2:15 | 2023-11-09 |  |
+| [Mama](https://open.spotify.com/track/774f2Kn00cBgYObzXGEHbx) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Mama](https://open.spotify.com/album/7IELyzUSjtZ8BRFXXsvvPO) | 2:15 | 2023-11-09 | 2024-03-27 |
 | [MANDANA](https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [MANDANA](https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl) | 2:03 | 2023-09-21 |  |
 | [Mariachi](https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Mariachi](https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL) | 2:42 | 2023-10-12 |  |
 | [Marokko Barcelona Colorado California](https://open.spotify.com/track/2jHkG1qU1vrb5gssUNTevT) | [Vågard](https://open.spotify.com/artist/6ZXRSfJDOksQ4bLcqXS71g), [Girson](https://open.spotify.com/artist/62DjNN5uijrpERaMexkBjE) | [Notoriske B.O.G.](https://open.spotify.com/album/1PBwk1ooupSISW2Py20p3O) | 4:12 | 2023-09-21 | 2023-10-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Baani Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,290 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,319 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [XL](https://open.spotify.com/track/7ALzEnfVJrEXMGS14vvqPj) | [Simar Dorraha](https://open.spotify.com/artist/51awvxzfYz80ygO4RQpTte), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [XL](https://open.spotify.com/album/1oXRArIgbvBeZNtDuPkQ9A) | 4:18 |
 | 50 | [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 |
 
-Snapshot ID: `MCw5NjcwYmE2NGVmMWY2ZDMxYjNiMTA5N2UwODc1NmVhYTE4ZDEwMTg4`
+Snapshot ID: `MCw5MDcwNzg1Y2U1NDZkODM0ZWY5ZjM2MjI5NzYxMWQ1MjcxYmY3Yjg5`

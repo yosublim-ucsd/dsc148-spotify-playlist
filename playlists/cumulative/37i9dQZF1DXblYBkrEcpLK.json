@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: ReoNa",
+  "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: \u82b1\u6fa4\u9999\u83dc",
   "name": "EQUAL Anime",
   "tracks": [
     {
@@ -1824,7 +1824,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 161166,
       "name": "Flower in the Snow (from \"The Apothecary Diaries\" Soundtrack)",
       "url": "https://open.spotify.com/track/2YMmUrQBXrkONqMyXXJCd3"
@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 200933,
       "name": "From Fate",
       "url": "https://open.spotify.com/track/3H38hshUqjNGMBa1uX5v8H"
@@ -2504,7 +2504,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 246826,
       "name": "Hitorino Yoru - From CrosSing",
       "url": "https://open.spotify.com/track/4MOSwNhxxovY9ael6QmJ2w"
@@ -2832,6 +2832,24 @@
       "duration_ms": 336311,
       "name": "Invisible Wings",
       "url": "https://open.spotify.com/track/66S1A6ve3RwtldpheI2GGt"
+    },
+    {
+      "album": {
+        "name": "\u8ffd\u61b6\u3068\u6307\u5148",
+        "url": "https://open.spotify.com/album/0UDQ6tZZaowo4AzB0zSve3"
+      },
+      "artists": [
+        {
+          "name": "Kana Hanazawa",
+          "url": "https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216700,
+      "name": "It's My Thing",
+      "url": "https://open.spotify.com/track/3bHlV2IbVT3CKv80eONxt4"
     },
     {
       "album": {
@@ -7967,6 +7985,24 @@
     },
     {
       "album": {
+        "name": "\u30b7\u30e3\u30c9\u30a6\u30dc\u30af\u30b5\u30fc",
+        "url": "https://open.spotify.com/album/1TnGuOJjTwoqDqDcAAdc7c"
+      },
+      "artists": [
+        {
+          "name": "Shiina Natsukawa",
+          "url": "https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253546,
+      "name": "\u30b7\u30e3\u30c9\u30a6\u30dc\u30af\u30b5\u30fc",
+      "url": "https://open.spotify.com/track/6xUK2D8MbFsMCmwtWAQ4HN"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30e5\u30ac\u30fc\u30b9\u30dd\u30c3\u30c8",
         "url": "https://open.spotify.com/album/7CogGI6l5nM7bXFcQfg0Wg"
       },
@@ -8380,7 +8416,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 252506,
       "name": "\u30c7\u30a3\u30a2\u30fb\u30d1\u30f3\u30bf\u30ec\u30a4",
       "url": "https://open.spotify.com/track/4nMTH2T9Cj4jxLCF8fLigp"
@@ -8618,7 +8654,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 227027,
       "name": "\u30cf\u30fc\u30c8\u306f\u304a\u624b\u4e0a\u3052",
       "url": "https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2"

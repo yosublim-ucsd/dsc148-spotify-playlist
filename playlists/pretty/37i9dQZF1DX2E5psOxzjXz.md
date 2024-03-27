@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Hasan Raheem
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,769 likes - 85 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,772 likes - 85 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 54 | [Mansoob](https://open.spotify.com/track/6oU4lJaaBWARtNXDBLjnFb) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Mansoob](https://open.spotify.com/album/0ru0ZZ8qTufVPvEIB7GbFd) | 2:43 |
 | 55 | [Wife You](https://open.spotify.com/track/5A7uVk7orEzrR9NA8ppFus) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 4:16 |
 | 56 | [Bach Ke](https://open.spotify.com/track/7euNoN3RtRhEK3qfqJLXFx) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Bach Ke](https://open.spotify.com/album/7eOK2jHdPbYCHv9BKZDOrM) | 2:53 |
-| 57 | [Duur Se](https://open.spotify.com/track/3vHfL9YMHlx3VL6JcbDOkm) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Day 5](https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU) | 4:04 |
+| 57 | [Duur Se](https://open.spotify.com/track/7vvdeN9CX9xhNtNeiGNgOT) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Day 5](https://open.spotify.com/album/0i6ojSzvOTKDj9u7jgwzeg) | 4:04 |
 | 58 | [Shor](https://open.spotify.com/track/5u6yeBNC3Tsh5GTAMBlcUD) | [Mooroo](https://open.spotify.com/artist/2RfI4XISnS6FG3xXryReUh), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Bittersweet](https://open.spotify.com/album/7Gqhzo0GJ4QhGq6tBspAgQ) | 4:25 |
 | 59 | [Anjani Waja](https://open.spotify.com/track/4mP0j0Lg4SKGUgrFNGvGTQ) | [HASHAM](https://open.spotify.com/artist/3b2KqMPwMeN8zchJ9CljtG) | [Anjani Waja](https://open.spotify.com/album/6MGoq918TPAjWdSGTedPYV) | 2:07 |
 | 60 | [Promises](https://open.spotify.com/track/5Y3OxkwWPuFZc5rRoJE45A) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Scars & Screws](https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc) | 3:15 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 72 | [Saaye](https://open.spotify.com/track/40H5kKnRnnzf31N5UiECJL) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Saaye](https://open.spotify.com/album/0J3TKBNNYzrev70LxTKziX) | 3:32 |
 | 73 | [Paas](https://open.spotify.com/track/6LsiuwPCC74qGJUZIUf9QE) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Paas](https://open.spotify.com/album/6usu2sjJEGElDflwGTikkb) | 2:40 |
 | 74 | [Dil Kay Isharay](https://open.spotify.com/track/2JgSxQenl3eRwewgBUWyKU) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Dil Kay Isharay](https://open.spotify.com/album/4jhyxjNho3zN1Irog1WpMv) | 3:08 |
-| 75 | [Sukoon](https://open.spotify.com/track/0hOqMsscursarJjpcMgGgu) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU) | 4:15 |
+| 75 | [Sukoon](https://open.spotify.com/track/3DBCCSY8ys75I4T8iK2TTA) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/0i6ojSzvOTKDj9u7jgwzeg) | 4:15 |
 | 76 | [Shola](https://open.spotify.com/track/2wMF8mtqMtQbROrsyCca7p) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Shola](https://open.spotify.com/album/4UA8orPLg78snykTx9Sn1N) | 2:33 |
 | 77 | [Filhaal](https://open.spotify.com/track/0PNU96DGl5PRswbstQgbtv) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Filhaal](https://open.spotify.com/album/7ClbtfOcCG9bzO30ZTRgI2) | 4:15 |
 | 78 | [JANI JANI \- feat\. Alistair Alvin](https://open.spotify.com/track/1XCGFjrxtCMDUbWR7aertX) | [Madlock Gilani](https://open.spotify.com/artist/69QGbimZ7ZZJ9w02ET3kpx), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [JANI JANI \(feat\. Alistair Alvin\)](https://open.spotify.com/album/3OPezImcUAG9eeaW5gGXzb) | 2:06 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 84 | [Take Me Home](https://open.spotify.com/track/5AUv6RJO2JBJ2BFcu4ErCO) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Take Me Home](https://open.spotify.com/album/4TqDP0UAdkvYEcy9OwWl6P) | 3:06 |
 | 85 | [Sub Theek Hai](https://open.spotify.com/track/2q0amZ8WgDGN7xBOBG7Dl6) | [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Shayan Fatani](https://open.spotify.com/artist/6ALIDmAST5XPoCSoxWCzwq) | [Sub Theek Hai](https://open.spotify.com/album/4380eKIz6zC3isIoJwc4TF) | 2:23 |
 
-Snapshot ID: `MCwyYzAwZTNiOTExMDA1YTk2MDMwYzM2MGEyY2IwYTYxMmI1YTJhZTM1`
+Snapshot ID: `MCxmYmU3MTRhNWRiODE1OGRmMzA1NzY0MmE4NzIxMjFiNTIzM2FlMzdl`

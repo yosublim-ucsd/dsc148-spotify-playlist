@@ -4,7 +4,7 @@
 
 > Come closer and see..\. into the dark\. The Cure on cover.
 
-280 songs - 21 hr 9 min
+281 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [His Box](https://open.spotify.com/track/4auQElRGeVu94YhwonIdek) | [Dalis Car](https://open.spotify.com/artist/26K835MEHI621LFChKL16Z) | [The Waking Hour](https://open.spotify.com/album/7HmNnZyCLb2tkxwdwDtpqd) | 4:42 | 2021-10-15 | 2022-07-29 |
 | [Hit](https://open.spotify.com/track/1lYjZUzStLNGtawS2RbvMj) | [Section 25](https://open.spotify.com/artist/0WvBaBwebA8SOLSXUVh4ge) | [Always Now](https://open.spotify.com/album/2rt8lRE5VoWwI5GpfmMHqZ) | 2:58 | 2021-10-15 | 2022-04-21 |
 | [Holiday on the Moon](https://open.spotify.com/track/5ND2AEOcEZX4xD1w0Mgl5W) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Sorted! The Best Of](https://open.spotify.com/album/2XJblHmHQJiopDHW3aUaWg) | 6:05 | 2021-10-15 | 2022-07-29 |
-| [Holiday on the Moon](https://open.spotify.com/track/6Tmvb9B7cFnTJXr2L2MCd8) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Express](https://open.spotify.com/album/0frqimF9uZsUooB7DEUYgv) | 6:05 | 2021-10-15 |  |
+| [Holiday on the Moon](https://open.spotify.com/track/6Tmvb9B7cFnTJXr2L2MCd8) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Express](https://open.spotify.com/album/0frqimF9uZsUooB7DEUYgv) | 6:05 | 2021-10-15 | 2024-03-27 |
 | [Hollow Eyes](https://open.spotify.com/track/1Vm4cPqMS50k2zM70viOOl) | [Red Lorry Yellow Lorry](https://open.spotify.com/artist/6ixeWfTvnU1VOVPEVP5Bcq) | [Talk About The Weather](https://open.spotify.com/album/3uAvHdRx5uat8LE97Uq9c8) | 3:39 | 2021-10-15 | 2022-07-27 |
 | [I Put A Spell On You \- Remastered 2020](https://open.spotify.com/track/7cls5t47NYg0pfP1djxGu5) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [I Put A Spell On You \(Remastered 2020\)](https://open.spotify.com/album/5SDB6dlRVY9YsW4qHC4cP5) | 2:16 | 2021-10-15 | 2022-07-24 |
 | [I Walk The Line](https://open.spotify.com/track/4c7JcQKPQP3o5ojUcrZ42B) | [Alien Sex Fiend](https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ) | [The Singles 1983\-1995](https://open.spotify.com/album/3ycsLfUjtUL3pjSk96bB3S) | 4:51 | 2021-10-15 | 2022-07-29 |
@@ -226,6 +226,7 @@
 | [Song To The Siren](https://open.spotify.com/track/4WOvx1gdPtmW1c4rXeo0iO) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [Lilliput](https://open.spotify.com/album/1c2QIcoBAm2fB2YUcDe0v7) | 3:35 | 2021-10-15 | 2022-04-18 |
 | [Song To The Siren \- Remastered](https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:31 | 2021-10-15 |  |
 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 | 2021-10-15 | 2024-03-25 |
+| [Spellbound](https://open.spotify.com/track/28rmYerSDjX81r5KCevY7G) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Best Of...](https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX) | 3:17 | 2021-10-15 |  |
 | [Spellbound](https://open.spotify.com/track/5W8K2a4nCZ8df93uJm2pjI) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Best Of Siouxsie And The Banshees \(Limited Edition\)](https://open.spotify.com/album/6ANNQwhAvnPE1EQRX38C7U) | 3:17 | 2021-10-15 | 2022-07-29 |
 | [Spirit Walker](https://open.spotify.com/track/0NLuyHeITS20TXkA46R4Vn) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Gothic Rock 3 \- Black on Black](https://open.spotify.com/album/4BHezhva1YJlprHRgdssPp) | 3:36 | 2021-10-15 | 2022-07-07 |
 | [Spiritual Cramp](https://open.spotify.com/track/3jSTCf4oCzZ2yhKNbmfl5k) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:55 | 2021-10-15 |  |

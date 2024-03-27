@@ -1,12 +1,12 @@
 {
   "description": "Still in rotation. Cover: Victoria Mon\u00e9t",
-  "num_followers": 2142097,
+  "num_followers": 2142187,
   "original_name": "Gold Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWMxODg0ODk3M2ZjMzMxMzU2ZWMyZjQ4YzQ4ZTIzNzFhN2RiYjRk",
+  "snapshot_id": "MCxkOWY3NjIwMDgxNDVjOGZmYTY4NWNmOGJjZTJlMDdhNzZmNGJjZDEz",
   "tracks": [
     {
       "added_at": "2022-07-30 03:46:43",
@@ -1053,38 +1053,6 @@
       "url": "https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA"
     },
     {
-      "added_at": "2022-07-30 03:46:43",
-      "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 204316,
-      "name": "Hrs & Hrs",
-      "url": "https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf"
-    },
-    {
-      "added_at": "2023-09-21 22:42:22",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 194009,
-      "name": "ROLE MODEL",
-      "url": "https://open.spotify.com/track/1wGpEisE7VmhhSazD8hZ5l"
-    },
-    {
       "added_at": "2022-07-30 03:34:52",
       "album": {
         "name": "Made In Lagos",
@@ -1103,6 +1071,38 @@
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
+    },
+    {
+      "added_at": "2023-09-21 22:42:22",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 194009,
+      "name": "ROLE MODEL",
+      "url": "https://open.spotify.com/track/1wGpEisE7VmhhSazD8hZ5l"
+    },
+    {
+      "added_at": "2022-07-30 03:46:43",
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 204316,
+      "name": "Hrs & Hrs",
+      "url": "https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf"
     },
     {
       "added_at": "2022-03-14 17:48:22",

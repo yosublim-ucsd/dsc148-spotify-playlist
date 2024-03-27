@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Fanny Soegi
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,539 likes - 107 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,543 likes - 107 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 25 | [Dawai](https://open.spotify.com/track/4lhPpYQw7bFdDtbIc1vAe7) | [Ficky Felari](https://open.spotify.com/artist/1D7Op74O2J91xxiPs90nsr) | [Dawai](https://open.spotify.com/album/3tic5vMOsBs33sStkVUvta) | 4:39 |
 | 26 | [Adalah Ter](https://open.spotify.com/track/5GDcVgRciZPnyKFXHjd0iu) | [Rocka March](https://open.spotify.com/artist/1wnVajY8YepMq6zEMAtVxV), [DJ Zhak](https://open.spotify.com/artist/3Op3BBdOvJDsniPviMCv0k) | [Adalah Ter](https://open.spotify.com/album/7MGG6LBahJUEBIePjEllT2) | 2:55 |
 | 27 | [Malaise](https://open.spotify.com/track/68d70gUAWGHroKOssw94kj) | [Rebecca Theodora](https://open.spotify.com/artist/3gOsk0RYhnK0G4rhaCmvef) | [Malaise](https://open.spotify.com/album/6eKkUNG5HF10UtnSqN5oyt) | 5:31 |
-| 28 | [Yes Sir!](https://open.spotify.com/track/3Ap2D7dfmZroT3CHRRlCqv) | [The Regards](https://open.spotify.com/artist/0gVWT8HUETFUj84LI0YSQL) | [Probation, Vol\. 1](https://open.spotify.com/album/18NeuZgBxcdhyxWL2Ef1Wa) | 2:29 |
+| 28 | [Yes Sir!](https://open.spotify.com/track/3Ap2D7dfmZroT3CHRRlCqv) | [The Regards](https://open.spotify.com/artist/1OnTsVCgadP4K2GjhRLEH4) | [Probation, Vol\. 1](https://open.spotify.com/album/18NeuZgBxcdhyxWL2Ef1Wa) | 2:29 |
 | 29 | [MNSF](https://open.spotify.com/track/6JouPb4bv2ki48IDhq9D9F) | [MANJA](https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX) | [MNSF](https://open.spotify.com/album/1zEvKoMzRqXIRM9RnAzi84) | 3:13 |
 | 30 | [Call Me Now](https://open.spotify.com/track/3vP4JaeNIMkWhNZ2hsgLSx) | [Joy Manifesto](https://open.spotify.com/artist/4aou5HcW4h4huBPg0wSeOA) | [Call Me Now](https://open.spotify.com/album/2en7QHAxa9i8XwTtvYPpey) | 3:20 |
 | 31 | [Superheroes](https://open.spotify.com/track/7CQVQ9gS7YD7hBNPqlQdiJ) | [Ivan Tandyo](https://open.spotify.com/artist/2qi45OSWJeq0lyAng2Lh5Y) | [Superheroes](https://open.spotify.com/album/42fsSeyo7BvVNlZ49Nc7kN) | 3:56 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 106 | [Jalur Sederhana](https://open.spotify.com/track/51E3gEbBKHzXNKNePh2OxL) | [Fanirahmansyah](https://open.spotify.com/artist/2yfoFECTnaFjyHrHNjJm7x) | [Jalur Sederhana](https://open.spotify.com/album/6nDD5YC6D13gJ1SSalUiJC) | 3:34 |
 | 107 | [Peak of Love](https://open.spotify.com/track/1c4FsERA2Jp4TfvuCc2csI) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Peak of Love](https://open.spotify.com/album/0zqvoEoLwMYeBLEhXKkhRJ) | 4:02 |
 
-Snapshot ID: `MCw4MGQ3NjI5YjMwNjc0NzY0NjMyZGRiMTAxZTYyZTY4ZGFkZDk4N2Qx`
+Snapshot ID: `MCw5MWEwMGMwZWZkN2M0ZDMwNWQ0YjM4MjkxZWEyYzA5MzNkYjA1ZjQ4`

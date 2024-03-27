@@ -1,12 +1,12 @@
 {
   "description": "The best new music by Experimental independent artists and labels. STEMLINES on cover. Artwork by Thami Nabil",
-  "num_followers": 155735,
+  "num_followers": 155799,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTQxZTE5Mjg3YTRjNTIzNzY2Nzc3MTlhZDkwNThjMWRhNzdkMTBl",
+  "snapshot_id": "MCxlZWI1YTkxMDI5NWYyNTRiMmViZTU1Mjg5Y2ZkMmU4OWM5YTFjNWEy",
   "tracks": [
     {
       "added_at": "2024-03-06 06:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "The Bloodwren pt. II",
-        "url": "https://open.spotify.com/album/1Tc8SGlaDltVNRgU80EjsF"
-      },
-      "artists": [
-        {
-          "name": "Ceiling Spirits",
-          "url": "https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB"
-        }
-      ],
-      "duration_ms": 496300,
-      "name": "The Bloodwren pt. II",
-      "url": "https://open.spotify.com/track/7bTVWXk2jJUipSfGaSZG8b"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
         "name": "Nomad",
         "url": "https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs"
       },
@@ -361,22 +345,6 @@
       "url": "https://open.spotify.com/track/7lXZ2YOqx6Nsx0C5xSfPnZ"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Zionic Mud",
-        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 321782,
-      "name": "Zionic Mud",
-      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Boeckner!",
@@ -391,6 +359,38 @@
       "duration_ms": 291037,
       "name": "Lose",
       "url": "https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "The Bloodwren pt. II",
+        "url": "https://open.spotify.com/album/1Tc8SGlaDltVNRgU80EjsF"
+      },
+      "artists": [
+        {
+          "name": "Ceiling Spirits",
+          "url": "https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB"
+        }
+      ],
+      "duration_ms": 496300,
+      "name": "The Bloodwren pt. II",
+      "url": "https://open.spotify.com/track/7bTVWXk2jJUipSfGaSZG8b"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Zionic Mud",
+        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 321782,
+      "name": "Zionic Mud",
+      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
     },
     {
       "added_at": "2023-09-15 05:54:20",
@@ -509,6 +509,22 @@
       "url": "https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM"
     },
     {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Slime Patrol 2",
+        "url": "https://open.spotify.com/album/1i64oc4rRRTWQUI4iDSn2L"
+      },
+      "artists": [
+        {
+          "name": "Khadija Al Hanafi",
+          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
+        }
+      ],
+      "duration_ms": 214941,
+      "name": "You Know I Got That / Wont Stop Callin",
+      "url": "https://open.spotify.com/track/00QANpfkal7tDih1140IFH"
+    },
+    {
       "added_at": "2024-01-10 04:07:01",
       "album": {
         "name": "The Witness",
@@ -543,22 +559,6 @@
       "duration_ms": 194200,
       "name": "Processional",
       "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Slime Patrol 2",
-        "url": "https://open.spotify.com/album/1i64oc4rRRTWQUI4iDSn2L"
-      },
-      "artists": [
-        {
-          "name": "Khadija Al Hanafi",
-          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
-        }
-      ],
-      "duration_ms": 214941,
-      "name": "You Know I Got That / Wont Stop Callin",
-      "url": "https://open.spotify.com/track/00QANpfkal7tDih1140IFH"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -713,6 +713,38 @@
       "url": "https://open.spotify.com/track/5HkMf5rorBI0pELgPbKmf9"
     },
     {
+      "added_at": "2024-03-13 03:47:45",
+      "album": {
+        "name": "Sleepless",
+        "url": "https://open.spotify.com/album/10zkZJRQmq7wM1g9jD3Vni"
+      },
+      "artists": [
+        {
+          "name": "Sui Zhen",
+          "url": "https://open.spotify.com/artist/0I9hbMpu2a9FPWTSLkwuG5"
+        }
+      ],
+      "duration_ms": 781460,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/29OG197vwFviugdT0mxW3L"
+    },
+    {
+      "added_at": "2023-08-01 21:02:30",
+      "album": {
+        "name": "Snapdragon",
+        "url": "https://open.spotify.com/album/2MyGNZFL8YJ1tAvN6gryt8"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 192283,
+      "name": "Snapdragon",
+      "url": "https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I"
+    },
+    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Sampler 1 B1 (Regis Edit)",
@@ -735,38 +767,6 @@
       "duration_ms": 321082,
       "name": "Sampler 1 B1 - Regis Edit",
       "url": "https://open.spotify.com/track/3hJyVn1GKQthsNbg7rTwKx"
-    },
-    {
-      "added_at": "2023-08-01 21:02:30",
-      "album": {
-        "name": "Snapdragon",
-        "url": "https://open.spotify.com/album/2MyGNZFL8YJ1tAvN6gryt8"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 192283,
-      "name": "Snapdragon",
-      "url": "https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I"
-    },
-    {
-      "added_at": "2024-03-13 03:47:45",
-      "album": {
-        "name": "Sleepless",
-        "url": "https://open.spotify.com/album/10zkZJRQmq7wM1g9jD3Vni"
-      },
-      "artists": [
-        {
-          "name": "Sui Zhen",
-          "url": "https://open.spotify.com/artist/0I9hbMpu2a9FPWTSLkwuG5"
-        }
-      ],
-      "duration_ms": 781460,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/29OG197vwFviugdT0mxW3L"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/4wBR6PSc3xnqdAQzpcCHzY"
     },
     {
-      "added_at": "2024-01-24 03:58:32",
-      "album": {
-        "name": "Night Plotters",
-        "url": "https://open.spotify.com/album/6T3lR1agu4rTwJPXZ9mDKj"
-      },
-      "artists": [
-        {
-          "name": "SabaSaba",
-          "url": "https://open.spotify.com/artist/2z7dUCdzDEX1RhOwrxtlyV"
-        }
-      ],
-      "duration_ms": 194901,
-      "name": "Night Plotters",
-      "url": "https://open.spotify.com/track/0F2wG8xPitaD0mw6KC6O1W"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Extinct but Still Alive",
@@ -857,20 +841,20 @@
       "url": "https://open.spotify.com/track/0aWLipAcgGmCqDD2pQsCUp"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
+      "added_at": "2024-01-24 03:58:32",
       "album": {
-        "name": "Awhile",
-        "url": "https://open.spotify.com/album/5pHsEtZB1XNvHf4bq6Sd1a"
+        "name": "Night Plotters",
+        "url": "https://open.spotify.com/album/6T3lR1agu4rTwJPXZ9mDKj"
       },
       "artists": [
         {
-          "name": "oso leone",
-          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
+          "name": "SabaSaba",
+          "url": "https://open.spotify.com/artist/2z7dUCdzDEX1RhOwrxtlyV"
         }
       ],
-      "duration_ms": 177814,
-      "name": "Awhile",
-      "url": "https://open.spotify.com/track/6gfuq5As90qxKATdrCeC8J"
+      "duration_ms": 194901,
+      "name": "Night Plotters",
+      "url": "https://open.spotify.com/track/0F2wG8xPitaD0mw6KC6O1W"
     },
     {
       "added_at": "2024-03-13 03:47:45",
@@ -891,6 +875,22 @@
       "duration_ms": 224064,
       "name": "Tac Tac Tac - Joaqu\u00edn Cornejo Remix",
       "url": "https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Awhile",
+        "url": "https://open.spotify.com/album/5pHsEtZB1XNvHf4bq6Sd1a"
+      },
+      "artists": [
+        {
+          "name": "oso leone",
+          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "Awhile",
+      "url": "https://open.spotify.com/track/6gfuq5As90qxKATdrCeC8J"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -949,6 +949,22 @@
       "url": "https://open.spotify.com/track/3VXnOLGKahjTbkiulsFjox"
     },
     {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Ground Groove",
+        "url": "https://open.spotify.com/album/02Lf34RloqjwBGi2lPMtUN"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 126030,
+      "name": "Heart Shimmer",
+      "url": "https://open.spotify.com/track/0FrvlXmxPAw4IieVlrUXWb"
+    },
+    {
       "added_at": "2024-03-13 03:47:45",
       "album": {
         "name": "touch the subconscious",
@@ -983,22 +999,6 @@
       "duration_ms": 173525,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/4qT64OAfg7BMxDPX1sEo2T"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Ground Groove",
-        "url": "https://open.spotify.com/album/02Lf34RloqjwBGi2lPMtUN"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 126030,
-      "name": "Heart Shimmer",
-      "url": "https://open.spotify.com/track/0FrvlXmxPAw4IieVlrUXWb"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/3UBiQTyckIvc3l4VcwQsgf"
     },
     {
-      "added_at": "2024-01-10 04:07:01",
-      "album": {
-        "name": "QUANTA 1:11",
-        "url": "https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 396071,
-      "name": "EVER",
-      "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
-    },
-    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Moriah Plaza",
@@ -1247,6 +1231,22 @@
       "duration_ms": 149626,
       "name": "Desendere\u00e7ada",
       "url": "https://open.spotify.com/track/5YB4GUHEoX2rMwseiRpdkG"
+    },
+    {
+      "added_at": "2024-01-10 04:07:01",
+      "album": {
+        "name": "QUANTA 1:11",
+        "url": "https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 396071,
+      "name": "EVER",
+      "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1329,20 +1329,20 @@
       "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
     },
     {
-      "added_at": "2024-01-10 20:04:58",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Anthem For Those Who Know",
-        "url": "https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p"
+        "name": "Paradisia, Vol. 10",
+        "url": "https://open.spotify.com/album/3aHzXnf97IVgxMHZEDMDMe"
       },
       "artists": [
         {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+          "name": "SSIEGE",
+          "url": "https://open.spotify.com/artist/4m4ywwSd3EtlfquQLUHnyW"
         }
       ],
-      "duration_ms": 200500,
-      "name": "Anthem For Those Who Know",
-      "url": "https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o"
+      "duration_ms": 209722,
+      "name": "Neo Blu",
+      "url": "https://open.spotify.com/track/6kuH2iKoD1vIhTy7uoOC33"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -1361,36 +1361,20 @@
       "url": "https://open.spotify.com/track/0uhnXN1UiliphsVAcWKeCt"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
+      "added_at": "2024-01-10 20:04:58",
       "album": {
-        "name": "Paradisia, Vol. 10",
-        "url": "https://open.spotify.com/album/3aHzXnf97IVgxMHZEDMDMe"
+        "name": "Anthem For Those Who Know",
+        "url": "https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p"
       },
       "artists": [
         {
-          "name": "SSIEGE",
-          "url": "https://open.spotify.com/artist/4m4ywwSd3EtlfquQLUHnyW"
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
         }
       ],
-      "duration_ms": 209722,
-      "name": "Neo Blu",
-      "url": "https://open.spotify.com/track/6kuH2iKoD1vIhTy7uoOC33"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Break Bandits",
-        "url": "https://open.spotify.com/album/6enkyO7QGXRjQF86rEACcw"
-      },
-      "artists": [
-        {
-          "name": "Sunareht",
-          "url": "https://open.spotify.com/artist/4E2w3DKsTpmnbxLApe9p5O"
-        }
-      ],
-      "duration_ms": 252108,
-      "name": "Break Bandits",
-      "url": "https://open.spotify.com/track/6Xmm7xYQZBdI1gIVZGIYnq"
+      "duration_ms": 200500,
+      "name": "Anthem For Those Who Know",
+      "url": "https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "the REAL",
-        "url": "https://open.spotify.com/album/7tFgoX5GpCYo4EsApcsGsB"
+        "name": "Break Bandits",
+        "url": "https://open.spotify.com/album/6enkyO7QGXRjQF86rEACcw"
       },
       "artists": [
         {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+          "name": "Sunareht",
+          "url": "https://open.spotify.com/artist/4E2w3DKsTpmnbxLApe9p5O"
         }
       ],
-      "duration_ms": 258293,
-      "name": "the REAL",
-      "url": "https://open.spotify.com/track/0dLylgjJzquDJ8Q3urbUZy"
+      "duration_ms": 252108,
+      "name": "Break Bandits",
+      "url": "https://open.spotify.com/track/6Xmm7xYQZBdI1gIVZGIYnq"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -1517,6 +1501,22 @@
       "url": "https://open.spotify.com/track/3T42zYzfImtTxNdep9QS06"
     },
     {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "METROPOLIS N",
+        "url": "https://open.spotify.com/album/2XPIMtFys1sMHfnjLTsBVU"
+      },
+      "artists": [
+        {
+          "name": "NIGELTHREETIMES",
+          "url": "https://open.spotify.com/artist/2idYU20N0SmiDmd3KLhcsK"
+        }
+      ],
+      "duration_ms": 291680,
+      "name": "ROAD2RAILS",
+      "url": "https://open.spotify.com/track/78J3e3c0GWy3Crw8jzaqwy"
+    },
+    {
       "added_at": "2024-03-13 03:47:45",
       "album": {
         "name": "cyanotype memories (joe goddard remix)",
@@ -1537,10 +1537,10 @@
       "url": "https://open.spotify.com/track/5OjiA2QAxv0YX9qFaveApH"
     },
     {
-      "added_at": "2024-01-10 04:07:01",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "The Quanta Series",
-        "url": "https://open.spotify.com/album/4VEBWwVc7dIuWkOKe0dTK4"
+        "name": "the REAL",
+        "url": "https://open.spotify.com/album/7tFgoX5GpCYo4EsApcsGsB"
       },
       "artists": [
         {
@@ -1548,25 +1548,9 @@
           "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
         }
       ],
-      "duration_ms": 290430,
-      "name": "BINARY",
-      "url": "https://open.spotify.com/track/0RgdLC8jJiLywYJckMa5JP"
-    },
-    {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "METROPOLIS N",
-        "url": "https://open.spotify.com/album/2XPIMtFys1sMHfnjLTsBVU"
-      },
-      "artists": [
-        {
-          "name": "NIGELTHREETIMES",
-          "url": "https://open.spotify.com/artist/2idYU20N0SmiDmd3KLhcsK"
-        }
-      ],
-      "duration_ms": 291680,
-      "name": "ROAD2RAILS",
-      "url": "https://open.spotify.com/track/78J3e3c0GWy3Crw8jzaqwy"
+      "duration_ms": 258293,
+      "name": "the REAL",
+      "url": "https://open.spotify.com/track/0dLylgjJzquDJ8Q3urbUZy"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1703,6 +1687,22 @@
       "duration_ms": 218586,
       "name": "Breath and Synth Experiment",
       "url": "https://open.spotify.com/track/5ewo7wEAO7K9DCFfo8CAow"
+    },
+    {
+      "added_at": "2024-01-10 04:07:01",
+      "album": {
+        "name": "The Quanta Series",
+        "url": "https://open.spotify.com/album/4VEBWwVc7dIuWkOKe0dTK4"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 290430,
+      "name": "BINARY",
+      "url": "https://open.spotify.com/track/0RgdLC8jJiLywYJckMa5JP"
     },
     {
       "added_at": "2024-03-06 06:00:00",

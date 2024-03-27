@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 2859,
+  "2024-03-27": 2858,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/1FxDVhXcHEAtLrLA0KD9CC\">Bebe Rexha</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Bebe Rexha",
@@ -915,6 +915,32 @@
       "duration_ms": 184306,
       "name": "I'm Not High, I'm In Love",
       "url": "https://open.spotify.com/track/0fyYhe8tJKheY9XmhZlZSD"
+    },
+    {
+      "album": {
+        "name": "If Only I (feat. Bebe Rexha)",
+        "url": "https://open.spotify.com/album/0QFW85XzFgWQJcZzOhKQf0"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142756,
+      "name": "If Only I (feat. Bebe Rexha)",
+      "url": "https://open.spotify.com/track/6ntFBx30fCwVO2WEF8sJz1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Zsela
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,738 likes - 102 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,274 likes - 102 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 68 | [How Many Times](https://open.spotify.com/track/4c9ihNMojL2wOGglzQ2aCG) | [JJ & The Mood](https://open.spotify.com/artist/6hejDZ8r5VhdPAdaQ3gNRf) | [How Many Times](https://open.spotify.com/album/0C9bCu5Hi5vyEwPGUVeR7u) | 5:30 |
 | 69 | [Forever](https://open.spotify.com/track/6PVXqgR8oHdbZzgAO49cw2) | [Nowhere Blue](https://open.spotify.com/artist/4rSnpj0LK5jbdGUTKeBLzP) | [Forever](https://open.spotify.com/album/2DftFtuJ89dQX7Mz3ob0OJ) | 3:22 |
 | 70 | [Returning](https://open.spotify.com/track/4XaagD7R1HqT3tu5wGoxdT) | [Juice Webster](https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4) | [JULIA](https://open.spotify.com/album/6kSnkFQGSNserpUB78IE4m) | 4:05 |
-| 71 | [backup, cash out](https://open.spotify.com/track/4cBdsJow1XXeAEu2ylEWkY) | [fyoum](https://open.spotify.com/artist/4GUYZi2qvx5zrugU0yAEHM) | [Midair](https://open.spotify.com/album/3EFv3gHt4gd2YKYioVfgdR) | 3:15 |
+| 71 | [backup, cash out](https://open.spotify.com/track/37RdWcTw7Y99za5MJ7jnOe) | [fyoum](https://open.spotify.com/artist/4GUYZi2qvx5zrugU0yAEHM) | [backup, cash out](https://open.spotify.com/album/6UX2tNKKoldjLIuQ9YxaXU) | 3:15 |
 | 72 | [Next Time](https://open.spotify.com/track/2JfSHrsOnxzDUZptyH31DL) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Next Time](https://open.spotify.com/album/4cDkVp1F4MoDk14LiUQzZV) | 2:58 |
 | 73 | [Fibbs](https://open.spotify.com/track/4WySzY2FX8WtsElUwxyagE) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Fibbs](https://open.spotify.com/album/5luLw5YlLKlA2P8WR30b9l) | 3:28 |
 | 74 | [Shower Thoughts](https://open.spotify.com/track/1jGXdyuVnBiIiNUHD4q7Ra) | [Ethansroom](https://open.spotify.com/artist/0obyulaZmmOhiSsnYIfHne) | [BIG LOVE](https://open.spotify.com/album/77sNBL5dqXRLQ3TfxJHTLW) | 3:09 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 101 | [Swapping Socks](https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Swapping Socks](https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5) | 3:38 |
 | 102 | [Profusion](https://open.spotify.com/track/2U1R61eI6fLxzYmgmRjdiJ) | [Posie Pocket](https://open.spotify.com/artist/58Oo6N7a9xlUrW0gduxOrR) | [Profusion](https://open.spotify.com/album/2wmCsWXXilKjBH8c4e80a2) | 3:36 |
 
-Snapshot ID: `MCxlZjBhODg4NDA2NWNjOTI1YmZiNDZlZDNlZjFjY2Q3ZTQ2NjAwNGE4`
+Snapshot ID: `MCw4ZjU4N2Q0MmIzNDkwYWJlYzJiODI2YTcxYWFkZjkxYzhjYzdiM2Rk`

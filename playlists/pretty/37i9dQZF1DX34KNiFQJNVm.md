@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Pereira com MC Daniel, Anitta, Mc IG e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,922,010 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,922,411 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 74 | [Conselho de Bobo](https://open.spotify.com/track/6J29RYRBNiAJjXWgNCa7bf) | [Marcelinho De Lima](https://open.spotify.com/artist/7DRrTGEGV943S1FXmGfMsT) | [Conselho de Bobo](https://open.spotify.com/album/2FqfkdgijP6q8LE1z8goTN) | 2:58 |
 | 75 | [Suspiro](https://open.spotify.com/track/2yLWBGLSkMvbttYVO7BBWU) | [Almério](https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Suspiro](https://open.spotify.com/album/5HGRlYyad7meOnp93Q3aDQ) | 2:38 |
 
-Snapshot ID: `MCw1OWNkN2Q5MzY0MmU1MzE4MTFlN2YxZDcwYmNiZWZiZGU3NDIxOTlj`
+Snapshot ID: `MCw1YzY0ZmJiMWFhYWMxZmVlYmUwNjJhOTVlN2EyZWE5MjI1ODZhNzlk`

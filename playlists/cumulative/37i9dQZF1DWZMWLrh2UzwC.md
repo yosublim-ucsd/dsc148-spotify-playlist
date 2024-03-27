@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Tyla
 
-9,849 songs - 22 day 11 hr 33 min
+9,850 songs - 22 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4746,7 +4746,7 @@
 | [LiGhT rAiLs \*ੈ✩‧₊˚](https://open.spotify.com/track/2CKjPJ59ihAjVro074hFmW) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [LiGhT rAiLs \*ੈ✩‧₊˚](https://open.spotify.com/album/0Sl4hjNHwOrVq6rnexErGu) | 2:25 | 2024-01-11 | 2024-01-19 |
 | [Light Show](https://open.spotify.com/track/7eNMcKKxzCBJgFS3wGeSYF) | [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Light Show](https://open.spotify.com/album/0aYlc31OYtgyJlNAK4apq9) | 2:37 | 2022-05-19 | 2022-05-27 |
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-01-20 | 2022-01-28 |
-| [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 | 2024-03-21 |  |
+| [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 | 2024-03-21 |  |
 | [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 | 2024-02-29 | 2024-03-08 |
 | [Lighter](https://open.spotify.com/track/0Fnjp5rPXHGYnehRgnaEjr) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Lighter](https://open.spotify.com/album/5JAzBPWkz1a1GZJYsawDUX) | 2:46 | 2023-10-19 | 2023-10-27 |
 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 | 2024-01-18 | 2024-01-26 |
@@ -6804,7 +6804,8 @@
 | [Rooting for you](https://open.spotify.com/track/4eXL4BIJ0nrivb8w6Ef39l) | [DIA](https://open.spotify.com/artist/5Pcx98OUnL52aGZRRQx5v8) | [Rooting for you](https://open.spotify.com/album/19v5WRTz9OWOQMLQDzws1O) | 3:10 | 2022-09-15 | 2022-09-23 |
 | [Roots](https://open.spotify.com/track/2f10y3Q1P9UFJPj7cGCBj8) | [Armi Millare](https://open.spotify.com/artist/7bT6URJrhJleZUfkrysELD) | [Roots](https://open.spotify.com/album/0ONLtHlkSuxLBquZNwvilc) | 3:09 | 2023-10-26 | 2023-11-03 |
 | [Rosa](https://open.spotify.com/track/6K3TfsDV3CPDnVmsv1dkqb) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Rosa](https://open.spotify.com/album/01f7LtCEJXug2iAI1wkmTf) | 3:52 | 2023-03-16 | 2023-03-25 |
-| [ROSE](https://open.spotify.com/track/1yP0QDwRm0JlOFhOCBeyul) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [ROSE](https://open.spotify.com/album/57kWJ6gaAyOiAuvGRztjeT) | 3:19 | 2024-03-21 |  |
+| [ROSE](https://open.spotify.com/track/1yP0QDwRm0JlOFhOCBeyul) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [ROSE](https://open.spotify.com/album/57kWJ6gaAyOiAuvGRztjeT) | 3:19 | 2024-03-21 | 2024-03-27 |
+| [ROSE](https://open.spotify.com/track/4os7urcz8CwRxrUWXLLssL) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [606](https://open.spotify.com/album/4UhuKCLwLJ3cuvBsNNY64H) | 3:19 | 2024-03-21 |  |
 | [Rose Blossom](https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 1st Mini Album \[Rose Blossom\]](https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L) | 3:15 | 2023-01-05 | 2023-01-13 |
 | [Roselia](https://open.spotify.com/track/4xMVyWjK7rvXNkUAVXCd3S) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [Roselia](https://open.spotify.com/album/21hUr3pkaozv93pAovUwBN) | 3:55 | 2023-08-03 | 2023-08-11 |
 | [Roses](https://open.spotify.com/track/157MZHkxWyjIz1XI0nnRM1) | [SOS](https://open.spotify.com/artist/6sYQTuRBvPAaQ9Ba5ca1Yc) | [Roses](https://open.spotify.com/album/6hKzbHGDNZSIzVcqvZ2ozQ) | 3:51 | 2023-08-10 | 2023-08-18 |

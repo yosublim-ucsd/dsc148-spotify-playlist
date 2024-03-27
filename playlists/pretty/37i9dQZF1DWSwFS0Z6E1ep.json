@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 250459,
+  "num_followers": 250566,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTAwNTZiNmJlNGE1YTRkMjcxNTNlNGFlYzAwN2E4MTQxOTZkZjM0",
+  "snapshot_id": "MCwyYjg3ZWFlN2MwODQwM2YwNmFiMjI2MTJjMmI0ZTZkMDNjYTUzOGI0",
   "tracks": [
     {
       "added_at": "2022-06-07 05:25:13",
@@ -223,18 +223,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+        "name": "Rock Around The Clock",
+        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
       },
       "artists": [
         {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
         }
       ],
-      "duration_ms": 127426,
-      "name": "Long Tall Sally (The Thing)",
-      "url": "https://open.spotify.com/track/507IFqPuG8mBQoKebfGG9t"
+      "duration_ms": 129893,
+      "name": "(We're Gonna) Rock Around The Clock",
+      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -255,18 +255,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rock Around The Clock",
-        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
       "artists": [
         {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 129893,
-      "name": "(We're Gonna) Rock Around The Clock",
-      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
+      "duration_ms": 127426,
+      "name": "Long Tall Sally (The Thing)",
+      "url": "https://open.spotify.com/track/507IFqPuG8mBQoKebfGG9t"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -391,6 +391,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Presenting Dion And The Belmonts",
+        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
+      },
+      "artists": [
+        {
+          "name": "Dion & The Belmonts",
+          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
+        }
+      ],
+      "duration_ms": 158253,
+      "name": "A Teenager In Love",
+      "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Good Golly!",
         "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 158493,
       "name": "Money (That's What I Want) - Single Version / Mono",
       "url": "https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Presenting Dion And The Belmonts",
-        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
-      },
-      "artists": [
-        {
-          "name": "Dion & The Belmonts",
-          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
-        }
-      ],
-      "duration_ms": 158253,
-      "name": "A Teenager In Love",
-      "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "12 Of His Biggest Hits",
-        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Cochran",
-          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
-        }
-      ],
-      "duration_ms": 130066,
-      "name": "Somethin' Else",
-      "url": "https://open.spotify.com/track/58Genya9wsQXqfiCYdd5qT"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rock N' Roll Million Sellers (Expanded Edition)",
         "url": "https://open.spotify.com/album/4ZCdD24gksJsgFX3QzOuXG"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 139613,
       "name": "Lipstick On Your Collar",
       "url": "https://open.spotify.com/track/6k9j9Fn10bsv107KJtDJnh"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "12 Of His Biggest Hits",
+        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Cochran",
+          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
+        }
+      ],
+      "duration_ms": 130066,
+      "name": "Somethin' Else",
+      "url": "https://open.spotify.com/track/58Genya9wsQXqfiCYdd5qT"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Cliff: Cliff Sings",
-        "url": "https://open.spotify.com/album/0M87jlMkzGaQ4St3QPZ5er"
-      },
-      "artists": [
-        {
-          "name": "Cliff Richard & The Drifters",
-          "url": "https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "Move It - Live; 1998 Remaster",
-      "url": "https://open.spotify.com/track/0u5sJJNGHZUvckdMe96TkA"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "My Bucket's Got a Hole in It / Sweet Misery",
         "url": "https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 138520,
       "name": "My Bucket's Got a Hole in It",
       "url": "https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Cliff: Cliff Sings",
+        "url": "https://open.spotify.com/album/0M87jlMkzGaQ4St3QPZ5er"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard & The Drifters",
+          "url": "https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "Move It - Live; 1998 Remaster",
+      "url": "https://open.spotify.com/track/0u5sJJNGHZUvckdMe96TkA"
     },
     {
       "added_at": "2022-06-07 05:25:13",

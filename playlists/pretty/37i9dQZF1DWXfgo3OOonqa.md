@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,832 likes - 100 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,847 likes - 100 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PERSON I NÖDEN](https://open.spotify.com/track/0n2qnn5LOpxXNeTyj7YDYK) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [PERSON I NÖDEN](https://open.spotify.com/album/4UmXu9AfcluB1B2UvrmbSd) | 2:20 |
-| 2 | [DIAMANTER](https://open.spotify.com/track/6z8QKwRlKLG81uKYMPnvcI) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH) | 2:41 |
+| 2 | [DIAMANTER](https://open.spotify.com/track/75yxwZbg4YmiAdXslkrLiM) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/6JYg8ZoDwgKL20qLy10SW8) | 2:41 |
 | 3 | [Alla vill \(feat\. estraden\)](https://open.spotify.com/track/2EFfc7Z7rMneOxLfezQKxI) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Alla vill \(feat\. estraden\)](https://open.spotify.com/album/3mzjCTMgep2TJKZCJfwgvI) | 2:53 |
 | 4 | [DUKTIG TJEJ](https://open.spotify.com/track/7JTQDqXxHVD56q9pCtouqQ) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [DUKTIG TJEJ](https://open.spotify.com/album/3foZda2qtFVPqe1Uc4Oanz) | 2:04 |
 | 5 | [Kall värld](https://open.spotify.com/track/28Iaq4R297QtPW3Tm9F0da) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Kall värld](https://open.spotify.com/album/7i7r8kUXRWveVURz5P4Q2V) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [Güten Tag](https://open.spotify.com/track/0hBaLYtzhrXncWPtISF8BY) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Güten Tag](https://open.spotify.com/album/2HnP4EIIwWhCIoVEj620qp) | 2:30 |
 | 100 | [Mandy](https://open.spotify.com/track/47y2uDVf39r1RVkdsWSU3c) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Mandy](https://open.spotify.com/album/62h5f1yJ87KxfvV8g8s3tA) | 2:28 |
 
-Snapshot ID: `MCxiMzA0NmNlZmY5NmUzODVjYjE1MDY0Mzk0ODE3MjlmNzAxODBjMjZh`
+Snapshot ID: `MCwwODkzMDk0Njk3N2JkNDg2Yjc5YjQ5YmE4NzUxODRiMDQ5NmUyNTQ2`

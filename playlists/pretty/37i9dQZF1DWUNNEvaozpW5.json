@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Estopa.",
-  "num_followers": 574039,
+  "num_followers": 574151,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzc1NGFmZjBiNWY3MTBiOTJlM2NhODFjMmFjMWUzMDIxYmUzMmFl",
+  "snapshot_id": "MCwwZjRlMGUzMjk3MzkzOWY0ZmMzNWQ2ZWQ2NDMwZDdkZDVmNzRlMDBj",
   "tracks": [
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "El Bien",
-        "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
       },
       "artists": [
         {
-          "name": "Viva Suecia",
-          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
+          "name": "La Fuga",
+          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
         }
       ],
-      "duration_ms": 206226,
-      "name": "El Bien",
-      "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
+      "duration_ms": 400480,
+      "name": "Por verte sonre\u00edr",
+      "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
+        "name": "El Bien",
+        "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
       },
       "artists": [
         {
-          "name": "La Fuga",
-          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
         }
       ],
-      "duration_ms": 400480,
-      "name": "Por verte sonre\u00edr",
-      "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
+      "duration_ms": 206226,
+      "name": "El Bien",
+      "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
     },
     {
       "added_at": "2024-03-21 23:00:00",

@@ -2,9 +2,9 @@
 
 ### [Big in Japan](https://open.spotify.com/playlist/37i9dQZF1DXbR32Ldau7WM)
 
-> The biggest rock bands/artists in Japan right now!  Cover: AJICO
+> The biggest rock bands/artists in Japan right now!  Cover: Porno Graffitti \(ポルノグラフィティ\)
 
-1,003 songs - 2 day 18 hr 24 min
+1,004 songs - 2 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Days](https://open.spotify.com/track/6XCLKrmhexbkfHAL8H3gGE) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [REARRANGE THE BACK HORN](https://open.spotify.com/album/7yZouODY50zeShsVwq4wDB) | 3:53 | 2023-06-13 | 2023-06-15 |
 | [Days](https://open.spotify.com/track/70FouyEWKM0a6tV4nITxxZ) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [REARRANGE THE BACK HORN](https://open.spotify.com/album/19WApxqGz4x06rBgNGBPnz) | 3:53 | 2023-06-13 | 2023-06-21 |
 | [DEAR](https://open.spotify.com/track/2cFLdP5wBMfc3gycDgEOaw) | [OTOGIVANASHI](https://open.spotify.com/artist/44D2YJddv2yvBrrnCEJrN7) | [DEAR](https://open.spotify.com/album/4OBpKvxYrXgkL3In9SoP5q) | 3:54 | 2022-06-09 | 2022-07-08 |
-| [Dear Future](https://open.spotify.com/track/0cAMS28jrGnrZEdlndRzzR) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Dear Future](https://open.spotify.com/album/0916gU5FyF01sKbtH32r7a) | 3:48 | 2024-02-01 |  |
+| [Dear Future](https://open.spotify.com/track/0cAMS28jrGnrZEdlndRzzR) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Dear Future](https://open.spotify.com/album/0916gU5FyF01sKbtH32r7a) | 3:48 | 2024-02-01 | 2024-03-27 |
 | [DEAR YOU](https://open.spotify.com/track/14CIoI3XDNnxlcDlSlqCyQ) | [PERSONZ](https://open.spotify.com/artist/6n9RT2nh15EFHJk1grNlBO) | [DEAR YOU](https://open.spotify.com/album/3KjvjCzz2VjIXDAx638odq) | 4:11 | 2024-02-27 |  |
 | [Destruction Baby \- LIVE](https://open.spotify.com/track/4hHsq2OToBt2HVWRGBqcwS) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [NUMBER GIRL 無常の日 \(LIVE\)](https://open.spotify.com/album/53SM7JmehI9uYICKm1Z4Qu) | 3:33 | 2023-05-30 | 2023-06-07 |
 | [Devil in Your Heart](https://open.spotify.com/track/3w8qOAwbHF6zYeYT7pj7DI) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES](https://open.spotify.com/album/1NqQpcihfQEtMLJ3pz8Wi3) | 3:06 | 2023-06-27 |  |
@@ -214,7 +214,7 @@
 | [I feel free](https://open.spotify.com/track/291g88i6GvDEZjMRGRtaEA) | [Michiya Haruhata](https://open.spotify.com/artist/6B3JbWQ1eamId6N5y09gzg), [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [I feel free](https://open.spotify.com/album/1MwejdU3E2kxJ9BeeHNIvv) | 4:03 | 2022-05-12 | 2022-07-21 |
 | [I Just Threw Out The Love Of My Dreams](https://open.spotify.com/track/3fKJhq2KV5mnxcEBDBlxeO) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [出町柳パラレルユニバース](https://open.spotify.com/album/6BGCOeart36zrZsEN9vOs7) | 2:48 | 2022-09-27 | 2022-11-02 |
 | [I MISS YOU](https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 4:32 | 2023-11-08 |  |
-| [I miss your fire](https://open.spotify.com/track/5OHdAb159rhgots5cZuwV8) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [I miss your fire](https://open.spotify.com/album/21vZJWbVbvjBjAqVvIvY7g) | 5:42 | 2024-01-16 | 2024-03-23 |
+| [I miss your fire](https://open.spotify.com/track/5OHdAb159rhgots5cZuwV8) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [I miss your fire](https://open.spotify.com/album/21vZJWbVbvjBjAqVvIvY7g) | 5:42 | 2024-01-16 |  |
 | [I'M A RAT](https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE) | 2:04 | 2023-04-19 | 2023-07-05 |
 | [I'M A RAT](https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh) | 2:04 | 2024-03-12 |  |
 | [I'm ready to die for my friends](https://open.spotify.com/track/2CQVZQ31zugcnfaxCkuR2N) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [I'm ready to die for my friends](https://open.spotify.com/album/3iy3EnIGs1JF8diFJrBJCF) | 3:50 | 2023-05-16 | 2023-06-14 |
@@ -891,7 +891,7 @@
 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-05-10 | 2022-05-17 |
 | [明日大好きなロックンロールバンドがこの街にやってくるんだ \- From THE FIRST TAKE](https://open.spotify.com/track/3yxHmjUP94fcDZu0VgESzj) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [明日大好きなロックンロールバンドがこの街にやってくるんだ \- From THE FIRST TAKE](https://open.spotify.com/album/3aNEW4FiY1e1nZYJ2IDsdB) | 5:39 | 2022-07-21 | 2022-07-29 |
 | [星路 \(みち\)](https://open.spotify.com/track/0TWwbu3qo6fglRBJerQ068) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD) | [星路 \(みち\)](https://open.spotify.com/album/1MIlkgZssg2rgkqbGUY8sx) | 3:36 | 2022-05-17 | 2022-08-24 |
-| [春、白濁](https://open.spotify.com/track/5Ot80fdjtkmVtr4eqg8PBw) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [春、白濁](https://open.spotify.com/album/1H2pv1s8CAQ3dBtdCEGCFd) | 4:30 | 2024-02-13 |  |
+| [春、白濁](https://open.spotify.com/track/5Ot80fdjtkmVtr4eqg8PBw) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [春、白濁](https://open.spotify.com/album/1H2pv1s8CAQ3dBtdCEGCFd) | 4:30 | 2024-02-13 | 2024-03-27 |
 | [春荒らし](https://open.spotify.com/track/0P3S2XjVi8AzTGCcshYKhT) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [ビアトリス](https://open.spotify.com/album/15s87sPhqCsoeUXfPdnEA2) | 4:50 | 2024-02-13 | 2024-02-15 |
 | [時代遅れのRock'n'Roll Band](https://open.spotify.com/track/5x1mEZL7jAmnDvPoALyBdO) | [Keisuke Kuwata feat\. Motoharu Sano, Masanori Sera, Char, Goro Noguchi](https://open.spotify.com/artist/1Zwp8omq5fAcxwTfjZKLoJ), [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [時代遅れのRock'n'Roll Band](https://open.spotify.com/album/34880OhTzI2pjzQW05ooka) | 4:15 | 2022-05-22 | 2022-06-29 |
 | [時計台の鐘](https://open.spotify.com/track/4fJC5DUwH9xy8ofjFPXuUJ) | [Eastern Youth](https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH) | [時計台の鐘](https://open.spotify.com/album/3NjtYF9lvn0lR5JTP9CcfU) | 4:13 | 2023-01-17 | 2023-01-25 |
@@ -975,6 +975,7 @@
 | [襲撃](https://open.spotify.com/track/4lKGembiDBdYHSCWfxOKIQ) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [式日散花](https://open.spotify.com/album/5UwYVbkJL3whWkNQIkLGpa) | 4:00 | 2023-08-29 | 2023-09-13 |
 | [西方コーストストーリー](https://open.spotify.com/track/1YH7Rv0BpvNyjtno88MxXY) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [サーフ ブンガク カマクラ \(半カートン\)](https://open.spotify.com/album/6O5gIlE93Ym8DeAlyJI4P3) | 3:41 | 2023-06-13 | 2023-06-28 |
 | [解放カーニバル](https://open.spotify.com/track/5IWj6ohZRj224eMPQSWT7S) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [解放カーニバル](https://open.spotify.com/album/4I0sfMmCYmRNQIMkPLzFPD) | 2:53 | 2023-07-11 | 2023-07-13 |
+| [解放区](https://open.spotify.com/track/52dfm26rDnoqFCmCNam7ex) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [解放区](https://open.spotify.com/album/74KxSiODn8PWwQ2el59TT8) | 3:56 | 2024-03-26 |  |
 | [証](https://open.spotify.com/track/1Nm8xR8SIiphGCW1sn11Qr) | [ZIGGY](https://open.spotify.com/artist/1be5pBkzQZ3kVJFWroppbb) | [証](https://open.spotify.com/album/2JqFzGT35Ted5pM3PKP6Os) | 3:26 | 2022-05-12 | 2022-07-26 |
 | [証 \- A Spring Breath ver.](https://open.spotify.com/track/2NtwiDUuV1NlaS9oh7r1cN) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [A Spring Breath](https://open.spotify.com/album/1r4OmtQDqbrWo5llPSIWue) | 5:32 | 2022-05-31 | 2022-07-23 |
 | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/track/59SliEKc5sEWaJUNOpKAzH) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/album/1o4DJE0sn5wIl878BIw1bT) | 3:09 | 2023-02-07 | 2023-03-22 |

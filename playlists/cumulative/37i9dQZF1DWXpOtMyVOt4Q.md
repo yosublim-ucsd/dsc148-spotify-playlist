@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-243 songs - 14 hr 19 min
+244 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Call me](https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9) | 2:06 | 2022-09-29 | 2023-02-28 |
 | [Call me](https://open.spotify.com/track/34A2accnIDPOhkRltN8KJY) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/4r5Uvinx2W572g2goXL0zW) | 2:06 | 2022-09-21 | 2022-11-19 |
 | [Call Me](https://open.spotify.com/track/3W2nd0NueKuLO0K599RZzB) | [Sviral.](https://open.spotify.com/artist/401CMJmFM4bqpbSzkCAeyE) | [Call Me](https://open.spotify.com/album/5UpWqT6j0EeQW6kM4WlG4N) | 3:00 | 2023-11-29 |  |
+| [Call Me](https://open.spotify.com/track/41gfvTOXSkQp7NeA2D2N6t) | [TheExorcist](https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR) | [Call Me](https://open.spotify.com/album/1AD3yGkImGbx6YriNSx15f) | 1:34 | 2023-11-29 |  |
 | [chirpy](https://open.spotify.com/track/5jfBd1oYuymK7up1MjGXO1) | [moiisen](https://open.spotify.com/artist/3hqnzcYaIVnVjWDsLZJSfg) | [chirpy](https://open.spotify.com/album/28ZnlCVeK3WZYa4jNLNQuM) | 1:39 | 2022-08-31 | 2022-10-09 |
 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 | 2019-12-16 | 2022-09-01 |
 | [Clarity](https://open.spotify.com/track/3sXg02TJKMIqftRD82EnS7) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Clarity](https://open.spotify.com/album/3zAjBfnsAyNM3bjA54Cqv7) | 6:23 | 2019-12-16 | 2022-07-29 |
@@ -215,7 +216,7 @@
 | [The Beach](https://open.spotify.com/track/41CMzNSRuMlxCxBiFMJhpC) | [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj) | [The Beach](https://open.spotify.com/album/0b7YKgSQgWkVxpYsbd4oBQ) | 2:36 | 2023-09-08 |  |
 | [The Choice](https://open.spotify.com/track/2IXJyG1DX93g2EhFXghz37) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Alan Umstead](https://open.spotify.com/artist/6dwp73sWeoHMobWygzWYDP) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 1:42 | 2019-12-16 | 2022-09-01 |
 | [The hall is dancing](https://open.spotify.com/track/6UnSlwVAEPblKJING6FH5Z) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Transitions](https://open.spotify.com/album/7dopFnnInju2yjJe127paH) | 1:03 | 2023-09-08 |  |
-| [the lonely tree \(slowed\)](https://open.spotify.com/track/0ECFKrZI3VZKPNWGs1CoSq) | [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x) | [the lonely tree](https://open.spotify.com/album/6wGfq6iZAQ1RhX3izONxdS) | 2:45 | 2023-11-29 |  |
+| [the lonely tree \(slowed\)](https://open.spotify.com/track/0ECFKrZI3VZKPNWGs1CoSq) | [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x) | [the lonely tree](https://open.spotify.com/album/6wGfq6iZAQ1RhX3izONxdS) | 2:45 | 2023-11-29 | 2024-03-27 |
 | [the lonely tree \(slowed\)](https://open.spotify.com/track/4Jjsn1g5vJJPdbPuJD2XBM) | [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x) | [the lonely tree](https://open.spotify.com/album/6RPBdWsjsNsJWN9i2M3tDe) | 2:45 | 2023-11-29 | 2024-02-01 |
 | [The Lonely Tree Corecore Depressed](https://open.spotify.com/track/6op1kH6zHU9JJu7vRZwrap) | [Leox](https://open.spotify.com/artist/7c4E98MuM8NBQGrSDC2n9r) | [The Lonely Tree Corecore Depressed](https://open.spotify.com/album/5MS01aBztEzPQLUN5OZhpd) | 1:22 | 2023-11-29 | 2024-02-16 |
 | [The Long Spring](https://open.spotify.com/track/1pRSp8bfk0kruIwrINVZ3u) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Thank You \(Anniversary Compilation\)](https://open.spotify.com/album/5sVNhFHuw3979uDE6QHBXS) | 5:34 | 2019-12-16 | 2022-07-29 |

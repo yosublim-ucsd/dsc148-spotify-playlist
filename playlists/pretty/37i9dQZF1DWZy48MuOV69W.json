@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 73277,
+  "num_followers": 73265,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjkzNDc0ZDRkYWVhMzk5OTEyN2M0MjVmZWJjZDZjYTNlMTI0Mjc3",
+  "snapshot_id": "MCw2ZGM0MTI5MjFhMGI4ZDMxODk3YTRkYTVlMWEzZTg5ZTNhYWUyMDFk",
   "tracks": [
     {
       "added_at": "2023-12-19 12:10:20",
@@ -851,6 +851,38 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/5d13Zb4bfDGuahpFTRLuu7"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        },
+        {
+          "name": "Jonathan Michel",
+          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "duration_ms": 166173,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/3XxHSA1xUFKRyRiquB8oQI"
+    },
+    {
+      "added_at": "2023-12-19 12:10:20",
+      "album": {
         "name": "What A Night! A Christmas Album",
         "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
       },
@@ -899,38 +931,6 @@
       "duration_ms": 159622,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb"
-    },
-    {
-      "added_at": "2023-12-19 12:10:20",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/5d13Zb4bfDGuahpFTRLuu7"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        },
-        {
-          "name": "Sean Mason",
-          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
-        },
-        {
-          "name": "Jonathan Michel",
-          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        }
-      ],
-      "duration_ms": 166173,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/3XxHSA1xUFKRyRiquB8oQI"
     },
     {
       "added_at": "2023-12-19 12:10:20",

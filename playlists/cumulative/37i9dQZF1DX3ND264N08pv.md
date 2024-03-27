@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-244 songs - 13 hr 47 min
+245 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Locked Up](https://open.spotify.com/track/434lnuoFk5IA3xJnnF3esF) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [Locked Up](https://open.spotify.com/album/76rwBzfgCJLi9bwg1WGFla) | 3:53 | 2022-12-08 | 2024-01-18 |
 | [Locked Up](https://open.spotify.com/track/6NURhpGBxcPREjrtBdfWeL) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [The Keymaker](https://open.spotify.com/album/5STLj7Mkx2nwrCKdrSOnoR) | 3:53 | 2024-01-24 |  |
 | [Loco](https://open.spotify.com/track/3ths0qezzeNfMDErMUDCwx) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Loco](https://open.spotify.com/album/1GcwL1qhxuTpZP405t9s2g) | 3:33 | 2022-12-08 | 2023-10-26 |
-| [LOSE IT](https://open.spotify.com/track/4jF9Df8yhktHGaRV4UwQ8r) | [Crypton](https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2) | [LOSE IT](https://open.spotify.com/album/03UYxj7j9zacRjwwEbExV5) | 2:43 | 2023-11-17 |  |
+| [LOSE IT](https://open.spotify.com/track/4jF9Df8yhktHGaRV4UwQ8r) | [Crypton](https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2) | [LOSE IT](https://open.spotify.com/album/03UYxj7j9zacRjwwEbExV5) | 2:43 | 2023-11-17 | 2024-03-27 |
 | [LOSE STRESS](https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [LOSE STRESS](https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ) | 2:48 | 2022-12-08 | 2023-12-22 |
 | [M.D.E.](https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [M.D.E.](https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM) | 2:32 | 2022-12-08 | 2023-12-22 |
 | [Mad Masquerade](https://open.spotify.com/track/3OXcRBlauVlOXf0yeeEXlA) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Mad Masquerade](https://open.spotify.com/album/7hDsieJg1siQ8sOHCkoAud) | 3:47 | 2023-02-23 | 2023-06-23 |
@@ -208,6 +208,7 @@
 | [Someone To Understand](https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Someone To Understand](https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR) | 2:35 | 2024-03-11 |  |
 | [Spacestorm](https://open.spotify.com/track/66lM2053Cgq8Xm7TUMR475) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI), [Jax](https://open.spotify.com/artist/74qgM5Rvsk16SBXAdXeWmG) | [Showtime](https://open.spotify.com/album/0P8MdMLHjzqHzVd8twfxe5) | 2:18 | 2022-12-08 | 2023-01-20 |
 | [Story of My Life](https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc) | [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [PsykoPhonic](https://open.spotify.com/artist/1KZdUfQP2t8y4XlV7zrr83) | [Story of My Life](https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c) | 4:05 | 2022-12-08 |  |
+| [Stress](https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Stress](https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI) | 2:27 | 2024-03-26 |  |
 | [STRUGGLE TO SURVIVE](https://open.spotify.com/track/5ppcwNlHYEMQOHYbo0y2Jf) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [STRUGGLE TO SURVIVE](https://open.spotify.com/album/3xjbDfiuJmTrLOgwkrotM4) | 3:47 | 2022-12-08 | 2023-06-02 |
 | [STRUGGLE TO SURVIVE \(2023 RMX\)](https://open.spotify.com/track/0pTxkc8DLhLexqfATjm4Yu) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [STRUGGLE TO SURVIVE \(2023 RMX\)](https://open.spotify.com/album/6Qfszcle60C258we00nyTG) | 3:26 | 2023-11-02 |  |
 | [Swallow It](https://open.spotify.com/track/7gnMMIlH6scodeu3kHINvs) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Swallow It](https://open.spotify.com/album/5H5rbvZh68gtoN0dgTV76M) | 3:31 | 2024-02-01 |  |

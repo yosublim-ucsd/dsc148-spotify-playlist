@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 8251,
+  "2024-03-27": 8252,
   "date_first_scraped": "2022-01-29",
   "description": "Your daily update of the most viral tracks right now - Honduras.",
   "name": "Viral 50 - Honduras",
@@ -2649,6 +2649,24 @@
       "duration_ms": 215508,
       "name": "Ausente",
       "url": "https://open.spotify.com/track/1iCR2JvBl5jJemUzFjoBm0"
+    },
+    {
+      "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
     },
     {
       "album": {
@@ -12191,7 +12209,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 223186,
       "name": "Flores Amarillas",
       "url": "https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe"
@@ -12411,7 +12429,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 150047,
       "name": "From the Start",
       "url": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
@@ -13009,7 +13027,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 223236,
       "name": "Girls Just Wanna Have Some",
       "url": "https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv"
@@ -20137,7 +20155,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 181685,
       "name": "Mi Palabra Contra la de Ellos - En Vivo",
       "url": "https://open.spotify.com/track/0sBVn4NN8VlR9WMmyZ1Cek"
@@ -26782,6 +26800,24 @@
     },
     {
       "album": {
+        "name": "Reloj Ingrato (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/0j9twvr7rhcPGDdwgPSxfx"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173684,
+      "name": "Reloj Ingrato - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/4K3lcnfUBszxy8s9DDsziH"
+    },
+    {
+      "album": {
         "name": "REM",
         "url": "https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX"
       },
@@ -32611,7 +32647,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 158840,
       "name": "Tu Geograf\u00eda",
       "url": "https://open.spotify.com/track/12uCHNPDQSDLMLVtz0zfEw"

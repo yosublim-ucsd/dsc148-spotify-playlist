@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 198263,
+  "num_followers": 198338,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODRjODRhNzE2NDYzMGM3YTA3ZTg1MGZiM2I3NWI4ZmI4ZDg1ZTBh",
+  "snapshot_id": "MCwwZTM0YjJmZWY3YWY0ZTQwZDgwOTUyZGIzMzAyNDkzZGI2ZTY0ZmJk",
   "tracks": [
     {
       "added_at": "2023-02-07 01:31:56",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "S\u00f3lo Clasicos",
-        "url": "https://open.spotify.com/album/5x7mrRtR1jPqBH6N2BuXou"
-      },
-      "artists": [
-        {
-          "name": "Farid Ortiz",
-          "url": "https://open.spotify.com/artist/5OG4S2qn54NS8AAw5dCbgN"
-        },
-        {
-          "name": "Emilio Oviedo",
-          "url": "https://open.spotify.com/artist/0gp7YgvBbdKBOd6dJIYY8z"
-        }
-      ],
-      "duration_ms": 280163,
-      "name": "Preg\u00fantele a Su Hija",
-      "url": "https://open.spotify.com/track/4tU8cB6Sjtj7vJfD06KoZn"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
         "name": "Coleccion Top 50",
         "url": "https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 282920,
       "name": "No Comprendi Tu Amor",
       "url": "https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
+        "name": "S\u00f3lo Clasicos",
+        "url": "https://open.spotify.com/album/5x7mrRtR1jPqBH6N2BuXou"
+      },
+      "artists": [
+        {
+          "name": "Farid Ortiz",
+          "url": "https://open.spotify.com/artist/5OG4S2qn54NS8AAw5dCbgN"
+        },
+        {
+          "name": "Emilio Oviedo",
+          "url": "https://open.spotify.com/artist/0gp7YgvBbdKBOd6dJIYY8z"
+        }
+      ],
+      "duration_ms": 280163,
+      "name": "Preg\u00fantele a Su Hija",
+      "url": "https://open.spotify.com/track/4tU8cB6Sjtj7vJfD06KoZn"
     },
     {
       "added_at": "2023-02-07 01:31:56",

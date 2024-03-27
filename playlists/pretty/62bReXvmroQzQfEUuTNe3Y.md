@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Chill tracks to vibe or dance for 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[Selected.](https://open.spotify.com/user/selectedbase) - 1,191,618 likes - 144 songs - 7 hr 48 min
+[Selected.](https://open.spotify.com/user/selectedbase) - 1,192,917 likes - 144 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 28 | [Harder We Fall](https://open.spotify.com/track/675ENLQoyLkIzEGHm5FAqe) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Austin Tate](https://open.spotify.com/artist/3Y0jgmHMAPgxpjuiEloPEJ) | [Harder We Fall](https://open.spotify.com/album/2mfGad0YRMJpNhi79pERvn) | 2:30 |
 | 29 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 |
 | 30 | [Sleepless](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Sleepless](https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9) | 2:45 |
-| 31 | [Cry For Me](https://open.spotify.com/track/3cxgp575v709HjOLSHubBw) | [Touring](https://open.spotify.com/artist/1DKSHZmGXSlYlbUKFb6KXZ) | [Cry For Me](https://open.spotify.com/album/5TnCTrun94MPp92pUNTLzI) | 4:13 |
+| 31 | [Cry For Me](https://open.spotify.com/track/3cxgp575v709HjOLSHubBw) | [Touring](https://open.spotify.com/artist/1DKSHZmGXSlYlbUKFb6KXZ), [Luca Wilding](https://open.spotify.com/artist/3IMal2orfDZIifVZjFOLLL) | [Cry For Me](https://open.spotify.com/album/5TnCTrun94MPp92pUNTLzI) | 4:13 |
 | 32 | [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 |
 | 33 | [I Can Make It](https://open.spotify.com/track/4ruM7ZgntoMNIj5pm0tARQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:09 |
 | 34 | [Goosebumps](https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ) | [Goosebumps](https://open.spotify.com/album/6YZz8CZAqqCyxyf01ix0TX) | 3:59 |

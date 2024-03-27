@@ -1,12 +1,12 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 1819,
+  "num_followers": 1852,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDk5ODdiOTk3NGZiYmZiN2NiOGVkZGZhYWVhMmE2ZGU3ZjA3NmVm",
+  "snapshot_id": "MCxiMTg1NTg2NDI3MzZiZmFkMTJlZTc1MGNjNjQzNGFhYjhjZjhmN2Jk",
   "tracks": [
     {
       "added_at": "2021-10-19 17:28:22",
@@ -307,22 +307,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Mi Tierra",
-        "url": "https://open.spotify.com/album/7vld1FYKOT0Rdo6bEfur8V"
-      },
-      "artists": [
-        {
-          "name": "El Jeffrey",
-          "url": "https://open.spotify.com/artist/0WfG4KbWJJoxomK5HH1kSX"
-        }
-      ],
-      "duration_ms": 224634,
-      "name": "Palabritas",
-      "url": "https://open.spotify.com/track/1OLipTUWDrz67unieZgkdD"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Mentirosa",
         "url": "https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 231183,
       "name": "Noches de Fantasia",
       "url": "https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Mi Tierra",
+        "url": "https://open.spotify.com/album/7vld1FYKOT0Rdo6bEfur8V"
+      },
+      "artists": [
+        {
+          "name": "El Jeffrey",
+          "url": "https://open.spotify.com/artist/0WfG4KbWJJoxomK5HH1kSX"
+        }
+      ],
+      "duration_ms": 224634,
+      "name": "Palabritas",
+      "url": "https://open.spotify.com/track/1OLipTUWDrz67unieZgkdD"
     },
     {
       "added_at": "2021-10-19 17:28:22",

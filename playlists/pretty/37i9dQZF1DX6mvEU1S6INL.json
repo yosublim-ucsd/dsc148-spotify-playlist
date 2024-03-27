@@ -1,12 +1,12 @@
 {
   "description": "It's just us\u2014and this awesome alt soundtrack.",
-  "num_followers": 1131255,
+  "num_followers": 1131336,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzY5NTdhZGFkNTc4MzllYTEzOGE5Y2I3NjE2YzYyZDJiZjM1ZTU0",
+  "snapshot_id": "MCw4YzVjMzFlODBhZGM4MDY1NGE4ZjQ2Yjg4M2MwNWUzMjc1OTc2NDNm",
   "tracks": [
     {
       "added_at": "2024-02-09 20:08:05",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "Sadnecessary (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "Flashed Junk Mind",
-      "url": "https://open.spotify.com/track/2UAWVtEwFLJqdJsT8FCzKX"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 226440,
       "name": "Seasons (Waiting on You)",
       "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "Sadnecessary (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "Flashed Junk Mind",
+      "url": "https://open.spotify.com/track/2UAWVtEwFLJqdJsT8FCzKX"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -851,22 +851,18 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "What's Love (feat. MUNA)",
-        "url": "https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z"
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/1O2FPFDjmyEOSTfqNuuuNG"
       },
       "artists": [
         {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
         }
       ],
-      "duration_ms": 189720,
-      "name": "What's Love (feat. MUNA)",
-      "url": "https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy"
+      "duration_ms": 258186,
+      "name": "Don't Move",
+      "url": "https://open.spotify.com/track/1BeNZQORyV0jEF2toAmrsA"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -887,18 +883,22 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/1O2FPFDjmyEOSTfqNuuuNG"
+        "name": "What's Love (feat. MUNA)",
+        "url": "https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z"
       },
       "artists": [
         {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 258186,
-      "name": "Don't Move",
-      "url": "https://open.spotify.com/track/1BeNZQORyV0jEF2toAmrsA"
+      "duration_ms": 189720,
+      "name": "What's Love (feat. MUNA)",
+      "url": "https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "Dangerous Game",
-        "url": "https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        }
-      ],
-      "duration_ms": 158647,
-      "name": "Dangerous Game",
-      "url": "https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "Love and Other Lies",
         "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 174565,
       "name": "Want You Like That",
       "url": "https://open.spotify.com/track/0aKWr5K7ydkegVoxd3dBeM"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "Dangerous Game",
+        "url": "https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 158647,
+      "name": "Dangerous Game",
+      "url": "https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "Loveless",
-      "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/4JqtQJR0R6xSJqlmGH31X3"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 183760,
       "name": "She's Casual",
       "url": "https://open.spotify.com/track/3WLwkFXJpZ1VpDxAh0DXzz"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Loveless",
+      "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
     },
     {
       "added_at": "2024-02-09 20:08:05",

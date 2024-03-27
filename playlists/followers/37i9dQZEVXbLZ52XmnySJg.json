@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 484791,
+  "2024-03-27": 484929,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - India.",
   "name": "Top 50 - India",
@@ -1655,7 +1655,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 288902,
       "name": "Balam Pichkari",
       "url": "https://open.spotify.com/track/18e3XXYCv4Tx8uUl1mP3CN"
@@ -8983,7 +8983,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 216558,
       "name": "Kurchi Madathapetti",
       "url": "https://open.spotify.com/track/7IWcVmNCt0V1KHoYQP9ZoR"
@@ -15757,7 +15757,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"
@@ -19265,7 +19265,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 172066,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/4thOONDx78zsY8sHGfU1M2"

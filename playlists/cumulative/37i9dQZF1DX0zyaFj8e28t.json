@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Chanter en voiture",
+        "url": "https://open.spotify.com/album/3LUCT3iKWJJVI2uxaSGOui"
+      },
+      "artists": [
+        {
+          "name": "Patricia Kaas",
+          "url": "https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253666,
+      "name": "Mon mec \u00e0 moi",
+      "url": "https://open.spotify.com/track/6ea6MMRFAILWDDePFlFoHY"
+    },
+    {
+      "album": {
         "name": "Rien ne s'arr\u00eate (1987 - 2001)",
         "url": "https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw"
       },
@@ -712,7 +730,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 253893,
       "name": "Mon mec \u00e0 moi",
       "url": "https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy"

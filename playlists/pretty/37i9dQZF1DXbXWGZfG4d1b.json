@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 21995,
+  "num_followers": 22003,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTViNzBjNzNlOWRjM2Y3NzZkZjE0ZmI3ZjkyMWU1N2ZmOGMyNjgy",
+  "snapshot_id": "MCxhNjZhMTZhMzFmZjI3ZTNmOWM4NjdhOTc1NDQ1NWY0Yjk3NWM1NmU5",
   "tracks": [
     {
       "added_at": "2024-03-19 18:38:36",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/0cZEg5Ydxxr2bea2LRY3tu"
-      },
-      "artists": [
-        {
-          "name": "Onda Vaga",
-          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
-        }
-      ],
-      "duration_ms": 196751,
-      "name": "Olas Negras",
-      "url": "https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
         "name": "Bar de Playa",
         "url": "https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 129945,
       "name": "Bar de Playa",
       "url": "https://open.spotify.com/track/6YbC0D2ZYyjOmXn2sBirbA"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/0cZEg5Ydxxr2bea2LRY3tu"
+      },
+      "artists": [
+        {
+          "name": "Onda Vaga",
+          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
+        }
+      ],
+      "duration_ms": 196751,
+      "name": "Olas Negras",
+      "url": "https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT"
     },
     {
       "added_at": "2024-03-19 18:38:36",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4"
+      },
+      "artists": [
+        {
+          "name": "El Culto Casero",
+          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
+        }
+      ],
+      "duration_ms": 137584,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
         "name": "El rock and roll pas\u00f3 de moda",
         "url": "https://open.spotify.com/album/0njdapBFMgKnJQeE5g00UB"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 241297,
       "name": "El rock and roll pas\u00f3 de moda",
       "url": "https://open.spotify.com/track/38V1ucCpi0TjlITJStqg5L"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4"
-      },
-      "artists": [
-        {
-          "name": "El Culto Casero",
-          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
-        }
-      ],
-      "duration_ms": 137584,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl"
     },
     {
       "added_at": "2024-03-19 18:38:36",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
+        "name": "Indie Rockera",
+        "url": "https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC"
+      },
+      "artists": [
+        {
+          "name": "Tobias Indigo",
+          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
+        }
+      ],
+      "duration_ms": 221653,
+      "name": "Indie Rockera",
+      "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
         "name": "Canciones de Amor",
         "url": "https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 194043,
       "name": "Canciones de Amor",
       "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
-        "name": "Indie Rockera",
-        "url": "https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC"
-      },
-      "artists": [
-        {
-          "name": "Tobias Indigo",
-          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
-        }
-      ],
-      "duration_ms": 221653,
-      "name": "Indie Rockera",
-      "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
     },
     {
       "added_at": "2024-03-19 18:38:36",
@@ -707,6 +707,26 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
+        "name": "Puedo Con Esto (Fuera de Foco)",
+        "url": "https://open.spotify.com/album/6lUeoa01dpqJvnHuNt5vZO"
+      },
+      "artists": [
+        {
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 234792,
+      "name": "Puedo Con Esto (Fuera de Foco)",
+      "url": "https://open.spotify.com/track/11X6kG43B9w6uPLnx9ZlQf"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
         "name": "Ochocientos Envolventes al Sol",
         "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
       },
@@ -719,22 +739,6 @@
       "duration_ms": 250517,
       "name": "800 Vueltas Envolventes",
       "url": "https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
-        "name": "Santa Marta",
-        "url": "https://open.spotify.com/album/7AbVZLEloCWWhtGdeYZ3Rl"
-      },
-      "artists": [
-        {
-          "name": "Pez",
-          "url": "https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh"
-        }
-      ],
-      "duration_ms": 153418,
-      "name": "Adi\u00f3s Mundo Cruel",
-      "url": "https://open.spotify.com/track/0xR8MLrA5Eb0XW4wA8Nvzm"
     },
     {
       "added_at": "2024-03-19 18:38:36",
@@ -755,22 +759,18 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
-        "name": "Puedo Con Esto (Fuera de Foco)",
-        "url": "https://open.spotify.com/album/6lUeoa01dpqJvnHuNt5vZO"
+        "name": "Santa Marta",
+        "url": "https://open.spotify.com/album/7AbVZLEloCWWhtGdeYZ3Rl"
       },
       "artists": [
         {
-          "name": "Plastilina",
-          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "Pez",
+          "url": "https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh"
         }
       ],
-      "duration_ms": 234792,
-      "name": "Puedo Con Esto (Fuera de Foco)",
-      "url": "https://open.spotify.com/track/11X6kG43B9w6uPLnx9ZlQf"
+      "duration_ms": 153418,
+      "name": "Adi\u00f3s Mundo Cruel",
+      "url": "https://open.spotify.com/track/0xR8MLrA5Eb0XW4wA8Nvzm"
     },
     {
       "added_at": "2024-03-19 18:38:36",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
+        "name": "Una Comedia Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
+      },
+      "artists": [
+        {
+          "name": "Valentin y Los Volcanes",
+          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
+        }
+      ],
+      "duration_ms": 224031,
+      "name": "Son\u00e1mbulos",
+      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 192389,
       "name": "CABEZAS DEL TIEMPO",
       "url": "https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
-        "name": "Una Comedia Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
-      },
-      "artists": [
-        {
-          "name": "Valentin y Los Volcanes",
-          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
-        }
-      ],
-      "duration_ms": 224031,
-      "name": "Son\u00e1mbulos",
-      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
     },
     {
       "added_at": "2024-03-19 18:38:36",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
-        "name": "Tranki Town",
-        "url": "https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk"
-      },
-      "artists": [
-        {
-          "name": "El Chacal & Los Alpes Floreados",
-          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 233671,
-      "name": "La Poesia Intermitente",
-      "url": "https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
         "name": "Nuevos miedos - Nadie va a decidir por vos",
         "url": "https://open.spotify.com/album/0PxQldH41ENWpTMyX3buKN"
       },
@@ -1291,38 +1271,22 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
-        "name": "Promesas",
-        "url": "https://open.spotify.com/album/5DmptR4gEoK8MeXCSv9OUB"
+        "name": "Tranki Town",
+        "url": "https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk"
       },
       "artists": [
         {
-          "name": "Atr\u00e1s Hay Truenos",
-          "url": "https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz"
-        }
-      ],
-      "duration_ms": 271451,
-      "name": "Promesas",
-      "url": "https://open.spotify.com/track/3asMi5LP1FVnb8D2hs0b8D"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
-        "name": "Curriculum Completo",
-        "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "El Chacal & Los Alpes Floreados",
+          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
         },
         {
-          "name": "Lautaro Lopez",
-          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
         }
       ],
-      "duration_ms": 145401,
-      "name": "Curriculum Completo",
-      "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
+      "duration_ms": 233671,
+      "name": "La Poesia Intermitente",
+      "url": "https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD"
     },
     {
       "added_at": "2024-03-19 18:38:36",
@@ -1347,6 +1311,42 @@
       "duration_ms": 202827,
       "name": "NT al sol",
       "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
+        "name": "Curriculum Completo",
+        "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        },
+        {
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+        }
+      ],
+      "duration_ms": 145401,
+      "name": "Curriculum Completo",
+      "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
+        "name": "Promesas",
+        "url": "https://open.spotify.com/album/5DmptR4gEoK8MeXCSv9OUB"
+      },
+      "artists": [
+        {
+          "name": "Atr\u00e1s Hay Truenos",
+          "url": "https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz"
+        }
+      ],
+      "duration_ms": 271451,
+      "name": "Promesas",
+      "url": "https://open.spotify.com/track/3asMi5LP1FVnb8D2hs0b8D"
     },
     {
       "added_at": "2024-03-19 18:38:36",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
+        "name": "Boca Seca",
+        "url": "https://open.spotify.com/album/5IjUVrNB5VrrI9aa5jLLqn"
+      },
+      "artists": [
+        {
+          "name": "Pow",
+          "url": "https://open.spotify.com/artist/2dSudyzJnqfrIA4ymWjNqB"
+        }
+      ],
+      "duration_ms": 107000,
+      "name": "Boca Seca",
+      "url": "https://open.spotify.com/track/7IunvqW7OiT60hZBxcuTaQ"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
         "name": "Mi Generaci\u00f3n",
         "url": "https://open.spotify.com/album/5cfherksWvvP9ou8gMS8dj"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 208689,
       "name": "Promesa",
       "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
-        "name": "Boca Seca",
-        "url": "https://open.spotify.com/album/5IjUVrNB5VrrI9aa5jLLqn"
-      },
-      "artists": [
-        {
-          "name": "Pow",
-          "url": "https://open.spotify.com/artist/2dSudyzJnqfrIA4ymWjNqB"
-        }
-      ],
-      "duration_ms": 107000,
-      "name": "Boca Seca",
-      "url": "https://open.spotify.com/track/7IunvqW7OiT60hZBxcuTaQ"
     },
     {
       "added_at": "2024-03-19 18:38:36",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
-        "name": "LA ARA\u00d1A",
-        "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        }
-      ],
-      "duration_ms": 208962,
-      "name": "LA ARA\u00d1A",
-      "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
         "name": "Ceremonia",
         "url": "https://open.spotify.com/album/516TbYe7ZRYOyFxkhTnq1J"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 194937,
       "name": "Ceremonia",
       "url": "https://open.spotify.com/track/5YnCVGrhkkCjh23v2c8Bld"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
+        "name": "LA ARA\u00d1A",
+        "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "duration_ms": 208962,
+      "name": "LA ARA\u00d1A",
+      "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
     }
   ],
   "unique_name": "6PM Indie",

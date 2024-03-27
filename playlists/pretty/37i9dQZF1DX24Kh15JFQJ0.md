@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Sawyer Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,442 likes - 189 songs - 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,438 likes - 189 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 111 | [Tiger By The Tail](https://open.spotify.com/track/7jRNqtVCBvXa1XzJJCqwng) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I Don't Know A Thing About Love: The Songs of Harlan Howard](https://open.spotify.com/album/4lO42iHAoge8T139BkRc8S) | 2:24 |
 | 112 | [Love Is A Drug](https://open.spotify.com/track/58y6xP2i8ZqOOESY07JVgQ) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Love Is A Drug / I Wish It Would Rain](https://open.spotify.com/album/7gbG82sQF8gfbnCFXFpJS7) | 2:58 |
 | 113 | [Road to Abilene](https://open.spotify.com/track/45ydzAYHp2rMDSJ74MLavY) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [100 Proof Neon](https://open.spotify.com/album/02B2WEMDla9LbPR9Jg1BZG) | 4:00 |
-| 114 | [Amazed \(The Frontmen Edition\)](https://open.spotify.com/track/44Q65CdxQI5enOQjdHNZfs) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [Familiar Faces](https://open.spotify.com/album/1IJk3ueX658qXNVN0uLM1p) | 4:00 |
+| 114 | [Amazed \(The Frontmen Edition\)](https://open.spotify.com/track/0DGjyZEHzV23R4cONay47B) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/6OCYKKnUjbxEV0fxAGRqYA) | 4:00 |
 | 115 | [Ain't No Use \- From The Vault](https://open.spotify.com/track/50aKHapLGhTMwUhWTvQkkn) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life \(35th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7GN562ELq8Sfvy7RruWk7U) | 2:58 |
 | 116 | [Saltwater Cowboy](https://open.spotify.com/track/2zJEa1T4mpFdoCvUNTo59a) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Saltwater Cowboy](https://open.spotify.com/album/1j8ubAkNpMdJs8qUmvIB17) | 2:49 |
 | 117 | [10\-4](https://open.spotify.com/track/13JH4T5Vwy9bZ9g2Yene4Y) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji), [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p), [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [Bad Case of the Good Ole Boy](https://open.spotify.com/album/0Ns3824RcYOCJzq2VZdiVP) | 3:07 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 188 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 |
 | 189 | [Born Ready](https://open.spotify.com/track/532uB7VNAJi3V6uRcLIKPm) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [Born Ready](https://open.spotify.com/album/40PSbH50uUot5MIjIvqm9G) | 2:55 |
 
-Snapshot ID: `MCxhZmZmZWQ3NmE1MjMwN2RhMzdlZmIwYWQwYzMxNjQ3NWZkZjk4Y2Vi`
+Snapshot ID: `MCxmMTdlNTZlNmY3MThkYmFmNzc2MGNjYTAwM2QzN2M2NWE4M2NiOTM0`

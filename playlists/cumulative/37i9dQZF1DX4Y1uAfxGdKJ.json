@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Eve I",
+        "url": "https://open.spotify.com/album/2L1ywSLmZHHYK3bMMvJDmF"
+      },
+      "artists": [
+        {
+          "name": "Far Orange",
+          "url": "https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Eve I",
+      "url": "https://open.spotify.com/track/6n7JkfomVUrGXVIMoNDZR6"
+    },
+    {
+      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/0iK59pBranztef9NbvtK1F"
       },
@@ -1457,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Just Like a Fire",
+        "url": "https://open.spotify.com/album/7d2xxDThiNT7y8dnxizKG9"
+      },
+      "artists": [
+        {
+          "name": "West & Zander",
+          "url": "https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412968,
+      "name": "Just Like a Fire",
+      "url": "https://open.spotify.com/track/5GbV5r0eRBC1I0AqQM9bU8"
+    },
+    {
+      "album": {
         "name": "Keep Them Alive",
         "url": "https://open.spotify.com/album/2szJ6N7MDi2ekOSNO6BWs2"
       },
@@ -1872,6 +1908,24 @@
       "duration_ms": 207000,
       "name": "Once Upon A World",
       "url": "https://open.spotify.com/track/0OsxgJTV7hlPz6AkSW2Luz"
+    },
+    {
+      "album": {
+        "name": "ONLY ONE",
+        "url": "https://open.spotify.com/album/3hi0kJU3YSfjvE87aI5UAp"
+      },
+      "artists": [
+        {
+          "name": "Caspian",
+          "url": "https://open.spotify.com/artist/1f10N5xKYd8z0y1IgCGHFe"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "ONLY ONE",
+      "url": "https://open.spotify.com/track/1VySFfG8KbxI4SSMl4jZ5z"
     },
     {
       "album": {
@@ -2473,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "Sciphy",
+        "url": "https://open.spotify.com/album/4UT8ceG2QpXQFsedZV7T5U"
+      },
+      "artists": [
+        {
+          "name": "Azucares",
+          "url": "https://open.spotify.com/artist/4nBe4luXcnZ8QqpoyZq4OC"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172943,
+      "name": "Sciphy",
+      "url": "https://open.spotify.com/track/1tABYQIq5YhJjMOYPFKSxT"
+    },
+    {
+      "album": {
         "name": "Seadrift",
         "url": "https://open.spotify.com/album/6EQYRA1zDcrhK0N9faGKbe"
       },
@@ -2524,6 +2596,24 @@
       "duration_ms": 156814,
       "name": "Serenity Lake",
       "url": "https://open.spotify.com/track/15eqN6GPpzHGifzihLGsGr"
+    },
+    {
+      "album": {
+        "name": "Severance: Extended Versions",
+        "url": "https://open.spotify.com/album/14PI5CNTYIzOeRYxucvaNh"
+      },
+      "artists": [
+        {
+          "name": "Blue Saga",
+          "url": "https://open.spotify.com/artist/3EUYJ46gohBhdmS96WqsbF"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490269,
+      "name": "Shift Trust (Extended Version)",
+      "url": "https://open.spotify.com/track/6SuMHpEZiA4d449N7uAIrY"
     },
     {
       "album": {
@@ -2787,6 +2877,24 @@
     },
     {
       "album": {
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/3xrQafDuEf98L7KMLWdsRC"
+      },
+      "artists": [
+        {
+          "name": "Heyson",
+          "url": "https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187599,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/2dg8QqhiOBLhblkDTMHIlP"
+    },
+    {
+      "album": {
         "name": "Autograph",
         "url": "https://open.spotify.com/album/1RiVyB6YIkv3cwCtnzVwE9"
       },
@@ -2838,6 +2946,42 @@
       "duration_ms": 227796,
       "name": "Type 1",
       "url": "https://open.spotify.com/track/2Z515QtI12xintnkboGQZw"
+    },
+    {
+      "album": {
+        "name": "Under The Impression",
+        "url": "https://open.spotify.com/album/6cBX1LMi0RAXQfksMIw586"
+      },
+      "artists": [
+        {
+          "name": "The Pleasure Principle",
+          "url": "https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167855,
+      "name": "Under The Impression",
+      "url": "https://open.spotify.com/track/0kdhJpAOgHfD95FbpPhFOv"
+    },
+    {
+      "album": {
+        "name": "Unwind",
+        "url": "https://open.spotify.com/album/08ePa0heewLPWS4XogNoSS"
+      },
+      "artists": [
+        {
+          "name": "Sobbel Sosch",
+          "url": "https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130169,
+      "name": "Unwind",
+      "url": "https://open.spotify.com/track/5OUkIjHE8ZDYHYOlFmFbgH"
     },
     {
       "album": {

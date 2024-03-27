@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 67321,
+  "num_followers": 67342,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzhjYTNlYWNjMDRiOTQ0YWZhODQ2YzBhNjAzNzExM2MwYzk1MzU1",
+  "snapshot_id": "MCw1MDA3MzFjOTVjYjFhNzMxYzI1ZmQzNzc3ZDI4ZTdiMWEzMjEzOTIx",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Nina Kraviz",
-        "url": "https://open.spotify.com/album/4obvGroj4Sg4PbuLfdhFSo"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Ghetto Kraviz",
-      "url": "https://open.spotify.com/track/1vYUnLz9DfpJCnGB77UFFJ"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Trinity",
         "url": "https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 443026,
       "name": "Trinity - Amelie Lens Remix",
       "url": "https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Nina Kraviz",
+        "url": "https://open.spotify.com/album/4obvGroj4Sg4PbuLfdhFSo"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Ghetto Kraviz",
+      "url": "https://open.spotify.com/track/1vYUnLz9DfpJCnGB77UFFJ"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Luscious Rain",
-        "url": "https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "Luscious Rain",
-      "url": "https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "The Only Way Out Is Through",
         "url": "https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 494109,
       "name": "The Only Way Out Is Through",
       "url": "https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Luscious Rain",
+        "url": "https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Luscious Rain",
+      "url": "https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Between Dreams and Reality EP",
-        "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
-      },
-      "artists": [
-        {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
-        },
-        {
-          "name": "Niko Schwind",
-          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
-        }
-      ],
-      "duration_ms": 528410,
-      "name": "Between Dreams and Reality - Niko Schwind Remix",
-      "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Retrograde",
         "url": "https://open.spotify.com/album/7MZG3LSOOdw5tfFFN9OJUs"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 277567,
       "name": "Nektar Leftie MIX - Erdbeerschnitzel Remix",
       "url": "https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Between Dreams and Reality EP",
+        "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        },
+        {
+          "name": "Niko Schwind",
+          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
+        }
+      ],
+      "duration_ms": 528410,
+      "name": "Between Dreams and Reality - Niko Schwind Remix",
+      "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
     },
     {
       "added_at": "2023-06-09 18:05:35",

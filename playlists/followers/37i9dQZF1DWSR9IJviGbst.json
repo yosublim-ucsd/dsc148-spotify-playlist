@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 20863,
+  "2024-03-27": 20915,
   "date_first_scraped": "2022-11-15",
   "description": "Get into the flow of the forest, with relaxing natural water sounds of small creeks and calming streams.",
   "name": "Gentle Stream Water Sounds",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 200213,
       "name": "A Creek In The Jungle",
       "url": "https://open.spotify.com/track/6sCXRYcWRoyFaHp2WzBb8T"
@@ -147,6 +147,24 @@
       "duration_ms": 156000,
       "name": "Blue Stream",
       "url": "https://open.spotify.com/track/5qjGUHHKNozzMnw987lVry"
+    },
+    {
+      "album": {
+        "name": "Bubbling Icy Water Stream",
+        "url": "https://open.spotify.com/album/5VEazxjCoUdivpD0tnIMn6"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreamscapes",
+          "url": "https://open.spotify.com/artist/2V47h5lwR5mzKe8JV3LQpA"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274031,
+      "name": "Bubbling Icy Water Stream",
+      "url": "https://open.spotify.com/track/5D7lreuXAE8jUSBqwUbODU"
     },
     {
       "album": {
@@ -359,7 +377,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 198000,
       "name": "Flod i skogen",
       "url": "https://open.spotify.com/track/3RfktG11RapLgNH1qgHWgc"
@@ -600,6 +618,24 @@
     },
     {
       "album": {
+        "name": "Lonely River",
+        "url": "https://open.spotify.com/album/4rVxJYIv94lZyf6i5JQell"
+      },
+      "artists": [
+        {
+          "name": "LBE Nature Recordings",
+          "url": "https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179934,
+      "name": "Lonely River",
+      "url": "https://open.spotify.com/track/6dfbeC2j0b2k5EfpnmeObP"
+    },
+    {
+      "album": {
         "name": "River Spirit",
         "url": "https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT"
       },
@@ -629,7 +665,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 125192,
       "name": "Meditative River",
       "url": "https://open.spotify.com/track/5adT6DQtuNZX19CV8AOQq0"
@@ -755,7 +791,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 147600,
       "name": "Rippling Stream",
       "url": "https://open.spotify.com/track/7DcoQUbnca3hPw7V0DuwjV"
@@ -845,7 +881,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 155213,
       "name": "Rushing Stream",
       "url": "https://open.spotify.com/track/4nf0arXczGpdXTMi401O1m"
@@ -899,7 +935,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 132902,
       "name": "Soothing Spring Creek Sound",
       "url": "https://open.spotify.com/track/1ELff1MF9KFsGkrpGBPXcC"
@@ -935,7 +971,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 231183,
       "name": "Sound Of The Brook",
       "url": "https://open.spotify.com/track/7uowYLfmCRzUsGsWUGUTZR"
@@ -1086,6 +1122,50 @@
     },
     {
       "album": {
+        "name": "Colombian River Whispers",
+        "url": "https://open.spotify.com/album/7Mj6iXGWzUe9xoDuQISgpL"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Vozterra",
+          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140970,
+      "name": "Water Flow in Chicaque",
+      "url": "https://open.spotify.com/track/16Ddstciib0lxlkZ70uOTp"
+    },
+    {
+      "album": {
+        "name": "Colombian River Whispers",
+        "url": "https://open.spotify.com/album/7Mj6iXGWzUe9xoDuQISgpL"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Vozterra",
+          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150528,
+      "name": "Water Flow in Guantanfur",
+      "url": "https://open.spotify.com/track/7G1L1ksCD8IC931JWmLCHM"
+    },
+    {
+      "album": {
         "name": "Watching a Stream",
         "url": "https://open.spotify.com/album/4ybbKDO27Hq3uVbhEdGWrk"
       },
@@ -1137,6 +1217,24 @@
       "duration_ms": 156808,
       "name": "Winter River",
       "url": "https://open.spotify.com/track/5FXaMOQhFTRqTq2srk6EU0"
+    },
+    {
+      "album": {
+        "name": "With River Sounds Of The Pyrenean Mountains I",
+        "url": "https://open.spotify.com/album/3LdiyryxMoNJNQLusiplvu"
+      },
+      "artists": [
+        {
+          "name": "Relaxing The Mind",
+          "url": "https://open.spotify.com/artist/44wFi6rFvY5u6U69UNnwSr"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296207,
+      "name": "With River Sounds Of The Pyrenean Mountains I",
+      "url": "https://open.spotify.com/track/1sr2HsnjJNqXEj1et1lE95"
     },
     {
       "album": {

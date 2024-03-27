@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: JVKE
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,126 likes - 93 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,152 likes - 93 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 92 | [Don't Wanna Know](https://open.spotify.com/track/1OSrkd1JuVQXQJaGE5joFY) | [Ryan Case](https://open.spotify.com/artist/2MCUmcEXeY80S0aSucQsXn), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Don't Wanna Know](https://open.spotify.com/album/5iAqHK3ZuBqgcXaIDNCEjl) | 2:45 |
 | 93 | [Creature \- Remix](https://open.spotify.com/track/2tv8ppFp8QeGsWxk9I05az) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Creature \(Remix\)](https://open.spotify.com/album/1ARlBuNQfm3t9pljmDwbsv) | 6:56 |
 
-Snapshot ID: `MCw0NDczZGRjMGQ0NDcyNGNlYjg2OTBhODE0ZDAyOGZmOTFlMjNjMDYz`
+Snapshot ID: `MCwyYmZlZDA1MTAwYzMxMGI5YjdhZmI1MjhkNzc0MzMwZDQwM2E4OWFm`

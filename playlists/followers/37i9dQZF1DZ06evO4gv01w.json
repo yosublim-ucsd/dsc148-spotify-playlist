@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 27172,
+  "2024-03-27": 27186,
   "date_first_scraped": "2022-08-06",
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
   "name": "This Is Larkin Poe",
@@ -2515,6 +2515,28 @@
       "duration_ms": 164693,
       "name": "Tom Devil",
       "url": "https://open.spotify.com/track/2PuIl8FZD4khF7lAt4UK2t"
+    },
+    {
+      "album": {
+        "name": "Live From Telluride",
+        "url": "https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198040,
+      "name": "Travelin' Light - Live",
+      "url": "https://open.spotify.com/track/5TXhMT91DxzUbOvPQXJOex"
     },
     {
       "album": {

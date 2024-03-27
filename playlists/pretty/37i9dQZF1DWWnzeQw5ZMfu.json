@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Niall Horan",
-  "num_followers": 69007,
+  "num_followers": 69013,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmU3MWQ2ZjhlMDFhZGYxMTA1Yzc2OTU5OWZiNThmZjI1YmI3OTEy",
+  "snapshot_id": "MCw0NWU4NGVmNzVlNzg4NWIwNWJmODE4ZjJlNDQwYzZhYzg5MGMzM2Ix",
   "tracks": [
     {
       "added_at": "2024-02-13 05:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Cassy O' (EP)",
-        "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "Budapest - Live from Spotify Stockholm",
-      "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Where the Light Is: John Mayer Live In Los Angeles",
         "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 230800,
       "name": "Waiting On the World to Change - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
       "url": "https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Cassy O' (EP)",
+        "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 209306,
+      "name": "Budapest - Live from Spotify Stockholm",
+      "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "MTV Unplugged EP",
-        "url": "https://open.spotify.com/album/0jpGebANqbNNKbWHq2XhEM"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 239733,
-      "name": "Emotions - Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992",
-      "url": "https://open.spotify.com/track/5a7ftvz1gh9lbxGmLCCzz1"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Gloria (Special Edition)",
         "url": "https://open.spotify.com/album/5BNUgsVK7qqfFnV046qHfW"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 253671,
       "name": "Stay With Me - Live From The Royal Albert Hall",
       "url": "https://open.spotify.com/track/41qam5MCYe9vBnSmX3FeOH"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "MTV Unplugged EP",
+        "url": "https://open.spotify.com/album/0jpGebANqbNNKbWHq2XhEM"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 239733,
+      "name": "Emotions - Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992",
+      "url": "https://open.spotify.com/track/5a7ftvz1gh9lbxGmLCCzz1"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Live 1976 - 1998: Tonight's the Night",
-        "url": "https://open.spotify.com/album/6427BkrSWr5rVBOEWcYILd"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 307173,
-      "name": "I Don't Want to Talk About It - Live at Newcastle, England, 12/17/1976",
-      "url": "https://open.spotify.com/track/1ADpmLJK8WhPEIZM3ZaQTK"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Chasing Time: The Bedlam Sessions",
         "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 288146,
       "name": "Goodbye My Lover - Live in Ireland",
       "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Live 1976 - 1998: Tonight's the Night",
+        "url": "https://open.spotify.com/album/6427BkrSWr5rVBOEWcYILd"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 307173,
+      "name": "I Don't Want to Talk About It - Live at Newcastle, England, 12/17/1976",
+      "url": "https://open.spotify.com/track/1ADpmLJK8WhPEIZM3ZaQTK"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Progress Live",
-        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
-      },
-      "artists": [
-        {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
-        }
-      ],
-      "duration_ms": 314240,
-      "name": "Back For Good - Progress Tour Live / 2011",
-      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Havana (Live)",
         "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 248572,
       "name": "Havana - Live",
       "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Progress Live",
+        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "duration_ms": 314240,
+      "name": "Back For Good - Progress Tour Live / 2011",
+      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 248394,
-      "name": "The A Team - Live and in Session",
-      "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Before You Go EP",
         "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 225047,
       "name": "Before You Go - Live from Brixton Academy, London, 2019",
       "url": "https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 248394,
+      "name": "The A Team - Live and in Session",
+      "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
     },
     {
       "added_at": "2024-02-13 05:00:00",

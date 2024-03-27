@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 539638,
+  "num_followers": 539668,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDNlMGVhNjc0Njg2NDU0YjFkZTZkNDAyZjliYWFlZGE0NTk1M2Ji",
+  "snapshot_id": "MCxmNmZlNjc5YWEzMTc2YjU1NmM2MzEwNjFhZGMyYmUzNzhjMTA5YWY5",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Seven Thunders Roar",
-        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
+        "name": "Sunrise On The Sufferbus",
+        "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
       },
       "artists": [
         {
-          "name": "Stoned Jesus",
-          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+          "name": "Masters Of Reality",
+          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
         }
       ],
-      "duration_ms": 961942,
-      "name": "I'm the Mountain",
-      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
+      "duration_ms": 213333,
+      "name": "Rabbit One",
+      "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Sunrise On The Sufferbus",
-        "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
+        "name": "Seven Thunders Roar",
+        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
       },
       "artists": [
         {
-          "name": "Masters Of Reality",
-          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
+          "name": "Stoned Jesus",
+          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Rabbit One",
-      "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
+      "duration_ms": 961942,
+      "name": "I'm the Mountain",
+      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 301840,
+      "name": "I'll Cut You Down",
+      "url": "https://open.spotify.com/track/2f9K9Gm9CLj0eKFW3BQZE8"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Dopes To Infinity",
         "url": "https://open.spotify.com/album/6Dh8ASautDuCAtsWebqyGS"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 580237,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 301840,
-      "name": "I'll Cut You Down",
-      "url": "https://open.spotify.com/track/2f9K9Gm9CLj0eKFW3BQZE8"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 435213,
+      "name": "Death's Door",
+      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Warp Riders",
         "url": "https://open.spotify.com/album/4APeNJPvYBUTRTF3OLUCUT"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 529232,
       "name": "Road to Burn",
       "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 435213,
-      "name": "Death's Door",
-      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Love Like Machines",
-        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Eyes",
-          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "King of Cowards",
         "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 349330,
       "name": "GNT",
       "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Love Like Machines",
+        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Eyes",
+          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Thornwyck Hymn",
-        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
-      },
-      "artists": [
-        {
-          "name": "My Dying Bride",
-          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
-        }
-      ],
-      "duration_ms": 407783,
-      "name": "Thornwyck Hymn",
-      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Only a Suggestion",
         "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 282160,
       "name": "The Bottle",
       "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Thornwyck Hymn",
+        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
+      },
+      "artists": [
+        {
+          "name": "My Dying Bride",
+          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
+        }
+      ],
+      "duration_ms": 407783,
+      "name": "Thornwyck Hymn",
+      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Great American Death Rattle",
-        "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
+        "name": "Head Smashed In",
+        "url": "https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5"
       },
       "artists": [
         {
-          "name": "Youngblood Supercult",
-          "url": "https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7"
+          "name": "We Hunt Buffalo",
+          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
         }
       ],
-      "duration_ms": 244720,
-      "name": "The Great American Death Rattle",
-      "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
+      "duration_ms": 290949,
+      "name": "Heavy Low",
+      "url": "https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Head Smashed In",
-        "url": "https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5"
+        "name": "The Great American Death Rattle",
+        "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
       },
       "artists": [
         {
-          "name": "We Hunt Buffalo",
-          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
+          "name": "Youngblood Supercult",
+          "url": "https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7"
         }
       ],
-      "duration_ms": 290949,
-      "name": "Heavy Low",
-      "url": "https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T"
+      "duration_ms": 244720,
+      "name": "The Great American Death Rattle",
+      "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Witching Hour",
-        "url": "https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q"
-      },
-      "artists": [
-        {
-          "name": "Doctor Smoke",
-          "url": "https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV"
-        }
-      ],
-      "duration_ms": 300666,
-      "name": "The Seeker",
-      "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Tales of the Wicked West",
         "url": "https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 318023,
       "name": "(If You Want the Smoke) Be the Fire",
       "url": "https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The Witching Hour",
+        "url": "https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q"
+      },
+      "artists": [
+        {
+          "name": "Doctor Smoke",
+          "url": "https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV"
+        }
+      ],
+      "duration_ms": 300666,
+      "name": "The Seeker",
+      "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
     },
     {
       "added_at": "2024-02-09 05:00:00",

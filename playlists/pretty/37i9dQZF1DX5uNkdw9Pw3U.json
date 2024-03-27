@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 153354,
+  "num_followers": 153656,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMThhYTQ2ZmRiYTk5MGE0ZDJmNDRhYmQ2ZGIyZTI1NzE4YzM1Mjk1",
+  "snapshot_id": "MCw4YzNiZDRkZWRlZDZmYjk4NzAzOTE5NDNmMjE5ZjlmNDE0OWQ2Mjk2",
   "tracks": [
     {
       "added_at": "2024-03-21 23:00:00",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 265373,
+      "name": "Appletree",
+      "url": "https://open.spotify.com/track/2jAn0rAOyLW6hIEuIDNcoT"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "Appletree",
-      "url": "https://open.spotify.com/track/2jAn0rAOyLW6hIEuIDNcoT"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Coco Blood",
-        "url": "https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 215848,
-      "name": "Coco Blood",
-      "url": "https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Let The Morning Come",
         "url": "https://open.spotify.com/album/64BdSNPkLVXReRgCVNe29H"
       },
@@ -1199,22 +1183,18 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Hyperion",
-        "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
+        "name": "Coco Blood",
+        "url": "https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k"
       },
       "artists": [
         {
-          "name": "Gesaffelstein",
-          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
-        },
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
         }
       ],
-      "duration_ms": 216560,
-      "name": "So Bad (feat. HAIM)",
-      "url": "https://open.spotify.com/track/2qre5YuCk0fuKw0Z60E28W"
+      "duration_ms": 215848,
+      "name": "Coco Blood",
+      "url": "https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1235,6 +1215,26 @@
       "duration_ms": 211920,
       "name": "Queen Tings - Santi Remix",
       "url": "https://open.spotify.com/track/4EOVChDG9c5HX5jrNdBDd6"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Hyperion",
+        "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
+      },
+      "artists": [
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "So Bad (feat. HAIM)",
+      "url": "https://open.spotify.com/track/2qre5YuCk0fuKw0Z60E28W"
     },
     {
       "added_at": "2024-03-21 23:00:00",

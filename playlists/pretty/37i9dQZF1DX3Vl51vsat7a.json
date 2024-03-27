@@ -1,12 +1,12 @@
 {
   "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Jazeek",
-  "num_followers": 25426,
+  "num_followers": 25439,
   "original_name": "RADAR GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzZkZmJlYTcyODY0M2Q2MDRlY2Y0YjE1NmFjY2UwZjlhMjYzNmVl",
+  "snapshot_id": "MCxmMzMwY2M0YTk4Y2Q1YTgwMDlhNzEzNjU3ODFlYTc2Mjg1ZWIwOGE5",
   "tracks": [
     {
       "added_at": "2024-03-21 23:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "Immer wenn du weinst",
+        "url": "https://open.spotify.com/album/0ksQY1tGoSYQMweAYgmOpB"
+      },
+      "artists": [
+        {
+          "name": "Kynda Gray",
+          "url": "https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX"
+        }
+      ],
+      "duration_ms": 150852,
+      "name": "Immer wenn du weinst",
+      "url": "https://open.spotify.com/track/6GYGIEVQHFbYV5AvkJD8Mp"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Walls",
         "url": "https://open.spotify.com/album/4baIsWWMXbmfBg8d93VAU1"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 147000,
       "name": "Fucked Up.",
       "url": "https://open.spotify.com/track/1nIUFAIo5U4Yc1KsnnnPz0"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Immer wenn du weinst",
-        "url": "https://open.spotify.com/album/0ksQY1tGoSYQMweAYgmOpB"
-      },
-      "artists": [
-        {
-          "name": "Kynda Gray",
-          "url": "https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX"
-        }
-      ],
-      "duration_ms": 150852,
-      "name": "Immer wenn du weinst",
-      "url": "https://open.spotify.com/track/6GYGIEVQHFbYV5AvkJD8Mp"
     },
     {
       "added_at": "2024-03-21 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: Fabian Mazur
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,199 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,224 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 65 | [Thief \- Flux Pavilion Remix](https://open.spotify.com/track/6btkdvumrTmcFzy3oFpZqS) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Thief \(Flux Pavilion Remix\)](https://open.spotify.com/album/4kFd3dIqukGfolHILzWddZ) | 4:31 |
 | 66 | [Birdz](https://open.spotify.com/track/3LEztKH305u3WRpqKdG9Ch) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 2:42 |
 | 67 | [Anything](https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Anything](https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL) | 3:46 |
-| 68 | [The One \- NGHTMRE Remix](https://open.spotify.com/track/0z6BBM8lek2dzvnuIOX1Wx) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [The One \(The Remixes\)](https://open.spotify.com/album/1pZ4Bycse2Ck26SkSZHNGS) | 2:40 |
-| 69 | [Only Be Me](https://open.spotify.com/track/4E4gQUWMUbi0lOf98qqtuv) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Only Be Me](https://open.spotify.com/album/18jDao69dC593MEAZheoyA) | 3:28 |
+| 68 | [Only Be Me](https://open.spotify.com/track/4E4gQUWMUbi0lOf98qqtuv) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Only Be Me](https://open.spotify.com/album/18jDao69dC593MEAZheoyA) | 3:28 |
+| 69 | [The One \- NGHTMRE Remix](https://open.spotify.com/track/0z6BBM8lek2dzvnuIOX1Wx) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [The One \(The Remixes\)](https://open.spotify.com/album/1pZ4Bycse2Ck26SkSZHNGS) | 2:40 |
 | 70 | [dontstopme!](https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) | 3:41 |
 | 71 | [Reaper \(feat\. JID\)](https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Reaper \(feat\. JID\)](https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg) | 2:44 |
 | 72 | [Sober](https://open.spotify.com/track/3XlHlWFhlI4OZiguOMcuuc) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Sober](https://open.spotify.com/album/5QAitMOxUFNdCzmbpkdGwt) | 3:44 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 97 | [Eden \(feat\. fussy\)](https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [Eden \(feat\. fussy\)](https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj) | 2:56 |
 | 98 | [ABRACADABRA](https://open.spotify.com/track/6Xdh9gHP0JJAEFQbz60PKf) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [ABRACADABRA](https://open.spotify.com/album/74Dy1dquFmryKSxtw8mlKY) | 2:48 |
 | 99 | [LOYAL](https://open.spotify.com/track/0XTC88XX9rerDucl82skTW) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [LOYAL](https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI) | 4:15 |
-| 100 | [Who's Laughing Now](https://open.spotify.com/track/6gjSaRvPS9Nv5yAfNfp19n) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Who's Laughing Now](https://open.spotify.com/album/48EADwiXTyVHcFPjllMsww) | 2:55 |
+| 100 | [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 |
 
-Snapshot ID: `MCw2ZWM2ODg5Njg5Nzg5ZTVjOTQ4ODNkODU5ZTUzYjhhOWUzNmQyOWQ5`
+Snapshot ID: `MCxlOGU5MGQ4MDUxYmJhZjk5MjU3YzI2YWRkN2QwOWQ2OGQ5NWZhZjNi`

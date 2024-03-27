@@ -1,12 +1,12 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 539285,
+  "num_followers": 539398,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Zjg3YmZmZmZkOGMzODVhODc0NDE0ZTRlZjk4OGQxOWE5ODJmYzRm",
+  "snapshot_id": "MCw1M2E5YzQyZjcxYmQ0YWE1YjM5ODMzM2ZkM2RjMjM4ZWM5ZGNlYzRl",
   "tracks": [
     {
       "added_at": "2023-11-25 18:30:00",
@@ -571,6 +571,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/1MbrZrYLnEb7PK28rX7Nug"
+      },
+      "artists": [
+        {
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+        },
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "You Make Me Feel - Radio Version",
+      "url": "https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "Stupid as Fvck (Physis Remix)",
         "url": "https://open.spotify.com/album/5rKCuh31YA9TKTnt4u5cSD"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 329565,
       "name": "Stupid as Fvck (Physis Remix)",
       "url": "https://open.spotify.com/track/7sR7TTMwNmLvQWSMgAr16f"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "You Make Me Feel",
-        "url": "https://open.spotify.com/album/1MbrZrYLnEb7PK28rX7Nug"
-      },
-      "artists": [
-        {
-          "name": "Ghost Rider",
-          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
-        },
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        }
-      ],
-      "duration_ms": 159642,
-      "name": "You Make Me Feel - Radio Version",
-      "url": "https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1087,6 +1087,30 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "Sun & Moon (Blastoyz Remix)",
+        "url": "https://open.spotify.com/album/7ySVLJX79BVx2eCAu0oUQG"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        },
+        {
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        }
+      ],
+      "duration_ms": 211002,
+      "name": "Sun & Moon - Blastoyz Remix",
+      "url": "https://open.spotify.com/track/4co3il6gimSyfEgN9MV4cl"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/6KslRrpR7Bao2FZskC5MWI"
       },
@@ -1111,30 +1135,6 @@
       "duration_ms": 343098,
       "name": "Crossroads (Remix)",
       "url": "https://open.spotify.com/track/5pBEiBE1cCShb5fDt8973h"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "Sun & Moon (Blastoyz Remix)",
-        "url": "https://open.spotify.com/album/7ySVLJX79BVx2eCAu0oUQG"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
-        },
-        {
-          "name": "Blastoyz",
-          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
-        }
-      ],
-      "duration_ms": 211002,
-      "name": "Sun & Moon - Blastoyz Remix",
-      "url": "https://open.spotify.com/track/4co3il6gimSyfEgN9MV4cl"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1171,22 +1171,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Music Is My Remedy",
-        "url": "https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v"
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g"
       },
       "artists": [
         {
-          "name": "Fabio Fusco",
-          "url": "https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7"
+          "name": "DNA",
+          "url": "https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs"
         },
         {
-          "name": "livicious",
-          "url": "https://open.spotify.com/artist/02nXRBdOSxeWufeaydQITx"
+          "name": "Weaver",
+          "url": "https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW"
         }
       ],
-      "duration_ms": 306857,
-      "name": "Music Is My Remedy",
-      "url": "https://open.spotify.com/track/6jzgprpVQTyDlNHD8E8jEI"
+      "duration_ms": 211467,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1219,22 +1219,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g"
+        "name": "Music Is My Remedy",
+        "url": "https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v"
       },
       "artists": [
         {
-          "name": "DNA",
-          "url": "https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs"
+          "name": "Fabio Fusco",
+          "url": "https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7"
         },
         {
-          "name": "Weaver",
-          "url": "https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW"
+          "name": "livicious",
+          "url": "https://open.spotify.com/artist/02nXRBdOSxeWufeaydQITx"
         }
       ],
-      "duration_ms": 211467,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5"
+      "duration_ms": 306857,
+      "name": "Music Is My Remedy",
+      "url": "https://open.spotify.com/track/6jzgprpVQTyDlNHD8E8jEI"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1263,30 +1263,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "STFD (Remix)",
-        "url": "https://open.spotify.com/album/7I7kTiZ5UcBnkIHbgzoJ4A"
-      },
-      "artists": [
-        {
-          "name": "Omiki",
-          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
-        },
-        {
-          "name": "WHITENO1SE",
-          "url": "https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2"
-        },
-        {
-          "name": "TeZATalks",
-          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
-        }
-      ],
-      "duration_ms": 178206,
-      "name": "STFD (Remix)",
-      "url": "https://open.spotify.com/track/3cr4nLS3rbzII8fqvsDO5N"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Be Right",
         "url": "https://open.spotify.com/album/2QNCS4JDIBqgNdj7m8P99x"
       },
@@ -1307,6 +1283,30 @@
       "duration_ms": 500281,
       "name": "Be Right - Asgard Remix",
       "url": "https://open.spotify.com/track/3w4iGiKW0BM8B6M8MNMvxa"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "STFD (Remix)",
+        "url": "https://open.spotify.com/album/7I7kTiZ5UcBnkIHbgzoJ4A"
+      },
+      "artists": [
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        },
+        {
+          "name": "WHITENO1SE",
+          "url": "https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2"
+        },
+        {
+          "name": "TeZATalks",
+          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
+        }
+      ],
+      "duration_ms": 178206,
+      "name": "STFD (Remix)",
+      "url": "https://open.spotify.com/track/3cr4nLS3rbzII8fqvsDO5N"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1355,30 +1355,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/3DhPzL19TNQPuwdDeodmbB"
-      },
-      "artists": [
-        {
-          "name": "Fabio Fusco",
-          "url": "https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7"
-        },
-        {
-          "name": "Joicey",
-          "url": "https://open.spotify.com/artist/1WIFMGTZTCJGz8rrENkqcK"
-        },
-        {
-          "name": "Umali",
-          "url": "https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D"
-        }
-      ],
-      "duration_ms": 275142,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/39hp7lSe0QPktFxKkWBI2B"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Behind",
         "url": "https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt"
       },
@@ -1395,6 +1371,22 @@
       "duration_ms": 273375,
       "name": "Behind",
       "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Shroomeez",
+        "url": "https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "duration_ms": 390011,
+      "name": "You Wanna Stay",
+      "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1419,18 +1411,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Shroomeez",
-        "url": "https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ"
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/3DhPzL19TNQPuwdDeodmbB"
       },
       "artists": [
         {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+          "name": "Fabio Fusco",
+          "url": "https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7"
+        },
+        {
+          "name": "Joicey",
+          "url": "https://open.spotify.com/artist/1WIFMGTZTCJGz8rrENkqcK"
+        },
+        {
+          "name": "Umali",
+          "url": "https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D"
         }
       ],
-      "duration_ms": 390011,
-      "name": "You Wanna Stay",
-      "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"
+      "duration_ms": 275142,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/39hp7lSe0QPktFxKkWBI2B"
     },
     {
       "added_at": "2023-11-25 18:30:00",

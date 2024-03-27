@@ -4,7 +4,7 @@
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-277 songs - 17 hr 58 min
+278 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 | 2022-07-22 |  |
 | [Here You Come Again \(Live\)](https://open.spotify.com/track/4oOr8nwiZhNZ3c8pKMyQnN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly: Live From London](https://open.spotify.com/album/2mAGpWPHQofWAvXBzgwDOG) | 2:58 | 2021-07-23 | 2022-07-29 |
 | [High Horse \- Live](https://open.spotify.com/track/0AdY7cFPnpKkJ07VGfHDtp) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Country Stars \- Live In Concert, Vol\. 2](https://open.spotify.com/album/29hUC3uJrY8eQ3CO2j5L9L) | 2:14 | 2021-07-23 | 2022-07-29 |
-| [Hillbilly Rock](https://open.spotify.com/track/6CCW2iEsdeMuZdPG6lQkhX) | [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Live At The Ryman](https://open.spotify.com/album/1ye7noRBfTS6r3oHzmdVPo) | 3:20 | 2021-07-23 |  |
+| [Hillbilly Rock](https://open.spotify.com/track/6CCW2iEsdeMuZdPG6lQkhX) | [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Live At The Ryman](https://open.spotify.com/album/1ye7noRBfTS6r3oHzmdVPo) | 3:20 | 2021-07-23 | 2024-03-27 |
 | [Honey \(Open That Door\) \- Live](https://open.spotify.com/track/4xHEfT45YsIzh6iw205QuA) | [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [Live In London](https://open.spotify.com/album/6wS7wMRDUFWVL8w2VwbW4b) | 5:58 | 2021-07-23 | 2022-07-24 |
 | [Honey, I'm Home \- Live](https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 3:42 | 2021-07-23 |  |
 | [Honky Tonk Heroes \- Live in Texas \- September 1974](https://open.spotify.com/track/5VFBSbf9T8iNy4NiwQStCK) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Waylon Live \(Expanded Edition\)](https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1) | 2:56 | 2021-07-23 |  |
@@ -187,6 +187,7 @@
 | [No Show Jones \- Live](https://open.spotify.com/track/1g9sqR4lYUdnMBgJFl9ROo) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [First Time Live!](https://open.spotify.com/album/5s1MPTu5UPqVqZEkCCVpkp) | 2:58 | 2021-07-23 |  |
 | [Okie From Muskogee \- Live In Muskogee, Oklahoma/1969](https://open.spotify.com/track/4b65hP5xZvthkSTkCSJuVs) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Okie From Muskogee \(Live In Muskogee, Oklahoma/1969\)](https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6) | 4:08 | 2021-07-23 |  |
 | [On the Road Again \- Live at Nassau Coliseum, Uniondale, NY \- March 1990](https://open.spotify.com/track/6kiBHtPe8GfNhLygAO2jiv) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live \- American Outlaws](https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR) | 3:38 | 2021-07-23 |  |
+| [One Love at a Time \(Live\)](https://open.spotify.com/track/3PIIbTbMjXI8RwmVcHBSwb) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker \(Live\)](https://open.spotify.com/album/7rTySU4fukk9B5JjH397Rl) | 2:51 | 2023-07-24 |  |
 | [One Love at a Time \- Live](https://open.spotify.com/track/0wsW51hyoSL0oklKtEf8BT) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker \(Live\)](https://open.spotify.com/album/00RtdmPhqhOzXJJDLHWPpa) | 2:51 | 2021-07-23 | 2023-11-04 |
 | [Paradise \(feat\. John Prine\) \- Live](https://open.spotify.com/track/4kCZXaOyaoiRiDqi6aZxOu) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Circlin' Back \- Celebrating 50 Years \(Live\)](https://open.spotify.com/album/2Wjlh7SC5R4sEJrlCm5N8l) | 3:58 | 2021-07-23 | 2024-02-19 |
 | [Pickup Man](https://open.spotify.com/track/0dYb05jHQoXM3PBG4jqjfT) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Live at Billy Bob's Texas](https://open.spotify.com/album/1gA6nGDzQBcRV63knLUHWp) | 3:30 | 2021-07-23 | 2022-07-29 |

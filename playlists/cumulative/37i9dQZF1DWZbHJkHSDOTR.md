@@ -4,7 +4,7 @@
 
 > Our editors’ picks for the best of R&B in Canada in 2023\. Cover: SZA
 
-259 songs - 14 hr 43 min
+260 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,9 +47,10 @@
 | [Come As You Are](https://open.spotify.com/track/2Zqhpc70C1E9rsZpK6b4q4) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Come As You Are](https://open.spotify.com/album/6XaNdyhuuqggoEE4umcfjk) | 3:31 | 2021-12-09 | 2022-12-01 |
 | [Come Over](https://open.spotify.com/track/1PjlJyLVv53xSRwD0KzvX9) | [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08), [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Come Over](https://open.spotify.com/album/7lvNlojG1C0yBwVfOc42MS) | 4:00 | 2022-11-30 | 2023-11-30 |
 | [Corazón](https://open.spotify.com/track/2NwGsgYpGT9ta65bxgzdtb) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Corazón](https://open.spotify.com/album/3k9dqyw1PdOMrf8oIHtzQy) | 3:18 | 2021-12-09 | 2022-12-01 |
+| [Counting Thunder](https://open.spotify.com/track/0SmOA3Fb5OTMVkG1k99Uo1) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 3:18 | 2023-11-29 |  |
 | [Counting Thunder](https://open.spotify.com/track/0s754byjLl95PM4g25ZSmT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Counting Thunder](https://open.spotify.com/album/3tPOrTz9PROAgrRWkiL1x8) | 3:18 | 2023-11-29 | 2024-03-02 |
 | [Counting Thunder](https://open.spotify.com/track/2KNqYDH4eHT15G6pzYreYO) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Nothing Else Feels The Same](https://open.spotify.com/album/5qBY1K1C7QoXWlmZ2yvV5L) | 3:18 | 2023-11-29 | 2024-03-23 |
-| [Counting Thunder](https://open.spotify.com/track/5WGQVpI3jQhYKpVWGynxt3) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Counting Thunder](https://open.spotify.com/album/10Gc83ePeJBJmOJemmzLXN) | 3:18 | 2023-11-29 |  |
+| [Counting Thunder](https://open.spotify.com/track/5WGQVpI3jQhYKpVWGynxt3) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Counting Thunder](https://open.spotify.com/album/10Gc83ePeJBJmOJemmzLXN) | 3:18 | 2023-11-29 | 2024-03-27 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2023-11-29 |  |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-11-30 | 2023-11-30 |
 | [CUFF IT \- WETTER REMIX](https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [CUFF IT](https://open.spotify.com/album/7BJjZgzGzpll0t8CEzjILs) | 4:09 | 2023-11-29 |  |

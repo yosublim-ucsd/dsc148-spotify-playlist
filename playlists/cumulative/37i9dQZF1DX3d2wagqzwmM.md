@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Maddix
 
-419 songs - 22 hr 6 min
+420 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Switch Back](https://open.spotify.com/track/1M0hRg4ccFGMqi00ITrxNv) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Switch Back](https://open.spotify.com/album/5b6uOk8B0jOexZIOqOrt3x) | 2:45 | 2022-04-14 | 2023-02-17 |
 | [Synergy](https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Synergy](https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4) | 3:29 | 2023-04-13 | 2023-09-15 |
 | [Take Me Away Again](https://open.spotify.com/track/2meQ2wSIBU8OQDKlJcJk5j) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Take Me Away Again](https://open.spotify.com/album/3FOqjkgC6qqes6K3Ejly3B) | 3:25 | 2023-01-26 | 2024-01-05 |
+| [Take Me Back](https://open.spotify.com/track/7vvNxVTviMy2dwIhaziOab) | [NGD Project](https://open.spotify.com/artist/43ljqQ6a2nZ0VVjv3ocf9q), [Steeper](https://open.spotify.com/artist/2uTLykyg4Wk5zBw3Xttmsh) | [Take Me Back](https://open.spotify.com/album/4XCFFpSnvapubSs8rUcrkp) | 2:49 | 2024-03-21 |  |
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2022-04-21 | 2022-05-01 |
 | [TARAKA \- Tiësto Remix](https://open.spotify.com/track/3tDhrE0UftmIEuPwBLUf7d) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TARAKA \(Tiësto Remix\)](https://open.spotify.com/album/6busnvOpzGXyFGe7hJXMa3) | 4:24 | 2022-12-02 | 2023-12-21 |
 | [Techno Party](https://open.spotify.com/track/4GT1NVYkxsN3grh7zclyLa) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Murotani](https://open.spotify.com/artist/3fTYN3plW2oMZXGZf7JQWX) | [Techno Party](https://open.spotify.com/album/3e6xQP58Y5f2VHOpxNpsYh) | 3:17 | 2022-09-01 | 2024-03-15 |
@@ -422,7 +423,7 @@
 | [When We Come Alive](https://open.spotify.com/track/0g2XaTyNihXISfqnhuv7HH) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [When We Come Alive](https://open.spotify.com/album/3SLVzlIVvgjPdRqkc58WA1) | 3:00 | 2023-04-20 | 2024-03-15 |
 | [Whiskey Is My Holy Water](https://open.spotify.com/track/06BqWvPX05oFRxpMlNZZjh) | [Avao](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Whiskey Is My Holy Water](https://open.spotify.com/album/7s2Rdu06bmjbS4sKA50KKN) | 2:18 | 2022-12-27 | 2023-07-21 |
 | [Won't Forget You \(Felix Jaehn Remix Edit\)](https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Won't Forget You \(Remixes\)](https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD) | 3:04 | 2022-06-09 | 2024-03-15 |
-| [WUTT](https://open.spotify.com/track/2jxHmWJCL5XMGCySVf2NbJ) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [WUTT](https://open.spotify.com/album/6vucmSOhJo0JUzKDRyMlRP) | 3:21 | 2024-03-14 |  |
+| [WUTT](https://open.spotify.com/track/2jxHmWJCL5XMGCySVf2NbJ) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [WUTT](https://open.spotify.com/album/6vucmSOhJo0JUzKDRyMlRP) | 3:21 | 2024-03-14 | 2024-03-27 |
 | [Yama](https://open.spotify.com/track/6IDkdabcsyZmLQDCMtp6An) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Tribal Dance](https://open.spotify.com/artist/2r7acJfhCrsNO9ZGbUmEsS), [Natalie Wamba Berry](https://open.spotify.com/artist/1TU11mChSWbprSRoe6U6Uj) | [Yama](https://open.spotify.com/album/7BjfV0rMyrzWItnLITmUZu) | 3:16 | 2022-04-14 | 2022-11-18 |
 | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx) | 2:50 | 2022-11-03 | 2023-04-09 |
 | [You Don't Know](https://open.spotify.com/track/4sXrwNmYfg5x5CCfKpxYiO) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [You Don't Know](https://open.spotify.com/album/2U506HHxpTv7cpl4v7zUpN) | 3:15 | 2022-04-14 | 2022-07-29 |

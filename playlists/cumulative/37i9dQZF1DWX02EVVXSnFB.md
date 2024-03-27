@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-157 songs - 10 hr 43 min
+158 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [How Many Zeros](https://open.spotify.com/track/4XkmtOHgvRbINOOctmsX3M) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR) | 3:25 | 2022-03-23 | 2023-04-19 |
 | [I Can Make It Better](https://open.spotify.com/track/7w78Zzs19Mm0hyq9BfAvRq) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [The Complete Solar Hit Singles Collection](https://open.spotify.com/album/5BAfhvuiUfuxrVUHfF00SB) | 7:16 | 2023-09-28 |  |
 | [I Don't Want to Be a Freak \(But I Can't Help Myself\)](https://open.spotify.com/track/0T6oYSJ8kLPN7a02xpDRZ3) | [Dynasty](https://open.spotify.com/artist/7E8yETzDbHYASNxtFQysf7) | [Your Piece of the Rock](https://open.spotify.com/album/5lXVx3OhHsMNYdru5x0ANY) | 7:23 | 2023-04-18 | 2023-09-29 |
-| [I feel for you \- Original](https://open.spotify.com/track/3zAU6cqXVFTzz1Yvnw87x1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs elysées](https://open.spotify.com/album/7xRnsA4UR8FgkMOSsfnizs) | 5:50 | 2023-09-28 |  |
+| [I Feel for You](https://open.spotify.com/track/7opq9mMuTcHUXTY3EO3hym) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs Elysées](https://open.spotify.com/album/62DMpTTW3o6sYaNVYxtq2B) | 5:50 | 2023-09-28 |  |
+| [I feel for you \- Original](https://open.spotify.com/track/3zAU6cqXVFTzz1Yvnw87x1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs elysées](https://open.spotify.com/album/7xRnsA4UR8FgkMOSsfnizs) | 5:50 | 2023-09-28 | 2024-03-27 |
 | [I Like Where We're Going](https://open.spotify.com/track/5UHqx8hghNwPH0kAp4cwMR) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Golden Vessel Produced By Filous](https://open.spotify.com/album/2a22GfHU2FWvOvKG21Ldso) | 3:34 | 2023-09-28 |  |
 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 | 2022-03-23 | 2023-04-19 |
 | [I need my music!](https://open.spotify.com/track/73wlhFwM7B5Kzg1sI0euhg) | [DJU DJU](https://open.spotify.com/artist/3hoRYeKnynsSd1M5p3weO8) | [I need my music!](https://open.spotify.com/album/028udeD78py5rENSMHupq1) | 2:28 | 2022-03-23 | 2023-04-19 |

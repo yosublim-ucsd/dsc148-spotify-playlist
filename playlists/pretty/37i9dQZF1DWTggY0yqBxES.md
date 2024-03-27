@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Tierra Whack
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,172 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,284 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 4 | [SAME SHIT](https://open.spotify.com/track/1HbcnCKpPrIXjNPVIVyBHx) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [MEMENTO \(DELUXE\)](https://open.spotify.com/album/4ENhG6dvD8niF3TgWaqpER) | 1:37 |
 | 5 | [SLIP \(feat\. Toro Y Moi\)](https://open.spotify.com/track/734vfN47traLZvdCadj9VL) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [9](https://open.spotify.com/album/6j3Y7CxOySMhZQEQsWnzhL) | 3:41 |
 | 6 | [Ambrosia](https://open.spotify.com/track/0t4XPmrCs5f9JWo26yQdPz) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Ambrosia](https://open.spotify.com/album/6liLrRZ18eTnyKwKKdlhYB) | 3:06 |
-| 7 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
+| 7 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
 | 8 | [SNAKE EYES](https://open.spotify.com/track/0mwGp38d0uilKSuH4PiGXz) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [WORLD WIDE WHACK](https://open.spotify.com/album/128kgBRYqmfY4EjTOhiDWq) | 2:38 |
 | 9 | [My Body's My Coffin](https://open.spotify.com/track/6u1XMGGLkwPEJHjaKB5eND) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [My Body's My Coffin](https://open.spotify.com/album/0Axq02hDwH1qlocZPy4Xtn) | 2:34 |
 | 10 | [pradaponcho](https://open.spotify.com/track/6Y4JejQ1typSpsBYcbwVbZ) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj), [Pilotkid](https://open.spotify.com/artist/286FnZHn1jC2EwmR0HtCkG) | [jetsvm](https://open.spotify.com/album/6ywL1IfJGesqLYEZDjFFw9) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [For Free?](https://open.spotify.com/track/0rg7DxTa08fGuIONC3mDU3) | [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ) | [For Free?](https://open.spotify.com/album/3uamA6EQVoQzupXpke900F) | 3:13 |
 | 100 | [SHAKIN IT \(feat\. Cash Cobain\)](https://open.spotify.com/track/6fciDfvusfex0xul6qjNjW) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [LVL5 P2](https://open.spotify.com/album/7cVPqKEV2caeqpj7T2m7hm) | 2:54 |
 
-Snapshot ID: `MCw5NTQ2ZTk3MDE5NTI2MTYwZDk4NGZhZWFkN2MxOTgyZmM5Mjk1N2Y2`
+Snapshot ID: `MCxjN2I2ZmY4MjY5NjkyYjg1YjBmNjU5NGQ2ZGE2M2FlZjBkMWE1Mzdi`

@@ -3767,6 +3767,28 @@
     },
     {
       "album": {
+        "name": "No Idols",
+        "url": "https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ"
+      },
+      "artists": [
+        {
+          "name": "Domo Genesis",
+          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127026,
+      "name": "Fuck Everybody Else",
+      "url": "https://open.spotify.com/track/4UqvWxvygh6aTOXfXvvQd8"
+    },
+    {
+      "album": {
         "name": "Fuck Good Business",
         "url": "https://open.spotify.com/album/6lCLumKtwy6FzgUMrPkwe4"
       },
@@ -6692,6 +6714,28 @@
       "duration_ms": 208000,
       "name": "Mazel Tron",
       "url": "https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre"
+    },
+    {
+      "album": {
+        "name": "No Idols",
+        "url": "https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ"
+      },
+      "artists": [
+        {
+          "name": "Domo Genesis",
+          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185533,
+      "name": "Me And My Bitch",
+      "url": "https://open.spotify.com/track/1Kz0tgMRWsbLzEuzRaU1vP"
     },
     {
       "album": {
@@ -12174,6 +12218,24 @@
       "duration_ms": 175609,
       "name": "What Am I To Do",
       "url": "https://open.spotify.com/track/4TXPbHOeQE0Az7T71uybPu"
+    },
+    {
+      "album": {
+        "name": "LP!",
+        "url": "https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112451,
+      "name": "WHAT KIND OF RAPPIN' IS THIS?",
+      "url": "https://open.spotify.com/track/2dvgoGTEjoPWou8KdL9h1g"
     },
     {
       "album": {

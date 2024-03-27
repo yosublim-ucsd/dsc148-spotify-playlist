@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wTRh9H8LSC.md) - [plain]
 
 > Listen Heroine's music 24 Hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,642 likes - 39 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,649 likes - 39 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wTRh9H8LSC.md) - [plain]
 | 28 | [24 Hours](https://open.spotify.com/track/4ayWErdGIvSo4o6a3lMVLt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [24 Hours](https://open.spotify.com/album/4ag4tJmAksjMdxICMV83Aw) | 3:21 |
 | 29 | [ADDICT](https://open.spotify.com/track/2k75ZjRth50bLdyjFpAv7f) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr) | 1:52 |
 | 30 | [Curve](https://open.spotify.com/track/0dxN4KBx1LIneaq3Idtl3X) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr) | 3:37 |
-| 31 | [OH YEAH](https://open.spotify.com/track/3eTv0AJWT9abddyIboLd01) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [My fuxxxxx romance 01](https://open.spotify.com/album/6QEoy9NgTE3tpCoHgb4crc) | 4:12 |
+| 31 | [OH YEAH \(feat.SUNMI\)](https://open.spotify.com/track/3eTv0AJWT9abddyIboLd01) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [my fuxxxxx romance 01](https://open.spotify.com/album/6QEoy9NgTE3tpCoHgb4crc) | 4:12 |
 | 32 | [Secret Tape](https://open.spotify.com/track/2shjrcZS945n1zu1EaeOrH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr) | 1:32 |
 | 33 | [Full Moon](https://open.spotify.com/track/3klmHDE1vmBq6FYyPz0QE0) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Lena](https://open.spotify.com/artist/6W5bl0j5Wk58tJjVCwPefI) | [Full Moon](https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu) | 3:22 |
 | 34 | [24 Hours](https://open.spotify.com/track/4ayWErdGIvSo4o6a3lMVLt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [24 Hours](https://open.spotify.com/album/4ag4tJmAksjMdxICMV83Aw) | 3:21 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wTRh9H8LSC.md) - [plain]
 | 38 | [Time Is Up](https://open.spotify.com/track/6ZxavH9mJlUGYOSCdSplJs) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Full Moon](https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu) | 4:38 |
 | 39 | [If That Was You](https://open.spotify.com/track/2fQP5ZQmyXTcvjn8Jj6gTf) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Full Moon](https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu) | 3:47 |
 
-Snapshot ID: `MCxlMmQ3NTIxNTFmZjJhZDA5NGY5NTdlNWViZDU3ZDNkZGE3ODMxNzY4`
+Snapshot ID: `MCwwZWZiNjA3Yjc3MzZlMmFlNjEyM2ZhZjM3MWNjZDk3ZTljNmQ2Zjcw`

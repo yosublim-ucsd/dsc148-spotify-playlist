@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,889,633 likes - 292 songs - 14 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,889,893 likes - 292 songs - 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,26 +20,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 10 | [Aurora's Embrace](https://open.spotify.com/track/15xJU9AwlLlAwkcONJKVA2) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Aurora's Embrace](https://open.spotify.com/album/7zztbmjwx3irdB7sGoMNTs) | 2:59 |
 | 11 | [Duo Balance](https://open.spotify.com/track/5tOGY0zHGJUO59azKA1cCm) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Duo Balance](https://open.spotify.com/album/6PjOrX6MBCDJvEZMLxg7Kd) | 2:41 |
 | 12 | [Naira](https://open.spotify.com/track/7rd4nwqt8Z96RHzNZnB7tb) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Naira](https://open.spotify.com/album/2i3qCx7MuHHy7loaebcWxv) | 3:08 |
-| 13 | [Cavern](https://open.spotify.com/track/0W5UA7hd3hwOUwayBTFlFq) | [Lux Alba](https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz) | [Cavern](https://open.spotify.com/album/16XYv4B2UZuD9uw3fcs5U4) | 2:55 |
-| 14 | [Dusk's Embrace](https://open.spotify.com/track/0GRGJ6N5wWFpDTDqYJCzWU) | [Celestial Whisperer](https://open.spotify.com/artist/7xJlH4dRZABxHqqBaA9Pac) | [Dusk's Embrace](https://open.spotify.com/album/6FhmpveNERkdoEs6zRmVaR) | 2:46 |
-| 15 | [Ephemara](https://open.spotify.com/track/6MJP8z8GbPYyS69TvlrEL8) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Ephemara](https://open.spotify.com/album/1iPCFWvutN5Vrp8cpcBfTg) | 2:48 |
-| 16 | [Harenae](https://open.spotify.com/track/7z6uHkUQnSoGhuQfo0tpTw) | [Chasing The Eclipse](https://open.spotify.com/artist/7srCM8fl9JtX1OT0ZORcIC) | [Harenae](https://open.spotify.com/album/6u9kyFDk80raERDnaM9vfg) | 2:48 |
-| 17 | [Sleeper](https://open.spotify.com/track/42wQLkL4TdggBqHbvo6E14) | [Sylwana](https://open.spotify.com/artist/5ykD7uK6jVcdssmF8qcyaQ) | [Sleeper](https://open.spotify.com/album/0KZCisewEjpiSipGXtZF8f) | 3:03 |
-| 18 | [Let go](https://open.spotify.com/track/1NRLFIhFm333fvUE46FSC2) | [Nessa Wright](https://open.spotify.com/artist/1gHeUPUU5lLzMfodqksLEl) | [Let go](https://open.spotify.com/album/6PWKLG87gXfzghgqzQWJKb) | 2:21 |
-| 19 | [It Begins](https://open.spotify.com/track/2jONJzJJyxkiqu3mpIjR39) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [It Begins](https://open.spotify.com/album/0j2yDeXylsqDQS8QdBmGel) | 5:19 |
-| 20 | [Ethereal Requiem](https://open.spotify.com/track/0JjZi8EZaNdvOSq7cgMvQs) | [Iminum](https://open.spotify.com/artist/1xjezEibBtcDRYjpMxXOQX) | [Ethereal Requiem](https://open.spotify.com/album/41yPO40cJvvDZNo6xHMouU) | 3:15 |
-| 21 | [Driftwood](https://open.spotify.com/track/5IOSHTjNe5zUAGyfcsHcWy) | [Puddle of Head](https://open.spotify.com/artist/1PKiNVaiRPXCXRF3gqbMqi) | [Driftwood](https://open.spotify.com/album/3DXYDlXzdP8haFrB38a8aO) | 3:06 |
-| 22 | [Isolate My Soul](https://open.spotify.com/track/6E2bLDnK8ivZpPg3GHheAX) | [Stormfields](https://open.spotify.com/artist/1PlgaV9zKrbKabenfaMf0C) | [Isolate My Soul](https://open.spotify.com/album/6u2Zm39N2QvcXtZY4BeVA3) | 2:24 |
-| 23 | [Shadow Scape](https://open.spotify.com/track/5TGJIsUo3MOjlD2N88nHey) | [Ephemeral Odyssey](https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif) | [Shadow Scape](https://open.spotify.com/album/58jsMRx6Nn9pcTSqs7T37N) | 2:59 |
-| 24 | [Heima](https://open.spotify.com/track/6cb2ZbtBESjuwhKawvm9qg) | [Ronja Mair](https://open.spotify.com/artist/6ZUyQlJPTDM23KGIdnivNH) | [Heima](https://open.spotify.com/album/17h1RYnKGZhwoMYVDyWHAb) | 2:38 |
-| 25 | [Omegagigia](https://open.spotify.com/track/7bgTGa2DeDTFX8yIbjhl2s) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Omegagigia](https://open.spotify.com/album/64vtZ76endgd7UTXcuOmOU) | 2:53 |
-| 26 | [Calmness](https://open.spotify.com/track/0Yhhi1zOg9EPd9L1EKm2rL) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Calmness](https://open.spotify.com/album/3T2qoCs1p71NzQcYsgubDO) | 2:35 |
-| 27 | [Amigo](https://open.spotify.com/track/0WoUPm1OTP4VCRRWnxAUQw) | [Estienne Battier](https://open.spotify.com/artist/1C1PKWXXTSanOX47bqzqCD) | [Amigo](https://open.spotify.com/album/3vnCMe4Ef2eZKeTT9KDNoN) | 3:23 |
-| 28 | [Pelagos](https://open.spotify.com/track/4NdxzUIuzsbbcWg0FgAFuO) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Pelagos](https://open.spotify.com/album/6UT38vqmiWGEQkFbsJolrD) | 2:18 |
-| 29 | [Sumargola](https://open.spotify.com/track/5zQm7n2ahnvGa3ntYy569W) | [Afturkalla](https://open.spotify.com/artist/5oPcLgpF7oNZ7eiuTZsohZ) | [Sumargola](https://open.spotify.com/album/1FhinixtO382WgvThtedas) | 3:31 |
-| 30 | [Plein De Vie](https://open.spotify.com/track/7h3fcy1pUvEGtF2Nxmf4wo) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Plein De Vie](https://open.spotify.com/album/2cXCpvru1xID8Y4tWfP4oN) | 2:55 |
-| 31 | [Quivi](https://open.spotify.com/track/1iqljBbLrGmLYcap41EHP5) | [Bjørn Haugen](https://open.spotify.com/artist/7JUfFT5xvJ3qv0HZqQ8Tab) | [Aesthete](https://open.spotify.com/album/25yFdVOmSHUH4NdCswNrzT) | 3:13 |
-| 32 | [Nattord](https://open.spotify.com/track/5Vab4sH6FYCTPHEZHFlIhQ) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Nattord](https://open.spotify.com/album/5YlgpGdRTaSuCCUC9bdMuf) | 2:49 |
+| 13 | [Dusk's Embrace](https://open.spotify.com/track/0GRGJ6N5wWFpDTDqYJCzWU) | [Celestial Whisperer](https://open.spotify.com/artist/7xJlH4dRZABxHqqBaA9Pac) | [Dusk's Embrace](https://open.spotify.com/album/6FhmpveNERkdoEs6zRmVaR) | 2:46 |
+| 14 | [Ephemara](https://open.spotify.com/track/6MJP8z8GbPYyS69TvlrEL8) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Ephemara](https://open.spotify.com/album/1iPCFWvutN5Vrp8cpcBfTg) | 2:48 |
+| 15 | [Harenae](https://open.spotify.com/track/7z6uHkUQnSoGhuQfo0tpTw) | [Chasing The Eclipse](https://open.spotify.com/artist/7srCM8fl9JtX1OT0ZORcIC) | [Harenae](https://open.spotify.com/album/6u9kyFDk80raERDnaM9vfg) | 2:48 |
+| 16 | [Driftwood](https://open.spotify.com/track/5IOSHTjNe5zUAGyfcsHcWy) | [Puddle of Head](https://open.spotify.com/artist/1PKiNVaiRPXCXRF3gqbMqi) | [Driftwood](https://open.spotify.com/album/3DXYDlXzdP8haFrB38a8aO) | 3:06 |
+| 17 | [Shadow Scape](https://open.spotify.com/track/5TGJIsUo3MOjlD2N88nHey) | [Ephemeral Odyssey](https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif) | [Shadow Scape](https://open.spotify.com/album/58jsMRx6Nn9pcTSqs7T37N) | 2:59 |
+| 18 | [Heima](https://open.spotify.com/track/6cb2ZbtBESjuwhKawvm9qg) | [Ronja Mair](https://open.spotify.com/artist/6ZUyQlJPTDM23KGIdnivNH) | [Heima](https://open.spotify.com/album/17h1RYnKGZhwoMYVDyWHAb) | 2:38 |
+| 19 | [Pelagos](https://open.spotify.com/track/4NdxzUIuzsbbcWg0FgAFuO) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Pelagos](https://open.spotify.com/album/6UT38vqmiWGEQkFbsJolrD) | 2:18 |
+| 20 | [Calmness](https://open.spotify.com/track/0Yhhi1zOg9EPd9L1EKm2rL) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Calmness](https://open.spotify.com/album/3T2qoCs1p71NzQcYsgubDO) | 2:35 |
+| 21 | [Omegagigia](https://open.spotify.com/track/7bgTGa2DeDTFX8yIbjhl2s) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Omegagigia](https://open.spotify.com/album/64vtZ76endgd7UTXcuOmOU) | 2:53 |
+| 22 | [Amigo](https://open.spotify.com/track/0WoUPm1OTP4VCRRWnxAUQw) | [Estienne Battier](https://open.spotify.com/artist/1C1PKWXXTSanOX47bqzqCD) | [Amigo](https://open.spotify.com/album/3vnCMe4Ef2eZKeTT9KDNoN) | 3:23 |
+| 23 | [Sumargola](https://open.spotify.com/track/5zQm7n2ahnvGa3ntYy569W) | [Afturkalla](https://open.spotify.com/artist/5oPcLgpF7oNZ7eiuTZsohZ) | [Sumargola](https://open.spotify.com/album/1FhinixtO382WgvThtedas) | 3:31 |
+| 24 | [Plein De Vie](https://open.spotify.com/track/7h3fcy1pUvEGtF2Nxmf4wo) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Plein De Vie](https://open.spotify.com/album/2cXCpvru1xID8Y4tWfP4oN) | 2:55 |
+| 25 | [Ethereal Requiem](https://open.spotify.com/track/0JjZi8EZaNdvOSq7cgMvQs) | [Iminum](https://open.spotify.com/artist/1xjezEibBtcDRYjpMxXOQX) | [Ethereal Requiem](https://open.spotify.com/album/41yPO40cJvvDZNo6xHMouU) | 3:15 |
+| 26 | [Isolate My Soul](https://open.spotify.com/track/6E2bLDnK8ivZpPg3GHheAX) | [Stormfields](https://open.spotify.com/artist/1PlgaV9zKrbKabenfaMf0C) | [Isolate My Soul](https://open.spotify.com/album/6u2Zm39N2QvcXtZY4BeVA3) | 2:24 |
+| 27 | [Sleeper](https://open.spotify.com/track/42wQLkL4TdggBqHbvo6E14) | [Sylwana](https://open.spotify.com/artist/5ykD7uK6jVcdssmF8qcyaQ) | [Sleeper](https://open.spotify.com/album/0KZCisewEjpiSipGXtZF8f) | 3:03 |
+| 28 | [Let go](https://open.spotify.com/track/1NRLFIhFm333fvUE46FSC2) | [Nessa Wright](https://open.spotify.com/artist/1gHeUPUU5lLzMfodqksLEl) | [Let go](https://open.spotify.com/album/6PWKLG87gXfzghgqzQWJKb) | 2:21 |
+| 29 | [It Begins](https://open.spotify.com/track/2jONJzJJyxkiqu3mpIjR39) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [It Begins](https://open.spotify.com/album/0j2yDeXylsqDQS8QdBmGel) | 5:19 |
+| 30 | [Quivi](https://open.spotify.com/track/1iqljBbLrGmLYcap41EHP5) | [Bjørn Haugen](https://open.spotify.com/artist/7JUfFT5xvJ3qv0HZqQ8Tab) | [Aesthete](https://open.spotify.com/album/25yFdVOmSHUH4NdCswNrzT) | 3:13 |
+| 31 | [Nattord](https://open.spotify.com/track/5Vab4sH6FYCTPHEZHFlIhQ) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Nattord](https://open.spotify.com/album/5YlgpGdRTaSuCCUC9bdMuf) | 2:49 |
+| 32 | [Cavern](https://open.spotify.com/track/0W5UA7hd3hwOUwayBTFlFq) | [Lux Alba](https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz) | [Cavern](https://open.spotify.com/album/16XYv4B2UZuD9uw3fcs5U4) | 2:55 |
 | 33 | [Tidal Energy](https://open.spotify.com/track/7KuG4E1I7cNDaHo31R8Lzm) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Tidal Energy](https://open.spotify.com/album/01LVspS9Zhj3RDVsLcZqyP) | 2:46 |
 | 34 | [Placidus](https://open.spotify.com/track/0k5fYqZwhHGPxMxmLYg6gu) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [Placidus](https://open.spotify.com/album/6PoCmbDRnMT0gR02kQk2ra) | 3:15 |
 | 35 | [Aligne](https://open.spotify.com/track/09Y2QXKWb5cTg8GeHNK3L2) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Aligne](https://open.spotify.com/album/6AyW1mzv9XkoucZtDSdlxw) | 3:06 |
@@ -301,4 +301,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 291 | [Cosmogonie](https://open.spotify.com/track/6dCO7VelwRbF5m4RhimWSg) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Cosmogonie](https://open.spotify.com/album/25wiFsSWwhcLjb3fj3OCQm) | 2:51 |
 | 292 | [Profetia](https://open.spotify.com/track/3DjhYKmRHk0fq0fpb103nY) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Profetia](https://open.spotify.com/album/6iUHb3XJ0K7hxJ4grACdPV) | 2:55 |
 
-Snapshot ID: `MCxjN2JhNmI5YzkxOTA3ZDQxY2JjMDMyNzc3OGRhMWI2YzM2NTI1MDZm`
+Snapshot ID: `MCwyODNmNWI2ZTUwY2MwYmZmMjE2NGRmYWFmNTMzOWFkNTQzOTBiNDRh`

@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Ananda",
-  "num_followers": 363829,
+  "num_followers": 363825,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzFiOWYzNmY3ODY3ZTdhNTE0ODIxZTFlYTFjNWJlNmIwMzVmMDU5",
+  "snapshot_id": "MCxjNjk5MTg2YTNiNTkwMzNlMDYxZWY1ZDcwZDkzMjNjYzI0ZDVlYmNl",
   "tracks": [
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Segredos da Vida",
-        "url": "https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 142136,
-      "name": "Segredos da Vida",
-      "url": "https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "Brigas Demais - Live",
         "url": "https://open.spotify.com/album/0vCLrwZTtam4AFmvbNN0fC"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 257216,
       "name": "Brigas Demais - Live",
       "url": "https://open.spotify.com/track/0jezAU4LosmnZAYzw0z0hc"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Segredos da Vida",
+        "url": "https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 142136,
+      "name": "Segredos da Vida",
+      "url": "https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
+        "name": "Meu Mel",
+        "url": "https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v"
+      },
+      "artists": [
+        {
+          "name": "Bella Angel",
+          "url": "https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "Meu Mel",
+      "url": "https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
         "name": "Pro Dia Nascer Feliz",
         "url": "https://open.spotify.com/album/5dePvauWlTrFFIwPsA3EHB"
       },
@@ -1419,38 +1435,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Meu Mel",
-        "url": "https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v"
-      },
-      "artists": [
-        {
-          "name": "Bella Angel",
-          "url": "https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "Meu Mel",
-      "url": "https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
-        "name": "Tbt",
-        "url": "https://open.spotify.com/album/0gne4ChhTLG9gUvLSssiyr"
-      },
-      "artists": [
-        {
-          "name": "Ya Malb",
-          "url": "https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo"
-        }
-      ],
-      "duration_ms": 195115,
-      "name": "Tbt",
-      "url": "https://open.spotify.com/track/39ykOzUNFjg3lFNzDIOcVL"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "Tudo Meu",
         "url": "https://open.spotify.com/album/0JdAzfGhlWWcF3za66uSLK"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 145653,
       "name": "Tudo Meu",
       "url": "https://open.spotify.com/track/4R7e0VeGP4ouYYd3fJIsH9"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Tbt",
+        "url": "https://open.spotify.com/album/0gne4ChhTLG9gUvLSssiyr"
+      },
+      "artists": [
+        {
+          "name": "Ya Malb",
+          "url": "https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo"
+        }
+      ],
+      "duration_ms": 195115,
+      "name": "Tbt",
+      "url": "https://open.spotify.com/track/39ykOzUNFjg3lFNzDIOcVL"
     },
     {
       "added_at": "2024-03-22 03:00:00",

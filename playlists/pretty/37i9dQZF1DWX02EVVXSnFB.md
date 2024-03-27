@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,638 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,656 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 36 | [Revolution 909](https://open.spotify.com/track/5pgZpHqfv4TSomtkfGZGrG) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:35 |
 | 37 | [Sincere \- Re\-Cue'D](https://open.spotify.com/track/3ttQGouvKMlbI2bTgAMWup) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Nova Caspar](https://open.spotify.com/artist/3jslBrqnHkIjs2PSUKJae0), [jaydee](https://open.spotify.com/artist/7dkFT090qwJt2IDXvCZwNG) | [Sincere \(Deluxe\)](https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw) | 5:38 |
 | 38 | [You Can Win](https://open.spotify.com/track/7k6phfGndOSCfL4TZRtLft) | [Bileo](https://open.spotify.com/artist/7tQUtCKjvswULFCA0Em0GM) | [You Can Win](https://open.spotify.com/album/6otkaIE1aWQcD4Nky3wVNX) | 3:26 |
-| 39 | [I feel for you \- Original](https://open.spotify.com/track/3zAU6cqXVFTzz1Yvnw87x1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs elysées](https://open.spotify.com/album/7xRnsA4UR8FgkMOSsfnizs) | 5:50 |
+| 39 | [I Feel for You](https://open.spotify.com/track/7opq9mMuTcHUXTY3EO3hym) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs Elysées](https://open.spotify.com/album/62DMpTTW3o6sYaNVYxtq2B) | 5:50 |
 | 40 | [Iniesta Flow](https://open.spotify.com/track/1fZlxYXWrsus7bSPjX5Wng) | [namesbliss](https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM), [scruz](https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn) | [Iniesta Flow](https://open.spotify.com/album/5YBrDenVyOg6vDLjWed7Wz) | 2:19 |
 | 41 | [Get Down](https://open.spotify.com/track/0473Bknmv5jn7MPTg7ycVv) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [MXXWLL](https://open.spotify.com/artist/2KAcGNHkwCFJb7w19oaqmU) | [Get Down](https://open.spotify.com/album/6ab5EBgxUjhAW9seOny4Pe) | 3:03 |
 | 42 | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/track/2afb6GwatIa0DC1u9rd6Fu) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/album/7BIZ9jNR3XG7q6AsNs4z3e) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 49 | [Ya Mama](https://open.spotify.com/track/2jeKsuGqjv5dPbM15V9Kn8) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Halfway Between The Gutter And The Stars](https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst) | 5:38 |
 | 50 | [Confidence](https://open.spotify.com/track/3xwiyXuh6KLBCQhRfQqXa3) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Third](https://open.spotify.com/album/4zG3uvykSITw9ZRfkL6h0V) | 3:14 |
 
-Snapshot ID: `MCw3NDUwMjU5ZWI4MWJlY2M1ZDUzNDk1OTYzY2NmYmIzMjZkOTkwMjYy`
+Snapshot ID: `MCxkZjZhOWQxZmY3NWQ3MjQ5MWM1YTI1MTkwMzE0NDRmNTdhZTdlZDI2`

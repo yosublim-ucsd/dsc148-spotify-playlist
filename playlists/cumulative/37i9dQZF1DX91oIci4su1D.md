@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-865 songs - 2 day 4 hr 31 min
+866 songs - 2 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Dancing In The Stars \(With You\)](https://open.spotify.com/track/4vEBzVmIAbKSGtSMP45AuR) | [Triode](https://open.spotify.com/artist/6PeUGjC4XaZD1XysuYogDG), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Dancing In The Stars \(With You\)](https://open.spotify.com/album/5ETpVy3DQjIf9z7AiOArsr) | 4:19 | 2023-06-30 |  |
 | [Daring To Love \- Asteroid Remix](https://open.spotify.com/track/0wCHys665L3AYPLKFTsgn1) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf), [Asteroid](https://open.spotify.com/artist/7x3GRBRhJ7qQfDoOwVSoL4) | [Daring To Love \(Asteroid Remix\)](https://open.spotify.com/album/6NOjTC9X40RuF6uIq1BWkB) | 3:49 | 2023-02-10 | 2023-12-30 |
 | [Dark & Stormy](https://open.spotify.com/track/2RInAfucpwkL7daWgkkDak) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Dark & Stormy](https://open.spotify.com/album/2L34rnHuaw0PISekxAe9lw) | 3:02 | 2022-08-05 | 2023-06-10 |
-| [Dark Space](https://open.spotify.com/track/6rhOHHZEI2HYeX0ITWyKsg) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Dark Space](https://open.spotify.com/album/0bDnGw5zMrfCED5vtPGcWB) | 3:32 | 2024-02-16 |  |
+| [Dark Space](https://open.spotify.com/track/6rhOHHZEI2HYeX0ITWyKsg) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Dark Space](https://open.spotify.com/album/0bDnGw5zMrfCED5vtPGcWB) | 3:32 | 2024-02-16 | 2024-03-27 |
 | [Darker Days](https://open.spotify.com/track/6nLRlcRKSTYzcGzCZyZVuI) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6) | [Darker Days](https://open.spotify.com/album/0VwKfzQt7vMGJUhADRyUye) | 2:57 | 2023-07-07 | 2023-12-09 |
 | [Darkstate \(A Dreamstate Anthem\)](https://open.spotify.com/track/6UOw9DxwNWBVpbuYshKzIl) | [Joint Operations Centre](https://open.spotify.com/artist/1yBLCDLlLunLE5pBDt2da7) | [Darkstate \(A Dreamstate Anthem\)](https://open.spotify.com/album/4fV05qypGMoHz5BR0FMXkt) | 3:23 | 2023-04-07 | 2023-06-10 |
 | [Dawn](https://open.spotify.com/track/4OkpB4tHyv7YmkOyiRGYij) | [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb) | [Dawn](https://open.spotify.com/album/4NnWjmwfrlQluFAwql0euW) | 3:57 | 2023-07-21 | 2024-03-25 |
@@ -576,6 +576,7 @@
 | [Paralize](https://open.spotify.com/track/1HtRzQneyXgSqsVdbQksHK) | [Claas Inc.](https://open.spotify.com/artist/60KLxF0Dx9bxAV4YjkN4fA), [Amin Salmee](https://open.spotify.com/artist/4cddDQHcyoPKIqJhJCVETy) | [Paralize](https://open.spotify.com/album/1eNiKOroUsS5ve4m4R9Ec2) | 3:45 | 2022-07-22 | 2022-09-24 |
 | [Party On](https://open.spotify.com/track/61HB6vZxCpL9wuaxyZn7yh) | [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [Party On](https://open.spotify.com/album/4pbAf9YGHtyncoHiGnoIKe) | 3:22 | 2021-12-17 | 2023-02-25 |
 | [Path Of Light](https://open.spotify.com/track/5eJvKAK62imJiVq15kYYds) | [Yoel Lewis](https://open.spotify.com/artist/3NL4BIiZNFgeCkiVCRitKP), [EL Waves](https://open.spotify.com/artist/0A3ZPfG5yGOmuFh5UzNZBH) | [Path Of Light](https://open.spotify.com/album/5SA1DJoymS1JLBKBHaU6fp) | 3:07 | 2022-04-08 | 2023-06-10 |
+| [Pendulum](https://open.spotify.com/track/3c42Rmh1Tu8IkSY3TY6YJt) | [LÜRUM](https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO) | [Pendulum](https://open.spotify.com/album/4Gk2YY4XwnfDWKdS6mJbmV) | 3:33 | 2024-03-22 |  |
 | [Pendulum](https://open.spotify.com/track/6OXLmWLS8c5nih9TNMTp97) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [Pendulum](https://open.spotify.com/album/6JLJylUZxAtuMKBEWP3rue) | 3:54 | 2023-03-10 | 2023-12-09 |
 | [Pendulum \(GDJB Weekly Drive 7\)](https://open.spotify.com/track/6doOylSL3c6XYWWgNyVwT8) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [Global DJ Broadcast Weekly Drive 7](https://open.spotify.com/album/4mOWMjezqdVTRUU9m6ARCa) | 4:02 | 2023-11-17 |  |
 | [Phoenix in the Night](https://open.spotify.com/track/03gngsY2p3n9EDCHIYEJl4) | [Solar Vision](https://open.spotify.com/artist/4wd6bczppl4mNXPyhg0HT4) | [Phoenix in the Night](https://open.spotify.com/album/3uP7j1RY4GbWzrQyyIcT2f) | 3:49 | 2022-04-01 | 2022-05-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。今月のアンバサダー: LANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,082 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,085 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [FRIEND](https://open.spotify.com/track/4OsmrkuVLJe8ze6FJJxxzX) | [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ), [Tomodachi](https://open.spotify.com/artist/10b7iI7HzdtxZgCfPovith) | [FRIEND](https://open.spotify.com/album/5GQWA5bQcJAVSJf27W0wL4) | 3:11 |
 | 50 | [Wolf](https://open.spotify.com/track/1mjl6shDbIttccQj3ktzuB) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [Wolf](https://open.spotify.com/album/6aSz8m9KHNfymtKh3TDOE9) | 3:09 |
 
-Snapshot ID: `MCw0YzQ2ZjY3NmY5YWY2ZDA5NTVmODM4OWI1MTVjMmUwYmUyNzE3MjBh`
+Snapshot ID: `MCw1YmUwZTgxNTZkY2EwY2IzMjcwYWM5ODVhZjQ0ZjZiMmY4NTcwZjI4`

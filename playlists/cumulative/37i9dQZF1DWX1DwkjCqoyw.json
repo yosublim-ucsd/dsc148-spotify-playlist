@@ -304,7 +304,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 207157,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 145794,
       "name": "Bwoii Affi\" Watch Eh Style",
       "url": "https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 217464,
       "name": "Feelings (Remix)",
       "url": "https://open.spotify.com/track/5Bij2gXhLEUUxyPGcZZFFj"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 195476,
       "name": "GYALIS (Remix) [feat. Chris Brown & Popcaan]",
       "url": "https://open.spotify.com/track/4M8tmhoPrUN3W89SChMxba"
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "History",
       "url": "https://open.spotify.com/track/1nCHgECzuu3szJeVJQRnNq"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 119040,
       "name": "Mind My Business",
       "url": "https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz"
@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 183092,
       "name": "Moments",
       "url": "https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr"
@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 220964,
       "name": "Stay So",
       "url": "https://open.spotify.com/track/5Qdbkemkdk8syZXJQVabSf"
@@ -2644,7 +2644,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 195829,
       "name": "Vibe (feat. Popcaan)",
       "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
@@ -2662,7 +2662,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 148636,
       "name": "Vibes",
       "url": "https://open.spotify.com/track/1UWGmcBgQZH9govYtUoM4E"
@@ -2727,6 +2727,24 @@
     },
     {
       "album": {
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237458,
+      "name": "West Indies",
+      "url": "https://open.spotify.com/track/2OFvClbKLxtHeVMb3O1pOX"
+    },
+    {
+      "album": {
         "name": "West Indies",
         "url": "https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq"
       },
@@ -2760,7 +2778,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 181115,
       "name": "Whap Whap (feat. F.S.)",
       "url": "https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr"
@@ -2822,7 +2840,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 213840,
       "name": "WiFi",
       "url": "https://open.spotify.com/track/6ocqnSUAMMskrP3yDQdGxZ"
@@ -2902,7 +2920,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 130543,
       "name": "You're The One I Love (with Rvssian)",
       "url": "https://open.spotify.com/track/6x4Lxr3upD3MQsvxi6gePp"

@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-296 songs - 1 day 2 hr 50 min
+297 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Elemental Mood](https://open.spotify.com/track/1UU9CmBw1QQLdlqjhkE8U9) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Ballads](https://open.spotify.com/album/5TukPT8lJcjrx8tVMpuHg6) | 6:03 | 2022-03-11 |  |
 | [Embraceable You](https://open.spotify.com/track/0BJL88oEd6rgUyjD9T3Sz3) | [Atzko Kohashi](https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro), [Frans Van Der Hoeven](https://open.spotify.com/artist/43UY4tYgs9ksxkJxyowUTe), [Sebastiaan Kaptein](https://open.spotify.com/artist/2pJ8MtliDompiMC7eTKSI8) | [Lujon](https://open.spotify.com/album/6iL7O7Ks30wMWw7joi11FN) | 3:54 | 2022-09-16 | 2024-01-02 |
 | [Emily](https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI) | [Ben Besiakov](https://open.spotify.com/artist/5yZadAMrFsD1BPOC01DpJ4) | [The Art of Jazz with Ben Besiakov](https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3) | 5:19 | 2022-02-24 | 2022-08-31 |
+| [Epoxy](https://open.spotify.com/track/7EVHmaMYdis2boz4EjuXLO) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Epoxy](https://open.spotify.com/album/2zfXczQ2QKFX2eRj5Ooxw4) | 2:28 | 2024-03-22 |  |
 | [Eronel](https://open.spotify.com/track/1um3T5M9KAgWLDQk0IUzhh) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Un musicien \- Une histoire](https://open.spotify.com/album/4KRfiGU514jIczyXkQ4KK6) | 4:30 | 2020-03-31 | 2022-07-29 |
 | [Eronel](https://open.spotify.com/track/67tnJf77mVKMIOVcR1SQ2F) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Criss\-Cross \(Expanded Edition\)](https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI) | 4:30 | 2022-07-28 | 2023-08-25 |
 | [Every time we say goodbye](https://open.spotify.com/track/3oeUIbQyI22ymUFRAuZfuu) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN), [Marc van Rooij](https://open.spotify.com/artist/1EUHQilQkYWbsUQWe7SvDj), [Hans Van Oosterhout](https://open.spotify.com/artist/6F152Gyy69dlNrx8QZzxwV) | [Rob van Bavel Trio](https://open.spotify.com/album/6CoarHW26qMqQjvcz7P5jJ) | 5:11 | 2022-04-14 |  |
@@ -280,7 +281,7 @@
 | [There Will Never Be Another You](https://open.spotify.com/track/3Jj4zXCs23YMLcEFODQsfY) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [There Will Never Be Another You](https://open.spotify.com/album/7B3cO9ADwtUAV1vV3vCawT) | 3:55 | 2023-05-11 |  |
 | [There's A Small Hotel](https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 6:41 | 2020-03-31 | 2023-09-01 |
 | [There's Always A Way](https://open.spotify.com/track/1kILTrdSQFgpOSAeycMPAe) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [There's Always A Way](https://open.spotify.com/album/6i64NI6yiadQVZpDcljiqU) | 2:54 | 2023-05-25 |  |
-| [This Morning](https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V) | [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98) | [This Morning](https://open.spotify.com/album/4dUC48CIoIQfW6oSQFbhJs) | 5:04 | 2022-02-18 |  |
+| [This Morning](https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V) | [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98) | [This Morning](https://open.spotify.com/album/4dUC48CIoIQfW6oSQFbhJs) | 5:04 | 2022-02-18 | 2024-03-27 |
 | [Three Views Of A Secret](https://open.spotify.com/track/1AjplssYs6wbBE3NcKBsQ9) | [Bergsundet](https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA) | [Three Views Of A Secret](https://open.spotify.com/album/59iZJ2RyW9pzRO12nD4ah2) | 3:49 | 2023-12-08 |  |
 | [Tidal Breeze](https://open.spotify.com/track/4TRyfSh9IzlprJbTlMrWxl) | [Passport Quartet](https://open.spotify.com/artist/1sKCem3MqxDHeM5F5zAKfy), [Raphaël Imbert](https://open.spotify.com/artist/2FLekZm435IfyjMhb0JCIg) | [Invitation](https://open.spotify.com/album/6D6xpmmZhAg25csbBX8leD) | 1:13 | 2020-03-31 | 2022-04-21 |
 | [Time After Time](https://open.spotify.com/track/0ZciyueIR3Jl1gh4lbiLsk) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust](https://open.spotify.com/album/4xqrPtNB1AmM2qFLOCZ1GW) | 7:43 | 2020-03-31 | 2022-05-18 |

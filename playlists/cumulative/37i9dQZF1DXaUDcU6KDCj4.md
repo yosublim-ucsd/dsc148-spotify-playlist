@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Waxahatchee
 
-1,940 songs - 4 day 22 hr 19 min
+1,941 songs - 4 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,7 +811,8 @@
 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-04-08 | 2022-07-16 |
 | [I Won't Let You Go](https://open.spotify.com/track/6Tzq8VMhkc2Oq1SBlHtKNS) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Dreamland \(Deluxe Edition\)](https://open.spotify.com/album/2yKAk0fUsuKDpAHUEvQzbB) | 3:18 | 2022-09-16 | 2023-02-04 |
 | [I Won't Mention It Again](https://open.spotify.com/track/4ndhMKIjb18CyEW84R4phP) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [I Won't Mention It Again](https://open.spotify.com/album/455BgkjYWdEkJzwQxLb8Pp) | 2:51 | 2022-01-28 | 2022-03-26 |
-| [I'll Never Leave You Alone](https://open.spotify.com/track/57Xa77d97gAuxKxeTrgEj0) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [I'll Never Leave You Alone](https://open.spotify.com/album/5xRRnkMr4VvfBSiPRT7Nc4) | 3:59 | 2024-02-23 |  |
+| [I'll Never Leave You Alone](https://open.spotify.com/track/2A3EioYwwgeBT84WplFQ6Q) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [All Now](https://open.spotify.com/album/3N3I408c25BJ3PjmLP5Itg) | 3:59 | 2024-02-23 |  |
+| [I'll Never Leave You Alone](https://open.spotify.com/track/57Xa77d97gAuxKxeTrgEj0) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [I'll Never Leave You Alone](https://open.spotify.com/album/5xRRnkMr4VvfBSiPRT7Nc4) | 3:59 | 2024-02-23 | 2024-03-27 |
 | [I'm a Man](https://open.spotify.com/track/0x0BAh5h0ttabkoiWcv3Wo) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [I'm a Man](https://open.spotify.com/album/5quvKWbQnbnOLhRrQmt1Gn) | 3:01 | 2022-07-15 | 2022-10-08 |
 | [I'm Around](https://open.spotify.com/track/2zfxZsXityOS6bJYWNLgJR) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [I'm Around](https://open.spotify.com/album/7g1ir5F6KEuOJ8NUdZztfS) | 3:20 | 2023-10-20 | 2024-01-20 |
 | [I'm Just a Clown](https://open.spotify.com/track/4PHCjTOpWuaYDacBBNd7Ut) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I'm Just a Clown](https://open.spotify.com/album/2oDPcHYdkOy9pP7advhkVS) | 4:13 | 2022-07-15 | 2022-12-10 |

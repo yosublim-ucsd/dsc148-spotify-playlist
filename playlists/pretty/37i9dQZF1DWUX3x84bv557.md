@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Amina
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,891 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,902 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [Kalmeer Me](https://open.spotify.com/track/6kfxfUbKtyZbAdcW3zxz0E) | [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Kalmeer Me](https://open.spotify.com/album/60wpnUXyT43TFowNqrvw5f) | 3:04 |
 | 60 | [23](https://open.spotify.com/track/0z6xrWWeOlsxCwfvDbTuE0) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [23](https://open.spotify.com/album/16H5lY5PLYapy2BXLRQae2) | 2:50 |
 
-Snapshot ID: `MCwwMDBjMDUyNTM1NTIyNWVkOWI4NmFhYjFhN2Q4NWMzNjY3NDE1ZDRm`
+Snapshot ID: `MCwwMTk5YWQ5NzhmNzY0MjIzYWQzOWI2YjE3MTMyYmIwZjFiZDVmOWU4`

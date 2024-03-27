@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,875 likes - 53 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,961 likes - 53 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 52 | [Familia](https://open.spotify.com/track/7nlwjDDc7jNvb9sy8EcQCE) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:20 |
 | 53 | [El Ángel Que Te Cuida](https://open.spotify.com/track/2Biy7WyvcK7PWHtv6H23Ms) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [El Ángel Que Te Cuida](https://open.spotify.com/album/6ECJOBHCepwHMuziMDq202) | 2:45 |
 
-Snapshot ID: `Mjg1MjI4ODgsMDAwMDAwMDBiZmM3MjVkNDIxOTBjYTAzMDVkNTZjOTM3NmNjMWNjOQ==`
+Snapshot ID: `Mjg1MjQyMjcsMDAwMDAwMDBmYWYxYjNkNWUxODFjODZlMDRmNTA5MzgwYjQyN2E0ZQ==`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-12-07",
-  "description": "A salute to all of the women opening up the pit. Cover: Courtney LaPlante of Spiritbox",
+  "description": "A salute to all of the women opening up the pit. Cover: Cassyette",
   "name": "Heavy Queens",
   "tracks": [
     {
@@ -860,7 +860,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 256040,
       "name": "Burning Bridges",
       "url": "https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H"
@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 106331,
       "name": "FYB",
       "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 192000,
       "name": "Ghost Myself",
       "url": "https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT"
@@ -2260,7 +2260,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 131076,
       "name": "I am a Machine",
       "url": "https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC"
@@ -2985,6 +2985,24 @@
     },
     {
       "album": {
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/5vR3wPXSeLmGQqjcsTcJwQ"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214069,
+      "name": "Maverick",
+      "url": "https://open.spotify.com/track/1TxE8yxjFaKPEMpPy7FuLK"
+    },
+    {
+      "album": {
         "name": "Mayhem",
         "url": "https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH"
       },
@@ -3620,6 +3638,24 @@
       "duration_ms": 147666,
       "name": "Play the Greatest Hits",
       "url": "https://open.spotify.com/track/0rSuev4QLH0DydIV7PosuX"
+    },
+    {
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr"
+      },
+      "artists": [
+        {
+          "name": "BUNNY",
+          "url": "https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172653,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z"
     },
     {
       "album": {
@@ -5367,6 +5403,24 @@
     },
     {
       "album": {
+        "name": "WARZ0NE",
+        "url": "https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158175,
+      "name": "WARZ0NE",
+      "url": "https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP"
+    },
+    {
+      "album": {
         "name": "We Are One",
         "url": "https://open.spotify.com/album/2BaVfb1VtDzcadMTIld6Bb"
       },
@@ -5436,6 +5490,24 @@
       "duration_ms": 286941,
       "name": "welcome2paradise",
       "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
+    },
+    {
+      "album": {
+        "name": "When She Told Me",
+        "url": "https://open.spotify.com/album/6r3emSLfF17MpkJAXzd5Tt"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281800,
+      "name": "When She Told Me",
+      "url": "https://open.spotify.com/track/1uRF3CIh24PY17wR5v5k6Q"
     },
     {
       "album": {

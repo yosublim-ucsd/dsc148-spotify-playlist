@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 177323,
+  "num_followers": 177382,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmVkYjY2MmY5MGU1MmZlZjYxOWRkZmEzOTE3NjJkYjM3Y2YzNjFj",
+  "snapshot_id": "MCxlZjhkM2E2ZGQzNmZmNGVkOTI3NjA1OTYyY2VmY2EyNWQ2MGVmNDA2",
   "tracks": [
     {
       "added_at": "2024-03-01 12:45:26",
@@ -1033,6 +1033,22 @@
       "url": "https://open.spotify.com/track/0ycTj4BB8FFmFL6tWw7m6N"
     },
     {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1ZU8ySmsetup6DAWpGdOQ8"
+      },
+      "artists": [
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/0QEt8M7MzkUDdBWIML1cqE"
+    },
+    {
       "added_at": "2024-03-01 12:45:26",
       "album": {
         "name": "Brightest Lights Remixed",
@@ -1055,62 +1071,6 @@
       "duration_ms": 295597,
       "name": "How Often - Ben B\u00f6hmer Remix",
       "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
-    },
-    {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/1ZU8ySmsetup6DAWpGdOQ8"
-      },
-      "artists": [
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/0QEt8M7MzkUDdBWIML1cqE"
-    },
-    {
-      "added_at": "2024-03-01 12:45:26",
-      "album": {
-        "name": "Mwaki (Franky Wah Remix)",
-        "url": "https://open.spotify.com/album/44Y3edTo7tpWjwwGtQp6h3"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 217915,
-      "name": "Mwaki - Franky Wah Remix",
-      "url": "https://open.spotify.com/track/2Jwg3J8GugivOdk4VjoUK1"
-    },
-    {
-      "added_at": "2024-03-01 12:45:26",
-      "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm"
-      },
-      "artists": [
-        {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
-        }
-      ],
-      "duration_ms": 215645,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -1139,22 +1099,42 @@
     {
       "added_at": "2024-03-01 12:45:26",
       "album": {
-        "name": "Sunlight (Rodriguez Jr. Remix)",
-        "url": "https://open.spotify.com/album/4ghjVnOfgIDSq7mJ40tOGq"
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm"
       },
       "artists": [
         {
-          "name": "Lufthaus",
-          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
-        },
-        {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
         }
       ],
-      "duration_ms": 199897,
-      "name": "Sunlight - Rodriguez Jr. Remix",
-      "url": "https://open.spotify.com/track/6YbP1KNL5EizngkpQCidCy"
+      "duration_ms": 215645,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF"
+    },
+    {
+      "added_at": "2024-03-01 12:45:26",
+      "album": {
+        "name": "Mwaki (Franky Wah Remix)",
+        "url": "https://open.spotify.com/album/44Y3edTo7tpWjwwGtQp6h3"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 217915,
+      "name": "Mwaki - Franky Wah Remix",
+      "url": "https://open.spotify.com/track/2Jwg3J8GugivOdk4VjoUK1"
     },
     {
       "added_at": "2024-03-01 12:45:26",
@@ -1175,6 +1155,46 @@
     {
       "added_at": "2024-03-01 12:45:26",
       "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Solomon Grey",
+          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
+        }
+      ],
+      "duration_ms": 249677,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP"
+    },
+    {
+      "added_at": "2024-03-01 12:45:26",
+      "album": {
+        "name": "Sunlight (Rodriguez Jr. Remix)",
+        "url": "https://open.spotify.com/album/4ghjVnOfgIDSq7mJ40tOGq"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "duration_ms": 199897,
+      "name": "Sunlight - Rodriguez Jr. Remix",
+      "url": "https://open.spotify.com/track/6YbP1KNL5EizngkpQCidCy"
+    },
+    {
+      "added_at": "2024-03-01 12:45:26",
+      "album": {
         "name": "Celestia EP",
         "url": "https://open.spotify.com/album/7hBWsXRF3UzahsPs9fgDcp"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 229249,
       "name": "Celestia",
       "url": "https://open.spotify.com/track/3BZ8KRBfIg9Lu9Zl3i2X6N"
-    },
-    {
-      "added_at": "2024-03-01 12:45:26",
-      "album": {
-        "name": "Sint Maarten",
-        "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Delaram Kamareh",
-          "url": "https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB"
-        }
-      ],
-      "duration_ms": 271351,
-      "name": "Sint Maarten",
-      "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
     }
   ],
   "unique_name": "Melodic & Euphoric",

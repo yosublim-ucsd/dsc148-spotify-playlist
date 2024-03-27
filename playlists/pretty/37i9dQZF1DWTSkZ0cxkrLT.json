@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 424071,
+  "num_followers": 424098,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDAzZDRlN2UxNWNkMWM0OWRlMDU1NGQ3NTdjODQyNjhmOTM5YjZm",
+  "snapshot_id": "MCxiY2E0Yzk4MTM0Y2Y0ZTY1N2FkMjM2ODdjMmM3OThmY2FkZDg4YmQ1",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "12 segundos de oscuridad",
-        "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 164946,
-      "name": "Inoportuna",
-      "url": "https://open.spotify.com/track/5GCB9mqJzKN4kDKvmqQ03X"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Primeras Canciones",
         "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 201674,
       "name": "Te Guardo",
       "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "12 segundos de oscuridad",
+        "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 164946,
+      "name": "Inoportuna",
+      "url": "https://open.spotify.com/track/5GCB9mqJzKN4kDKvmqQ03X"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Los D\u00edas en la Sala",
-        "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 163411,
-      "name": "Siempre Te Voy a Querer",
-      "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Mundo Debajo del Mundo",
         "url": "https://open.spotify.com/album/5p3JWd7zmX6D1UQdtPtveJ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 176270,
       "name": "Desaprender",
       "url": "https://open.spotify.com/track/5CGzoPhT2u7P1yHge1f4iJ"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Los D\u00edas en la Sala",
+        "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 163411,
+      "name": "Siempre Te Voy a Querer",
+      "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Todo el D\u00eda As\u00ed",
+        "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 215492,
+      "name": "Todo el D\u00eda As\u00ed",
+      "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "MILLONES",
         "url": "https://open.spotify.com/album/0LuHp5vuF8zABveZHjoGgH"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 232253,
       "name": "Primavera",
       "url": "https://open.spotify.com/track/5Fganr8l64dNUWpk2622uD"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Todo el D\u00eda As\u00ed",
-        "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 215492,
-      "name": "Todo el D\u00eda As\u00ed",
-      "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Tuyo",
-        "url": "https://open.spotify.com/album/1Sv7uosU6z24BvsEm5AG7g"
-      },
-      "artists": [
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Tuyo",
-      "url": "https://open.spotify.com/track/3X0lef4eZlP1u8v2oEq4Qi"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Dios Los Cr\u00eda",
         "url": "https://open.spotify.com/album/1K9AuVjYM9zMHR3wrLJuRK"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 226858,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/5mDIMiKvZ71kx5eUBYhRFi"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Tuyo",
+        "url": "https://open.spotify.com/album/1Sv7uosU6z24BvsEm5AG7g"
+      },
+      "artists": [
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Tuyo",
+      "url": "https://open.spotify.com/track/3X0lef4eZlP1u8v2oEq4Qi"
     },
     {
       "added_at": "2024-03-08 03:00:00",

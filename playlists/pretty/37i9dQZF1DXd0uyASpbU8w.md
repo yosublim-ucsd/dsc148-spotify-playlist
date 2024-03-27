@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=aWeU7zC4RpiTW2j8Oj2Y7g">Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,161 likes - 68 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,245 likes - 68 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,6 +75,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 65 | [Malume](https://open.spotify.com/track/1JLTMSlyAIXOy8sIr7Wg18) | [Thab'sile](https://open.spotify.com/artist/7nSdnKNzCHFkJylnKCwezQ), [Afriikan Papi](https://open.spotify.com/artist/4fDmMQuFAIHnsKbmfOY8yO) | [Malume](https://open.spotify.com/album/6VYz1nTFmgO5TOVjlWQnQz) | 4:25 |
 | 66 | [Induk'Enhle](https://open.spotify.com/track/72u7rgRVt3J4L8PlL5eccw) | [Starr Healer](https://open.spotify.com/artist/64SCkKgvQjmX6p6tpYcefT), [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H), [DJ Khyber](https://open.spotify.com/artist/2JktzDzyCcnMdUHeawWMFO), [Mhaw Keys](https://open.spotify.com/artist/653Y1k21jYNqD7XY4lszrK) | [Induk'Enhle](https://open.spotify.com/album/6lKSm3Xj8pT3FKKpqlAstY) | 6:19 |
 | 67 | [OMG](https://open.spotify.com/track/3CAQP8IhTPv8fXRamPeWsE) | [2lee Stark](https://open.spotify.com/artist/6YfEEVzlV2j4KImBCRI0TV), [Da Les](https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy) | [OMG](https://open.spotify.com/album/2IwvyIBW41gelAr2nHwY0N) | 3:55 |
-| 68 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
+| 68 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
 
-Snapshot ID: `MCw3OGUzNDc4YTQ2MmExMWFhMDNiMmQ3OWViZDIzMzlhYmE3ZThjN2M2`
+Snapshot ID: `MCxhYmE2MTE3MTRmZjQ0MWU5Y2Q1MjM1NzZkM2E3ODYzNzFjNDg1MzBj`

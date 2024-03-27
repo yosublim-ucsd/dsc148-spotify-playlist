@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 97020,
+  "num_followers": 97021,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmVhNDFkNjY4NGM0YzlkZmZkYTdlNmI4MzUxZDNjYThhMTBiNDgy",
+  "snapshot_id": "MCwyOGNmYTcxOWM4NWVkZGZhMmNiZDhkOWZiNTFiZDY4OGJjYzNhNGZi",
   "tracks": [
     {
       "added_at": "2024-03-08 06:17:14",
@@ -335,26 +335,6 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
-        "name": "Lost Mood",
-        "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
-      },
-      "artists": [
-        {
-          "name": "entoy",
-          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
-        },
-        {
-          "name": "suru",
-          "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Blue mood",
-      "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
-    },
-    {
-      "added_at": "2024-03-08 06:17:14",
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 227353,
       "name": "CALL ME BACK",
       "url": "https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq"
+    },
+    {
+      "added_at": "2024-03-08 06:17:14",
+      "album": {
+        "name": "Lost Mood",
+        "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
+      },
+      "artists": [
+        {
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        },
+        {
+          "name": "suru",
+          "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Blue mood",
+      "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
     },
     {
       "added_at": "2024-03-08 06:17:14",
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 233958,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
+      "duration_ms": 223141,
+      "name": "Moon, 12:04am",
+      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
     },
     {
       "added_at": "2024-03-08 06:17:14",
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 223141,
-      "name": "Moon, 12:04am",
-      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
+      "duration_ms": 233958,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
     },
     {
       "added_at": "2024-03-08 06:17:14",

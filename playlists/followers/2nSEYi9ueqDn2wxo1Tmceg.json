@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 70599,
+  "2024-03-27": 70602,
   "date_first_scraped": "2022-06-10",
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
   "name": "Domino Sound System",
@@ -15299,6 +15299,24 @@
       "duration_ms": 258000,
       "name": "What You Don't Want Me to Be",
       "url": "https://open.spotify.com/track/4k9AruafjtBsuwTUA4qQIu"
+    },
+    {
+      "album": {
+        "name": "What's That You Say",
+        "url": "https://open.spotify.com/album/0jxUWFmE7joKf1FXJ4nwUr"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223008,
+      "name": "What's That You Say",
+      "url": "https://open.spotify.com/track/5EnZk5P9NHp8Fz4aSaAu1N"
     },
     {
       "album": {

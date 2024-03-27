@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: IMI\_BLUE\(이미블루\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,607 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,625 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 31 | [Face](https://open.spotify.com/track/50OgyUeTppAqsJbGthk2x9) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Face](https://open.spotify.com/album/1lcBukbd61zGUprqrePYMv) | 3:34 |
 | 32 | [Eye for an Eye](https://open.spotify.com/track/4dhNMYoUrLbFgkq3tvOV82) | [RB NINE](https://open.spotify.com/artist/79tuyMDO42MRFpm8gOXn7p) | [Eye for an Eye](https://open.spotify.com/album/3PFJMoQUssxcLVqEYmFfAM) | 3:15 |
 | 33 | [Habit](https://open.spotify.com/track/7IxgIn4YcdJjtaE9dqw1zw) | [Jae Woo AN](https://open.spotify.com/artist/4xDwz6SwDRIFKshWYRjIL3), [LIPNINE](https://open.spotify.com/artist/1q5u8LnvomvAmiMhg8kRDp) | [Intermission](https://open.spotify.com/album/377CA84mWXSqmnxqEwBJ6W) | 2:55 |
-| 34 | [oh 이건 ㅈ dat 써 !](https://open.spotify.com/track/55NKbG8Lhk7rRn0Nmk0TSy) | [Diett](https://open.spotify.com/artist/3dJNguSwjDrPZvp36FnPGo), [BlueWhale](https://open.spotify.com/artist/1106z5vBDKCXowfWQmOLoX) | [dailylife\_2024.zip](https://open.spotify.com/album/37g8hiMyihJ09mplIhL64q) | 2:53 |
+| 34 | [oh 이건 ㅈ dat 써 !](https://open.spotify.com/track/55NKbG8Lhk7rRn0Nmk0TSy) | [everypage](https://open.spotify.com/artist/3dJNguSwjDrPZvp36FnPGo), [BlueWhale](https://open.spotify.com/artist/1106z5vBDKCXowfWQmOLoX) | [dailylife\_2024.zip](https://open.spotify.com/album/37g8hiMyihJ09mplIhL64q) | 2:53 |
 | 35 | [Arms Around Me](https://open.spotify.com/track/7vC4gn4BrdLPQDjNYMBMTO) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Arms Around Me](https://open.spotify.com/album/3HIjqS5a1SzgKmFza29iJm) | 3:18 |
 | 36 | [LAST PARADE](https://open.spotify.com/track/436seJMYT9VZOjvJUTfmcx) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [LAST PARADE](https://open.spotify.com/album/4dARvFNQZIZtyCFw2Lbs6f) | 4:04 |
 | 37 | [Exhaustin](https://open.spotify.com/track/0BC6vlmsgMhnOEX9nPsEYT) | [Vapo](https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t) | [Exhaustin](https://open.spotify.com/album/3AHqZEqVQjmKmZWQrxogsU) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [Rainbow](https://open.spotify.com/track/12ku60Vbv6CkBal4Bq4u2Y) | [Heon](https://open.spotify.com/artist/4AfVKxP48OYzRXuAz2d3XO) | [Rainbow](https://open.spotify.com/album/1wxJKyH69bCA7zkJRjvqoM) | 3:32 |
 | 100 | [Ride \(Feat\. Jueun\)](https://open.spotify.com/track/1cCszH5E4C3U01CaLFsuVR) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U) | [Dear.R](https://open.spotify.com/album/3tqu6xDwjAStZh0A8oiXKH) | 3:12 |
 
-Snapshot ID: `MCw0ODVmOWFlYmY5NGUzNTg4MDdhN2RkMDcwZGJkYjUyMWM4NDE1MzY2`
+Snapshot ID: `MCxhY2U2ZWQ5MTVkN2QwMGE4YTQyMDE2OGNjYzI3ZDliNmY3NWIyZjVl`

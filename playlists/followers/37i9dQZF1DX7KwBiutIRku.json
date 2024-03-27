@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 90617,
+  "2024-03-27": 90712,
   "date_first_scraped": "2022-05-26",
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
   "name": "Boogie Rock",
@@ -687,7 +687,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 139240,
       "name": "Midnight To Six Man",
       "url": "https://open.spotify.com/track/7bsZBxsGS4heYtLdBXj6VU"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 276760,
       "name": "My Babe",
       "url": "https://open.spotify.com/track/1GEorvHprTNDgyzlcADpdO"
@@ -766,6 +766,24 @@
     },
     {
       "album": {
+        "name": "Rock & Roll Music to the World (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4kn7TfnykT3mhIE364IoMA"
+      },
+      "artists": [
+        {
+          "name": "Ten Years After",
+          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230333,
+      "name": "Rock & Roll Music to the World - 2017 Remaster",
+      "url": "https://open.spotify.com/track/0DSKoNfZuZjh3pm39RmoJ8"
+    },
+    {
+      "album": {
         "name": "Rockin' All Over The World",
         "url": "https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O"
       },
@@ -795,7 +813,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 240346,
       "name": "Rockout, Whatever You Feel Like",
       "url": "https://open.spotify.com/track/2F2bTEfEFPaq1GoY2pQIyx"
@@ -957,7 +975,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Three Time Loser",
       "url": "https://open.spotify.com/track/0RfPgYzVnZSmaJNWzg10OP"

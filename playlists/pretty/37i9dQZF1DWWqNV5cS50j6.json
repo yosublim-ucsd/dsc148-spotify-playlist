@@ -1,12 +1,12 @@
 {
   "description": "?! ft. Artemas",
-  "num_followers": 706833,
+  "num_followers": 708447,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzk2ODE1Y2FlODM0OWViMzM5OGQ5OGY1ODcwMDFkZjFmNTQxM2Q0",
+  "snapshot_id": "MCwwNDE3YjIwOTI3NDMxMDlhMTNmYjFkNDUyYTUwYjI3YzFhNTdiMDRi",
   "tracks": [
     {
       "added_at": "2024-03-19 20:25:15",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Aphid (feat. Dijon)",
-        "url": "https://open.spotify.com/album/4vtOzM8bPSkU9ctAJMcVlc"
-      },
-      "artists": [
-        {
-          "name": "Matt Champion",
-          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "Aphid (feat. Dijon)",
-      "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "STILL EMO",
         "url": "https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 141780,
       "name": "Be Somebody (feat. Tkay Maidza)",
       "url": "https://open.spotify.com/track/3gYy3nywL9QXjYWaMpeHFC"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Aphid (feat. Dijon)",
+        "url": "https://open.spotify.com/album/4vtOzM8bPSkU9ctAJMcVlc"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "Aphid (feat. Dijon)",
+      "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -759,38 +759,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "CAROLINE",
-        "url": "https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 192951,
-      "name": "CAROLINE",
-      "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "How Do You Sleep At Night? With You",
-        "url": "https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH"
-      },
-      "artists": [
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 184335,
-      "name": "Up And Down",
-      "url": "https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
         "url": "https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL"
       },
@@ -811,6 +779,38 @@
       "duration_ms": 147025,
       "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
       "url": "https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "How Do You Sleep At Night? With You",
+        "url": "https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 184335,
+      "name": "Up And Down",
+      "url": "https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "CAROLINE",
+        "url": "https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 192951,
+      "name": "CAROLINE",
+      "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "DOA",
-        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 148468,
-      "name": "sweet tooth",
-      "url": "https://open.spotify.com/track/3EGa3eOp7SFocMhRuiltEz"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "Evil",
         "url": "https://open.spotify.com/album/5vzUGiHb1LrOjJ5Pz55wO0"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 158235,
       "name": "Evil",
       "url": "https://open.spotify.com/track/3nlwxpdoduF0VTIphyOS2Q"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "DOA",
+        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 148468,
+      "name": "sweet tooth",
+      "url": "https://open.spotify.com/track/3EGa3eOp7SFocMhRuiltEz"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "I Might be Fake",
-        "url": "https://open.spotify.com/album/6lg88hmM7QAFDWvaW47TZ6"
-      },
-      "artists": [
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        },
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 168805,
-      "name": "I Might be Fake",
-      "url": "https://open.spotify.com/track/7DTpqH64fSXDA3CuFxMAKE"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "Big Bank (feat. Billy Lemos)",
         "url": "https://open.spotify.com/album/4dBkm25j36XB7a0669Shi6"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 162352,
       "name": "Big Bank",
       "url": "https://open.spotify.com/track/7onMcwREc7risUlE4mDhG4"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "I Might be Fake",
+        "url": "https://open.spotify.com/album/6lg88hmM7QAFDWvaW47TZ6"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        },
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 168805,
+      "name": "I Might be Fake",
+      "url": "https://open.spotify.com/track/7DTpqH64fSXDA3CuFxMAKE"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "JASMINE",
+        "url": "https://open.spotify.com/album/0J93kMZWjwAX2Ln1GREcq5"
+      },
+      "artists": [
+        {
+          "name": "Renao",
+          "url": "https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "JASMINE",
+      "url": "https://open.spotify.com/track/6EYaL5ach3SUCQSebLMops"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
         "url": "https://open.spotify.com/album/17RkZnWlgVY355jiCG8m1e"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 131215,
       "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
       "url": "https://open.spotify.com/track/1Y4TOUS7R9DShEApDbb8Xm"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "JASMINE",
-        "url": "https://open.spotify.com/album/0J93kMZWjwAX2Ln1GREcq5"
-      },
-      "artists": [
-        {
-          "name": "Renao",
-          "url": "https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "JASMINE",
-      "url": "https://open.spotify.com/track/6EYaL5ach3SUCQSebLMops"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "it was nice knowing u",
+        "url": "https://open.spotify.com/album/2lTY9F1Grt1D0HPsaQrGGT"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 176347,
+      "name": "pretty photos",
+      "url": "https://open.spotify.com/track/1PmXc402f75cyfgLlXWSEH"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "SCRAPYARD I",
         "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "it was nice knowing u",
-        "url": "https://open.spotify.com/album/2lTY9F1Grt1D0HPsaQrGGT"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 176347,
-      "name": "pretty photos",
-      "url": "https://open.spotify.com/track/1PmXc402f75cyfgLlXWSEH"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "Wallsocket",
         "url": "https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 245122,
       "name": "Johnny johnny johnny",
       "url": "https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Me n My Girl",
+        "url": "https://open.spotify.com/album/5zod1g9FgDO4eNNpjLMDPT"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 130242,
+      "name": "Me n My Girl",
+      "url": "https://open.spotify.com/track/6tngVk9QDusW1nJmcY83uf"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "UGLY",
-        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
-      },
-      "artists": [
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        }
-      ],
-      "duration_ms": 174648,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "true",
         "url": "https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 191711,
       "name": "true",
       "url": "https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "UGLY",
+        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "duration_ms": 174648,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Me n My Girl",
-        "url": "https://open.spotify.com/album/5zod1g9FgDO4eNNpjLMDPT"
+        "name": "MOVIES! WORLDWIDE: PART I",
+        "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
         }
       ],
-      "duration_ms": 130242,
-      "name": "Me n My Girl",
-      "url": "https://open.spotify.com/track/6tngVk9QDusW1nJmcY83uf"
+      "duration_ms": 124917,
+      "name": "Gloria !",
+      "url": "https://open.spotify.com/track/6sEKSKRnCCsl20GRPNlAQj"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1515,22 +1531,6 @@
       "duration_ms": 211875,
       "name": "Gimme A Chance",
       "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "MOVIES! WORLDWIDE: PART I",
-        "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 124917,
-      "name": "Gloria !",
-      "url": "https://open.spotify.com/track/6sEKSKRnCCsl20GRPNlAQj"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "HITA",
-        "url": "https://open.spotify.com/album/5mkxe82AB3MUJnejMTgYmM"
+        "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
       },
       "artists": [
         {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
         }
       ],
-      "duration_ms": 155498,
-      "name": "HITA",
-      "url": "https://open.spotify.com/track/3tNPtRyxl1bqSvA7X6n5qz"
+      "duration_ms": 225280,
+      "name": "Crush - Unfinished",
+      "url": "https://open.spotify.com/track/516daakwmX9S2aRifLUCp8"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1711,18 +1707,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Leak 04-13 (Bait Ones)",
-        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
+        "name": "HITA",
+        "url": "https://open.spotify.com/album/5mkxe82AB3MUJnejMTgYmM"
       },
       "artists": [
         {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
         }
       ],
-      "duration_ms": 225280,
-      "name": "Crush - Unfinished",
-      "url": "https://open.spotify.com/track/516daakwmX9S2aRifLUCp8"
+      "duration_ms": 155498,
+      "name": "HITA",
+      "url": "https://open.spotify.com/track/3tNPtRyxl1bqSvA7X6n5qz"
     },
     {
       "added_at": "2024-03-19 20:25:15",

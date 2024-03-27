@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTsdpx69Vjw.md) - [plain]
 
 > The official playlist for The Pentaverate\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 462 likes - 18 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 463 likes - 18 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTsdpx69Vjw.md) - [plain]
 | 10 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 |
 | 11 | [Celebration](https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebrate!](https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI) | 4:58 |
 | 12 | [For the Love of Money](https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 7:19 |
-| 13 | [One Night in Bangkok](https://open.spotify.com/track/6erBowZaW6Ur3vNOWhS2zM) | [Murray Head](https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR) | [Emotions \(My Favourite Songs\)](https://open.spotify.com/album/4zNqO0KPoLtp90U3Ljl9PT) | 3:56 |
+| 13 | [One Night In Bangkok \- Original Single Version / From “Chess”](https://open.spotify.com/track/0NwB4MtnpUGEaGotcX0vmt) | [Murray Head](https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR) | [One Night In Bangkok \(From “Chess”\)](https://open.spotify.com/album/1WvTsFFx5WjKqdusXov73H) | 3:55 |
 | 14 | ["Cheers" Theme \(Full Length Record\)](https://open.spotify.com/track/0KiwlUzEr8AFl3EofUxZpj) | [Gary Portnoy](https://open.spotify.com/artist/53U1IJqr6Hhmn53UcbgF7D) | ["Cheers" Theme: Official Original Versions](https://open.spotify.com/album/6iI4oVgY6FuLucIUm1Jztw) | 2:31 |
 | 15 | [Run Boy Run](https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [The Golden Age](https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2) | 3:33 |
 | 16 | [Le chat du café des artistes](https://open.spotify.com/track/43LPmTp1zMpA53CyFq5oNO) | [Jean\-Pierre Ferland](https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3) | [Jaune \(Version originale remasterisée\)](https://open.spotify.com/album/69OtZSaKCtNJawhqenAJ0U) | 4:39 |
 | 17 | [Ironside \- Theme From "Ironside"](https://open.spotify.com/track/30RmekD1dSy913wZnryc1h) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Smackwater Jack](https://open.spotify.com/album/7s9qCF31WJcVQf8okNTBAl) | 3:53 |
 | 18 | [Love To Love You Baby](https://open.spotify.com/track/6Szw3sQC5Zssr15AJsUY9J) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Love To Love You Baby](https://open.spotify.com/album/210folYgKMSZAz4IiqDnmy) | 16:48 |
 
-Snapshot ID: `MCw3OGFkZmFhNDkyMjQyYjhiZjBjNmY4ZjQzZGE0NTNmMDM2ZTYxYzVh`
+Snapshot ID: `MCxiOTUzZmZhZmEyNTAwYmE5MGY3ZTViZTFiYmU4MzAzMzdmM2Y5OTUz`

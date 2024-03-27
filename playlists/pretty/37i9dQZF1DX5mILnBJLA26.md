@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve?si=AwtOBb97SmmKDiPyACQzQA">Da Muziqal Chef</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,657 likes - 50 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,430 likes - 50 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Maye Maye \(feat\. Azana, Stixx\)](https://open.spotify.com/track/710qLZ4WOxBj7ZaVbVJtkh) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Babalwa M](https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5), [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2) | [Maye Maye \(feat\. Azana, Stixx\)](https://open.spotify.com/album/3oQrTJwdG81Kvwijs4Dcvh) | 7:30 |
 | 50 | [Banike \(feat\. Philharmonic, LeeMcKrazy\)](https://open.spotify.com/track/06QKSv9bjUYLEUdRpuaGeQ) | [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Philharmonic](https://open.spotify.com/artist/5OLi7K8O3aYSV3GQRXdYmb) | [Banike \(feat\. Philharmonic, LeeMcKrazy\)](https://open.spotify.com/album/4vsbkjnE2AWQ0tz0EqZCGA) | 7:13 |
 
-Snapshot ID: `MCw3MzIxMzY0ZTViYjI0ZDhlZDRmMzNkNmM0Yzc3YWRiOTgwOGNmMmEw`
+Snapshot ID: `MCw5MDE0YTg2MGNiNGQ3NDQ5ODQzNjcwMjQ5ZGU2ZWQ4MmQ1NGE4YjQz`

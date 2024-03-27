@@ -1,12 +1,12 @@
 {
   "description": "The newest Hip-Hop, refreshed weekly. Cover: Mac Miller",
-  "num_followers": 7641,
+  "num_followers": 7657,
   "original_name": "All New Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjI5OTBkN2M5YmQxYzU1MTQ5ODBhZjE5YTBlMzAzNGI2M2ZlODcz",
+  "snapshot_id": "MCw3MTUxZDU0N2IyODc5YzEzNzRjNzUxMDI1NmYzMzJkYTA5YTcyOTQ5",
   "tracks": [
     {
       "added_at": "2024-03-22 17:20:53",
@@ -360,12 +360,12 @@
           "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
         },
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
           "name": "9lives",
           "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
       "duration_ms": 151839,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: El Fantasma
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,251 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,476 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 18 | [Me Puse A Jalar](https://open.spotify.com/track/2f7IngSZ5XtHOJ4hfs4oWW) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3), [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Me Puse A Jalar](https://open.spotify.com/album/405vLlk0DBKithKOGj4bfX) | 2:56 |
 | 19 | [Lo Intenté](https://open.spotify.com/track/5Ml6G2C4Z31gGcIRQthSpt) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3), [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46) | [Lo Intenté](https://open.spotify.com/album/4fCqw75hvAiGeqyzpIcCQx) | 2:32 |
 | 20 | [Beli Beli](https://open.spotify.com/track/4nNDaNTVo990NAM9PDmFiA) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Miranda León](https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14) | [La Casa Siempre Gana](https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC) | 3:20 |
-| 21 | [Vida No Te Acabes](https://open.spotify.com/track/6IiGUPWQlqGEYj5NmbEZDD) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Vida No Te Acabes](https://open.spotify.com/album/6WucACnQ81KPiu19PT0rPH) | 2:54 |
+| 21 | [Vida No Te Acabes](https://open.spotify.com/track/6IiGUPWQlqGEYj5NmbEZDD) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Vida No Te Acabes](https://open.spotify.com/album/6WucACnQ81KPiu19PT0rPH) | 2:50 |
 | 22 | [La Venganza](https://open.spotify.com/track/6b8rE8DorNNvfaEyBmcWlv) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Venganza](https://open.spotify.com/album/6jpC8oHw1UC0MZLQVdnQPN) | 2:50 |
 | 23 | [BBYKTAL](https://open.spotify.com/track/3pJFmgY5LJtR1Z8OyHM7MI) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [Deny K](https://open.spotify.com/artist/14l5S8E3j7RgPY5Q6Nlnbw) | [BBYKTAL](https://open.spotify.com/album/3gimlSSjfk3bKeMQOW2XEl) | 2:27 |
 | 24 | [Dos Cabrones](https://open.spotify.com/track/6Oslt344WACSUnxR4bie1K) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Dos Cabrones](https://open.spotify.com/album/2ogxsrmUqu1gPHlDUF8qy2) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [La Mini Mini \- En Vivo](https://open.spotify.com/track/0kbopkBDaNibPzo9xTUpuF) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [La Mini Mini \(En Vivo\)](https://open.spotify.com/album/5BCa82l9X8OXffxQvijYlr) | 2:49 |
 | 50 | [Infinito](https://open.spotify.com/track/7pFVbw3r0q4NEQ3RtpdG0A) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Infinito](https://open.spotify.com/album/7J6dh2qFQuRPYinWwVj2Q9) | 2:51 |
 
-Snapshot ID: `MCxkMGIyZmM2MmFmNmE4MjhiMTllNDhjODg1ZGE4ZjhiNGY5ZmU5YmUw`
+Snapshot ID: `MCwwOTI5OWNkMjhiN2M5NjQ1ZDljY2JmNDhiNGNlNmE4NzBjZDUzMGRk`

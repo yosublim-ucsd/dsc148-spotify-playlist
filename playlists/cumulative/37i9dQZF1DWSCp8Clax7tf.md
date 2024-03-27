@@ -4,7 +4,7 @@
 
 > The Women who put Country Music on the map\. Cover: Loretta Lynn
 
-127 songs - 7 hr 6 min
+128 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Do Ya'](https://open.spotify.com/track/4uhDXoLPOR60UWIQNfdJjk) | [K.T\. Oslin](https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b) | [Greatest Hits\-\-"Songs from an Aging Sex Bomb"](https://open.spotify.com/album/1kXK1pSK2uRUtWml9WA92X) | 4:05 | 2021-10-22 |  |
 | [Does He Love You](https://open.spotify.com/track/7xQ0BegzdB8TCLreb0MQsi) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Linda Davis](https://open.spotify.com/artist/3rXeRTogAKT6xqOLyfC7xv) | [50 Greatest Hits](https://open.spotify.com/album/2Fs8kfD1oFmBpQxf5XIYgR) | 4:19 | 2021-10-22 | 2022-07-29 |
 | [Does He Love You](https://open.spotify.com/track/2h5Gd8kfCQXWWdWSM1omvZ) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Linda Davis](https://open.spotify.com/artist/3rXeRTogAKT6xqOLyfC7xv) | [Country Duets](https://open.spotify.com/album/4Gdfwsn5Sfrkc70t5899Wo) | 4:20 | 2022-03-18 | 2022-11-13 |
-| [Does He Love You](https://open.spotify.com/track/0wFQnci5YCcwbKAWNBzqiA) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Linda Davis](https://open.spotify.com/artist/3rXeRTogAKT6xqOLyfC7xv) | [Reba McEntire's Greatest Hits, Volume Two](https://open.spotify.com/album/3NwDZMQupPwdNaLT9js5sR) | 4:20 | 2022-03-18 |  |
+| [Does He Love You](https://open.spotify.com/track/0wFQnci5YCcwbKAWNBzqiA) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Linda Davis](https://open.spotify.com/artist/3rXeRTogAKT6xqOLyfC7xv) | [Reba McEntire's Greatest Hits, Volume Two](https://open.spotify.com/album/3NwDZMQupPwdNaLT9js5sR) | 4:20 | 2022-03-18 | 2024-03-27 |
+| [Does He Love You](https://open.spotify.com/track/0fyN5usCME5bXJXCJprTUK) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Linda Davis](https://open.spotify.com/artist/3rXeRTogAKT6xqOLyfC7xv) | [Does He Love You \- The Collection](https://open.spotify.com/album/0dWUjh1jlOencTwIf36CFN) | 4:20 | 2023-02-13 |  |
 | [Don't Come Home A\-Drinkin' \(With Lovin' On Your Mind\) \- Single Version](https://open.spotify.com/track/6zQnzN80m28yNfz544YBI2) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [The Definitive Collection](https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2) | 2:07 | 2021-10-22 |  |
 | [Don't It Make My Brown Eyes Blue](https://open.spotify.com/track/393ZdpnZzZEwyFNaCaqt3h) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [Country Music Festival](https://open.spotify.com/album/3qvl2coqo8tO5t810GDjYc) | 2:32 | 2022-03-18 | 2022-11-13 |
 | [Don't It Make My Brown Eyes Blue](https://open.spotify.com/track/1IDf3VUbfPPduW6bIfkIPQ) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [We Must Believe In Magic](https://open.spotify.com/album/2Up3szvumEB8A2Yk9ZBZPX) | 2:37 | 2021-10-22 | 2022-07-29 |

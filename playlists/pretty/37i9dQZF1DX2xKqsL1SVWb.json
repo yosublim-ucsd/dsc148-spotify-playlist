@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODJiZjJhNGMwZDQ3YmZkY2QwYTBkOTVkYmNmNTRiMzFmMDQ0YjZk",
+  "snapshot_id": "MCw1MGFiMjg2YzU1ZDBlYjZlZjFjNDgwODc5NTUwODZkNjJmNDE5MGRk",
   "tracks": [
     {
       "added_at": "2023-12-08 20:40:26",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/4ZDmqaDuuRIRKG8e05LzuT"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/3Jtl7p1Vs9p7R3Azwpql31"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
         "name": "Alta Joya",
         "url": "https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 201200,
       "name": "Alta Joya",
       "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/4ZDmqaDuuRIRKG8e05LzuT"
-      },
-      "artists": [
-        {
-          "name": "Agris",
-          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/3Jtl7p1Vs9p7R3Azwpql31"
     },
     {
       "added_at": "2023-12-08 20:40:26",

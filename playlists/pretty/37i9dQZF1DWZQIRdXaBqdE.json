@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 397492,
+  "num_followers": 397585,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjllMmU5YWFiNmQ5MmIyNmY0NGYyZDU0Y2M1ZDIxNGU4MDQwYWY3",
+  "snapshot_id": "MCxiZTUyNWFlZTE3NzM3MDQ4YWJhOTU2NjRmZDgzZTgyMWY0ZDI1YTUw",
   "tracks": [
     {
       "added_at": "2023-08-21 00:02:44",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Too Cold At Home",
-        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
+        "name": "All-Time Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
       },
       "artists": [
         {
-          "name": "Mark Chesnutt",
-          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 184840,
-      "name": "Brother Jukebox",
-      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
+      "duration_ms": 143306,
+      "name": "Act Naturally",
+      "url": "https://open.spotify.com/track/762yvPz59OMgb7gGLws6Vi"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "All-Time Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
+        "name": "Too Cold At Home",
+        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
       },
       "artists": [
         {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
         }
       ],
-      "duration_ms": 143306,
-      "name": "Act Naturally",
-      "url": "https://open.spotify.com/track/762yvPz59OMgb7gGLws6Vi"
+      "duration_ms": 184840,
+      "name": "Brother Jukebox",
+      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "You're The One",
-        "url": "https://open.spotify.com/album/4q0ML8wcGoyyMl3hOOACtJ"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "Y'all Come Back Saloon",
-      "url": "https://open.spotify.com/track/790HdFZdub1eobl2iLzcem"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Ultimate Clint Black",
         "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 168000,
       "name": "Killin' Time",
       "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "You're The One",
+        "url": "https://open.spotify.com/album/4q0ML8wcGoyyMl3hOOACtJ"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "Y'all Come Back Saloon",
+      "url": "https://open.spotify.com/track/790HdFZdub1eobl2iLzcem"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "George Strait's Greatest Hits, Volume Two",
-        "url": "https://open.spotify.com/album/2ZN1GwIaBhc9exRqKI0gad"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "All My Ex's Live In Texas",
-      "url": "https://open.spotify.com/track/7k1Xm1wy00hCKJDYJL5p1n"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Country Club",
         "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 190800,
       "name": "Country Club",
       "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "George Strait's Greatest Hits, Volume Two",
+        "url": "https://open.spotify.com/album/2ZN1GwIaBhc9exRqKI0gad"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "All My Ex's Live In Texas",
+      "url": "https://open.spotify.com/track/7k1Xm1wy00hCKJDYJL5p1n"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
+        "name": "The Oak Ridge Boys Have Arrived",
+        "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Leaving Louisiana In The Broad Daylight",
+      "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 216573,
       "name": "Wildflowers - 2015 Remaster",
       "url": "https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
-        "name": "The Oak Ridge Boys Have Arrived",
-        "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Leaving Louisiana In The Broad Daylight",
-      "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
     },
     {
       "added_at": "2023-08-21 00:02:44",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTkyOTI4NzVlOGQwYTc2NjdhODNkNTQzOWI4ZDc0M2Y4NDIzY2Qz",
+  "snapshot_id": "MCxjNDQ3MDQ4YjYyZWYxNzRlYjA4MTVjOTRiNGU2ZjIyYWUxOWM3MTFh",
   "tracks": [
     {
       "added_at": "2023-11-29 16:17:10",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "If You Were Mine",
-        "url": "https://open.spotify.com/album/7ceNaDNFy5LNlNrBkydo1C"
-      },
-      "artists": [
-        {
-          "name": "MINOVA",
-          "url": "https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "If You Were Mine",
-      "url": "https://open.spotify.com/track/6X1e8vitsmstMQIC2wrETx"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "SUPERNOVA",
         "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 131052,
       "name": "GATA",
       "url": "https://open.spotify.com/track/3Y8Y9GWlUBTTEY6ydINRtx"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "If You Were Mine",
+        "url": "https://open.spotify.com/album/7ceNaDNFy5LNlNrBkydo1C"
+      },
+      "artists": [
+        {
+          "name": "MINOVA",
+          "url": "https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/6X1e8vitsmstMQIC2wrETx"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Go\u00fbter +",
-        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 208192,
-      "name": "in ur motion",
-      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "from here on out",
         "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 271421,
       "name": "from here on out",
       "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Go\u00fbter +",
+        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 208192,
+      "name": "in ur motion",
+      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "every night was the same",
+        "url": "https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        }
+      ],
+      "duration_ms": 173329,
+      "name": "pink dress",
+      "url": "https://open.spotify.com/track/4UYMPoAzPFMkWUYa5t5Fpb"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "Smalltown Stardust",
         "url": "https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ"
-      },
-      "artists": [
-        {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
-        }
-      ],
-      "duration_ms": 208880,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "I'm Green",
         "url": "https://open.spotify.com/album/1upKvbsQau0k852Ol079dD"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 291587,
       "name": "Clovers",
       "url": "https://open.spotify.com/track/5k8oU9p71fIhYiTCPudwdh"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ"
+      },
+      "artists": [
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -995,6 +1011,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "Dogsbody",
+        "url": "https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 192773,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/2aIEqZvD0MNvXVPamBkbif"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "GIZMO",
         "url": "https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1"
       },
@@ -1011,22 +1043,6 @@
       "duration_ms": 214333,
       "name": "Thin Air",
       "url": "https://open.spotify.com/track/6zuqI8QSazQ6850pxx2IU5"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "Dogsbody",
-        "url": "https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok"
-      },
-      "artists": [
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        }
-      ],
-      "duration_ms": 192773,
-      "name": "Mosquito",
-      "url": "https://open.spotify.com/track/2aIEqZvD0MNvXVPamBkbif"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "When Horses Would Run",
-        "url": "https://open.spotify.com/album/4Zb3FQcdXKngObTXue6FZf"
-      },
-      "artists": [
-        {
-          "name": "Being Dead",
-          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
-        }
-      ],
-      "duration_ms": 136697,
-      "name": "The Great American Picnic",
-      "url": "https://open.spotify.com/track/48AgoVXugpMSwRm9eAiKEj"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "these are not songs, they are stories",
         "url": "https://open.spotify.com/album/7aDyL8GlUNonSXeUeAGfCF"
       },
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Nothing Sacred",
-        "url": "https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO"
+        "name": "When Horses Would Run",
+        "url": "https://open.spotify.com/album/4Zb3FQcdXKngObTXue6FZf"
       },
       "artists": [
         {
-          "name": "Nate Brazier",
-          "url": "https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7"
+          "name": "Being Dead",
+          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
         }
       ],
-      "duration_ms": 150052,
-      "name": "Putting On Airs",
-      "url": "https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5"
+      "duration_ms": 136697,
+      "name": "The Great American Picnic",
+      "url": "https://open.spotify.com/track/48AgoVXugpMSwRm9eAiKEj"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1239,34 +1239,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "every night was the same",
-        "url": "https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK"
+        "name": "Nothing Sacred",
+        "url": "https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO"
       },
       "artists": [
         {
-          "name": "Humble the Great",
-          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+          "name": "Nate Brazier",
+          "url": "https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7"
         }
       ],
-      "duration_ms": 173329,
-      "name": "pink dress",
-      "url": "https://open.spotify.com/track/4UYMPoAzPFMkWUYa5t5Fpb"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "Art By You",
-        "url": "https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe"
-      },
-      "artists": [
-        {
-          "name": "Simon Russell",
-          "url": "https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/1GaJZbQKcDKJZ4o5JrRlFw"
+      "duration_ms": 150052,
+      "name": "Putting On Airs",
+      "url": "https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1283,6 +1267,22 @@
       "duration_ms": 321460,
       "name": "Around Around Around",
       "url": "https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Art By You",
+        "url": "https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe"
+      },
+      "artists": [
+        {
+          "name": "Simon Russell",
+          "url": "https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/1GaJZbQKcDKJZ4o5JrRlFw"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1387,38 +1387,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "extra life",
-        "url": "https://open.spotify.com/album/53bJVtuHxm3EkMaLLwpvUt"
-      },
-      "artists": [
-        {
-          "name": "crushed",
-          "url": "https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM"
-        }
-      ],
-      "duration_ms": 336293,
-      "name": "milksugar",
-      "url": "https://open.spotify.com/track/43jUhG1nmQC554vGhgbXnj"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "DON'T YOU THINK IT'D BE NICE ?",
-        "url": "https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw"
-      },
-      "artists": [
-        {
-          "name": "Papooz",
-          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
-        }
-      ],
-      "duration_ms": 190292,
-      "name": "DON'T YOU THINK IT'D BE NICE ?",
-      "url": "https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Fortune's child",
         "url": "https://open.spotify.com/album/4CjY3RnccWWHglcx2D6Hwr"
       },
@@ -1435,6 +1403,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "extra life",
+        "url": "https://open.spotify.com/album/53bJVtuHxm3EkMaLLwpvUt"
+      },
+      "artists": [
+        {
+          "name": "crushed",
+          "url": "https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM"
+        }
+      ],
+      "duration_ms": 336293,
+      "name": "milksugar",
+      "url": "https://open.spotify.com/track/43jUhG1nmQC554vGhgbXnj"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "Spirit World Tour",
         "url": "https://open.spotify.com/album/47mGdZRog8LOGSdYzlVSO2"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 207618,
       "name": "First Rule of the Bug",
       "url": "https://open.spotify.com/track/5s7umUpjJT7yBAN94jMxiC"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "DON'T YOU THINK IT'D BE NICE ?",
+        "url": "https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        }
+      ],
+      "duration_ms": 190292,
+      "name": "DON'T YOU THINK IT'D BE NICE ?",
+      "url": "https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Everything's Conditional",
-        "url": "https://open.spotify.com/album/4d3beSene5sO3fdKMvwmr0"
-      },
-      "artists": [
-        {
-          "name": "Jackie Mere",
-          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Running For My Life",
-      "url": "https://open.spotify.com/track/7gAR3P5oBKzYIuGTcRYS60"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Why Are You Not Scared Yet?",
         "url": "https://open.spotify.com/album/3wbB2j0gMejNrkXvg3VVxY"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 154555,
       "name": "Why Are You Not Scared Yet?",
       "url": "https://open.spotify.com/track/7lrPrS3dXaTAWsp3dtJJqg"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Everything's Conditional",
+        "url": "https://open.spotify.com/album/4d3beSene5sO3fdKMvwmr0"
+      },
+      "artists": [
+        {
+          "name": "Jackie Mere",
+          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Running For My Life",
+      "url": "https://open.spotify.com/track/7gAR3P5oBKzYIuGTcRYS60"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "Suddenly My Mind Is Blank",
+        "url": "https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb"
+      },
+      "artists": [
+        {
+          "name": "Jouska",
+          "url": "https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn"
+        }
+      ],
+      "duration_ms": 236324,
+      "name": "Why'd You Leave Me in the Red?",
+      "url": "https://open.spotify.com/track/4yoG9e4BQ5nWYD738dzxEC"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "Being Square",
         "url": "https://open.spotify.com/album/54BGBlBu9QZTpjuyANyTpE"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 187894,
       "name": "Being Square",
       "url": "https://open.spotify.com/track/0fQLPl3LAkNCKWPhPngqnc"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "The Only Thing Worse Than A Woman Who Lies Is A Girl Who\u2019ll Tell Truths",
-        "url": "https://open.spotify.com/album/26sB0HxlHsy0oM4LJ6jjNv"
-      },
-      "artists": [
-        {
-          "name": "Odie Leigh",
-          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "As Sure As I\u2019m Speaking",
-      "url": "https://open.spotify.com/track/33BAnSQF1eYV3uP2sB47sm"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Suddenly My Mind Is Blank",
-        "url": "https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb"
+        "name": "The Only Thing Worse Than A Woman Who Lies Is A Girl Who\u2019ll Tell Truths",
+        "url": "https://open.spotify.com/album/26sB0HxlHsy0oM4LJ6jjNv"
       },
       "artists": [
         {
-          "name": "Jouska",
-          "url": "https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn"
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
         }
       ],
-      "duration_ms": 236324,
-      "name": "Why'd You Leave Me in the Red?",
-      "url": "https://open.spotify.com/track/4yoG9e4BQ5nWYD738dzxEC"
+      "duration_ms": 162000,
+      "name": "As Sure As I\u2019m Speaking",
+      "url": "https://open.spotify.com/track/33BAnSQF1eYV3uP2sB47sm"
     },
     {
       "added_at": "2023-11-29 16:17:10",

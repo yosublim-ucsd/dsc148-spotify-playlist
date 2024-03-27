@@ -1,12 +1,12 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 4847,
+  "num_followers": 4851,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWU4YzM0ZGI0YzNhNjBkMTZjYjIzMzQ3OWZjMzQ2NzJlMTNkZTkx",
+  "snapshot_id": "MCwzMzQ1ZmRiOWJkNzY1NDIxNzJkNTBmY2Q1ZWY4YmM5Yzk4ZWEwZmRj",
   "tracks": [
     {
       "added_at": "2024-03-08 06:42:30",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "\ud68c\uc0ac\ub2e4\ub140\uc694",
-        "url": "https://open.spotify.com/album/5fpuo0zn0ctQ9MvqAUKGrb"
-      },
-      "artists": [
-        {
-          "name": "nov",
-          "url": "https://open.spotify.com/artist/3gyUm6cPk4sChNCVb3fFaC"
-        }
-      ],
-      "duration_ms": 196259,
-      "name": "\uc218\uace0\ud588\uc5b4\uc694",
-      "url": "https://open.spotify.com/track/34eHPg1gIMxUmUso9rB8Ul"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
         "name": "Reminiscence",
         "url": "https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 253000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/5hG9erX5epfASjh5ZNJZV1"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "\ud68c\uc0ac\ub2e4\ub140\uc694",
+        "url": "https://open.spotify.com/album/5fpuo0zn0ctQ9MvqAUKGrb"
+      },
+      "artists": [
+        {
+          "name": "nov",
+          "url": "https://open.spotify.com/artist/3gyUm6cPk4sChNCVb3fFaC"
+        }
+      ],
+      "duration_ms": 196259,
+      "name": "\uc218\uace0\ud588\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/34eHPg1gIMxUmUso9rB8Ul"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "Offset",
-        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
+        "name": "Demo songs",
+        "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
       },
       "artists": [
         {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
         }
       ],
-      "duration_ms": 243440,
-      "name": "Remind of You",
-      "url": "https://open.spotify.com/track/3XP4CrI6jHlo2ZJ9Jpn4EX"
+      "duration_ms": 246874,
+      "name": "dear heart",
+      "url": "https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -531,18 +531,18 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "Demo songs",
-        "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
       },
       "artists": [
         {
-          "name": "Kim Hyunchang",
-          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
         }
       ],
-      "duration_ms": 246874,
-      "name": "dear heart",
-      "url": "https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d"
+      "duration_ms": 243440,
+      "name": "Remind of You",
+      "url": "https://open.spotify.com/track/3XP4CrI6jHlo2ZJ9Jpn4EX"
     },
     {
       "added_at": "2024-03-08 06:42:30",

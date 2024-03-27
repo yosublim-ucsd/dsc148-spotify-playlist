@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Soft piano to help you focus, work or study.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,089 likes - 255 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,140 likes - 255 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 32 | [The swan](https://open.spotify.com/track/52KuODrja4LIiMh1a8pOBd) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [The swan](https://open.spotify.com/album/6pWEQPYZGnaHdL5CmWweDu) | 2:37 |
 | 33 | [Come close](https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Come close](https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6) | 2:50 |
 | 34 | [Silhouettes](https://open.spotify.com/track/6S3uL1i4W3gHIf1BauxjMZ) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Silhouettes](https://open.spotify.com/album/5qPhOA59aDQkHk8EYpECW5) | 3:32 |
-| 35 | [How Things Blend](https://open.spotify.com/track/18hOR7RxHGxmXTXXB4GLKj) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [About The Known](https://open.spotify.com/album/1II575rpuj84021opzGTJ3) | 2:36 |
+| 35 | [How Things Blend](https://open.spotify.com/track/75VgkSAz0It7T1Og7bAu3B) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [And The Unknown](https://open.spotify.com/album/0eoyfDQZjpyxbbpt6RA6UI) | 2:36 |
 | 36 | [Whispers in the Fog](https://open.spotify.com/track/098b2wZzLGe9RwVCh1YZay) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Whispers in the Fog](https://open.spotify.com/album/13C3NpipjChcRCQIAERjk6) | 2:16 |
 | 37 | [Une promenade tranquille](https://open.spotify.com/track/1PNrhizOQldoC64LNejntF) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Une promenade tranquille](https://open.spotify.com/album/4IHIYGFTa0gQh07HJXFy3d) | 2:15 |
 | 38 | [Changes](https://open.spotify.com/track/5HDOvDkZSeVGiaNb4lPSPN) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Changes](https://open.spotify.com/album/6hxm9ZZL3y6A5WoFynQtSp) | 3:05 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 69 | [Archipelago](https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Archipelago](https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9) | 2:38 |
 | 70 | [Dévouement](https://open.spotify.com/track/1IxqOTOmyJh9f8gSO9YbK2) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Dévouement](https://open.spotify.com/album/0UBhbhhh9HC0cJaLtFhNel) | 2:16 |
 | 71 | [Meditation At My Piano](https://open.spotify.com/track/7sl3E8PLvMf15zgImYCFy5) | [Vincent Pino](https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR) | [Meditation At My Piano](https://open.spotify.com/album/4CHtOAO19iANd8BS47Ttdh) | 2:47 |
-| 72 | [Until The Blissful Dawn](https://open.spotify.com/track/5QZHUzGvrJqj2WRWGqrvqA) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When I Look At You](https://open.spotify.com/album/4Sly3l6x6L6lpwKy1zqgDy) | 2:34 |
+| 72 | [Until The Blissful Dawn](https://open.spotify.com/track/2wfAJQkNqipmojScYX9lhV) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Looking At The Stars](https://open.spotify.com/album/7IYJrZFlbKkWET5HmrCaos) | 2:34 |
 | 73 | [velvet void](https://open.spotify.com/track/3wEBkJFS7AngSwHAEcrkFb) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [velvet void](https://open.spotify.com/album/2mDvDFwJV8FnrR6eq1Hm5e) | 2:28 |
 | 74 | [Displacement](https://open.spotify.com/track/2nUvXZC2yPa7tv9lfwNgDm) | [Maximilian Power](https://open.spotify.com/artist/58F0bW6KZx2P6sXbPvn2i6) | [Displacement](https://open.spotify.com/album/3BPVaQ5np2VwXbTxGYiE2S) | 2:26 |
 | 75 | [Med solen i øynene](https://open.spotify.com/track/0jw7ZhzCPQVAR6b7rQT1QJ) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Med solen i øynene](https://open.spotify.com/album/1ryTkAZErijdDtxLoMHklz) | 2:27 |
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 254 | [The Belfry](https://open.spotify.com/track/7cc0PJfYHGn5W3KQrhXS0D) | [Jessy Ribordy](https://open.spotify.com/artist/7fxyrcwACinFsRlmTxnodY) | [The Belfry](https://open.spotify.com/album/0zcMbeXJrzE5ARa344WXbu) | 2:28 |
 | 255 | [Children's Waltz](https://open.spotify.com/track/4rw3ixKqjEzKUajMD0z3mA) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Children's Waltz](https://open.spotify.com/album/6jtiXFHQFQt298cHCywft9) | 2:13 |
 
-Snapshot ID: `MCwxM2U5NTlmYjY2YTI4ZmI4ZmM0OGNiOWJhMTZlODViNzBjMzRiZTQz`
+Snapshot ID: `MCxmMjgzZmRhMGU3YzZlYjIwNzg1ZDMxNzBiZjhjODQ0NWZhMzdlODFi`

@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Ana Macho
+> Listen to the hottest songs from LGBTQIA+ artists\. Cover: serpentwithfeet
 
 1,125 songs - 2 day 12 hr 57 min
 

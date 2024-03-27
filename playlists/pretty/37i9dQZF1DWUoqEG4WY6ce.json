@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 1069099,
+  "num_followers": 1069223,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTk5MDlmNjMzMDVmNTg0N2EyZTM5NzRiNGQxM2EzOWIyYmM5MWEy",
+  "snapshot_id": "MCwxNGFiM2U1NTE2MzdmOGVkNWUxZTNkOGU3ZjBlOGE4MGEzZDMwNjAw",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 274200,
+      "name": "Another Story",
+      "url": "https://open.spotify.com/track/34N4miRYCGQwmQEXoCiuuL"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "The Spirit Moves",
         "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 161906,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Let's Be Still",
-        "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 274200,
-      "name": "Another Story",
-      "url": "https://open.spotify.com/track/34N4miRYCGQwmQEXoCiuuL"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Nighttiming",
+        "url": "https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg"
+      },
+      "artists": [
+        {
+          "name": "Coconut Records",
+          "url": "https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "West Coast",
+      "url": "https://open.spotify.com/track/2nvZv4qatgsDIbEqqbQLUT"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Lego Ring",
         "url": "https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 163228,
       "name": "Lego Ring",
       "url": "https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Nighttiming",
-        "url": "https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg"
-      },
-      "artists": [
-        {
-          "name": "Coconut Records",
-          "url": "https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "West Coast",
-      "url": "https://open.spotify.com/track/2nvZv4qatgsDIbEqqbQLUT"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc"
-      },
-      "artists": [
-        {
-          "name": "Rogue Wave",
-          "url": "https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG"
-        }
-      ],
-      "duration_ms": 148866,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Bahamas Is Afie",
         "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 234973,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/0qI1W6chJgvrSAzAkX9JBa"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc"
+      },
+      "artists": [
+        {
+          "name": "Rogue Wave",
+          "url": "https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG"
+        }
+      ],
+      "duration_ms": 148866,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv"
     },
     {
       "added_at": "2024-03-08 05:00:00",

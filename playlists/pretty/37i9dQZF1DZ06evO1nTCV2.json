@@ -1,15 +1,15 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 42790,
+  "num_followers": 42793,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MjI4ODgsMDAwMDAwMDA0YWUzN2IzMGZiZjU5OGUwZGQ4Yzk5YWRjYWM4ZjlhMw==",
+  "snapshot_id": "Mjg1MjQyMjcsMDAwMDAwMDBhZWRjZDlkZDM1MDQ4ZDNlN2RhNDg5NDdhMjA4MWE5ZQ==",
   "tracks": [
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/04rMpRstoJt3uvqyNGKczX"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0aLk2Za7r0eGlLOepW2hzL"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Easy Tiger",
         "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/68jGLpiDK7ZZ13RR8AEm1o"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/3GfZdJBB1cAbjSEIj3kraY"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Ashes & Fire",
         "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
@@ -105,71 +105,7 @@
       "url": "https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 192732,
-      "name": "My Winding Wheel",
-      "url": "https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ"
-    },
-    {
-      "added_at": "2024-03-25 13:28:57",
-      "album": {
-        "name": "Easy Tiger",
-        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "Two",
-      "url": "https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced"
-    },
-    {
-      "added_at": "2024-03-25 13:28:57",
-      "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 185010,
-      "name": "Shiver And Shake",
-      "url": "https://open.spotify.com/track/6TbOgR6jpuqkjAmgs4hdFL"
-    },
-    {
-      "added_at": "2024-03-25 13:28:57",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Answering Bell",
-      "url": "https://open.spotify.com/track/0LXfdDKFrHSlRmOXJnhBar"
-    },
-    {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
@@ -185,10 +121,10 @@
       "url": "https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
-        "name": "Demolition",
-        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
       },
       "artists": [
         {
@@ -196,15 +132,15 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 132680,
-      "name": "Dear Chicago",
-      "url": "https://open.spotify.com/track/2J8P81JjKemQZczm1mfp3s"
+      "duration_ms": 158293,
+      "name": "Two",
+      "url": "https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
       },
       "artists": [
         {
@@ -212,15 +148,15 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 201693,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa"
+      "duration_ms": 185010,
+      "name": "Shiver And Shake",
+      "url": "https://open.spotify.com/track/6TbOgR6jpuqkjAmgs4hdFL"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Gold",
-        "url": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
       "artists": [
         {
@@ -228,12 +164,12 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 301013,
-      "name": "La Cienega Just Smiled",
-      "url": "https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho"
+      "duration_ms": 185000,
+      "name": "Answering Bell",
+      "url": "https://open.spotify.com/track/0LXfdDKFrHSlRmOXJnhBar"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
@@ -244,12 +180,12 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 296724,
-      "name": "Oh My Sweet Carolina",
-      "url": "https://open.spotify.com/track/2Zcr8xMMZyNT5wMsj3SWmw"
+      "duration_ms": 192732,
+      "name": "My Winding Wheel",
+      "url": "https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Demolition",
         "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
@@ -265,7 +201,71 @@
       "url": "https://open.spotify.com/track/2cSReP67LziR3PeYQ8Ehm2"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa"
+    },
+    {
+      "added_at": "2024-03-26 11:47:42",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 301013,
+      "name": "La Cienega Just Smiled",
+      "url": "https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho"
+    },
+    {
+      "added_at": "2024-03-26 11:47:42",
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 296724,
+      "name": "Oh My Sweet Carolina",
+      "url": "https://open.spotify.com/track/2Zcr8xMMZyNT5wMsj3SWmw"
+    },
+    {
+      "added_at": "2024-03-26 11:47:42",
+      "album": {
+        "name": "Demolition",
+        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 132680,
+      "name": "Dear Chicago",
+      "url": "https://open.spotify.com/track/2J8P81JjKemQZczm1mfp3s"
+    },
+    {
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Star Sign",
         "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/3uvqaNcznMbmvaw2zOuJ4n"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Demolition",
         "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Star Sign",
         "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
@@ -345,71 +345,7 @@
       "url": "https://open.spotify.com/track/63et5T8L2cyXHDQ9Gk21j6"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
-      "album": {
-        "name": "Sword & Stone",
-        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "Manhattan in the Rain",
-      "url": "https://open.spotify.com/track/5lpgGcXkWbjqBkWaazSk4N"
-    },
-    {
-      "added_at": "2024-03-25 13:28:57",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 235120,
-      "name": "Bad Blood",
-      "url": "https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi"
-    },
-    {
-      "added_at": "2024-03-25 13:28:57",
-      "album": {
-        "name": "Easy Tiger",
-        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 151960,
-      "name": "Oh My God, Whatever, Etc.",
-      "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
-    },
-    {
-      "added_at": "2024-03-25 13:28:57",
-      "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE"
-    },
-    {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Sword & Stone",
         "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
@@ -425,7 +361,71 @@
       "url": "https://open.spotify.com/track/6N8syRCLSHedst5P0HS6Tu"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 235120,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi"
+    },
+    {
+      "added_at": "2024-03-26 11:47:42",
+      "album": {
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 151960,
+      "name": "Oh My God, Whatever, Etc.",
+      "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
+    },
+    {
+      "added_at": "2024-03-26 11:47:42",
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE"
+    },
+    {
+      "added_at": "2024-03-26 11:47:42",
+      "album": {
+        "name": "Sword & Stone",
+        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Manhattan in the Rain",
+      "url": "https://open.spotify.com/track/5lpgGcXkWbjqBkWaazSk4N"
+    },
+    {
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/7Jw1V7CzU9xvVSEONbHOD3"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Easy Tiger",
         "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/7cKps79ZK38xhAMFtsDtbm"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Star Sign",
         "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/74wT3PlIHz8txEw5wHtzF1"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Sword & Stone",
         "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/07A4I35sBKxJ43iPZmWMqZ"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Star Sign",
         "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/7LU42REV9PNkZfnivCckZb"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Sword & Stone",
         "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
@@ -553,23 +553,7 @@
       "url": "https://open.spotify.com/track/4qCho7COvxkDzUktMmLEBF"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 226036,
-      "name": "Amy",
-      "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
-    },
-    {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
@@ -585,7 +569,23 @@
       "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 226036,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
+    },
+    {
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Star Sign",
         "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/3onoAfOvc9c2FrmvWb9shy"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Sword & Stone",
         "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/5yBCZUGiLBa1juMts6aLPW"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Rock N Roll",
         "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Star Sign",
         "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/0On3jM7uFiphkDSQpjbJM9"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Sword & Stone",
         "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/6KRklFhhniHx1FOSqGl3lZ"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Wednesdays",
         "url": "https://open.spotify.com/album/2gK2hMSg8rNam7mHpmy3Ek"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/4T3C7lqynxYIXDYaLcVE1M"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "I Do Not Feel Like Being Good",
         "url": "https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/5awiVmsHfpUjg8P6Kh2iGP"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
         "name": "Demolition",
         "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
@@ -793,10 +793,10 @@
       "url": "https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD"
     },
     {
-      "added_at": "2024-03-25 13:28:57",
+      "added_at": "2024-03-26 11:47:42",
       "album": {
-        "name": "Ashes & Fire",
-        "url": "https://open.spotify.com/album/1w2aDtXIq2HjpZQOt8JaRa"
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 290520,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS"
+      "duration_ms": 340666,
+      "name": "English Girls Approximately",
+      "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
     }
   ],
   "unique_name": "This Is Ryan Adams",

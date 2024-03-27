@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Charli XCX & Addison Rae
 
-845 songs - 1 day 18 hr 31 min
+846 songs - 1 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -729,6 +729,7 @@
 | [Tell It To My Heart](https://open.spotify.com/track/5tkVC8EcUXEZNwmD45e7tq) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Tell It To My Heart](https://open.spotify.com/album/1KxlM9HIGOgM7SOMko1W9m) | 2:55 | 2023-09-15 |  |
 | [Tell Mama](https://open.spotify.com/track/3Lw3x4fesG6ZNkYLwapWke) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Tell Mama](https://open.spotify.com/album/2pmblmIVSQPbU3qAJ8FtOg) | 2:50 | 2023-03-31 | 2023-04-29 |
 | [tell me](https://open.spotify.com/track/6CI16mxAWyzW1pMpCV4Qfw) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [tell me](https://open.spotify.com/album/2R3RQcOjyKQQUBb91Qv0bR) | 2:42 | 2024-02-02 |  |
+| [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 | 2024-03-26 |  |
 | [Tension](https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension](https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA) | 3:36 | 2023-09-01 | 2023-11-18 |
 | [Tension](https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:36 | 2023-11-10 |  |
 | [Texts Go Green](https://open.spotify.com/track/1GPliC2cz8d5rTVDASQ633) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Texts Go Green](https://open.spotify.com/album/3OrU1Vo2kgpEING1SWD4e3) | 2:25 | 2023-08-18 | 2024-01-13 |
@@ -766,7 +767,7 @@
 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/77TT8Xvx637TpzV8kKGkUw) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat](https://open.spotify.com/album/08DAekBeqPRCsn3XHDwj6b) | 4:05 | 2023-01-06 | 2023-03-18 |
 | [Tongue](https://open.spotify.com/track/2bJgUPmlG2o6A0qfZJgkdh) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Tongue](https://open.spotify.com/album/0TNM4CTPP3WUA7oZcpe5cN) | 2:13 | 2022-07-01 | 2023-07-22 |
 | [Tongues](https://open.spotify.com/track/2gl9u4SJLK4U8FZi8gDkZk) | [Mel 4Ever](https://open.spotify.com/artist/7e34iWed5vSXh7wAoejlOJ), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Tongues](https://open.spotify.com/album/2ZDbWXifVnejR82e2K8vn9) | 3:15 | 2024-01-19 |  |
-| [Too Much Too Little](https://open.spotify.com/track/6uB9IlAd8cad9y7yDCeALb) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Too Much Too Little](https://open.spotify.com/album/3v8ICDGTwpe8Sneh0Pkgdl) | 2:57 | 2024-02-16 |  |
+| [Too Much Too Little](https://open.spotify.com/track/6uB9IlAd8cad9y7yDCeALb) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Too Much Too Little](https://open.spotify.com/album/3v8ICDGTwpe8Sneh0Pkgdl) | 2:57 | 2024-02-16 | 2024-03-27 |
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2022-11-11 | 2023-03-04 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-16 |  |
 | [Treat Me Like A Ho](https://open.spotify.com/track/5b67O08sN2itkQPsNmafPx) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 1:55 | 2023-09-22 | 2023-11-11 |

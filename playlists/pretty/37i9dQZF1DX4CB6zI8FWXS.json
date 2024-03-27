@@ -1,12 +1,12 @@
 {
   "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: SiR",
-  "num_followers": 87816,
+  "num_followers": 87821,
   "original_name": "Groovin' R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDc0YTEyODQ0MmJjN2QwNTVkMGQyNWM4MGMwMjU0NDFiMjk1Nzhm",
+  "snapshot_id": "MCw0MTI4NGFjNWNkYzUzY2NkZjQ2NjJjNjEwZTllMzRmMGQzMDFhZjBk",
   "tracks": [
     {
       "added_at": "2024-03-21 15:00:00",
@@ -744,12 +744,12 @@
           "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
         },
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
           "name": "9lives",
           "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
       "duration_ms": 151839,

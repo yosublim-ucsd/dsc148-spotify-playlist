@@ -614,7 +614,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 144625,
       "name": "And There You Were",
       "url": "https://open.spotify.com/track/39n8p57AiUQ7qINNsdSOUd"
@@ -816,6 +816,24 @@
       "duration_ms": 144625,
       "name": "And There You Were",
       "url": "https://open.spotify.com/track/7bSLnYwRRxstyvCoqorAPU"
+    },
+    {
+      "album": {
+        "name": "Looking At The Stars",
+        "url": "https://open.spotify.com/album/7IYJrZFlbKkWET5HmrCaos"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144625,
+      "name": "And There You Were",
+      "url": "https://open.spotify.com/track/7dULxExRp4SJxqd2fgLBz3"
     },
     {
       "album": {

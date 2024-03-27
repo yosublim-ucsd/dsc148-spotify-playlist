@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: BILLOTIN, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,601 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,605 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Break Out](https://open.spotify.com/track/29ETQvPyGSeizcUdE26cx0) | [Joanna Gemma Auguri](https://open.spotify.com/artist/04qhW1IJs6oYxo9kHxBPnP) | [Break Out](https://open.spotify.com/album/09m15y9GoYY3R2cPizcZJ5) | 4:16 |
 | 80 | [Weit weg](https://open.spotify.com/track/45GQBrjltJYKPUC3MVJBf0) | [Ludwig](https://open.spotify.com/artist/7gFR5bwKA6nfOTHSDAmMkI) | [Weit weg](https://open.spotify.com/album/0pO9Zg29MigzuwVyX7fV1a) | 2:23 |
 
-Snapshot ID: `MCw2OThiNzZkMzg3YjFmNmMwODRhYmY0NzA5NzA2NTM3NzA0YTc1MDkw`
+Snapshot ID: `MCw3MDE2ZjRkOGVkOTg0NmE5MzU0ZjY1ZWQ2ZjVhNTZmYmI1NDkyYmRm`

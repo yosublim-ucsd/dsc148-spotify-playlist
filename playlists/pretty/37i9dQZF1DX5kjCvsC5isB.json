@@ -1,12 +1,12 @@
 {
   "description": "Women who rock our world. Cover: The Last Dinner Party",
-  "num_followers": 291974,
+  "num_followers": 292075,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjkyYzcyMjc5ZWRiNDYyYTY3NThlNTU1YmQwZThhNzYzNTg3MmE1",
+  "snapshot_id": "MCw3ZDY0ZDQ4MmQ2YjQzYzUzN2ZiZTk2NDZjNjMzNTIxNDU0OGMxNzY5",
   "tracks": [
     {
       "added_at": "2024-02-28 19:20:31",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
+        "name": "ask nicely",
+        "url": "https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9"
+      },
+      "artists": [
+        {
+          "name": "Ayleen Valentine",
+          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "ask nicely",
+      "url": "https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
         "name": "She\u2019s So Cool (with Pale Waves)",
         "url": "https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 146250,
       "name": "She\u2019s So Cool (with Pale Waves)",
       "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
-        "name": "ask nicely",
-        "url": "https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9"
-      },
-      "artists": [
-        {
-          "name": "Ayleen Valentine",
-          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "ask nicely",
-      "url": "https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Sometimes, Forever",
-        "url": "https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "Feel It All The Time",
-      "url": "https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "MONKI",
         "url": "https://open.spotify.com/album/25qSW0rOBp95ioiWhiAlTm"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 164819,
       "name": "MONKI",
       "url": "https://open.spotify.com/track/30eZI7pnpdWKgk1UmUAxoF"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Sometimes, Forever",
+        "url": "https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Feel It All The Time",
+      "url": "https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Liquor and Kerosene (feat. The Maine)",
-        "url": "https://open.spotify.com/album/2Hz30mmJGwlVXhbffxDM8j"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 214024,
-      "name": "Liquor and Kerosene (feat. The Maine)",
-      "url": "https://open.spotify.com/track/7k0OJud8YsBKbncUPa46TY"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "IDC AT ALL",
         "url": "https://open.spotify.com/album/4wMtz7zQFP5Sbjf5djv5lo"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 201320,
       "name": "IDC AT ALL",
       "url": "https://open.spotify.com/track/0L0wwswP2xOiWv25Out7nn"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Liquor and Kerosene (feat. The Maine)",
+        "url": "https://open.spotify.com/album/2Hz30mmJGwlVXhbffxDM8j"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 214024,
+      "name": "Liquor and Kerosene (feat. The Maine)",
+      "url": "https://open.spotify.com/track/7k0OJud8YsBKbncUPa46TY"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
+        "name": "Norwegian Wood",
+        "url": "https://open.spotify.com/album/4vXzCKpcnI930OU3QNCOLW"
+      },
+      "artists": [
+        {
+          "name": "Picture Parlour",
+          "url": "https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV"
+        }
+      ],
+      "duration_ms": 214448,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/50Wusuhe7GBuOr5xGZlyGe"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
         "name": "TZIA",
         "url": "https://open.spotify.com/album/0e3aT00OxC10TrP3HSEhtF"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 195133,
       "name": "HTIS (Feat. Luna Shadows & Carmen Vandenberg)",
       "url": "https://open.spotify.com/track/49bgDubnZxg7dxhRkD3Et6"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
-        "name": "Norwegian Wood",
-        "url": "https://open.spotify.com/album/4vXzCKpcnI930OU3QNCOLW"
-      },
-      "artists": [
-        {
-          "name": "Picture Parlour",
-          "url": "https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV"
-        }
-      ],
-      "duration_ms": 214448,
-      "name": "Norwegian Wood",
-      "url": "https://open.spotify.com/track/50Wusuhe7GBuOr5xGZlyGe"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Trying",
-        "url": "https://open.spotify.com/album/2apgxM7pfYfejgrPg4N6cB"
-      },
-      "artists": [
-        {
-          "name": "mercury",
-          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
-        }
-      ],
-      "duration_ms": 226188,
-      "name": "Trying",
-      "url": "https://open.spotify.com/track/4tVcX8MGswvfbfESHIChzH"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Lose You (feat. Soccer Mommy)",
         "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 175386,
       "name": "Lose You (feat. Soccer Mommy)",
       "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/2apgxM7pfYfejgrPg4N6cB"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "duration_ms": 226188,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/4tVcX8MGswvfbfESHIChzH"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/7bZ2dfnfp3tdDUe63e55Vr"
-      },
-      "artists": [
-        {
-          "name": "The Mysterines",
-          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
-        }
-      ],
-      "duration_ms": 173998,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/60LKpOJR8e1rentSnw7hzx"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Cherry Picking",
         "url": "https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 150736,
       "name": "Cherry Picking",
       "url": "https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/7bZ2dfnfp3tdDUe63e55Vr"
+      },
+      "artists": [
+        {
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+        }
+      ],
+      "duration_ms": 173998,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/60LKpOJR8e1rentSnw7hzx"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Kills Me To Be Kind",
-        "url": "https://open.spotify.com/album/3czh2aXLBfbPOXpEgB9gJg"
-      },
-      "artists": [
-        {
-          "name": "Crawlers",
-          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
-        }
-      ],
-      "duration_ms": 280982,
-      "name": "Kills Me To Be Kind",
-      "url": "https://open.spotify.com/track/1wgfWQz5Fh3R6P6xPIAVuY"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Playing Favorites",
         "url": "https://open.spotify.com/album/2R7crs7YbXoJrjzb7IOEEq"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 185914,
       "name": "Moonstruck",
       "url": "https://open.spotify.com/track/4jKvi79CDhecACVRUVwOx3"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Kills Me To Be Kind",
+        "url": "https://open.spotify.com/album/3czh2aXLBfbPOXpEgB9gJg"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "duration_ms": 280982,
+      "name": "Kills Me To Be Kind",
+      "url": "https://open.spotify.com/track/1wgfWQz5Fh3R6P6xPIAVuY"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "SILYMI",
-        "url": "https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg"
-      },
-      "artists": [
-        {
-          "name": "TeZATalks",
-          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
-        }
-      ],
-      "duration_ms": 149388,
-      "name": "SILYMI",
-      "url": "https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Don't Need You",
         "url": "https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 206470,
       "name": "Don't Need You",
       "url": "https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "SILYMI",
+        "url": "https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg"
+      },
+      "artists": [
+        {
+          "name": "TeZATalks",
+          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
+        }
+      ],
+      "duration_ms": 149388,
+      "name": "SILYMI",
+      "url": "https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
+        "name": "Retrovision",
+        "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 192681,
+      "name": "Worst Apology",
+      "url": "https://open.spotify.com/track/1EX0QsmFybon4jIGb5Q6Pl"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
         "name": "Hate You When You Party",
         "url": "https://open.spotify.com/album/5oDm9L1HZpWELHtEpDamTn"
       },
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Retrovision",
-        "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 192681,
-      "name": "Worst Apology",
-      "url": "https://open.spotify.com/track/1EX0QsmFybon4jIGb5Q6Pl"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "When Everything Went Dark",
         "url": "https://open.spotify.com/album/1D7U3UMynyEmdEn7uJj31v"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Tornillo",
-        "url": "https://open.spotify.com/album/6MSMis63C7wWLVSSmSl92b"
-      },
-      "artists": [
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 93251,
-      "name": "Tornillo",
-      "url": "https://open.spotify.com/track/1mj4y7NHlTq6YfTZOeNqOx"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "God's Favorite",
         "url": "https://open.spotify.com/album/5Nt5QeIInvUuWahaoCB9Li"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 220670,
       "name": "Love & War",
       "url": "https://open.spotify.com/track/2MxErftY5S07dFtIdxQOSF"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Tornillo",
+        "url": "https://open.spotify.com/album/6MSMis63C7wWLVSSmSl92b"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 93251,
+      "name": "Tornillo",
+      "url": "https://open.spotify.com/track/1mj4y7NHlTq6YfTZOeNqOx"
     },
     {
       "added_at": "2024-02-28 19:20:31",

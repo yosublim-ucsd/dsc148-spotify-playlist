@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 151408,
       "name": "Eko",
       "url": "https://open.spotify.com/track/67vIPkYLoytrCt53WmvBQK"
@@ -1232,6 +1232,24 @@
       "duration_ms": 202605,
       "name": "Ex Convict",
       "url": "https://open.spotify.com/track/3Q4oVlA6z9TH0jhaDl6aNT"
+    },
+    {
+      "album": {
+        "name": "Ex Convict",
+        "url": "https://open.spotify.com/album/0j4TScmifAmAFxOYpzCVCH"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202605,
+      "name": "Ex Convict",
+      "url": "https://open.spotify.com/track/5O7fTE396BVFRTkQv5ENSo"
     },
     {
       "album": {
@@ -3908,7 +3926,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 196179,
       "name": "Things on Things",
       "url": "https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE"
@@ -4296,7 +4314,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 144065,
       "name": "Wire",
       "url": "https://open.spotify.com/track/3IvE1iyRbBProcJDsHBsnH"

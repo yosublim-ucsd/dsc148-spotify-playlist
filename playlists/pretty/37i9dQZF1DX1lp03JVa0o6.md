@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,913 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,949 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 71 | [Give It To Me](https://open.spotify.com/track/5gGxQDVMsSDk3GZv9wONQX) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Give It To Me](https://open.spotify.com/album/5pZSpQ8xYFlF66qrvuyhfd) | 2:57 |
 | 72 | [Could I Be](https://open.spotify.com/track/3ecY0y8i4XOeuFglFZKmtE) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj) | [Could I Be](https://open.spotify.com/album/5Hj5Y0cfgzouXuHUdMAtgU) | 3:11 |
 | 73 | [Fidget Spinner](https://open.spotify.com/track/7d8YQfetskWmFzQe57TJ1A) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Fidget Spinner](https://open.spotify.com/album/4iJGOZCaNyk2J51W1IJF3e) | 5:00 |
-| 74 | [AEIOU](https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [AEIOU](https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc) | 3:15 |
+| 74 | [AEIOU](https://open.spotify.com/track/1UJawJrJWGcRpvNNDPoQea) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Hyperbolic](https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt) | 3:15 |
 | 75 | [Lowkey \(LDN Drift\) \[feat\. Takura\]](https://open.spotify.com/track/308JcmNsqtkEZaAkcZrCT2) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [Lowkey \(LDN Drift\) \[feat\. Takura\]](https://open.spotify.com/album/5rGnxRc5WOwevqYSLNMdkp) | 2:37 |
 | 76 | [Beggin' You](https://open.spotify.com/track/110XNKlluGKyNDKlBle2XD) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Beggin' You](https://open.spotify.com/album/12LYEydJLy7i3TlDLamRRC) | 3:35 |
 | 77 | [undrcut](https://open.spotify.com/track/1Q6aZrlfWlLCNs7BMDLhej) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [undrcut](https://open.spotify.com/album/1tiiz9aRA7aRkDMc5NJ0WR) | 4:02 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 84 | [Drums \- Tita Lau & James Hype Remix](https://open.spotify.com/track/4eV5TQoPc0CrghBcj6AByW) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Remix Package\)](https://open.spotify.com/album/2df9ySxIlwdbyRlajvjCnP) | 2:38 |
 | 85 | [Tonic \(Edit\)](https://open.spotify.com/track/4b9disSqE7Yvxgpo4W7lB5) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Tonic](https://open.spotify.com/album/4xbLjgXZNRWrMhWcWe7ww1) | 4:39 |
 
-Snapshot ID: `MCw2YjhmZDQyYjVlNzZmNjBmMWZkODhjNGFiMWJiZTAzNTI0NTFhYzdj`
+Snapshot ID: `MCxlYWM3MDUwMzBkZjk0ZDk0OGJmNmIyMWEwNjMwYWVjNDJkYmM0NGU0`

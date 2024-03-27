@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 54 min 56 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 54 min 41 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Father's House \- Studio](https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [The Father's House](https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M) | 4:13 |
-| 2 | [Remembrance](https://open.spotify.com/track/3sz6nNih9aCuh3yNTsVrst) | [Legenda Aurea](https://open.spotify.com/artist/1H8FiqBpBYL4pdWYQX7Mco) | [Aeon](https://open.spotify.com/album/4NJwIJD2LEPcNtmUguHS0r) | 5:32 |
-| 3 | [Brussh](https://open.spotify.com/track/10rsHMWV3P0x5jsA5gO4oe) | [Ruzi Beatz](https://open.spotify.com/artist/2u8XpsX3Lb0gysccfsPEZb) | [Brussh](https://open.spotify.com/album/2x5zGAEdp7vBX8A1O8wq0I) | 2:36 |
-| 4 | [Now I'm Here \- Live At The Hammersmith Odeon](https://open.spotify.com/track/4ysz5yttr3rpRkvyVMLlRB) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 4:25 |
-| 5 | [Cannonball](https://open.spotify.com/track/7AW4T7G3e8VsZ8D7jV1hMr) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Brother Where You Bound \(Remastered\)](https://open.spotify.com/album/4p0XFT3wsFk8P4rK8PhKqM) | 7:38 |
-| 6 | [Bulls in the Bronx](https://open.spotify.com/track/5JQ21uZ49Hn5VjPiyDSqza) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/3zV9jildMcfY3Dwq55ySt7) | 4:27 |
-| 7 | [Heartless](https://open.spotify.com/track/4NWuOlJQdgDc4uGsq9qmBX) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Punk Goes X: Songs from the 2011 Winter X\-Games](https://open.spotify.com/album/7F7jjZ2p0sY9WCtvIpMJ8S) | 4:01 |
-| 8 | [Agua por el rio](https://open.spotify.com/track/2QDI5YME101OVywAT0w2Ih) | [CES](https://open.spotify.com/artist/6MmkcMB76RqX4B4mdhkTQE), [omarverso](https://open.spotify.com/artist/4VNxOXL24ht0hPmJMUXrWw), [Delusion Bay](https://open.spotify.com/artist/0rQX6hHB09a9yf7tBLPXzz) | [Agua por el rio](https://open.spotify.com/album/1s7B0xIqHde9HzYNdOLfio) | 3:08 |
-| 9 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
-| 10 | [Nada Es Igual](https://open.spotify.com/track/7niEic2atQVHSzfc2eau3s) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Vida De Perros](https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC) | 3:56 |
-| 11 | [Celebration](https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebrate!](https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI) | 4:58 |
-| 12 | [Con Amor...Ojalá](https://open.spotify.com/track/2pICg8o7bKeIA1BViCIUrg) | [Piero](https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm) | [Gaviota](https://open.spotify.com/album/2DWj9uHRzLBC4aWukgeUsU) | 6:30 |
+| 1 | [Nothing Left](https://open.spotify.com/track/2zy79BntQ1kumEUeqM5O84) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [An Ocean Between Us](https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN) | 3:43 |
+| 2 | [Mister Superstar](https://open.spotify.com/track/0T30qRXdFY8Ihy9zjP3hwG) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Antichrist Superstar](https://open.spotify.com/album/1WLs1iVHFL0wboZpeZ0bFf) | 5:04 |
+| 3 | [Freak On a Leash](https://open.spotify.com/track/5TfqfmN4bGwOptgcjlihH5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/3NSivK5tIM5k4IiH5wobRr) | 4:16 |
+| 4 | [Anonymous](https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Sad Songs For Winter](https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp) | 2:30 |
+| 5 | [Shoots and Ladders](https://open.spotify.com/track/40DoajfWsc4BVCeU85MWMu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/3NSivK5tIM5k4IiH5wobRr) | 5:22 |
+| 6 | [Warning](https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:41 |
+| 7 | [La Voz De Los '80](https://open.spotify.com/track/3UWMYVLYo0QwaPw1OI8hDk) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Ni por la Razon, Ni por la Fuerza \- Antologia](https://open.spotify.com/album/3lw3Fh1bzFCGQaDRE1AguX) | 4:08 |
+| 8 | [Mistreated \- Live; 2004 Remastered Version](https://open.spotify.com/track/39IupZnm3kefibXWnNCX91) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Platinum Collection](https://open.spotify.com/album/1G5FycaSPGPZiwMDxrumgm) | 11:35 |
+| 9 | [cross my heart \(hope to die\)](https://open.spotify.com/track/7qt0s5OswWIDJBlLHmiKNi) | [Mackenzie Arromba](https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq) | [cross my heart \(hope to die\)](https://open.spotify.com/album/2OPo2MAbCCUWp3TS4N7nld) | 2:40 |
+| 10 | [Blood \- Hidden Track](https://open.spotify.com/track/1rNSLiEFpAF4amVhkzfTUG) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:53 |
+| 11 | [El Pájaro Vio el Cielo y Se Voló](https://open.spotify.com/track/4smTDf8dKkZXxz66uv5w43) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Mi Vida Loca](https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5) | 4:21 |
+| 12 | [Esta Vez](https://open.spotify.com/track/3O6FSINQCT743cLVMRJrsT) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [SINO](https://open.spotify.com/album/4yLlkceQbuq64zdFnxdCYB) | 4:22 |
 
-Snapshot ID: `NjYsNDY2NDE5NTQxNDlmZGM2MDdiYjQwNjM4MDRhYWRhNjMyYjFiODMzMw==`
+Snapshot ID: `NjcsZWZjMjYxYjAwMzkyMzlkZWJmZGJmYmQ3ZWYwNTdhZjdkYWU0OWM0MQ==`

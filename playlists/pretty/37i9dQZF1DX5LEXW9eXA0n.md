@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:JUNGWOO\(정우\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,873 likes - 102 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,623 likes - 102 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 101 | [Goodbye \(2023\)](https://open.spotify.com/track/4K6gyjsl6AZsvsryJctOs8) | [Park Pil kyu](https://open.spotify.com/artist/5tx0AkevgDrqnlBMbd86Na) | [Goodbye \(2023\)](https://open.spotify.com/album/6lnY1n3Wixe2hnTNAMmYSQ) | 3:52 |
 | 102 | [One Man](https://open.spotify.com/track/1hFTr9dmT578FKelJDCVFc) | [Park Je Up](https://open.spotify.com/artist/0eAiU3cVCE1QcQyjPuCHSq) | [One Man](https://open.spotify.com/album/3gKxXpP1y1GnAyFMJyLCJ6) | 4:08 |
 
-Snapshot ID: `MCwwMTM4MmQyMjY5ZDljOTllZmE4NDZhMDBlYjAyYTM4YTM0ZmY1ODVj`
+Snapshot ID: `MCxkZjM2MjBlZTkxMTljYTMzYzhlMGZjOWU2OWE0YWU5NDkzMTQxZDlh`

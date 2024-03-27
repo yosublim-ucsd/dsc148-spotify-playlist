@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121372,
+  "num_followers": 121374,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTRkNGEwYzc2OTUzNDBjNGE3ZDc1NzZmZGJkYjAyMmVjODAxN2Nj",
+  "snapshot_id": "MCw0OWI4NzczNGRmMmM1MGE0MjIwMDY2NzBhZTIxMDgxNzhiNTczNWJj",
   "tracks": [
     {
       "added_at": "2024-03-21 23:00:00",
@@ -323,26 +323,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Storm in a Teacup",
-        "url": "https://open.spotify.com/album/7I0uNZXs5RK3FGDUefK2S0"
-      },
-      "artists": [
-        {
-          "name": "Koisu",
-          "url": "https://open.spotify.com/artist/4wD2y2dpOWAkrhqFQ2iDY7"
-        },
-        {
-          "name": "Omaure",
-          "url": "https://open.spotify.com/artist/7jzNtnTGzuVQ8yVDTfHa4G"
-        }
-      ],
-      "duration_ms": 293764,
-      "name": "A Piece of Mind",
-      "url": "https://open.spotify.com/track/5Dj11QzfbzBmzlhTXB4zIL"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "NaturHaus",
         "url": "https://open.spotify.com/album/2fdwX91CMjhwhnbNqR891k"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 239548,
       "name": "NaturHaus",
       "url": "https://open.spotify.com/track/2ym03lsLfjcz4LMzHDn5Pm"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Storm in a Teacup",
+        "url": "https://open.spotify.com/album/7I0uNZXs5RK3FGDUefK2S0"
+      },
+      "artists": [
+        {
+          "name": "Koisu",
+          "url": "https://open.spotify.com/artist/4wD2y2dpOWAkrhqFQ2iDY7"
+        },
+        {
+          "name": "Omaure",
+          "url": "https://open.spotify.com/artist/7jzNtnTGzuVQ8yVDTfHa4G"
+        }
+      ],
+      "duration_ms": 293764,
+      "name": "A Piece of Mind",
+      "url": "https://open.spotify.com/track/5Dj11QzfbzBmzlhTXB4zIL"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "Just for a Moment",
+        "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
+      },
+      "artists": [
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Just for a Moment",
+      "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Our Language",
         "url": "https://open.spotify.com/album/5MsxvhXIJxpiXJI2MNF3VE"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 364226,
       "name": "Of Sea",
       "url": "https://open.spotify.com/track/5XYSBPFLufUCyMo3hXD9uP"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Just for a Moment",
-        "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
-      },
-      "artists": [
-        {
-          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
-          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Just for a Moment",
-      "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "<3DAYSOFLOVE",
-        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
-      },
-      "artists": [
-        {
-          "name": "Hypsidia",
-          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
-        }
-      ],
-      "duration_ms": 305370,
-      "name": "<3DAYSOFLOVE",
-      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Cherry Skies",
         "url": "https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "<3DAYSOFLOVE",
+        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
+      },
+      "artists": [
+        {
+          "name": "Hypsidia",
+          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
+        }
+      ],
+      "duration_ms": 305370,
+      "name": "<3DAYSOFLOVE",
+      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Gaia",
         "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 245202,
       "name": "Gaia - Radio Edit",
       "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
+      },
+      "artists": [
+        {
+          "name": "Silo",
+          "url": "https://open.spotify.com/artist/2TFaSCsqBNMcZ1daHE0pNA"
+        }
+      ],
+      "duration_ms": 270027,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -907,22 +923,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
-      },
-      "artists": [
-        {
-          "name": "Silo",
-          "url": "https://open.spotify.com/artist/2TFaSCsqBNMcZ1daHE0pNA"
-        }
-      ],
-      "duration_ms": 270027,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "You Just Danced",
         "url": "https://open.spotify.com/album/17d0PBIogEhv6lGBTgYXKV"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 452611,
       "name": "You Just Danced",
       "url": "https://open.spotify.com/track/0deFjGhPrCgPUqsgZxU8i5"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 182407,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -979,42 +995,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 182407,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Infinity (The Remixes)",
-        "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
-      },
-      "artists": [
-        {
-          "name": "Bluma Petersen",
-          "url": "https://open.spotify.com/artist/1I7A8xBGgo3BLIWoG8B91h"
-        },
-        {
-          "name": "SLCT",
-          "url": "https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM"
-        }
-      ],
-      "duration_ms": 176356,
-      "name": "Infinity (SLCT Remix) - Instrumental Version",
-      "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Golven",
         "url": "https://open.spotify.com/album/4hnKYfEXxxRnGlr8PrAkXN"
       },
@@ -1031,6 +1011,22 @@
       "duration_ms": 194421,
       "name": "Golven",
       "url": "https://open.spotify.com/track/50i5vfuzSeaWIcVH5PjPO1"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
+      },
+      "artists": [
+        {
+          "name": "Aydin Genchsoy",
+          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1059,18 +1055,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
+        "name": "Infinity (The Remixes)",
+        "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
       },
       "artists": [
         {
-          "name": "Aydin Genchsoy",
-          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
+          "name": "Bluma Petersen",
+          "url": "https://open.spotify.com/artist/1I7A8xBGgo3BLIWoG8B91h"
+        },
+        {
+          "name": "SLCT",
+          "url": "https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
+      "duration_ms": 176356,
+      "name": "Infinity (SLCT Remix) - Instrumental Version",
+      "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Coffee (Edit)",
-        "url": "https://open.spotify.com/album/4pNeMokkPtuc5PMsr5oPzB"
-      },
-      "artists": [
-        {
-          "name": "Fouk",
-          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
-        }
-      ],
-      "duration_ms": 235039,
-      "name": "Coffee - Edit",
-      "url": "https://open.spotify.com/track/2LPeOMRJpuKLOLlUcHBDzB"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Toledo",
         "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 301909,
       "name": "What We Witness",
       "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Coffee (Edit)",
+        "url": "https://open.spotify.com/album/4pNeMokkPtuc5PMsr5oPzB"
+      },
+      "artists": [
+        {
+          "name": "Fouk",
+          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
+        }
+      ],
+      "duration_ms": 235039,
+      "name": "Coffee - Edit",
+      "url": "https://open.spotify.com/track/2LPeOMRJpuKLOLlUcHBDzB"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "Killer Machine",
+        "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
+      },
+      "artists": [
+        {
+          "name": "Adani & Wolf",
+          "url": "https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh"
+        }
+      ],
+      "duration_ms": 233316,
+      "name": "Killer Machine",
+      "url": "https://open.spotify.com/track/2cCfDNAd7lYPSe3euIwt2w"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "100 Miles",
         "url": "https://open.spotify.com/album/0MHuy3031MWIjNAwuPgCJK"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 518086,
       "name": "100 Miles",
       "url": "https://open.spotify.com/track/3AsStByn7z7jj9EY7iymPb"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Killer Machine",
-        "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
-      },
-      "artists": [
-        {
-          "name": "Adani & Wolf",
-          "url": "https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh"
-        }
-      ],
-      "duration_ms": 233316,
-      "name": "Killer Machine",
-      "url": "https://open.spotify.com/track/2cCfDNAd7lYPSe3euIwt2w"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
-      },
-      "artists": [
-        {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
-        }
-      ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
         "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 199346,
       "name": "Nothing Happened",
       "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+      },
+      "artists": [
+        {
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+        }
+      ],
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/6IoJpTO7kXGusqLKglYGVk"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/5gt8DyZLTb9U2m0i6ENZnP"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Wax Casting",
         "url": "https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx"
       },
@@ -1587,6 +1603,26 @@
       "duration_ms": 195971,
       "name": "Blue Orchid",
       "url": "https://open.spotify.com/track/5S5BANAZW6Z3w7QNieTDLm"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Loud Enough (Didier Armeni Remix)",
+        "url": "https://open.spotify.com/album/4Fh2mDMVslKby7dt0oO0sd"
+      },
+      "artists": [
+        {
+          "name": "Sonan",
+          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
+        },
+        {
+          "name": "Didier Armeni",
+          "url": "https://open.spotify.com/artist/0rAWzQbB0Qbw4P4vBfFpka"
+        }
+      ],
+      "duration_ms": 173937,
+      "name": "Loud Enough - Didier Armeni Remix",
+      "url": "https://open.spotify.com/track/77PlfRB6KA0WAcBBt6IU9N"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1607,22 +1643,6 @@
       "duration_ms": 257183,
       "name": "Religar - Chancha Via Circuito Remix",
       "url": "https://open.spotify.com/track/0jlscRIgKn35uudF8MP17p"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "You Know",
-        "url": "https://open.spotify.com/album/6IoJpTO7kXGusqLKglYGVk"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "You Know",
-      "url": "https://open.spotify.com/track/5gt8DyZLTb9U2m0i6ENZnP"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1795,26 +1815,6 @@
       "duration_ms": 175711,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/3KJD5sOIQGruWKiixUjZsA"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Loud Enough (Didier Armeni Remix)",
-        "url": "https://open.spotify.com/album/4Fh2mDMVslKby7dt0oO0sd"
-      },
-      "artists": [
-        {
-          "name": "Sonan",
-          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
-        },
-        {
-          "name": "Didier Armeni",
-          "url": "https://open.spotify.com/artist/0rAWzQbB0Qbw4P4vBfFpka"
-        }
-      ],
-      "duration_ms": 173937,
-      "name": "Loud Enough - Didier Armeni Remix",
-      "url": "https://open.spotify.com/track/77PlfRB6KA0WAcBBt6IU9N"
     }
   ],
   "unique_name": "Coffee Club",

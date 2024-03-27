@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 373502,
+  "num_followers": 373598,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDJmYzVhMjQwYzVlMTJmNjBhNmZiMDhkM2M0YjBhZjdlZTlkM2Ex",
+  "snapshot_id": "MCwxZmEwN2I2MjE0NzZjNzgzYzQ4YWM5OGJhZWY2Y2UzODI2MmZiZDI0",
   "tracks": [
     {
       "added_at": "2024-02-23 18:26:51",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "Tutti Frutti",
-        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
-      },
-      "artists": [
-        {
-          "name": "Prince Buster",
-          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
-        }
-      ],
-      "duration_ms": 165168,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA"
-    },
-    {
-      "added_at": "2024-02-23 18:26:51",
-      "album": {
         "name": "A Passage In Time (Explicit Version)",
         "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 388466,
       "name": "One More Minute",
       "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
+    },
+    {
+      "added_at": "2024-02-23 18:26:51",
+      "album": {
+        "name": "Tutti Frutti",
+        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
+      },
+      "artists": [
+        {
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
+        }
+      ],
+      "duration_ms": 165168,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA"
     },
     {
       "added_at": "2024-02-23 18:26:51",

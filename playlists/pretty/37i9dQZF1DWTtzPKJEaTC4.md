@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:74V3dE1a51skRkdII8y2C6">André 3000</a> shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,085 likes - 40 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,174 likes - 40 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 29 | [Bhajan de Surdas : Raga megh](https://open.spotify.com/track/4WYtfeLLckS0989muma2yC) | [Lakshmi Shankar](https://open.spotify.com/artist/0pZFVzKAMV6GR6Z3aCVmxD) | [Inde du Nord \- North India: Season and Time / Les heures et les saisons](https://open.spotify.com/album/5bHrnrvTwxZmyeYvdLefkp) | 6:52 |
 | 30 | [Composition In Tribute To NCPA \- Rupak Taal \(Live\)](https://open.spotify.com/track/0FfiysGylWCt0c3A46x0js) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr) | [Live Masterworks From The NCPA Archives](https://open.spotify.com/album/2EaUnWxQqaTEMoKksiJdKK) | 5:24 |
 | 31 | [Raga Bhairav \- drut gat in teental](https://open.spotify.com/track/07kHlEAXVdzpfSc46bgrt3) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr) | [Ustad Amjad Ali Khan](https://open.spotify.com/album/1p7BWvcyXsV05mHE0iIvK1) | 8:39 |
-| 32 | [Kalpana](https://open.spotify.com/track/1wdcrUny0D7BPTxAUYcy8t) | [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [Classical Instrumental](https://open.spotify.com/artist/2R6U4X0LsoJnkScdAsDsP3) | [Icons Of Indian Classical Music \- Ustad Zakir Hussain \(Classical Instrumental\)](https://open.spotify.com/album/7EHOqSz8i1Ze1UKCLTkkN8) | 3:17 |
+| 32 | [Kalpana](https://open.spotify.com/track/7uEitG9S6yVFZdN4TI900S) | [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Icons Of Indian Classical Music \- Ustad Zakir Hussain \(Classical Instrumental\)](https://open.spotify.com/album/47e35FT5naIvWfZZvM51dD) | 3:17 |
 | 33 | [Celebration of Spring](https://open.spotify.com/track/5dPV1y7sON7wQk4z46DQDN) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Bansuri \- The Bamboo Flute of India](https://open.spotify.com/album/7l6MK2rackkPHiHhCINSxI) | 9:01 |
 | 34 | [Brilliant Corners](https://open.spotify.com/track/0dI9LZbIALb2E9LRbUuOrx) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Monk's Blues](https://open.spotify.com/album/5WuHIfyckUx0FPAG45aNFh) | 3:51 |
 | 35 | [Countdown \- Mono](https://open.spotify.com/track/0V2dEdN7vtaoIiR4MKY2vR) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 2:25 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 39 | [Vilambit Tintâl](https://open.spotify.com/track/7zdEcelcAAzpjv0fSfBJ77) | [Latif Ahmed Khan](https://open.spotify.com/artist/7o1px4JaKkGBGeGttSJ5cf), [Asif Ali Khan](https://open.spotify.com/artist/01WJRYrqBkkxXFPAreJVD8), [Ma Deva Prashanti](https://open.spotify.com/artist/7dgILeG3wG2476e4mrGDIf) | [Inde: Hommage à Latif Ahmed Khan \(India: A Tribute to Latif Ahmed Khan\)](https://open.spotify.com/album/0X7ABjctDytLyGlQIzjk3a) | 22:31 |
 | 40 | [Ants To You, Gods To Who ?](https://open.spotify.com/track/1M4x0ug19s7nSFYzjhBKTI) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 6:42 |
 
-Snapshot ID: `MCxkMTdkMDFkNWNjNTZlMTY1NmM1ZDE0MDljMzQ1N2U0ZGYyYzIwNTBl`
+Snapshot ID: `MCwyYzJkNzZlMzY3NmI3ZmZjMGU1ZjJjZTU3ZDM3NzJjYjUyM2Y4NjM4`

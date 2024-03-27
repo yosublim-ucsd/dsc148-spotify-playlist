@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > Pierre Garnier au top des 50 hits de variété française du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,010,923 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011,085 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 49 | [Et si c'était nous deux ?](https://open.spotify.com/track/5WoHKaZ9NNIPGjQ5B62u5V) | [Molière l'opéra urbain](https://open.spotify.com/artist/7eFL3K5giCsAHXus03F7Cd), [Shaïna Pronzola](https://open.spotify.com/artist/245ftfXZvHuYLnkiZwKxav), [Vike](https://open.spotify.com/artist/7Gvpw62202IqvJ3uyruHWI) | [Molière, le spectacle musical](https://open.spotify.com/album/6ISb3wobXqDACYpA9QARal) | 3:05 |
 | 50 | [Belle](https://open.spotify.com/track/7kmslsDZxmi87QwTsXEuaH) | [Paola](https://open.spotify.com/artist/7izxlZDhSich8F2ukPd3pc) | [Belle](https://open.spotify.com/album/1poQ0HjBQiJARpbeMcgGqu) | 2:23 |
 
-Snapshot ID: `MCw1YzQxMmNiYmJkMDk5N2QxMDc5NjE0YTQ5OGVlNTcyYWVlMGIzMzhj`
+Snapshot ID: `MCxkODFmY2ZmNjkzMmQ5MTRmMDAyMDczYzM4NThlMjUyZTIyZGQwOTRh`

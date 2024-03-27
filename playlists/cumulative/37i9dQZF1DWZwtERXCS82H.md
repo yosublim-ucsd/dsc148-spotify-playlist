@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-728 songs - 1 day 7 hr 29 min
+729 songs - 1 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -713,7 +713,8 @@
 | [White Road](https://open.spotify.com/track/5im9REzRM7HXHBgedv0lod) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [White Road](https://open.spotify.com/album/4CqT4Z5flLY2Kiy1a2oiMf) | 2:23 | 2023-08-07 |  |
 | [Who I Was](https://open.spotify.com/track/0oVnmc2zYZuFxYHs21Q5Me) | [Blissful Radiance](https://open.spotify.com/artist/7hrJrU2yFtaDBuXpKa5CcH) | [Who I Was](https://open.spotify.com/album/7DkxS1r9fYg01oz4kMngbo) | 2:05 | 2022-04-15 | 2023-05-04 |
 | [Why Talk](https://open.spotify.com/track/1M8F8Wav4lOZstOtFxGo56) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [Why Talk](https://open.spotify.com/album/3itSrZTR8a8kwhM7EoyRBu) | 2:34 | 2024-02-27 | 2024-03-13 |
-| [Why Talk](https://open.spotify.com/track/5eoIxoSCpVym392lDtUVDd) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [About The Known](https://open.spotify.com/album/1II575rpuj84021opzGTJ3) | 2:34 | 2024-02-27 |  |
+| [Why Talk](https://open.spotify.com/track/2ja2WjUnAzC6hjlglHrZFu) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [And The Unknown](https://open.spotify.com/album/0eoyfDQZjpyxbbpt6RA6UI) | 2:34 | 2024-03-25 |  |
+| [Why Talk](https://open.spotify.com/track/5eoIxoSCpVym392lDtUVDd) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [About The Known](https://open.spotify.com/album/1II575rpuj84021opzGTJ3) | 2:34 | 2024-02-27 | 2024-03-27 |
 | [Wide Skies](https://open.spotify.com/track/7dgAZemjrAuLHTOikyWtbA) | [Liona Sand](https://open.spotify.com/artist/1p6pGVY7ZTHr9Lv9DCXQiE) | [Wide Skies](https://open.spotify.com/album/5flaLlq8sLt6VdnPCr5Ast) | 3:22 | 2022-04-15 | 2024-02-14 |
 | [Wiedersehen](https://open.spotify.com/track/3XJCDdzmuUdxz8hqXT32Gv) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [Wiedersehen](https://open.spotify.com/album/1llNEXcHkiatftwmtVnkmr) | 3:27 | 2024-02-27 |  |
 | [Winds From The North](https://open.spotify.com/track/4qqKiqhvlVA5bahG0AFMip) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Winds From The North](https://open.spotify.com/album/0hO2pdcwBnbitpXMXsVYZ7) | 2:24 | 2024-03-18 |  |

@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "NzI3MyxhZmI0MzhlYzdiODE0YjljMzE5Y2MzMDBjM2MyMjM4MjMyMzk3YzYy",
+  "snapshot_id": "NzI3Niw1ZmJhYjY5NmMwYzlhNTNhZGIwMmQ5NGUwY2IwYWJmMDRlZTA3ODc4",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -2323,6 +2323,62 @@
       "duration_ms": 167477,
       "name": "Precision",
       "url": "https://open.spotify.com/track/0jYYthUDGsJrYMCrtdHYtJ"
+    },
+    {
+      "added_at": "2024-03-26 16:22:43",
+      "album": {
+        "name": "LP!",
+        "url": "https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 112451,
+      "name": "WHAT KIND OF RAPPIN' IS THIS?",
+      "url": "https://open.spotify.com/track/2dvgoGTEjoPWou8KdL9h1g"
+    },
+    {
+      "added_at": "2024-03-26 16:28:26",
+      "album": {
+        "name": "No Idols",
+        "url": "https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ"
+      },
+      "artists": [
+        {
+          "name": "Domo Genesis",
+          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Me And My Bitch",
+      "url": "https://open.spotify.com/track/1Kz0tgMRWsbLzEuzRaU1vP"
+    },
+    {
+      "added_at": "2024-03-26 19:12:40",
+      "album": {
+        "name": "No Idols",
+        "url": "https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ"
+      },
+      "artists": [
+        {
+          "name": "Domo Genesis",
+          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 127026,
+      "name": "Fuck Everybody Else",
+      "url": "https://open.spotify.com/track/4UqvWxvygh6aTOXfXvvQd8"
     }
   ],
   "unique_name": "main ",

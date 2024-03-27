@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 20435,
+  "2024-03-27": 20459,
   "date_first_scraped": "2023-05-27",
   "description": "For all the new African Gospel Releases this week. Cover:   <a href=https://open.spotify.com/artist/6uDsL3665JpJrYZUBih0HN?si=PXIfrLDVRFeEv27pPv3cTQ>Solomon Lange</a> ",
   "name": "Fresh Gospel Africa",
@@ -1139,6 +1139,24 @@
       "duration_ms": 185905,
       "name": "All about you",
       "url": "https://open.spotify.com/track/6QPhjfBc6FiIdQtb6OxxiT"
+    },
+    {
+      "album": {
+        "name": "All by Yourself",
+        "url": "https://open.spotify.com/album/3VvEakvT2lnNnDKI7WpRRf"
+      },
+      "artists": [
+        {
+          "name": "Mister Pryz",
+          "url": "https://open.spotify.com/artist/5qTx80xfDGeoEIHHHZPlxs"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192444,
+      "name": "All by Yourself",
+      "url": "https://open.spotify.com/track/6zyc9bp92MOlaMEuHaEr8D"
     },
     {
       "album": {
@@ -3315,6 +3333,28 @@
       "duration_ms": 162665,
       "name": "AYE",
       "url": "https://open.spotify.com/track/5wDtmZ8wKSUN6oozVrSjNA"
+    },
+    {
+      "album": {
+        "name": "Aye O",
+        "url": "https://open.spotify.com/album/5Hx4kaB6U0zoDBNuRAb2vh"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kwesi Kai",
+          "url": "https://open.spotify.com/artist/4jXMIaSmhlUdpfJnVQ1WKA"
+        },
+        {
+          "name": "Ps Isaiah Fosu Kwakye Jnr.",
+          "url": "https://open.spotify.com/artist/3ztTjTRkeMlIA5kzq26SaC"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 827680,
+      "name": "Aye O",
+      "url": "https://open.spotify.com/track/1gKYBRttcD0aOJ9TQXOztZ"
     },
     {
       "album": {
@@ -7507,7 +7547,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 249517,
       "name": "Daar",
       "url": "https://open.spotify.com/track/6uMAbrsmpfFuMYnM7gTUGo"
@@ -14709,6 +14749,32 @@
       "duration_ms": 174708,
       "name": "Grace",
       "url": "https://open.spotify.com/track/1e7j4BQE1gsBeOmHtK8kXx"
+    },
+    {
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/5uu9r9SHS6jcu9O1XLGfz2"
+      },
+      "artists": [
+        {
+          "name": "Universal Rap Group",
+          "url": "https://open.spotify.com/artist/4zsys7ZsfouajUNIsykOiB"
+        },
+        {
+          "name": "YungRukki",
+          "url": "https://open.spotify.com/artist/7BmrvzISv1sdMWY7ifSRSi"
+        },
+        {
+          "name": "Sablar",
+          "url": "https://open.spotify.com/artist/0do4yoWrGKWLS0qNjKG2uV"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166530,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/12u4dzqDPzk82vLwLNXZ2s"
     },
     {
       "album": {
@@ -23577,7 +23643,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 132000,
       "name": "Locked In",
       "url": "https://open.spotify.com/track/1aNUhtKQUXurSFLRA9SKL1"

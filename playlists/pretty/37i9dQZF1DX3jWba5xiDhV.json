@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 200206,
+  "num_followers": 200408,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTUzMGI4ODhhOWQ1ODhmODQ3ZTdhODU2ZDU5YTk5ZTBiN2VkNWQ0",
+  "snapshot_id": "MCxkZmNhYWUwMTdjOGNjZTI0Nzk0OWU3YzYzNDk2YmVmZjRiMWU0NjZm",
   "tracks": [
     {
       "added_at": "2024-03-07 23:01:00",
@@ -731,22 +731,18 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Ma quale idea (Myd Remix)",
-        "url": "https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY"
+        "name": "Viewpoint",
+        "url": "https://open.spotify.com/album/2hGI6J931bSqHmpirIY9Fb"
       },
       "artists": [
         {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+          "name": "Gazebo",
+          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
         }
       ],
-      "duration_ms": 219140,
-      "name": "Ma quale idea - Myd Remix (Radio Edit)",
-      "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
+      "duration_ms": 254973,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh"
     },
     {
       "added_at": "2024-03-07 23:01:00",
@@ -771,18 +767,22 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Viewpoint",
-        "url": "https://open.spotify.com/album/2hGI6J931bSqHmpirIY9Fb"
+        "name": "Ma quale idea (Myd Remix)",
+        "url": "https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY"
       },
       "artists": [
         {
-          "name": "Gazebo",
-          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
         }
       ],
-      "duration_ms": 254973,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh"
+      "duration_ms": 219140,
+      "name": "Ma quale idea - Myd Remix (Radio Edit)",
+      "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
     },
     {
       "added_at": "2024-03-07 23:01:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Disco Fizz",
-        "url": "https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz"
-      },
-      "artists": [
-        {
-          "name": "Azoto",
-          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
-        }
-      ],
-      "duration_ms": 185748,
-      "name": "San Salvador - Single Version",
-      "url": "https://open.spotify.com/track/149eMDp4tMxx22Z6k4dCuZ"
-    },
-    {
-      "added_at": "2024-03-07 23:01:00",
-      "album": {
         "name": "Che Caldo",
         "url": "https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 205903,
       "name": "Che Caldo",
       "url": "https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Disco Fizz",
+        "url": "https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz"
+      },
+      "artists": [
+        {
+          "name": "Azoto",
+          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
+        }
+      ],
+      "duration_ms": 185748,
+      "name": "San Salvador - Single Version",
+      "url": "https://open.spotify.com/track/149eMDp4tMxx22Z6k4dCuZ"
     },
     {
       "added_at": "2024-03-07 23:01:00",

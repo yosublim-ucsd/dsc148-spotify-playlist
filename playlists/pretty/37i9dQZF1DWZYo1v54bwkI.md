@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 
 > Respira profundamente y relaja tu mente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,478 likes - 211 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,816 likes - 211 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,32 +18,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 | 8 | [Our Sky](https://open.spotify.com/track/1yncwCa1tcGKxaHAZuNdRL) | [De Janos](https://open.spotify.com/artist/6MnCLU3GNlSU6WcgJOAjwl) | [Our Sky](https://open.spotify.com/album/4SuAcGPdMEidSJCZq6qFz2) | 3:13 |
 | 9 | [Deeper Feelings](https://open.spotify.com/track/5SJZAqICbOr44zfdXfFFuO) | [Andrei Mizi](https://open.spotify.com/artist/6KnknNIJOqJZzBiooVpN3R) | [Deeper Feelings](https://open.spotify.com/album/1EGnUicl4eQNyq4BzbMY7T) | 3:04 |
 | 10 | [Lingering Dust](https://open.spotify.com/track/4uoFqBHR8YeFTADZeYRDik) | [Sapphire Roamer](https://open.spotify.com/artist/5HApDTtpmxO5TFD6vCjKpI) | [Lingering Dust](https://open.spotify.com/album/2M1LKtSKCHTAFTOLWsHApH) | 2:42 |
-| 11 | [Harmony of dreams](https://open.spotify.com/track/16Tgaap5vNPAGpT3j5dwtl) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Harmony of dreams](https://open.spotify.com/album/1Vz4Z26MK76PRfkg9onN7j) | 3:43 |
-| 12 | [Free Vigour](https://open.spotify.com/track/4DQDWPoBqNUhFJlY5gUQN7) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Free Vigour](https://open.spotify.com/album/2Rmeg8XQW7eXdMGaEhFIAm) | 3:20 |
-| 13 | [Spiritual Balance](https://open.spotify.com/track/6CzRJvO258XHqqUSzmsP4X) | [Ambient X](https://open.spotify.com/artist/15NGcH8rjmaCOXThYAmKNX) | [Spiritual Balance](https://open.spotify.com/album/7tDxaBx1lXyzMIi4oqExgI) | 2:47 |
-| 14 | [A quiet dawn](https://open.spotify.com/track/1LTYXEgC5nQCHXdpN7Q7CC) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [A quiet dawn](https://open.spotify.com/album/4JRaZmlNVX28v4rQZ73qBX) | 2:23 |
-| 15 | [Calm Reservoir](https://open.spotify.com/track/6oSfuQVa5NVuZE3kHYbFgN) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Calm Reservoir](https://open.spotify.com/album/3ZCjwdGKdjfSPyTsGPQyDd) | 3:35 |
-| 16 | [Angelic Grace](https://open.spotify.com/track/3oHTwjDovV4AHlgjrZwvtf) | [Simone Baillard](https://open.spotify.com/artist/7pJOC2WVTR888AUtLPCoLh) | [Angelic Grace](https://open.spotify.com/album/43BnxGptkurZNskMqXPk64) | 2:57 |
-| 17 | [Atrea & Astrea](https://open.spotify.com/track/1XOpm9WIEN5yLBH18kh4zf) | [Nova Cantabile](https://open.spotify.com/artist/2Y6DHL3HjAYTtjKurRxg1l) | [Atrea & Astrea](https://open.spotify.com/album/5Ruc9C03VcBwAlFDVpUgQz) | 2:28 |
-| 18 | [Mistletoe](https://open.spotify.com/track/3sdesEyISVCRUqj0c12Jxp) | [Blossom Inn](https://open.spotify.com/artist/1oOLgA7Gl8VzwsIadutGo8) | [Mistletoe](https://open.spotify.com/album/6iC1rAAQha2cLCEWE3TBRm) | 2:32 |
-| 19 | [Brouillard](https://open.spotify.com/track/2ipaoD46EkZp6IFSBaA26j) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Brouillard](https://open.spotify.com/album/6OQCk9XwIxKRKClT326hMm) | 2:19 |
-| 20 | [Hir](https://open.spotify.com/track/1j5jXzbjr34PbSmXEPFEnL) | [Lee Azalea](https://open.spotify.com/artist/5nQNc4ExpTTrS00gqk1J2y) | [Hir](https://open.spotify.com/album/4NfnyvYhG8epCPJw7eY4s2) | 2:49 |
-| 21 | [Amethyst](https://open.spotify.com/track/3d1399HgDr0DSrnmd2EUIx) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Amethyst](https://open.spotify.com/album/1yXjEkY9ngLsAW8Fc1Hur5) | 3:02 |
-| 22 | [Slumber](https://open.spotify.com/track/33KyZMzOl4ah74UBMr18kA) | [Gabrio Mele](https://open.spotify.com/artist/04rNs9AP6fQsXkTgCnFzrw) | [Slumber](https://open.spotify.com/album/2SISMhtO0zydHwtHpV67yV) | 3:25 |
-| 23 | [Shadow Scape](https://open.spotify.com/track/5TGJIsUo3MOjlD2N88nHey) | [Ephemeral Odyssey](https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif) | [Shadow Scape](https://open.spotify.com/album/58jsMRx6Nn9pcTSqs7T37N) | 2:59 |
-| 24 | [Pure Elements](https://open.spotify.com/track/3VXo1X3728wauOstZ44viK) | [Eustace Zachary](https://open.spotify.com/artist/02z2wzPVdsZWkKB0BRfhBM) | [Calming Sounds](https://open.spotify.com/album/3lep8BdhfX3rEnCauSUtLE) | 3:15 |
-| 25 | [A World Away](https://open.spotify.com/track/2q2BfGBehYrqv7SHkqzldR) | [Kaleido Young](https://open.spotify.com/artist/4c4Y540mQ31qDu85OrbURi) | [A World Away](https://open.spotify.com/album/0QYPZ8iuY45cLrq3oFGMJG) | 2:20 |
-| 26 | [Ethereal Vibes](https://open.spotify.com/track/2RkFPrq3jcUFGQiOdpxgvw) | [Trevor Marson](https://open.spotify.com/artist/4HY7iJRgI9SLocwSY7nZja) | [Ethereal Vibes](https://open.spotify.com/album/4kykxUC16LV7Zdtp3C10j3) | 3:10 |
-| 27 | [In a Sentence](https://open.spotify.com/track/4LNY7W6U2JFRN135YZq6rH) | [Alec Wynter](https://open.spotify.com/artist/6PKn0AB4MUWk51WWdZLPMd) | [In a Sentence](https://open.spotify.com/album/6d3NoUO1WR1r6DOylTnB5o) | 2:45 |
-| 28 | [Luminus Circle](https://open.spotify.com/track/6SL08B5P8DpWGGOH9jypaq) | [De Ester](https://open.spotify.com/artist/0dbcAyHyp9aAsEqAAZHjr4) | [Luminus Circle](https://open.spotify.com/album/3R35qejYTRWTxl5g62TSom) | 3:22 |
-| 29 | [Zorora](https://open.spotify.com/track/1okmwtb0Elf2nyOBGlzZAf) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Zorora](https://open.spotify.com/album/4iXrTyj4ZuiiHHAPzdL0LQ) | 2:36 |
-| 30 | [Coherence](https://open.spotify.com/track/2vjurdtpGGt8qTXEEy0tF1) | [Distant Dreams](https://open.spotify.com/artist/4YJcFIbKdvMxTzfwJDEUbY) | [Coherence](https://open.spotify.com/album/2JzNv0ZN7HlwyGNrkBlP14) | 3:04 |
-| 31 | [Ingenmansland](https://open.spotify.com/track/2LuJunuvByycR6JdCd5r1b) | [Lea Bremer](https://open.spotify.com/artist/6kFlt59HATOROWfm7ZuxYC) | [Ingenmansland](https://open.spotify.com/album/1sN7TzeG46F68twBeaJ8fi) | 2:51 |
-| 32 | [Fleeting](https://open.spotify.com/track/0AyqTD2FRAUQxTCLP0X886) | [Maximilian Zapdo](https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc) | [Illusive](https://open.spotify.com/album/13oIzXa4Zd1CI8YqEKgR71) | 3:01 |
-| 33 | [Blomma](https://open.spotify.com/track/3p8KyONFH0lT1dpmclxtWW) | [Malluma Nokto](https://open.spotify.com/artist/7ftD6LOqlL3lBzI4H4fbTg) | [Blomma](https://open.spotify.com/album/0jxhXC3LDUnkKKpac93TAk) | 2:57 |
-| 34 | [Deep And Hollow](https://open.spotify.com/track/6z1QfP61cL5IkPCVm3BKiw) | [Thoas Galla](https://open.spotify.com/artist/3nLy5nvClRzsJbCuRQfvZF) | [Deep And Hollow](https://open.spotify.com/album/7pYFDBdBF4Anj3eRP753pw) | 2:52 |
-| 35 | [All Of Us](https://open.spotify.com/track/6e18CFquaTbBT8aUQ0Vl1A) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [All Of Us](https://open.spotify.com/album/0HM8y58DFBfqDjGiaIoMWQ) | 2:56 |
-| 36 | [Soothing Embrace](https://open.spotify.com/track/6qnt8H3eAY6784Ix1evQn8) | [Lion Thin](https://open.spotify.com/artist/6ckx46cAYPJHRxDwYL2Cg6) | [Soothing Embrace](https://open.spotify.com/album/275C7aqS47PWWERKOOXtYp) | 2:27 |
+| 11 | [A quiet dawn](https://open.spotify.com/track/1LTYXEgC5nQCHXdpN7Q7CC) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [A quiet dawn](https://open.spotify.com/album/4JRaZmlNVX28v4rQZ73qBX) | 2:23 |
+| 12 | [Calm Reservoir](https://open.spotify.com/track/6oSfuQVa5NVuZE3kHYbFgN) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Calm Reservoir](https://open.spotify.com/album/3ZCjwdGKdjfSPyTsGPQyDd) | 3:35 |
+| 13 | [Angelic Grace](https://open.spotify.com/track/3oHTwjDovV4AHlgjrZwvtf) | [Simone Baillard](https://open.spotify.com/artist/7pJOC2WVTR888AUtLPCoLh) | [Angelic Grace](https://open.spotify.com/album/43BnxGptkurZNskMqXPk64) | 2:57 |
+| 14 | [Atrea & Astrea](https://open.spotify.com/track/1XOpm9WIEN5yLBH18kh4zf) | [Nova Cantabile](https://open.spotify.com/artist/2Y6DHL3HjAYTtjKurRxg1l) | [Atrea & Astrea](https://open.spotify.com/album/5Ruc9C03VcBwAlFDVpUgQz) | 2:28 |
+| 15 | [Mistletoe](https://open.spotify.com/track/3sdesEyISVCRUqj0c12Jxp) | [Blossom Inn](https://open.spotify.com/artist/1oOLgA7Gl8VzwsIadutGo8) | [Mistletoe](https://open.spotify.com/album/6iC1rAAQha2cLCEWE3TBRm) | 2:32 |
+| 16 | [Brouillard](https://open.spotify.com/track/2ipaoD46EkZp6IFSBaA26j) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Brouillard](https://open.spotify.com/album/6OQCk9XwIxKRKClT326hMm) | 2:19 |
+| 17 | [Hir](https://open.spotify.com/track/1j5jXzbjr34PbSmXEPFEnL) | [Lee Azalea](https://open.spotify.com/artist/5nQNc4ExpTTrS00gqk1J2y) | [Hir](https://open.spotify.com/album/4NfnyvYhG8epCPJw7eY4s2) | 2:49 |
+| 18 | [Pure Elements](https://open.spotify.com/track/3VXo1X3728wauOstZ44viK) | [Eustace Zachary](https://open.spotify.com/artist/02z2wzPVdsZWkKB0BRfhBM) | [Calming Sounds](https://open.spotify.com/album/3lep8BdhfX3rEnCauSUtLE) | 3:15 |
+| 19 | [A World Away](https://open.spotify.com/track/2q2BfGBehYrqv7SHkqzldR) | [Kaleido Young](https://open.spotify.com/artist/4c4Y540mQ31qDu85OrbURi) | [A World Away](https://open.spotify.com/album/0QYPZ8iuY45cLrq3oFGMJG) | 2:20 |
+| 20 | [Ethereal Vibes](https://open.spotify.com/track/2RkFPrq3jcUFGQiOdpxgvw) | [Trevor Marson](https://open.spotify.com/artist/4HY7iJRgI9SLocwSY7nZja) | [Ethereal Vibes](https://open.spotify.com/album/4kykxUC16LV7Zdtp3C10j3) | 3:10 |
+| 21 | [In a Sentence](https://open.spotify.com/track/4LNY7W6U2JFRN135YZq6rH) | [Alec Wynter](https://open.spotify.com/artist/6PKn0AB4MUWk51WWdZLPMd) | [In a Sentence](https://open.spotify.com/album/6d3NoUO1WR1r6DOylTnB5o) | 2:45 |
+| 22 | [Zorora](https://open.spotify.com/track/1okmwtb0Elf2nyOBGlzZAf) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Zorora](https://open.spotify.com/album/4iXrTyj4ZuiiHHAPzdL0LQ) | 2:36 |
+| 23 | [Ingenmansland](https://open.spotify.com/track/2LuJunuvByycR6JdCd5r1b) | [Lea Bremer](https://open.spotify.com/artist/6kFlt59HATOROWfm7ZuxYC) | [Ingenmansland](https://open.spotify.com/album/1sN7TzeG46F68twBeaJ8fi) | 2:51 |
+| 24 | [Fleeting](https://open.spotify.com/track/0AyqTD2FRAUQxTCLP0X886) | [Maximilian Zapdo](https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc) | [Illusive](https://open.spotify.com/album/13oIzXa4Zd1CI8YqEKgR71) | 3:01 |
+| 25 | [Blomma](https://open.spotify.com/track/3p8KyONFH0lT1dpmclxtWW) | [Malluma Nokto](https://open.spotify.com/artist/7ftD6LOqlL3lBzI4H4fbTg) | [Blomma](https://open.spotify.com/album/0jxhXC3LDUnkKKpac93TAk) | 2:57 |
+| 26 | [Deep And Hollow](https://open.spotify.com/track/6z1QfP61cL5IkPCVm3BKiw) | [Thoas Galla](https://open.spotify.com/artist/3nLy5nvClRzsJbCuRQfvZF) | [Deep And Hollow](https://open.spotify.com/album/7pYFDBdBF4Anj3eRP753pw) | 2:52 |
+| 27 | [All Of Us](https://open.spotify.com/track/6e18CFquaTbBT8aUQ0Vl1A) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [All Of Us](https://open.spotify.com/album/0HM8y58DFBfqDjGiaIoMWQ) | 2:56 |
+| 28 | [Soothing Embrace](https://open.spotify.com/track/6qnt8H3eAY6784Ix1evQn8) | [Lion Thin](https://open.spotify.com/artist/6ckx46cAYPJHRxDwYL2Cg6) | [Soothing Embrace](https://open.spotify.com/album/275C7aqS47PWWERKOOXtYp) | 2:27 |
+| 29 | [Coherence](https://open.spotify.com/track/2vjurdtpGGt8qTXEEy0tF1) | [Distant Dreams](https://open.spotify.com/artist/4YJcFIbKdvMxTzfwJDEUbY) | [Coherence](https://open.spotify.com/album/2JzNv0ZN7HlwyGNrkBlP14) | 3:04 |
+| 30 | [Slumber](https://open.spotify.com/track/33KyZMzOl4ah74UBMr18kA) | [Gabrio Mele](https://open.spotify.com/artist/04rNs9AP6fQsXkTgCnFzrw) | [Slumber](https://open.spotify.com/album/2SISMhtO0zydHwtHpV67yV) | 3:25 |
+| 31 | [Amethyst](https://open.spotify.com/track/3d1399HgDr0DSrnmd2EUIx) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Amethyst](https://open.spotify.com/album/1yXjEkY9ngLsAW8Fc1Hur5) | 3:02 |
+| 32 | [Harmony of dreams](https://open.spotify.com/track/16Tgaap5vNPAGpT3j5dwtl) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Harmony of dreams](https://open.spotify.com/album/1Vz4Z26MK76PRfkg9onN7j) | 3:43 |
+| 33 | [Spiritual Balance](https://open.spotify.com/track/6CzRJvO258XHqqUSzmsP4X) | [Ambient X](https://open.spotify.com/artist/15NGcH8rjmaCOXThYAmKNX) | [Spiritual Balance](https://open.spotify.com/album/7tDxaBx1lXyzMIi4oqExgI) | 2:47 |
+| 34 | [Shadow Scape](https://open.spotify.com/track/5TGJIsUo3MOjlD2N88nHey) | [Ephemeral Odyssey](https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif) | [Shadow Scape](https://open.spotify.com/album/58jsMRx6Nn9pcTSqs7T37N) | 2:59 |
+| 35 | [Luminus Circle](https://open.spotify.com/track/6SL08B5P8DpWGGOH9jypaq) | [De Ester](https://open.spotify.com/artist/0dbcAyHyp9aAsEqAAZHjr4) | [Luminus Circle](https://open.spotify.com/album/3R35qejYTRWTxl5g62TSom) | 3:22 |
+| 36 | [Free Vigour](https://open.spotify.com/track/4DQDWPoBqNUhFJlY5gUQN7) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Free Vigour](https://open.spotify.com/album/2Rmeg8XQW7eXdMGaEhFIAm) | 3:20 |
 | 37 | [Solmization \- 528Hz](https://open.spotify.com/track/0PBeh1YEfaYyZEk0CvqZdl) | [Jonathan Dorjee](https://open.spotify.com/artist/1yxN1A5zsJCnmAvXM41959) | [Solmization \- 528Hz](https://open.spotify.com/album/3HCsnYDEk62epUuxXjOlHs) | 2:44 |
 | 38 | [Sunset Sky](https://open.spotify.com/track/7vwmP5FaH3TNKrJ5MBXSF8) | [Sanyo Green](https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy) | [Sunset Sky](https://open.spotify.com/album/59WTZuYhCDdgKZs5a2EawB) | 3:09 |
 | 39 | [Colours](https://open.spotify.com/track/03rievEiJ7NxtUfak0XGPH) | [Beloved More](https://open.spotify.com/artist/4MK9CnbT54N8i28jWYx4s8) | [Colours](https://open.spotify.com/album/7gS11TlkTwLYdH2lEJi3kd) | 3:10 |
@@ -220,4 +220,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 | 210 | [Dream about me](https://open.spotify.com/track/6L1sKb2kv74gPGUpjkybTO) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Dream about me](https://open.spotify.com/album/3XHxAXn40Nwlbjrg6rbRlK) | 2:58 |
 | 211 | [Eller](https://open.spotify.com/track/7dixtAcv16QYnWjtPhRPQd) | [Recitations from Earth](https://open.spotify.com/artist/5BXtXfmXj7Rh5K2G9QsxWj) | [Eller](https://open.spotify.com/album/4myRid1Fkb4ipyrcVqk0yJ) | 3:32 |
 
-Snapshot ID: `MCwwNjZlYjQ1NGRiZDdjNDgzZmNiMWQwYmMwZTgxNmNjMDg1ZGRkNzEw`
+Snapshot ID: `MCwyN2U2NzFkODM5YmE0NzJiMzc4MDQ1YWZhNjVkODE1NTJkZWE3MzY5`

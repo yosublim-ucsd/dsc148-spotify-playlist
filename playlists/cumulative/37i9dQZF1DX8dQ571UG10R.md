@@ -4,7 +4,7 @@
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-90 songs - 6 hr 8 min
+91 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Amor Complicado](https://open.spotify.com/track/1fiaPgQcrNhNPYdFouflft) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Amor Complicado](https://open.spotify.com/album/11Nr9YVEykejmmWdaz6eJa) | 4:03 | 2022-02-22 | 2023-05-27 |
 | [Bbay](https://open.spotify.com/track/12U9gfj6mqCY7HO1HiZYIw) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Baby](https://open.spotify.com/album/5IruRk9n5F8C986iA5JGg2) | 4:11 | 2023-06-23 |  |
 | [Chainsaw Man](https://open.spotify.com/track/3AF9WkqyCw1U6Vlalt3pQ5) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Chainsaw Man](https://open.spotify.com/album/5c5TZZCOaiwyBO479W12a2) | 3:19 | 2023-06-02 |  |
-| [Chamas Azuis](https://open.spotify.com/track/5PUhWvFvj8Hx1pwe0A0wGA) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [808 Ander](https://open.spotify.com/artist/22BZPaeC7qaUL1opAQCWTk) | [Chamas Azuis](https://open.spotify.com/album/6jydQD6FUMLFJTFVKwpfbg) | 3:42 | 2022-02-22 |  |
+| [Chamas Azuis](https://open.spotify.com/track/4hvm67kg4IxuTB0897viQT) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [808 Ander](https://open.spotify.com/artist/22BZPaeC7qaUL1opAQCWTk) | [Chamas Azuis](https://open.spotify.com/album/4PWDcsPASCflVbWNtU02of) | 3:42 | 2023-12-22 |  |
+| [Chamas Azuis](https://open.spotify.com/track/5PUhWvFvj8Hx1pwe0A0wGA) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [808 Ander](https://open.spotify.com/artist/22BZPaeC7qaUL1opAQCWTk) | [Chamas Azuis](https://open.spotify.com/album/6jydQD6FUMLFJTFVKwpfbg) | 3:42 | 2022-02-22 | 2024-03-27 |
 | [Chuva de Kunai](https://open.spotify.com/track/4usBkW8CT7JWQeKKFOrzmX) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Chuva de Kunai](https://open.spotify.com/album/6Ws7SAfsSmqkGGCjhX3LUk) | 3:19 | 2023-06-02 | 2023-12-16 |
 | [Chuva de Kunai](https://open.spotify.com/track/5nOfsUpaptWMqeyGmkyz9i) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Chuva de Kunai](https://open.spotify.com/album/30XPTajhSn4Ppj3V3UXvlZ) | 3:19 | 2023-11-10 |  |
 | [Chuva de Kunai](https://open.spotify.com/track/7iKZKK9gpHpOeW0Hwredfy) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Chuva de Kunai](https://open.spotify.com/album/3VfiWdnJHEUHT34XUUn68f) | 3:19 | 2022-02-22 | 2023-06-18 |

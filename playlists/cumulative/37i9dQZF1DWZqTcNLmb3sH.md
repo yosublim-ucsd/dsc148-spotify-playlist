@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Karataka Damanaka
 
-1,113 songs - 2 day 20 hr 9 min
+1,114 songs - 2 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [Idu Yeno Ond Thara](https://open.spotify.com/track/6Yc4XeH6yX3AE5WELTgMq6) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Siddharth Belmannu](https://open.spotify.com/artist/79LdQ8oCiYU93qEqWMEUCj) | [Orchestra, Mysuru! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1xZ7njeguIdXjWWuBFDnqd) | 4:56 | 2023-01-12 | 2023-03-04 |
 | [Ili Sanjeyu Mankagide](https://open.spotify.com/track/2fMdEkql4Od2To6bhpRxYT) | [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [Rahul Raj Music](https://open.spotify.com/artist/6pWY7RG00F76WyWWXshlbV) | [Feel My Love \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6c27PQGtfDHPDTolAbsJEZ) | 4:24 | 2023-05-18 | 2023-08-09 |
 | [Inthavara Santhana Bhagya Kittu \- From"Jugalbandi"](https://open.spotify.com/track/1XGofN9UujsqY2FRCdw77W) | [Vaikom Vijayalakshmi](https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb), [Praddyottan](https://open.spotify.com/artist/2cM8BF1ngqyE703rsaRbaw), [Divakar Dimdima](https://open.spotify.com/artist/3t0VYNjVeKzKOHEMO7OjoH) | [Inthavara Santhana Bhagya Kittu \(From"Jugalbandi"\)](https://open.spotify.com/album/2eN7rNisBfyAWmebvcpS93) | 4:18 | 2022-11-04 | 2023-03-07 |
+| [Ivane Avatara Purusha \(From "Avatara Purusha 2"\)](https://open.spotify.com/track/6yhZJxvU8kYHGtEXaiPdSY) | [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp), [Auraa](https://open.spotify.com/artist/7pCZ0u25jpdxDZy5Z8HbwX), [Abhinandan Kashyap](https://open.spotify.com/artist/1V6A4aayMYPUr5tLVKmrQA) | [Ivane Avatara Purusha \(From "Avatara Purusha 2"\)](https://open.spotify.com/album/7GzNuvCZAACCkPZpsHYbPb) | 2:52 | 2024-03-26 |  |
 | [Ivane Master \[Title Track\] \(From "Shokiwala \- Kannada"\)](https://open.spotify.com/track/4UN7341XooguUGOKUwmxgu) | [V Sridhar Sambhram](https://open.spotify.com/artist/4gWwXX46KPq97oov9NfYMC), [Shashank Sheshagiri](https://open.spotify.com/artist/4VbeDQpfiX1x8FFDuxmrXy) | [Ivane Master \[Title Track\] \(From "Shokiwala \- Kannada"\)](https://open.spotify.com/album/6ZqDzyF3twSnR7NmZKs95f) | 4:02 | 2022-05-17 | 2022-07-16 |
 | [Ivanu \(From "Tiger Nageswara Rao"\) \(Kannada\)](https://open.spotify.com/track/0m25syyBZlV40tujgMvU1v) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD) | [Ivanu \(From "Tiger Nageswara Rao"\) \(Kannada\)](https://open.spotify.com/album/23cr2birsfkl2gaxuApa6s) | 3:18 | 2023-09-21 | 2023-10-04 |
 | [Jaago Re Jaago Re](https://open.spotify.com/track/3Fxs7CcSYBsFbFFh9fWuaK) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Hrithik Siddachar](https://open.spotify.com/artist/5eENxibIX1L7o2BpXYdhWI), [Silvia Fernandes](https://open.spotify.com/artist/0XfiGqRCTa7QB9X5WhTCZV), [Darrel Mascarenhas](https://open.spotify.com/artist/11jMI9dmkoeyybCWOPLgxA) | [Garuda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5H8DLlxxjTJ0X7S4059yN8) | 4:00 | 2022-01-03 | 2022-02-02 |

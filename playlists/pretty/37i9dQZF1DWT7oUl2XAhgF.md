@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Britti
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,976 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,022 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 21 | [Closer](https://open.spotify.com/track/2mAMcZ18iCU39tTF0PHvVx) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Closer](https://open.spotify.com/album/5heDsRjgWf63G0F3dzGEji) | 3:33 |
 | 22 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
 | 23 | [Be With Me](https://open.spotify.com/track/6VavOiyoO5yXe31rzQQidB) | [Pat Van Dyke](https://open.spotify.com/artist/1yaeIrccwZJISDyXmizfZZ), [Jeff Taylor](https://open.spotify.com/artist/63PIgnaohnnnVea0ZSOWLp), [Ansley Stewart](https://open.spotify.com/artist/5vhTunGtLVYEAvjIOurNxS) | [Be With Me](https://open.spotify.com/album/1jZdxDxqza2rwg7vkfIgeI) | 3:30 |
-| 24 | [Dance With Me](https://open.spotify.com/track/3D5Lrb3hzIs5ueUvuGpWWG) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Dance With Me](https://open.spotify.com/album/5am0gtPGTLFAADXodhymWp) | 3:48 |
+| 24 | [Dance With Me](https://open.spotify.com/track/1lGYIrfy4ulioJGYAjRD0h) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Zero Grace](https://open.spotify.com/album/4loYR62mrFQeCzK5pHoV5l) | 3:48 |
 | 25 | [I Miss You \- Radio Edit](https://open.spotify.com/track/3qyZk0hMioN5kEMCPDPxzo) | [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx), [The Black Belts](https://open.spotify.com/artist/0E2ByLJA2G0NMjQg0Dn8ct) | [Free Me](https://open.spotify.com/album/5I6bqE1FN7H0ecfdpz8lTY) | 3:19 |
 | 26 | [Made Up Your Mind](https://open.spotify.com/track/7y9MSDTGKQphbjLE0pL8OZ) | [MT Jones](https://open.spotify.com/artist/0DLNLJyVZ55oPrSrsbiD5m) | [Made Up Your Mind](https://open.spotify.com/album/1OIJ6gRVd4Ez5oF16f2Awk) | 3:19 |
 | 27 | [Back to your Place](https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Back to your Place](https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [You](https://open.spotify.com/track/7y8xMbDt5a5XlcRUAyov8N) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 3:00 |
 | 100 | [My Dirty Desire](https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:26 |
 
-Snapshot ID: `MCwwNDI0NWY1MmRkNTJiNjA3Njg0ZmIzM2MxNWI0NmY2MTI3Y2ViODZl`
+Snapshot ID: `MCw0M2ExN2MyYTIyM2U2OTQzMzc0NjdlYjZiYjQ0MTY3MWFhMmQ3N2I4`

@@ -856,10 +856,32 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 206001,
       "name": "Figurinha - Ao Vivo",
       "url": "https://open.spotify.com/track/3vWiMpsy2VMkKqQCtN5mr4"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo No Golf Estate",
+        "url": "https://open.spotify.com/album/7z6qoxXTPIfJkME28S1uXn"
+      },
+      "artists": [
+        {
+          "name": "Douglas & Vinicius",
+          "url": "https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro"
+        },
+        {
+          "name": "MC Bruninho",
+          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206032,
+      "name": "Figurinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/3qdkx26Wg8KlvyuiAprREm"
     },
     {
       "album": {

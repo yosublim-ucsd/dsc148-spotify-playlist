@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 El Club Audiovisual
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,606 likes - 95 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,607 likes - 95 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 94 | [Simulando Esperar](https://open.spotify.com/track/29NlMSR1PJstmIksMhLMKt) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Simulando Esperar](https://open.spotify.com/album/2nxDLdVzUcWSQQG7Qi0pme) | 3:59 |
 | 95 | [Nuevo Plano](https://open.spotify.com/track/7cA4kcht49w4hcC6YYG0Ce) | [Entidad Animada](https://open.spotify.com/artist/2fa4MkhFQbeYbxkvHF3M7P) | [Nuevo Plano](https://open.spotify.com/album/6F5WoawljfNJDKEFQHNVKr) | 2:25 |
 
-Snapshot ID: `MCwxMjZlYmU2M2I0ODQ0OTkwMzk2OTY3NTRiYjQ1YzNjZDk0NjYxNDEz`
+Snapshot ID: `MCxlM2UwM2VmZmQyMmVjNDNkYzIwYzMxMzgyMjhjZGE1ZjQ1NTc0YTI2`

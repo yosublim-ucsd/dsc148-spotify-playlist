@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "24k",
+        "url": "https://open.spotify.com/album/2tJNLmGBN978TVsOR8ZBPL"
+      },
+      "artists": [
+        {
+          "name": "FourFiveNyne",
+          "url": "https://open.spotify.com/artist/2YhKD44kUXGZZ58RhrFWD6"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140480,
+      "name": "24k",
+      "url": "https://open.spotify.com/track/1t7gEDMO1GigErhWBDpOuv"
+    },
+    {
+      "album": {
         "name": "500 gr.",
         "url": "https://open.spotify.com/album/1txGawwmq3xShlmzfPg2mx"
       },
@@ -186,6 +204,24 @@
       "duration_ms": 112851,
       "name": "Arian",
       "url": "https://open.spotify.com/track/0qOKwBICWzPtScjJjuLLkv"
+    },
+    {
+      "album": {
+        "name": "Assembly",
+        "url": "https://open.spotify.com/album/76h4O2dQCZYyWEzSuzh2bv"
+      },
+      "artists": [
+        {
+          "name": "BamJam",
+          "url": "https://open.spotify.com/artist/3CWbOX4o8QeOTB28g9nnf2"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161785,
+      "name": "Assembly",
+      "url": "https://open.spotify.com/track/5mgflX71JVHpVomQoQGhnG"
     },
     {
       "album": {
@@ -2655,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "Pollution",
+        "url": "https://open.spotify.com/album/59ClEdPWnq2y8FXYCRiUTk"
+      },
+      "artists": [
+        {
+          "name": "Casiiwool",
+          "url": "https://open.spotify.com/artist/5KutRizSdKD7jYEhULGXKu"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161304,
+      "name": "Pollution",
+      "url": "https://open.spotify.com/track/5bEuOEohMirZGj6kVUKTFV"
+    },
+    {
+      "album": {
         "name": "Probiotic.",
         "url": "https://open.spotify.com/album/6OzyRp3FhRgYwjhsCFn7Rv"
       },
@@ -3780,6 +3834,24 @@
       "duration_ms": 320000,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/71SIbEj7UzajdjJ2NFAxD0"
+    },
+    {
+      "album": {
+        "name": "Unimerse",
+        "url": "https://open.spotify.com/album/7lfcSg7ikGV3p1Zbd91e61"
+      },
+      "artists": [
+        {
+          "name": "Push N' Glide",
+          "url": "https://open.spotify.com/artist/6PSNxYsazdREPJeS9XnUjA"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Unimerse",
+      "url": "https://open.spotify.com/track/4zG5rjF0PLcuVu6u43OgQD"
     },
     {
       "album": {

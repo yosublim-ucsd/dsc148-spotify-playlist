@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 31234,
+  "num_followers": 31238,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGI4MzA1YjViNzQzNzcwZjFhNjViY2Y5NmZiMDdmYWI0NDU5ZTQy",
+  "snapshot_id": "MCwxMTdkNzVkYjUyZDk4MjBmYjg0ZTY3ODkyMDI1NDc2YzRiNWIzODAz",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -143,26 +143,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Nouvel R",
-        "url": "https://open.spotify.com/album/7t73llYw1dPOBpewNut9GD"
-      },
-      "artists": [
-        {
-          "name": "Jim Rama",
-          "url": "https://open.spotify.com/artist/0lBsfiyz1qHN8F8alOIE60"
-        },
-        {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
-        }
-      ],
-      "duration_ms": 282120,
-      "name": "Gouy\u00e9",
-      "url": "https://open.spotify.com/track/116sqvAfJGse17D2vOqjSR"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Gen Bagay",
         "url": "https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 194716,
       "name": "Gen Bagay",
       "url": "https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Nouvel R",
+        "url": "https://open.spotify.com/album/7t73llYw1dPOBpewNut9GD"
+      },
+      "artists": [
+        {
+          "name": "Jim Rama",
+          "url": "https://open.spotify.com/artist/0lBsfiyz1qHN8F8alOIE60"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "duration_ms": 282120,
+      "name": "Gouy\u00e9",
+      "url": "https://open.spotify.com/track/116sqvAfJGse17D2vOqjSR"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -283,6 +283,22 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
+        "name": "Nan Building Nan",
+        "url": "https://open.spotify.com/album/73IxgcLusQRQ8JWuHivGyu"
+      },
+      "artists": [
+        {
+          "name": "System Band",
+          "url": "https://open.spotify.com/artist/1OpB6rkG92KAq4hVbRV0nU"
+        }
+      ],
+      "duration_ms": 323268,
+      "name": "Pa Leve Main Ou Sou Li",
+      "url": "https://open.spotify.com/track/7ckfJx3iy4IilztPg0q56V"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
         "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
         "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 324026,
       "name": "Yel\u00e9 (feat. Ms. Lauryn Hill)",
       "url": "https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "Nan Building Nan",
-        "url": "https://open.spotify.com/album/73IxgcLusQRQ8JWuHivGyu"
-      },
-      "artists": [
-        {
-          "name": "System Band",
-          "url": "https://open.spotify.com/artist/1OpB6rkG92KAq4hVbRV0nU"
-        }
-      ],
-      "duration_ms": 323268,
-      "name": "Pa Leve Main Ou Sou Li",
-      "url": "https://open.spotify.com/track/7ckfJx3iy4IilztPg0q56V"
     },
     {
       "added_at": "2020-06-03 18:17:45",

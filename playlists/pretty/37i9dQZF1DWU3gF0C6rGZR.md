@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 
 > Las obras maestras de dos enormes compositores, una tras otra\. No hay fallo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,442 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,491 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 | 99 | [Parabola](https://open.spotify.com/track/1iYsg65dfhhfE6dqhnySj2) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Dedicado A Antonio Machado, Poeta](https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX) | 2:15 |
 | 100 | [Com Ho Fa el Vent](https://open.spotify.com/track/1UnRlYQY1fyPrOqIKpLLfR) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Com Ho Fa El Vent](https://open.spotify.com/album/7amxIKMZZQE8AUkrXaje1O) | 1:36 |
 
-Snapshot ID: `MCwwYTJhODFkNmJhZWMyY2RiMGViMDZlZTQ2NTA3Yjg1OTYwNmQ5MTQw`
+Snapshot ID: `MCwxYzg0NWE1MmJmMDQxMjE4YTk2YjM3NDI2NjcxNGMyODY3NDhkMTNk`

@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 322999,
+  "num_followers": 323054,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTBlNDk3MzFmMWRhNTI4MWJhNTJhMDhiMmZkNTczZmE0NjQ1NTRl",
+  "snapshot_id": "MCw2MTk0OGI4MWJmNjNlMmFkNTM4NWEyYWZjN2NiN2NmYzg0Y2ZlNzQ1",
   "tracks": [
     {
       "added_at": "2023-05-05 18:26:22",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/76qUJi62hTd5bRFzBWLoXb"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
+        }
+      ],
+      "duration_ms": 324573,
+      "name": "Asi Fue",
+      "url": "https://open.spotify.com/track/2BZVPfPIA8y3ffJX5zSrpX"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 180533,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/0X11BjKj05dR2v64FwR2ot"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/76qUJi62hTd5bRFzBWLoXb"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 324573,
-      "name": "Asi Fue",
-      "url": "https://open.spotify.com/track/2BZVPfPIA8y3ffJX5zSrpX"
     },
     {
       "added_at": "2023-05-05 18:26:22",

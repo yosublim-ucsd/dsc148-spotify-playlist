@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 251,
+  "2024-03-27": 252,
   "date_first_scraped": "2024-02-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ\">Hillary Lindsey</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Hillary Lindsey",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 240840,
       "name": "23 Degrees And South",
       "url": "https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE"
@@ -3553,6 +3553,24 @@
       "duration_ms": 189973,
       "name": "Redneck Love Song",
       "url": "https://open.spotify.com/track/6mcuK40HmzARZP56q9HE40"
+    },
+    {
+      "album": {
+        "name": "Relapse",
+        "url": "https://open.spotify.com/album/6ywkiV5lXefwdHRyykn5q8"
+      },
+      "artists": [
+        {
+          "name": "1205",
+          "url": "https://open.spotify.com/artist/5WF90LLIQ4UVFwqny0Rzug"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169225,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/5FNnv4NtUeXrCBChLiXJq8"
     },
     {
       "album": {

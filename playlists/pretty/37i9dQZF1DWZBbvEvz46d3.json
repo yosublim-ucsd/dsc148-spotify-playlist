@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 65677,
+  "num_followers": 65696,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTNlOTkxMDkzMjlmZWM5YjU1Y2ZhNjg3MGRjNDBiY2E1ZjYyZTZi",
+  "snapshot_id": "MCwzNjNlOGQ0ZjQ3NWVlYzYxMjIwOGZjZGM1MWY5MzhhYjhhYjAwYjY1",
   "tracks": [
     {
       "added_at": "2024-02-09 12:36:46",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Z\u0142oto",
-        "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
-      "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
         "name": "Mi\u0142o\u015b\u0107 w czasach popkultury",
         "url": "https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 206186,
       "name": "My",
       "url": "https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
+        "name": "Z\u0142oto",
+        "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Smak Sl\u00f3w",
-        "url": "https://open.spotify.com/album/1RIh9Iefgwd46J99dRnTez"
-      },
-      "artists": [
-        {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "Smak s\u0142\u00f3w",
-      "url": "https://open.spotify.com/track/41MO9m7z2mECLpwpX340NU"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
         "name": "Oddycham",
         "url": "https://open.spotify.com/album/5WZh3xSvUB8c16EAm4a5NT"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 290481,
       "name": "List",
       "url": "https://open.spotify.com/track/43npy0Y0oKKfkTvafdGcQC"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
+        "name": "Smak Sl\u00f3w",
+        "url": "https://open.spotify.com/album/1RIh9Iefgwd46J99dRnTez"
+      },
+      "artists": [
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "Smak s\u0142\u00f3w",
+      "url": "https://open.spotify.com/track/41MO9m7z2mECLpwpX340NU"
     },
     {
       "added_at": "2024-02-09 12:36:46",

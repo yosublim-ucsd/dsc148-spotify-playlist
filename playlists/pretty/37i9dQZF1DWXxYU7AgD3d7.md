@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l\_E1EUSFQy6mw967zlio3Q"> Disclosure</a>'s favourite tracks\. Updated regularly\. Curated by Disclosure\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,887 likes - 70 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,070 likes - 70 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 | 33 | [Atom Funk](https://open.spotify.com/track/6STrTTajjivstqyTexucWt) | [Pepe Bradock \(Trankilou\)](https://open.spotify.com/artist/0jp5Tq1Vz6CovukgysASuu) | [French Touch \- Electronic Music Made In France](https://open.spotify.com/album/4oXFwq0gvoEYJxbChqZpYg) | 6:33 |
 | 34 | [Optiumum Thinking](https://open.spotify.com/track/2eTc5GDmCtUukkNBdTWAor) | [DJ Q](https://open.spotify.com/artist/1MrYB01nLTzUsGov6Srt3C) | [Twentyfourseven](https://open.spotify.com/album/5aKrar1Bp1Rh01kio3jILK) | 7:37 |
 | 35 | [Indicnation](https://open.spotify.com/track/0Nd433yTaOQcuYxE16290v) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [French Touch Mixtape 002](https://open.spotify.com/album/4ciBijVg4t41PtFJbT1NCi) | 3:42 |
-| 36 | [I feel for you \- Original](https://open.spotify.com/track/3zAU6cqXVFTzz1Yvnw87x1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs elysées](https://open.spotify.com/album/7xRnsA4UR8FgkMOSsfnizs) | 5:50 |
+| 36 | [I Feel for You](https://open.spotify.com/track/7opq9mMuTcHUXTY3EO3hym) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs Elysées](https://open.spotify.com/album/62DMpTTW3o6sYaNVYxtq2B) | 5:50 |
 | 37 | [Get Up, Get Out \- Extended Version](https://open.spotify.com/track/6JOMfjd2N86cgRq9n1BKFT) | [3kelves](https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH), [Dylan C\. Greene](https://open.spotify.com/artist/5E6C1T3ALDIdlJCWL0ZPC4) | [Get Up, Get Out](https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI) | 5:54 |
 | 38 | [Midnight Theme](https://open.spotify.com/track/3mzoPr1vNOVvkdR9aVxUNK) | [petitMaurice](https://open.spotify.com/artist/64fjxMX4IeNLbpitMjwcMF) | [Midnight Theme](https://open.spotify.com/album/3iuaBFW8V1mTegzdIrQmWx) | 6:05 |
 | 39 | [Alone With You \- Hush Hush's Deep Dub](https://open.spotify.com/track/2SE2gzovtt2CSoQXx26FxX) | [Monolithic](https://open.spotify.com/artist/0bbPxPcaed3Td8DqCxBmBP), [Hush Hush](https://open.spotify.com/artist/72lGnGZvP8ZUeOAnc8GoDU) | [Alone With You \(Hush Hush's Deep Dub\)](https://open.spotify.com/album/7s4xU5uQEK5ZqIxA7YwL80) | 5:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 | 69 | [Thinking Of U](https://open.spotify.com/track/0ObFG6JadCEfirwmFRBPFY) | [Attic Beats](https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi) | [Thinking Of U](https://open.spotify.com/album/5RPeU8jJYrIrLqLl0zduvl) | 2:00 |
 | 70 | [You Want Me \(Never\)](https://open.spotify.com/track/5QfiuwqeI1Hshv9lltSMBL) | [Marcellus Pittman](https://open.spotify.com/artist/6Qlqa7riHCznxb8ppwxsOF) | [The Eastside Story EP](https://open.spotify.com/album/7fM0yUgxQ6NRA6nF7TNNSS) | 7:35 |
 
-Snapshot ID: `MCwwMDQzOTdhOTU0YjQxOWZhYWQ3NzhjYTMyZTIzNTU3ZWQwYzM4MjEw`
+Snapshot ID: `MCxkMWJhZmM4MmNlZTYxMGQxZjA2NjY5ZDk4ZTAzODFiYjIxMDE1NTU0`

@@ -1062,7 +1062,7 @@
     {
       "album": {
         "name": "Baila",
-        "url": "https://open.spotify.com/album/0xviMUzPXYsdZSLso2bfyu"
+        "url": "https://open.spotify.com/album/7bDykQBBWtUG9xtBQmi4Yk"
       },
       "artists": [
         {
@@ -1073,6 +1073,24 @@
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/1yvqxBVTSNGw9USdjlOQyP"
+    },
+    {
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0xviMUzPXYsdZSLso2bfyu"
+      },
+      "artists": [
+        {
+          "name": "Dod\u00f4 Press\u00e3o",
+          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-27",
       "duration_ms": 172000,
       "name": "Baila",
       "url": "https://open.spotify.com/track/7FhSxqoNQLrXfDmsOtrhF6"

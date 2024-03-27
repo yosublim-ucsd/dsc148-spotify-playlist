@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459 likes - 151 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 460 likes - 151 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 68 | [Si Te Quieres Quedar](https://open.spotify.com/track/1pYIOnzAI58NMOIFbPqkoz) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 4:05 |
 | 69 | [Caída Libre](https://open.spotify.com/track/3tQo4LCoLO0XRvIYKdFTg7) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Desnuda](https://open.spotify.com/album/0x1njlKQdxOQD1HtcQsOd3) | 3:06 |
 | 70 | [Mi Mejor Mitad](https://open.spotify.com/track/5TDPTAgxdp3i3tWr3v50Xu) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:23 |
-| 71 | [Parece Mentira](https://open.spotify.com/track/2CngZ9QEOY2RaZkF6uDnCC) | [Andres De Leon](https://open.spotify.com/artist/33TuJe4aKhcIps7wxKmfzm), [Daniela Castillo](https://open.spotify.com/artist/7nriakmj7Rcq8KhhaLSgja) | [Parece Mentira](https://open.spotify.com/album/5j832ytWjQF5ZXDLqFIC6L) | 3:46 |
-| 72 | [Que Tu Piano Hable Por Ti](https://open.spotify.com/track/32uWwAPQEEjhCGABHsphLU) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Piano Sin Fronteras](https://open.spotify.com/album/5feKFwQgUEn3UL56cxdDmq) | 3:52 |
-| 73 | [El Lugar Que Me Vio Nacer](https://open.spotify.com/track/3YBfSs056lKJKGMPgCjjDF) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 4:39 |
-| 74 | [Indestructible](https://open.spotify.com/track/1FWNaYZdL0npIuzxsHb8aK) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Juego De Valientes](https://open.spotify.com/album/4xUjdG7ySlpPVEFCmjCWG4) | 3:25 |
-| 75 | [Arena Movediza](https://open.spotify.com/track/2mcg0Nd75PVm0fcyOTHqmI) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 4:15 |
-| 76 | [Vete](https://open.spotify.com/track/7uVUxfSd7xiaURQLTaMONb) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [No Es Brujeria](https://open.spotify.com/album/4nuYRYCbs4fqdzwjtkoiw4) | 3:11 |
-| 77 | [Desliga A Luz](https://open.spotify.com/track/2nYgS1eh6jp4rs2Q05ybcU) | [Celso Fonseca](https://open.spotify.com/artist/4zanHFwOXpPRKMMk3qUuHu), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Turning Point](https://open.spotify.com/album/5iFeJsiYedyhtcefzuNMyE) | 4:09 |
-| 78 | [Bien](https://open.spotify.com/track/6qcDwycoQlUXKEc5TntCKD) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Quién Lo Diría](https://open.spotify.com/album/6Gt6dCkxw2cJ0TJ6oRffum) | 3:21 |
-| 79 | [La Venganza](https://open.spotify.com/track/6b8rE8DorNNvfaEyBmcWlv) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Venganza](https://open.spotify.com/album/6jpC8oHw1UC0MZLQVdnQPN) | 2:50 |
+| 71 | [La Venganza](https://open.spotify.com/track/6b8rE8DorNNvfaEyBmcWlv) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Venganza](https://open.spotify.com/album/6jpC8oHw1UC0MZLQVdnQPN) | 2:50 |
+| 72 | [Parece Mentira](https://open.spotify.com/track/2CngZ9QEOY2RaZkF6uDnCC) | [Andres De Leon](https://open.spotify.com/artist/33TuJe4aKhcIps7wxKmfzm), [Daniela Castillo](https://open.spotify.com/artist/7nriakmj7Rcq8KhhaLSgja) | [Parece Mentira](https://open.spotify.com/album/5j832ytWjQF5ZXDLqFIC6L) | 3:46 |
+| 73 | [Que Tu Piano Hable Por Ti](https://open.spotify.com/track/32uWwAPQEEjhCGABHsphLU) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Piano Sin Fronteras](https://open.spotify.com/album/5feKFwQgUEn3UL56cxdDmq) | 3:52 |
+| 74 | [El Lugar Que Me Vio Nacer](https://open.spotify.com/track/3YBfSs056lKJKGMPgCjjDF) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 4:39 |
+| 75 | [Indestructible](https://open.spotify.com/track/1FWNaYZdL0npIuzxsHb8aK) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Juego De Valientes](https://open.spotify.com/album/4xUjdG7ySlpPVEFCmjCWG4) | 3:25 |
+| 76 | [Arena Movediza](https://open.spotify.com/track/2mcg0Nd75PVm0fcyOTHqmI) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 4:15 |
+| 77 | [Vete](https://open.spotify.com/track/7uVUxfSd7xiaURQLTaMONb) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [No Es Brujeria](https://open.spotify.com/album/4nuYRYCbs4fqdzwjtkoiw4) | 3:11 |
+| 78 | [Desliga A Luz](https://open.spotify.com/track/2nYgS1eh6jp4rs2Q05ybcU) | [Celso Fonseca](https://open.spotify.com/artist/4zanHFwOXpPRKMMk3qUuHu), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Turning Point](https://open.spotify.com/album/5iFeJsiYedyhtcefzuNMyE) | 4:09 |
+| 79 | [Bien](https://open.spotify.com/track/6qcDwycoQlUXKEc5TntCKD) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Quién Lo Diría](https://open.spotify.com/album/6Gt6dCkxw2cJ0TJ6oRffum) | 3:21 |
 | 80 | [Mujeriego](https://open.spotify.com/track/5ECrHUuwT916mtxIQhRihO) | [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK) | [Ayer y Hoy](https://open.spotify.com/album/43dG8W93Ga3P3tAwXKABmb) | 3:24 |
 | 81 | [Panamá Mia](https://open.spotify.com/track/17UBnqRCNrqXRLtQizeRAL) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 3:34 |
 | 82 | [Cosas Que Echo de Menos](https://open.spotify.com/track/1ZQB2iLP6CmER6LNka3jR3) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 3:27 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 150 | [A Donde Vas?](https://open.spotify.com/track/2hynyvo4Yrg7p28zFehp5t) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:18 |
 | 151 | [Sin Rumbo](https://open.spotify.com/track/6cNFdyjODCc2ooX7XyMAxt) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:30 |
 
-Snapshot ID: `Mjg1MjM2NTAsMDAwMDAwMDBkNGNjOTc0YjRlYTk5MGU5OTQ2ZTU0YTIxNmNlZDZiMA==`
+Snapshot ID: `Mjg1MjUwOTAsMDAwMDAwMDBkZThkYmI0MWJiM2QwNzY0MTAyOGNhNWJlNDRhMTc0Mw==`

@@ -1,12 +1,12 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Geisha",
-  "num_followers": 52396,
+  "num_followers": 52441,
   "original_name": "Jiran Akrab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjg1NjM3Y2IwYzk0N2RiNDFkNjJhYWFjYWI5NzliOWM5ZjdmN2Y1",
+  "snapshot_id": "MCxhNGQ2NjAyYzExYjBlZDJiNzJhNjMzNTM3NDVkYmVjYjQ4YjA3ZDNl",
   "tracks": [
     {
       "added_at": "2024-01-12 06:34:07",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Sheila On 7",
-        "url": "https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7"
-      },
-      "artists": [
-        {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
-        }
-      ],
-      "duration_ms": 288706,
-      "name": "Dan...",
-      "url": "https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
         "name": "Naluri Lelaki (Special Edition)",
         "url": "https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 247000,
       "name": "Kenangan Terindah",
       "url": "https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
+        "name": "Sheila On 7",
+        "url": "https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "duration_ms": 288706,
+      "name": "Dan...",
+      "url": "https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Kekasih Bayangan",
-        "url": "https://open.spotify.com/album/0rFXD2kEean8BJDo94teEQ"
+        "name": "07 Des",
+        "url": "https://open.spotify.com/album/59MdGM9vovHOEqp40fpthI"
       },
       "artists": [
         {
-          "name": "Cakra Khan",
-          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
         }
       ],
-      "duration_ms": 283142,
-      "name": "Kekasih Bayangan",
-      "url": "https://open.spotify.com/track/3BErcieh7kIQIMq64vEbCY"
+      "duration_ms": 241293,
+      "name": "Seberapa Pantas",
+      "url": "https://open.spotify.com/track/1BaGfrlIWinaF77p7QASBH"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "07 Des",
-        "url": "https://open.spotify.com/album/59MdGM9vovHOEqp40fpthI"
+        "name": "Kekasih Bayangan",
+        "url": "https://open.spotify.com/album/0rFXD2kEean8BJDo94teEQ"
       },
       "artists": [
         {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+          "name": "Cakra Khan",
+          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
         }
       ],
-      "duration_ms": 241293,
-      "name": "Seberapa Pantas",
-      "url": "https://open.spotify.com/track/1BaGfrlIWinaF77p7QASBH"
+      "duration_ms": 283142,
+      "name": "Kekasih Bayangan",
+      "url": "https://open.spotify.com/track/3BErcieh7kIQIMq64vEbCY"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
+        "name": "OST. 30 Hari Mencari Cinta",
+        "url": "https://open.spotify.com/album/66ggR3LdVt8pjIaOeL7kNB"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Melompat Lebih Tinggi",
+      "url": "https://open.spotify.com/track/7Hun5YHQ5TEe9j97cU5XPg"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
         "name": "Selamat Pagi, Dunia!",
         "url": "https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 228386,
       "name": "Sedih Tak Berujung",
       "url": "https://open.spotify.com/track/6xMUMMK64AUpstGjlDvoNn"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
-        "name": "Yang Terpilih",
-        "url": "https://open.spotify.com/album/4ZoR00UkfBdVlP6RB7vq5A"
-      },
-      "artists": [
-        {
-          "name": "Rossa",
-          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Terlalu Cinta",
-      "url": "https://open.spotify.com/track/6I9rJKR6WPRir6XoAaaJvH"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
+        "name": "Yang Terpilih",
+        "url": "https://open.spotify.com/album/4ZoR00UkfBdVlP6RB7vq5A"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Terlalu Cinta",
+      "url": "https://open.spotify.com/track/6I9rJKR6WPRir6XoAaaJvH"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
         "name": "Satu Hati Sejuta Cinta",
         "url": "https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 239506,
       "name": "Mabuk Cinta",
       "url": "https://open.spotify.com/track/7gWcfdZVM1uunqG6trmQVG"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
-        "name": "OST. 30 Hari Mencari Cinta",
-        "url": "https://open.spotify.com/album/66ggR3LdVt8pjIaOeL7kNB"
-      },
-      "artists": [
-        {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "Melompat Lebih Tinggi",
-      "url": "https://open.spotify.com/track/7Hun5YHQ5TEe9j97cU5XPg"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -511,26 +511,6 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
-      },
-      "artists": [
-        {
-          "name": "Acha Septriasa",
-          "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
-        },
-        {
-          "name": "Irwansyah",
-          "url": "https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa"
-        }
-      ],
-      "duration_ms": 273120,
-      "name": "My Heart",
-      "url": "https://open.spotify.com/track/27xvsEVJolDpEDy5PtD0hq"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
         "name": "1st (Special Edition)",
         "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
       },
@@ -543,6 +523,22 @@
       "duration_ms": 245400,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+      },
+      "artists": [
+        {
+          "name": "Acha Septriasa",
+          "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "Sampai Menutup Mata",
+      "url": "https://open.spotify.com/track/6RbOugGEsbxhOmNCHJGqLu"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -579,18 +575,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Kisah Klasik Untuk Masa Depan",
-        "url": "https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm"
+        "name": "Selamat Pagi, Dunia!",
+        "url": "https://open.spotify.com/album/6O4DUdeq5zCALFTlHGcaNx"
       },
       "artists": [
         {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+          "name": "Glenn Fredly",
+          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
         }
       ],
-      "duration_ms": 295520,
-      "name": "Sephia",
-      "url": "https://open.spotify.com/track/5gkTGkjFB5wAd3mSBEcQPY"
+      "duration_ms": 235280,
+      "name": "Sekali Ini Saja",
+      "url": "https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -611,18 +607,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Selamat Pagi, Dunia!",
-        "url": "https://open.spotify.com/album/6O4DUdeq5zCALFTlHGcaNx"
+        "name": "Kisah Klasik Untuk Masa Depan",
+        "url": "https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm"
       },
       "artists": [
         {
-          "name": "Glenn Fredly",
-          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
         }
       ],
-      "duration_ms": 235280,
-      "name": "Sekali Ini Saja",
-      "url": "https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk"
+      "duration_ms": 295520,
+      "name": "Sephia",
+      "url": "https://open.spotify.com/track/5gkTGkjFB5wAd3mSBEcQPY"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -647,6 +643,26 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+      },
+      "artists": [
+        {
+          "name": "Acha Septriasa",
+          "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
+        },
+        {
+          "name": "Irwansyah",
+          "url": "https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa"
+        }
+      ],
+      "duration_ms": 273120,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/27xvsEVJolDpEDy5PtD0hq"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
         "name": "Seperti Kisah",
         "url": "https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 279031,
       "name": "Seperti Kisah",
       "url": "https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
-      },
-      "artists": [
-        {
-          "name": "Acha Septriasa",
-          "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "Sampai Menutup Mata",
-      "url": "https://open.spotify.com/track/6RbOugGEsbxhOmNCHJGqLu"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
+        "name": "Selamat Pagi, Dunia!",
+        "url": "https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9"
+      },
+      "artists": [
+        {
+          "name": "Glenn Fredly",
+          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Akhir Cerita Cinta",
+      "url": "https://open.spotify.com/track/6Qe5wOREjTPivo6M5kW5h3"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
         "name": "Dekade",
         "url": "https://open.spotify.com/album/68LQj1aPjWAkP6BplJNhq3"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Selamat Pagi, Dunia!",
-        "url": "https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9"
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
       },
       "artists": [
         {
-          "name": "Glenn Fredly",
-          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
+          "name": "Acha Septriasa",
+          "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
         }
       ],
-      "duration_ms": 240280,
-      "name": "Akhir Cerita Cinta",
-      "url": "https://open.spotify.com/track/6Qe5wOREjTPivo6M5kW5h3"
+      "duration_ms": 221133,
+      "name": "Berdua Lebih Baik",
+      "url": "https://open.spotify.com/track/1QjAmxYS652vXrSy3BhZ9D"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -811,22 +827,6 @@
       "duration_ms": 254013,
       "name": "Kamu Yang Kutunggu",
       "url": "https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
-        "name": "Agnes Is My Name",
-        "url": "https://open.spotify.com/album/53aMwJ5S2SVxCPS4AznERW"
-      },
-      "artists": [
-        {
-          "name": "Agnes Monica",
-          "url": "https://open.spotify.com/artist/5auFhdM0ZgtH6cXwncgZ4m"
-        }
-      ],
-      "duration_ms": 266306,
-      "name": "Matahariku",
-      "url": "https://open.spotify.com/track/08M6ihbCJmAmfo4uoRYkOD"
     }
   ],
   "unique_name": "Jiran Akrab",

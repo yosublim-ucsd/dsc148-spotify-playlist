@@ -4485,6 +4485,24 @@
     },
     {
       "album": {
+        "name": "Gajra",
+        "url": "https://open.spotify.com/album/0j1ktDsBcvOUKxIV9rapib"
+      },
+      "artists": [
+        {
+          "name": "Navjeet",
+          "url": "https://open.spotify.com/artist/6ti9mMVGU3e9MtpFh69Knr"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140100,
+      "name": "Gajra",
+      "url": "https://open.spotify.com/track/4iiWWILhJEKbk9KnfTkyB4"
+    },
+    {
+      "album": {
         "name": "Gal Ban Jae",
         "url": "https://open.spotify.com/album/0Meuata3D39FTArEFqqnZg"
       },
@@ -10008,7 +10026,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 198995,
       "name": "Naah Lofi",
       "url": "https://open.spotify.com/track/7B8WJgjZzzV1uS7v9z8FGX"
@@ -11640,7 +11658,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 148072,
       "name": "PYAAR DIYA GALLAN",
       "url": "https://open.spotify.com/track/7LWWWB3Ht5L3bW9JpqMwCI"
@@ -12066,6 +12084,28 @@
       "duration_ms": 201420,
       "name": "Rabba Mainu - From \"Jind Mahi\"",
       "url": "https://open.spotify.com/track/76lfsGx43fls0iMp7x2Ix1"
+    },
+    {
+      "album": {
+        "name": "Rang Chadheya",
+        "url": "https://open.spotify.com/album/4s2WLUhDysiCe9JWcmmEnR"
+      },
+      "artists": [
+        {
+          "name": "Apurva Krishna",
+          "url": "https://open.spotify.com/artist/4Mv4apQaWzG4FtYA5XsJch"
+        },
+        {
+          "name": "Tajinder Singh",
+          "url": "https://open.spotify.com/artist/74YdWBWq7R9JJIDM3NCSrG"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215419,
+      "name": "Rang Chadheya",
+      "url": "https://open.spotify.com/track/0pHVpjpyZg3rI6e2AWYQFm"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 48270,
+  "2024-03-27": 48302,
   "date_first_scraped": "2022-08-25",
   "description": "Enjoy music from DEN-ON-BU! \u6c17\u92ed\u306e\u30b3\u30f3\u30dd\u30fc\u30b6\u30fc\u304c\u591a\u6570\u53c2\u52a0\u3057\u3001\u4eca\u8a71\u984c\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30d7\u30ed\u30b8\u30a7\u30af\u30c8<a href=\"https://denonbu.jp/\">\u300c\u96fb\u97f3\u90e8\u300d</a>\u3092\u7279\u96c6!! \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u3068\u7d21\u3050\u96fb\u5b50\u97f3\u697d\u306e\u4e16\u754c\u306b\u98db\u3073\u8fbc\u3082\u3046\u3002",
   "name": "DEN-ON-BU \u96fb\u97f3\u90e8",
@@ -55,6 +55,36 @@
       "duration_ms": 127746,
       "name": "Agent CODE:BLUE",
       "url": "https://open.spotify.com/track/3gbpTapgbhch3ZXwond6kh"
+    },
+    {
+      "album": {
+        "name": "AHOCHAUMON",
+        "url": "https://open.spotify.com/album/072ulVH4B1jPIwH2Lfw9ip"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Ema Toramaru(CV:Livo)",
+          "url": "https://open.spotify.com/artist/7iXpUfIHuEmYA4KJRsa6U1"
+        },
+        {
+          "name": "Neri Amemura(CV:Noa)",
+          "url": "https://open.spotify.com/artist/1TjKP4MnolLxJoNYVOdzNj"
+        },
+        {
+          "name": "Momoko Shoji(CV:Mone)",
+          "url": "https://open.spotify.com/artist/15LoBou1qK3BPd0RaQk1Vr"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190615,
+      "name": "AHOCHAUMON",
+      "url": "https://open.spotify.com/track/5xHXOrigmr3KRLUX94Jgnf"
     },
     {
       "album": {

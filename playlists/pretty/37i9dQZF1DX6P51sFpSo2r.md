@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 
 ### [Metalcore Classics](https://open.spotify.com/playlist/37i9dQZF1DX6P51sFpSo2r)
 
-> The perfect mix between old\-school and modern Metalcore\. Cover: Avenged Sevenfold
+> The perfect mix between old\-school and modern Metalcore\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,088 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,331 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Unholy Confessions](https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 4:43 |
+| 1 | [Tears Don't Fall](https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 5:48 |
 | 2 | [My Curse](https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:04 |
 | 3 | [Shadow Moses](https://open.spotify.com/track/68osIGtVjM7QWVe6pazLHj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 4:03 |
 | 4 | [Carrion](https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:07 |
-| 5 | [Second & Sebring](https://open.spotify.com/track/6RObeP8IVb4X4nCLUCJ9Dx) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Of Mice & Men](https://open.spotify.com/album/5I01RpDS7Thw5zEABRTgxL) | 3:49 |
-| 6 | [Tears Don't Fall](https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 5:48 |
+| 5 | [Unholy Confessions](https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 4:43 |
+| 6 | [Second & Sebring](https://open.spotify.com/track/6RObeP8IVb4X4nCLUCJ9Dx) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Of Mice & Men](https://open.spotify.com/album/5I01RpDS7Thw5zEABRTgxL) | 3:49 |
 | 7 | [White Washed](https://open.spotify.com/track/0jCUZSnjn6hxp7zgX3h2rF) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Constellations](https://open.spotify.com/album/6PfVh3fOVDKCyzh2RwAm51) | 3:46 |
 | 8 | [The End of Heartache](https://open.spotify.com/track/2nUy0ifVE7UwtOK4rugFsP) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [The End of Heartache \(Special Edition\)](https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V) | 4:58 |
 | 9 | [Two Weeks](https://open.spotify.com/track/0XT70Wk9pP8JZkmJhfntuL) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Overcome](https://open.spotify.com/album/5Idfe5SehEAZ9uyv9fSKu1) | 4:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 | 59 | [Mordecai](https://open.spotify.com/track/2Fui3xJLasH473qnBa2T6C) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [The Silent Circus](https://open.spotify.com/album/1rmiMSKXg6o8F1UVBdhQpN) | 5:47 |
 | 60 | [Concubine](https://open.spotify.com/track/1ui9EPnCqTurWbYICi9Gld) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Jane Doe](https://open.spotify.com/album/2gtM4m6sglJDrX3toJWZO6) | 1:19 |
 
-Snapshot ID: `MCxjYWZjZmI5OWRjMDBjNThkNTIwY2I5NGFiZTExNjI5MWQ2OTIzMGEz`
+Snapshot ID: `MCxlOGRkZDI3ZjQ3ZWU2MDQ1NTJjOGI3ODllNDU4OTA5ZWRmNGQ3OGMw`

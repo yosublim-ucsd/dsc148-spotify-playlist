@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,910 likes - 1,191 songs - 3 day 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,935 likes - 1,191 songs - 3 day 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -871,7 +871,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 861 | [Reggae Merengue](https://open.spotify.com/track/2nYvF5Dc4rqdR8JzWAOYmY) | [Tommy McCook & The Supersonics](https://open.spotify.com/artist/5xzlboNkAVZ2xS14qfGBv2) | [Gay Jamaica Independence Time \(Expanded Version\)](https://open.spotify.com/album/3zwV3Rm18Nf5QuJr2OlxB5) | 2:14 |
 | 862 | [Handsome Boy \(E Wara\) \- Pt\. 1 & 2](https://open.spotify.com/track/4KB3zx8o2ljshzXYtvJsy4) | [The Rwenzori's](https://open.spotify.com/artist/7FvUNDLSBrTUnAo3IRmhL0) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue) | 6:44 |
 | 863 | [Tempo de Amor \(Samba do Veloso\)](https://open.spotify.com/track/2mbYdO4VRxK7AKQ2NtxOo1) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr), [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Os Afro\-Sambas](https://open.spotify.com/album/4zyGU4SFL8DEE9Ee9yAjnk) | 4:42 |
-| 864 | [El Manicero Se Va](https://open.spotify.com/track/2UUUdelOIIPoKQDizbk1dT) | [Afro Festival led by Fantastic Tchico Tchicaya](https://open.spotify.com/artist/6U9i97qGe8teFdYhJyIhHj) | [Sofrito: International Soundclash](https://open.spotify.com/album/7d2rxMKDWjqhMOUKSVBxyr) | 7:57 |
+| 864 | [El Manicero Se Va](https://open.spotify.com/track/7hpev7Qvn0od3w3RWrOeOT) | [Afro Festival led by Fantastic Tchico Tchicaya](https://open.spotify.com/artist/6U9i97qGe8teFdYhJyIhHj) | [Sofrito: International Soundclash](https://open.spotify.com/album/1TesWPfG3gsaFJBzL5tdt8) | 7:57 |
 | 865 | [Got This Happy Feeling](https://open.spotify.com/track/7lNq8ipohFGO4zhvbh8jzI) | [Ghetto Brothers](https://open.spotify.com/artist/6M6ULJ0HhZ7BArUaVS5mqQ) | [Power Fuerza](https://open.spotify.com/album/2FyPhYU7wHYvtWCdRZXOWp) | 4:36 |
 | 866 | [President Kennedy](https://open.spotify.com/track/3rRAWOWdm28WhJv63SkJYZ) | [Roland Alphonso](https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn) | [Studio One Ska](https://open.spotify.com/album/0rb7M19pl1lRSboIKvoxEv) | 2:52 |
 | 867 | [Afro Disco Beat](https://open.spotify.com/track/0tzvR9hZYdOBveJlgVz6Sy) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Africa 70](https://open.spotify.com/artist/7kYstKl5Wka7rDtdFlvbNz) | [Racubah \(A Collection of Modern Afro Rhythms\)](https://open.spotify.com/album/1G9VuNrWXkCmcbUBUwdkFQ) | 11:56 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Free My People](https://open.spotify.com/track/4JhLVR6gpyPsrt8hw3GYTq) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Soul Jazz Records Presents NIGERIA SOUL FEVER \- Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/3ZRiP7ntKDD2wuiRuyLhfs) | 4:52 |
 | 1191 | [Flor De Piña](https://open.spotify.com/track/0XyyR9QFZYpMLh0fzZtBHw) | [La Marimba Del Estado De Oaxaca](https://open.spotify.com/artist/0Ck35azLqcQ0Bvbu9rNcOr) | [Mañanitas Oaxaqueñas](https://open.spotify.com/album/0Dq0v1awfhTgbp0rBKp8g6) | 2:25 |
 
-Snapshot ID: `MCwzYzU1ZjRhOTk0NDQ5YmFmZWU4Nzc3Nzg3YzgxZWY1Njc2ZGY3ZWE3`
+Snapshot ID: `MCwyOWM5NGJkZTU4NGRjY2M1MDRmMGFlNTdhODE0OTk5ZTQxMzg2MDQ2`

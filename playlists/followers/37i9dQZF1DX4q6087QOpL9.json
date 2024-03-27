@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 103176,
+  "2024-03-27": 103197,
   "date_first_scraped": "2023-01-15",
   "description": "That real soulful house sound. Cover: Kerri Chandler",
   "name": "Soulful House",
@@ -2065,7 +2065,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 494066,
       "name": "Heaven - Marlon D. & G.A. Club Mix",
       "url": "https://open.spotify.com/track/6jNo9oEFfOBOm8DtmqOApe"
@@ -2878,6 +2878,32 @@
     },
     {
       "album": {
+        "name": "Karma (Sean McCabe Remixes)",
+        "url": "https://open.spotify.com/album/7ziUNFQLfEcYx3ZBv23X3x"
+      },
+      "artists": [
+        {
+          "name": "Urban Sound Lab",
+          "url": "https://open.spotify.com/artist/3ur3PdWkk4GMGoj5PJOlep"
+        },
+        {
+          "name": "Terrance Downs",
+          "url": "https://open.spotify.com/artist/1KDBl8mLNeeeqXeUFVFh4s"
+        },
+        {
+          "name": "Sean McCabe",
+          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237373,
+      "name": "Karma - Sean McCabe Remix Edit",
+      "url": "https://open.spotify.com/track/1fExe1OCy813VOBEBuXy78"
+    },
+    {
+      "album": {
         "name": "Easy Street Classics - Remixes From Across the Pond - Vol. 1",
         "url": "https://open.spotify.com/album/6YxUTTGa3DCVqwFHeX0hxZ"
       },
@@ -2911,7 +2937,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 202835,
       "name": "Keep on Stepping",
       "url": "https://open.spotify.com/track/3tU7tiCiC7GLbs3r83wy6E"
@@ -3751,7 +3777,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 453386,
       "name": "Outta Love - Alix Alvarez Sole Channel Remix",
       "url": "https://open.spotify.com/track/4sUdysO4MnWWwWhc72xOhv"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,580 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,585 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 70 | [Outside In](https://open.spotify.com/track/0DTy6hvkVfKBpGtMzBd4Fw) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Outside In](https://open.spotify.com/album/4fjRR9lgDZ7Xo3V84S25i3) | 2:41 |
 | 71 | [Talk To Me](https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Talk To Me](https://open.spotify.com/album/5WNJDdCcm16oW2VBKCXBt3) | 3:18 |
 | 72 | [WOW!](https://open.spotify.com/track/2ncvbvkVzRqy2xjvge55r0) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [WOW!](https://open.spotify.com/album/36z6FDQ2tT2GTIoFSPeplG) | 2:52 |
-| 73 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
+| 73 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
 | 74 | [Strangers](https://open.spotify.com/track/0tQDaznEgYKgUvYFF1uRFH) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Strangers](https://open.spotify.com/album/3mw1s1Ev3Z3wACjiDkjaKH) | 2:53 |
 | 75 | [Around The World](https://open.spotify.com/track/1o9S5cM9CEWrh2ZVbvk5VS) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Around The World](https://open.spotify.com/album/0rxn9TDqFlClsXAJBF5Ayc) | 3:03 |
 | 76 | [wenn ich dich brauch </3](https://open.spotify.com/track/6bjs5seUrxOgVPMxt7uiUc) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [wenn ich dich brauch </3](https://open.spotify.com/album/0wWgRuzDmwmJT8ManLThyI) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 99 | [Love Me In The Morning](https://open.spotify.com/track/5fV9MjZZ6DwHZUABZzIy2l) | [SOFIIA](https://open.spotify.com/artist/55EPKpLXwOAvgT7Xya8ROI) | [Love Me In The Morning](https://open.spotify.com/album/7DPJ6utT5RpQt7tCP05ORd) | 2:27 |
 | 100 | [Guide Me Home](https://open.spotify.com/track/3mi8t9JLEASpg8od6loHu8) | [Stanfour](https://open.spotify.com/artist/0Ku9jFTJvPANO4LBOyJoWv) | [Guide Me Home](https://open.spotify.com/album/0NMPWDJSBIEDAXlahaJqKa) | 2:16 |
 
-Snapshot ID: `MCxiNTU1Yzc1MzkzYTMzOTk0NDdkN2E4YTZjNGRhYmRmNTBlM2U3MWUz`
+Snapshot ID: `MCw1Mzc3YzhlNjUyZjY1YjE4ZmY1YjUwMjZiYTg1ODAzOTMyODc2NzY2`

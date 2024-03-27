@@ -1,12 +1,12 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 124027,
+  "num_followers": 124131,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Yjk1NDI0M2ZiZTE4NTJhMDNmZjU1OTM1Yzg5NGU1OGIxNDY2Mjkw",
+  "snapshot_id": "MCxmYWJmNGM5YTMzMGZkYzI4NDU0Zjk3NWRlYTQyZjk1MzI5MzA5YjUz",
   "tracks": [
     {
       "added_at": "2024-03-06 03:39:26",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-03-06 03:39:26",
       "album": {
-        "name": "Ader Akmel",
-        "url": "https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
-        }
-      ],
-      "duration_ms": 253384,
-      "name": "Ader Akmel",
-      "url": "https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q"
-    },
-    {
-      "added_at": "2024-03-06 03:39:26",
-      "album": {
         "name": "Mn Alby Baghani",
         "url": "https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 287791,
       "name": "Haga Mestakhabeya",
       "url": "https://open.spotify.com/track/605DPUyjE08UXnxTBZAYho"
+    },
+    {
+      "added_at": "2024-03-06 03:39:26",
+      "album": {
+        "name": "Ader Akmel",
+        "url": "https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "duration_ms": 253384,
+      "name": "Ader Akmel",
+      "url": "https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q"
     },
     {
       "added_at": "2024-03-06 03:39:26",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-03-06 03:39:26",
       "album": {
-        "name": "Lehqt Nafsy - Part 2",
-        "url": "https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y"
-      },
-      "artists": [
-        {
-          "name": "Assala Nasri",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
-        }
-      ],
-      "duration_ms": 232921,
-      "name": "Aysha Hala",
-      "url": "https://open.spotify.com/track/5VMyHBe95r0rxipeh61Zt7"
-    },
-    {
-      "added_at": "2024-03-06 03:39:26",
-      "album": {
         "name": "\u0642\u0644\u0628\u064a \u0648\u0631\u0648\u062d\u064a \u0648\u0639\u0645\u0631\u064a",
         "url": "https://open.spotify.com/album/7kHuWSyD2vpXBgsgqSfG6H"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 288232,
       "name": "\u0642\u0644\u0628\u0649 \u0648 \u0631\u0648\u062d\u0649 \u0648 \u0639\u0645\u0631\u0649",
       "url": "https://open.spotify.com/track/5R0OJb3fdLxz4lOEJ3RAOj"
+    },
+    {
+      "added_at": "2024-03-06 03:39:26",
+      "album": {
+        "name": "Lehqt Nafsy - Part 2",
+        "url": "https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "duration_ms": 232921,
+      "name": "Aysha Hala",
+      "url": "https://open.spotify.com/track/5VMyHBe95r0rxipeh61Zt7"
     },
     {
       "added_at": "2024-03-06 03:39:26",
@@ -1223,18 +1223,26 @@
     {
       "added_at": "2024-03-06 03:39:26",
       "album": {
-        "name": "\u0637\u0645\u0646\u0647\u0627",
-        "url": "https://open.spotify.com/album/2cobDXrnAMcK7XZ0xA8Hqh"
+        "name": "Tool Mahna Maa Baad (Coke Studio Egypt 2023)",
+        "url": "https://open.spotify.com/album/1zwC6c3YBRtzZEPzLBjZgC"
       },
       "artists": [
         {
-          "name": "Nedaa Shrara",
-          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
+          "name": "Hassan El Shafei",
+          "url": "https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x"
+        },
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        },
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
         }
       ],
-      "duration_ms": 244428,
-      "name": "\u0637\u0645\u0646\u0647\u0627",
-      "url": "https://open.spotify.com/track/1HpyCfUXBqFvUteRkz4eId"
+      "duration_ms": 215040,
+      "name": "Tool Mahna Maa Baad (Coke Studio Egypt 2023)",
+      "url": "https://open.spotify.com/track/1voa8b59cgkIhPpEnHIk31"
     }
   ],
   "unique_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",

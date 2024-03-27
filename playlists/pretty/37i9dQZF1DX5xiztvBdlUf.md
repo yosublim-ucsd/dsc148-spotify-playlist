@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,077 likes - 80 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,200 likes - 80 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 58 | [Orbits of Dust](https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Orbits of Dust](https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP) | 6:00 |
 | 59 | [Amanhã](https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Amanhã](https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna) | 3:32 |
 | 60 | [NOSTALGIA\*](https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [NOSTALGIA\*](https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl) | 2:25 |
-| 61 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 |
-| 62 | [Lay It All On Me](https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lay It All On Me](https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37) | 3:47 |
-| 63 | [NA NA NA](https://open.spotify.com/track/7xMyPCsSnWJqsgjhgLy0dz) | [WAALAAXXX](https://open.spotify.com/artist/7wc6nhyFtZS1Lw4dS1LwnQ) | [NA NA NA](https://open.spotify.com/album/7IjkeZsYlHbD116c6ZA92P) | 7:10 |
-| 64 | [Silence](https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Silence](https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT) | 3:41 |
-| 65 | [Tomorrow](https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR) | [Mika Olson](https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc) | [Tomorrow](https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO) | 3:16 |
-| 66 | [Camaleon](https://open.spotify.com/track/3yYGdYXbtXT2cc1TVcc1Ld) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Camaleon](https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX) | 5:59 |
+| 61 | [Lay It All On Me](https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lay It All On Me](https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37) | 3:47 |
+| 62 | [Silence](https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Silence](https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT) | 3:41 |
+| 63 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 |
+| 64 | [Tomorrow](https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR) | [Mika Olson](https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc) | [Tomorrow](https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO) | 3:16 |
+| 65 | [Camaleon](https://open.spotify.com/track/3yYGdYXbtXT2cc1TVcc1Ld) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Camaleon](https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX) | 5:59 |
+| 66 | [NA NA NA](https://open.spotify.com/track/7xMyPCsSnWJqsgjhgLy0dz) | [WAALAAXXX](https://open.spotify.com/artist/7wc6nhyFtZS1Lw4dS1LwnQ) | [NA NA NA](https://open.spotify.com/album/7IjkeZsYlHbD116c6ZA92P) | 7:10 |
 | 67 | [Trojan Love \- Original Club Mix](https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Trojan Love \(Original Club Mix\)](https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O) | 5:57 |
 | 68 | [Love And Hate](https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Love And Hate](https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c) | 4:27 |
 | 69 | [All Night](https://open.spotify.com/track/0yWaf1ysK8f1DXtIlHqdAs) | [Sintra](https://open.spotify.com/artist/7G8FPZ2dGqGtMqPE9fy13e) | [All Night](https://open.spotify.com/album/4AYtlhfbJuWXncrNrRh9r5) | 3:44 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 75 | [Whiter Shade of Pale](https://open.spotify.com/track/7DwiBEHsEszjbZUEdnADX6) | [Klement Bonelli](https://open.spotify.com/artist/1LK1ywbyRrajPZgW6IbcR8), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl) | [Whiter Shade of Pale](https://open.spotify.com/album/4FbegDMCieU0AlfUrwrc0O) | 2:43 |
 | 76 | [Better In The Dark](https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Better In The Dark](https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax) | 5:52 |
 | 77 | [Restless](https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb) | [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [Ahmet Kilic](https://open.spotify.com/artist/5OyOddK42Hm0pENFDWxn39), [Lynn](https://open.spotify.com/artist/7nzbcK2bzEtoMgTQAwHQVl) | [Restless & Wild](https://open.spotify.com/album/47XQrAPZL4Ez2RGs3nkXHX) | 6:43 |
-| 78 | [Roads Of Gold \- Edit](https://open.spotify.com/track/1M1g0SAJavX4mMLqEqKTDn) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Roads Of Gold](https://open.spotify.com/album/5j2ZsWodikhixJNHhUCGKq) | 5:10 |
-| 79 | [Letting Go](https://open.spotify.com/track/0MNM0hmteyINSvRtUIURTM) | [Evelynka](https://open.spotify.com/artist/2GfOeShdTYQziYC2HjP8PN) | [Letting Go](https://open.spotify.com/album/6gqSSAAFz9rzYgyTGjFdSD) | 4:16 |
+| 78 | [Letting Go](https://open.spotify.com/track/0MNM0hmteyINSvRtUIURTM) | [Evelynka](https://open.spotify.com/artist/2GfOeShdTYQziYC2HjP8PN) | [Letting Go](https://open.spotify.com/album/6gqSSAAFz9rzYgyTGjFdSD) | 4:16 |
+| 79 | [Roads Of Gold \- Edit](https://open.spotify.com/track/1M1g0SAJavX4mMLqEqKTDn) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Roads Of Gold](https://open.spotify.com/album/5j2ZsWodikhixJNHhUCGKq) | 5:10 |
 | 80 | [Looking For The Light](https://open.spotify.com/track/2aKi0hmZ7M5wVnd69RUEu7) | [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8), [Luxe Agoris](https://open.spotify.com/artist/6ejyZKJqfU1trzNHiAA3Ro) | [Looking For The Light](https://open.spotify.com/album/0TPIkCygwT8QuomYuRi7sW) | 2:57 |
 
-Snapshot ID: `MCw0OGE1ODQ1MjJjZTA3NTg5ODhmMTUwMTkzMTFkYjk5Y2IzN2I2MjNj`
+Snapshot ID: `MCxhMTUyZjA2NDRiY2IyYTFhNWQzZWI5Y2E1ZGI1MzIwOTcxZTU3ODcx`

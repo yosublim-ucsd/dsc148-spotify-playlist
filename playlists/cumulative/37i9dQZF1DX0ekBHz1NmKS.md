@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,115 songs - 2 day 10 hr 31 min
+1,116 songs - 2 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,8 @@
 | [Död för mig](https://open.spotify.com/track/5HKu4DGoq7YNtGQ3ZMt9qD) | [Yei Gonzalez](https://open.spotify.com/artist/54tAGj0D5DRj7wKZdgALnq), [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Död för mig](https://open.spotify.com/album/39YWm719FMNKuzJ7oAIgcR) | 2:45 | 2023-09-21 | 2024-01-19 |
 | [Död snö](https://open.spotify.com/track/1BvwvmQMdo5iJci2UMIGse) | [Johanna Frostling](https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY) | [Död snö](https://open.spotify.com/album/0SuBgYxZ3abL6AuidIgNLc) | 3:31 | 2024-03-14 |  |
 | [Döda hjärtan kan slå igen](https://open.spotify.com/track/4CZAKCH7hNagnKhJe60IyU) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Döda hjärtan kan slå igen](https://open.spotify.com/album/0XwIMEBisaLYj4SWj6wjjS) | 3:28 | 2021-12-16 | 2022-03-11 |
-| [Dör För Dig \- Acoustic](https://open.spotify.com/track/7kfiCNYua949ue8oF997cA) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH) | 2:15 | 2024-03-21 |  |
+| [Dör För Dig \- Acoustic](https://open.spotify.com/track/3yAP1AKORlEgS8JFjUDbLK) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/6JYg8ZoDwgKL20qLy10SW8) | 2:15 | 2024-03-21 |  |
+| [Dör För Dig \- Acoustic](https://open.spotify.com/track/7kfiCNYua949ue8oF997cA) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH) | 2:15 | 2024-03-21 | 2024-03-27 |
 | [Dör För Er Skull](https://open.spotify.com/track/6DLyHZGcyIeGPCzzTnB1o4) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Dör För Er Skull](https://open.spotify.com/album/021aTp0HEvlzTIkGKGvOTY) | 2:44 | 2022-03-10 | 2022-05-13 |
 | [Easy Go!](https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Easy Go!](https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk) | 2:30 | 2023-06-15 | 2023-10-20 |
 | [Edelweiss](https://open.spotify.com/track/3lnm0gx9usupGiYbwnxH9o) | [Signe & Hjördis](https://open.spotify.com/artist/4pkf3JUp7fOYK7kumrKuqG) | [Edelweiss](https://open.spotify.com/album/1Tzn1c4m7eM9s69pC3znQh) | 2:47 | 2023-03-25 | 2023-09-22 |

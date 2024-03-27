@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:74V3dE1a51skRkdII8y2C6">André 3000</a> shares his jazz favorites
 
-529 songs - 2 day 2 hr 0 min
+530 songs - 2 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,8 @@
 | [Just for You](https://open.spotify.com/track/6802mMqlEx20Dwo71aZU8Y) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Electrifying Aretha Franklin \(Expanded Edition\)](https://open.spotify.com/album/5tGs5EjPwWWLJcsx7r1rvH) | 2:18 | 2022-09-16 | 2022-12-03 |
 | [Just Friends](https://open.spotify.com/track/3c57iTv78QOwBrJ0t7yKjE) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Charlie Parker With Strings \(Deluxe Edition\)](https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw) | 3:32 | 2022-02-18 | 2022-12-03 |
 | [Just One Of Those Things \- Remastered 1998](https://open.spotify.com/track/5Oa3dwYqt3Mz9MGWSkTV41) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Swing Easy!](https://open.spotify.com/album/6j0yZEGpZBnoAQYIH0pIG7) | 3:12 | 2022-02-18 | 2022-03-18 |
-| [Kalpana](https://open.spotify.com/track/1wdcrUny0D7BPTxAUYcy8t) | [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [Classical Instrumental](https://open.spotify.com/artist/2R6U4X0LsoJnkScdAsDsP3) | [Icons Of Indian Classical Music \- Ustad Zakir Hussain \(Classical Instrumental\)](https://open.spotify.com/album/7EHOqSz8i1Ze1UKCLTkkN8) | 3:17 | 2023-11-17 |  |
+| [Kalpana](https://open.spotify.com/track/7uEitG9S6yVFZdN4TI900S) | [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Icons Of Indian Classical Music \- Ustad Zakir Hussain \(Classical Instrumental\)](https://open.spotify.com/album/47e35FT5naIvWfZZvM51dD) | 3:17 | 2023-11-17 |  |
+| [Kalpana](https://open.spotify.com/track/1wdcrUny0D7BPTxAUYcy8t) | [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [Classical Instrumental](https://open.spotify.com/artist/2R6U4X0LsoJnkScdAsDsP3) | [Icons Of Indian Classical Music \- Ustad Zakir Hussain \(Classical Instrumental\)](https://open.spotify.com/album/7EHOqSz8i1Ze1UKCLTkkN8) | 3:17 | 2023-11-17 | 2024-03-27 |
 | [Kassidat el Hakka \(The Poem of the Truth\)](https://open.spotify.com/track/6QTvhCDx7DO8LnKPAMF6z4) | [Abdellah el Magana](https://open.spotify.com/artist/2m7HRrv5t5TiVPVR7rbkMB) | [Kassidat: Raw 45s from Morocco](https://open.spotify.com/album/3IelUOMBNq5pO34C3L7sOf) | 5:48 | 2023-11-17 |  |
 | [Keep On](https://open.spotify.com/track/50bxxJIwn0XnZjQH2OruOu) | [D\-Train](https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe) | [You're the One for Me](https://open.spotify.com/album/6Cu53xS0YGhgEqyTqkVNeL) | 6:41 | 2022-09-16 | 2022-12-03 |
 | [Khyal in Raga Dhaani \(Slow Khyal in Ektaal, 12 beats \- Tarana in Teental, 16 beats\)](https://open.spotify.com/track/56eO82rBtEh1pZAy4YGwJk) | [Lakshmi Shankar](https://open.spotify.com/artist/0pZFVzKAMV6GR6Z3aCVmxD), [Viji Subramaniam](https://open.spotify.com/artist/04OHUAynLx1Xw0FQtYSHVY), [Shyam Kane](https://open.spotify.com/artist/6CcJdcZWGGqOGOMJx8XHxS) | [Lakshmi Shankar: Evening Concert](https://open.spotify.com/album/6xJVmAp5UK1K0h0XZZ7kr1) | 35:17 | 2023-11-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 23452,
+  "num_followers": 23471,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDUyNDJiOWNjYTRhMWY4YTY0N2IwNGZhNGU5ZjE1MWIyZTM4NTYy",
+  "snapshot_id": "MCxiNTZlZDg3Y2QxZjk4ZGZkNjA4Y2MyNDNjMWNhMTU5NzRhM2FmNzQw",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -283,38 +283,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Quemala",
-        "url": "https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg"
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W"
       },
       "artists": [
         {
-          "name": "El Chevo",
-          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
-        },
-        {
-          "name": "Mr Jc",
-          "url": "https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc"
-        },
-        {
-          "name": "MC Productions Inc",
-          "url": "https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA"
-        },
-        {
-          "name": "KD La Caracola",
-          "url": "https://open.spotify.com/artist/4C1zea33GCcaanKPvTbiGy"
-        },
-        {
-          "name": "Jessy Rose",
-          "url": "https://open.spotify.com/artist/70GCrueLWPqtr0HhlyIFAD"
-        },
-        {
-          "name": "Big Nango",
-          "url": "https://open.spotify.com/artist/2pjdmFwCoCFDonp4u6TJEH"
+          "name": "Garifuna Kids",
+          "url": "https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo"
         }
       ],
-      "duration_ms": 145321,
-      "name": "Quemala",
-      "url": "https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D"
+      "duration_ms": 396303,
+      "name": "Baila Baila",
+      "url": "https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -371,18 +351,38 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Baila Baila",
-        "url": "https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W"
+        "name": "Quemala",
+        "url": "https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg"
       },
       "artists": [
         {
-          "name": "Garifuna Kids",
-          "url": "https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo"
+          "name": "El Chevo",
+          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
+        },
+        {
+          "name": "Mr Jc",
+          "url": "https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc"
+        },
+        {
+          "name": "MC Productions Inc",
+          "url": "https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA"
+        },
+        {
+          "name": "KD La Caracola",
+          "url": "https://open.spotify.com/artist/4C1zea33GCcaanKPvTbiGy"
+        },
+        {
+          "name": "Jessy Rose",
+          "url": "https://open.spotify.com/artist/70GCrueLWPqtr0HhlyIFAD"
+        },
+        {
+          "name": "Big Nango",
+          "url": "https://open.spotify.com/artist/2pjdmFwCoCFDonp4u6TJEH"
         }
       ],
-      "duration_ms": 396303,
-      "name": "Baila Baila",
-      "url": "https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl"
+      "duration_ms": 145321,
+      "name": "Quemala",
+      "url": "https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D"
     },
     {
       "added_at": "2020-05-26 15:53:13",

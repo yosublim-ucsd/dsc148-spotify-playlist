@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Mac Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,641 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,657 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 15 | [Get Back Up \(feat\. Fridayy\)](https://open.spotify.com/track/5TOUaxJ6DVUYAA1OivsH1v) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Get Back Up \(feat\. Fridayy\)](https://open.spotify.com/album/03FVqPZIjsv02LISaEBP29) | 2:28 |
 | 16 | [WHAT'S THE MISSION](https://open.spotify.com/track/2rDq2Bsej4hmjIDa9KITsJ) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF) | [WHAT'S THE MISSION](https://open.spotify.com/album/1fkRAeGGkBmD2QyzCgq6G5) | 3:43 |
 | 17 | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Bend It Ova \(feat\. A Boogie Wit Da Hoodie & Big Freedia\)](https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r) | 3:18 |
-| 18 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
+| 18 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
 | 19 | [Giving Chanel](https://open.spotify.com/track/1wMxLpODBBQMC6CiIBIV8e) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [HEATHENISM](https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG) | 3:27 |
 | 20 | [Good Look](https://open.spotify.com/track/6c098Yt8Mr2UN7EwTG8w5F) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Good Look](https://open.spotify.com/album/0ZCidOeCHqEjLxtetrELo1) | 1:54 |
 | 21 | [Wickstyle](https://open.spotify.com/track/0J1iJxPmVJRFtaYyWFU1YC) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Wickstyle](https://open.spotify.com/album/11inU7lZwHsEQ1JtuQY2oc) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [As We Speak \(feat\. Drake\)](https://open.spotify.com/track/6uFG0BRd3BaonWjEGuHYAh) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [2093 \(P2\)](https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg) | 4:00 |
 | 50 | [Only You](https://open.spotify.com/track/4PSvazj8Yc6zgtmc4RUoIx) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Only You](https://open.spotify.com/album/6peg85oEmyTYzm8wxik2wd) | 2:22 |
 
-Snapshot ID: `MCxjYjI5OTBkN2M5YmQxYzU1MTQ5ODBhZjE5YTBlMzAzNGI2M2ZlODcz`
+Snapshot ID: `MCw3MTUxZDU0N2IyODc5YzEzNzRjNzUxMDI1NmYzMzJkYTA5YTcyOTQ5`

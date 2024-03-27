@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: MOGMusic",
-  "num_followers": 9291,
+  "num_followers": 9309,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2E2NTBlNjMyZTI1ODllNWE3MDRjYjllODk5ZDMzNWQ5NGE5OTQ0",
+  "snapshot_id": "MCxmMjUyYjU5NWY4ZjNmZWM0NjM2MzZkYTUxNDUxZDQ0ODAwNTQ5ZmZk",
   "tracks": [
     {
       "added_at": "2024-03-22 00:01:00",
@@ -435,22 +435,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP"
+        "name": "Victory Chant",
+        "url": "https://open.spotify.com/album/4sOw1diNTuAixNZLNafmXH"
       },
       "artists": [
         {
-          "name": "Akesse Brempong",
-          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
-        },
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
         }
       ],
-      "duration_ms": 218928,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE"
+      "duration_ms": 292545,
+      "name": "Victory Chant",
+      "url": "https://open.spotify.com/track/5NVaZm3jsXN7F678HPbPtB"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -471,18 +467,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Victory Chant",
-        "url": "https://open.spotify.com/album/4sOw1diNTuAixNZLNafmXH"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP"
       },
       "artists": [
         {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+          "name": "Akesse Brempong",
+          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 292545,
-      "name": "Victory Chant",
-      "url": "https://open.spotify.com/track/5NVaZm3jsXN7F678HPbPtB"
+      "duration_ms": 218928,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE"
     },
     {
       "added_at": "2024-03-22 00:01:00",

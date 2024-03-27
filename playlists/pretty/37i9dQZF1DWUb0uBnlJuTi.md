@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Sly5thAve
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,579 likes - 200 songs - 15 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,691 likes - 200 songs - 15 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 37 | [Hizuru \- Jazztronik Remix](https://open.spotify.com/track/12ycPl7hDIiidFQYvDJHpU) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o), [Hizuru](https://open.spotify.com/artist/0KMviWZDLVXQvl1Hl3RDoe) | [Hizuru \(Jazztronik Remix\)](https://open.spotify.com/album/4VEyGOgf7K0eNBnASVugmd) | 4:01 |
 | 38 | [Serpentine](https://open.spotify.com/track/3exot3dINaZOhGhw9kL9vX) | [Apollo Suns](https://open.spotify.com/artist/2QkgSnhat4djSXQA6EvQJW) | [Serpentine](https://open.spotify.com/album/3HDZIVNyEpxMEVYg2LGjgQ) | 3:48 |
 | 39 | [Degnan Dreams \(feat\. Keyon Harrold, Justin Tyson & Dominique Sanders\)](https://open.spotify.com/track/5gub913jYBkMGkJDhiLrbe) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI), [Dominique Sanders](https://open.spotify.com/artist/17CyoltNZz638iotR5AAxt) | [Fine Tune](https://open.spotify.com/album/2o5ogZeEG083oYvpFMv2NU) | 3:46 |
-| 40 | [Echo A.D.](https://open.spotify.com/track/00cDda3lfNh6lI9qoYwqnn) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Echo A.D.](https://open.spotify.com/album/3nggWpLX9v8zCnpFcDsYMe) | 4:04 |
+| 40 | [Echo A.D.](https://open.spotify.com/track/1ZlUY5Ue5RGOYWKGmfa4OK) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Hox](https://open.spotify.com/album/3gVEuGNplHxs8zVzfeC4vU) | 4:04 |
 | 41 | [Iskhathi](https://open.spotify.com/track/6cK0RRZ0HA18cB7VxeMoTS) | [Nongoma](https://open.spotify.com/artist/3O7kSCL3mt0T0lBnvNyWwj), [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Iskhathi](https://open.spotify.com/album/0atF8hOC4T98gG6BPRSk4y) | 5:46 |
 | 42 | [I Got It Bad \(And That Ain't Good\)](https://open.spotify.com/track/3926LUvvXeRq024iTeNAnP) | [Reginald Chapman](https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB), [Kenneka Cook](https://open.spotify.com/artist/1SdMrNeKvyntOu9edUG4Zo), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK), [Tennishu](https://open.spotify.com/artist/4SNZv6dF06QGC335mAsXeg), [R4nd4zzo](https://open.spotify.com/artist/4TaM7yPjrpK39ZozZDP7tA), [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [I Got It Bad \(And That Ain't Good\)](https://open.spotify.com/album/59I04ZfQXvABeo3Q99ZjP0) | 4:13 |
 | 43 | [The Revolution Will Not Be Televised](https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:07 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 |
 
-Snapshot ID: `MCw1OGRhOTFhZmYxZTc5YTNlZjM2Y2U5NTJlNDYzN2IwYzE0NTI5YzVj`
+Snapshot ID: `MCw1NTBjZjY2ZDI3NzgyNmY0YTBkMTc2ZTYwZWJjODhlNjQ0ZDg1MDIz`

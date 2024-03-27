@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 6192451,
+  "2024-03-27": 6192534,
   "date_first_scraped": "2021-12-21",
   "description": "Listen to all the tracks you've been missing. Cover: Katy Perry",
   "name": "Hit Rewind",
@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 231013,
       "name": "Animals",
       "url": "https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x"
@@ -818,7 +818,7 @@
     },
     {
       "album": {
-        "name": "Don't Let Me Down",
+        "name": "Don't Let Me Down (feat. Daya)",
         "url": "https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf"
       },
       "artists": [
@@ -833,9 +833,9 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-09",
+      "date_removed": null,
       "duration_ms": 208373,
-      "name": "Don't Let Me Down",
+      "name": "Don't Let Me Down (feat. Daya)",
       "url": "https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK"
     },
     {
@@ -2161,7 +2161,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 204600,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
@@ -3113,7 +3113,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 242973,
       "name": "Set Fire to the Rain",
       "url": "https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi"

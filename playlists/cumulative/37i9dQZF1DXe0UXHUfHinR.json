@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 447200,
       "name": "Back Beat",
       "url": "https://open.spotify.com/track/1EDPO11fsLlQvGBhzxprqS"
@@ -7208,7 +7208,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 477093,
-      "name": "Maiden Voyage - Remastered",
+      "name": "Maiden Voyage",
       "url": "https://open.spotify.com/track/0T1EaGm6b9eM7xBf4F1hlc"
     },
     {
@@ -11394,7 +11394,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 241392,
       "name": "The Last Verse",
       "url": "https://open.spotify.com/track/3kmQxusMYqIaXIoWeatRDh"
@@ -12616,7 +12616,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 429266,
-      "name": "Watermelon Man - Remastered",
+      "name": "Watermelon Man - Remastered 2007",
       "url": "https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA"
     },
     {

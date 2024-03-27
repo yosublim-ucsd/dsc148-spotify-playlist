@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,566 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,563 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 46 | [POETRY IN MOTION](https://open.spotify.com/track/6vZRq9JIOGTl3b9dmEgeZV) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:11 |
 | 47 | [GO GO GO \(Feat\. Josman\)](https://open.spotify.com/track/1SXkflyNJkKKNHzkWuFIix) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [GO GO GO \(Feat\. Josman\)](https://open.spotify.com/album/4ZYdJg7f8B6aHFvQbu1Cwe) | 2:28 |
 | 48 | [IT'S US \(feat\. Lil Yachty\)](https://open.spotify.com/track/5KmRQG2OkF4bqyXKk2IuBP) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [IT'S US \(feat\. Lil Yachty\)](https://open.spotify.com/album/0HXtuk7MjOIIeH4louTMGx) | 2:03 |
-| 49 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
-| 50 | [Surfing](https://open.spotify.com/track/6j9n1cAnjDgCILQxnkFWob) | [Js Morgan](https://open.spotify.com/artist/4MTlnA1jISxTRJEFulI0hJ), [Aile the shota](https://open.spotify.com/artist/4mYNyRUqtASHuyBMN6GshE) | [Surfing](https://open.spotify.com/album/6txY9inNN5aTMZmlKcXTLj) | 3:17 |
+| 49 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
+| 50 | [Surfing](https://open.spotify.com/track/6j9n1cAnjDgCILQxnkFWob) | [Js Morgan](https://open.spotify.com/artist/4MTlnA1jISxTRJEFulI0hJ), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [Surfing](https://open.spotify.com/album/6txY9inNN5aTMZmlKcXTLj) | 3:17 |
 | 51 | [SPA](https://open.spotify.com/track/2N1bQJIjEx5RS7Q0G8rlV3) | [rirugiliyangugili](https://open.spotify.com/artist/2ojo5MBGfvdfO3Iql07wu9) | ["EVIL SPA" Vibes & Feeling & Groove & Style & Sniffing & Coco & Hitting & Zaza & Dirty & Sprite](https://open.spotify.com/album/6FWVxwK6QLcVY4U1SNuh33) | 1:42 |
 | 52 | [Opening Gate](https://open.spotify.com/track/2aBhzBBvNqzwLIdkxnsfu1) | [AssToro](https://open.spotify.com/artist/1XVnuN1WPe1VMw78MuYeic), [Cheshire Yums](https://open.spotify.com/artist/5s0GruaCwZPkYWVQQH2DrD), [8 Hands](https://open.spotify.com/artist/0RxIM88Ef315Z9Wbaa6Z4l) | [Self\-Assertive](https://open.spotify.com/album/0of1qpeFOd3nrz0eVOYPB4) | 2:52 |
 | 53 | [images\*](https://open.spotify.com/track/6KRZ7h2x5fjVPLOG7Qvzkc) | [doggie](https://open.spotify.com/artist/2bu2m51bYmzl0Y7Dzfwbdt) | [images\*](https://open.spotify.com/album/3pieTOQLggiFp1NF9UIfRc) | 2:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 |
 | 70 | [Yellow Cab](https://open.spotify.com/track/5L96J3tuanRhVpqyhvOeZs) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr), [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Yellow Cab](https://open.spotify.com/album/5grhHLxU9KfW1AxHuQUDI8) | 2:52 |
 
-Snapshot ID: `MCxlNzk3N2U4MjljZGI2ZWMyMWFlZDg1ZGM3MjM5NjIxOTgwNzBlMTEx`
+Snapshot ID: `MCxlZjFjOWE4Njk3MGFiOGZmNmU5MTAzNzZhZGRhZTA2ZTE3MDQwNzhl`

@@ -1,5 +1,5 @@
 {
-  "2024-03-26": 491577,
+  "2024-03-27": 491595,
   "date_first_scraped": "2021-12-21",
   "description": "The calm sound of crashing waves on the beach.",
   "name": "Ocean Waves",
@@ -204,6 +204,24 @@
     },
     {
       "album": {
+        "name": "Atlantic Waves",
+        "url": "https://open.spotify.com/album/63Z04a8qOeAYzaknJ4ARbh"
+      },
+      "artists": [
+        {
+          "name": "X Somnum",
+          "url": "https://open.spotify.com/artist/6IhgFJsVFWJ5hdFFUxbMeK"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189014,
+      "name": "Atlantic Waves",
+      "url": "https://open.spotify.com/track/2zm8UV8DfhAW2S85WNrUuW"
+    },
+    {
+      "album": {
         "name": "Ocean Sounds Vol. 1",
         "url": "https://open.spotify.com/album/70GyyrJtf355wkI3MmMH59"
       },
@@ -233,7 +251,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 148483,
       "name": "Beach Calmness",
       "url": "https://open.spotify.com/track/1PZoHdDM71mzOFW1T6H03y"
@@ -413,7 +431,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 150000,
       "name": "Brain Waves Ocean Sounds 2",
       "url": "https://open.spotify.com/track/7xa0f1u6PD4pVqTLw07hNR"
@@ -431,7 +449,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 168614,
       "name": "Brain Waves Ocean Sounds 3",
       "url": "https://open.spotify.com/track/1RTIg9btharEAVP3koGsdI"
@@ -467,7 +485,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 138762,
       "name": "Calm Waves pt. 3",
       "url": "https://open.spotify.com/track/5UnPhb3mYd8wVudFPXbHzh"
@@ -503,7 +521,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 151188,
       "name": "Calming Sounds Of The Sea",
       "url": "https://open.spotify.com/track/5ybuXGeBHB6WLjmIRMHFt0"
@@ -557,7 +575,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 132695,
       "name": "Chill Waves",
       "url": "https://open.spotify.com/track/5WG22XDxMdU2dmnJ3CuVhQ"
@@ -629,7 +647,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 250000,
       "name": "Cold Ocean",
       "url": "https://open.spotify.com/track/1ZihUInQCNAaowBpVoiRjf"
@@ -798,6 +816,24 @@
     },
     {
       "album": {
+        "name": "Dream Ocean Waves",
+        "url": "https://open.spotify.com/album/0LTogiu9smYkMQvQli6lex"
+      },
+      "artists": [
+        {
+          "name": "Nature Advisor",
+          "url": "https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198399,
+      "name": "Dream Ocean Waves",
+      "url": "https://open.spotify.com/track/00LCKFBXDrGlVcyYsViiJM"
+    },
+    {
+      "album": {
         "name": "Dreaming with Waves",
         "url": "https://open.spotify.com/album/4ozRatx3Bo0zXwXRdoyteX"
       },
@@ -809,7 +845,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 208637,
       "name": "Dreaming with Waves",
       "url": "https://open.spotify.com/track/50AAtRY8C26WF5zVjvXTNT"
@@ -1025,7 +1061,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 131340,
       "name": "Healing Ocean Sounds",
       "url": "https://open.spotify.com/track/4g2u0nitKXjGmMlHEZ3mjr"
@@ -1079,7 +1115,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 135445,
       "name": "Hear the Distant Waves",
       "url": "https://open.spotify.com/track/6HIWJ7OCiyShqeix9zAODH"
@@ -1227,6 +1263,24 @@
       "duration_ms": 210930,
       "name": "Island Waves",
       "url": "https://open.spotify.com/track/1AKBor4M47I7axiOkCRiqk"
+    },
+    {
+      "album": {
+        "name": "La Palma Waves",
+        "url": "https://open.spotify.com/album/0PsIYe3RhMh93382cBJeWp"
+      },
+      "artists": [
+        {
+          "name": "X Somnum",
+          "url": "https://open.spotify.com/artist/6IhgFJsVFWJ5hdFFUxbMeK"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188782,
+      "name": "La Palma Waves",
+      "url": "https://open.spotify.com/track/6wW4gCCbApItGoeRDq8gfe"
     },
     {
       "album": {
@@ -1475,7 +1529,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 174345,
       "name": "Misty Waves",
       "url": "https://open.spotify.com/track/0NMm7e8hghkc45813KsWOn"
@@ -1601,7 +1655,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 169983,
       "name": "Ocean Foam",
       "url": "https://open.spotify.com/track/5CzdfvJBSwRG5s56RuXVTG"
@@ -1680,6 +1734,50 @@
     },
     {
       "album": {
+        "name": "Colombian Melodies Across Seas",
+        "url": "https://open.spotify.com/album/51e25tx6ywSL7gBWYfL0wC"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Vozterra",
+          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146431,
+      "name": "Ocean Sounds in Choc\u00f3",
+      "url": "https://open.spotify.com/track/6evqUeRHVgYgYqTuKvehK3"
+    },
+    {
+      "album": {
+        "name": "Colombian Melodies Across Seas",
+        "url": "https://open.spotify.com/album/51e25tx6ywSL7gBWYfL0wC"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Vozterra",
+          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150528,
+      "name": "Ocean Sounds in El Almejal",
+      "url": "https://open.spotify.com/track/5TtFYghC1fttW3wSM8Ax5u"
+    },
+    {
+      "album": {
         "name": "Forest and Ocean Sounds",
         "url": "https://open.spotify.com/album/2dmWE60Sa5659UxfxDth4M"
       },
@@ -1709,7 +1807,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 169962,
       "name": "Ocean Sunset Tide",
       "url": "https://open.spotify.com/track/6XBqAyN43UglCHM0sWZLS3"
@@ -1763,7 +1861,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 230000,
       "name": "Ocean Tranquility",
       "url": "https://open.spotify.com/track/6ssIEDSndneQgDbIlmRqqz"
@@ -1835,7 +1933,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 173349,
       "name": "Oceanic Samples",
       "url": "https://open.spotify.com/track/7t87vcupUHamRBHfIOh1Rm"
@@ -1889,7 +1987,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 251652,
       "name": "Olas del mar",
       "url": "https://open.spotify.com/track/2JU0aRNuN3uc5dKDMeVmTq"
@@ -1925,7 +2023,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 296228,
       "name": "Pacific Blue Sounds",
       "url": "https://open.spotify.com/track/0A0x0FqKVh1q0y8ueg9eSx"
@@ -2148,6 +2246,24 @@
     },
     {
       "album": {
+        "name": "Perfect Ocean",
+        "url": "https://open.spotify.com/album/7Hd8ggF0YdFQ49qJ02k5Jh"
+      },
+      "artists": [
+        {
+          "name": "JBE Nature Sounds",
+          "url": "https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176017,
+      "name": "Perfect Ocean",
+      "url": "https://open.spotify.com/track/1K8O7W0UjjL8W85JnY0JYN"
+    },
+    {
+      "album": {
         "name": "Relax Waves",
         "url": "https://open.spotify.com/album/6Qvj2A6BbHE0449Y6DD7Pf"
       },
@@ -2177,7 +2293,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 177028,
       "name": "Relaxing Morning Waves",
       "url": "https://open.spotify.com/track/55FrxMLd1O3tDQZ4xyYKDr"
@@ -2303,7 +2419,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 160000,
       "name": "Rocking Waves",
       "url": "https://open.spotify.com/track/6RAlemH3wuNmuIT07DlMOa"
@@ -2454,6 +2570,24 @@
     },
     {
       "album": {
+        "name": "Soft Ocean Waves",
+        "url": "https://open.spotify.com/album/6hV7AFtm1OBdtnGvKNH5u9"
+      },
+      "artists": [
+        {
+          "name": "World Recorders",
+          "url": "https://open.spotify.com/artist/1kG5S2MLYLuZUFlQb72rxE"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161926,
+      "name": "Shore Roaring and Undulating",
+      "url": "https://open.spotify.com/track/2SMaQVNDeKXGhoh6JHsBmy"
+    },
+    {
+      "album": {
         "name": "Ocean Sounds Vol. 2",
         "url": "https://open.spotify.com/album/07whyFvVINvAXzWJEKlPdJ"
       },
@@ -2501,7 +2635,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 194000,
       "name": "Sleep On The Ocean",
       "url": "https://open.spotify.com/track/6gx1y86TaoNZPTXImnw1fX"
@@ -2627,7 +2761,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 181067,
       "name": "Soft Waves",
       "url": "https://open.spotify.com/track/4AtqK695Bo1OxeXHG9uzGp"
@@ -2645,7 +2779,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 129349,
       "name": "Soft Waves",
       "url": "https://open.spotify.com/track/79CP1fSEBl2fjZI2qqVTSu"
@@ -2897,7 +3031,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 162960,
       "name": "Sounds of Nature: The Beach",
       "url": "https://open.spotify.com/track/1ggZVPo1igmW8ZnEMKch9d"
@@ -3041,7 +3175,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 167750,
       "name": "Stormy Sea",
       "url": "https://open.spotify.com/track/5STiJhJ8wVjofGiEah0Izu"
@@ -3059,7 +3193,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 144950,
       "name": "Stream Of Life",
       "url": "https://open.spotify.com/track/4PhsPrBK6rlffgawm1Jy0U"
@@ -3095,7 +3229,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 165240,
       "name": "Stress Relieving Sounds",
       "url": "https://open.spotify.com/track/0YbufbfIS8GR6UHPHYvkPW"
@@ -3131,7 +3265,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 151067,
       "name": "Summer Ocean Waves",
       "url": "https://open.spotify.com/track/6RfkQdyd9B1Q8SFNT6Wvwn"
@@ -3167,7 +3301,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 165057,
       "name": "Super Soothing Evening Waves",
       "url": "https://open.spotify.com/track/6L8AUW3COyY7Z2Ww1RIEVH"
@@ -3185,7 +3319,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 185756,
       "name": "Surf Season",
       "url": "https://open.spotify.com/track/0YmXKiEa0tLl0kpiQedm25"
@@ -3246,6 +3380,24 @@
     },
     {
       "album": {
+        "name": "Tenerife Sea",
+        "url": "https://open.spotify.com/album/1sX3CqdKWQdPWCIe2McYW7"
+      },
+      "artists": [
+        {
+          "name": "Drakir Nature",
+          "url": "https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185971,
+      "name": "Tenerife Sea",
+      "url": "https://open.spotify.com/track/2DK2SiIDvOsT7T8QHAxdeo"
+    },
+    {
+      "album": {
         "name": "The Gentle Lull of Waves",
         "url": "https://open.spotify.com/album/2My0h44Y8OLx8hhN1CPqeg"
       },
@@ -3293,7 +3445,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 173422,
       "name": "The Oceanic Beach Sound",
       "url": "https://open.spotify.com/track/5mvw769FihTs6dokvzhosR"
@@ -3311,7 +3463,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 159010,
       "name": "The Relaxing Waves",
       "url": "https://open.spotify.com/track/2BxtM2sfnbMeybXiaOCXZJ"
@@ -3329,7 +3481,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 184772,
       "name": "Three Minutes By The Ocean",
       "url": "https://open.spotify.com/track/0Rq7hjlS4yPq2VW2DsRLy6"
@@ -3419,10 +3571,32 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 137233,
       "name": "Walking on the Beach",
       "url": "https://open.spotify.com/track/4JF77DJLXTu8BhRqh3chaF"
+    },
+    {
+      "album": {
+        "name": "Seascape Symphony",
+        "url": "https://open.spotify.com/album/6CJnZvl8KEoWDQ2fD1494m"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186382,
+      "name": "Washington Waters' Waltz",
+      "url": "https://open.spotify.com/track/2oMDfQuqjw8MphelJpztPG"
     },
     {
       "album": {
@@ -3779,7 +3953,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 168180,
       "name": "Waves In The Morning Light",
       "url": "https://open.spotify.com/track/3OLmiKhYJzFhVR4HfzzS4G"
@@ -3869,7 +4043,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 180668,
       "name": "Waves of Bliss",
       "url": "https://open.spotify.com/track/4ujz8hsDEAURnqFSyH0wGt"
@@ -4031,7 +4205,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 172143,
       "name": "Windy Ocean Waves",
       "url": "https://open.spotify.com/track/6XEEsaEjxwQx4ulaTO1SnT"
@@ -4103,7 +4277,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-26",
       "duration_ms": 159010,
       "name": "\u30aa\u30fc\u30b7\u30e3\u30f3\u30a6\u30a7\u30fc\u30d6",
       "url": "https://open.spotify.com/track/4iWk0xghJ3A4RGqqv7GDKH"

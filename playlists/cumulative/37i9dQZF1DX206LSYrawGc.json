@@ -52,9 +52,9 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 286520,
-      "name": "Addicted To That Rush - Remastered Version",
+      "name": "Addicted To That Rush - 2009 Remastered Version",
       "url": "https://open.spotify.com/track/1RCOCHtcnVWoWNSarMlwyd"
     },
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 236933,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/4p4YiROw0qF059Mcstu8rl"
@@ -128,6 +128,24 @@
       "duration_ms": 231693,
       "name": "Breaking the Chains",
       "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
+    },
+    {
+      "album": {
+        "name": "Breaking the Chains",
+        "url": "https://open.spotify.com/album/6NYFg9at2mwtM51vlzQYDu"
+      },
+      "artists": [
+        {
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231706,
+      "name": "Breaking The Chains",
+      "url": "https://open.spotify.com/track/3PZJwntD9O7WLXm2g2jTmD"
     },
     {
       "album": {
@@ -214,7 +232,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 262826,
       "name": "Don't Tell Me You Love Me",
       "url": "https://open.spotify.com/track/6E6uwOhAEHSzSvDewOBEvF"
@@ -232,7 +250,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 243040,
       "name": "Down Boys",
       "url": "https://open.spotify.com/track/0dw3dXWx6dgp7Ri3HeDBUq"
@@ -322,7 +340,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 265333,
       "name": "Edge Of A Broken Heart",
       "url": "https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh"
@@ -362,6 +380,24 @@
       "duration_ms": 260224,
       "name": "Every Rose Has Its Thorn",
       "url": "https://open.spotify.com/track/5qaSekPPKHIEA1Yn0qkCaC"
+    },
+    {
+      "album": {
+        "name": "For Those About to Rock (We Salute You)",
+        "url": "https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344240,
+      "name": "For Those About to Rock (We Salute You)",
+      "url": "https://open.spotify.com/track/17lu4tymfnhmcIDlzBbtAb"
     },
     {
       "album": {
@@ -466,7 +502,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232133,
       "name": "Here I Go Again - Radio Mix",
       "url": "https://open.spotify.com/track/6m8FEpCFkSrzhH1W3R2yKU"
@@ -599,6 +635,42 @@
     },
     {
       "album": {
+        "name": "The Miracle (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0kCPII9EM5eqHHCRo1EVjs"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280480,
+      "name": "I Want It All - Remastered 2011",
+      "url": "https://open.spotify.com/track/2htmMitogin6NMGABye6YG"
+    },
+    {
+      "album": {
+        "name": "Under Lock and Key",
+        "url": "https://open.spotify.com/album/6C1sVNgB0JHwELDniogzCK"
+      },
+      "artists": [
+        {
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260092,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/6PEgQw6tesqhzsqGk3ZfeH"
+    },
+    {
+      "album": {
         "name": "Under Lock and Key",
         "url": "https://open.spotify.com/album/7fzsiqMaaS469OzP59V86A"
       },
@@ -614,6 +686,24 @@
       "duration_ms": 260093,
       "name": "In My Dreams",
       "url": "https://open.spotify.com/track/6x4KvNzBNTRmwBKvuNH0hc"
+    },
+    {
+      "album": {
+        "name": "XYZ",
+        "url": "https://open.spotify.com/album/0lqnYDP3PMremkTQyG2F65"
+      },
+      "artists": [
+        {
+          "name": "XYZ",
+          "url": "https://open.spotify.com/artist/7M26B2dpKVQ30MPUYvzWXk"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250240,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/6q6Gr1S4COWcesgzzgHRFc"
     },
     {
       "album": {
@@ -664,7 +754,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 243280,
       "name": "Just Like Paradise",
       "url": "https://open.spotify.com/track/5ZY7Gug850kv4heJcWZGHM"
@@ -761,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Lick It Up",
+        "url": "https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236640,
+      "name": "Lick It Up",
+      "url": "https://open.spotify.com/track/3cXiUuiGpFmZ8OdAWKk8Ck"
+    },
+    {
+      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -815,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Earthquake - The A&M Years",
+        "url": "https://open.spotify.com/album/61RDXYzPiJBu45fMcs0UCR"
+      },
+      "artists": [
+        {
+          "name": "Y&T",
+          "url": "https://open.spotify.com/artist/49Cw140t9jupn4S3udehoP"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246626,
+      "name": "Mean Streak",
+      "url": "https://open.spotify.com/track/4BR2qu7hHTIDtGMIcpvfzc"
+    },
+    {
+      "album": {
         "name": "Mechanical Resonance",
         "url": "https://open.spotify.com/album/1VctZj1UuAgfqtnDcTlzGI"
       },
@@ -826,10 +952,28 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 318226,
       "name": "Modern Day Cowboy",
       "url": "https://open.spotify.com/track/5ZIU2kT1wNjQNclQeVCz5O"
+    },
+    {
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237466,
+      "name": "No One Like You",
+      "url": "https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg"
     },
     {
       "album": {
@@ -952,7 +1096,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 211440,
       "name": "Play With Me",
       "url": "https://open.spotify.com/track/6hpPAOftKbe1YghyTtJuCq"
@@ -1006,7 +1150,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 359960,
       "name": "Radar Love",
       "url": "https://open.spotify.com/track/0MOi5oWv5Y0Ea9p7BdXepF"
@@ -1028,6 +1172,24 @@
       "duration_ms": 256933,
       "name": "Rainbow in the Dark",
       "url": "https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq"
+    },
+    {
+      "album": {
+        "name": "Danger Danger",
+        "url": "https://open.spotify.com/album/3fkdfqYl5Ky1jbpEWqDe5U"
+      },
+      "artists": [
+        {
+          "name": "Danger Danger",
+          "url": "https://open.spotify.com/artist/1VaIDrxow5xfLmB9R26JVZ"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292866,
+      "name": "Rock America",
+      "url": "https://open.spotify.com/track/5zR2SIo0RncU1PNNNbMzsu"
     },
     {
       "album": {
@@ -1222,10 +1384,28 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 198800,
       "name": "The Kids Are Back",
       "url": "https://open.spotify.com/track/7xzmJPFQAn0O1ZYYtbGRlz"
+    },
+    {
+      "album": {
+        "name": "This Is The Day: Feel Good Summer Hits",
+        "url": "https://open.spotify.com/album/3zUntTZ6vl46ZW5dh6Zqa0"
+      },
+      "artists": [
+        {
+          "name": "Autograph",
+          "url": "https://open.spotify.com/artist/2koMWjvRRF0cOpJnjhdKx0"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275533,
+      "name": "Turn up the Radio",
+      "url": "https://open.spotify.com/track/547JIm8YGOKDzBp2JsX4a4"
     },
     {
       "album": {
@@ -1298,6 +1478,24 @@
       "duration_ms": 243600,
       "name": "We Care a Lot",
       "url": "https://open.spotify.com/track/2z1uVu3OwTmPlfqt5TWk5k"
+    },
+    {
+      "album": {
+        "name": "The Last in Line",
+        "url": "https://open.spotify.com/album/4XAy5hk5sgMdDlORiNrVM9"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275666,
+      "name": "We Rock",
+      "url": "https://open.spotify.com/track/4cMKvXUOLFbC6lRLCz5HPg"
     },
     {
       "album": {
@@ -1420,7 +1618,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220893,
       "name": "Working for the Weekend",
       "url": "https://open.spotify.com/track/0zF1cSexRdrMlEzXKwxCDU"
@@ -1438,7 +1636,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 234706,
       "name": "Yankee Rose",
       "url": "https://open.spotify.com/track/5Fh5nmTu6TEk0ze8QAU7og"
@@ -1460,6 +1658,24 @@
       "duration_ms": 222706,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
+    },
+    {
+      "album": {
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310080,
+      "name": "You've Got Another Thing Coming",
+      "url": "https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Emerging sounds in worship from everywhere.
 
-196 songs - 17 hr 9 min
+197 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Springtime](https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let the Ground Rest](https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7) | 4:14 | 2021-06-12 |  |
 | [Start With Me](https://open.spotify.com/track/1Sy9CvTLBYvPKqbnSBsn8w) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Start With Me](https://open.spotify.com/album/1T6yyl1bWzpwrRjyPGYQgg) | 4:19 | 2021-06-12 | 2024-02-20 |
 | [Stones \- Live](https://open.spotify.com/track/5bktIa0YLV05n2xnT7R9dO) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Wild Heart](https://open.spotify.com/album/2wkuGTRxZOldvPf9YeeQpx) | 6:48 | 2021-06-12 |  |
-| [The Blessing \(feat\. Maranda Curtis\) \- Song Session](https://open.spotify.com/track/0bicWqcGF8HXaaBB1HqnxR) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [The Blessing \(feat\. Maranda Curtis\) \[Song Session\]](https://open.spotify.com/album/6AEDBghw44SvpsiMjDctNo) | 6:49 | 2021-06-12 |  |
+| [The Blessing \(feat\. Maranda Curtis\) \- Song Session](https://open.spotify.com/track/0bicWqcGF8HXaaBB1HqnxR) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [The Blessing \(feat\. Maranda Curtis\) \[Song Session\]](https://open.spotify.com/album/6AEDBghw44SvpsiMjDctNo) | 6:49 | 2021-06-12 | 2024-03-27 |
 | [The Blessing \- Live](https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [The Blessing \(Live\)](https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE) | 8:34 | 2021-06-12 |  |
 | [The God Who Fights for Me](https://open.spotify.com/track/1KuROOkDBlMbDSHiULDEM6) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [The God Who Fights For Me](https://open.spotify.com/album/18Z3YpB4jp3MEuJ2E9bmVE) | 3:45 | 2021-06-12 |  |
 | [The God Who Fights for Me](https://open.spotify.com/track/4ut1jCNfTaykqaNkSCIwuj) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [The God Who Fights for Me](https://open.spotify.com/album/5bSY4TD5nNET1jOtDUiZ8y) | 3:45 | 2021-06-12 | 2023-03-12 |
@@ -181,6 +181,7 @@
 | [There’s Nothing That Our God Can’t Do \- Radio Version](https://open.spotify.com/track/3sTH5twYNUS1twuAQUZtL1) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [There’s Nothing That Our God Can’t Do \(Radio Version\)](https://open.spotify.com/album/6V9emQ8EpVc31AAL6uWrmt) | 4:13 | 2021-06-12 |  |
 | [This Is Our Story](https://open.spotify.com/track/0BPve03Ln80rCunPjTukrZ) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [This Is Our Story](https://open.spotify.com/album/0llPda4VyHbzZDX0yoCspf) | 5:41 | 2021-06-12 | 2022-07-29 |
 | [This Is Our Story](https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [This Is Our Story](https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo) | 5:41 | 2021-06-12 | 2024-03-18 |
+| [This Is Our Story](https://open.spotify.com/track/6nMfk0xK3RwJqJxX3l1tLy) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [This Is Our Story](https://open.spotify.com/album/0hgeTBFRUDWPAPRPssbFvM) | 5:41 | 2021-06-12 |  |
 | [THIS MOMENT](https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [THIS MOMENT](https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9) | 2:56 | 2021-06-12 |  |
 | [Through Every Season](https://open.spotify.com/track/3zuYsncHhi4YFxE88yeeDe) | [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB), [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl) | [Through Every Season](https://open.spotify.com/album/4yOnEBUS4TAPmbSdT3c7ZZ) | 6:06 | 2021-06-12 | 2022-09-03 |
 | [Through Every Season](https://open.spotify.com/track/6RJyHviV33RA8ssCL3ckOh) | [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB), [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl) | [Carried](https://open.spotify.com/album/2ae612G873GaK4EoWE9pYw) | 6:06 | 2021-06-12 |  |

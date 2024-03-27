@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam\. Ảnh bìa: NSND Bạch Tuyết, Nal
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,196 likes - 75 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,198 likes - 75 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 74 | [Ba Khía Giao Duyên](https://open.spotify.com/track/2qWTWy3lECQbh2YtOn8RQj) | [Đình Văn](https://open.spotify.com/artist/1gmlQgEQyq1beDMA8I4uNJ), [Mai Yen Chi](https://open.spotify.com/artist/6lpRi8Gi9xLSI9YpeMbe6V) | [Ba Khía Giao Duyên](https://open.spotify.com/album/34t52YJOVInSRYRLmDLfCb) | 3:10 |
 | 75 | [Con Gái Miền Tây](https://open.spotify.com/track/3OQoJNtaqOephkNCrogBbd) | [Ngọc Hân](https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER) | [Dân Ca Quê Hương](https://open.spotify.com/album/0pHd2saAqJPkkNB2ojUpmA) | 4:31 |
 
-Snapshot ID: `MCw5MTYyZWFkZmVlYWJiNTBmNmMxMTRhNzJkY2ExMDdlZWNhMjRmMzE5`
+Snapshot ID: `MCwxYTA2OTJiZGQ4YWNhODZiZTQ0MTVlYWY5YjM2ZGZkYmQyZTg2MWJm`

@@ -2055,6 +2055,32 @@
     },
     {
       "album": {
+        "name": "Not Even Love",
+        "url": "https://open.spotify.com/album/3tjAvXx7DnY6tYkzcZ4wXc"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245538,
+      "name": "Not Even Love",
+      "url": "https://open.spotify.com/track/65s9dLrylbHp60IYIcUZEz"
+    },
+    {
+      "album": {
         "name": "Now Or Never",
         "url": "https://open.spotify.com/album/5Z4uXurjwmsYr59E1quhV6"
       },

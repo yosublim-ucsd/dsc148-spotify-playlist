@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > more like hyperstop playing this music please
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,875 likes - 99 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,972 likes - 99 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 47 | [Pose1don](https://open.spotify.com/track/49lxUaoeNgHtSNf3EPyVkx) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Woesum](https://open.spotify.com/artist/1W9H5eED8Mc5p20B2qo0Qe), [Yung Sherman](https://open.spotify.com/artist/3D0fPWwGl1B3s2zZR1lzKk), [Joon Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Pose1don / Illusions 1996](https://open.spotify.com/album/0Sv9rzySfMfB2xT1LhGb9p) | 3:50 |
 | 48 | [yellow patches](https://open.spotify.com/track/6yHdpcPQnbjagFjz8wVTYq) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [Giant Claw](https://open.spotify.com/artist/0sqfDFd4rYzLfEKpIvJTUc), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [yellow patches](https://open.spotify.com/album/4Abhnyu7vS2zAxOkZJvonh) | 3:44 |
 | 49 | [undo\(ctrl+z\)](https://open.spotify.com/track/1EHSzoF5bioY3Di3Pj1Re9) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [undo\(ctrl+z\)](https://open.spotify.com/album/5ezaUOWHO1d15hQ0GnfSSR) | 2:37 |
-| 50 | [Everything We Tried](https://open.spotify.com/track/6cHNGetkkvyreYspgs0NCc) | [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL), [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [Pointillism / Everything We Tried](https://open.spotify.com/album/0zlxVMMeHgf7JrznWWMKAK) | 3:28 |
+| 50 | [Everything We Tried \(feat\. valentina cy\)](https://open.spotify.com/track/6cHNGetkkvyreYspgs0NCc) | [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL) | [Pointillism / Everything We Tried](https://open.spotify.com/album/0zlxVMMeHgf7JrznWWMKAK) | 3:28 |
 | 51 | [Person \- Angel Mix](https://open.spotify.com/track/5iTzaatezJzsUhX1QjT0Kp) | [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [Person \(Angel Mix\)](https://open.spotify.com/album/61WZkS5rDvpQkyK3sOifiu) | 3:42 |
 | 52 | [C\*nt \- DJ\_Ge5und\#eit Edit](https://open.spotify.com/track/4crXKKdCDUYW3fW1UbPpIA) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [DJ LUVHUNTAH](https://open.spotify.com/artist/2GuGKV3bZJDQz0ILqbvBrB), [DJ\_Ge5Und\#Eit](https://open.spotify.com/artist/36M0kH4mvj6gsakQo7jMa6) | [C\*nt \(DJ\_Ge5und\#eit Edit\)](https://open.spotify.com/album/0DVoU4K3tMhheP0R31fwQa) | 3:30 |
 | 53 | [fuck this town](https://open.spotify.com/track/1kADZJDyRUbmlLxYiqi077) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fuck this town](https://open.spotify.com/album/33ES0yrXxXqfnmYkPjBx26) | 1:55 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 98 | [Something bad](https://open.spotify.com/track/6n5lG9tQssEHV5Z5zmaWhR) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [Something bad](https://open.spotify.com/album/7uaXo6DwzXzhrNFwrMU2XR) | 3:14 |
 | 99 | [PRETTY GIRL](https://open.spotify.com/track/2OuCWKJOjKGbvzyJH9wpfd) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [PRETTY GIRL](https://open.spotify.com/album/5rgxsMyFO3NkfG36l2rouo) | 2:26 |
 
-Snapshot ID: `MCwyNzBhYTFhMTRiYWM2YzNlODk0MjE0OGY4NWVhNWI2YjU5OTM3MThl`
+Snapshot ID: `MCw2NGZmNWU1NjQ5OTJlNjQyNDc1NzBiYzU3NTlmODVkMjdkNGRhMjVk`

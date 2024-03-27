@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-310 songs - 14 hr 54 min
+319 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [bottle spin](https://open.spotify.com/track/2ZGlPFelg3I5iSyZsAHRBP) | [fxhash](https://open.spotify.com/artist/0p1FUiIp2oM3aFekQZYR6j) | [bottle spin](https://open.spotify.com/album/11stcaN7WgXH8ULLWmnGCF) | 2:24 | 2022-05-20 | 2022-10-07 |
 | [Brainbreeze](https://open.spotify.com/track/5bl0PsxNJRP8zsMyTvvKMJ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Ambrosial](https://open.spotify.com/album/3K4kc2ITYarXk6nCXHJja9) | 3:17 | 2021-11-11 | 2022-04-06 |
 | [Branches](https://open.spotify.com/track/1sI1OCmoBg5Ty1xN1PRAHs) | [Lazy Driver](https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg) | [Branches](https://open.spotify.com/album/4yU8TPNB2El1nZW23uU1LH) | 2:13 | 2023-02-24 |  |
+| [Broken Like Me](https://open.spotify.com/track/6y6opfYOZ0PQMV4cLVtCcr) | [Midnight Side Eye](https://open.spotify.com/artist/3Qjs10XQQvvolxgpBOwtK3) | [Broken Like Me](https://open.spotify.com/album/0MSaRnZ9MKvn7Yk1tMNs3B) | 2:28 | 2024-03-26 |  |
 | [CA\-SHING](https://open.spotify.com/track/5foluJkCnagRboHQrchBPW) | [Kold\-Cutz](https://open.spotify.com/artist/6IiYA4Fg73eZAFg7J0uMwf) | [CA\-SHING](https://open.spotify.com/album/6tzNfjnStTmVs07XAZ1SwE) | 2:30 | 2022-06-17 |  |
 | [Cannonball](https://open.spotify.com/track/7f1ZpHuGeGQOzD5qumBg5F) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Monty Hall](https://open.spotify.com/album/4MPyqq00qt7THWrpiHwRa7) | 3:41 | 2021-11-11 | 2022-07-01 |
 | [Canvas](https://open.spotify.com/track/2LvlbxgPyiHwjUNMF97RRg) | [Conte Prad](https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX) | [Canvas](https://open.spotify.com/album/5TuBrI1k6zsizfbkBM2Pjb) | 2:19 | 2024-03-04 |  |
@@ -68,6 +69,7 @@
 | [Close 2 You](https://open.spotify.com/track/6bHFhlpbNHRBhYZlDxpsi8) | [dim figure](https://open.spotify.com/artist/73aCJRcmbFDz9Z8hlt1Oq9) | [Close 2 You](https://open.spotify.com/album/5OkvqQZinScYm3CE3DVqO1) | 2:40 | 2023-02-03 |  |
 | [Coalesced](https://open.spotify.com/track/3yH4WIf5umBgIzgsyajkWH) | [Second Service](https://open.spotify.com/artist/6aWs9S4SEEXw4ZRLkcYliz) | [Coalesced](https://open.spotify.com/album/4nafINuhYshm1Npb3Wqamt) | 2:58 | 2021-11-11 | 2023-06-03 |
 | [Coastal](https://open.spotify.com/track/2xV8qaeL8Cb6U93hSq4QLg) | [Nicolee](https://open.spotify.com/artist/7sxLyRYsXreq0AMc6XueYt) | [Coastal](https://open.spotify.com/album/6BeuLiYdTHAmBjKzUE3wpl) | 2:26 | 2024-03-04 |  |
+| [Coconut](https://open.spotify.com/track/0aU8McQ5c04kq15PWhHm1a) | [Aaron Mathix](https://open.spotify.com/artist/7yL6nnNuEdQD47qCFrleC9) | [Coconut](https://open.spotify.com/album/6QlesBtr97NNgj25TNrkdv) | 2:09 | 2024-03-26 |  |
 | [Coconut Breeze](https://open.spotify.com/track/4kO6yKGT81BjnfSCzH6HMc) | [Conte Prad](https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX) | [Coconut Breeze](https://open.spotify.com/album/3QoGyBUVm0IEbgwop3Ozlz) | 2:28 | 2023-12-01 |  |
 | [Concession](https://open.spotify.com/track/24ad6v49HSgza51bogmg98) | [Ash Spark](https://open.spotify.com/artist/4nByMghGme4u8Zq4uSuh6w) | [Concession](https://open.spotify.com/album/0W9VfRzTmuPzJmoIb39wzf) | 2:49 | 2021-11-11 |  |
 | [Copycat](https://open.spotify.com/track/4fRDbN8d9hKBbYs0rG4El0) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Copycat / Sunspot](https://open.spotify.com/album/5rgFFppEQzw3lOlzgIPmKV) | 5:54 | 2021-11-11 | 2022-02-11 |
@@ -99,6 +101,7 @@
 | [Escarpment](https://open.spotify.com/track/5CcHSH8zYIIeqCtLeQDt49) | [Bejnou](https://open.spotify.com/artist/2ACa9uyntS1aSduemgNj5k) | [Escarpment](https://open.spotify.com/album/0bcBdGbBUsCbUVwoiBlzcA) | 2:37 | 2021-11-11 |  |
 | [Extramundane](https://open.spotify.com/track/0qNjkWic8JEiXurIgxi89s) | [Aliassime](https://open.spotify.com/artist/65WqXbSddn4P1GiACs8GT5) | [Extramundane](https://open.spotify.com/album/7iw6EuNKOKSBonMQ4iqE2c) | 2:32 | 2021-11-11 | 2023-02-25 |
 | [Fallen Angel](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d) | [Wolfgang Laux](https://open.spotify.com/artist/1B7wnKyiBhdKUDAWQB5tHu) | [Fallen Angel](https://open.spotify.com/album/0RdQWXdOdLmWAKtnVgb0lJ) | 2:55 | 2021-11-11 |  |
+| [farina](https://open.spotify.com/track/53ibawjOdKtlKz20x65Exi) | [niitoo](https://open.spotify.com/artist/51MgdPvDhbrdA9vZQqxgBO) | [farina](https://open.spotify.com/album/76Zb1ucvt6szBMwEUl3EtZ) | 2:34 | 2024-03-26 |  |
 | [Fast Lane](https://open.spotify.com/track/1Px8Qwp440BpyKaP4d6a7h) | [racktor](https://open.spotify.com/artist/2pp14NS0R9fZR1Ih9PvOKI) | [Fast Lane](https://open.spotify.com/album/0ppanrtAHzX9U9fAwlTGGc) | 2:00 | 2024-02-13 |  |
 | [Feel Di Pulse](https://open.spotify.com/track/62cI9iC267K3nx3yYr7oCG) | [Cascaix](https://open.spotify.com/artist/7cVHoN5a6NjZ2LC8v0sFvJ) | [Feel Di Pulse](https://open.spotify.com/album/34vjADdXvNHFi71V0j6fPr) | 2:07 | 2021-11-11 | 2023-08-25 |
 | [Feelings](https://open.spotify.com/track/1VOht5xMvbnui17cF8zIKC) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Feelings](https://open.spotify.com/album/0ZgM365JmtZkBENPy5c7TV) | 2:31 | 2022-07-29 | 2022-09-17 |
@@ -137,6 +140,7 @@
 | [Horizon](https://open.spotify.com/track/3Lawg0VthZy12cadJXYDeP) | [Logozzi](https://open.spotify.com/artist/1unZMtDEa8VfpVnkTEHCaI) | [Horizon](https://open.spotify.com/album/2jXHPzB2gDsEEXomOJPdkg) | 2:37 | 2021-11-11 |  |
 | [Horizon Island](https://open.spotify.com/track/3CM4BJe9jzdNLXXt9Ob3su) | [Zulu Wow](https://open.spotify.com/artist/39OA3fyzp8hPnuAG4W4Lhg) | [Horizon Island](https://open.spotify.com/album/0o2XprxKqcMod4DMKLR6DG) | 3:36 | 2021-11-11 | 2022-05-20 |
 | [I and Love](https://open.spotify.com/track/0GFBdfj09IKlRucWbvOITu) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [I and Love](https://open.spotify.com/album/254L0w6tz1JkfmmYNCuX4t) | 4:01 | 2021-11-11 |  |
+| [I Care](https://open.spotify.com/track/1pDmUDssJ9XRplDrcsveWA) | [Molinerd](https://open.spotify.com/artist/4BJxAbl4YewXwednS4pwHi) | [I Care](https://open.spotify.com/album/1yoCyKBhSjqbRSYuAzr8mr) | 3:15 | 2024-03-26 |  |
 | [I'll See You Soon](https://open.spotify.com/track/5A9yKKiU0iQ3iCSpHRe5H7) | [Lolo Redd](https://open.spotify.com/artist/611xwPjt5O8jS2t6PHLbMP) | [I'll See You Soon](https://open.spotify.com/album/4YegSmwDXcwOVQrAANNTFM) | 3:25 | 2022-04-15 |  |
 | [In Décadence](https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET) | [Mad Traks](https://open.spotify.com/artist/7HCqxgA2Q8fexaublcxQmP) | [In Décadence](https://open.spotify.com/album/1L5jp2k7C6H7PIFD2uOpGF) | 2:04 | 2021-11-11 | 2022-09-02 |
 | [In This Together](https://open.spotify.com/track/6I7lRMp9DcBxWQkUVY7kRW) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [In This Together](https://open.spotify.com/album/3HZMaVLmEIXqSNjhsTjrmD) | 2:49 | 2021-11-11 | 2022-05-11 |
@@ -220,6 +224,7 @@
 | [Pinch Punch](https://open.spotify.com/track/1gmfpLdj099PQIZ8S9tz94) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Pinch Punch](https://open.spotify.com/album/6rO4FmexBBwdyqXMRwYUAT) | 2:55 | 2022-07-29 | 2023-07-22 |
 | [Pineapple Mist](https://open.spotify.com/track/4ndh3toTLQ5E3BSAFN2ohZ) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Pineapple Mist](https://open.spotify.com/album/5twCNvcGLOYE8JtLnndxnb) | 3:31 | 2021-11-11 | 2022-07-01 |
 | [Posh](https://open.spotify.com/track/4FSMSdyw42rD66HHawn2Ur) | [Everyday Elegant](https://open.spotify.com/artist/4oHaTYncF2buToofw62wHO) | [Posh](https://open.spotify.com/album/1GpTCaPVpVL5leRQixh1qQ) | 2:21 | 2023-11-17 |  |
+| [post\-urban oasis](https://open.spotify.com/track/7GlyjhNv0ifEjBjkuIoVv5) | [aiXer](https://open.spotify.com/artist/38cxiZaVtAaOFokZfEN9Df) | [post\-urban oasis](https://open.spotify.com/album/6nlPp71YDKOymaTJpowMxP) | 2:49 | 2024-03-26 |  |
 | [Prends Une Gorgée](https://open.spotify.com/track/3GnWF937SVEkmDWCiZW2wR) | [De Mayu](https://open.spotify.com/artist/7bUlyOlDHrlNWjVUTiamjJ) | [Prends Une Gorgée](https://open.spotify.com/album/1Od3DKnrdSJkZ6bxNtjiTG) | 3:13 | 2021-11-11 |  |
 | [Propellers On](https://open.spotify.com/track/6KtJEgSP4XPtxUsSbDCCx8) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Propellers On](https://open.spotify.com/album/3hG9LbCQja8rDuC68SjTgT) | 2:51 | 2024-01-19 |  |
 | [Protected](https://open.spotify.com/track/6sgoU9Q0WgfBTQLZETRs4d) | [flooww](https://open.spotify.com/artist/1sb0nFSQlTFxm99qMwVRux) | [Protected](https://open.spotify.com/album/0c6avc14ZOhvYGh5axWW4P) | 2:32 | 2024-03-04 |  |
@@ -237,6 +242,7 @@
 | [Roads](https://open.spotify.com/track/1MmHFGCOtt5QDYTVxKkZLU) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Roads](https://open.spotify.com/album/4AI1ZaPqCCQntJGjVTk79S) | 3:02 | 2022-09-23 |  |
 | [Rose](https://open.spotify.com/track/0bEixfuWUAwzt6Khi1ccgn) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Rose](https://open.spotify.com/album/6O3C5aOvvsqxAVfcyL1nvV) | 2:59 | 2021-11-11 |  |
 | [Saltwater](https://open.spotify.com/track/2yKuBIhdZNhIB4V8VpITqm) | [Bejnou](https://open.spotify.com/artist/2ACa9uyntS1aSduemgNj5k) | [Saltwater](https://open.spotify.com/album/5sPsJOKPYyPNwRScvaOxn0) | 2:27 | 2021-11-11 | 2022-09-09 |
+| [Sandcastle](https://open.spotify.com/track/6SzYND0PpIDdbmvtaV9yOj) | [Francois Lé](https://open.spotify.com/artist/7b8S7uo3rDxdm0W1fJv7BX) | [Sandcastle](https://open.spotify.com/album/3WFtwcVbhmxj9GJ5lDDpOI) | 2:14 | 2024-03-26 |  |
 | [Screen Time](https://open.spotify.com/track/0lJkobiOBH14Vw9Jznljz2) | [Chewsday](https://open.spotify.com/artist/2HGON9HbOgKaYL7F6IIYLU) | [Screen Time](https://open.spotify.com/album/7sL0OyfCoi60bpIDVKMRij) | 2:33 | 2021-11-11 | 2022-05-11 |
 | [Sea Me](https://open.spotify.com/track/3x1zrRDZGEMdlR1InGAOl9) | [MOTYL](https://open.spotify.com/artist/2nvlSEgmC8Cnixxkykhrbo) | [Sea Me](https://open.spotify.com/album/2wxPyv4sSWaC0DxI6XILkq) | 2:36 | 2022-10-07 |  |
 | [Sea Ya](https://open.spotify.com/track/4eftVZJINpVQjJPF2cEBaL) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Sea Ya](https://open.spotify.com/album/7j0QI0It6JlIO7JUqGYMj8) | 3:56 | 2021-11-11 | 2023-03-18 |
@@ -273,6 +279,7 @@
 | [Sunny Bliss](https://open.spotify.com/track/2T7kI9QPKQqTaPIFSWOHq9) | [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6) | [Sunny Bliss](https://open.spotify.com/album/0werJhOlcIWNTGO3kuMDqq) | 2:15 | 2022-09-02 | 2023-08-12 |
 | [Sunny Days](https://open.spotify.com/track/5sMoxo9DZqEkDbt13nS9Wi) | [GIM GAM](https://open.spotify.com/artist/6l3713Vu1NzSyc18FhDN8Y) | [Sunny Days](https://open.spotify.com/album/6lid2BG9r2esUAkjLAH5y4) | 4:42 | 2022-07-22 |  |
 | [Sunny Daze](https://open.spotify.com/track/0rxLmjvHUHHxqNLolAidC8) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Sunny Daze](https://open.spotify.com/album/5Vv2TvD0O34d2nOlEAYaUI) | 1:57 | 2022-05-10 | 2023-07-29 |
+| [Sunrise](https://open.spotify.com/track/77nlEppe4WUzvEKbFgGip4) | [Mygg An](https://open.spotify.com/artist/1YaivDyy6lgWBZF6fQfuRz) | [Sunrise](https://open.spotify.com/album/5QqcL4rDMSStEptlgQvdrA) | 2:09 | 2024-03-26 |  |
 | [Swirling](https://open.spotify.com/track/6rT6BWrpnlGhEFSKPLyyKZ) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Swirling](https://open.spotify.com/album/10iE2kgjrk3KZTtK14ukbX) | 2:58 | 2021-11-11 |  |
 | [Tavolo](https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj) | [Vera Fernandez](https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw) | [Passeggiata](https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI) | 2:15 | 2021-11-11 | 2022-04-06 |
 | [Techo Con Sol](https://open.spotify.com/track/7rhR91DX8o2nx7e8BvSlZS) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Techo Con Sol / Caprice](https://open.spotify.com/album/1cWXNpUajWvpJaWLpMavr1) | 3:08 | 2022-12-09 |  |
@@ -303,6 +310,8 @@
 | [Velleity](https://open.spotify.com/track/4HQ41ym9uibfzg3rDtEYcm) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [Velleity](https://open.spotify.com/album/4huMtPAQYTHoD8Rc3ExI3n) | 3:32 | 2022-09-09 |  |
 | [Velvet Skies](https://open.spotify.com/track/0HBQ7cU8gPitLvHX8nQ3DH) | [VILT](https://open.spotify.com/artist/4VzZG2yIlxLmbilBTDlEb0) | [Velvet Skies](https://open.spotify.com/album/3LAJb6QHo5QkgoW0T2vJNT) | 3:05 | 2021-11-11 | 2022-04-15 |
 | [Vista Del Mar](https://open.spotify.com/track/30WPOz4hvOElMMayVMnPyo) | [Mano Manana](https://open.spotify.com/artist/3g70CxwtUMFpp9T8GdhNTG) | [Vista Del Mar](https://open.spotify.com/album/2uXLOxgkD7kJq4gBnHt8nX) | 3:18 | 2021-11-11 | 2022-01-22 |
+| [Voyage](https://open.spotify.com/track/1WfjJgjKgB1LC10hSVa3Zl) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [Voyage](https://open.spotify.com/album/7MJqwlVVS6WS8WnSNp0XJP) | 2:44 | 2024-03-26 |  |
+| [Waiting Room](https://open.spotify.com/track/7kiz8BzTUC05i9yUTSeBEW) | [Gnusmas](https://open.spotify.com/artist/0fdLGumMOmAi9CCi737mrq) | [Waiting Room](https://open.spotify.com/album/2c0TlYHk4S3JU6G0tMVG5w) | 2:01 | 2024-03-26 |  |
 | [Warm Winter](https://open.spotify.com/track/4pyOYNRASVUIABU53mE27h) | [Uppermost](https://open.spotify.com/artist/58UpHBCQ1Jj67DJsR7Qyqg), [OBu](https://open.spotify.com/artist/6mea7tgKyd9LrE5THNJRyz) | [Warm Winter](https://open.spotify.com/album/3CzArmY5v974XcIKMDm8E8) | 3:59 | 2021-11-11 | 2022-04-06 |
 | [Wave Machine](https://open.spotify.com/track/2BaPjgVI7EidIAo6fajVr3) | [Florem Ipsum](https://open.spotify.com/artist/594PMnBcYcEU1sTCC75Iir) | [Wave Machine](https://open.spotify.com/album/3Gkho3YVfoF6t2sE9yWGic) | 2:41 | 2021-11-11 | 2022-09-09 |
 | [Waves](https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM) | [Gabriel Morais Jr](https://open.spotify.com/artist/3jTAleOz2QG9rgNrkjcEKb), [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Waves](https://open.spotify.com/album/3jInq6xu9DvJHP3e7KUL8Z) | 2:31 | 2021-11-11 |  |

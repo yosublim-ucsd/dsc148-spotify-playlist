@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 
 > Hip\-hop favorites\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 407,924 likes - 49 songs - 2 hr 29 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 408,068 likes - 49 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 | 25 | [LAR](https://open.spotify.com/track/4duLMOnGkMRjSYjQzt4mAW) | [ZepiNess](https://open.spotify.com/artist/3IjxMVDrSXnoQTHLGudMjr) | [NÃO É SUFICIENTE](https://open.spotify.com/album/6LNMbbgRJwI1d8qhn8pbli) | 2:16 |
 | 26 | [Mi Veneno](https://open.spotify.com/track/5DsSwRHRKAXPRdSbhLPc34) | [Rodkidd](https://open.spotify.com/artist/5sXSftgGqfBDeOQJOEirNt) | [Mi Veneno](https://open.spotify.com/album/2qkKcxkb9qcAXgdZl6iGBr) | 2:41 |
 | 27 | [Merry Christmas Muthafuckas](https://open.spotify.com/track/0nOMTJHM2nhxxi1XCfV1KG) | [Chutch McGillicutty](https://open.spotify.com/artist/6Efd8h1oH1aqid40BIborp) | [DJ Jimmy Chimichanga's Choice Cuts](https://open.spotify.com/album/6m7B9RMCGQIcWxdeAbq8kg) | 2:54 |
-| 28 | [Eu resolvo](https://open.spotify.com/track/4VrsePMGKngZtCOUF5dH9G) | [DONTBREAKIARA](https://open.spotify.com/artist/0TF3dBAstve4DQV6ZDHbwt) | [Eu resolvo](https://open.spotify.com/album/6Q1NSld6uZNju3c05oy1Ne) | 2:50 |
+| 28 | [Eu resolvo](https://open.spotify.com/track/4VrsePMGKngZtCOUF5dH9G) | [DONTBREAKIARA](https://open.spotify.com/artist/0TF3dBAstve4DQV6ZDHbwt), [Da13](https://open.spotify.com/artist/452hlk5LHAsUf5T6TXgmYW), [iagguprod](https://open.spotify.com/artist/5cfItb47C9bpeRAiPB62qL) | [Eu resolvo](https://open.spotify.com/album/6Q1NSld6uZNju3c05oy1Ne) | 2:50 |
 | 29 | [Get It All](https://open.spotify.com/track/0RaAhmoE4TuDFNt7ntHYvv) | [DecadeZ](https://open.spotify.com/artist/66rzsIT4PWKYvcxijbtXe1) | [Get It All](https://open.spotify.com/album/0SxW5xu8DQRATbKZpXhUyK) | 3:12 |
 | 30 | [Dolo](https://open.spotify.com/track/088x3crIoggngjzyzLivBB) | [Kash](https://open.spotify.com/artist/55n6ApQehOD2MFKIL7IvIT), [504 B\-Eazy](https://open.spotify.com/artist/6bmYNHzDCOKGlOXY7RL0yp) | [He from Down South I'm from the East Coast](https://open.spotify.com/album/7kUNH3X99lZd3JQEdq15MR) | 2:57 |
 | 31 | [Paint \- Dicepticon Remix](https://open.spotify.com/track/2LcsfY6pJ8oHs7shABBZFs) | [YTCracker](https://open.spotify.com/artist/1x82Mu3wakMkldMW5kEiP4) | [Paint \(Dicepticon Remix\)](https://open.spotify.com/album/27WOj3C42yFDGp1U4uwtWx) | 3:09 |

@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Lukas Agustinho, Gabriela Rocha",
-  "num_followers": 1041375,
+  "num_followers": 1041733,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDAwNmQ5ZTQxZTliYWE4MzIwYTk3YTZjNGVjYzZmMjcxY2NiZTQ0",
+  "snapshot_id": "MCxiMDM4MjIyMmM1ZmY1YjI3YzliYmExMzdjYzkzOTlkMzczNzI1ZmMw",
   "tracks": [
     {
       "added_at": "2024-03-22 17:53:07",
@@ -99,26 +99,6 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
-        "name": "Minha Calmaria",
-        "url": "https://open.spotify.com/album/7yEu4W8HFWye8SXWakWNeJ"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        },
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "Minha Calmaria",
-      "url": "https://open.spotify.com/track/6ljL3K3Poa4le6P52a6bbJ"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
         "name": "Por Causa Dele",
         "url": "https://open.spotify.com/album/6tYiLNL7m3QtrGfFb4h0Y4"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 352396,
       "name": "Por Causa Dele - Ao Vivo",
       "url": "https://open.spotify.com/track/3fpsR525Hmk4eBm5wfJIQW"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
+        "name": "Minha Calmaria",
+        "url": "https://open.spotify.com/album/7yEu4W8HFWye8SXWakWNeJ"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        },
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Minha Calmaria",
+      "url": "https://open.spotify.com/track/6ljL3K3Poa4le6P52a6bbJ"
     },
     {
       "added_at": "2024-03-22 17:53:07",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
-        "name": "N\u00e3o Acabou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 315556,
-      "name": "N\u00e3o Acabou (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
         "name": "Santo Pra Sempre (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 312219,
       "name": "Santo Pra Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
+        "name": "N\u00e3o Acabou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 315556,
+      "name": "N\u00e3o Acabou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
     },
     {
       "added_at": "2024-03-22 17:53:07",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
-        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 328753,
-      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
         "name": "N\u00f3s Te Adoramos (Ao Vivo)",
         "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 438080,
       "name": "N\u00f3s Te Adoramos - Ao Vivo",
       "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
+        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 328753,
+      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
     },
     {
       "added_at": "2024-03-22 17:53:07",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
-        "name": "O Grande Eu Sou",
-        "url": "https://open.spotify.com/album/62QQniKZ3Sw4SAR2s6Er89"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 388600,
-      "name": "O Grande Eu Sou",
-      "url": "https://open.spotify.com/track/4bvgiKYPehGp4OUSflTPTt"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
         "name": "Tua Presen\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 320186,
       "name": "Tua Presen\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
+        "name": "O Grande Eu Sou",
+        "url": "https://open.spotify.com/album/62QQniKZ3Sw4SAR2s6Er89"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 388600,
+      "name": "O Grande Eu Sou",
+      "url": "https://open.spotify.com/track/4bvgiKYPehGp4OUSflTPTt"
     }
   ],
   "unique_name": "Louvor & Adora\u00e7\u00e3o",

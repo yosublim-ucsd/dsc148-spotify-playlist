@@ -1,12 +1,12 @@
 {
   "description": "Corridos aesthetic y rolitas pa' las buchifresas \ud83c\udf53\ud83c\udf51",
-  "num_followers": 65232,
+  "num_followers": 65334,
   "original_name": "Corridos Aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjFlMjZmNjBiOGIyNjQzZjA4NzMxZjE1ZGQ4Mjk4YWJjOWY3MmUw",
+  "snapshot_id": "MCw0Y2UzMWEwNzBhYzc4NGFjYTYyNWJlNzNhZjQ3MWQ5ZTk0ODE3NGJh",
   "tracks": [
     {
       "added_at": "2024-02-20 19:26:32",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/4JRHwnnjbcvbbzfrb8AhiK"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 197230,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/2bLRsJAcqwiLSvkwOyKtkk"
-    },
-    {
-      "added_at": "2024-02-20 19:26:32",
-      "album": {
         "name": "Antolog\u00eda",
         "url": "https://open.spotify.com/album/4gyDXZJJ5IXdyWw5lfeYok"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 246682,
       "name": "Antolog\u00eda",
       "url": "https://open.spotify.com/track/5Bns0V29ADfLoVAkgam4bM"
+    },
+    {
+      "added_at": "2024-02-20 19:26:32",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/4JRHwnnjbcvbbzfrb8AhiK"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 197230,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/2bLRsJAcqwiLSvkwOyKtkk"
     },
     {
       "added_at": "2024-02-20 19:26:32",

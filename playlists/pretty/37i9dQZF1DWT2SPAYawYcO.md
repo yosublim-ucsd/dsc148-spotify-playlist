@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: PNAU
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,159 likes - 87 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,178 likes - 87 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 19 | [All Life Long](https://open.spotify.com/track/2R2fEymz4psIZb2Ic3lBIy) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0ISpTOqbSEzzY0Kt4JsTTq) | 3:19 |
 | 20 | [so american](https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:49 |
 | 21 | [Someone Else](https://open.spotify.com/track/5phH22Kn5b4u67jA8D5eEs) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [The After Taste](https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN) | 3:17 |
-| 22 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
+| 22 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
 | 23 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
 | 24 | [Some Type Of Skin](https://open.spotify.com/track/5CguvtN2MvxSmtSR23UNOd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Some Type Of Skin](https://open.spotify.com/album/4kfH7Wzr6p646dTIulVQQS) | 3:12 |
 | 25 | [Never Let Go](https://open.spotify.com/track/0nQbr0lYWUHWjeW7i1lscI) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Suddenly Okay](https://open.spotify.com/album/1Xuv9oEVILCRQ7j5iugfPs) | 2:36 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 71 | [Jealous Type](https://open.spotify.com/track/3Y3J17G7fuGsgpE28vT7oo) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Jealous Type](https://open.spotify.com/album/0ZK7y32fsOY4OPYsNkM55T) | 2:42 |
 | 72 | [Storm](https://open.spotify.com/track/6ji7sYr2tniw0ZeBFlZHUD) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [Storm](https://open.spotify.com/album/6f4QRj8KKRJ2WXmQ3x3IUG) | 3:39 |
 | 73 | [Between The Lines](https://open.spotify.com/track/7i22WLIibSqrRQrRh27nh9) | [BOBI ANDONOV](https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy) | [Between The Lines](https://open.spotify.com/album/3frKrSwNzjM5GimBgr2lnc) | 3:41 |
-| 74 | [Make It Feel Like the Garden](https://open.spotify.com/track/3qa5z4G6aXJYbOXHVYl9g6) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Make It Feel Like The Garden](https://open.spotify.com/album/3kDgd4DwzU2hHB4dTAbniT) | 3:40 |
+| 74 | [Make It Feel Like The Garden](https://open.spotify.com/track/3qa5z4G6aXJYbOXHVYl9g6) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Make It Feel Like The Garden](https://open.spotify.com/album/3kDgd4DwzU2hHB4dTAbniT) | 3:40 |
 | 75 | [funny faces](https://open.spotify.com/track/5IDCkCRCPOqpOVc42FYWxz) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [funny faces](https://open.spotify.com/album/6CvNJGQHOFhbSZKALnVmVH) | 3:32 |
 | 76 | [Hello Darlin'](https://open.spotify.com/track/2pDJyVRt0dSyog64qY7N72) | [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [Hello Darlin'](https://open.spotify.com/album/07HqfZXYtBudDUMGCEeOax) | 2:36 |
 | 77 | [Lioness](https://open.spotify.com/track/3S0HnlrBOMo4cg60yRk22T) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Lioness](https://open.spotify.com/album/7pH6v2DPUCCDeKLyzsBz7y) | 3:01 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 86 | [The Summer That Got Away](https://open.spotify.com/track/1Obt0ahEG2Avv4KAOHM7qm) | [Lily Grace](https://open.spotify.com/artist/36C2hXqhxu8S68awyDaGQD) | [The Summer That Got Away](https://open.spotify.com/album/44YdEhnz623Oy7gCXI8mSq) | 2:58 |
 | 87 | [Back 2 U](https://open.spotify.com/track/0jg2jlPCcVVG8ZSVH5PTMx) | [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [I'm That Girl](https://open.spotify.com/album/4Ce9q2a8qAvbgIXX0tuTsW) | 2:48 |
 
-Snapshot ID: `MCwwYjRjYzk2MGIzZWVlNWY5MmEzOTRiNTNiYjM2YTg5YWZjZDlmYmFm`
+Snapshot ID: `MCw2ZWNkMDVkNGU0ZjRkYjI0MzkzZmEwY2Y0MWI5NWYzZjM4OTI0Njk3`

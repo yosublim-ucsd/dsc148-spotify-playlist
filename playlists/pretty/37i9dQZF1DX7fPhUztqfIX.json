@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 123503,
+  "num_followers": 123578,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzg2Zjc5ZDc2YjU4NjJhZDlkMjk3OGQ3MTBjMjZjNDBiNDZiYjdm",
+  "snapshot_id": "MCw2NDg2OGRhMjA5NWVlZDNkYmVhNzk1YWU1ZjFhMjExZDdhMDEwMGY1",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "All Of Us (All Praise) [Live]",
-        "url": "https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q"
-      },
-      "artists": [
-        {
-          "name": "Sean Curran",
-          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
-        }
-      ],
-      "duration_ms": 386906,
-      "name": "All Praise - Live",
-      "url": "https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "We Have The Name",
         "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 346591,
       "name": "How High",
       "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "All Of Us (All Praise) [Live]",
+        "url": "https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q"
+      },
+      "artists": [
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "duration_ms": 386906,
+      "name": "All Praise - Live",
+      "url": "https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "THIS MOMENT",
-        "url": "https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 176624,
-      "name": "THIS MOMENT",
-      "url": "https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Never Far (House Church)",
         "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 231964,
       "name": "Never Far (House Church)",
       "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "THIS MOMENT",
+        "url": "https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 176624,
+      "name": "THIS MOMENT",
+      "url": "https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
-      },
-      "artists": [
-        {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
-        }
-      ],
-      "duration_ms": 230220,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/1R5lvTHthuyn00I6ChzVJS"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 219942,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/55Ux5CRmDRoT2jhFqIdzCH"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 230220,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Exalt (Worship Version)",
-        "url": "https://open.spotify.com/album/4ox38ukgY3pm1J2kulIfNp"
-      },
-      "artists": [
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 292840,
-      "name": "Come Holy Spirit - Worship Version",
-      "url": "https://open.spotify.com/track/0hIJ2YyPWA3cAv82gsYMli"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "There\u2019s Nothing That Our God Can\u2019t Do (Radio Version)",
         "url": "https://open.spotify.com/album/6V9emQ8EpVc31AAL6uWrmt"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 253706,
       "name": "There\u2019s Nothing That Our God Can\u2019t Do - Radio Version",
       "url": "https://open.spotify.com/track/3sTH5twYNUS1twuAQUZtL1"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Exalt (Worship Version)",
+        "url": "https://open.spotify.com/album/4ox38ukgY3pm1J2kulIfNp"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 292840,
+      "name": "Come Holy Spirit - Worship Version",
+      "url": "https://open.spotify.com/track/0hIJ2YyPWA3cAv82gsYMli"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "REBELS",
-        "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
-      },
-      "artists": [
-        {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Matt Gilman",
-          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
-        }
-      ],
-      "duration_ms": 390579,
-      "name": "Over And Over",
-      "url": "https://open.spotify.com/track/20QaupcrbKIWLhkpXgKSu9"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Christ Our Hope in Life and Death",
         "url": "https://open.spotify.com/album/5M5GDV3NSebMu0GbfraYl1"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 271320,
       "name": "Christ Our Hope in Life and Death",
       "url": "https://open.spotify.com/track/0tNDbw65xyUlKWsOZhTe0f"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "REBELS",
+        "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
+        }
+      ],
+      "duration_ms": 390579,
+      "name": "Over And Over",
+      "url": "https://open.spotify.com/track/20QaupcrbKIWLhkpXgKSu9"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1887,6 +1887,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Here Comes This Dreamer (Live)",
+        "url": "https://open.spotify.com/album/5qIgXZGm3ED0bstbSg37Ig"
+      },
+      "artists": [
+        {
+          "name": "Grace City",
+          "url": "https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J"
+        },
+        {
+          "name": "Chase Wagner",
+          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
+        }
+      ],
+      "duration_ms": 253756,
+      "name": "Heaven's Well - Live",
+      "url": "https://open.spotify.com/track/1JQzeSYo86SvhiU5dmCDqK"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/0WFJArmcuNFAF96fJsFf0B"
       },
@@ -1915,26 +1935,6 @@
       "duration_ms": 242606,
       "name": "Reputation",
       "url": "https://open.spotify.com/track/63KXg5coLHasBMw6QY8SDR"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Here Comes This Dreamer (Live)",
-        "url": "https://open.spotify.com/album/5qIgXZGm3ED0bstbSg37Ig"
-      },
-      "artists": [
-        {
-          "name": "Grace City",
-          "url": "https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J"
-        },
-        {
-          "name": "Chase Wagner",
-          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
-        }
-      ],
-      "duration_ms": 253756,
-      "name": "Heaven's Well - Live",
-      "url": "https://open.spotify.com/track/1JQzeSYo86SvhiU5dmCDqK"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "You Reign (Live)",
-        "url": "https://open.spotify.com/album/1NPThfEpelnJGUdWEx29qQ"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 390800,
-      "name": "You Reign - Live",
-      "url": "https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Grace That Changes Everything",
         "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 195986,
       "name": "Sound of Freedom",
       "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "You Reign (Live)",
+        "url": "https://open.spotify.com/album/1NPThfEpelnJGUdWEx29qQ"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 390800,
+      "name": "You Reign - Live",
+      "url": "https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2335,30 +2335,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "The Blessing (feat. Maranda Curtis) [Song Session]",
-        "url": "https://open.spotify.com/album/6AEDBghw44SvpsiMjDctNo"
-      },
-      "artists": [
-        {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
-        },
-        {
-          "name": "Essential Worship",
-          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
-        },
-        {
-          "name": "Maranda Curtis",
-          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
-        }
-      ],
-      "duration_ms": 409909,
-      "name": "The Blessing (feat. Maranda Curtis) - Song Session",
-      "url": "https://open.spotify.com/track/0bicWqcGF8HXaaBB1HqnxR"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Lord You Have My Heart (feat. Martin Smith)",
         "url": "https://open.spotify.com/album/2ruV9qUcGIV9SKOQpHrINS"
       },
@@ -2375,6 +2351,22 @@
       "duration_ms": 267467,
       "name": "Lord You Have My Heart (feat. Martin Smith)",
       "url": "https://open.spotify.com/track/5zQBaedwtzHmC1z5OSNqvX"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "This Is Our Story",
+        "url": "https://open.spotify.com/album/0hgeTBFRUDWPAPRPssbFvM"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "duration_ms": 341849,
+      "name": "This Is Our Story",
+      "url": "https://open.spotify.com/track/6nMfk0xK3RwJqJxX3l1tLy"
     }
   ],
   "unique_name": "New & Bold",

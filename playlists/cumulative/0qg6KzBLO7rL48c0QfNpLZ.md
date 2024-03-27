@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-237 songs - 10 hr 52 min
+240 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,9 +54,11 @@
 | [City of Lights](https://open.spotify.com/track/6djw06D6xYUoAbCkghJWCh) | [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf) | [City of Lights](https://open.spotify.com/album/4aj6DE1j6wfTr0vqRVa9x0) | 2:29 | 2024-03-15 |  |
 | [Close To Me](https://open.spotify.com/track/0Wi6hvPJTZBKrXjmvVFtOQ) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Close To Me](https://open.spotify.com/album/25LsKk7Y1HICxLdE5mWxx7) | 2:35 | 2023-12-04 |  |
 | [Cocoon](https://open.spotify.com/track/0L87MffumRNWrY2SNUFcvs) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Blossom \(Deluxe\)](https://open.spotify.com/album/7zuqkqhGkTH3PSdywhLgY4) | 4:15 | 2023-12-08 |  |
+| [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2024-03-26 |  |
 | [Cold Water \(feat\. Justin Bieber & MØ\)](https://open.spotify.com/track/6Bjtr3tPdto5nyuLYf61sN) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Cold Water \(feat\. Justin Bieber & MØ\)](https://open.spotify.com/album/4SpuU8HT32EymGgFPL08LE) | 3:05 | 2023-12-08 |  |
 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 | 2024-01-07 |  |
 | [Craving](https://open.spotify.com/track/7hMbTPIYxu9q2yFN92Kz29) | [Who](https://open.spotify.com/artist/5kd3KjfO9uFcNDvuGJRXsU) | [Craving](https://open.spotify.com/album/2MlYAECsEqKtHcKAT3fXKX) | 2:29 | 2024-01-14 |  |
+| [Crazy](https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) | [St\. Elsewhere](https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA) | 2:57 | 2024-03-26 |  |
 | [crazy about you](https://open.spotify.com/track/22Kg9zkWePQpMdAAY3gplQ) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [crazy about you](https://open.spotify.com/album/795sLNiCOS6x2NJrmgT5BE) | 2:00 | 2024-02-02 |  |
 | [Dance With Me](https://open.spotify.com/track/5OV5EW5t6bnf25LJSpcF0r) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Dance With Me](https://open.spotify.com/album/4a8myC7bPScWi8QHUfElEP) | 1:47 | 2023-12-22 |  |
 | [Dancing in the Moonlight \(feat\. NEIMY\)](https://open.spotify.com/track/5ow0sNF1zSqp71Ix5jEXWU) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Dancing in the Moonlight \(feat\. NEIMY\)](https://open.spotify.com/album/47hMwqG7KVLVzyMjgYUqxM) | 2:44 | 2022-06-10 |  |
@@ -178,6 +180,7 @@
 | [Save Tonight](https://open.spotify.com/track/2Jq6SVGQB0aIeTbIe9w1xT) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Save Tonight](https://open.spotify.com/album/1DoruW6kOIvECsIWt1Z3sr) | 2:25 | 2024-01-02 |  |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2023-12-21 |  |
 | [Seve \- Radio Edit](https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb) | [Seve \(Radio Edit\)](https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4) | 3:30 | 2024-01-10 | 2024-03-16 |
+| [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2024-03-26 |  |
 | [She Doesn't Mind](https://open.spotify.com/track/67eHU6air6I6jNPR1Tooxr) | [Chilled Virus](https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM) | [She Doesn't Mind](https://open.spotify.com/album/2ncNCW3oKPqwRjMMjQZN8A) | 2:50 | 2023-01-27 |  |
 | [Show Me Love](https://open.spotify.com/track/0aHOXu219Z4MqEKwiKsddl) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 4:15 | 2023-12-22 |  |
 | [Skylines](https://open.spotify.com/track/6WsD7ac7weEeio6QKobaep) | [Polar](https://open.spotify.com/artist/4BOtJ2vRmZzo6HH6cS63Ju) | [Skylines](https://open.spotify.com/album/3Fl5cEN18ENS1Wzo4qf9u2) | 2:24 | 2023-11-10 |  |

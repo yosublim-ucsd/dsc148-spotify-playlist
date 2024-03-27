@@ -1848,6 +1848,24 @@
     {
       "album": {
         "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317013,
+      "name": "Fica Tranquilo",
+      "url": "https://open.spotify.com/track/5M3cdM4H3Lv425CN5Nq8cM"
+    },
+    {
+      "album": {
+        "name": "Fica Tranquilo",
         "url": "https://open.spotify.com/album/5G5paqxJJFa4kygDLadlNy"
       },
       "artists": [
@@ -4730,7 +4748,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 314297,
       "name": "Todo Poderoso - Ao Vivo",
       "url": "https://open.spotify.com/track/7Ko5h3XvOo2u9qr0XkgHdH"

@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Updates every Wednesday\. Cover:  <a href="https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl?si=\_AOux\-TVTgKJf1JL8RolbA">Nyota Parker</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Updates every Wednesday\. Cover:  <a href="https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU?si=sUOsQZ2ORoCmAMghEm\_hqw">Flier</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,016 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,021 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MIDST](https://open.spotify.com/track/53PNIzmsDfZZ7IxhSbvxz6) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [MIDST](https://open.spotify.com/album/2AUuYLf37fCO2FEnz3fVER) | 2:40 |
-| 2 | [Abyss](https://open.spotify.com/track/1c3Uvil5DpA6FfFPIi4914) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Abyss](https://open.spotify.com/album/3SVQB6dIQvEaXe53CbZ1QQ) | 2:53 |
-| 3 | [Guide Me](https://open.spotify.com/track/5nnGqBHjGNGUu6Khin46XL) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Luna](https://open.spotify.com/album/3edbe7CGUZvGnHYN9K1jkP) | 3:45 |
-| 4 | [Too Young To Go](https://open.spotify.com/track/3WaMdVfPf5vsjRQTpyiVHz) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Too Young To Go](https://open.spotify.com/album/4TsZGn6aEpy14f2dufhmbI) | 3:00 |
+| 1 | [Too Young To Go](https://open.spotify.com/track/3WaMdVfPf5vsjRQTpyiVHz) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Too Young To Go](https://open.spotify.com/album/4TsZGn6aEpy14f2dufhmbI) | 3:00 |
+| 2 | [MIDST](https://open.spotify.com/track/53PNIzmsDfZZ7IxhSbvxz6) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [MIDST](https://open.spotify.com/album/2AUuYLf37fCO2FEnz3fVER) | 2:40 |
+| 3 | [Abyss](https://open.spotify.com/track/1c3Uvil5DpA6FfFPIi4914) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Abyss](https://open.spotify.com/album/3SVQB6dIQvEaXe53CbZ1QQ) | 2:53 |
+| 4 | [Guide Me](https://open.spotify.com/track/5nnGqBHjGNGUu6Khin46XL) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Luna](https://open.spotify.com/album/3edbe7CGUZvGnHYN9K1jkP) | 3:45 |
 | 5 | [Sweet Lie](https://open.spotify.com/track/45n3y4Zma6IHpzK73PonQn) | [Novemba](https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ) | [Sweet Lie](https://open.spotify.com/album/0H6PuFejIzA4Nx4u0bDQO5) | 2:28 |
 | 6 | [Distance](https://open.spotify.com/track/5CqoCjBdBTTsVrf6aZOP3t) | [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX) | [Distance](https://open.spotify.com/album/1mzN3IVisdj5OSEkVW0rD3) | 2:56 |
 | 7 | [Easy On Me](https://open.spotify.com/track/54Fc0M8PNb7yAI5ieyuUEk) | [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [OLORI \(The EP\)](https://open.spotify.com/album/01htjp8rIvwLsIKxZSidDq) | 2:40 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 22 | [Grace](https://open.spotify.com/track/545wkwUovk2jPQ6qk6yLv3) | [Connie Obn](https://open.spotify.com/artist/2vgfZxc5Z58nokei89tBxA), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Grace](https://open.spotify.com/album/4gIsSa6Waz3CCWuD0sVl8s) | 3:02 |
 | 23 | [Prodigy](https://open.spotify.com/track/3mJP2ejsQtYioV8hAiXqfc) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Prodigy](https://open.spotify.com/album/1WosT5FWrSYcFHLbt3VEy4) | 2:42 |
 | 24 | [Mrs Sativa](https://open.spotify.com/track/5ARd8VUjVywyr4eSh6cBLA) | [Halfco Baby](https://open.spotify.com/artist/5Z1tk0XItnDFfbknQ6bF9U), [Zan](https://open.spotify.com/artist/3qJXMb1WeIhBNu1qifUiPn), [Benty](https://open.spotify.com/artist/3gJSud2qrIBrwHCKHP6A0S) | [Mrs Sativa](https://open.spotify.com/album/3xFHiV8Qx0bUNZ76iO9tvQ) | 4:23 |
-| 25 | [Show Me Love](https://open.spotify.com/track/41MTYyuFbvYHcvfogxN1J0) | [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF) | [Moments \(feat\. DaBlixx Osha, MohBad\)](https://open.spotify.com/album/3eZqQym7jPA8sJcnnEOoF8) | 2:07 |
+| 25 | [Show Me Love](https://open.spotify.com/track/0Dyt04A0pt4kSkbxODTdkv) | [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF) | [Dauntless](https://open.spotify.com/album/2Dq4kBxHFpo1WahDVSzxBr) | 2:07 |
 | 26 | [14:02](https://open.spotify.com/track/0rIDiFRgtsNB81roHxRPx6) | [Kholi](https://open.spotify.com/artist/2XPwSOeBvqlG5J5qFl4Eze) | [14:02](https://open.spotify.com/album/3NAOgVCijgJpyauvqHis0a) | 3:12 |
 | 27 | [Ifunanya](https://open.spotify.com/track/6xceRdBFi2uSbaCnpXcaja) | [Luca Zuccotti](https://open.spotify.com/artist/455sSMlijr7BLQjQj2QbsO) | [Ifunanya](https://open.spotify.com/album/7IUoO4JbBSWSt11xgtErYi) | 2:51 |
 | 28 | [Mayo](https://open.spotify.com/track/0FjalQZo0G4xiLh0weUZ9x) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Pawasonic](https://open.spotify.com/artist/4JnNMhfRwpiknBp80tInQR) | [Mayo](https://open.spotify.com/album/186Ly8U3fdCHSAxSRI4gt2) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Fly](https://open.spotify.com/track/1bl9eXOR5fBlPdZg3Nwr0A) | [R.B.D.](https://open.spotify.com/artist/5YPzHb8dVwxsEjSbdOU8We) | [Fly](https://open.spotify.com/album/3b62lg9qZylXGvbXTY5BSf) | 2:33 |
 | 50 | [Hello](https://open.spotify.com/track/15GZYiGVvGfR2FpIQQ4TPX) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Hello](https://open.spotify.com/album/42x6GlAegX4dxYKB0R4ALK) | 3:09 |
 
-Snapshot ID: `MCxiNWExMjc3ZDQyMTJhMzU5MDViNjUxZDY3YjEwNzNjMWMyYTk2OWMz`
+Snapshot ID: `MCw5ZjlmZTM1NGRlMzdmZjkxMGEyNTVmMGU2OWVmMTc1NmJkNGMzZWVl`

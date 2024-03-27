@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Future & Metro Boomin, Big Sean, Mac Miller and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,157 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,331 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 4 | [Best For Me](https://open.spotify.com/track/5t5tLsfuyOyyuXF96M4g2a) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Not Now I'm Busy](https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2) | 3:58 |
 | 5 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 |
 | 6 | [WTW](https://open.spotify.com/track/728E50EwNhQGdlMWxwTCxn) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [WTW](https://open.spotify.com/album/1yB5UDDeH7FpNVxvOpbBvU) | 3:20 |
-| 7 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
+| 7 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 |
 | 8 | [Good Look](https://open.spotify.com/track/6c098Yt8Mr2UN7EwTG8w5F) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Good Look](https://open.spotify.com/album/0ZCidOeCHqEjLxtetrELo1) | 1:54 |
 | 9 | [Shy Kid](https://open.spotify.com/track/5wnRBkl2S25GSTS5WqJVJ0) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Shy Kid](https://open.spotify.com/album/6R1HQ5z8g0kBdAz7QKW2sG) | 2:20 |
 | 10 | [I KNOW \(feat\. Blxst\)](https://open.spotify.com/track/6IfwJM8m3aaRT3J2GInvuf) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [MEMENTO \(DELUXE\)](https://open.spotify.com/album/4ENhG6dvD8niF3TgWaqpER) | 2:36 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 15 | [Trenches](https://open.spotify.com/track/4NG6oAo2311NJ2Kva95adA) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [Trenches](https://open.spotify.com/album/3L1xj7PMZrMrIYjsW4fbLx) | 2:22 |
 | 16 | [Thought It Was Over](https://open.spotify.com/track/2YBMaVyVaBc8fdOo7dShHp) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Thought It Was Over](https://open.spotify.com/album/4Sf32q6avyYmkJdu8HowSF) | 3:20 |
 | 17 | [Let It Out](https://open.spotify.com/track/0VQ2aPSIMB6t8qS84JYUBE) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Zombieland 2](https://open.spotify.com/album/1M3M7UVL9o2py1sY5A6jk9) | 2:48 |
-| 18 | [DM](https://open.spotify.com/track/50uZI42IaLYngPSHkycMuI) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [DM](https://open.spotify.com/album/4GjpK08h1VbatqEgiWSKsJ) | 3:44 |
+| 18 | [DM](https://open.spotify.com/track/50uZI42IaLYngPSHkycMuI) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [DM](https://open.spotify.com/album/4GjpK08h1VbatqEgiWSKsJ) | 3:42 |
 | 19 | [Made For The Pole](https://open.spotify.com/track/3AJgqiWoralG9vlx0H3OI8) | [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Made For The Pole](https://open.spotify.com/album/1wPUoPKo90X0blW307lHLi) | 3:23 |
 | 20 | [Mike Phelps](https://open.spotify.com/track/2TyDPtli4XPNtGZGHbpaYx) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Mike Phelps](https://open.spotify.com/album/3I0HVMGECeVOhIqM9Dd2dm) | 2:14 |
 | 21 | [Stories & Lessons \(feat\. Boldy James\)](https://open.spotify.com/track/0SbV0xAhhfPykd8wZLUSiK) | [Jay Exodus](https://open.spotify.com/artist/5dgpDskNSWSGt4CfF3uEmA), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Stories & Lessons \(feat\. Boldy James\)](https://open.spotify.com/album/6nkbS36VLuvqqXwW4FfZEc) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 99 | [Scammer Fresh](https://open.spotify.com/track/6x7UrTvcvFtrIdAd0xr1p3) | [BEO Lil Kenny](https://open.spotify.com/artist/5p2KvjX2qOhaC291qgJc2b) | [Don't Let Up](https://open.spotify.com/album/6gnx6i3JO0EYqZ5YjD0uE0) | 2:37 |
 | 100 | [Bite Size](https://open.spotify.com/track/12DYaQNNZCyDe6mmfMNA2e) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Bite Size](https://open.spotify.com/album/1a4OD0R6DKPBhIayWKArTT) | 2:03 |
 
-Snapshot ID: `MCwxMTYzYWExYjcyOWFhZTIyN2ZkZTVhMmQ5ZGY5ZmMzNWJhOTJlYmJj`
+Snapshot ID: `MCxkZDMzM2VhYTk0MzJiZjY4MWJkNzgwYTc4MjVlNjFkYWYzYzcwOGY2`

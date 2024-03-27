@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > gems by artists carving their own lane\. cover: Marie Davidson
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,940 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,954 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [sirens](https://open.spotify.com/track/5lehSTwJVN2ed0VawpFZF3) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [sirens](https://open.spotify.com/album/3FwlJZOsRiHYUdR7Iqp5Ca) | 3:08 |
 | 100 | [South](https://open.spotify.com/track/6EC1Hkr4hqHXIylbwnNEu1) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [South](https://open.spotify.com/album/1CfNY3GnYDN6P2yoLFOdGd) | 3:31 |
 
-Snapshot ID: `MCw4ZjkxMWFkOWRjMDMwY2RkOWM0ZTFiN2VkYTgzZDk1ZjMxNjM1MDM4`
+Snapshot ID: `MCxmZTMxMjVkY2Q0ZmY4YWNjYmI3ZTUwM2JjMWFhOTMwMDBiODVmMzAw`

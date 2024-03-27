@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-472 songs - 1 day 4 hr 10 min
+473 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Easy](https://open.spotify.com/track/0uVHeVzc4vTnlnpSgUKHrJ) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Easy](https://open.spotify.com/album/54LWHBnYqAVc9lVI7LaJ9Q) | 2:45 | 2022-04-08 | 2024-01-10 |
 | [Easy!](https://open.spotify.com/track/3rNxrZ0TjoWsPrEZW4kONj) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Easy!](https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU) | 2:45 | 2022-07-08 | 2024-01-13 |
 | [El Shaddai](https://open.spotify.com/track/4w2rlg8ZTR3hH3E0MHA3y3) | [Dwayne Tryumf](https://open.spotify.com/artist/75sReJhZ3hjZctu6vtoGj6) | [El Shaddai](https://open.spotify.com/album/0USceD58hvtuCgFiUhAzdY) | 2:48 | 2022-06-25 | 2023-01-21 |
-| [Emmanuel](https://open.spotify.com/track/4O5TT3kmWaL5c4K1HU1SyQ) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Denise Bamfo](https://open.spotify.com/artist/6j4c63tFu9m7oWWc11GwDO) | [Emmanuel](https://open.spotify.com/album/4pGAeO6sOgQZ9r79XBnZw0) | 2:56 | 2023-01-20 |  |
+| [Emmanuel](https://open.spotify.com/track/4O5TT3kmWaL5c4K1HU1SyQ) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Denise Bamfo](https://open.spotify.com/artist/6j4c63tFu9m7oWWc11GwDO) | [Emmanuel](https://open.spotify.com/album/4pGAeO6sOgQZ9r79XBnZw0) | 2:56 | 2023-01-20 | 2024-03-27 |
 | [Eternal Eyes](https://open.spotify.com/track/7uj5EABJQit9vNb4IPwf3y) | [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Eternal Eyes](https://open.spotify.com/album/2jz9vu4a9y3oPe5jmxbjnC) | 4:00 | 2022-02-19 | 2022-06-12 |
 | [EVERY LITTLE THING](https://open.spotify.com/track/4Yj3DWigyBkTbd3XW0dPMr) | [Brandyn Kalani](https://open.spotify.com/artist/6ev8LXeWUuAT6N78OVjPvA) | [EVERY LITTLE THING](https://open.spotify.com/album/2MnnGRRWDUjSyvLq0bQLef) | 2:49 | 2022-03-05 | 2022-04-09 |
 | [Everyday](https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Everyday](https://open.spotify.com/album/641i12iK07r1ALlCWq1xW3) | 3:04 | 2022-02-19 | 2022-06-26 |
@@ -197,6 +197,7 @@
 | [Home Called Heaven](https://open.spotify.com/track/1RUgjAvt8majG62li8evpf) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Home Called Heaven](https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV) | 3:47 | 2022-04-01 | 2023-11-01 |
 | [HOMIE](https://open.spotify.com/track/0xEdclbbUYJR2khLnKn3eF) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [SAO!](https://open.spotify.com/artist/5nvwoFVHtYJsI16yn2vDT2), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Alfa Tavares](https://open.spotify.com/artist/6TvGpg3Or2JKDGF2TFpUBW) | [HOMIE](https://open.spotify.com/album/76LraBETj4zBYpsAmtJDtY) | 2:33 | 2023-01-20 |  |
 | [Hope](https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I'm Here For You](https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l) | 3:29 | 2022-02-19 | 2022-06-26 |
+| [How I Love You](https://open.spotify.com/track/4JnUrkXkP5rZFtS54tSHgf) | [SHEALY](https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61), [Brandon Love](https://open.spotify.com/artist/4DA4b7VHa3E5WzrIogv3zF) | [How I Love You](https://open.spotify.com/album/5LMUx4AD74PyBX0lpwpHrY) | 4:21 | 2024-01-12 |  |
 | [I Am \- Radio Edit](https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [I Am \(Radio Edit\)](https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot) | 4:47 | 2022-04-01 | 2022-04-08 |
 | [I Believe In Me](https://open.spotify.com/track/3vG8onMouTfusD4JZEIiZX) | [Nikea Marie](https://open.spotify.com/artist/4PAvwyc8L7pMf5qPdRnT9D) | [I Believe In Me](https://open.spotify.com/album/63GimjcYoSS4q3Mr8Qx6sp) | 3:49 | 2022-02-19 | 2022-06-21 |
 | [I Get Joy](https://open.spotify.com/track/6XbOppmTMigpGr9Wcxwicq) | [21:03](https://open.spotify.com/artist/0N6Fi2VLCxTWZAjcSQzIB4) | [Never Let Me Down](https://open.spotify.com/album/3n63tId6n9cTHxqrTpieQi) | 3:23 | 2022-02-19 | 2022-06-26 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 42539,
+  "num_followers": 42558,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWQ4MTE2NzgzZTQzM2MwM2FkMzkwZmFmZWQwYTgxMmJmZmJkOTZm",
+  "snapshot_id": "MCw4MWRjYmYxYTY4MThlYWJhZGZhNzZlMmI5YWE2MDYxNjhjMGNlZTgx",
   "tracks": [
     {
       "added_at": "2023-02-13 22:55:50",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
         "name": "Amor Y Control",
         "url": "https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 352440,
       "name": "Amor y Control",
       "url": "https://open.spotify.com/track/303cDwi274kSEH0NSR73AX"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Salsa Y Control",
-        "url": "https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I"
-      },
-      "artists": [
-        {
-          "name": "Lebr\u00f3n Brothers",
-          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Salsa Y Control",
-      "url": "https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
         "name": "Fania Live 02 From Miami With DJ LeSpam",
         "url": "https://open.spotify.com/album/3hzWtDzAggtGEkuu6GMmSg"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 357386,
       "name": "Merecumbe",
       "url": "https://open.spotify.com/track/3UIdoF8igmzt7gnolINC97"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
+        "name": "Salsa Y Control",
+        "url": "https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I"
+      },
+      "artists": [
+        {
+          "name": "Lebr\u00f3n Brothers",
+          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Salsa Y Control",
+      "url": "https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -875,26 +875,6 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "La Verdad de Joe Arroyo",
-        "url": "https://open.spotify.com/album/74zkwPCMHbyZhPnLE0fSE3"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
-        }
-      ],
-      "duration_ms": 270626,
-      "name": "Yamulemau",
-      "url": "https://open.spotify.com/track/0UCVLx34GEdkVkjDuSfB45"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
         "name": "Bohemio y Poeta",
         "url": "https://open.spotify.com/album/08zXnylrEGWXgMcFI5eBm4"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 373560,
       "name": "Juan Pachanga",
       "url": "https://open.spotify.com/track/1jUMNoLhnrD3c8iWncVFSr"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
+        "name": "La Verdad de Joe Arroyo",
+        "url": "https://open.spotify.com/album/74zkwPCMHbyZhPnLE0fSE3"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+        }
+      ],
+      "duration_ms": 270626,
+      "name": "Yamulemau",
+      "url": "https://open.spotify.com/track/0UCVLx34GEdkVkjDuSfB45"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
+        "name": "Apollo Sound 9",
+        "url": "https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+        }
+      ],
+      "duration_ms": 442622,
+      "name": "Marejada Feliz",
+      "url": "https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/15w229yWe9GblGtWjJC753"
       },
@@ -959,18 +975,18 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Apollo Sound 9",
-        "url": "https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT"
+        "name": "Centenario de Salsa",
+        "url": "https://open.spotify.com/album/16QVFqa4EAhXxsWgYGTFac"
       },
       "artists": [
         {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+          "name": "Ray Perez",
+          "url": "https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK"
         }
       ],
-      "duration_ms": 442622,
-      "name": "Marejada Feliz",
-      "url": "https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm"
+      "duration_ms": 194560,
+      "name": "Pal' 23",
+      "url": "https://open.spotify.com/track/3qAEfl5f8OSjqOk2UW1JtA"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -987,22 +1003,6 @@
       "duration_ms": 327360,
       "name": "No No No",
       "url": "https://open.spotify.com/track/4RvTF7xvnGju7qbNiCX600"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
-        "name": "Centenario de Salsa",
-        "url": "https://open.spotify.com/album/16QVFqa4EAhXxsWgYGTFac"
-      },
-      "artists": [
-        {
-          "name": "Ray Perez",
-          "url": "https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "Pal' 23",
-      "url": "https://open.spotify.com/track/3qAEfl5f8OSjqOk2UW1JtA"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Apollo Sound 5",
-        "url": "https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS"
+        "name": "El Maestro",
+        "url": "https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH"
       },
       "artists": [
         {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         }
       ],
-      "duration_ms": 287586,
-      "name": "Cui Cui",
-      "url": "https://open.spotify.com/track/6o221EsS11nmxMMPJRIN4N"
+      "duration_ms": 502920,
+      "name": "El Fais\u00e1n",
+      "url": "https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "El Maestro",
-        "url": "https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH"
+        "name": "Apollo Sound 5",
+        "url": "https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS"
       },
       "artists": [
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
         }
       ],
-      "duration_ms": 502920,
-      "name": "El Fais\u00e1n",
-      "url": "https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG"
+      "duration_ms": 287586,
+      "name": "Cui Cui",
+      "url": "https://open.spotify.com/track/6o221EsS11nmxMMPJRIN4N"
     }
   ],
   "unique_name": "Cocina con Salsa",

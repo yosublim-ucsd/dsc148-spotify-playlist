@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Hot Mulligan
 
-1,694 songs - 3 day 12 hr 23 min
+1,695 songs - 3 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -765,7 +765,8 @@
 | [Innocent](https://open.spotify.com/track/38jMT9WHGFsWOtkZ5KNHLi) | [Errorr](https://open.spotify.com/artist/1wVtzjX6YlqkRrdTEDyaRr) | [Innocent](https://open.spotify.com/album/3boQizm1XreDnUeOPFhNXT) | 4:02 | 2023-01-20 | 2023-03-25 |
 | [Inside My Head](https://open.spotify.com/track/5ZjtReVAQ6KGix7VkaE7h1) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Inside My Head](https://open.spotify.com/album/5xONWWaqM4zUrHp7cKeixJ) | 3:11 | 2023-09-01 | 2023-10-20 |
 | [Inside Out](https://open.spotify.com/track/2onHY8ek2aQ1haU0iGndJD) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Inside Out](https://open.spotify.com/album/5jTJV0dV166NzCfgMYLObg) | 3:18 | 2023-11-10 | 2024-01-19 |
-| [Internet Boyfriend](https://open.spotify.com/track/3hkT89QZ4uuuQKP8VXhxEj) | [The Fake Friends](https://open.spotify.com/artist/5kUo5px2DcGcD6RRV2R4jz) | [Internet Boyfriend](https://open.spotify.com/album/7leEn1Bs8jcwDhFbvR1Co8) | 3:21 | 2024-03-08 |  |
+| [Internet Boyfriend](https://open.spotify.com/track/3hkT89QZ4uuuQKP8VXhxEj) | [The Fake Friends](https://open.spotify.com/artist/5kUo5px2DcGcD6RRV2R4jz) | [Internet Boyfriend](https://open.spotify.com/album/7leEn1Bs8jcwDhFbvR1Co8) | 3:21 | 2024-03-08 | 2024-03-27 |
+| [Internet Boyfriend](https://open.spotify.com/track/3tWPWMnhhRo22xZG3825lL) | [The Fake Friends](https://open.spotify.com/artist/5kUo5px2DcGcD6RRV2R4jz) | [Always Worse / Never Better](https://open.spotify.com/album/2wfMzAAEVgoW9gD9zICjHZ) | 3:21 | 2024-03-22 |  |
 | [Intimacy](https://open.spotify.com/track/39EFala3XXRculW4xXJyOg) | [The Sukis](https://open.spotify.com/artist/0z2w2g48teQXR561xEi3zT) | [Intimacy](https://open.spotify.com/album/7zYp5nRE0nSKYryN9BUArc) | 2:31 | 2021-12-17 | 2022-01-21 |
 | [INVITATION](https://open.spotify.com/track/5UeAFjIxgay5XnbfhaJ0hq) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [INVITATION](https://open.spotify.com/album/4ZifRxvNe7VyUx2puhgVXP) | 1:59 | 2022-03-18 | 2022-04-08 |
 | [Is It Too Soon If Time is Relative?](https://open.spotify.com/track/0q3BQGKPYPvZyJVhzE0gIh) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Double Album](https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n) | 2:18 | 2022-12-02 | 2023-03-10 |

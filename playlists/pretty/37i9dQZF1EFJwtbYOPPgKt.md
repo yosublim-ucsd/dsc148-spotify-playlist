@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4faXS5M3wmHrYeRCoMXyUg">Katharina Emendoerfer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 24 likes - 51 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 | 48 | [Tonight I'm Gonna Dance](https://open.spotify.com/track/3kFcllup1aucn7AWLDKqA3) | [Sanzach](https://open.spotify.com/artist/62GsFBdGVenYYlclZgtXDD) | [Tonight I'm Gonna Dance](https://open.spotify.com/album/3vgkuOQieRHCrNkrloKZSW) | 2:56 |
 | 49 | [5/10](https://open.spotify.com/track/5rIYn6fgIIraBGl6kvY3g3) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Moody](https://open.spotify.com/album/3NeQAa6mtrJdgvbu2pEaAN) | 2:29 |
 | 50 | [Nobody But Me](https://open.spotify.com/track/4i9PcmhTevRokKqri21Bcz) | [AEROBIK](https://open.spotify.com/artist/6KvIFrZa8inF4QNJMLj51t) | [Nobody But Me](https://open.spotify.com/album/6PmrSyZkI96DNLj4dK0uZs) | 3:00 |
+| 51 | [One More Night to Go](https://open.spotify.com/track/4xylMnIhy4TEpsKwFW1jFd) | [Swasion](https://open.spotify.com/artist/2laSdQ3VWlxoqY1HOV6KFm) | [One More Night to Go](https://open.spotify.com/album/4MGkPbRnNQKX3aPgB6slEO) | 2:38 |
 
-Snapshot ID: `Mjg1MjM2NDAsMDAwMDAwMDA2OTAxYjNlZmE1MWRkMTNhYjZlMGM2NDdmYTkzNjQ4YQ==`
+Snapshot ID: `Mjg1MjUwODAsMDAwMDAwMDAzYWU2ZDZmYzA2YmYzMzAyN2U0N2M5M2FlOTFjMmIyZA==`

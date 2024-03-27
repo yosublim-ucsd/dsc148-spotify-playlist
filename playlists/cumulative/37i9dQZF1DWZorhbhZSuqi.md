@@ -2,7 +2,7 @@
 
 ### [Faerie Core](https://open.spotify.com/playlist/37i9dQZF1DWZorhbhZSuqi)
 
-> waiting for a High Lord to cross the wall for me 🧝‍♂️
+> to the people who look at the stars and wish 🧚‍♀️
 
 107 songs - 6 hr 23 min
 

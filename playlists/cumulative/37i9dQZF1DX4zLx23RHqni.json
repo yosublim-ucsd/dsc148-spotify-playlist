@@ -423,6 +423,28 @@
     },
     {
       "album": {
+        "name": "Inimel",
+        "url": "https://open.spotify.com/album/3VTNd5Fcti1lc9ASdEpiWz"
+      },
+      "artists": [
+        {
+          "name": "Shruti Haasan",
+          "url": "https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h"
+        },
+        {
+          "name": "Kamal Haasan",
+          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240902,
+      "name": "Inimel",
+      "url": "https://open.spotify.com/track/6PxEQ1dXyhuZQtTClI6TiR"
+    },
+    {
+      "album": {
         "name": "Ithuvum Kadanthu Pogum",
         "url": "https://open.spotify.com/album/7j5BLQoD616UNe6oyD3dUf"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Alycia Lang
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,400 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,449 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [The Weather](https://open.spotify.com/track/6uCSNdetzxuxuCFZl6ZT25) | [JEMS](https://open.spotify.com/artist/7A2LiVSPjG69nzTzssU1Y8) | [The Weather](https://open.spotify.com/album/25qUBBcHwugdN7lBr5GeIk) | 3:16 |
 | 100 | [I Promise](https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [I Promise](https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs) | 3:41 |
 
-Snapshot ID: `MCwxZjUwYzY1OGE3YTBjNDliODYxZTkyZDZmYWRhNWUxZGEwM2E3YzYw`
+Snapshot ID: `MCwwNmExYTVmZDU3M2MzZTdiMWJjNDEwOWViZTVmNWNjOWNjZWQ4NDEz`

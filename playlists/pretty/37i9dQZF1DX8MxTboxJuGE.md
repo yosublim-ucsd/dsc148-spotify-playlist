@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: ANGRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,061 likes - 75 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,074 likes - 75 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 | 68 | [Mochado](https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mochado](https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ) | 2:55 |
 | 69 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 |
 | 70 | [Post Traumatic Blues](https://open.spotify.com/track/2MB80OIsIgVIQtQtXgzRNM) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2](https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt) | 5:43 |
-| 71 | [False \(2021 \- Remaster\)](https://open.spotify.com/track/3YTHpaZDCCd8NXwQoRaZob) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Dante XXI \(2021 \- Remaster\)](https://open.spotify.com/album/7rX8txeF5YyFsCbDvUxU3R) | 3:34 |
+| 71 | [False \- 2021 Remaster](https://open.spotify.com/track/3YTHpaZDCCd8NXwQoRaZob) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Dante XXI \(2021 Remaster\)](https://open.spotify.com/album/7rX8txeF5YyFsCbDvUxU3R) | 3:34 |
 | 72 | [Gods Of The World](https://open.spotify.com/track/2iYBWJgNMqyezqWGUsPK6l) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Gods Of The World](https://open.spotify.com/album/2wignG8fzELVtVgMOOnifA) | 4:43 |
 | 73 | [Tenochtitlán](https://open.spotify.com/track/44tzuEVC6p9ldFBNC497vX) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz) | [Tenochtitlán](https://open.spotify.com/album/2uTIg4jj9u7EQslGtvHhqw) | 7:12 |
 | 74 | [Nothing to Say \(Ao Vivo No Sonastério\)](https://open.spotify.com/track/6t1hIdEgJMzQpxVftqXBn1) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [ANGRA ilumina Sonastério](https://open.spotify.com/album/41EHhF2a7vaGt57f3ACyDy) | 6:30 |
 | 75 | [Mere Shadow](https://open.spotify.com/track/76VG6yEGc6asJWoyYoMakJ) | [Semblant](https://open.spotify.com/artist/6XbRGptXH3evQfHCfKCqiO) | [Mere Shadow](https://open.spotify.com/album/5unM9KhVkZwr7oMlRsLo2P) | 5:03 |
 
-Snapshot ID: `MCw5YjU3NDU4NzFjMDc1NjYxODdmNGIwZjdjOTVmMmMxNmY5MWRkNmJj`
+Snapshot ID: `MCw3NWU4Y2I1MGQ2OWRiNWMyMmY1YzE1MWYwMjJhNWIxM2Q0NmQ5ZTI0`

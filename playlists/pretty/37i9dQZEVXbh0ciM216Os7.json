@@ -6,28 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MTgwMDAsMDAwMDAwMDAzZWZkZDQ0ZTAyMjI3MzkzMjg4MGExYmMzNDgzYzg3Nw==",
+  "snapshot_id": "Mjg1MTgwMDAsMDAwMDAwMDBlZGExMDYwMThjNjRlMDMxNzZkY2M5YjliNjBiOWFjMQ==",
   "tracks": [
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Looping",
-        "url": "https://open.spotify.com/album/0Gpwr1GdgmGj4q1MR08mtz"
-      },
-      "artists": [
-        {
-          "name": "RiTchie",
-          "url": "https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 231041,
-      "name": "Dizzy (feat. Amin\u00e9)",
-      "url": "https://open.spotify.com/track/0XI4TtnEMm4ICXpCjEXYSw"
-    },
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
@@ -40,9 +20,9 @@
           "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         }
       ],
-      "duration_ms": 502271,
-      "name": "Nardis",
-      "url": "https://open.spotify.com/track/1X0fDxUEsfkaOzfztuBCCN"
+      "duration_ms": 167728,
+      "name": "Stablemates",
+      "url": "https://open.spotify.com/track/5RBAAw0VMWAiRL37Ngnw7j"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -291,26 +271,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5T9ojHZBjPkgrJlCqLKwzz"
-      },
-      "artists": [
-        {
-          "name": "Killah K",
-          "url": "https://open.spotify.com/artist/5hquJTG7LMp0YkI6Alu3oX"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6y3UpZmkWxVw89PAN9My0s"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Stand Tall",
         "url": "https://open.spotify.com/album/2FUM8dpooyuVtEoWyLxwh8"
       },
@@ -327,30 +287,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Girls5eva Season 3 (Music From The Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0lOoFKyv1oX6wUp6Jqi5pS"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5T9ojHZBjPkgrJlCqLKwzz"
       },
       "artists": [
         {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+          "name": "Killah K",
+          "url": "https://open.spotify.com/artist/5hquJTG7LMp0YkI6Alu3oX"
         },
         {
-          "name": "Ren\u00e9e Elise Goldsberry",
-          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
-        },
-        {
-          "name": "Paula Pell",
-          "url": "https://open.spotify.com/artist/0ymDnkgerg6lEg3qA5WQho"
-        },
-        {
-          "name": "Busy Philipps",
-          "url": "https://open.spotify.com/artist/2uGI8r7HVc9ldVspXnKLbW"
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         }
       ],
-      "duration_ms": 139500,
-      "name": "Tap Into Your (Fort) Worth",
-      "url": "https://open.spotify.com/track/7eSQr7gAkqiGhwK7vnoNNA"
+      "duration_ms": 146000,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6y3UpZmkWxVw89PAN9My0s"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -399,6 +351,34 @@
       "duration_ms": 125445,
       "name": "Modernidad",
       "url": "https://open.spotify.com/track/5GFO0iaogNFFKm5a3Acb7j"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Girls5eva Season 3 (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0lOoFKyv1oX6wUp6Jqi5pS"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        },
+        {
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+        },
+        {
+          "name": "Paula Pell",
+          "url": "https://open.spotify.com/artist/0ymDnkgerg6lEg3qA5WQho"
+        },
+        {
+          "name": "Busy Philipps",
+          "url": "https://open.spotify.com/artist/2uGI8r7HVc9ldVspXnKLbW"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Tap Into Your (Fort) Worth",
+      "url": "https://open.spotify.com/track/7eSQr7gAkqiGhwK7vnoNNA"
     },
     {
       "added_at": "2024-03-22 04:00:00",

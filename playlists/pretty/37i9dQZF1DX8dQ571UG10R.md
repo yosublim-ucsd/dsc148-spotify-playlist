@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,714 likes - 51 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,722 likes - 51 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 43 | [Estilo Ninja](https://open.spotify.com/track/051X68OEo3DDJD5Qieu4VX) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Estilo Ninja](https://open.spotify.com/album/1UR0J9WLgYQIqbp2JvrU39) | 3:26 |
 | 44 | [Maldição do Ódio](https://open.spotify.com/track/2iRhw42gNxXu6wyB853V4P) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu) | [Maldição do Ódio](https://open.spotify.com/album/4wadKkMiwxdujeI95Tafm6) | 4:55 |
 | 45 | [Então Eletrifique](https://open.spotify.com/track/6SLpDYpLCpPeYPCIvwoW9l) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Então Eletrifique](https://open.spotify.com/album/42W4kQnmlIzwrk6IhK75I6) | 5:30 |
-| 46 | [Chamas Azuis](https://open.spotify.com/track/5PUhWvFvj8Hx1pwe0A0wGA) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [808 Ander](https://open.spotify.com/artist/22BZPaeC7qaUL1opAQCWTk) | [Chamas Azuis](https://open.spotify.com/album/6jydQD6FUMLFJTFVKwpfbg) | 3:42 |
+| 46 | [Chamas Azuis](https://open.spotify.com/track/4hvm67kg4IxuTB0897viQT) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [808 Ander](https://open.spotify.com/artist/22BZPaeC7qaUL1opAQCWTk) | [Chamas Azuis](https://open.spotify.com/album/4PWDcsPASCflVbWNtU02of) | 3:42 |
 | 47 | [Senpai](https://open.spotify.com/track/70j0FQ3htaLkadLHHaiXDE) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B) | [Senpai](https://open.spotify.com/album/5rZU10IBURrvmenyMGF4zj) | 3:13 |
 | 48 | [Rap do Killua: Godspeed](https://open.spotify.com/track/5bH36BU1Z4zAUcY2MTvL64) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Rap do Killua: Godspeed](https://open.spotify.com/album/73q2LBACwwMPPzkfITaduS) | 3:00 |
 | 49 | [Rap do Meliodas: Consumido Pela Ira](https://open.spotify.com/track/64ULjIj27Iu3iYXZmCwV5v) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Rap do Meliodas: Consumido Pela Ira](https://open.spotify.com/album/5leNTgSaFHW5PqK5Mmbr7P) | 3:23 |
 | 50 | [Se Ajoelhe](https://open.spotify.com/track/1KaxJnnYE8BZ37FXPBPjmi) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Se Ajoelhe](https://open.spotify.com/album/7lzPoJm7sSXvqxyTwr9bmQ) | 3:47 |
 | 51 | [Rap Do Brook: Canção Solo](https://open.spotify.com/track/0hOIkoS38ZC5rbdM8sp1Bh) | [Basara](https://open.spotify.com/artist/2A8r4X2BCk6Y92EBYd3tP1) | [Rap Do Brook: Canção Solo](https://open.spotify.com/album/5L7eIZXIA12kIF2qyK2IGo) | 3:52 |
 
-Snapshot ID: `MCxlYzRhZjczZjNhNDNhNDk4MmNjOWFmZDRmMjA2ZDk4MmI3MWZlMWNl`
+Snapshot ID: `MCw0YjllZTNhZmIyZjRmMzQ2Mjc1ZDJmYmE3ZTMzZTM5Mzc3OWI4Yjc2`

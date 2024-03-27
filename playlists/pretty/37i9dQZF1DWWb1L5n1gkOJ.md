@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 
 > Gentle, soft Ambient music for focus and concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,300 likes - 123 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,375 likes - 123 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,31 +13,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 | 3 | [Free Winds](https://open.spotify.com/track/72AraPLFHGCx5Wz8uTgp1Q) | [Nerum](https://open.spotify.com/artist/0STEjaBPW4uFYhPWOM2mXv) | [Infinity](https://open.spotify.com/album/2HLoaxMy9ulPw9NXdJIuT5) | 2:41 |
 | 4 | [Anchor](https://open.spotify.com/track/5PByK88P0mNCJqPnS3Yxml) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Haven](https://open.spotify.com/album/0O6MiQUPJwtZaw9Eaa1oeF) | 2:36 |
 | 5 | [Unistades](https://open.spotify.com/track/5x7KQWWwQDcqvMN0HbfjfM) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Unistades](https://open.spotify.com/album/3zzLmx3Gmgis01wXxcMi9H) | 2:45 |
-| 6 | [Sylvan Smoke](https://open.spotify.com/track/2Gfs49i4wLusg8WLM8Q3jS) | [Sean McCann](https://open.spotify.com/artist/7c6kXSGmiGhrr8l3CSY0Y2) | [Ten Impressions for Piano and Strings](https://open.spotify.com/album/7DOkAK4tvQ7qtKKlbAAEYK) | 2:36 |
-| 7 | [The Endless Frontier](https://open.spotify.com/track/2ltLj6TQczrt4tbWmKE8EP) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [The Endless Frontier](https://open.spotify.com/album/5LaAaevE64mdJq1pFkW7lG) | 3:07 |
-| 8 | [Fallen night](https://open.spotify.com/track/09xFkJ9Pe9cWQSLH9yMDBc) | [Castorum](https://open.spotify.com/artist/04RsbMw3XjQupVwFm8i18f) | [Fallen night](https://open.spotify.com/album/60sgdxyL6lICqNs0ZfKcn9) | 3:10 |
-| 9 | [Shades of Violet](https://open.spotify.com/track/60Mh1v6rQ12JI5j6S0Vw02) | [Maia](https://open.spotify.com/artist/4RW9d3d203cf98WetcAbIj) | [Shades of Violet](https://open.spotify.com/album/3FdxgPaufLXfQKMlwsiC6X) | 3:07 |
-| 10 | [Cold Nights](https://open.spotify.com/track/3VKDama6kBesXErV1pvMU7) | [Lumen Sonitus](https://open.spotify.com/artist/3SDNlIofTaP7JPLmq0KnYW) | [Cold Nights](https://open.spotify.com/album/389ancrSn0JTicvyxdpkIo) | 3:12 |
-| 11 | [Embrace The Dream](https://open.spotify.com/track/7uaIKej96SpLAqJqWI0lsY) | [Magnetic Sky](https://open.spotify.com/artist/2YiNWdSsFnrHWK9uMKbRoY) | [Embrace The Dream](https://open.spotify.com/album/6FbMy7PSHoy2kGfPWvPvVl) | 2:33 |
-| 12 | [Elysian Fields](https://open.spotify.com/track/12J6Qh3o3UBgQuQfO4hi5Z) | [Elsa Whage](https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo) | [Elysian Fields](https://open.spotify.com/album/3HifXQLQNh2hEj4kcKkNv4) | 2:43 |
-| 13 | [Sclavia](https://open.spotify.com/track/1EWbhAgdQNwYau5DvgdEtW) | [Zooids](https://open.spotify.com/artist/67VSC1OWyqo4z4X9dOTYkZ) | [Ur](https://open.spotify.com/album/71bc7U2CxvmTDrTKmD4C52) | 3:13 |
+| 6 | [The Endless Frontier](https://open.spotify.com/track/2ltLj6TQczrt4tbWmKE8EP) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [The Endless Frontier](https://open.spotify.com/album/5LaAaevE64mdJq1pFkW7lG) | 3:07 |
+| 7 | [Fallen night](https://open.spotify.com/track/09xFkJ9Pe9cWQSLH9yMDBc) | [Castorum](https://open.spotify.com/artist/04RsbMw3XjQupVwFm8i18f) | [Fallen night](https://open.spotify.com/album/60sgdxyL6lICqNs0ZfKcn9) | 3:10 |
+| 8 | [Cold Nights](https://open.spotify.com/track/3VKDama6kBesXErV1pvMU7) | [Lumen Sonitus](https://open.spotify.com/artist/3SDNlIofTaP7JPLmq0KnYW) | [Cold Nights](https://open.spotify.com/album/389ancrSn0JTicvyxdpkIo) | 3:12 |
+| 9 | [Embrace The Dream](https://open.spotify.com/track/7uaIKej96SpLAqJqWI0lsY) | [Magnetic Sky](https://open.spotify.com/artist/2YiNWdSsFnrHWK9uMKbRoY) | [Embrace The Dream](https://open.spotify.com/album/6FbMy7PSHoy2kGfPWvPvVl) | 2:33 |
+| 10 | [Elysian Fields](https://open.spotify.com/track/12J6Qh3o3UBgQuQfO4hi5Z) | [Elsa Whage](https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo) | [Elysian Fields](https://open.spotify.com/album/3HifXQLQNh2hEj4kcKkNv4) | 2:43 |
+| 11 | [Sclavia](https://open.spotify.com/track/1EWbhAgdQNwYau5DvgdEtW) | [Zooids](https://open.spotify.com/artist/67VSC1OWyqo4z4X9dOTYkZ) | [Ur](https://open.spotify.com/album/71bc7U2CxvmTDrTKmD4C52) | 3:13 |
+| 12 | [Mild Season](https://open.spotify.com/track/7d8I19LKTGqXrtVuuicHeU) | [Shibuki](https://open.spotify.com/artist/01ZOR2akLhLcm87lo8jHTg) | [Mild Season](https://open.spotify.com/album/1lVMgr76m4osE1qQwyf1jC) | 2:27 |
+| 13 | [Admiror](https://open.spotify.com/track/0S5I7x7NLXC5qc4QbKFEhk) | [Ali Silva](https://open.spotify.com/artist/5aaCY6n423kFCerv4V5Gqc) | [Regius](https://open.spotify.com/album/0IvGZuQFJrIG9T8NupkWaC) | 3:00 |
 | 14 | [Peaceful Sensations](https://open.spotify.com/track/1Lzv93xUuJMP28dDMVPOjm) | [Amara Issawi](https://open.spotify.com/artist/2P9RNRqGbPoYGrT7wQTt8r) | [Peaceful Sensations](https://open.spotify.com/album/444Smw0uIl5I4mJ6CdkRQn) | 2:45 |
-| 15 | [Mild Season](https://open.spotify.com/track/7d8I19LKTGqXrtVuuicHeU) | [Shibuki](https://open.spotify.com/artist/01ZOR2akLhLcm87lo8jHTg) | [Mild Season](https://open.spotify.com/album/1lVMgr76m4osE1qQwyf1jC) | 2:27 |
-| 16 | [Ascend](https://open.spotify.com/track/1135ODK6OVlseiV2XYIhgb) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Ascend](https://open.spotify.com/album/0OR0RkOp6ZIpipC8mcj3jT) | 2:44 |
-| 17 | [Moonwalk](https://open.spotify.com/track/4iayZPpJMR21nmQSXznRYy) | [Stellar Serenity](https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye) | [Moonwalk](https://open.spotify.com/album/10xs3hLs3VbR1YV3A4h1We) | 2:57 |
-| 18 | [Aurora Borealis Melody](https://open.spotify.com/track/3XkQDGQRnsKLNJ71BwYnqq) | [Nebula Drift](https://open.spotify.com/artist/2KFE9LRhcbRSsSJBasIFjh) | [Aurora Borealis Melody](https://open.spotify.com/album/1jwlRz30Nxv3cvQWeZVuIK) | 3:00 |
-| 19 | [Donia](https://open.spotify.com/track/4trb0luHXNU6Q5UrHE4DpV) | [Duanova](https://open.spotify.com/artist/2R9WDTiIok7j4nf9CwFw7b) | [Donia](https://open.spotify.com/album/7b9pUYGK5xYVe107o6b7ae) | 2:22 |
-| 20 | [Admiror](https://open.spotify.com/track/0S5I7x7NLXC5qc4QbKFEhk) | [Ali Silva](https://open.spotify.com/artist/5aaCY6n423kFCerv4V5Gqc) | [Regius](https://open.spotify.com/album/0IvGZuQFJrIG9T8NupkWaC) | 3:00 |
-| 21 | [Nightblooom](https://open.spotify.com/track/0Lc0SeMSM2Ao7hcCcr6kmB) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Nightblooom](https://open.spotify.com/album/1bTVVlALCmMtFarxxZFqyo) | 2:18 |
-| 22 | [Consider](https://open.spotify.com/track/47KiJwkuSOnFeL5WvLBFvP) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Consider](https://open.spotify.com/album/7cpmL0bFhUkvuBM8cpGWeg) | 2:43 |
-| 23 | [Fading](https://open.spotify.com/track/2pZ3K8qHHflxXkBqSVbunE) | [Withered Sun](https://open.spotify.com/artist/0XMQ7yeLJih2CAJVQi4vsc) | [Fading](https://open.spotify.com/album/4C5P60I5WeNo48Qrzql73t) | 3:13 |
-| 24 | [Resistance](https://open.spotify.com/track/18LOoaeiTDvW8kLSmA6yED) | [Ephemeral Odyssey](https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif) | [Resistance](https://open.spotify.com/album/01CwS7Yh1yvkY45ewLjUBo) | 2:52 |
-| 25 | [Patiently](https://open.spotify.com/track/4ksohd9Ti6zViNRYe80JEW) | [Theodore Brim](https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o) | [Patiently](https://open.spotify.com/album/768bX4s0q9wTXd1Nxt5mo4) | 2:58 |
-| 26 | [Lage](https://open.spotify.com/track/3CqiVCGBvST27IugG68rRc) | [Griff Beynon](https://open.spotify.com/artist/4xdU9qb6mDz0punEhwwi72) | [Lage](https://open.spotify.com/album/32nYyoyqI2idlGFfmqzxo4) | 2:53 |
-| 27 | [Di Sini Dan Kini](https://open.spotify.com/track/5Z6Upi9bxSyk8jQzsF0Cka) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Di Sini Dan Kini](https://open.spotify.com/album/5A9XzJpMCg7JkYibgnfIEh) | 2:23 |
-| 28 | [Can and Knot](https://open.spotify.com/track/0d6Lz96d0GCqK9i4z639qC) | [Leo Lind](https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr) | [Can and Knot](https://open.spotify.com/album/1rYKaIyuADf3eWTNA6bExE) | 3:35 |
+| 15 | [Donia](https://open.spotify.com/track/4trb0luHXNU6Q5UrHE4DpV) | [Duanova](https://open.spotify.com/artist/2R9WDTiIok7j4nf9CwFw7b) | [Donia](https://open.spotify.com/album/7b9pUYGK5xYVe107o6b7ae) | 2:22 |
+| 16 | [Consider](https://open.spotify.com/track/47KiJwkuSOnFeL5WvLBFvP) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Consider](https://open.spotify.com/album/7cpmL0bFhUkvuBM8cpGWeg) | 2:43 |
+| 17 | [Fading](https://open.spotify.com/track/2pZ3K8qHHflxXkBqSVbunE) | [Withered Sun](https://open.spotify.com/artist/0XMQ7yeLJih2CAJVQi4vsc) | [Fading](https://open.spotify.com/album/4C5P60I5WeNo48Qrzql73t) | 3:13 |
+| 18 | [Patiently](https://open.spotify.com/track/4ksohd9Ti6zViNRYe80JEW) | [Theodore Brim](https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o) | [Patiently](https://open.spotify.com/album/768bX4s0q9wTXd1Nxt5mo4) | 2:58 |
+| 19 | [Lage](https://open.spotify.com/track/3CqiVCGBvST27IugG68rRc) | [Griff Beynon](https://open.spotify.com/artist/4xdU9qb6mDz0punEhwwi72) | [Lage](https://open.spotify.com/album/32nYyoyqI2idlGFfmqzxo4) | 2:53 |
+| 20 | [Di Sini Dan Kini](https://open.spotify.com/track/5Z6Upi9bxSyk8jQzsF0Cka) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Di Sini Dan Kini](https://open.spotify.com/album/5A9XzJpMCg7JkYibgnfIEh) | 2:23 |
+| 21 | [Can and Knot](https://open.spotify.com/track/0d6Lz96d0GCqK9i4z639qC) | [Leo Lind](https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr) | [Can and Knot](https://open.spotify.com/album/1rYKaIyuADf3eWTNA6bExE) | 3:35 |
+| 22 | [Departure](https://open.spotify.com/track/2fMHpHh9mWIGyqWSlZsg9M) | [Gargantis](https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz) | [Departure](https://open.spotify.com/album/3NZQJVGMmErMbQhDPJttsY) | 2:55 |
+| 23 | [Nightblooom](https://open.spotify.com/track/0Lc0SeMSM2Ao7hcCcr6kmB) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Nightblooom](https://open.spotify.com/album/1bTVVlALCmMtFarxxZFqyo) | 2:18 |
+| 24 | [Shades of Violet](https://open.spotify.com/track/60Mh1v6rQ12JI5j6S0Vw02) | [Maia](https://open.spotify.com/artist/4RW9d3d203cf98WetcAbIj) | [Shades of Violet](https://open.spotify.com/album/3FdxgPaufLXfQKMlwsiC6X) | 3:07 |
+| 25 | [Moonwalk](https://open.spotify.com/track/4iayZPpJMR21nmQSXznRYy) | [Stellar Serenity](https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye) | [Moonwalk](https://open.spotify.com/album/10xs3hLs3VbR1YV3A4h1We) | 2:57 |
+| 26 | [Aurora Borealis Melody](https://open.spotify.com/track/3XkQDGQRnsKLNJ71BwYnqq) | [Nebula Drift](https://open.spotify.com/artist/2KFE9LRhcbRSsSJBasIFjh) | [Aurora Borealis Melody](https://open.spotify.com/album/1jwlRz30Nxv3cvQWeZVuIK) | 3:00 |
+| 27 | [Sylvan Smoke](https://open.spotify.com/track/2Gfs49i4wLusg8WLM8Q3jS) | [Sean McCann](https://open.spotify.com/artist/7c6kXSGmiGhrr8l3CSY0Y2) | [Ten Impressions for Piano and Strings](https://open.spotify.com/album/7DOkAK4tvQ7qtKKlbAAEYK) | 2:36 |
+| 28 | [Resistance](https://open.spotify.com/track/18LOoaeiTDvW8kLSmA6yED) | [Ephemeral Odyssey](https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif) | [Resistance](https://open.spotify.com/album/01CwS7Yh1yvkY45ewLjUBo) | 2:52 |
 | 29 | [Heartful](https://open.spotify.com/track/0nYTW6fJgGUZE5sPg1no3F) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Heartful](https://open.spotify.com/album/3KFw7fZJz7dKJXz9LRHtGe) | 2:45 |
-| 30 | [Departure](https://open.spotify.com/track/2fMHpHh9mWIGyqWSlZsg9M) | [Gargantis](https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz) | [Departure](https://open.spotify.com/album/3NZQJVGMmErMbQhDPJttsY) | 2:55 |
+| 30 | [Ascend](https://open.spotify.com/track/1135ODK6OVlseiV2XYIhgb) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Ascend](https://open.spotify.com/album/0OR0RkOp6ZIpipC8mcj3jT) | 2:44 |
 | 31 | [Resolution](https://open.spotify.com/track/2GJBxeFfnDyILm4XHC2ZkA) | [Vishal Casey](https://open.spotify.com/artist/4gaEPQ8r7KJfK9QE9nV0Wa) | [Resolution](https://open.spotify.com/album/0B3ssOI69AzMrRRG72Wn2C) | 2:23 |
 | 32 | [Among The Pines](https://open.spotify.com/track/32lsiyicjwKIKyeDL0L8ij) | [Zenon](https://open.spotify.com/artist/0dChfqND0qSnlhrNZF7NlL) | [Among The Pines](https://open.spotify.com/album/22aZul65rFrWztnDT2NB7F) | 3:07 |
 | 33 | [Encore Une Fois](https://open.spotify.com/track/5aB3pTdKskrxVVfoOGl4bN) | [Alanna Brooks](https://open.spotify.com/artist/1xTG3LpQV7sTX86GrPnDEH) | [Heaven On Earth](https://open.spotify.com/album/2ZMy6y5uSEXUkYLpVYTHGA) | 3:20 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 | 122 | [Egyensúly](https://open.spotify.com/track/4gH0O4JlIMyvHHYqJ3hJXG) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Egyensúly](https://open.spotify.com/album/6LQGKx0QSk59TZGBDlvtVl) | 3:30 |
 | 123 | [Atlas](https://open.spotify.com/track/7Ld82Xo4cv71JmVpevFAHO) | [Invertivo](https://open.spotify.com/artist/41SaKcYP2CTeAwnQPFS3YV) | [Atlas](https://open.spotify.com/album/454YxMcqipagvCU1scUyz2) | 2:54 |
 
-Snapshot ID: `MCxjOWFkNDg2NWQ2NGZhMGUyZThkNDYxMjdlOTAxZWU1ZjdjMGQ5OTFj`
+Snapshot ID: `MCw4MzIwODkyMDUwMmQxZDRmMTVhYTZlNzZkNGQyOGI4YzcxMjY0MjQ0`

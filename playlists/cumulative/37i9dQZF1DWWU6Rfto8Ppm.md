@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-428 songs - 1 day 1 hr 32 min
+429 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,8 @@
 | [Vuelve](https://open.spotify.com/track/41f2YVgXW3t3fZ7EoHrKGH) | [Latin Dreams](https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX) | [Quiero Una Chica](https://open.spotify.com/album/34eKYYPYq2EhyTVaQiQjfT) | 3:08 | 2021-12-17 | 2023-04-16 |
 | [Web Cam](https://open.spotify.com/track/5FvBm21bpgoTjq6GQi4mu9) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [El Talento del Bloque](https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq) | 3:26 | 2022-07-27 |  |
 | [Web Cam](https://open.spotify.com/track/76tsb1MlePUaN0Y3R8w0KO) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [The Ones](https://open.spotify.com/album/31WdDt5NcgMhHA8Uh1RZFA) | 3:26 | 2021-12-17 | 2022-07-29 |
-| [Welcome To My Crib](https://open.spotify.com/track/5MKnA9nLv9kfB6Dnxqf5Oa) | [Randy Nota Loka](https://open.spotify.com/artist/00ynzcADdPN4jUqiwb5D8A) | [20 Number 1's Now](https://open.spotify.com/album/4POWs8wn88db9OmY9strlo) | 4:07 | 2021-12-17 |  |
+| [Welcome To My Crib](https://open.spotify.com/track/3taCy6SW79HbVJotZc03gB) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Los Benjamins \- La Continuacion](https://open.spotify.com/album/5IsjHngPrl7LI1001ZUjTM) | 4:07 | 2023-12-21 |  |
+| [Welcome To My Crib](https://open.spotify.com/track/5MKnA9nLv9kfB6Dnxqf5Oa) | [Randy Nota Loka](https://open.spotify.com/artist/00ynzcADdPN4jUqiwb5D8A) | [20 Number 1's Now](https://open.spotify.com/album/4POWs8wn88db9OmY9strlo) | 4:07 | 2021-12-17 | 2024-03-27 |
 | [Wiki Wiki](https://open.spotify.com/track/3zyu1YrtgFRdrc16HIQior) | [Yaviah](https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8) | [La Misión 4](https://open.spotify.com/album/7u87mg6bU1J3bL1nK3F0V0) | 2:49 | 2022-07-27 |  |
 | [Wiki Wiki](https://open.spotify.com/track/5GGecqjnP2hvrhhfFAl4VO) | [Yaviah](https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8) | [La Misión 4](https://open.spotify.com/album/05vrChqlagPD4ALM4L3TAG) | 2:49 | 2021-12-17 | 2022-05-15 |
 | [Ya lo Se](https://open.spotify.com/track/2EwquaMz0nVqQ3PrjK4fAe) | [Magnate](https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V), [Valentino](https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW) | [Exitos](https://open.spotify.com/album/4TGmmsYSfg2VTz3sk2J1t3) | 3:46 | 2021-12-17 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Sawyer Brown
 
-267 songs - 15 hr 46 min
+268 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [All Things Must Pass](https://open.spotify.com/track/1kffJSXtZdDZQtgbHLiECs) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [All Things Must Pass](https://open.spotify.com/album/5b0Mp58evan3vlGpv7cdgy) | 3:36 | 2021-11-19 | 2022-07-29 |
 | [Along Comes A Girl](https://open.spotify.com/track/72QxSlml6G5C1m2RLEyNuL) | [McBride & The Ride](https://open.spotify.com/artist/5frbtLmwyULdCkg8VqcEvV) | [Along Comes A Girl](https://open.spotify.com/album/5QG6mzPUvkigoYv1kNKEDv) | 3:29 | 2023-03-03 |  |
 | [Altitude](https://open.spotify.com/track/6q91dRcubenCmtWe0tO6ud) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Altitude](https://open.spotify.com/album/7uV1GtfAMIfz1mROOYTgZR) | 3:47 | 2023-02-10 |  |
-| [Amazed \(The Frontmen Edition\)](https://open.spotify.com/track/44Q65CdxQI5enOQjdHNZfs) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [Familiar Faces](https://open.spotify.com/album/1IJk3ueX658qXNVN0uLM1p) | 4:00 | 2023-11-17 |  |
+| [Amazed \(The Frontmen Edition\)](https://open.spotify.com/track/0DGjyZEHzV23R4cONay47B) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/6OCYKKnUjbxEV0fxAGRqYA) | 4:00 | 2024-03-18 |  |
+| [Amazed \(The Frontmen Edition\)](https://open.spotify.com/track/44Q65CdxQI5enOQjdHNZfs) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [Familiar Faces](https://open.spotify.com/album/1IJk3ueX658qXNVN0uLM1p) | 4:00 | 2023-11-17 | 2024-03-27 |
 | [Amazed \(The Frontmen Edition\)](https://open.spotify.com/track/4EcquOdwHuLw31NMjbuYSn) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/5JZgtLCQxZsuFxLtUZzkRk) | 4:00 | 2023-11-03 | 2023-11-29 |
 | [Amazed \- 2023 Version](https://open.spotify.com/track/7jR4FTZmk8sYjBhjJP97Zt) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [No News \(2023 Version\)](https://open.spotify.com/album/1TA5XToA2y7gWRVjXZyiHr) | 4:22 | 2023-04-14 |  |
 | [Amazed \- The Frontmen Edition](https://open.spotify.com/track/22gWPIZabvlWJz6ZTQUYA1) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/6gx1ygsB7Y8RD30o6QItqg) | 4:00 | 2023-09-15 | 2023-11-05 |

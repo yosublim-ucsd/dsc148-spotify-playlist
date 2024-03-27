@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Happy Pills",
+        "url": "https://open.spotify.com/album/4WY3Rdhp6BkZOzMyDycvxE"
+      },
+      "artists": [
+        {
+          "name": "Candlebox",
+          "url": "https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n"
+        }
+      ],
+      "date_added": "2021-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310853,
+      "name": "10,000 Horses",
+      "url": "https://open.spotify.com/track/2tzeFz8J7AFzSCpxaCrJat"
+    },
+    {
+      "album": {
         "name": "Throwing Copper",
         "url": "https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF"
       },
@@ -34,10 +52,50 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 227973,
       "name": "All The Kids Are Right",
       "url": "https://open.spotify.com/track/50kQ7oNv9cGEs8JRC614hl"
+    },
+    {
+      "album": {
+        "name": "Up And Crumbling",
+        "url": "https://open.spotify.com/album/3oyBZcSMRV2mQoxxHjE2XJ"
+      },
+      "artists": [
+        {
+          "name": "Gin Blossoms",
+          "url": "https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj"
+        }
+      ],
+      "date_added": "2021-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198573,
+      "name": "Allison Road",
+      "url": "https://open.spotify.com/track/6gtnJMmRXo6d782MpjNoKX"
+    },
+    {
+      "album": {
+        "name": "Hungry For Stink",
+        "url": "https://open.spotify.com/album/5jebyF3m9OSl7mPNvsTtTY"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        },
+        {
+          "name": "Michael Barbiero",
+          "url": "https://open.spotify.com/artist/2BGMjDCR7kV5NXNIwQNPv1"
+        }
+      ],
+      "date_added": "2021-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183973,
+      "name": "Andres",
+      "url": "https://open.spotify.com/track/0nidu6qIs1DlnuYC4qyzvm"
     },
     {
       "album": {
@@ -178,10 +236,46 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-04",
+      "date_removed": null,
       "duration_ms": 267960,
       "name": "Clumsy",
       "url": "https://open.spotify.com/track/5IOUNrN8E37eLGdLNRr9aC"
+    },
+    {
+      "album": {
+        "name": "Electriclarryland",
+        "url": "https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz"
+      },
+      "artists": [
+        {
+          "name": "Butthole Surfers",
+          "url": "https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs"
+        }
+      ],
+      "date_added": "2021-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273200,
+      "name": "Cough Syrup",
+      "url": "https://open.spotify.com/track/46ou6i1u3b8Uu1KUzwKkAO"
+    },
+    {
+      "album": {
+        "name": "Resident Alien",
+        "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
+      },
+      "artists": [
+        {
+          "name": "Spacehog",
+          "url": "https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ"
+        }
+      ],
+      "date_added": "2021-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185226,
+      "name": "Cruel to Be Kind",
+      "url": "https://open.spotify.com/track/3hYknBOy6YzgkVD9H8vXYq"
     },
     {
       "album": {
@@ -200,6 +294,24 @@
       "duration_ms": 234333,
       "name": "Daughter - Remastered",
       "url": "https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw"
+    },
+    {
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/4MCopKPStHNf57HclK4Ds6"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "date_added": "2021-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257826,
+      "name": "Do You Right",
+      "url": "https://open.spotify.com/track/1JRxOhK2heeRsBsB2Dt4Vs"
     },
     {
       "album": {
@@ -254,6 +366,24 @@
       "duration_ms": 278133,
       "name": "Everything Zen",
       "url": "https://open.spotify.com/track/7waRjsA2ehXv619f47lYOT"
+    },
+    {
+      "album": {
+        "name": "Without a Sound (Expanded & Remastered Edition)",
+        "url": "https://open.spotify.com/album/4DjU6zRVraGFXWJ8vmHYyT"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Jr.",
+          "url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+        }
+      ],
+      "date_added": "2021-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258426,
+      "name": "Feel The Pain - 2019 Remaster",
+      "url": "https://open.spotify.com/track/2adp7l3NdcLR1kS6Whnd0a"
     },
     {
       "album": {
@@ -376,7 +506,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 228200,
       "name": "High",
       "url": "https://open.spotify.com/track/2PmYWe7v0hJ6XJjeM2pDQp"
@@ -556,7 +686,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Is Anybody Home?",
       "url": "https://open.spotify.com/track/2QQ0lfEAu3ncUHM3C6Rkg3"
@@ -779,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Naveed",
+        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "date_added": "2021-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350333,
+      "name": "Naveed",
+      "url": "https://open.spotify.com/track/75UvFUebxOBj5Fl5euUqQA"
+    },
+    {
+      "album": {
         "name": "Prolonging the Magic",
         "url": "https://open.spotify.com/album/1vbpW28Od2ATmVyAZ0QZ3j"
       },
@@ -794,6 +942,24 @@
       "duration_ms": 164266,
       "name": "Never There",
       "url": "https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl"
+    },
+    {
+      "album": {
+        "name": "Garbage (20th Anniversary Super Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/6bRl7GS0ARZJMxQMWtVeRB"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "date_added": "2021-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236533,
+      "name": "Only Happy When It Rains",
+      "url": "https://open.spotify.com/track/2VUNvavGGOkewr5wB3WFJg"
     },
     {
       "album": {
@@ -815,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Pinkerton - Deluxe Edition",
+        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2021-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237386,
+      "name": "Pink Triangle",
+      "url": "https://open.spotify.com/track/7JLqD2JnQXiwec88BVyY9f"
+    },
+    {
+      "album": {
         "name": "I Am An Elastic Firecracker",
         "url": "https://open.spotify.com/album/4H0sGJvU49fFtUH86CJyu5"
       },
@@ -826,7 +1010,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 287266,
       "name": "Piranha",
       "url": "https://open.spotify.com/track/1vqw24tqUeqKtTA8fiPccF"
@@ -995,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Where You Been (Expanded & Remastered Edition)",
+        "url": "https://open.spotify.com/album/44rVuw00iGfIh28WcJMDyj"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Jr.",
+          "url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+        }
+      ],
+      "date_added": "2021-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338253,
+      "name": "Start Choppin - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6Rl7bI0f22xipMeYxZaSU7"
+    },
+    {
+      "album": {
         "name": "Blood Sugar Sex Magik (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
@@ -1096,7 +1298,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 254400,
       "name": "Teen Angst (What The World Needs Now)",
       "url": "https://open.spotify.com/track/21gRGP5LdIgto8sznRZ7xz"
@@ -1118,6 +1320,24 @@
       "duration_ms": 179600,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/1szwDbVdIdoQq5mG5GXAmJ"
+    },
+    {
+      "album": {
+        "name": "King for a Day, Fool for a Lifetime (2016 Remaster; Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6KHnSZsn0E2OzcVChd8UUW"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "date_added": "2021-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208706,
+      "name": "The Gentle Art of Making Enemies - 2016 Remaster",
+      "url": "https://open.spotify.com/track/66uYWEw9gJxkPw6STqNcKl"
     },
     {
       "album": {
@@ -1247,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/04BaNUriK88MZEdnhU3PyW"
+      },
+      "artists": [
+        {
+          "name": "The Presidents Of The United States Of America",
+          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+        }
+      ],
+      "date_added": "2021-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "Volcano",
+      "url": "https://open.spotify.com/track/09JxX9P3dqSl0I3lDGrTie"
+    },
+    {
+      "album": {
         "name": "Wax Ecstatic",
         "url": "https://open.spotify.com/album/66c7nl612haIOxKKiTCimr"
       },
@@ -1258,7 +1496,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 248613,
       "name": "Wax Ecstatic (To Sell Angelina)",
       "url": "https://open.spotify.com/track/0SKiQidbB2lEY7us6yDt2m"
