@@ -1,12 +1,12 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 192158,
+  "num_followers": 192192,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDJkNTNhNGFkMDM2YmNkMjY1OTFiNGEwNjJiYmIzNjNhNWJhZjg5",
+  "snapshot_id": "MCw1YmZjN2YzYWUzN2JmMzU3ZDc0MjY2MzNkNmUxNjZjMzhiZDkyZWEy",
   "tracks": [
     {
       "added_at": "2023-04-21 14:41:23",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "FEEL",
-      "url": "https://open.spotify.com/track/2okdRYCtBKj28PXuaheRNS"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "A Midsummer Nice Dream",
         "url": "https://open.spotify.com/album/4WZ0dPZH8wktMC0RiFhwL6"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 170000,
       "name": "A Midsummer Nice Dream",
       "url": "https://open.spotify.com/track/0hAM2VDYMWzAgtCVZXA6Qr"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "FEEL",
+      "url": "https://open.spotify.com/track/2okdRYCtBKj28PXuaheRNS"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/6b0k4pryDUm5lneoKhX8mD"
+      },
+      "artists": [
+        {
+          "name": "The Last Days of Our Past",
+          "url": "https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX"
+        }
+      ],
+      "duration_ms": 291583,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/1Ocs34KuEsoPtYLv071mk7"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Migration",
         "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Cycles",
-        "url": "https://open.spotify.com/album/6b0k4pryDUm5lneoKhX8mD"
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/37pu0bzxfd75BoBq6jKa7U"
       },
       "artists": [
         {
-          "name": "The Last Days of Our Past",
-          "url": "https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX"
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
         }
       ],
-      "duration_ms": 291583,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/1Ocs34KuEsoPtYLv071mk7"
+      "duration_ms": 389681,
+      "name": "Water Music",
+      "url": "https://open.spotify.com/track/0khyOpw2EeYetwTCoJAzs8"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -859,22 +875,6 @@
       "duration_ms": 282680,
       "name": "Barcarolle",
       "url": "https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Ultraviolet",
-        "url": "https://open.spotify.com/album/37pu0bzxfd75BoBq6jKa7U"
-      },
-      "artists": [
-        {
-          "name": "Kelly Moran",
-          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
-        }
-      ],
-      "duration_ms": 389681,
-      "name": "Water Music",
-      "url": "https://open.spotify.com/track/0khyOpw2EeYetwTCoJAzs8"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Anthology of Interplanetary Folk Music Vol. 2: The Canon",
-        "url": "https://open.spotify.com/album/2LosHQBwtkWbW7mlOJm0Qq"
-      },
-      "artists": [
-        {
-          "name": "Craig Leon",
-          "url": "https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs"
-        }
-      ],
-      "duration_ms": 369626,
-      "name": "Standing Crosswise in the Square",
-      "url": "https://open.spotify.com/track/0wFg6CWLFKLiZUDGHd2KV2"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Fading In And Out",
         "url": "https://open.spotify.com/album/6j1FkmIUkgTADDADZUNnHh"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 181666,
       "name": "Fading In",
       "url": "https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Anthology of Interplanetary Folk Music Vol. 2: The Canon",
+        "url": "https://open.spotify.com/album/2LosHQBwtkWbW7mlOJm0Qq"
+      },
+      "artists": [
+        {
+          "name": "Craig Leon",
+          "url": "https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs"
+        }
+      ],
+      "duration_ms": 369626,
+      "name": "Standing Crosswise in the Square",
+      "url": "https://open.spotify.com/track/0wFg6CWLFKLiZUDGHd2KV2"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "You Look Different",
-        "url": "https://open.spotify.com/album/7oInz2CwQurgbtTJEm5oqH"
-      },
-      "artists": [
-        {
-          "name": "Fall Therapy",
-          "url": "https://open.spotify.com/artist/5ot3LQs7sscKD69efOq37C"
-        }
-      ],
-      "duration_ms": 160573,
-      "name": "Wrong",
-      "url": "https://open.spotify.com/track/2X8BEeeQfrN6eIkWAI0NPH"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Succour (Redux)",
         "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 393195,
       "name": "Monastic",
       "url": "https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "You Look Different",
+        "url": "https://open.spotify.com/album/7oInz2CwQurgbtTJEm5oqH"
+      },
+      "artists": [
+        {
+          "name": "Fall Therapy",
+          "url": "https://open.spotify.com/artist/5ot3LQs7sscKD69efOq37C"
+        }
+      ],
+      "duration_ms": 160573,
+      "name": "Wrong",
+      "url": "https://open.spotify.com/track/2X8BEeeQfrN6eIkWAI0NPH"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Nepenthe",
-        "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "Offing",
-      "url": "https://open.spotify.com/track/2jJwqGT5s64ocIUf7SJP6U"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Cycles",
         "url": "https://open.spotify.com/album/4WoGfkXxEjufoIDOPmRuGG"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 180000,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/6mqaKL3SnJhtS2fqDkXOiB"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Nepenthe",
+        "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "Offing",
+      "url": "https://open.spotify.com/track/2jJwqGT5s64ocIUf7SJP6U"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "J\u00e4rnn\u00e4tter",
-        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
+        "name": "Soothe & Sleep, Vol.8",
+        "url": "https://open.spotify.com/album/2yiJFBbopCgNQ83QgBS73s"
       },
       "artists": [
         {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+          "name": "KENJI KIHARA",
+          "url": "https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi"
         }
       ],
-      "duration_ms": 74304,
-      "name": "B3",
-      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
+      "duration_ms": 220327,
+      "name": "Flow in the Back",
+      "url": "https://open.spotify.com/track/0ai02yrtWgFDHrNN8VQHOC"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Soothe & Sleep, Vol.8",
-        "url": "https://open.spotify.com/album/2yiJFBbopCgNQ83QgBS73s"
+        "name": "J\u00e4rnn\u00e4tter",
+        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
       },
       "artists": [
         {
-          "name": "KENJI KIHARA",
-          "url": "https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi"
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
         }
       ],
-      "duration_ms": 220327,
-      "name": "Flow in the Back",
-      "url": "https://open.spotify.com/track/0ai02yrtWgFDHrNN8VQHOC"
+      "duration_ms": 74304,
+      "name": "B3",
+      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Kwaidan",
-        "url": "https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO"
-      },
-      "artists": [
-        {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Sankai",
-      "url": "https://open.spotify.com/track/6IQoOFscOOZqWTy6Hn6QnC"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Flying to America",
         "url": "https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 468500,
       "name": "Flying to America",
       "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Kwaidan",
+        "url": "https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO"
+      },
+      "artists": [
+        {
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Sankai",
+      "url": "https://open.spotify.com/track/6IQoOFscOOZqWTy6Hn6QnC"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1375,26 +1375,6 @@
       "duration_ms": 231494,
       "name": "The Cage",
       "url": "https://open.spotify.com/track/5PhKqxHWmlpygmNOIQuAL7"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "The Last Retention",
-        "url": "https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t"
-      },
-      "artists": [
-        {
-          "name": "Ronnie & Clyde",
-          "url": "https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ"
-        },
-        {
-          "name": "Thomas Ragsdale",
-          "url": "https://open.spotify.com/artist/09HagWD8vD5RLYn9DNDuG4"
-        }
-      ],
-      "duration_ms": 328063,
-      "name": "The Last Retention - Thomas Ragsdale's Deep Space Mix",
-      "url": "https://open.spotify.com/track/0SzKbI4scZulf94FEjJMx3"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1435,6 +1415,26 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "The Last Retention",
+        "url": "https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t"
+      },
+      "artists": [
+        {
+          "name": "Ronnie & Clyde",
+          "url": "https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ"
+        },
+        {
+          "name": "Thomas Ragsdale",
+          "url": "https://open.spotify.com/artist/09HagWD8vD5RLYn9DNDuG4"
+        }
+      ],
+      "duration_ms": 328063,
+      "name": "The Last Retention - Thomas Ragsdale's Deep Space Mix",
+      "url": "https://open.spotify.com/track/0SzKbI4scZulf94FEjJMx3"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Gymnosphere: Song of the Rose",
         "url": "https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS"
       },
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Plays Bee Mask",
+        "url": "https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc"
+      },
+      "artists": [
+        {
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+        }
+      ],
+      "duration_ms": 363380,
+      "name": "Vaporware 05",
+      "url": "https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Longest Year (2020)",
         "url": "https://open.spotify.com/album/3FKwVYsfaB2XWO4anB4LeC"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 234691,
       "name": "Echo//Radiate",
       "url": "https://open.spotify.com/track/5879mtm6fGtiYJVU7PUiD6"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Plays Bee Mask",
-        "url": "https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc"
-      },
-      "artists": [
-        {
-          "name": "Donato Dozzy",
-          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
-        }
-      ],
-      "duration_ms": 363380,
-      "name": "Vaporware 05",
-      "url": "https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Ground Groove",
-        "url": "https://open.spotify.com/album/02Lf34RloqjwBGi2lPMtUN"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 126030,
-      "name": "Heart Shimmer",
-      "url": "https://open.spotify.com/track/0FrvlXmxPAw4IieVlrUXWb"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Anoyo",
         "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
       },
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Ground Groove",
+        "url": "https://open.spotify.com/album/02Lf34RloqjwBGi2lPMtUN"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 126030,
+      "name": "Heart Shimmer",
+      "url": "https://open.spotify.com/track/0FrvlXmxPAw4IieVlrUXWb"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Control Voltage",
         "url": "https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL"
       },
@@ -1627,6 +1627,22 @@
       "duration_ms": 294000,
       "name": "Suspension",
       "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Tilting On Windmills",
+        "url": "https://open.spotify.com/album/0EUkYGPFu3duNURukbpleg"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        }
+      ],
+      "duration_ms": 498065,
+      "name": "Tilting On Windmills",
+      "url": "https://open.spotify.com/track/7mvnU6KO4nC2C37BrbF4YL"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1659,22 +1675,6 @@
       "duration_ms": 469333,
       "name": "Caisson",
       "url": "https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Tilting On Windmills",
-        "url": "https://open.spotify.com/album/0EUkYGPFu3duNURukbpleg"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 498065,
-      "name": "Tilting On Windmills",
-      "url": "https://open.spotify.com/track/7mvnU6KO4nC2C37BrbF4YL"
     }
   ],
   "unique_name": "Exospheres",

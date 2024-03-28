@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 
 > Holiday cheer from your Disney favorites!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,761 likes - 121 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,750 likes - 121 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 | 120 | [Hearts Full of Cheer \- From "Elena of Avalor"](https://open.spotify.com/track/30LsNscPjAU2uzAfMMbrx9) | ["Elena Of Avalor" Cast](https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ) | [Disney Junior Music Holiday Hits](https://open.spotify.com/album/3MnoSzB6Ynq2vq0BV3krZg) | 2:16 |
 | 121 | [Audrey's Christmas Rewind](https://open.spotify.com/track/41EBsCOnEjg6j9l72fFtRf) | [Sarah Jeffery](https://open.spotify.com/artist/0uqrdF1UCmMshSk6veOa5K), [Jadah Marie](https://open.spotify.com/artist/3hAR5VO7T6QRfivYreeXmz) | [Audrey's Christmas Rewind](https://open.spotify.com/album/7fDSJl22e3oDb0L6tiAS4S) | 2:13 |
 
-Snapshot ID: `MCw0YmZiNDgwZTg4YmIyODMxMTk5M2Y1ODlmOWNkMDBhNDBiMjgxNmZk`
+Snapshot ID: `MCxjMjk1YWQ0YTExZWQzYjkwODhkODU0ZDkxMGYzMDg5ODY4ZjJiZTAz`

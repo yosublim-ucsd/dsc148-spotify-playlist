@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 1953,
+  "2024-03-28": 1954,
   "date_first_scraped": "2022-05-30",
   "description": "This is Terry Riley. The essential tracks, all in one playlist.",
   "name": "This Is Terry Riley",
@@ -767,7 +767,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 524333,
       "name": "Das Buch der Klange: Das Buch der Klange (The Book of Sounds): Part VII",
       "url": "https://open.spotify.com/track/53lI8tTFMSCJwWszHtaL4A"
@@ -1485,7 +1485,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 365306,
       "name": "La Muerte en Medias Caladas Negras",
       "url": "https://open.spotify.com/track/5JA6S6rXT6GkSu64nSeqtg"
@@ -2175,7 +2175,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 273746,
       "name": "Quijote",
       "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
@@ -2765,7 +2765,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 930200,
       "name": "The Harp of New Albion: II. The Orchestra of Tao",
       "url": "https://open.spotify.com/track/1gAbvmBVt6teejZiTiOtxM"
@@ -2819,7 +2819,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 585933,
       "name": "The Harp of New Albion: IX. Circle of Wolves",
       "url": "https://open.spotify.com/track/0TckD7ISMjg0kZ9flglQcs"
@@ -3153,6 +3153,24 @@
       "duration_ms": 363200,
       "name": "The Room Of Remembrance, Part II",
       "url": "https://open.spotify.com/track/5yJJm4i3TmshnYgajZP3mg"
+    },
+    {
+      "album": {
+        "name": "Intuitive Leaps: Zeitgeist Plays Terry Riley",
+        "url": "https://open.spotify.com/album/3kqjx7WXd8t4850BJfhz7b"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 719933,
+      "name": "The Room Of Remembrance, Part III",
+      "url": "https://open.spotify.com/track/6APmQl9x6rTS6YlW0yGejB"
     },
     {
       "album": {

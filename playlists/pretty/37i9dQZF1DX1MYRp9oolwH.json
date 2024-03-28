@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : The Family Star",
-  "num_followers": 119789,
+  "num_followers": 119826,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmY5OGZlNjAwMWI0MjhkNGZhZGZlYmZjMmFjYzk3MmVjMDUwMDY3",
+  "snapshot_id": "MCw4MzY4ZjRlMGE1YmIyMGVlYTdhOWQ1ZjYxZThlMDYyNWM0NzVjMmZi",
   "tracks": [
     {
       "added_at": "2024-02-07 10:49:22",
@@ -103,6 +103,22 @@
       "duration_ms": 201600,
       "name": "Yedo Yedo Maaya (From \"Bhimaa\")",
       "url": "https://open.spotify.com/track/2LVsSLBBcf75ORYtRcYIO9"
+    },
+    {
+      "added_at": "2024-03-27 08:23:37",
+      "album": {
+        "name": "Madhuramu Kadha (From \"The Family Star\")",
+        "url": "https://open.spotify.com/album/5xYjkmiZjgx6KUybyOt5Wr"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 249309,
+      "name": "Madhuramu Kadha (From \"The Family Star\")",
+      "url": "https://open.spotify.com/track/1imOLzI7CR77fqs5sjKYBO"
     },
     {
       "added_at": "2024-02-06 12:37:10",
@@ -1155,26 +1171,6 @@
       "duration_ms": 228031,
       "name": "Neelaa Nannilaa",
       "url": "https://open.spotify.com/track/4Tp8Sl7Bul4D40vAlDvx0C"
-    },
-    {
-      "added_at": "2023-05-16 05:12:25",
-      "album": {
-        "name": "Nalo Nena Natho Nena (From \"Men Too\") - Single",
-        "url": "https://open.spotify.com/album/3Wr3YjX3t5HtehdRow7joC"
-      },
-      "artists": [
-        {
-          "name": "Adithya RK",
-          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
-        },
-        {
-          "name": "Elisha Praveen G",
-          "url": "https://open.spotify.com/artist/54lR2AS080rX9Pfv05qqeQ"
-        }
-      ],
-      "duration_ms": 149146,
-      "name": "Nalo Nena Natho Nena (From \"Men Too\")",
-      "url": "https://open.spotify.com/track/6qDgzlheGhzLWVOgPIl2QG"
     }
   ],
   "unique_name": "Latest Romance Telugu",

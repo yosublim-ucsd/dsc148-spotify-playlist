@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 145174,
+  "2024-03-28": 145229,
   "date_first_scraped": "2021-12-28",
   "description": " <a href=\"spotify:artist:74V3dE1a51skRkdII8y2C6\">Andr\u00e9 3000</a> shares his jazz favorites",
   "name": "Andr\u00e9 3000 Digs Jazz",
@@ -4347,6 +4347,24 @@
     {
       "album": {
         "name": "Icons Of Indian Classical Music - Ustad Zakir Hussain (Classical Instrumental)",
+        "url": "https://open.spotify.com/album/47e35FT5naIvWfZZvM51dD"
+      },
+      "artists": [
+        {
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Kalpana",
+      "url": "https://open.spotify.com/track/7uEitG9S6yVFZdN4TI900S"
+    },
+    {
+      "album": {
+        "name": "Icons Of Indian Classical Music - Ustad Zakir Hussain (Classical Instrumental)",
         "url": "https://open.spotify.com/album/7EHOqSz8i1Ze1UKCLTkkN8"
       },
       "artists": [
@@ -4361,7 +4379,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 197000,
       "name": "Kalpana",
       "url": "https://open.spotify.com/track/1wdcrUny0D7BPTxAUYcy8t"

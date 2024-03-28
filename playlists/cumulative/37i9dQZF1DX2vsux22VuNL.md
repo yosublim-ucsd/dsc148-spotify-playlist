@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Lourena, MC Hariel
 
-366 songs - 19 hr 8 min
+367 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Nós Dois](https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne) | [NALAH](https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8) | [Nós Dois](https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY) | 2:27 | 2022-05-23 |  |
 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 | 2022-05-23 |  |
 | [O Mundo Diz Que Não](https://open.spotify.com/track/7LIV1m645RIzjOnAft6A7Q) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [O Mundo Diz Que Não](https://open.spotify.com/album/6LMRoBRog1gS93jMi64sjE) | 3:13 | 2023-12-15 | 2024-01-13 |
-| [O Que a Levada Pede](https://open.spotify.com/track/4QIYe2KUsCseRCK2WDOGym) | [Vitin](https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL) | [O Que a Levada Pede](https://open.spotify.com/album/4p3tg1AsZkO9DlpmAOTThg) | 2:07 | 2024-02-23 |  |
+| [O Que a Levada Pede](https://open.spotify.com/track/4QIYe2KUsCseRCK2WDOGym) | [Vitin](https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL) | [O Que a Levada Pede](https://open.spotify.com/album/4p3tg1AsZkO9DlpmAOTThg) | 2:07 | 2024-02-23 | 2024-03-28 |
 | [O Que Você Quiser](https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [O Que Você Quiser](https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk) | 2:56 | 2022-05-23 |  |
 | [O Sol Se Foi](https://open.spotify.com/track/63O49HqHh3bmVpO82Z2DVE) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ato 1: TODAMANHÃ](https://open.spotify.com/album/5caF5n4dvpJv0BsqEOJnA7) | 3:17 | 2023-04-17 | 2023-06-17 |
 | [O Sol Se Foi](https://open.spotify.com/track/6Q8gVWcgLoNo0b2aamVyp2) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ato 1: TODAMANHÃ](https://open.spotify.com/album/4c2wwlgbTHER3fxe6TzDlZ) | 3:17 | 2023-04-14 | 2023-04-27 |
@@ -347,6 +347,7 @@
 | [Toda estranha](https://open.spotify.com/track/2meJca6wSL6dDbe2SM0uI6) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco) | [\(EX\) POSTO](https://open.spotify.com/album/5YlxSyxPJBFQeJelrmwCVd) | 2:47 | 2023-09-29 | 2023-12-09 |
 | [Toda Malévola](https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Toda Malévola](https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD) | 3:16 | 2022-12-16 |  |
 | [Tudo bem](https://open.spotify.com/track/6hEzYlDMj0Fqfq7dMQql1v) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Tudo bem](https://open.spotify.com/album/6wp7vBZbqGKdFyJc7iaY98) | 2:37 | 2023-11-03 | 2023-11-25 |
+| [Tudo é Carnaval](https://open.spotify.com/track/3X5hJ2EqdIKpmw5tagtAnK) | [Cruvinel](https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW), [Bárbara Leão](https://open.spotify.com/artist/4JduGZ99yejLQKkve0LMUn), [sódan.](https://open.spotify.com/artist/496bSkfI4ViB2GrUpYXPu3), [Ogrow Beats](https://open.spotify.com/artist/0Y71tGmD0xjvdg6hZoRywr) | [Tudo é Carnaval](https://open.spotify.com/album/6X4YSZrPQ5BRaKUXBNz0U3) | 2:57 | 2024-03-22 |  |
 | [Tudo É Pra Sempre Agora](https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Luiza De Alexandre](https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS) | [Tudo É Pra Sempre Agora](https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1) | 3:05 | 2023-12-01 |  |
 | [Tá Fod\*](https://open.spotify.com/track/3soB2fp5V9KVxQM6BZ6JIg) | [Afrocidade](https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL) | [Tá Fod\*](https://open.spotify.com/album/6lProWEld2RgXzXN30KI1N) | 3:01 | 2023-11-24 |  |
 | [Tão Linda \(feat\. Gabrá\)](https://open.spotify.com/track/2OHDTihV2aN7BRVfec9eVO) | [Crod](https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j), [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3) | [Tão Linda \(feat\. Gabrá\)](https://open.spotify.com/album/39Cb83gAN5BBKXKGYBxB3K) | 2:42 | 2022-05-23 | 2023-01-14 |

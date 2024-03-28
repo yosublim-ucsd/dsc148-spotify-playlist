@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-107 songs - 6 hr 39 min
+108 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Nobody's Fault](https://open.spotify.com/track/3ViVcddn0319dI9dw17y5n) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 3:22 | 2022-10-21 | 2022-11-19 |
 | [Not Sorry](https://open.spotify.com/track/6Dnpg79fSw9V8dtDy3sQo6) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [Not Sorry](https://open.spotify.com/album/0SaksaTXJShmehBpTpL9oU) | 4:09 | 2022-10-21 | 2023-01-28 |
 | [On The Line](https://open.spotify.com/track/7l25I7cYjeUZVKXDOaDPQP) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO), [Maya Killtron](https://open.spotify.com/artist/00kg3zOGx3pJytYkDxK0q2) | [On The Line](https://open.spotify.com/album/55V67H6MNzcqy5hiYRQQZB) | 4:00 | 2024-01-26 |  |
-| [One Bedroom Apartment](https://open.spotify.com/track/6XEuXtDnH3s42tXRYdowaA) | [MAXN](https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL) | [One Bedroom Apartment](https://open.spotify.com/album/5lcxvlwmGlB8J7k8W269im) | 3:36 | 2024-02-23 |  |
+| [One Bedroom Apartment](https://open.spotify.com/track/3mObCivWwBNhjGn1lNqtk2) | [MAXN](https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL) | [Mirror In a Gold Mine](https://open.spotify.com/album/1kOf4AbczjMcNaRMb4HiVN) | 3:36 | 2024-02-23 |  |
+| [One Bedroom Apartment](https://open.spotify.com/track/6XEuXtDnH3s42tXRYdowaA) | [MAXN](https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL) | [One Bedroom Apartment](https://open.spotify.com/album/5lcxvlwmGlB8J7k8W269im) | 3:36 | 2024-02-23 | 2024-03-28 |
 | [One Way Out](https://open.spotify.com/track/6Rvvecvi5x26AYsqY518MY) | [Heir](https://open.spotify.com/artist/2qFolZ0t9iDaOtgwvtMl2f) | [One Way Out](https://open.spotify.com/album/7GowjRTiHy1OtF0AQuqXVS) | 3:42 | 2022-11-11 |  |
 | [Out of My Life](https://open.spotify.com/track/3BCkdDIFlp7g8ZlvHVJv5p) | [Maya Killtron](https://open.spotify.com/artist/00kg3zOGx3pJytYkDxK0q2) | [Persimmon](https://open.spotify.com/album/00EK1rMkjf99RTeXyzuCdN) | 4:00 | 2022-10-21 |  |
 | [Past the Point](https://open.spotify.com/track/28iT2AnlE73LIJI6RnjFhZ) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Inside Voice](https://open.spotify.com/album/7znS7xCpnfBvXPIom6HAof) | 3:42 | 2022-10-21 | 2024-01-27 |

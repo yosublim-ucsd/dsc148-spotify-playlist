@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgrQDsmAXok.md) - [plain]
 
 > Early Noise 2020選出アーティスト藤井 風の楽曲を1つのプレイリストで。All the essentials from Early Noise \(RADAR\) 2020 artist, Fujii Kaze.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,847 likes - 28 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,003 likes - 28 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgrQDsmAXok.md) - [plain]
 | 27 | [Hana \- Ballad](https://open.spotify.com/track/08ldhcNuoqot1mavblvKfc) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hana](https://open.spotify.com/album/3IGw7uRv2y5lTMlIe8PLeT) | 4:07 |
 | 28 | [Kirari \- Daul Remix](https://open.spotify.com/track/1zzJfOdraIBJtCAatSYzCt) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 4:05 |
 
-Snapshot ID: `MCwzODk5NWI1ZGIwMjA4OTJmZGEzNzNmYzUwZjM5ZjAyZDUwYzM1Mjkx`
+Snapshot ID: `MCxiZGE5NWJiMDNkODViZjVjYzQ3YzliYTU0YmM1MzE0Nzk0ZmE3YjY4`

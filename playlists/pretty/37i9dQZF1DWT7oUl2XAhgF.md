@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 ### [Retro Soul](https://open.spotify.com/playlist/37i9dQZF1DWT7oUl2XAhgF)
 
-> A new take on a classic sound\. Cover: Britti
+> A new take on a classic sound\. Cover: Jalen Ngonda
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,022 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,091 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Where Is the Peace](https://open.spotify.com/track/1ACBSADdmaiAcvVB5Yzd2F) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Where Is the Peace](https://open.spotify.com/album/3Yv75Tv8dMqxt6uHWsXikC) | 3:36 |
-| 2 | [Illusions](https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Illusions](https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz) | 3:36 |
-| 3 | [Sinseerly Yours](https://open.spotify.com/track/228Ap7fHnb2BUsdopPrjxx) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quinones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Sinseerly Yours](https://open.spotify.com/album/7lNj0BxtEBKhQNtYVqpby6) | 2:53 |
-| 4 | [Street People](https://open.spotify.com/track/39n0HaRNVVxtvINVdivQwH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Street People](https://open.spotify.com/album/15NOultLFQgFoZyYLfy8hM) | 5:52 |
-| 5 | [Better Than This](https://open.spotify.com/track/0uJcPad9H1tQzxslEBQtlu) | [The Slim Kings](https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf) | [Better Than This](https://open.spotify.com/album/4QgY2HVCC3Ljwprc7cjQqE) | 2:59 |
-| 6 | [Forever](https://open.spotify.com/track/6Up7DVZHtwlPy6T54uLHmO) | [Rome](https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa) | [Forever](https://open.spotify.com/album/2dMifVzH1LJCNbnAqftCVA) | 3:16 |
-| 7 | [MARY \- A COLORS SHOW](https://open.spotify.com/track/7M2NVfbNrBnrR1eA7HVWTw) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [MARY \- A COLORS SHOW](https://open.spotify.com/album/4SKYxCEmJBIxTdPQGQGK0C) | 3:24 |
-| 8 | [Hold On](https://open.spotify.com/track/2Wr8VlaALAoCINplD16qwh) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Hold On](https://open.spotify.com/album/0cLxZPKM7QjIItprbOw2E4) | 3:28 |
-| 9 | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU), [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX) | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV) | 2:42 |
+| 1 | [Illusions](https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Illusions](https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz) | 3:36 |
+| 2 | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU), [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX) | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV) | 2:42 |
+| 3 | [Where Is the Peace](https://open.spotify.com/track/1ACBSADdmaiAcvVB5Yzd2F) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Where Is the Peace](https://open.spotify.com/album/3Yv75Tv8dMqxt6uHWsXikC) | 3:36 |
+| 4 | [Sinseerly Yours](https://open.spotify.com/track/228Ap7fHnb2BUsdopPrjxx) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quinones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Sinseerly Yours](https://open.spotify.com/album/7lNj0BxtEBKhQNtYVqpby6) | 2:53 |
+| 5 | [Street People](https://open.spotify.com/track/39n0HaRNVVxtvINVdivQwH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Street People](https://open.spotify.com/album/15NOultLFQgFoZyYLfy8hM) | 5:52 |
+| 6 | [Better Than This](https://open.spotify.com/track/0uJcPad9H1tQzxslEBQtlu) | [The Slim Kings](https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf) | [Better Than This](https://open.spotify.com/album/4QgY2HVCC3Ljwprc7cjQqE) | 2:59 |
+| 7 | [Forever](https://open.spotify.com/track/6Up7DVZHtwlPy6T54uLHmO) | [Rome](https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa) | [Forever](https://open.spotify.com/album/2dMifVzH1LJCNbnAqftCVA) | 3:16 |
+| 8 | [MARY \- A COLORS SHOW](https://open.spotify.com/track/7M2NVfbNrBnrR1eA7HVWTw) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [MARY \- A COLORS SHOW](https://open.spotify.com/album/4SKYxCEmJBIxTdPQGQGK0C) | 3:24 |
+| 9 | [Hold On](https://open.spotify.com/track/2Wr8VlaALAoCINplD16qwh) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Hold On](https://open.spotify.com/album/0cLxZPKM7QjIItprbOw2E4) | 3:28 |
 | 10 | [Save Me](https://open.spotify.com/track/302hBUpoWoYQyBgujHfuTy) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Hello, I'm Britti.](https://open.spotify.com/album/09WQABIo1U9D8H8SO7WK0a) | 3:21 |
 | 11 | [Lifted Up](https://open.spotify.com/track/5I49eXTkm0BUI9l5zvVcfw) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Lifted Up](https://open.spotify.com/album/4jGb0IWRLtC75RQzIWGpEV) | 2:55 |
 | 12 | [Beautiful Mess](https://open.spotify.com/track/0uzeU20mt4j3RZrSlipwx3) | [Bette Smith](https://open.spotify.com/artist/3hFYJXV9rGaHMAPkvP4YZ3) | [Beautiful Mess](https://open.spotify.com/album/1xXhNPde3HfzOBiNJiqbQy) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [You](https://open.spotify.com/track/7y8xMbDt5a5XlcRUAyov8N) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 3:00 |
 | 100 | [My Dirty Desire](https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:26 |
 
-Snapshot ID: `MCw0M2ExN2MyYTIyM2U2OTQzMzc0NjdlYjZiYjQ0MTY3MWFhMmQ3N2I4`
+Snapshot ID: `MCw1NDZkNjExNWI1NzYzMjE4MWYwMTNhOWM3ZWE1MmRlMjVmNjA2MWQ5`

@@ -238,7 +238,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 120000,
       "name": "bleach",
       "url": "https://open.spotify.com/track/2aRjdfibMVQyl5iw9epBGt"
@@ -2371,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "TRENCHBOY",
+        "url": "https://open.spotify.com/album/6K1QskJv5Db6mv0J88KrCX"
+      },
+      "artists": [
+        {
+          "name": "Gutterboysouz",
+          "url": "https://open.spotify.com/artist/2Vrlq6LmKIUu2kuJp5fMUP"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120092,
+      "name": "TRENCHBOY",
+      "url": "https://open.spotify.com/track/0uepd4dBVHY5CqoMGk2iXH"
+    },
+    {
+      "album": {
         "name": "YOARI X MY DEMON",
         "url": "https://open.spotify.com/album/2XyMN12w6Lb9Ion8UdRCkf"
       },
@@ -2864,6 +2882,24 @@
       "duration_ms": 188677,
       "name": "You Didn\u2019t Know",
       "url": "https://open.spotify.com/track/1EXcVTWW9vciHp4hzQHqAG"
+    },
+    {
+      "album": {
+        "name": "Yugoslavskiy Groove",
+        "url": "https://open.spotify.com/album/6llF3dFiFrCjKyKnEHdLVy"
+      },
+      "artists": [
+        {
+          "name": "Soft Blade",
+          "url": "https://open.spotify.com/artist/6LwKCnpeCVffopaYO3pafG"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241986,
+      "name": "Yugoslavskiy Groove",
+      "url": "https://open.spotify.com/track/0OAkNPY9in0k8Rp58AjFOJ"
     },
     {
       "album": {
@@ -3594,7 +3630,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 156116,
       "name": "\u041d\u0435\u0436\u043d\u0430\u044f",
       "url": "https://open.spotify.com/track/1VFbCJBWO26Gv641kr8ZMQ"

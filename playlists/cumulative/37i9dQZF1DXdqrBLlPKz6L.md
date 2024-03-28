@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: El Clooy
 
-104 songs - 5 hr 40 min
+105 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Blow](https://open.spotify.com/track/3QKWk2lLEr1GYjwywLWb5T) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Blow](https://open.spotify.com/album/6p6iPFMjvMgcQm4E0VClla) | 3:22 | 2021-10-15 | 2023-06-17 |
 | [Blow](https://open.spotify.com/track/6RAkTCFYeLuYvGWjVRFuMZ) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Blow](https://open.spotify.com/album/76DSYK5UQMOTeiJFyIY0GG) | 3:22 | 2023-03-24 |  |
 | [Bolero 808](https://open.spotify.com/track/4LFRvZF78H1R5adZZ8gYGL) | [Jaycob Duque](https://open.spotify.com/artist/2NEwLjbrw5RA4KWYhUIM9r), [Argüello](https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy) | [Bolero 808](https://open.spotify.com/album/0tDqrQpbvpTII7Yf35SthC) | 2:45 | 2021-10-15 | 2022-08-20 |
-| [Bon Appétit](https://open.spotify.com/track/1QseGaBHU6q2KRPKEWEVrY) | [Reke](https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4) | [Una Sangre, Vol\. 3: Trapicheando](https://open.spotify.com/album/1ZSf5zV02X8P3Xbj9LcIm2) | 4:09 | 2021-10-15 |  |
+| [Bon Appetit](https://open.spotify.com/track/7rKBwaFOnzq0j3FFrgYUQW) | [Reke](https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4) | [Trapicheando: Una Sangre, Vol\. 3](https://open.spotify.com/album/2qEII4DM0ASNWy49HTvTYH) | 4:09 | 2024-01-26 |  |
+| [Bon Appétit](https://open.spotify.com/track/1QseGaBHU6q2KRPKEWEVrY) | [Reke](https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4) | [Una Sangre, Vol\. 3: Trapicheando](https://open.spotify.com/album/1ZSf5zV02X8P3Xbj9LcIm2) | 4:09 | 2021-10-15 | 2024-03-28 |
 | [Bye](https://open.spotify.com/track/0hucTc8Bg42b3Ihwz3WS7o) | [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Bye](https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI) | 2:37 | 2021-10-15 |  |
 | [Celebrando](https://open.spotify.com/track/28l5P6yBrjBMAvgFm1uiQ4) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Celebrando](https://open.spotify.com/album/3vM9T5faPuqqEbZJ0wYPN3) | 3:27 | 2021-10-15 |  |
 | [Cellphone](https://open.spotify.com/track/2pAuWlwPCIWNGtp3TrdoHT) | [Daga](https://open.spotify.com/artist/6qbdQTpYKGLSeoahWGTVPe), [Colavizza](https://open.spotify.com/artist/078mloHMPRQZhY0795u30V) | [Cellphone](https://open.spotify.com/album/03oFCkB5mzMncCPx0BJSn1) | 4:03 | 2021-10-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 
 > From joyful jubillance to hushed harmonies\. Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,064 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,059 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 | 49 | [Winter Wonderland / Don't Worry Be Happy \(feat\. Tori Kelly\)](https://open.spotify.com/track/2kPpxNSgXRvu5yqkRLKJIu) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:27 |
 | 50 | [Nativity Medley](https://open.spotify.com/track/67kWuuiaVw8qjtnnOS96Tq) | [Committed](https://open.spotify.com/artist/0zXJ4RC28rSgZ7tR5XgXdH) | [Home For Christmas](https://open.spotify.com/album/4FmWz2Vm8z3KXwo4AJe8Fy) | 3:25 |
 
-Snapshot ID: `MCxhNzFjZTgwMDhmMmM1NTc0ZTYyNzQzODFhZDQxZTUyMzlkMmZjYzNh`
+Snapshot ID: `MCw1MWVhNWQwYWI0YTQ5YzcwYWFhMzNlZTIwZWYwOGI1YzA2ZmQzMzY0`

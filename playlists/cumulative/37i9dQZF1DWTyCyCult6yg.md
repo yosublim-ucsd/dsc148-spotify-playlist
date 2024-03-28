@@ -4,7 +4,7 @@
 
 > Caterina Barbieri's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
-35 songs - 6 hr 9 min
+36 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Simple Song \#3](https://open.spotify.com/track/3LFOeWFs0DIMtM4Gfgc90y) | [Sumi Jo](https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6), [Terry Davies](https://open.spotify.com/artist/6APswPnMBKxYpJuuxkhjFN), [David Lang](https://open.spotify.com/artist/7rdRfDNLKnGbxnnanaggQ2) | [Youth \(Original Soundtrack Album\)](https://open.spotify.com/album/4PEi00t2ZRYcvyvmzk5vUi) | 6:02 | 2023-01-10 |  |
 | [Sonus Ruinae part 1](https://open.spotify.com/track/6zBMShkhey4dGfJb9DjHxS) | [Marta De Pascalis](https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr) | [Sonus Ruinae](https://open.spotify.com/album/5GWWgKTuTNLVTlMB44ognu) | 9:43 | 2023-01-10 |  |
 | [SOTRS](https://open.spotify.com/track/2FlB3fJcGaohJORO93cNWv) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Patterns Of Consciousness](https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS) | 9:30 | 2023-01-10 |  |
-| [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 | 2023-01-10 |  |
+| [Spectacle Of Ritual](https://open.spotify.com/track/2BqFBCxmlTAYLklSuyWi7y) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/5Hyb3LlbP8DIVP4zsMOwlw) | 10:53 | 2023-06-30 |  |
+| [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 | 2023-01-10 | 2024-03-28 |
 | [Structures from Silence](https://open.spotify.com/track/6fWQiphelkd7NF3CoPegB1) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence](https://open.spotify.com/album/46AY6JPcDEFWYF8YcYOQWh) | 28:33 | 2023-01-10 |  |
 | [Structures from Silence \- 30th Anniversary Remaster](https://open.spotify.com/track/3v6UGvx3CJ0F0iEq5jWwl1) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence \(30th Anniversary Remaster\)](https://open.spotify.com/album/194ZxFpjv5ttxZan4caXRq) | 28:33 | 2023-06-30 | 2024-01-15 |
 | [The Dance No\. 1](https://open.spotify.com/track/2z7VAEi6i9GMkQloRUzyu1) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 3: Day Of Radiance](https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw) | 9:15 | 2023-01-10 |  |

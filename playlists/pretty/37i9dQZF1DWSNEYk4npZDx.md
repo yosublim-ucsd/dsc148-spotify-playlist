@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNEYk4npZDx.md) - [plain]
 
 > The music from Love Life on HBO Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,480 likes - 104 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,494 likes - 104 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNEYk4npZDx.md) - [plain]
 | 50 | [Sheer Magic](https://open.spotify.com/track/6MiRjPd9Bs95hba2V4i5wx) | [Ice Cold Love](https://open.spotify.com/artist/4hWaCuySXsgdffrYakU2eG), [Tammy](https://open.spotify.com/artist/3E2qF2Hsi7K1A0vo1RboK2) | [Sheer Magic b/w Wonderful To Be Loved](https://open.spotify.com/album/7kIgUimXM8XR8OlLBjK0jO) | 3:28 |
 | 51 | [Debold](https://open.spotify.com/track/249L7XvMpl08wN5vhivz1j) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Only Diamonds Cut Diamonds](https://open.spotify.com/album/3UlMZUzswHGJKzPigY936g) | 2:43 |
 | 52 | [Haenim](https://open.spotify.com/track/6uBFcQ0TFjdnS5QUTff2Yb) | [Kim Jung Mi](https://open.spotify.com/artist/0yxIUq0WFyaTmYyleG4Uca) | [Now](https://open.spotify.com/album/2lzfXDmAAnFTwAHNc759Rz) | 6:53 |
-| 53 | [Home Boy](https://open.spotify.com/track/2yBhIp7eJG8arUOYTbSlth) | [Sea Bee](https://open.spotify.com/artist/3TKsjvKgxOl5bbWwZce343) | [I Wanda Why](https://open.spotify.com/album/1rNsFehofepgbF3SuF4IjP) | 6:23 |
+| 53 | [Home Boy](https://open.spotify.com/track/7jk7K6EfHOuJhu0iPYDAb3) | [Sea Bee](https://open.spotify.com/artist/3TKsjvKgxOl5bbWwZce343) | [I Wanda Why?](https://open.spotify.com/album/73rSSUbrOYDCxA1C3M86Ai) | 6:23 |
 | 54 | [Write a Guy Like Me](https://open.spotify.com/track/2tfZKNB6GAGZPTECn7b3fo) | [Dan Romer](https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4), [Mike Tuccillo](https://open.spotify.com/artist/6vGiwaZ9zrjN0APKhLMSSX) | [Love Life \(Music from the Original TV Series, Season 2\)](https://open.spotify.com/album/48u9YDJBmRvGeW0PFssBOq) | 1:21 |
 | 55 | [Merry Christmas \(I Don't Want to Fight Tonight\)](https://open.spotify.com/track/7EGQaR9y8XyKeDW7jiDndI) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d) | 2:03 |
 | 56 | [Merry Christmas Baby](https://open.spotify.com/track/4STCTQ1h0VuWfvDyhGOxkv) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Merry Christmas Baby / White Christmas](https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp) | 2:35 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNEYk4npZDx.md) - [plain]
 | 103 | [Summer Brings the Sunshine](https://open.spotify.com/track/4UYKnpqvHrvDKpblMr9JxZ) | [Jimmy Carter and Dallas County Green](https://open.spotify.com/artist/2RWgO3s8UmCP8tG1kTFFzF) | [Summer Brings the Sunshine](https://open.spotify.com/album/6yligzKEGqNHxMWUF6zPiA) | 4:20 |
 | 104 | [Glad and Sorry](https://open.spotify.com/track/0NtyuUILV22rjcc7JiSFfA) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:06 |
 
-Snapshot ID: `MCxmNTM1MjMzMTA5Mzc1MjEwMGU0MWQ0M2IwNzg1NTIyMmM0ODdkYzZm`
+Snapshot ID: `MCw4OGRjMjJkNmE2ZDIxZDVmZGYxZTMxNjQxZWE0MmExNWU2YjhjZmMz`

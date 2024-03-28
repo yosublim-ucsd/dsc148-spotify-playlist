@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-235 songs - 15 hr 5 min
+236 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,11 +77,12 @@
 | [Et snev av evig](https://open.spotify.com/track/59WjkaDxlNlEM90fENZ5wK) | [Maj Britt Andersen](https://open.spotify.com/artist/2bIqrsdC6t8Ps4AcBp2rAP), [The Norwegian Radio Orchestra](https://open.spotify.com/artist/17ggmeNujCFMkr3zgyXv02), [Ingar Bergby](https://open.spotify.com/artist/5wgwZ42k45KFtRKHUgQhmI) | [Et snev av evig](https://open.spotify.com/album/5FtVaBNivEjSoM3Y6P0rQI) | 3:36 | 2022-01-27 | 2022-01-29 |
 | [Evig Eies \(Kun Et Dårlig Rykte\)](https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Evig Eies \(Kun Et Dårlig Rykte\)](https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU) | 4:13 | 2022-07-14 |  |
 | [Evig Eies \(Kun Et Dårlig Rykte\)](https://open.spotify.com/track/6SlE2MU3PsOO7NrPIIFRHm) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Evig Eies \(Kun Et Dårlig Rykte\)](https://open.spotify.com/album/3dZvVLGKN6rDgnZGnbNVyW) | 4:13 | 2021-12-16 | 2022-07-29 |
-| [Evig kvile](https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Evig kvile](https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq) | 3:09 | 2023-01-02 |  |
+| [Evig kvile](https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Evig kvile](https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq) | 3:09 | 2023-01-02 | 2024-03-28 |
 | [Falle til ro \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Falle til ro \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP) | 4:26 | 2021-12-16 |  |
 | [Far](https://open.spotify.com/track/6MsgqzG4ZGc0Lugfwuze0s) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Far](https://open.spotify.com/album/5XekrSBdi4Qpz3WkwqUZDa) | 3:14 | 2024-02-15 | 2024-03-06 |
 | [Fingeravtrykk](https://open.spotify.com/track/7176c184pups4Q02ZPhTAl) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Fingeravtrykk](https://open.spotify.com/album/4LQ9X3yVtTvsR7zx0GyRyW) | 7:01 | 2022-07-14 | 2022-10-03 |
 | [Finn Veien Engel \- New version](https://open.spotify.com/track/57okbLO40Q3aH4SgcAfmSS) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [Finn Veien Engel \(New Version\)](https://open.spotify.com/album/7wcbrQi9tIPwNN5R9g87vE) | 3:04 | 2021-12-16 | 2022-07-28 |
+| [Folk flest er snille](https://open.spotify.com/track/2Nlc6MR5OukglrSFsF1vGn) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Folk flest er snille](https://open.spotify.com/album/4Edzdald8oV574cv2ejxwQ) | 2:24 | 2024-03-27 |  |
 | [For vår jord](https://open.spotify.com/track/1J6GFv4CtXFuG0Ip7e0OZt) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [For vår jord](https://open.spotify.com/album/7asbXo2omni85X3WgOMbIO) | 2:36 | 2023-02-02 | 2023-08-28 |
 | [For vår jord](https://open.spotify.com/track/7ERi1NHykO7dt8f1lmyCTn) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hver Gang Vi Møtes 2023](https://open.spotify.com/album/272tAO2vDpKaaD1FjHTeRY) | 2:36 | 2023-08-24 |  |
 | [Fordi eg elskar deg](https://open.spotify.com/track/2MkdeB9TXLBZpYHpXJECXe) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Fordi eg elskar deg](https://open.spotify.com/album/53dmlzt7IY86gQU3sObaPC) | 3:10 | 2023-01-12 | 2023-04-21 |

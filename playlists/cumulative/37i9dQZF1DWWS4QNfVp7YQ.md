@@ -4,7 +4,7 @@
 
 > Échate un zapateo al ritmo del tribal.
 
-61 songs - 3 hr 22 min
+62 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,12 +28,13 @@
 | [DIABLA VS SALTANDO TRIBAL](https://open.spotify.com/track/1qBaGLAqI5RbSNP6Yau5fU) | [DJ Erandes](https://open.spotify.com/artist/2ei2Mrr1GJnHhxF8pLZCeZ) | [DIABLA VS SALTANDO TRIBAL](https://open.spotify.com/album/3lMY8jkSEY1cE1ZNBUKs75) | 2:37 | 2024-03-08 |  |
 | [El Pesero](https://open.spotify.com/track/05KHhBPrEYhSVnmrWfFXVk) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [El Pesero](https://open.spotify.com/album/1hA3LlcZ0EvtHfLoruHI2z) | 3:28 | 2023-01-20 |  |
 | [El Ritmo Fa](https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ) | [DJ kLazH](https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo), [Dj Kury](https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS) | [El Ritmo Fa](https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z) | 5:23 | 2022-08-05 |  |
-| [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 | 2022-08-05 |  |
+| [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 | 2022-08-05 | 2024-03-28 |
 | [El Tribalero](https://open.spotify.com/track/1k4lYdnrzde0FSUfcHMsP6) | [DJ Cobra](https://open.spotify.com/artist/4I2JYk8qTtlqfGmlDmsZAA), [Kike Play](https://open.spotify.com/artist/0FAKqpnbZkSilqj1OUPjIP), [Nikki X](https://open.spotify.com/artist/4ASXv51yAzn53dQ22pFFfw) | [100% Tribal](https://open.spotify.com/album/2NSatzxOhqycsoTkjBtlqd) | 3:44 | 2022-08-05 |  |
 | [Enamorada de un Cantante](https://open.spotify.com/track/1dPO1BNdJSxtp2JTzCjbog) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw), [DJ Morphius Tribal Mix](https://open.spotify.com/artist/6znYrtwZJsdgOUJXbX0a9m) | [Los Reyes del Tribal](https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF) | 4:25 | 2022-08-05 |  |
 | [Fly Sound](https://open.spotify.com/track/1S97PagCTc4uorToNepM7r) | [David Lopez](https://open.spotify.com/artist/293KGMp3aKVQ5JmyVt8VIb) | [Fly Sound](https://open.spotify.com/album/1Ts18Ne9bWETR7ZG5C7XH5) | 5:48 | 2022-08-05 |  |
 | [Imagínate](https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [CID MX](https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx), [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp) | [Imagínate](https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx) | 2:37 | 2022-08-05 |  |
 | [Inténtalo \(feat\. América Sierra & El Bebeto\)](https://open.spotify.com/track/61aPpbJMAD5BjWkiHeX9R6) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Inténtalo \(Deluxe Edition\)](https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4) | 3:13 | 2022-08-05 |  |
+| [La Culebritica](https://open.spotify.com/track/35sjMmzqvrsfus9qmHFUqq) | [Tribal Guarachero](https://open.spotify.com/artist/5joTsOB4J8FAS2srUZrwCt) | [La Culebritica](https://open.spotify.com/album/4QdDnd3evfl3o5pGKc7k3S) | 3:40 | 2024-03-08 |  |
 | [La Culebritica](https://open.spotify.com/track/589A2uQDPameLScx9xkUDn) | [Tribal Guarachero](https://open.spotify.com/artist/5joTsOB4J8FAS2srUZrwCt) | [Muchísimo Tribal](https://open.spotify.com/album/5QN3rjn0ivCi8PtLv63vlp) | 3:40 | 2022-08-05 | 2023-12-04 |
 | [La Culebritica Guaracha](https://open.spotify.com/track/1FDDgSbicx6zDIciu8CuBk) | [DjMarcosIxtapanDeLaSal](https://open.spotify.com/artist/2zCnj0m27R3to05GcUBsX5) | [La Culebritica Guaracha](https://open.spotify.com/album/0yIlDGzFCcM5LSCcJmvTf7) | 3:40 | 2022-08-05 | 2023-11-09 |
 | [La Cumbia Tribalera \(feat\. Edwin Luna y La Trakalosa de Monterrey & Grupo Violento\)](https://open.spotify.com/track/6A96JQxi0ajdhp9941F2de) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Grupo Violento](https://open.spotify.com/artist/4sGrnZLg0bsXP5TzRp4Dom) | [Los Reyes del Tribal](https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF) | 3:40 | 2022-08-05 |  |

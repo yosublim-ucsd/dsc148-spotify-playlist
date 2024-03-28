@@ -1,12 +1,12 @@
 {
   "description": "Future & melodic bass. Cover: SLANDER & Trivecta",
-  "num_followers": 104572,
+  "num_followers": 104587,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTllOWM5YmNlMzk4MWZmNTdlMjJlZDRiMzgwYTUwZDZkOWI2NWZi",
+  "snapshot_id": "MCwwOWYwOGU2N2EzMTFkZGJiMjYxZmMyNTdjMjBlNjkyYzAyMGMxMDA5",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Save Me (From Myself) (feat. Kyle Hume)",
-        "url": "https://open.spotify.com/album/47VbVxpe5CtPMOFCpzliMr"
-      },
-      "artists": [
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "Kyle Hume",
-          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Save Me (From Myself) (feat. Kyle Hume)",
-      "url": "https://open.spotify.com/track/6POZ7ocsOQQvJrfArz6KOD"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Don't Look Down (Hold On)",
         "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 245333,
       "name": "Don't Look Down (Hold On)",
       "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Save Me (From Myself) (feat. Kyle Hume)",
+        "url": "https://open.spotify.com/album/47VbVxpe5CtPMOFCpzliMr"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Kyle Hume",
+          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Save Me (From Myself) (feat. Kyle Hume)",
+      "url": "https://open.spotify.com/track/6POZ7ocsOQQvJrfArz6KOD"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1763,22 +1763,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Without Me",
-        "url": "https://open.spotify.com/album/3UVTbzNQzm5UWhs7Hltghz"
+        "name": "Lie",
+        "url": "https://open.spotify.com/album/4dno18wmZxZldvHiApenIa"
       },
       "artists": [
         {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Concrete Castles",
-          "url": "https://open.spotify.com/artist/1Cexar57ALO1nZIiKoIUuo"
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/48fvMOyYDflTCbRSNJVglq"
+      "duration_ms": 210000,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/1lM7pNocZRjhiK7VK2VRTQ"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1827,18 +1823,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Lie",
-        "url": "https://open.spotify.com/album/4dno18wmZxZldvHiApenIa"
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/3UVTbzNQzm5UWhs7Hltghz"
       },
       "artists": [
         {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Concrete Castles",
+          "url": "https://open.spotify.com/artist/1Cexar57ALO1nZIiKoIUuo"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/1lM7pNocZRjhiK7VK2VRTQ"
+      "duration_ms": 192000,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/48fvMOyYDflTCbRSNJVglq"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Haunted Haus",
-        "url": "https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5"
-      },
-      "artists": [
-        {
-          "name": "Ghastly",
-          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "Bullet",
-      "url": "https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Crashing Hard",
         "url": "https://open.spotify.com/album/3Qmygkn40t7BIgJ6U5eT6i"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 217600,
       "name": "Crashing Hard",
       "url": "https://open.spotify.com/track/3zxi11w6lXJgDBmIhhWjpR"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Haunted Haus",
+        "url": "https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5"
+      },
+      "artists": [
+        {
+          "name": "Ghastly",
+          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2275,26 +2275,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Did You Really?",
-        "url": "https://open.spotify.com/album/4q7t6ig8158vrciDDJZUCk"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Freja",
-          "url": "https://open.spotify.com/artist/7rmUZLn14Yu6epkCEPGcVd"
-        }
-      ],
-      "duration_ms": 200859,
-      "name": "Did You Really?",
-      "url": "https://open.spotify.com/track/75WtlfvvdmR1GWdaA6oZ6d"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Call On Me (feat. Vancouver Sleep Clinic)",
         "url": "https://open.spotify.com/album/36qsZ0ZS3zVec6Bg8nRubI"
       },
@@ -2315,6 +2295,26 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Did You Really?",
+        "url": "https://open.spotify.com/album/4q7t6ig8158vrciDDJZUCk"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Freja",
+          "url": "https://open.spotify.com/artist/7rmUZLn14Yu6epkCEPGcVd"
+        }
+      ],
+      "duration_ms": 200859,
+      "name": "Did You Really?",
+      "url": "https://open.spotify.com/track/75WtlfvvdmR1GWdaA6oZ6d"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/0FwOjWiSfr5pQ9sAVrSLdq"
       },
@@ -2331,26 +2331,6 @@
       "duration_ms": 213036,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/52OBoIBBYB9R9UiIbWHKgF"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Owe Me Love",
-        "url": "https://open.spotify.com/album/0fqntVZUrEWGLrHwNDwp1Q"
-      },
-      "artists": [
-        {
-          "name": "Oliverse",
-          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
-        },
-        {
-          "name": "Hannah Avison",
-          "url": "https://open.spotify.com/artist/51iAmfBcr2WFpPopXyX4vr"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Owe Me Love",
-      "url": "https://open.spotify.com/track/34zwJfTEJbDXDD4gSwUar8"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2419,6 +2399,26 @@
       "duration_ms": 252200,
       "name": "Sail Away (feat. Jay Mason)",
       "url": "https://open.spotify.com/track/4r9qyANhnnv7q2ENG2ggre"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Owe Me Love",
+        "url": "https://open.spotify.com/album/0fqntVZUrEWGLrHwNDwp1Q"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        },
+        {
+          "name": "Hannah Avison",
+          "url": "https://open.spotify.com/artist/51iAmfBcr2WFpPopXyX4vr"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Owe Me Love",
+      "url": "https://open.spotify.com/track/34zwJfTEJbDXDD4gSwUar8"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2523,26 +2523,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Hurts Sometimes (with RUNN)",
-        "url": "https://open.spotify.com/album/64HRawr4ExQg35luwZxlql"
-      },
-      "artists": [
-        {
-          "name": "Crystal Skies",
-          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        }
-      ],
-      "duration_ms": 248625,
-      "name": "Hurts Sometimes (with RUNN)",
-      "url": "https://open.spotify.com/track/4IWE1369xmE7gOhQGFshYZ"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Play With You",
         "url": "https://open.spotify.com/album/2cRHpoN1heCtuKIHHxwo8w"
       },
@@ -2559,6 +2539,26 @@
       "duration_ms": 214005,
       "name": "Take Your Throne",
       "url": "https://open.spotify.com/track/6hZ9RASHR1lgLRtRjjjhDn"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Hurts Sometimes (with RUNN)",
+        "url": "https://open.spotify.com/album/64HRawr4ExQg35luwZxlql"
+      },
+      "artists": [
+        {
+          "name": "Crystal Skies",
+          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "duration_ms": 248625,
+      "name": "Hurts Sometimes (with RUNN)",
+      "url": "https://open.spotify.com/track/4IWE1369xmE7gOhQGFshYZ"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2695,22 +2695,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/3xVH7ahLB6T9AnnCekRV5o"
-      },
-      "artists": [
-        {
-          "name": "TWERL",
-          "url": "https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko"
-        }
-      ],
-      "duration_ms": 139241,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/0IRFKCE1lDyKOf12ZQ5CJm"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Glow In The Dark",
         "url": "https://open.spotify.com/album/3AMkR5uLWftipdTryaZz85"
       },
@@ -2727,6 +2711,22 @@
       "duration_ms": 249600,
       "name": "Glow In The Dark",
       "url": "https://open.spotify.com/track/1VDglOP1aicFIAQUolynFU"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/3xVH7ahLB6T9AnnCekRV5o"
+      },
+      "artists": [
+        {
+          "name": "TWERL",
+          "url": "https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko"
+        }
+      ],
+      "duration_ms": 139241,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/0IRFKCE1lDyKOf12ZQ5CJm"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -3007,6 +3007,26 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Heart of Stone (feat. Nevve)",
+        "url": "https://open.spotify.com/album/39KdcGfRCK7nzvqpJvczVX"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 208095,
+      "name": "Heart of Stone (feat. Nevve)",
+      "url": "https://open.spotify.com/track/5myN5N3sDQaRvMMVOTKtY9"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "When I'm Gone (NGHTMRE Remix)",
         "url": "https://open.spotify.com/album/7izHE9ywehTSlhRcTZKopg"
       },
@@ -3031,22 +3051,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Heart of Stone (feat. Nevve)",
-        "url": "https://open.spotify.com/album/39KdcGfRCK7nzvqpJvczVX"
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/6FhJbGFOc9MO1SM5zrfMkg"
       },
       "artists": [
         {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
         },
         {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
         }
       ],
-      "duration_ms": 208095,
-      "name": "Heart of Stone (feat. Nevve)",
-      "url": "https://open.spotify.com/track/5myN5N3sDQaRvMMVOTKtY9"
+      "duration_ms": 197538,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2nUDK9SvpAA5EEMOJ4Bsn4"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -3067,26 +3087,6 @@
       "duration_ms": 178285,
       "name": "Drive You Crazy",
       "url": "https://open.spotify.com/track/5XY6DN8SXjHtj55e7CkZpH"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/6FhJbGFOc9MO1SM5zrfMkg"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        },
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/2nUDK9SvpAA5EEMOJ4Bsn4"
     },
     {
       "added_at": "2024-03-22 04:00:00",

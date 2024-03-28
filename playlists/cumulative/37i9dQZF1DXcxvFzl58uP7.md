@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\.  Cover: Clairo
 
-931 songs - 2 day 0 hr 20 min
+932 songs - 2 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 | 2021-10-08 |  |
 | [Amtrak](https://open.spotify.com/track/5F6ekGcdu623mkhTVgk64Z) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Looking Back](https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z) | 2:56 | 2021-05-01 | 2022-12-15 |
 | [Amtrak](https://open.spotify.com/track/5qAfSmdzTbYQmFUQUN2scR) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Amtrak](https://open.spotify.com/album/55UJtm6GzBNM9wjR6twP5g) | 2:56 | 2021-05-01 | 2022-04-17 |
-| [another day](https://open.spotify.com/track/3GiaKFUtnd9N6SMaP5wOK6) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [another day](https://open.spotify.com/album/5uzyKEN1OSVCSAk1xTRcym) | 2:09 | 2023-09-08 |  |
+| [another day](https://open.spotify.com/track/3GiaKFUtnd9N6SMaP5wOK6) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [another day](https://open.spotify.com/album/5uzyKEN1OSVCSAk1xTRcym) | 2:09 | 2023-09-08 | 2024-03-28 |
 | [Another Moment \(That Hurt Me More Than Any Moment\)](https://open.spotify.com/track/42AsCRWwmQ1jNFwc7umFkR) | [Billy Uomo](https://open.spotify.com/artist/5sy7urwVs9FG9U82yvwmkY) | [All Trash No Love](https://open.spotify.com/album/3n619cmyhuoWFVwhTmRmDf) | 3:49 | 2019-09-18 | 2021-05-23 |
 | [Antidote](https://open.spotify.com/track/7GdGBGwFMg21mY9kNpNKXI) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/3fUfLlnvi1phe0vKhDBKwM) | 2:49 | 2019-07-30\* | 2022-07-29 |
 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 | 2021-02-27 |  |
@@ -607,6 +607,7 @@
 | [Out of Love](https://open.spotify.com/track/0ITjwjywJdyBk5jDCu8Zk5) | [Whose Rules](https://open.spotify.com/artist/3GAycRSOI4PRxEe6e1Ci8j) | [Out of Love](https://open.spotify.com/album/05LewJJSoCiOqJGv9NtH2H) | 2:39 | 2021-06-25 | 2022-04-28 |
 | [Out of State](https://open.spotify.com/track/5vlqIraHhAtLNw0BQ3iwlV) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Out of State](https://open.spotify.com/album/4fRJfG9tarXqhpBq5xzZ2r) | 3:45 | 2021-10-25 | 2022-04-20 |
 | [outside the party, inside the dream](https://open.spotify.com/track/0nIix5gcrnaapuG2iKq2UB) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [outside the party, inside the dream](https://open.spotify.com/album/0gFlRThS2FRBtka9xkScXw) | 3:08 | 2021-03-19 | 2022-07-23 |
+| [outside the party, inside the dream](https://open.spotify.com/track/1LcwYCQ78z4PvLiU2Qt3XV) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [outside the party, inside the dream](https://open.spotify.com/album/6r70ZDnApSWdvzHz3pQUVc) | 3:08 | 2024-01-12 |  |
 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 | 2019-09-11 |  |
 | [Over the Hill](https://open.spotify.com/track/5eFwQOHNE0zOwMRj9jhzGt) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Over the Hill](https://open.spotify.com/album/76igtoYKgzHd578j23y2Hb) | 2:47 | 2022-09-14 | 2023-08-26 |
 | [Panic Attack](https://open.spotify.com/track/4TfAkflaDVuAYjC9KZBJZK) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Panic Attack](https://open.spotify.com/album/4882yg0ncijjrB0hwgouLe) | 2:48 | 2023-01-20 | 2023-03-04 |

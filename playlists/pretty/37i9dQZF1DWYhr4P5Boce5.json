@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 202428,
+  "num_followers": 202478,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWFjYzgxZDk2MzlkOTQ1Nzg4ZjJlZGIxZmViZDA1YTkyZmRhZDRm",
+  "snapshot_id": "MCxlMzc3NGVhMjExNGIxZDM5YjNlYzkzNzgxNjZlN2M4MWY2NjMwNjkz",
   "tracks": [
     {
       "added_at": "2024-02-05 17:58:02",
@@ -876,7 +876,7 @@
       },
       "artists": [
         {
-          "name": "The Light the Heat",
+          "name": "The Light The Heat",
           "url": "https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR"
         }
       ],
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Imprint (Live in Memphis)",
+        "url": "https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "duration_ms": 232752,
+      "name": "Oh How I Love You - Bonus Track",
+      "url": "https://open.spotify.com/track/0af0z5Jks46ew0thVFET4u"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 226155,
       "name": "Beautiful (feat. India.Arie)",
       "url": "https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Imprint (Live in Memphis)",
-        "url": "https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb"
-      },
-      "artists": [
-        {
-          "name": "Zacardi Cortez",
-          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
-        }
-      ],
-      "duration_ms": 232752,
-      "name": "Oh How I Love You - Bonus Track",
-      "url": "https://open.spotify.com/track/0af0z5Jks46ew0thVFET4u"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "The Writer's Room: An Acoustic EP",
-        "url": "https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "The Day Before You - Acoustic",
-      "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Every Falling Tear",
         "url": "https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 246461,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "The Writer's Room: An Acoustic EP",
+        "url": "https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "The Day Before You - Acoustic",
+      "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Dear Future Wife (Acoustic)",
-        "url": "https://open.spotify.com/album/1VKgGEv8tyviSxzw181xxg"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 168069,
-      "name": "Dear Future Wife - Acoustic",
-      "url": "https://open.spotify.com/track/2MIbcBadDFvf6WQghSFekw"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "NATIVE TONGUE",
         "url": "https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 125598,
       "name": "YOU'RE THE ONE I WANT",
       "url": "https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Dear Future Wife (Acoustic)",
+        "url": "https://open.spotify.com/album/1VKgGEv8tyviSxzw181xxg"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 168069,
+      "name": "Dear Future Wife - Acoustic",
+      "url": "https://open.spotify.com/track/2MIbcBadDFvf6WQghSFekw"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Love Will Never Fail",
-        "url": "https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h"
-      },
-      "artists": [
-        {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        }
-      ],
-      "duration_ms": 199826,
-      "name": "Love Will Never Fail (I Corinthians 13)",
-      "url": "https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Easy Never Needed You",
         "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
       },
@@ -1755,18 +1739,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Kundi",
-        "url": "https://open.spotify.com/album/7kKQg3ltXjslGxkhXEzG5Q"
+        "name": "Love Will Never Fail",
+        "url": "https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h"
       },
       "artists": [
         {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Kundi",
-      "url": "https://open.spotify.com/track/7lEbed8bJ3kVRXSv4eJUwW"
+      "duration_ms": 199826,
+      "name": "Love Will Never Fail (I Corinthians 13)",
+      "url": "https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1819,6 +1803,22 @@
       "duration_ms": 268179,
       "name": "Dear Future Husband",
       "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Kundi",
+        "url": "https://open.spotify.com/album/7kKQg3ltXjslGxkhXEzG5Q"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Kundi",
+      "url": "https://open.spotify.com/track/7lEbed8bJ3kVRXSv4eJUwW"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Wait For You",
-        "url": "https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw"
-      },
-      "artists": [
-        {
-          "name": "Marie Love",
-          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 207986,
       "name": "If Only",
       "url": "https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw"
+      },
+      "artists": [
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "TEMPERATURA",
+        "url": "https://open.spotify.com/album/6Zd0nWUKXIsOBituSPhqK6"
+      },
+      "artists": [
+        {
+          "name": "Don Ryvcko",
+          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
+        }
+      ],
+      "duration_ms": 111910,
+      "name": "TEMPERATURA",
+      "url": "https://open.spotify.com/track/5RwBAq3yfF3skrMDgV2GVA"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "For the Soul",
         "url": "https://open.spotify.com/album/1fccj2iThKlGrHdCq8lNbd"
       },
@@ -1991,22 +2007,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "TEMPERATURA",
-        "url": "https://open.spotify.com/album/6Zd0nWUKXIsOBituSPhqK6"
-      },
-      "artists": [
-        {
-          "name": "Don Ryvcko",
-          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
-        }
-      ],
-      "duration_ms": 111910,
-      "name": "TEMPERATURA",
-      "url": "https://open.spotify.com/track/5RwBAq3yfF3skrMDgV2GVA"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "A Beautiful Day in the Neighborhood",
         "url": "https://open.spotify.com/album/3K4F0mndWLXEE06UsedN5I"
       },
@@ -2019,22 +2019,6 @@
       "duration_ms": 138000,
       "name": "With You",
       "url": "https://open.spotify.com/track/7fB1Amw3clfbFAxksiowUg"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "True Beauty",
-        "url": "https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2055,34 +2039,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf"
+        "name": "True Beauty",
+        "url": "https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re"
       },
       "artists": [
         {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
         }
       ],
-      "duration_ms": 246240,
-      "name": "I'm in Love With You",
-      "url": "https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "2nd Happy",
-        "url": "https://open.spotify.com/album/4qo16UyarKgPkXdSZkNK0s"
-      },
-      "artists": [
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 225890,
-      "name": "2nd Happy",
-      "url": "https://open.spotify.com/track/5q38R7YPq4uHSpVTUYye1k"
+      "duration_ms": 228093,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2099,6 +2067,22 @@
       "duration_ms": 200133,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/6r1IIwzxt1m8Ks8Me6V2Av"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "I'm in Love With You",
+      "url": "https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2127,22 +2111,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Till I Found You",
-        "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
+        "name": "2nd Happy",
+        "url": "https://open.spotify.com/album/4qo16UyarKgPkXdSZkNK0s"
       },
       "artists": [
         {
-          "name": "Becca Bradley",
-          "url": "https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU"
-        },
-        {
-          "name": "The Psalm Room",
-          "url": "https://open.spotify.com/artist/2oPhfJuwBg41qIyMzzSsaW"
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
         }
       ],
-      "duration_ms": 206999,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
+      "duration_ms": 225890,
+      "name": "2nd Happy",
+      "url": "https://open.spotify.com/track/5q38R7YPq4uHSpVTUYye1k"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2159,6 +2139,26 @@
       "duration_ms": 190000,
       "name": "I do",
       "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Till I Found You",
+        "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
+      },
+      "artists": [
+        {
+          "name": "Becca Bradley",
+          "url": "https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU"
+        },
+        {
+          "name": "The Psalm Room",
+          "url": "https://open.spotify.com/artist/2oPhfJuwBg41qIyMzzSsaW"
+        }
+      ],
+      "duration_ms": 206999,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Only Time Will Tell",
-        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Only Time Will Tell",
-      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "The Ultimate Collection: Love Songs",
         "url": "https://open.spotify.com/album/0lYU6ZXAFCW6OA8N8v3xRX"
       },
@@ -2267,22 +2251,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/3j0qFagoLanhV9upwHLv93"
+        "name": "Only Time Will Tell",
+        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
       },
       "artists": [
         {
-          "name": "Royce Lovett",
-          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
-        },
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
         }
       ],
-      "duration_ms": 173861,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2N61h8fv13gVHvDf4EcZuT"
+      "duration_ms": 198000,
+      "name": "Only Time Will Tell",
+      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2299,6 +2279,26 @@
       "duration_ms": 178748,
       "name": "What Will She Say",
       "url": "https://open.spotify.com/track/0PHlJJa4i5f2DV1QrL65s9"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/3j0qFagoLanhV9upwHLv93"
+      },
+      "artists": [
+        {
+          "name": "Royce Lovett",
+          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
+        },
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 173861,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2N61h8fv13gVHvDf4EcZuT"
     },
     {
       "added_at": "2024-02-05 17:58:02",

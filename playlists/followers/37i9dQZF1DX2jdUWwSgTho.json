@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 150127,
+  "2024-03-28": 150230,
   "date_first_scraped": "2023-09-29",
   "description": "Les hits pr\u00e9f\u00e9r\u00e9s des enfants. ",
   "name": "Top Hits Kids",
@@ -1194,7 +1194,7 @@
     },
     {
       "album": {
-        "name": "SKEU SKEU (feat. wilsko) [Speed Up]",
+        "name": "SKEU SKEU (feat. wilsko & 7ia) [Speed Up]",
         "url": "https://open.spotify.com/album/0CYCJc1xZYhd9BIaKXCdn7"
       },
       "artists": [
@@ -1205,13 +1205,17 @@
         {
           "name": "wilsko",
           "url": "https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha"
+        },
+        {
+          "name": "7ia",
+          "url": "https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG"
         }
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 155359,
-      "name": "SKEU SKEU (feat. wilsko) - Speed Up",
+      "name": "SKEU SKEU (feat. wilsko & 7ia) - Speed Up",
       "url": "https://open.spotify.com/track/60XZ7ePJQZqRJio62G5CnM"
     },
     {

@@ -10538,6 +10538,24 @@
     {
       "album": {
         "name": "\u8fd1\u5e74\u3001\u5e73\u548c\u306a\u65e5\u3005\u304c\u7d9a\u3044\u305f\u305b\u3044\u3067",
+        "url": "https://open.spotify.com/album/6de8j6rMIzRDoyQXhRTF9V"
+      },
+      "artists": [
+        {
+          "name": "Hwyl",
+          "url": "https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219600,
+      "name": "\u8fd1\u5e74\u3001\u5e73\u548c\u306a\u65e5\u3005\u304c\u7d9a\u3044\u305f\u305b\u3044\u3067",
+      "url": "https://open.spotify.com/track/0ZD6Jt4hVNerQFJFezQU3k"
+    },
+    {
+      "album": {
+        "name": "\u8fd1\u5e74\u3001\u5e73\u548c\u306a\u65e5\u3005\u304c\u7d9a\u3044\u305f\u305b\u3044\u3067",
         "url": "https://open.spotify.com/album/67DxXq2OiiHs8OS0L5hlZn"
       },
       "artists": [
@@ -10548,7 +10566,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 219600,
       "name": "\u8fd1\u5e74\u3001\u5e73\u548c\u306a\u65e5\u3005\u304c\u7d9a\u3044\u305f\u305b\u3044\u3067",
       "url": "https://open.spotify.com/track/0vIHpcdQp2oWWOijs82reu"

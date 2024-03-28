@@ -1,29 +1,13 @@
 {
   "description": "Porque no to' e' Dembow en RD loco. Portada: Yomel El Meloso",
-  "num_followers": 229931,
+  "num_followers": 230015,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWExM2Y1Y2NkZmNhOTc4ZjQxYjY4MjM0ZTg0NGQ0MmI5YWI1Njgx",
+  "snapshot_id": "MCxiMzZjMTllZWNhM2RkMzFiMTM3MGViZjZhM2YwNWYxZGY2Nzc1NmZi",
   "tracks": [
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "En Manada",
-        "url": "https://open.spotify.com/album/4GRWtFeComKH2ArqIgCsRT"
-      },
-      "artists": [
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        }
-      ],
-      "duration_ms": 127988,
-      "name": "En Manada",
-      "url": "https://open.spotify.com/track/71GL1EVxnJQhrZaNX3ZrMM"
-    },
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
@@ -39,26 +23,6 @@
       "duration_ms": 163514,
       "name": "Divino",
       "url": "https://open.spotify.com/track/2pVgmby0wfULOytCtpmaQK"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Una Chuky",
-        "url": "https://open.spotify.com/album/0iLqKQ5K3fIYH70llIl3hC"
-      },
-      "artists": [
-        {
-          "name": "El Jhota",
-          "url": "https://open.spotify.com/artist/0YX8LuMQAh6ousnyhwXbkz"
-        },
-        {
-          "name": "Menor Queen",
-          "url": "https://open.spotify.com/artist/1MsuHuJMhPWFbzl2KWLyzz"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Una Chuky",
-      "url": "https://open.spotify.com/track/6T1335enI8UZIz9N0VABb5"
     },
     {
       "added_at": "2024-02-15 16:52:33",
@@ -101,26 +65,6 @@
       "url": "https://open.spotify.com/track/4iXYOa1juyX4ovosDzNSMv"
     },
     {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Sushi",
-        "url": "https://open.spotify.com/album/7g4edTQkCDWUEjM3D7f6Xx"
-      },
-      "artists": [
-        {
-          "name": "Yuriel Es Musica",
-          "url": "https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK"
-        },
-        {
-          "name": "Real Unidad",
-          "url": "https://open.spotify.com/artist/7nC9Qq3c3RisY9vYcwItzT"
-        }
-      ],
-      "duration_ms": 163977,
-      "name": "Sushi",
-      "url": "https://open.spotify.com/track/09GpTKIbVAYdVBalUf5Piz"
-    },
-    {
       "added_at": "2024-01-12 21:24:53",
       "album": {
         "name": "Bad Bxtch",
@@ -135,6 +79,22 @@
       "duration_ms": 140603,
       "name": "Bad Bxtch",
       "url": "https://open.spotify.com/track/4BEcJvyMdI4ux7WlNCzo3R"
+    },
+    {
+      "added_at": "2024-03-27 20:37:44",
+      "album": {
+        "name": "Ante",
+        "url": "https://open.spotify.com/album/5nwY2q23E9tzoONdq8x0La"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "duration_ms": 125087,
+      "name": "Ante",
+      "url": "https://open.spotify.com/track/6GjJOJ3TWG4TTNmQ12fInn"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -233,22 +193,6 @@
       "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "HMC",
-        "url": "https://open.spotify.com/album/2d7N0rFscufWqIfUpanDRX"
-      },
-      "artists": [
-        {
-          "name": "Lito Kirino",
-          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
-        }
-      ],
-      "duration_ms": 138631,
-      "name": "HMC",
-      "url": "https://open.spotify.com/track/5wrDKWZ7HMZxcDswYN8m5n"
-    },
-    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "Tiguere DK",
@@ -265,6 +209,62 @@
       "url": "https://open.spotify.com/track/51TtkQklDfojAEDEF2l8zM"
     },
     {
+      "added_at": "2024-03-27 20:37:44",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        },
+        {
+          "name": "Lary Over",
+          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+        }
+      ],
+      "duration_ms": 231909,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "HMC",
+        "url": "https://open.spotify.com/album/2d7N0rFscufWqIfUpanDRX"
+      },
+      "artists": [
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        }
+      ],
+      "duration_ms": 138631,
+      "name": "HMC",
+      "url": "https://open.spotify.com/track/5wrDKWZ7HMZxcDswYN8m5n"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Una Chuky",
+        "url": "https://open.spotify.com/album/0iLqKQ5K3fIYH70llIl3hC"
+      },
+      "artists": [
+        {
+          "name": "El Jhota",
+          "url": "https://open.spotify.com/artist/0YX8LuMQAh6ousnyhwXbkz"
+        },
+        {
+          "name": "Menor Queen",
+          "url": "https://open.spotify.com/artist/1MsuHuJMhPWFbzl2KWLyzz"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Una Chuky",
+      "url": "https://open.spotify.com/track/6T1335enI8UZIz9N0VABb5"
+    },
+    {
       "added_at": "2024-01-12 21:24:53",
       "album": {
         "name": "Voy Despu\u00e9s",
@@ -279,22 +279,6 @@
       "duration_ms": 202814,
       "name": "Voy Despu\u00e9s",
       "url": "https://open.spotify.com/track/2FjjWl25GW1MPVIgHgZcyD"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Nota",
-        "url": "https://open.spotify.com/album/69WYi6VDkwlyoHfv5SO5b7"
-      },
-      "artists": [
-        {
-          "name": "Lismar",
-          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "Nota",
-      "url": "https://open.spotify.com/track/18xTLZz0jnxFCz0krVzFme"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -319,6 +303,26 @@
       "duration_ms": 133894,
       "name": "Tamo Bien",
       "url": "https://open.spotify.com/track/1j2BZHUubKyu398MZLSE8p"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Sushi",
+        "url": "https://open.spotify.com/album/7g4edTQkCDWUEjM3D7f6Xx"
+      },
+      "artists": [
+        {
+          "name": "Yuriel Es Musica",
+          "url": "https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK"
+        },
+        {
+          "name": "Real Unidad",
+          "url": "https://open.spotify.com/artist/7nC9Qq3c3RisY9vYcwItzT"
+        }
+      ],
+      "duration_ms": 163977,
+      "name": "Sushi",
+      "url": "https://open.spotify.com/track/09GpTKIbVAYdVBalUf5Piz"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -445,6 +449,22 @@
       "url": "https://open.spotify.com/track/4ha1GYdpaquNwEe0WAj7eN"
     },
     {
+      "added_at": "2024-03-27 20:37:44",
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/1RdBD1eIIiTwVlfUxba1vS"
+      },
+      "artists": [
+        {
+          "name": "Aron Luix",
+          "url": "https://open.spotify.com/artist/0g8PbULxKIoYGWwYtpaVqv"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/2gCm8iun5geZCA2PBC4J4J"
+    },
+    {
       "added_at": "2024-02-29 19:27:26",
       "album": {
         "name": "Vite Que No Es Lo Mismo",
@@ -459,6 +479,22 @@
       "duration_ms": 130892,
       "name": "Vite Que No Es Lo Mismo",
       "url": "https://open.spotify.com/track/5ncbor51u5HvTIb67V5J7L"
+    },
+    {
+      "added_at": "2024-03-27 20:37:44",
+      "album": {
+        "name": "Me Hace Falta",
+        "url": "https://open.spotify.com/album/6iJEthERxJCwolggfRnGMO"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "duration_ms": 181498,
+      "name": "Me Hace Falta",
+      "url": "https://open.spotify.com/track/0bc6usCdraQ0M3tXqemELa"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -673,6 +709,22 @@
       "url": "https://open.spotify.com/track/2W5YWGCKJoYAVBr34yDuhh"
     },
     {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Nota",
+        "url": "https://open.spotify.com/album/69WYi6VDkwlyoHfv5SO5b7"
+      },
+      "artists": [
+        {
+          "name": "Lismar",
+          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "Nota",
+      "url": "https://open.spotify.com/track/18xTLZz0jnxFCz0krVzFme"
+    },
+    {
       "added_at": "2024-02-23 07:01:51",
       "album": {
         "name": "BPL",
@@ -733,30 +785,6 @@
       "url": "https://open.spotify.com/track/4k869Bb2tOOH1l4HpIQK5D"
     },
     {
-      "added_at": "2024-02-23 07:01:51",
-      "album": {
-        "name": "Bailando Reggaeton",
-        "url": "https://open.spotify.com/album/1XW7yh0W0YSUu4bN3BQqHI"
-      },
-      "artists": [
-        {
-          "name": "Mike Moonnight",
-          "url": "https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf"
-        },
-        {
-          "name": "Christian Lopez RD",
-          "url": "https://open.spotify.com/artist/3XS0NFXQjOGmQnwwIhco70"
-        },
-        {
-          "name": "Jay Ocas",
-          "url": "https://open.spotify.com/artist/0JF1KwarnlrDobMMJsfr6o"
-        }
-      ],
-      "duration_ms": 207164,
-      "name": "Bailando Reggaeton",
-      "url": "https://open.spotify.com/track/6KjuG9Kkfw25nEO8hjEpbG"
-    },
-    {
       "added_at": "2023-07-18 04:00:00",
       "album": {
         "name": "Molly",
@@ -801,26 +829,6 @@
       "url": "https://open.spotify.com/track/3VpWuol3SC0WwOMUYWPegy"
     },
     {
-      "added_at": "2024-02-15 16:52:33",
-      "album": {
-        "name": "Comprenda",
-        "url": "https://open.spotify.com/album/16KdhZsx1fT3fNEZI8F4MM"
-      },
-      "artists": [
-        {
-          "name": "Flow 28",
-          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
-        },
-        {
-          "name": "Yaya La Voz",
-          "url": "https://open.spotify.com/artist/51A6WzUhkX65jdXnYW0YvK"
-        }
-      ],
-      "duration_ms": 224809,
-      "name": "Comprenda",
-      "url": "https://open.spotify.com/track/4AZLSGxbrVEKa93Bdk1wXT"
-    },
-    {
       "added_at": "2023-07-18 04:00:00",
       "album": {
         "name": "Guanguan",
@@ -835,6 +843,22 @@
       "duration_ms": 169483,
       "name": "Guanguan",
       "url": "https://open.spotify.com/track/4qGfvoFPX3DmooDxvM9kTs"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "En Manada",
+        "url": "https://open.spotify.com/album/4GRWtFeComKH2ArqIgCsRT"
+      },
+      "artists": [
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "duration_ms": 127988,
+      "name": "En Manada",
+      "url": "https://open.spotify.com/track/71GL1EVxnJQhrZaNX3ZrMM"
     },
     {
       "added_at": "2023-07-18 04:00:00",
@@ -1405,22 +1429,6 @@
       "url": "https://open.spotify.com/track/6n1ZXoxoYUWCV649hii6Hu"
     },
     {
-      "added_at": "2023-09-29 02:04:59",
-      "album": {
-        "name": "Pa Bailar",
-        "url": "https://open.spotify.com/album/2XGs1SeLkODjAodsQsYllE"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 140338,
-      "name": "Pa Bailar",
-      "url": "https://open.spotify.com/track/4pJWUqNcvHG92YZF73WqPG"
-    },
-    {
       "added_at": "2023-08-09 02:57:44",
       "album": {
         "name": "Te Estudiamos",
@@ -1439,26 +1447,6 @@
       "duration_ms": 164709,
       "name": "Te Estudiamos",
       "url": "https://open.spotify.com/track/02qjedAfRU0kjEfoCUDg6h"
-    },
-    {
-      "added_at": "2023-08-09 02:57:44",
-      "album": {
-        "name": "De Caco",
-        "url": "https://open.spotify.com/album/1p8KNlk3ApRkK1zeZyr8ws"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        },
-        {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
-        }
-      ],
-      "duration_ms": 174471,
-      "name": "De Caco",
-      "url": "https://open.spotify.com/track/44MR7qM3ze5nhsZWPcaPBd"
     },
     {
       "added_at": "2023-08-09 02:57:44",

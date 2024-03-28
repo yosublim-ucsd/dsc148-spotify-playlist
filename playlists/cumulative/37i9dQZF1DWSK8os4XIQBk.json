@@ -7649,17 +7649,17 @@
     },
     {
       "album": {
-        "name": "HIXTAPE Vol. 3: DIFFTAPE (Small Batch)",
+        "name": "HIXTAPE: Vol 3: DIFFTAPE (Small Batch)",
         "url": "https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy"
       },
       "artists": [
         {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
           "name": "Joe Diffie",
           "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        },
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
         },
         {
           "name": "Post Malone",
@@ -7670,7 +7670,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 216194,
-      "name": "Pickup Man (feat. Post Malone)",
+      "name": "Pickup Man",
       "url": "https://open.spotify.com/track/4MXqpnu9lAqqkjSHVlBVoZ"
     },
     {

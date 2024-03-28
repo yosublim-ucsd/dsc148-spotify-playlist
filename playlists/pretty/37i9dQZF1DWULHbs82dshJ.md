@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 
 > Trapperz Brasil apresenta..\. O Melhor do Hip Hop 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,929 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,030 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 32 | [Só de Mal](https://open.spotify.com/track/4hWp2U1XNZkXK23iyyfWgh) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Só de Mal](https://open.spotify.com/album/4xZt0tVpMGl5jS3qFCJYQA) | 3:14 |
 | 33 | [Se For Pra Somar](https://open.spotify.com/track/3ALHbM0GM6zxrke6upBx9h) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Mc Urubuzinho](https://open.spotify.com/artist/0FoX5QU1aUxCGGMmrhrHok), [Tivityn](https://open.spotify.com/artist/17eBIeZfCeaETi2IgqQlxE) | [Se For Pra Somar](https://open.spotify.com/album/0Y6Es6H6qnRDOP14uAW98e) | 4:38 |
 | 34 | [Karma](https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 2:57 |
-| 35 | [Deus Perdoa](https://open.spotify.com/track/4tuFNhM69UakXdPg4RrNvp) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Deus Perdoa](https://open.spotify.com/album/0qruvxQou6I8A0fmUiMsFv) | 2:17 |
+| 35 | [Deus Perdoa](https://open.spotify.com/track/4tuFNhM69UakXdPg4RrNvp) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Deus Perdoa](https://open.spotify.com/album/0qruvxQou6I8A0fmUiMsFv) | 2:17 |
 | 36 | [Ai Calica](https://open.spotify.com/track/0XoZIz7YdOXRyvVTk9U1B5) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [Ai Calica](https://open.spotify.com/album/2GwJhgSrxhdleGeLMQ7Cb2) | 3:30 |
 | 37 | [De Lala \- Spotify Singles](https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Dj Binho](https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk), [Dj Geh](https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh) | [De Lala \- Spotify Singles](https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX) | 2:40 |
 | 38 | [Coração de Gelo](https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 49 | [INJURIADO](https://open.spotify.com/track/0Z04QToWHQUCzRT7OT99sE) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [INJURIADO](https://open.spotify.com/album/54icBT2gO11RCf5RESZIbZ) | 2:30 |
 | 50 | [Ak do Freddy Krueger](https://open.spotify.com/track/1wkEiN7312E1KM5BnKvk4D) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [Nandela](https://open.spotify.com/artist/5ZBgyN7hk6t2s74XcQyxrY) | [Censurado pela Mídia, Amado pelas Ruas](https://open.spotify.com/album/2HKewBzZuFdsbVjl4jJlCu) | 3:16 |
 
-Snapshot ID: `MCxmMTZmM2UwNzg0MWU5MDY5MDg3YzU5YjI0OTZkZmI2MmZlY2M2MTRl`
+Snapshot ID: `MCxlZDVlMDc0ZmMzZTQ1NDJiMWJhOTQ1YjE4ODNjODczMmNhZTM3YmY5`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 ### [Hip\-Hop Malayalam](https://open.spotify.com/playlist/37i9dQZF1DX8OdFBus1U8c)
 
-> Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Vedan, Sushin Shyam
+> Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Neeraj Madhav
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,664 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,808 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 14 | [THALAKKANAM](https://open.spotify.com/track/0rirJuOchyc5bDqDpL84YE) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [THALAKKANAM](https://open.spotify.com/album/1FpEMSDbXmzyl2AHpHqEYW) | 2:51 |
 | 15 | [Theruvinte Mon](https://open.spotify.com/track/0uf8atzwCLOdHhn7Fh3Ms1) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf), [HRISHI](https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O) | [Theruvinte Mon](https://open.spotify.com/album/1n3teNhKap8DypDAAEHdoI) | 2:43 |
 | 16 | [La Vida](https://open.spotify.com/track/6oScY8qe1DGd6PlrCJ7e44) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 2:21 |
-| 17 | [Chetharu](https://open.spotify.com/track/7fjoISg1aE6qSevZZw9TUn) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Chetharu](https://open.spotify.com/album/3xsreOHvjCCzqXI6YMUxFB) | 2:33 |
+| 17 | [Chetharu](https://open.spotify.com/track/7fjoISg1aE6qSevZZw9TUn) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et) | [Chetharu](https://open.spotify.com/album/3xsreOHvjCCzqXI6YMUxFB) | 2:33 |
 | 18 | [Khalbum Katti](https://open.spotify.com/track/70eTArYv8s81pKECLgL1il) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [RXZOR](https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9) | [Khalbum Katti](https://open.spotify.com/album/3smw8wrJ6fnvq1CyUcNgkb) | 3:29 |
 | 19 | [Dracula](https://open.spotify.com/track/6YLYJEuTASwSvckjFzZ6mJ) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et) | [Dracula](https://open.spotify.com/album/2LibHdCD0kbHnJyEsy1QCl) | 3:05 |
 | 20 | [Ookkatte](https://open.spotify.com/track/6djlUD5bLEJ2ZMZ9LEaX7g) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [Achayan](https://open.spotify.com/artist/46eo6xKxaZmYnnKNwpyB4C) | [Ookkatte](https://open.spotify.com/album/7MaBmAwa4dn0Yt5gtO2mQN) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 74 | [Hope](https://open.spotify.com/track/3oMeTMaSY44CZLkefVhQHR) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/3ayGUpvmbY5mfGClBpjI6R) | 3:18 |
 | 75 | [Lokam Mayakathilo](https://open.spotify.com/track/22QA31omSDg4TvqgxaJBPO) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Blesslee](https://open.spotify.com/artist/0Gl81Y0B87WITIgM34VLGZ), [Achayan](https://open.spotify.com/artist/46eo6xKxaZmYnnKNwpyB4C) | [Lokam Mayakathilo](https://open.spotify.com/album/43xEqVTSaLK0Yn1TrffeXS) | 4:36 |
 
-Snapshot ID: `MCwxNzZkYWRkYmRhNzJmOTNkNGQ3YjdmYzBiNDE2YWUzMTU2NmRmNzMy`
+Snapshot ID: `MCwwMjA2OGQwODJjYTYzZDQ5OWZiYmM1ODk3Y2ExOTA1MDJkN2MzZDlh`

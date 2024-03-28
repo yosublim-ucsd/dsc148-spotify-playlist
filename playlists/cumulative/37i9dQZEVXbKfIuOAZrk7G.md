@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-2,441 songs - 5 day 9 hr 55 min
+2,442 songs - 5 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -806,7 +806,7 @@
 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2022-10-12 | 2022-12-12 |
 | [golden hour](https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour](https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS) | 3:29 | 2022-08-09 | 2022-09-25 |
 | [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 | 2022-12-01 | 2023-01-09 |
-| [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 | 2024-02-09 |  |
+| [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 | 2024-02-09 | 2024-03-28 |
 | [GOOD DAY](https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw) | 2:50 | 2024-02-08 | 2024-02-10 |
 | [Good Lookin'](https://open.spotify.com/track/1BHse4ulQefGTZZIeziZqr) | [Dixon Dallas](https://open.spotify.com/artist/2xmmjD4GfeJ5BRueLvPqec) | [Good Lookin'](https://open.spotify.com/album/1kqhSP2z6ZJJtYhEZYVZ0w) | 2:46 | 2023-07-25 | 2023-10-20 |
 | [Good Looking](https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E) | 3:34 | 2022-05-24 | 2022-06-23 |
@@ -831,7 +831,7 @@
 | [H00DBYAIR](https://open.spotify.com/track/5EqYMOxwZyhneCfMU35pMQ) | [wzzywrld](https://open.spotify.com/artist/4tMG97uFOBETyazRgjEFac) | [H00DBYAIR](https://open.spotify.com/album/1OMnOFAcLBsdk9TcAunnIm) | 3:32 | 2024-01-09 | 2024-01-11 |
 | [Habang Buhay](https://open.spotify.com/track/63bmIgH9sS6sX5Sc7MetGq) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 | 2021-12-31 | 2022-02-08 |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-09-08 | 2022-10-02 |
-| [Half of forever](https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Half of forever](https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc) | 2:33 | 2024-01-23 | 2024-03-27 |
+| [Half of forever](https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Half of forever](https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc) | 2:33 | 2024-01-23 |  |
 | [Half On a Sack](https://open.spotify.com/track/0KXO9R8yUd1BJjkEWXtor4) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Most Known Unknown \(Explicit\)](https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF) | 3:26 | 2022-01-04 | 2022-02-02 |
 | [Halloween \- Mix\-O\-Lydian 1981](https://open.spotify.com/track/5QOvYYp7yRSY6LP7Vm48br) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [The Misfits Box Set](https://open.spotify.com/album/6vZ6KNlP8hReYxJVuU7G42) | 1:52 | 2022-11-02 | 2023-11-09 |
 | [Halloween Theme](https://open.spotify.com/track/6Z36wt7oo6xm2uGN00PnTq) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq), [Cody Carpenter](https://open.spotify.com/artist/5rJxl4BLLAaFRSNgAz2hSg), [Daniel Davies](https://open.spotify.com/artist/0YaDmIGxP3HVcH7xvkpvSP) | [Halloween \(Original 2018 Motion Picture Soundtrack\)](https://open.spotify.com/album/5CKWm3CJVrTSttgNyX90LM) | 3:02 | 2022-11-01 | 2023-11-09 |
@@ -863,7 +863,7 @@
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2022-12-14 | 2023-02-10 |
 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:24 | 2023-08-15 | 2023-08-23 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2022-12-04 | 2023-12-12 |
-| [Heather](https://open.spotify.com/track/7srgKFmzrRTvvV2qNoqVT1) | [overthxnk](https://open.spotify.com/artist/2wMrMnimoHzZoZ5e0BCrZ3) | [Heather](https://open.spotify.com/album/6Haj6AiKuqOur3tPb4PmGV) | 1:55 | 2024-03-21 |  |
+| [Heather](https://open.spotify.com/track/7srgKFmzrRTvvV2qNoqVT1) | [overthxnk](https://open.spotify.com/artist/2wMrMnimoHzZoZ5e0BCrZ3) | [Heather](https://open.spotify.com/album/6Haj6AiKuqOur3tPb4PmGV) | 1:55 | 2024-03-21 | 2024-03-28 |
 | [Heather](https://open.spotify.com/track/0N0FqyIrtJZx1vuPOzC0eN) | [overthxnk](https://open.spotify.com/artist/2wMrMnimoHzZoZ5e0BCrZ3), [gr\_phs](https://open.spotify.com/artist/4gaFoA5CXTr18ozwKfopSk) | [Heather](https://open.spotify.com/album/28A7mqiiqOAgda8oy5rJxN) | 1:55 | 2024-03-20 | 2024-03-22 |
 | [Heather On The Hill](https://open.spotify.com/track/7N3emAP0mWt2OYqxs0XYpc) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Heather On The Hill](https://open.spotify.com/album/2beYnTms954gTl7cYEupjN) | 2:19 | 2024-01-23 | 2024-02-11 |
 | [Heave Away](https://open.spotify.com/track/2YnYkMnSOC4z9bWjriZH3t) | [The Fables](https://open.spotify.com/artist/6m7YfL6SLo94WxTEXHVaFN) | [Homebrew 6](https://open.spotify.com/album/2WwR1ynGzdFY4WDmm0p5PW) | 2:45 | 2022-12-31 | 2023-01-16 |
@@ -1385,6 +1385,7 @@
 | [Monsters](https://open.spotify.com/track/4SykS8RWkF6eK6xeua7XLP) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Once Upon a Mind](https://open.spotify.com/album/4gkWfdUgz4jWrGx4sKQpb4) | 4:19 | 2023-02-24 | 2023-03-04 |
 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn) | 1:01 | 2023-06-15 | 2023-07-12 |
 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 | 2023-07-11 | 2023-08-16 |
+| [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1) | 1:54 | 2024-03-27 |  |
 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 | 2024-01-08 | 2024-02-09 |
 | [Montana Flow](https://open.spotify.com/track/08J3GDrAnq1uFCSVnjs9x9) | [Sosa](https://open.spotify.com/artist/00oWcaID7J6ns2KY5jsMG2) | [Montana Flow](https://open.spotify.com/album/2DlGXQCBbfQXu6TGbvzfvo) | 2:22 | 2022-07-22 | 2022-07-29 |
 | [Monëy so big](https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:40 | 2022-01-14 | 2022-03-30 |

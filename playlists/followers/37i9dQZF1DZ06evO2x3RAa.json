@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 462,
+  "2024-03-28": 462,
   "date_first_scraped": "2021-12-29",
   "description": "This is Sonny Okosun. The essential tracks, all in one playlist.",
   "name": "This Is Sonny Okosun",
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 113880,
       "name": "Chukwu Nuru Onum (Ibo)",
       "url": "https://open.spotify.com/track/0WQSMSLscRr7V9bjHD7PUX"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 218160,
       "name": "Gberure (Yoruba)",
       "url": "https://open.spotify.com/track/56Cl07sEQwxRD8Ej7sY9y1"

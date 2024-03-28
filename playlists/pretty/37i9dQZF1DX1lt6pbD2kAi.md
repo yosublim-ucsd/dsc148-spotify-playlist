@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 
 > Ana Castela e os artistas mais ouvidos no Brasil em 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,138 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,238 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 19 | [Narcisista \- Ao Vivo](https://open.spotify.com/track/4dHMuSjpkUcWW3zZehOFj7) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Portugal, Vol\. 1](https://open.spotify.com/album/5sOUswv6fXXrAOYx5P2a9T) | 3:31 |
 | 20 | [Banco do Carona](https://open.spotify.com/track/7bz3kEKKtEONtzxB6jrnb5) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [DJ BOY](https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC Vine7](https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP), [Mc Robs](https://open.spotify.com/artist/5jysNZ8I6vAiNTsFbrIj1K) | [Banco do Carona](https://open.spotify.com/album/2asMgD4QCIQOJ8OiaB9Brw) | 7:30 |
 | 21 | [Toca o Trompete](https://open.spotify.com/track/54u86CmMqGI1rRuULlTqaB) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Cadê o After? Pt\. 1](https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww) | 2:43 |
-| 22 | [Deus Perdoa](https://open.spotify.com/track/4tuFNhM69UakXdPg4RrNvp) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Deus Perdoa](https://open.spotify.com/album/0qruvxQou6I8A0fmUiMsFv) | 2:17 |
+| 22 | [Deus Perdoa](https://open.spotify.com/track/4tuFNhM69UakXdPg4RrNvp) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Deus Perdoa](https://open.spotify.com/album/0qruvxQou6I8A0fmUiMsFv) | 2:17 |
 | 23 | [Mágica \- Ao Vivo](https://open.spotify.com/track/1UdVuXvwvIcXe8gDaSIB4n) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Original \(Ao Vivo\)](https://open.spotify.com/album/6F99dp0PeGXKnzV7zQdipO) | 2:51 |
 | 24 | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/album/54nMZ1uU3fJFROh7jEymzB) | 3:41 |
 | 25 | [Covardia](https://open.spotify.com/track/5y7yYXNSsT89A27DQxbmUL) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Covardia](https://open.spotify.com/album/5Bqlwew4I7DSJ2nK0jR53u) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 49 | [Diferentão \- Ao Vivo](https://open.spotify.com/track/3PLdcrfVesYKyTpS1EXsxO) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Diferentão \(Ao Vivo\)](https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK) | 2:43 |
 | 50 | [20 Ligações](https://open.spotify.com/track/6MvaRZ6JZgJuXz9b1CMB1y) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 3:13 |
 
-Snapshot ID: `MCw0M2Y1MDQ5M2EwNGZkMzU5MDBlNzdlMWE0N2E5ZjJmYTdhODlkZDNh`
+Snapshot ID: `MCxiNGRlN2EzMjUxMGNkNThmNjUzZmRiNzJiZTNmZDI5ZDk0NTA2ZDA0`

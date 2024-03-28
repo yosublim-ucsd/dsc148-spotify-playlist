@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 599800,
+  "num_followers": 599927,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzcxOTEzNjI3ZTk2MTQ3ZTc0YTRkODIzMTMwMWM5ODc1Yjg1ODc4",
+  "snapshot_id": "MCw0N2JiODQ2ZGNiNDE0NTliNWMzYTFhMWE0OThlOGNlZTg1YzE5OWJj",
   "tracks": [
     {
       "added_at": "2024-02-16 19:57:55",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
+        "name": "Ashkelon",
+        "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 313867,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 128893,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/0BCtG2fGjxoztlnetLoqBc"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
-        "name": "Ashkelon",
-        "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 313867,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ"
     },
     {
       "added_at": "2024-02-16 19:57:55",

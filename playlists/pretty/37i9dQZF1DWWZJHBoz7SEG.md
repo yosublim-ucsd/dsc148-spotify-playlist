@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > El calor está con todo, pero estas nuevas rolitas te van a subir aún más la temperatura 🥵🔥 Xavi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,721 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,053 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 26 | [Gabachas](https://open.spotify.com/track/2R0ElsGmqt2dWLHWcRMbeN) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO) | [Gabachas](https://open.spotify.com/album/4TOQI9fuLr1WOpJ1GSFrJJ) | 2:07 |
 | 27 | [Contento \(feat\. Encontrados\)](https://open.spotify.com/track/0i31PwQF25tj1KJ6bKE542) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL), [Encontrados](https://open.spotify.com/artist/2LLdYEleQoYP8o74tkEKzn) | [Origen](https://open.spotify.com/album/6pp8FlJnB10YaznV0XCpbG) | 3:14 |
 | 28 | [ESTÍMULO](https://open.spotify.com/track/1neeheY8W8Ue2tlNPXvYBS) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 4:34 |
-| 29 | [Loquera](https://open.spotify.com/track/3XcS1eK277s6aSn3P3cGku) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Loquera](https://open.spotify.com/album/2xAayME6IieKXPq2WmPd7o) | 2:32 |
+| 29 | [Loquera](https://open.spotify.com/track/5OlspCona9qgcuBuMI7rOD) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [KEVIN PÓRTATE BIEN](https://open.spotify.com/album/78MQL4LdKOTHCyCoElZQhN) | 2:32 |
 | 30 | [Tantas](https://open.spotify.com/track/6BE8hoQtvliZXZIr2jsafX) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Tantas](https://open.spotify.com/album/7zo5iA6RdsOLT4ICHASNiN) | 2:43 |
 | 31 | [Pertenezco Aquí](https://open.spotify.com/track/314VxfuhEvi859ShK1nK6z) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Pertenezco Aquí](https://open.spotify.com/album/0Me6t0xF5TSIaPG3ayJdkW) | 4:04 |
 | 32 | [La Playa](https://open.spotify.com/track/6vODt4E4hZNCsJ3hFe5Ve2) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Scoop Deville](https://open.spotify.com/artist/0LJri3xvwsHWKErcNKnZxg) | [La Playa](https://open.spotify.com/album/7u1DEKqn7WLabDAteCjPjH) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Lorelei](https://open.spotify.com/track/08fcIMIo6tXMHm0UbqVdvQ) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 3:00 |
 | 50 | [Pon Pón](https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pon Pón](https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl) | 2:58 |
 
-Snapshot ID: `MCxmNzQ3YTExZjczOGNjYzI1YTAzNDZhZjE0MmMzYjdhY2E5ZDEwMDgz`
+Snapshot ID: `MCw2MDM1MTE2ZDc4MWE1MTU5Y2FjOTE3MzA3YzZkMzY1MjhkYzU3MmRh`

@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 81196,
+  "2024-03-28": 81204,
   "date_first_scraped": "2023-03-26",
   "description": "Dengar lagu-lagu teristimewa yang dapat membuat kita jatuh hati dan terjebak nostalgia",
   "name": "This Is: Raisa",
@@ -545,6 +545,24 @@
       "duration_ms": 206333,
       "name": "Terjebak Nostalgia",
       "url": "https://open.spotify.com/track/5i29InIyuEG5121x1onevN"
+    },
+    {
+      "album": {
+        "name": "The Girl That I Used To Be",
+        "url": "https://open.spotify.com/album/4tNsUBJJ9sI3BW24tKS332"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191223,
+      "name": "The Girl That I Used To Be",
+      "url": "https://open.spotify.com/track/1YuiSjDArp53gCzIOOYTLK"
     },
     {
       "album": {

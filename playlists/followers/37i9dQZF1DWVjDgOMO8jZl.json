@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 22672,
+  "2024-03-28": 22677,
   "date_first_scraped": "2022-09-17",
   "description": "Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href=\"spotify:artist:3HRSdDvPAE54ocmaq0JRrJ\">Camilla Magli</a>",
   "name": "RADAR Italia",
@@ -1113,6 +1113,24 @@
       "duration_ms": 219846,
       "name": "Horror",
       "url": "https://open.spotify.com/track/6fPGBlx8wsAxhoDn7BwiAH"
+    },
+    {
+      "album": {
+        "name": "I CAN FLY",
+        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164705,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
     },
     {
       "album": {

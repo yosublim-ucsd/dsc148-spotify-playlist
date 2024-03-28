@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: PNAU
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,178 likes - 87 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,199 likes - 87 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 86 | [The Summer That Got Away](https://open.spotify.com/track/1Obt0ahEG2Avv4KAOHM7qm) | [Lily Grace](https://open.spotify.com/artist/36C2hXqhxu8S68awyDaGQD) | [The Summer That Got Away](https://open.spotify.com/album/44YdEhnz623Oy7gCXI8mSq) | 2:58 |
 | 87 | [Back 2 U](https://open.spotify.com/track/0jg2jlPCcVVG8ZSVH5PTMx) | [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [I'm That Girl](https://open.spotify.com/album/4Ce9q2a8qAvbgIXX0tuTsW) | 2:48 |
 
-Snapshot ID: `MCw2ZWNkMDVkNGU0ZjRkYjI0MzkzZmEwY2Y0MWI5NWYzZjM4OTI0Njk3`
+Snapshot ID: `MCwwYjRjYzk2MGIzZWVlNWY5MmEzOTRiNTNiYjM2YTg5YWZjZDlmYmFm`

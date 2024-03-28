@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,870,188 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,870,802 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 61 | [What Does It Take \(To Win Your Love\)](https://open.spotify.com/track/2ACEZokhi5fKPcpGslKy4r) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Mr Soul of Jamaica](https://open.spotify.com/album/4EpjLfEAWQ4aVhlTMk69Fh) | 3:18 |
 | 62 | [Stop That Train](https://open.spotify.com/track/04ZaKWF8eYEsVhO8mNxvhB) | [Keith](https://open.spotify.com/artist/7hm0Ngouir56yhbzXu9yRH), [Tex](https://open.spotify.com/artist/1OFhmPA8VQArSdLb7CVClv) | [Stop That Train!](https://open.spotify.com/album/6B5wJp7kFC8s0VMilKj7ou) | 3:20 |
 | 63 | [Fu Man Chu](https://open.spotify.com/track/5sC836mBGkD9vni59G1YyV) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Action! \(Expanded Version\)](https://open.spotify.com/album/6Bz3k5kG4guAbv3lAHMK6u) | 3:17 |
-| 64 | [Hail H.I.M \- 2002 Remastered Version](https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Hail H.I.M](https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg) | 4:15 |
-| 65 | [Long Shot \(Kick De Bucket\)](https://open.spotify.com/track/1pIdjzeTD3qGjrPRPoeXAn) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [Long Shot](https://open.spotify.com/album/5HSaNp44MKfcyO1FsHaVU5) | 2:50 |
+| 64 | [Long Shot \(Kick De Bucket\)](https://open.spotify.com/track/1pIdjzeTD3qGjrPRPoeXAn) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [Long Shot](https://open.spotify.com/album/5HSaNp44MKfcyO1FsHaVU5) | 2:50 |
+| 65 | [Hail H.I.M \- 2002 Remastered Version](https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Hail H.I.M](https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg) | 4:15 |
 | 66 | [Many Rivers To Cross](https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:44 |
 | 67 | [Lips of Wine](https://open.spotify.com/track/6X4171NDmAvVgcUYvhGNsA) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Musical Heatwave, The Best of Dennis Brown 1972\-1975](https://open.spotify.com/album/2l5cxpBpaSklRx04YUr0O0) | 2:46 |
 | 68 | [Train to Skaville](https://open.spotify.com/track/21XbXjK5xKhEJnH9xFuoq9) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Engine 54](https://open.spotify.com/album/7kApPBGR83HP2zyzG4WPmG) | 2:57 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 89 | [Don't Stay Away](https://open.spotify.com/track/1ZVPLwKRtfenddrUxoc7eN) | [Phyllis Dillon](https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh), [Tommy McCook](https://open.spotify.com/artist/27CnIh4lLIOW2DqEwO1QIf), [The Supersonics](https://open.spotify.com/artist/3FtuTq3oY78SW4vaK7FhDt) | [One Life to Live \(Expanded Version\)](https://open.spotify.com/album/60BHEQHVN6213VZndkiI4Q) | 2:33 |
 | 90 | [Suzanne Beware of the Devil](https://open.spotify.com/track/71RlrObaNXUK8EbREgJHm8) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [Suzanne Beware of the Devil \- The Best of Dandy Livingstone](https://open.spotify.com/album/2OyxYqLTT5HBqd3FxYsmvu) | 2:35 |
 | 91 | [Double Barrel](https://open.spotify.com/track/3B59dR6lPY1FKbBwsXbcON) | [Dave & Ansell Collins](https://open.spotify.com/artist/7bf9XwZiLZNWCC0XNiZaN9) | [Double Barrel](https://open.spotify.com/album/5OQvRjlsqGSGyhWoKlozbz) | 2:50 |
-| 92 | [Till Then](https://open.spotify.com/track/56o2Y7yCupDH4uqn4vayMc) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/5oGtxusqxowETVnVokdqME) | 3:21 |
-| 93 | [Help Me Make It Through The Night](https://open.spotify.com/track/0pINVERHACBcMBRzFoHysO) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [1000 Volts Of Holt](https://open.spotify.com/album/6AQcKsHGGOE2iVimVgGdE7) | 3:07 |
+| 92 | [Help Me Make It Through The Night](https://open.spotify.com/track/0pINVERHACBcMBRzFoHysO) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [1000 Volts Of Holt](https://open.spotify.com/album/6AQcKsHGGOE2iVimVgGdE7) | 3:07 |
+| 93 | [Till Then](https://open.spotify.com/track/56o2Y7yCupDH4uqn4vayMc) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/5oGtxusqxowETVnVokdqME) | 3:21 |
 | 94 | [Sweet Sensation](https://open.spotify.com/track/6aC8NTVpetj62Ajixqzlsb) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Rivers of Babylon \(Expanded Version\)](https://open.spotify.com/album/0P2mwcNmZJredvaJHIkT14) | 3:50 |
 | 95 | [Revolution](https://open.spotify.com/track/1nsEptcDye2MUjMJQ1N5Rh) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Reggae Anthology: Dennis Brown \- Crown Prince of Reggae \- Singles \(1972\-1985\)](https://open.spotify.com/album/1ZckZ1ISksO8vqrbQn3cic) | 4:19 |
 | 96 | [Engine 54](https://open.spotify.com/track/1Miqjanq9I2rPQyR2ptZGu) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Engine 54](https://open.spotify.com/album/7kApPBGR83HP2zyzG4WPmG) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 99 | [Under Me Sleng Teng](https://open.spotify.com/track/1YjBJlLZh4wwnfYZCr3jrE) | [Wayne Smith](https://open.spotify.com/artist/7kwcin6f7eYIvo6hG3GEn4) | [Under Me Sleng Teng](https://open.spotify.com/album/43bIT6PuC4DKlvC4iKTWHA) | 4:07 |
 | 100 | [Ku Klux Klan](https://open.spotify.com/track/1ViW8CWCiUff8iwlSpeI1r) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA) | 3:35 |
 
-Snapshot ID: `MCw5NWQ0ZWMzN2RlZjNhYzYwOWFmMjE5ODI2NzhmNThlM2ExZTU3NDVm`
+Snapshot ID: `MCw0ZGYwZjRmOTk3YmU0ZWRiMDk2NjM2MzNmMzQ5MDE5NTBiYzYxY2I0`

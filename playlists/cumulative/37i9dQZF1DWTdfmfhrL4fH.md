@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-569 songs - 1 day 11 hr 39 min
+570 songs - 1 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [Reverend](https://open.spotify.com/track/5cm47Nc1MWBVIkRFaXxvHY) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 3:54 | 2022-05-25 |  |
 | [Ricochet](https://open.spotify.com/track/1ocR8gUE4fBfNJZtBr0TFQ) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Vessels](https://open.spotify.com/album/4iJ9B2uDKJzclQo7U9BqS8) | 5:10 | 2022-05-25 | 2022-07-29 |
 | [RISE](https://open.spotify.com/track/46QdfDL0LnGlHLKmREiXP5) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:14 | 2022-05-25 | 2023-07-18 |
+| [Rise](https://open.spotify.com/track/66bz5iH5p8zBSbgvs84ygh) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/1BRJvLviuSqyFpInvec0lk) | 3:53 | 2023-01-18 |  |
 | [Rise](https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/0hMPPqOR9n6XSia99Rw6t7) | 3:53 | 2022-05-25 | 2022-07-29 |
 | [Rise](https://open.spotify.com/track/0Z1H4wG3NuFzW9dFwWuI9b) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise](https://open.spotify.com/album/61IS7aRv5gkvD4maF9KICe) | 4:21 | 2022-05-25 | 2022-07-29 |
 | [Rise Above It](https://open.spotify.com/track/6QyBWey7P8ILuhS5RO7xYe) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V), [Justin Stone](https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:04 | 2022-05-25 |  |
@@ -527,7 +528,7 @@
 | [This Means War](https://open.spotify.com/track/4i76vmvahz5a4MhinU59sI) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Here and Now](https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd) | 3:20 | 2022-05-25 |  |
 | [thoughts & prayers](https://open.spotify.com/track/22yRdwQ4OXUlPrLGhF6ebu) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [thoughts & prayers](https://open.spotify.com/album/2oPgtJ1qOAi6ht4q4mTs6B) | 3:45 | 2022-05-25 | 2022-07-13 |
 | [Tired](https://open.spotify.com/track/1q9ru9Wx2Q9Ez8irkGcyFa) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 4:11 | 2022-05-25 |  |
-| [Tonight](https://open.spotify.com/track/290yPLUQhUqZd1OlmPWGRI) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Holding Onto Strings Better Left To Fray](https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh) | 3:44 | 2022-05-25 |  |
+| [Tonight](https://open.spotify.com/track/290yPLUQhUqZd1OlmPWGRI) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Holding Onto Strings Better Left To Fray](https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh) | 3:44 | 2022-05-25 | 2024-03-28 |
 | [Torn in Two](https://open.spotify.com/track/3IiMnjK7S2PlsPVMuAH7rU) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 4:17 | 2022-05-25 | 2022-07-20 |
 | [Torn to Pieces](https://open.spotify.com/track/0zLvkCvm22VHCWrFlBL1Ey) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx](https://open.spotify.com/album/4hcp0DzR3sCvI5XEG4D1xb) | 3:16 | 2022-05-25 | 2022-07-29 |
 | [Torn to Pieces](https://open.spotify.com/track/3gLvDdJVhHLWWkgzTbYeJB) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx \(Deluxe Edition\)](https://open.spotify.com/album/5LttsAVVuHrSB7nWL6DqHo) | 3:16 | 2023-01-18 |  |

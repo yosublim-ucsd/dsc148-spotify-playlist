@@ -3069,6 +3069,24 @@
     },
     {
       "album": {
+        "name": "ADDERALL",
+        "url": "https://open.spotify.com/album/72kD6unk8C2Fw2T7KDFfiA"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165004,
+      "name": "ADDERALL",
+      "url": "https://open.spotify.com/track/1IDBlTUa4Ts0mHW6N481JQ"
+    },
+    {
+      "album": {
         "name": "Bizness",
         "url": "https://open.spotify.com/album/0c3AyEfNzDaMzFbW9nzlbl"
       },
@@ -22702,7 +22720,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 159000,
       "name": "Figli del fuoco",
       "url": "https://open.spotify.com/track/1H1F5cklwcrKrFEcVZ98QM"
@@ -30866,6 +30884,24 @@
       "duration_ms": 190278,
       "name": "Italie (feat. N\u00e9za, LJK)",
       "url": "https://open.spotify.com/track/3eIDxWGKESX3EqI9lxQEys"
+    },
+    {
+      "album": {
+        "name": "JACK MIEL",
+        "url": "https://open.spotify.com/album/3E1gSHuzCasGftxo4kjkLd"
+      },
+      "artists": [
+        {
+          "name": "SPOOKYPBL",
+          "url": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179154,
+      "name": "JACK MIEL",
+      "url": "https://open.spotify.com/track/0Kf9zYZYgZU7H8Mh0v0hQv"
     },
     {
       "album": {
@@ -66256,6 +66292,28 @@
       "duration_ms": 206250,
       "name": "Un bimbo che canta",
       "url": "https://open.spotify.com/track/7zlovULaQnL6fg2lMkBasA"
+    },
+    {
+      "album": {
+        "name": "UN FIGLIO E UNA PISTOLA",
+        "url": "https://open.spotify.com/album/5LnrDw3mSmYUgXY8s7GPGI"
+      },
+      "artists": [
+        {
+          "name": "Guesan",
+          "url": "https://open.spotify.com/artist/1eMrj0akHMVF8HpxG1OrLD"
+        },
+        {
+          "name": "Ch3f Beats",
+          "url": "https://open.spotify.com/artist/1XZhFONwIgL8zaYpTfRl0H"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "UN FIGLIO E UNA PISTOLA",
+      "url": "https://open.spotify.com/track/2wzZ3gtgEcZjkukprwFJxw"
     },
     {
       "album": {

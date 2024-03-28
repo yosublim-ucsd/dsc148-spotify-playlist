@@ -4,7 +4,7 @@
 
 > Solo il meglio dello street rap italiano\. Cover: Kid Yugi
 
-489 songs - 22 hr 36 min
+490 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [9.19](https://open.spotify.com/track/4xlVDf8pSGnjJGwTT6dyXw) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 1:59 | 2022-05-26 | 2022-10-14 |
 | [A45S](https://open.spotify.com/track/3NCw6IFbl8NTQHDwxkj1UC) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [A45S](https://open.spotify.com/album/6KQ0Nzqei7dU85H2OtzIrQ) | 2:40 | 2023-12-11 | 2024-01-19 |
 | [ABC \(feat\. Bello Figo\)](https://open.spotify.com/track/50qPOMP2Kw8qOD1dsExaKQ) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh) | [ABC \(feat\. Bello Figo\)](https://open.spotify.com/album/5N2chCw2KvN4O0CNZTkXzR) | 2:23 | 2023-10-05 | 2023-12-22 |
+| [ADDERALL](https://open.spotify.com/track/1IDBlTUa4Ts0mHW6N481JQ) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [ADDERALL](https://open.spotify.com/album/72kD6unk8C2Fw2T7KDFfiA) | 2:45 | 2024-03-27 |  |
 | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/track/5F5STJurlkKk31rguyet4N) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/album/4tGjr14oYsIMsLC9NQaeJ4) | 3:02 | 2023-08-24 | 2024-01-19 |
 | [ADVICE](https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [LISTA 47](https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4) | 3:03 | 2022-07-04 | 2022-10-11 |
 | [AGITATO](https://open.spotify.com/track/6OIPXBCDzV0RO0beUqoW42) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [AGITATO](https://open.spotify.com/album/5NuXTus8ALMOuPhH2C3Co9) | 1:54 | 2023-10-19 | 2024-01-05 |
@@ -203,7 +204,7 @@
 | [GTA](https://open.spotify.com/track/1sMzjYyFSWexHB145BgD6O) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Ghettosuperstar](https://open.spotify.com/album/4EjqOuqjcPm50M6cMZwGYN) | 2:37 | 2023-03-24 | 2023-10-06 |
 | [GTA \(feat\. Ghali\)](https://open.spotify.com/track/2rWPeV0Wvjx8VpAyOsfgir) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:08 | 2024-03-14 |  |
 | [Guerra Con Me Stesso](https://open.spotify.com/track/6ByL4vOXiTkHyCShfEvwcE) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Guerra Con Me Stesso](https://open.spotify.com/album/1UHR9djVH1lY3iaJycPVng) | 2:09 | 2024-02-08 | 2024-03-01 |
-| [GURU DEL BUSINESS](https://open.spotify.com/track/0IqoqvFdmvnHaOtKUJZ2Rw) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [GURU DEL BUSINESS](https://open.spotify.com/album/1BsmAW3BDFNwytA8TJ30t2) | 2:13 | 2023-12-07 |  |
+| [GURU DEL BUSINESS](https://open.spotify.com/track/0IqoqvFdmvnHaOtKUJZ2Rw) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [GURU DEL BUSINESS](https://open.spotify.com/album/1BsmAW3BDFNwytA8TJ30t2) | 2:13 | 2023-12-07 | 2024-03-28 |
 | [Guérrilla](https://open.spotify.com/track/5NUTv7iUQY77PyEqyqlgRw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Guérrilla](https://open.spotify.com/album/5OWqkBgQPvdll9AmXdjrBe) | 2:25 | 2022-05-11 | 2022-12-16 |
 | [Hagra](https://open.spotify.com/track/1PAKJ4G5tpNK0YYloB6dBv) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Hagra](https://open.spotify.com/album/3Xmje1BFiERvTm1aRpGi0S) | 2:38 | 2023-06-21 | 2023-12-15 |
 | [HANGAR](https://open.spotify.com/track/0JOQdjigjjDGSblkMR2YWC) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [HANGAR](https://open.spotify.com/album/1YZCmfbJCplFmWEY1aVLLp) | 2:53 | 2024-02-29 | 2024-03-22 |

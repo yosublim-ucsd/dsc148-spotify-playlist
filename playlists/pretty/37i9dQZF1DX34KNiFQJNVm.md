@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Pereira com MC Daniel, Anitta, Mc IG e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,922,411 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,922,904 likes - 74 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 69 | [Someone Else](https://open.spotify.com/track/5phH22Kn5b4u67jA8D5eEs) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [The After Taste](https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN) | 3:17 |
 | 70 | [MEGATRON](https://open.spotify.com/track/5lNfvwBAJiPTQCo3lB3qNz) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [Gambiarra Chic, Pt\. 1](https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz) | 3:00 |
 | 71 | [TÁ EM CHOQUE, TOCA](https://open.spotify.com/track/4RtnC1tehYspJwQFoc8Dup) | [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS) | [TÁ EM CHOQUE, TOCA](https://open.spotify.com/album/3wnjsxA8xXB3IiXx0m9ZLF) | 2:03 |
-| 72 | [Bread N Butta](https://open.spotify.com/track/3PIzjSNZUJzNbwhnWqeURW) | [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [Bread N Butta](https://open.spotify.com/album/3CABXEmhXAYcILYwqEhzD5) | 3:25 |
-| 73 | [Algo Bom](https://open.spotify.com/track/5ysJgqbd6oYRphcXlRrm9l) | [Jáder](https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa), [GOMES](https://open.spotify.com/artist/45Ui6eUZZRtSrFUC37GEHo) | [Algo Bom](https://open.spotify.com/album/0qYTB0qtx9lHvFImJx95CB) | 2:40 |
-| 74 | [Conselho de Bobo](https://open.spotify.com/track/6J29RYRBNiAJjXWgNCa7bf) | [Marcelinho De Lima](https://open.spotify.com/artist/7DRrTGEGV943S1FXmGfMsT) | [Conselho de Bobo](https://open.spotify.com/album/2FqfkdgijP6q8LE1z8goTN) | 2:58 |
-| 75 | [Suspiro](https://open.spotify.com/track/2yLWBGLSkMvbttYVO7BBWU) | [Almério](https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Suspiro](https://open.spotify.com/album/5HGRlYyad7meOnp93Q3aDQ) | 2:38 |
+| 72 | [Algo Bom](https://open.spotify.com/track/5ysJgqbd6oYRphcXlRrm9l) | [Jáder](https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa), [GOMES](https://open.spotify.com/artist/45Ui6eUZZRtSrFUC37GEHo) | [Algo Bom](https://open.spotify.com/album/0qYTB0qtx9lHvFImJx95CB) | 2:40 |
+| 73 | [Conselho de Bobo](https://open.spotify.com/track/6J29RYRBNiAJjXWgNCa7bf) | [Marcelinho De Lima](https://open.spotify.com/artist/7DRrTGEGV943S1FXmGfMsT) | [Conselho de Bobo](https://open.spotify.com/album/2FqfkdgijP6q8LE1z8goTN) | 2:58 |
+| 74 | [Suspiro](https://open.spotify.com/track/2yLWBGLSkMvbttYVO7BBWU) | [Almério](https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Suspiro](https://open.spotify.com/album/5HGRlYyad7meOnp93Q3aDQ) | 2:38 |
 
-Snapshot ID: `MCw1YzY0ZmJiMWFhYWMxZmVlYmUwNjJhOTVlN2EyZWE5MjI1ODZhNzlk`
+Snapshot ID: `MCwwYjllODNkYzk1ZWYyMzA0ODVhMzE5MTRhZDRkZmFmMjQzZTUxYWYz`

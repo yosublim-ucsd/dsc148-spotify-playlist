@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7gN1qBoBYg.md) - [plain]
 | 59 | [Critical](https://open.spotify.com/track/5RLtXgDduEE3qU2184BYpC) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:10 |
 | 60 | [Leal](https://open.spotify.com/track/534uRWyOMtDiYTZUSc4eyj) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [$OLO MEMOS](https://open.spotify.com/album/1HEVveDgR4D3nJViD3q9Yq) | 3:15 |
 
-Snapshot ID: `MCwxYjY2YWI2NGNkMTE0MGEyNzEwNWJhOGZmZDMyMWZlYjY5NTMzNjJk`
+Snapshot ID: `MCxlN2NjYmIxM2Y0MTBjNDU4NTI1NjY0YjM1NTNhMjYyMWVmMDljYjk1`

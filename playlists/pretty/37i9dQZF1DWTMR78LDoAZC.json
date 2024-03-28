@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 152545,
+  "num_followers": 152630,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDJlMjQ3YjViZGMzNjMyN2U0NDNiY2VlN2M2YzJjZTBjYjBmNzkw",
+  "snapshot_id": "MCxhMmY4MGVkNGYwZWFhYzA3NTg3OTkxZTk4NjYyZDUyYThkZmMxYTNi",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "5K",
-        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 133493,
-      "name": "Races",
-      "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Terra Firma",
@@ -431,6 +415,22 @@
       "duration_ms": 279137,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "5K",
+        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 133493,
+      "name": "Races",
+      "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Be Your Man",
-        "url": "https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        }
-      ],
-      "duration_ms": 212414,
-      "name": "Be Your Man",
-      "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Wild Heart",
         "url": "https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 177026,
       "name": "Wild Heart",
       "url": "https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 212414,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Set My Heart On Fire Immediately",
-        "url": "https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 303600,
-      "name": "On the Floor",
-      "url": "https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 236486,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Set My Heart On Fire Immediately",
+        "url": "https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 303600,
+      "name": "On the Floor",
+      "url": "https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1041,22 +1041,6 @@
       "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "DEACON",
-        "url": "https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV"
-      },
-      "artists": [
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Fellowship",
-      "url": "https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM"
-    },
-    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "Jonny",
@@ -1071,6 +1055,22 @@
       "duration_ms": 197866,
       "name": "Plastic Envelope",
       "url": "https://open.spotify.com/track/3eiVhoqOuP5iSgnCzLvUU1"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "DEACON",
+        "url": "https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Fellowship",
+      "url": "https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1185,6 +1185,26 @@
       "url": "https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2"
     },
     {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Day Breaks",
+        "url": "https://open.spotify.com/album/6ST0U2V3WOBV8RzFYwBg6F"
+      },
+      "artists": [
+        {
+          "name": "Pool Cosby",
+          "url": "https://open.spotify.com/artist/7zrfybpJUeRLpyPY9DoDt7"
+        },
+        {
+          "name": "Soren Bryce",
+          "url": "https://open.spotify.com/artist/3EPBoq3UlOpWoABQpdDSCB"
+        }
+      ],
+      "duration_ms": 175664,
+      "name": "Back",
+      "url": "https://open.spotify.com/track/0mytPbo2GAlCTjA0zZ1Z8e"
+    },
+    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "Tears can be so soft",
@@ -1215,26 +1235,6 @@
       "duration_ms": 239744,
       "name": "Missing Out",
       "url": "https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Day Breaks",
-        "url": "https://open.spotify.com/album/6ST0U2V3WOBV8RzFYwBg6F"
-      },
-      "artists": [
-        {
-          "name": "Pool Cosby",
-          "url": "https://open.spotify.com/artist/7zrfybpJUeRLpyPY9DoDt7"
-        },
-        {
-          "name": "Soren Bryce",
-          "url": "https://open.spotify.com/artist/3EPBoq3UlOpWoABQpdDSCB"
-        }
-      ],
-      "duration_ms": 175664,
-      "name": "Back",
-      "url": "https://open.spotify.com/track/0mytPbo2GAlCTjA0zZ1Z8e"
     },
     {
       "added_at": "2023-06-01 04:00:00",

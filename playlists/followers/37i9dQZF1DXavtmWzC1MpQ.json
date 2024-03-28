@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 131570,
+  "2024-03-28": 131610,
   "date_first_scraped": "2023-10-23",
   "description": "",
   "name": "Sons da Natureza",
@@ -60,6 +60,28 @@
     },
     {
       "album": {
+        "name": "Forest Bird Songs - Colombia",
+        "url": "https://open.spotify.com/album/1iZoxPY2SJxO1gdNuGySqZ"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Vozterra",
+          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190463,
+      "name": "Bird Sounds in Mano de Oso",
+      "url": "https://open.spotify.com/track/7jYQP8aw46X9mgjdj9znGy"
+    },
+    {
+      "album": {
         "name": "2017 Relaxing Outdoor Soundscapes",
         "url": "https://open.spotify.com/album/7e4uRRWT82EWgnkCfUzp2l"
       },
@@ -114,6 +136,28 @@
     },
     {
       "album": {
+        "name": "Feathers in the Forest",
+        "url": "https://open.spotify.com/album/7IWRzEGaJRUpRJLFNhnHYb"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185612,
+      "name": "Birds of Papua New Guinea",
+      "url": "https://open.spotify.com/track/5KnvxIUwYmSCGu4yD6Dvb6"
+    },
+    {
+      "album": {
         "name": "Wild Life Birds and Rain",
         "url": "https://open.spotify.com/album/7hGDH33pjK2feH0YSPZjyG"
       },
@@ -161,7 +205,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 247471,
       "name": "By The Docks",
       "url": "https://open.spotify.com/track/1nVn1Mf8bUbANYgozOoCuq"
@@ -453,6 +497,28 @@
       "duration_ms": 192000,
       "name": "Nature Night-time",
       "url": "https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp"
+    },
+    {
+      "album": {
+        "name": "Feathers in the Forest",
+        "url": "https://open.spotify.com/album/7IWRzEGaJRUpRJLFNhnHYb"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189741,
+      "name": "Northern UK Forest Birds",
+      "url": "https://open.spotify.com/track/00MSSYGZ5IjVBy4JcK3ZYk"
     },
     {
       "album": {
@@ -845,7 +911,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 189442,
       "name": "Thunderous Amazon",
       "url": "https://open.spotify.com/track/4Xy4EQyJWS01SEERqnfrkn"
@@ -917,7 +983,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 208000,
       "name": "Warm Rain",
       "url": "https://open.spotify.com/track/4jFPb0mUf0fVaooBRAYqxg"

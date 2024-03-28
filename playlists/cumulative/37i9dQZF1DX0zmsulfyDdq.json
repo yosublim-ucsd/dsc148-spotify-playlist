@@ -377,6 +377,32 @@
     },
     {
       "album": {
+        "name": "Wish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
+      },
+      "artists": [
+        {
+          "name": "Chris Pine",
+          "url": "https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e"
+        },
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198920,
+      "name": "At All Costs",
+      "url": "https://open.spotify.com/track/1233MOKLpbc9qjNN31vpl4"
+    },
+    {
+      "album": {
         "name": "Disney Guitar: Lullaby",
         "url": "https://open.spotify.com/album/3TRzs2Bn8dm6oHqt2LpR6z"
       },

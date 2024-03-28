@@ -1,12 +1,12 @@
 {
   "description": "Meet the future. New artists on the horizon. Cover: Ege Can Sal.",
-  "num_followers": 59635,
+  "num_followers": 59658,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGM2OGI0MzFiMzQ0YzhjZGJjNjAwOTA0MTk4YzkyYTI0MGM2YzVi",
+  "snapshot_id": "MCwwMGVmZjMwNWE2MGIzZjY1ZmFmZDhjY2M3ZTZmZTc3ZWZiMmY0ZDEx",
   "tracks": [
     {
       "added_at": "2024-03-17 21:01:15",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "fou",
-        "url": "https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lie",
-          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "fou",
-      "url": "https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "NANA",
         "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 146086,
       "name": "NANA",
       "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "fou",
+        "url": "https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "fou",
+      "url": "https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -795,26 +795,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Salt",
-        "url": "https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2"
-      },
-      "artists": [
-        {
-          "name": "Teen Jesus and the Jean Teasers",
-          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
-        },
-        {
-          "name": "The Grogans",
-          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
-        }
-      ],
-      "duration_ms": 187487,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/1Gc5ogOOXhknM8F4JH8bdp"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 203011,
       "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
       "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        },
+        {
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+        }
+      ],
+      "duration_ms": 187487,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Bazaar",
-        "url": "https://open.spotify.com/album/1diwJts8QHs0Jv8SReZjN3"
-      },
-      "artists": [
-        {
-          "name": "Rusha & Blizza",
-          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
-        }
-      ],
-      "duration_ms": 296098,
-      "name": "Huzur (Reprise)",
-      "url": "https://open.spotify.com/track/2zRKJr7WxH6wzWxZRAmpxb"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "The Whole Story",
         "url": "https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 258560,
       "name": "Beautiful Everything",
       "url": "https://open.spotify.com/track/7y2FybBAX1q90Z5QYpfqy1"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Bazaar",
+        "url": "https://open.spotify.com/album/1diwJts8QHs0Jv8SReZjN3"
+      },
+      "artists": [
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+        }
+      ],
+      "duration_ms": 296098,
+      "name": "Huzur (Reprise)",
+      "url": "https://open.spotify.com/track/2zRKJr7WxH6wzWxZRAmpxb"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "un million de petits chocs",
-        "url": "https://open.spotify.com/album/2IC2gH3S0XVQvug7M3rFjS"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lie",
-          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
-        }
-      ],
-      "duration_ms": 159960,
-      "name": "en rosalie",
-      "url": "https://open.spotify.com/track/7df0w01vdDcboukwMPjjPV"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "Unpredictable",
         "url": "https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 197036,
       "name": "Unpredictable",
       "url": "https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "un million de petits chocs",
+        "url": "https://open.spotify.com/album/2IC2gH3S0XVQvug7M3rFjS"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        }
+      ],
+      "duration_ms": 159960,
+      "name": "en rosalie",
+      "url": "https://open.spotify.com/track/7df0w01vdDcboukwMPjjPV"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "We Are The River",
-        "url": "https://open.spotify.com/album/09Co4NYXyYwAUEncVniSiY"
+        "name": "\u96e2\u5a5a\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
       },
       "artists": [
         {
-          "name": "Calum Bowie",
-          "url": "https://open.spotify.com/artist/0BjKESiuU8dT323VIL8SqG"
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
         }
       ],
-      "duration_ms": 190129,
-      "name": "We Are The River",
-      "url": "https://open.spotify.com/track/3FZqWp03yzNcYqXICOiT2c"
+      "duration_ms": 191160,
+      "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
+      "url": "https://open.spotify.com/track/1s4jmPayW30yQFFOjehEFB"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1051,6 +1051,22 @@
       "duration_ms": 143513,
       "name": "Dancing Shoes",
       "url": "https://open.spotify.com/track/4qw8WbxYmjOUzKl0Oe8Ccr"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "We Are The River",
+        "url": "https://open.spotify.com/album/09Co4NYXyYwAUEncVniSiY"
+      },
+      "artists": [
+        {
+          "name": "Calum Bowie",
+          "url": "https://open.spotify.com/artist/0BjKESiuU8dT323VIL8SqG"
+        }
+      ],
+      "duration_ms": 190129,
+      "name": "We Are The River",
+      "url": "https://open.spotify.com/track/3FZqWp03yzNcYqXICOiT2c"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "\u96e2\u5a5a\u4f1d\u8aac",
-        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
-      "url": "https://open.spotify.com/track/1s4jmPayW30yQFFOjehEFB"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "Eleven Songs",
         "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 169320,
       "name": "Flash in the Pan",
       "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "Alta Tensione",
-        "url": "https://open.spotify.com/album/0Y3KDN7F0Xhlqe8BTHKYrw"
-      },
-      "artists": [
-        {
-          "name": "Camilla Magli",
-          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
-        }
-      ],
-      "duration_ms": 153200,
-      "name": "Alta Tensione",
-      "url": "https://open.spotify.com/track/0WWQoH3DVaCgzP923Yskfz"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1151,6 +1135,22 @@
       "duration_ms": 167253,
       "name": "Niedosyt",
       "url": "https://open.spotify.com/track/79cmiNPdQVHeu2qs6x4JMp"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Alta Tensione",
+        "url": "https://open.spotify.com/album/0Y3KDN7F0Xhlqe8BTHKYrw"
+      },
+      "artists": [
+        {
+          "name": "Camilla Magli",
+          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
+        }
+      ],
+      "duration_ms": 153200,
+      "name": "Alta Tensione",
+      "url": "https://open.spotify.com/track/0WWQoH3DVaCgzP923Yskfz"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1185,22 +1185,6 @@
       "url": "https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt"
     },
     {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "Hielo",
-        "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 184795,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
-    },
-    {
       "added_at": "2024-03-22 06:00:00",
       "album": {
         "name": "Avasa",
@@ -1215,6 +1199,22 @@
       "duration_ms": 376854,
       "name": "Jogi",
       "url": "https://open.spotify.com/track/0h0gWburhWxIhV9h7kyX3l"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Hielo",
+        "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 184795,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1299,42 +1299,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "GENNAIO 24 (feat. Caffellatte)",
-        "url": "https://open.spotify.com/album/5TNxlyrgY5qoyceHYAoAE9"
+        "name": "DOGHOUSE",
+        "url": "https://open.spotify.com/album/5nUioUacb3Nwt3nMDPi9Jx"
       },
       "artists": [
         {
-          "name": "piazzabologna",
-          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+          "name": "TraviS",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
         },
         {
-          "name": "Gorbaciof",
-          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
-        },
-        {
-          "name": "Caffellatte",
-          "url": "https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay"
+          "name": "Elzzz",
+          "url": "https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7"
         }
       ],
-      "duration_ms": 130039,
-      "name": "GENNAIO 24 (feat. Caffellatte)",
-      "url": "https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "Is What It Is",
-        "url": "https://open.spotify.com/album/0FgAvsLPS7v8UMxswvyFSR"
-      },
-      "artists": [
-        {
-          "name": "Love Remain",
-          "url": "https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx"
-        }
-      ],
-      "duration_ms": 187775,
-      "name": "LDN GRLS - Gboyega's Theme",
-      "url": "https://open.spotify.com/track/2M9s7A9yAItvJmTid957Be"
+      "duration_ms": 133500,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/5tENmXDE0dCYIT4H0K5a8t"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1359,6 +1339,46 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "Is What It Is",
+        "url": "https://open.spotify.com/album/0FgAvsLPS7v8UMxswvyFSR"
+      },
+      "artists": [
+        {
+          "name": "Love Remain",
+          "url": "https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx"
+        }
+      ],
+      "duration_ms": 187775,
+      "name": "LDN GRLS - Gboyega's Theme",
+      "url": "https://open.spotify.com/track/2M9s7A9yAItvJmTid957Be"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "GENNAIO 24 (feat. Caffellatte)",
+        "url": "https://open.spotify.com/album/5TNxlyrgY5qoyceHYAoAE9"
+      },
+      "artists": [
+        {
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        },
+        {
+          "name": "Gorbaciof",
+          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        },
+        {
+          "name": "Caffellatte",
+          "url": "https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay"
+        }
+      ],
+      "duration_ms": 130039,
+      "name": "GENNAIO 24 (feat. Caffellatte)",
+      "url": "https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "Mi\u0142o\u015b\u0107 w czasach",
         "url": "https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 158507,
       "name": "Mi\u0142o\u015b\u0107 w czasach",
       "url": "https://open.spotify.com/track/1QJYOOhN7hPbKwh3ZNlmPA"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "DOGHOUSE",
-        "url": "https://open.spotify.com/album/5nUioUacb3Nwt3nMDPi9Jx"
-      },
-      "artists": [
-        {
-          "name": "TraviS",
-          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
-        },
-        {
-          "name": "Elzzz",
-          "url": "https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7"
-        }
-      ],
-      "duration_ms": 133500,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/5tENmXDE0dCYIT4H0K5a8t"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/6nDSrdXMDzutmKsDPCif4h"
+      },
+      "artists": [
+        {
+          "name": "Alexander Grandjean",
+          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
+        }
+      ],
+      "duration_ms": 220632,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/6zlwcDw4sY6FOIfUhQ1alu"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "Son of Zeus",
         "url": "https://open.spotify.com/album/6GhXHLKieoeh9LHLsBrDeN"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 204587,
       "name": "Cover Up My Face",
       "url": "https://open.spotify.com/track/0t4N3qUMwdnDZNumcVxPRu"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/6nDSrdXMDzutmKsDPCif4h"
-      },
-      "artists": [
-        {
-          "name": "Alexander Grandjean",
-          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
-        }
-      ],
-      "duration_ms": 220632,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/6zlwcDw4sY6FOIfUhQ1alu"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1629,6 +1629,26 @@
       "url": "https://open.spotify.com/track/7aXRVnt0C9oRVbsUbyqpGA"
     },
     {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Wind",
+        "url": "https://open.spotify.com/album/5hkOTZ6DIF7ywDsXSnkI6H"
+      },
+      "artists": [
+        {
+          "name": "Jawnino",
+          "url": "https://open.spotify.com/artist/0nnECIkl6LBEbZdov3nTEj"
+        },
+        {
+          "name": "Cold",
+          "url": "https://open.spotify.com/artist/19M16Pbk613BUHKwOEilfv"
+        }
+      ],
+      "duration_ms": 186550,
+      "name": "Wind",
+      "url": "https://open.spotify.com/track/1nUQzkNDpCd4eNi2md8pHC"
+    },
+    {
       "added_at": "2024-03-17 21:01:15",
       "album": {
         "name": "A Good Life",
@@ -1643,6 +1663,22 @@
       "duration_ms": 240773,
       "name": "A Good Life",
       "url": "https://open.spotify.com/track/7cqSU30Mt3B6PsRaMVHsIh"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Disposition",
+        "url": "https://open.spotify.com/album/7Hp6sdzf7aLweRbHCdqj6t"
+      },
+      "artists": [
+        {
+          "name": "Sam Akpro",
+          "url": "https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2"
+        }
+      ],
+      "duration_ms": 177433,
+      "name": "Disposition",
+      "url": "https://open.spotify.com/track/0i0vwerF4OY1DCdzu57nLf"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1677,26 +1713,6 @@
       "url": "https://open.spotify.com/track/15iHiRaaYkXvpN5b8iGqDE"
     },
     {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "Wind",
-        "url": "https://open.spotify.com/album/5hkOTZ6DIF7ywDsXSnkI6H"
-      },
-      "artists": [
-        {
-          "name": "Jawnino",
-          "url": "https://open.spotify.com/artist/0nnECIkl6LBEbZdov3nTEj"
-        },
-        {
-          "name": "Cold",
-          "url": "https://open.spotify.com/artist/19M16Pbk613BUHKwOEilfv"
-        }
-      ],
-      "duration_ms": 186550,
-      "name": "Wind",
-      "url": "https://open.spotify.com/track/1nUQzkNDpCd4eNi2md8pHC"
-    },
-    {
       "added_at": "2024-03-17 21:01:15",
       "album": {
         "name": "Nosebleeds",
@@ -1715,18 +1731,18 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Disposition",
-        "url": "https://open.spotify.com/album/7Hp6sdzf7aLweRbHCdqj6t"
+        "name": "When It's Over",
+        "url": "https://open.spotify.com/album/2irzSmx5N2QvP3YLJXkRHD"
       },
       "artists": [
         {
-          "name": "Sam Akpro",
-          "url": "https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2"
+          "name": "evi",
+          "url": "https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH"
         }
       ],
-      "duration_ms": 177433,
-      "name": "Disposition",
-      "url": "https://open.spotify.com/track/0i0vwerF4OY1DCdzu57nLf"
+      "duration_ms": 184005,
+      "name": "When It's Over",
+      "url": "https://open.spotify.com/track/2EcsBI9PipH9K8cikqZixI"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1743,22 +1759,6 @@
       "duration_ms": 152920,
       "name": "The Whole Story",
       "url": "https://open.spotify.com/track/32nJA8poeqnOofwpmdnl5k"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "When It's Over",
-        "url": "https://open.spotify.com/album/2irzSmx5N2QvP3YLJXkRHD"
-      },
-      "artists": [
-        {
-          "name": "evi",
-          "url": "https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH"
-        }
-      ],
-      "duration_ms": 184005,
-      "name": "When It's Over",
-      "url": "https://open.spotify.com/track/2EcsBI9PipH9K8cikqZixI"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Sensible",
-        "url": "https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ"
-      },
-      "artists": [
-        {
-          "name": "Mariangela",
-          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
-        }
-      ],
-      "duration_ms": 216389,
-      "name": "Acto Final",
-      "url": "https://open.spotify.com/track/6l2T9Y8Dx0xk0TKpuuF2D6"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "BUTCHER'S BIN",
         "url": "https://open.spotify.com/album/6g3mKpbEDt09TZLmuvdd7R"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 240630,
       "name": "BUTCHER'S BIN",
       "url": "https://open.spotify.com/track/0fRtRBeaVneVSDFAZ7yIiK"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Sensible",
+        "url": "https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "duration_ms": 216389,
+      "name": "Acto Final",
+      "url": "https://open.spotify.com/track/6l2T9Y8Dx0xk0TKpuuF2D6"
     },
     {
       "added_at": "2024-03-17 21:01:15",

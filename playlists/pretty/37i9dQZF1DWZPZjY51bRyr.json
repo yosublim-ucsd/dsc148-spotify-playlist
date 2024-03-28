@@ -1,12 +1,12 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 30392,
+  "num_followers": 30453,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjIyYTlkZjg1M2NjN2I1NzY1OTk2ZjE1NzJlMzNkYWMxMGYyMjI4",
+  "snapshot_id": "MCw5MzE5ZWIyZTAxZDQ4YWZhMWY2OTI4YWEyNzVmMjU4MzhkNmVkOTU1",
   "tracks": [
     {
       "added_at": "2023-12-15 11:35:26",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Dreams of Calmness",
-        "url": "https://open.spotify.com/album/4EtyVHSabhRKs3DqYygDCT"
-      },
-      "artists": [
-        {
-          "name": "Niigata",
-          "url": "https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Dreams of Calmness",
-      "url": "https://open.spotify.com/track/0n7hJpHTyo48IZ43NAKDP9"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Cestrum Nocturnum",
         "url": "https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 195171,
       "name": "Cestrum Nocturnum",
       "url": "https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Dreams of Calmness",
+        "url": "https://open.spotify.com/album/4EtyVHSabhRKs3DqYygDCT"
+      },
+      "artists": [
+        {
+          "name": "Niigata",
+          "url": "https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Dreams of Calmness",
+      "url": "https://open.spotify.com/track/0n7hJpHTyo48IZ43NAKDP9"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Spiritual Echoes",
-        "url": "https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu"
-      },
-      "artists": [
-        {
-          "name": "Bernie Longo",
-          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Spiritual Echoes",
-      "url": "https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/2gyvkLTdR9Vo0mFwNJTuNQ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 190382,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/30iFs745w3sWOU8HSCcvrQ"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Spiritual Echoes",
+        "url": "https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu"
+      },
+      "artists": [
+        {
+          "name": "Bernie Longo",
+          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Spiritual Echoes",
+      "url": "https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Clearings",
-        "url": "https://open.spotify.com/album/60o397RIevLIAx8f17RRss"
-      },
-      "artists": [
-        {
-          "name": "Bellezza Eterna",
-          "url": "https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk"
-        }
-      ],
-      "duration_ms": 160750,
-      "name": "Clearings",
-      "url": "https://open.spotify.com/track/0rEzgoo72W1UXsrwtZr36R"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 182361,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Clearings",
+        "url": "https://open.spotify.com/album/60o397RIevLIAx8f17RRss"
+      },
+      "artists": [
+        {
+          "name": "Bellezza Eterna",
+          "url": "https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk"
+        }
+      ],
+      "duration_ms": 160750,
+      "name": "Clearings",
+      "url": "https://open.spotify.com/track/0rEzgoo72W1UXsrwtZr36R"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "All Love 432 Hz",
-        "url": "https://open.spotify.com/album/1Oze9JvFoFm7mG7XfGq2pa"
-      },
-      "artists": [
-        {
-          "name": "Emeli Saga",
-          "url": "https://open.spotify.com/artist/3J5btrvXNSchP5VZiE3vcj"
-        }
-      ],
-      "duration_ms": 187202,
-      "name": "All Love 432 Hz",
-      "url": "https://open.spotify.com/track/4F3vEHACpu26azg1x8TDJX"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Aethaerum",
         "url": "https://open.spotify.com/album/6n5YtNCZaQFCh6PndO9IhI"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 186500,
       "name": "Aethaerum",
       "url": "https://open.spotify.com/track/1dEA7WCxIcfirzbNADvc7k"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "All Love 432 Hz",
+        "url": "https://open.spotify.com/album/1Oze9JvFoFm7mG7XfGq2pa"
+      },
+      "artists": [
+        {
+          "name": "Emeli Saga",
+          "url": "https://open.spotify.com/artist/3J5btrvXNSchP5VZiE3vcj"
+        }
+      ],
+      "duration_ms": 187202,
+      "name": "All Love 432 Hz",
+      "url": "https://open.spotify.com/track/4F3vEHACpu26azg1x8TDJX"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Chakra",
-        "url": "https://open.spotify.com/album/4qdm2nundmbGV2g9ppryGD"
-      },
-      "artists": [
-        {
-          "name": "Maasoom",
-          "url": "https://open.spotify.com/artist/7bFkM59zFpSSmQEmPIfIrg"
-        }
-      ],
-      "duration_ms": 130354,
-      "name": "Chakra",
-      "url": "https://open.spotify.com/track/0SfDJE8Q0RhjgriKxSEXSN"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Travel Through Time",
         "url": "https://open.spotify.com/album/0XqN1uf1gz5Ts00H9slDZS"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 200367,
       "name": "Travel Through Time",
       "url": "https://open.spotify.com/track/7gYM2J1zY4dHV2TSWBULEJ"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Chakra",
+        "url": "https://open.spotify.com/album/4qdm2nundmbGV2g9ppryGD"
+      },
+      "artists": [
+        {
+          "name": "Maasoom",
+          "url": "https://open.spotify.com/artist/7bFkM59zFpSSmQEmPIfIrg"
+        }
+      ],
+      "duration_ms": 130354,
+      "name": "Chakra",
+      "url": "https://open.spotify.com/track/0SfDJE8Q0RhjgriKxSEXSN"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
-      },
-      "artists": [
-        {
-          "name": "Full Presence",
-          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
-        }
-      ],
-      "duration_ms": 134349,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Search For The Light",
         "url": "https://open.spotify.com/album/1kEaxsfCNg0V0FQRBRQQt7"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 183414,
       "name": "Search For The Light",
       "url": "https://open.spotify.com/track/1Lj1XtFYEzTb7IHBMarBbp"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
+      },
+      "artists": [
+        {
+          "name": "Full Presence",
+          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
+        }
+      ],
+      "duration_ms": 134349,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Asana",
-        "url": "https://open.spotify.com/album/5jKt8AOgsOYMaEdIykJ3bo"
-      },
-      "artists": [
-        {
-          "name": "Makalu",
-          "url": "https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Asana",
-      "url": "https://open.spotify.com/track/5JrPeUYpXnIXFAA1YLM8kc"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Asha",
         "url": "https://open.spotify.com/album/45j2xwLqufgtoAkOIBna6p"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 154751,
       "name": "Asha",
       "url": "https://open.spotify.com/track/7MMsg5sBQNpVCLlycq0sGw"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Asana",
+        "url": "https://open.spotify.com/album/5jKt8AOgsOYMaEdIykJ3bo"
+      },
+      "artists": [
+        {
+          "name": "Makalu",
+          "url": "https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Asana",
+      "url": "https://open.spotify.com/track/5JrPeUYpXnIXFAA1YLM8kc"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2171,18 +2171,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Jenna\u2019s Lullaby",
-        "url": "https://open.spotify.com/album/6TBbV7K7FIbHG3w2cp79Fp"
+        "name": "Healing Solfeggio 528 Hz",
+        "url": "https://open.spotify.com/album/0yqpMHlXKWc8CrP4Lh6INf"
       },
       "artists": [
         {
-          "name": "Nerum",
-          "url": "https://open.spotify.com/artist/0STEjaBPW4uFYhPWOM2mXv"
+          "name": "Zoe Sutherland",
+          "url": "https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb"
         }
       ],
-      "duration_ms": 235875,
-      "name": "Jenna\u2019s Lullaby",
-      "url": "https://open.spotify.com/track/5JTwCoohusfE5CjptRqvHC"
+      "duration_ms": 154000,
+      "name": "Healing Solfeggio 528 Hz",
+      "url": "https://open.spotify.com/track/1rttTie5nGvG5aSlrXegQI"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Healing Solfeggio 528 Hz",
-        "url": "https://open.spotify.com/album/0yqpMHlXKWc8CrP4Lh6INf"
-      },
-      "artists": [
-        {
-          "name": "Zoe Sutherland",
-          "url": "https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Healing Solfeggio 528 Hz",
-      "url": "https://open.spotify.com/track/1rttTie5nGvG5aSlrXegQI"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "BYND TME",
         "url": "https://open.spotify.com/album/7tosvh7CaTGdeEMwJ4COao"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 244000,
       "name": "BYND TME",
       "url": "https://open.spotify.com/track/1h3wacc0OmdTvQOply0ulc"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Jenna\u2019s Lullaby",
+        "url": "https://open.spotify.com/album/6TBbV7K7FIbHG3w2cp79Fp"
+      },
+      "artists": [
+        {
+          "name": "Nerum",
+          "url": "https://open.spotify.com/artist/0STEjaBPW4uFYhPWOM2mXv"
+        }
+      ],
+      "duration_ms": 235875,
+      "name": "Jenna\u2019s Lullaby",
+      "url": "https://open.spotify.com/track/5JTwCoohusfE5CjptRqvHC"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2331,6 +2331,22 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
+      },
+      "artists": [
+        {
+          "name": "Jenna Talenti",
+          "url": "https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
         "name": "Arrivals",
         "url": "https://open.spotify.com/album/2wzLZcooRdJ6LYtIGTSDA8"
       },
@@ -2375,22 +2391,6 @@
       "duration_ms": 168000,
       "name": "Flores Del Cielo",
       "url": "https://open.spotify.com/track/5jD1fD1f9uIV9KkgNQaHy6"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
-      },
-      "artists": [
-        {
-          "name": "Jenna Talenti",
-          "url": "https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo"
-        }
-      ],
-      "duration_ms": 144705,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "528 Hz - Depth",
-        "url": "https://open.spotify.com/album/4I6ywVOrEHtslVrCFC3tI8"
-      },
-      "artists": [
-        {
-          "name": "Willow Bird",
-          "url": "https://open.spotify.com/artist/4xVge9wtVXlLcmj9BvDoHy"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "528 Hz - Depth",
-      "url": "https://open.spotify.com/track/4wir6hzWdheNZVGQQMOrih"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Flute Healing",
         "url": "https://open.spotify.com/album/2WLGdW54SxOEUfwt8cKN64"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 161250,
       "name": "Flute Healing",
       "url": "https://open.spotify.com/track/1maXwY21BGb8odKKutfKGw"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "528 Hz - Depth",
+        "url": "https://open.spotify.com/album/4I6ywVOrEHtslVrCFC3tI8"
+      },
+      "artists": [
+        {
+          "name": "Willow Bird",
+          "url": "https://open.spotify.com/artist/4xVge9wtVXlLcmj9BvDoHy"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "528 Hz - Depth",
+      "url": "https://open.spotify.com/track/4wir6hzWdheNZVGQQMOrih"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Captain Speaking",
-        "url": "https://open.spotify.com/album/6LxidQWnPX1XULUsNagGG8"
-      },
-      "artists": [
-        {
-          "name": "myndstream",
-          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
-        }
-      ],
-      "duration_ms": 377250,
-      "name": "Captain Speaking",
-      "url": "https://open.spotify.com/track/6nWU4ka90Da1aQsH9lDbgM"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Dream for me",
         "url": "https://open.spotify.com/album/16xkhJ4gPdifxksHPjsO1a"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 152440,
       "name": "Dream for me",
       "url": "https://open.spotify.com/track/0Ev8yzzWg7n6WIFeTrup5Q"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Captain Speaking",
+        "url": "https://open.spotify.com/album/6LxidQWnPX1XULUsNagGG8"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "duration_ms": 377250,
+      "name": "Captain Speaking",
+      "url": "https://open.spotify.com/track/6nWU4ka90Da1aQsH9lDbgM"
     },
     {
       "added_at": "2023-12-15 11:35:26",

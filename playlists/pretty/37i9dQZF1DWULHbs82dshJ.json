@@ -1,12 +1,12 @@
 {
   "description": "Trapperz Brasil apresenta... O Melhor do Hip Hop 2023",
-  "num_followers": 135929,
+  "num_followers": 136030,
   "original_name": "O Melhor de Trapperz Brasil 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTZmM2UwNzg0MWU5MDY5MDg3YzU5YjI0OTZkZmI2MmZlY2M2MTRl",
+  "snapshot_id": "MCxlZDVlMDc0ZmMzZTQ1NDJiMWJhOTQ1YjE4ODNjODczMmNhZTM3YmY5",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -946,6 +946,10 @@
         {
           "name": "Dallass",
           "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
         }
       ],
       "duration_ms": 137142,

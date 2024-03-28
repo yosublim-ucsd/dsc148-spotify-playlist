@@ -431,7 +431,7 @@
     {
       "added_at": "2023-10-30 18:23:14",
       "album": {
-        "name": "Walk",
+        "name": "walk",
         "url": "https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9"
       },
       "artists": [
@@ -442,10 +442,14 @@
         {
           "name": "Luh Tyler",
           "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Cash Kidd",
+          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
         }
       ],
-      "duration_ms": 124965,
-      "name": "Walk",
+      "duration_ms": 145649,
+      "name": "walk",
       "url": "https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz"
     },
     {

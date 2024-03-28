@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,868 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,980 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Watch Out Now](https://open.spotify.com/track/6sWZn6kTuTrBkbOEQFoB3a) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX) | [A Musical Massacre](https://open.spotify.com/album/1eLbbQa8xpbZdp4DtjMB66) | 2:54 |
 | 100 | [Ghost](https://open.spotify.com/track/0LBm4QrEsMlLbMGr3DFEp9) | [Mazen](https://open.spotify.com/artist/4ri7eLpPVlGqwclssOyJDM), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Ghost](https://open.spotify.com/album/7B9BkPmC0LxSHvPxiP9IzG) | 3:23 |
 
-Snapshot ID: `MCxiY2U3NzQ2NDZhYTliMmZjMjA2MGI3ZWJkMjk2Yzk0YTdiNjQ1ZDk1`
+Snapshot ID: `MCw0ZDZhMzU0ZTUxZGI3MjMzOGIzZDMzOTZhYTc4NDhkMGNkZjE2MmU3`

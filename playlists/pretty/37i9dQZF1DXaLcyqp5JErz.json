@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Damares",
-  "num_followers": 552413,
+  "num_followers": 552593,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2RlOTQ5Yjg3NzU4NGIzMDQzMGNjNGE2ZmIxOGY3MmU2NWYxY2M5",
+  "snapshot_id": "MCxkZDI2ZmZmNjU2OWRjM2MwYTM0ZTgwMWU0NjJjZGJlZDIzMjUxODQw",
   "tracks": [
     {
       "added_at": "2023-10-13 16:02:51",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
+        "name": "O Nome de Jesus",
+        "url": "https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 307741,
+      "name": "O Nome de Jesus",
+      "url": "https://open.spotify.com/track/2HhAhITEupMNYQAG08Ejb1"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
         "name": "Entre Amigos",
         "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 197800,
       "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
       "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
-        "name": "O Nome de Jesus",
-        "url": "https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 307741,
-      "name": "O Nome de Jesus",
-      "url": "https://open.spotify.com/track/2HhAhITEupMNYQAG08Ejb1"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Excel\u00eancia",
-        "url": "https://open.spotify.com/album/3QVHZqFuidFGcltxY0rMDW"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 333546,
-      "name": "Adorador por Excel\u00eancia",
-      "url": "https://open.spotify.com/track/6CEXs4A3QhmQ4LLBXl096K"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "Restitui\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ejtRPtmaWU8EGMxeQqjc0"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 448026,
       "name": "Restitui - Ao Vivo",
       "url": "https://open.spotify.com/track/5PGJTUqtP5RRwxHcwYKcHk"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Excel\u00eancia",
+        "url": "https://open.spotify.com/album/3QVHZqFuidFGcltxY0rMDW"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 333546,
+      "name": "Adorador por Excel\u00eancia",
+      "url": "https://open.spotify.com/track/6CEXs4A3QhmQ4LLBXl096K"
     },
     {
       "added_at": "2023-10-13 16:02:51",

@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-491 songs - 1 day 1 hr 50 min
+492 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Legends Never Die](https://open.spotify.com/track/1FpVJ7HpZInE2GvhVE2TwT) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Legends Never Die](https://open.spotify.com/album/30gnisiaho0Y6KRWJ7gIaA) | 3:55 | 2022-05-06 | 2023-07-19 |
 | [Let Love Win](https://open.spotify.com/track/5jB0IkgKoNeHcCObpZuPXP) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [PARALLAX](https://open.spotify.com/album/1fup3EK4hxpYo0UxxbZiRY) | 3:18 | 2022-05-06 | 2022-07-23 |
 | [Let Me In](https://open.spotify.com/track/5HSRz2SISlCFnP63QqBvYj) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T) | [Let Me In](https://open.spotify.com/album/33mgM1ZKJQ9dYL3nfgrVpl) | 3:48 | 2022-05-06 | 2022-07-16 |
+| [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX) | 2:29 | 2024-03-27 |  |
 | [Let You Go](https://open.spotify.com/track/1P2lKWIXQjsydsShxSl0dr) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O), [Rickie Nolls](https://open.spotify.com/artist/4kbFvZah1kAfBm1kM66Nj6) | [Let You Go](https://open.spotify.com/album/1Ajde0Sni36QISUllancTT) | 3:58 | 2022-05-06 | 2022-07-29 |
 | [Letting Go](https://open.spotify.com/track/6XYJSifomaDXaXbbh91kvQ) | [Audioscribe](https://open.spotify.com/artist/1zCwEEtlGUmFFAEvQ9jW6D), [Rhode](https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi) | [Letting Go](https://open.spotify.com/album/0U2XAIRREIOaIE3rcInr4N) | 4:56 | 2022-05-13 | 2022-07-28 |
 | [Level Up! \(w/ Odetari\)](https://open.spotify.com/track/3K9zbczgk5tMsM6NNmkcB9) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Level Up! \(w/ Odetari\)](https://open.spotify.com/album/6bNTJdQMxMqLo6NA7CVxXq) | 2:11 | 2024-01-19 |  |
@@ -386,7 +387,7 @@
 | [Somebody To Love](https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ) | [Axel Black & White](https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN) | [Somebody To Love](https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc) | 2:21 | 2022-07-14 | 2024-01-19 |
 | [Someone Else](https://open.spotify.com/track/44MxUoeZg6FXDlHMrSbVjX) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Someone Else](https://open.spotify.com/album/5Q0yJFxE7xO4JuzrncIGsz) | 3:46 | 2022-05-06 | 2022-07-29 |
 | [Someone Else \- PEEKABOO Remix](https://open.spotify.com/track/1qDOI487GoDlWyvzckhzo4) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Someone Else \(PEEKABOO Remix\)](https://open.spotify.com/album/1CxrLWDUvfOaKHNsKGfUQ1) | 4:16 | 2022-05-06 | 2022-05-10 |
-| [Something Comforting](https://open.spotify.com/track/5g7bsxCqNaucnXpexUoHg8) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 4:41 | 2023-07-18 |  |
+| [Something Comforting](https://open.spotify.com/track/5g7bsxCqNaucnXpexUoHg8) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 4:41 | 2023-07-18 | 2024-03-28 |
 | [Spooky Phonk](https://open.spotify.com/track/7FNe6UNfm6JGctIPipvmUc) | [Nic Sarno](https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo) | [Spooky Phonk](https://open.spotify.com/album/17EOtip2oAoZhm97NxOuWS) | 2:56 | 2022-07-14 | 2022-07-25 |
 | [Starseed](https://open.spotify.com/track/7LKm8GVnMcDMXfDyhVcODr) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Starseed](https://open.spotify.com/album/74KWrRo8ZDCeL1fJF9cCbh) | 4:38 | 2022-05-06 | 2022-07-28 |
 | [Starts Right Here](https://open.spotify.com/track/0MovQqn6F6M1kyAiBIn5CA) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Starts Right Here](https://open.spotify.com/album/3zw7Q4NV7QJxFjSY3QnBgX) | 3:05 | 2022-05-06 | 2024-01-18 |

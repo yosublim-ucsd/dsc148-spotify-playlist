@@ -1,33 +1,13 @@
 {
-  "description": "Wat kan het Nederlands toch mooi zijn. Cover: 3JS",
-  "num_followers": 23236,
+  "description": "Wat kan het Nederlands toch mooi zijn. Cover: Herman van Veen",
+  "num_followers": 23256,
   "original_name": "Mooi Nederlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjYyMzc5NDkzN2M0MjEyYjdhMjk1OGY2NTE2ZjE5OTIxYTFlN2Zk",
+  "snapshot_id": "MCw1OTA1NjgxNTJmOWMzNTZiMmEwM2Q1NWI0YjQyMGExNTgyYjAwODk2",
   "tracks": [
-    {
-      "added_at": "2024-03-22 16:44:19",
-      "album": {
-        "name": "Dan ben jij weer hier (feat. Red Limo quartet)",
-        "url": "https://open.spotify.com/album/2ROH24w8CUD7bAUQ66nRSK"
-      },
-      "artists": [
-        {
-          "name": "3JS",
-          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
-        },
-        {
-          "name": "Red Limo Quartet",
-          "url": "https://open.spotify.com/artist/2rdJcBg2tEvmo0lVpYDizQ"
-        }
-      ],
-      "duration_ms": 280912,
-      "name": "Dan ben jij weer hier - feat. Red Limo quartet",
-      "url": "https://open.spotify.com/track/6ec3NKQLnV7LcV319qvHan"
-    },
     {
       "added_at": "2024-03-22 16:44:19",
       "album": {
@@ -75,6 +55,26 @@
       "duration_ms": 211174,
       "name": "Dat heb jij gedaan",
       "url": "https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g"
+    },
+    {
+      "added_at": "2024-03-22 16:44:19",
+      "album": {
+        "name": "Dan ben jij weer hier (feat. Red Limo quartet)",
+        "url": "https://open.spotify.com/album/2ROH24w8CUD7bAUQ66nRSK"
+      },
+      "artists": [
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        },
+        {
+          "name": "Red Limo Quartet",
+          "url": "https://open.spotify.com/artist/2rdJcBg2tEvmo0lVpYDizQ"
+        }
+      ],
+      "duration_ms": 280912,
+      "name": "Dan ben jij weer hier - feat. Red Limo quartet",
+      "url": "https://open.spotify.com/track/6ec3NKQLnV7LcV319qvHan"
     },
     {
       "added_at": "2024-03-22 16:44:19",

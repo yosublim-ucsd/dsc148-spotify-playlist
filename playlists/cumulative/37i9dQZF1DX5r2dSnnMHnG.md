@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5r2dSnnMHnG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5r2dSnnMHnG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5r2dSnnMHnG)
 
-### [봄같은 설레임](https://open.spotify.com/playlist/37i9dQZF1DX5r2dSnnMHnG)
+### [\*봄 설레임](https://open.spotify.com/playlist/37i9dQZF1DX5r2dSnnMHnG)
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 

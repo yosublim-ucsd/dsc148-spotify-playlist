@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 20807,
+  "2024-03-28": 20839,
   "date_first_scraped": "2023-04-07",
   "description": "This is Tainy. The essential tracks, all in one playlist.",
   "name": "This Is Tainy",
@@ -727,7 +727,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 198613,
       "name": "Imaginaste",
       "url": "https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 188862,
       "name": "MERA (with Dalex & \u00c1lvaro D\u00edaz)",
       "url": "https://open.spotify.com/track/3mr13zNWprAzYYY0RinBCp"
@@ -1717,7 +1717,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 259534,
       "name": "VA Y VEN",
       "url": "https://open.spotify.com/track/1Jo3PXI2jQY3kI2nZH3lyW"

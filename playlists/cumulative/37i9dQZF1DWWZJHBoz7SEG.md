@@ -4,7 +4,7 @@
 
 > El calor está con todo, pero estas nuevas rolitas te van a subir aún más la temperatura 🥵🔥 Xavi en portada.
 
-5,472 songs - 12 day 10 hr 56 min
+5,473 songs - 12 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2688,7 +2688,8 @@
 | [Long Goodbye](https://open.spotify.com/track/16DVu0Kqj2RpmiCuLpqRQp) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/7JXHOJzHPh43y5gxDHoV97) | 4:23 | 2023-09-08 | 2023-09-16 |
 | [Look Ma, No Brains!](https://open.spotify.com/track/0Xs1aDAUmp3W6If2y5JQMK) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Look Ma, No Brains!](https://open.spotify.com/album/2alV6LwgUWGExud9ntcugb) | 2:03 | 2023-11-03 | 2023-11-11 |
 | [Lopa Lopa](https://open.spotify.com/track/3wN2LYSmcj80zzXkHfbmTd) | [Jencko el Shinobi](https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf), [Alnz G](https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB) | [Lopa Lopa](https://open.spotify.com/album/3sZWtxmRdPNyd15r7XyoI8) | 2:22 | 2024-01-12 | 2024-01-20 |
-| [Loquera](https://open.spotify.com/track/3XcS1eK277s6aSn3P3cGku) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Loquera](https://open.spotify.com/album/2xAayME6IieKXPq2WmPd7o) | 2:32 | 2024-03-22 |  |
+| [Loquera](https://open.spotify.com/track/3XcS1eK277s6aSn3P3cGku) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Loquera](https://open.spotify.com/album/2xAayME6IieKXPq2WmPd7o) | 2:32 | 2024-03-22 | 2024-03-28 |
+| [Loquera](https://open.spotify.com/track/5OlspCona9qgcuBuMI7rOD) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [KEVIN PÓRTATE BIEN](https://open.spotify.com/album/78MQL4LdKOTHCyCoElZQhN) | 2:32 | 2024-03-22 |  |
 | [Lorelei](https://open.spotify.com/track/08fcIMIo6tXMHm0UbqVdvQ) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 3:00 | 2024-03-22 |  |
 | [LOS APARATOS](https://open.spotify.com/track/4SSbtLDkepeOHAckM1FCBP) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [LOS APARATOS](https://open.spotify.com/album/4l8c1V5208sGn5IkInMzUi) | 3:52 | 2022-08-05 | 2022-12-03 |
 | [Los Besos Que Te Debo](https://open.spotify.com/track/1XpyCcce2n2d0zm3IUcAvl) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [Los Besos Que Te Debo](https://open.spotify.com/album/3QiEjbvpEbKlSUahYUgaZT) | 3:26 | 2023-07-21 | 2023-07-29 |

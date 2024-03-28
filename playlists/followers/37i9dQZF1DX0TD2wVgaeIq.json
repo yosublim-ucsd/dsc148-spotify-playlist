@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 69403,
+  "2024-03-28": 69550,
   "date_first_scraped": "2023-07-08",
   "description": "Beautiful bansuri flute and sitar from India. ",
   "name": "Relaxing Ragas",
@@ -1346,6 +1346,28 @@
     },
     {
       "album": {
+        "name": "Siddharthas Echoes",
+        "url": "https://open.spotify.com/album/55Jz6l9fzWVopImHAFYzoG"
+      },
+      "artists": [
+        {
+          "name": "Vedic Moon",
+          "url": "https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7"
+        },
+        {
+          "name": "Vic Vision",
+          "url": "https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192473,
+      "name": "Siddharthas Echoes",
+      "url": "https://open.spotify.com/track/0VB1Djbd1gnDZzhLHopYIf"
+    },
+    {
+      "album": {
         "name": "Slowly Healing",
         "url": "https://open.spotify.com/album/2a6QiYnjdRT9rclhvM2hQa"
       },
@@ -1379,6 +1401,24 @@
       "duration_ms": 377228,
       "name": "Soothing Oasis",
       "url": "https://open.spotify.com/track/6SLhNH99NX98JlN1rnrtFl"
+    },
+    {
+      "album": {
+        "name": "Sublime Echoes",
+        "url": "https://open.spotify.com/album/6NBUk1TNjJN5dyITHeeiUX"
+      },
+      "artists": [
+        {
+          "name": "Sleep Advisor",
+          "url": "https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168482,
+      "name": "Sublime Echoes",
+      "url": "https://open.spotify.com/track/2NXt2eLG4kvSJovsfQC0hO"
     },
     {
       "album": {

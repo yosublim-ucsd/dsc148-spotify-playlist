@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-688 songs - 1 day 15 hr 47 min
+689 songs - 1 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Daybreak](https://open.spotify.com/track/3JRTdqas2IpIXLGdrLhRUG) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Daybreak](https://open.spotify.com/album/3H3s8lkiSk2psIyUf5T0eh) | 3:06 | 2023-07-26 | 2023-12-14 |
 | [Dead Man Walking](https://open.spotify.com/track/4ZPwjq0CdxbWFNycxnSUJc) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X) | [Dead Man Walking](https://open.spotify.com/album/0UWFD6lsReiZ7D7e6gARcA) | 2:46 | 2022-07-21 | 2022-10-01 |
 | [Deadlock](https://open.spotify.com/track/40b8QH6QvHYHmP83ktqvXI) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Deadlock](https://open.spotify.com/album/3vCyRU348Fv0hijMp97iqj) | 3:27 | 2023-06-26 | 2023-09-26 |
+| [Decimate](https://open.spotify.com/track/58nKKLokxvBiFcpnhBd3Jz) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Decimate](https://open.spotify.com/album/0LcvAMk0yY5fYuiUDzRMCS) | 3:30 | 2024-03-27 |  |
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-21 | 2022-06-03 |
 | [destination heartbreak](https://open.spotify.com/track/52jU1xu6sYArAcWufqlpyK) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak pt\. 2](https://open.spotify.com/album/3YHaDF9skvzUA0OvqzTZD8) | 3:47 | 2023-02-10 | 2023-05-03 |
 | [Different](https://open.spotify.com/track/3rnFEiW9efHwnzsb9KzUVd) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:20 | 2022-10-21 | 2023-01-11 |
@@ -333,7 +334,7 @@
 | [Lacuna](https://open.spotify.com/track/7DJtpkk5hNrM8AFTjKPlZv) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Kymira](https://open.spotify.com/artist/6bWdHKULequjwRPTQYWzer) | [Lacuna](https://open.spotify.com/album/0uzhDCZK3SP1oPYSzqQHOA) | 3:59 | 2023-08-08 | 2023-12-14 |
 | [Land of the Living](https://open.spotify.com/track/5kfnCvlXXJEa9HpFKdSczm) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Land of the Living](https://open.spotify.com/album/1Ok5c9oP3hWgunQvhIsC0e) | 2:40 | 2023-08-22 | 2023-12-14 |
 | [Landslide](https://open.spotify.com/track/7DsQcrBb8p6dc6ccMFf7Gk) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Landslide](https://open.spotify.com/album/4vEjKBgSWs2EvLWQ4FNL8n) | 3:10 | 2023-03-03 | 2023-05-30 |
-| [Landslide \- BOTCASH Remix](https://open.spotify.com/track/605ohRZDdw3UEzalXZWrM6) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [BOTCASH](https://open.spotify.com/artist/2ohZgLU6lCv55yV3d05nMv) | [Landslide \(BOTCASH Remix\)](https://open.spotify.com/album/2mS5bt6HNrbxWKOBhAvR7i) | 3:22 | 2023-12-14 |  |
+| [Landslide \- BOTCASH Remix](https://open.spotify.com/track/605ohRZDdw3UEzalXZWrM6) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [BOTCASH](https://open.spotify.com/artist/2ohZgLU6lCv55yV3d05nMv) | [Landslide \(BOTCASH Remix\)](https://open.spotify.com/album/2mS5bt6HNrbxWKOBhAvR7i) | 3:22 | 2023-12-14 | 2024-03-28 |
 | [Lastecostra](https://open.spotify.com/track/2bwAt55jyN5QGQhWFkwvez) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Lastecostra](https://open.spotify.com/album/1fwfYJCgNpfuYAq0FR0HC5) | 3:21 | 2023-10-03 | 2024-01-17 |
 | [Leap Of Faith](https://open.spotify.com/track/3hxpfTyfr2dU55eVGheeDp) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Leap Of Faith](https://open.spotify.com/album/696TSD9rzaKK6hJbSgEPnN) | 3:13 | 2023-08-22 | 2023-12-14 |
 | [Leave The World Behind](https://open.spotify.com/track/5sbsBKsvwpQdSMZzge0Fy6) | [nuphory](https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija), [Luna Lenta](https://open.spotify.com/artist/36un9X6TbRfeYAMadbI2SN) | [Leave The World Behind](https://open.spotify.com/album/5o3db722bxyOZJzdTxEiPL) | 3:37 | 2024-01-31 |  |

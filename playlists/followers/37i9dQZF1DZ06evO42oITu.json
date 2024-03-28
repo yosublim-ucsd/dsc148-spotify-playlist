@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 345509,
+  "2024-03-28": 345563,
   "date_first_scraped": "2022-08-06",
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
   "name": "This Is Eric Clapton",
@@ -2161,7 +2161,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 397200,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/1bursm5ZnNHQS55a23h7kR"
@@ -2687,7 +2687,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"

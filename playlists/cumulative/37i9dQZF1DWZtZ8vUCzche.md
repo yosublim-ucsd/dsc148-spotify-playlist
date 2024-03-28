@@ -2,7 +2,7 @@
 
 ### [Songs To Test Headphones With](https://open.spotify.com/playlist/37i9dQZF1DWZtZ8vUCzche)
 
-> Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks\. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href="spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ">Classical version here</a>.
+> An eclectic collection of brilliantly produced and recorded tracks.
 
 353 songs - 1 day 5 hr 5 min
 

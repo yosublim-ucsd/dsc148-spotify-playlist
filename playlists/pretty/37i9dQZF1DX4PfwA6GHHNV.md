@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,402 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,421 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 33 | [Anel da Pandora](https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU) | [greg mc](https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X), [ESCOB4R](https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy) | [Anel da Pandora](https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH) | 3:19 |
 | 34 | [Medusa](https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Medusa](https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT) | 2:24 |
 | 35 | [Quando cê vem](https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Quando cê vem](https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX) | 3:36 |
-| 36 | [Não Prometeu Nada](https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf) | [Victor sant's](https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp), [Pivet Panda](https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW) | [Não Prometeu Nada](https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS) | 2:55 |
-| 37 | [O Que Ela Tem?](https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja) | [Volpato](https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl), [BETINHO](https://open.spotify.com/artist/51CZxgpuuYyBfyM99WEnWa), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [O Que Ela Tem?](https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7) | 2:13 |
+| 36 | [O Que Ela Tem?](https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja) | [Volpato](https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl), [BETINHO](https://open.spotify.com/artist/51CZxgpuuYyBfyM99WEnWa), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [O Que Ela Tem?](https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7) | 2:13 |
+| 37 | [Não Prometeu Nada](https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf) | [Victor sant's](https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp), [Pivet Panda](https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW) | [Não Prometeu Nada](https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS) | 2:55 |
 | 38 | [Me Diz](https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL) | [Neittan](https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n), [Paulla](https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns), [AlmaViva Música](https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG) | [Me Diz](https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP) | 2:42 |
 | 39 | [Arrepios](https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj) | [Arrepios](https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg) | 3:25 |
-| 40 | [Tô Aqui de Novo](https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo) | [Vinijoe](https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx) | [Tô Aqui de Novo](https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp) | 3:35 |
-| 41 | [Afasta](https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Afasta](https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k) | 2:55 |
+| 40 | [Afasta](https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Afasta](https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k) | 2:55 |
+| 41 | [Tô Aqui de Novo](https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo) | [Vinijoe](https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx) | [Tô Aqui de Novo](https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp) | 3:35 |
 | 42 | [Não Me Ligue Mais](https://open.spotify.com/track/2tpRMFNcz07zf1EPUomzHV) | [Cleiton Oliveira](https://open.spotify.com/artist/4d8by4oOSOmGSeDgcz1BYs), [Jovem Ralph](https://open.spotify.com/artist/3BqCREDFLYfJiX8yZrKtrR) | [Fatossíntese](https://open.spotify.com/album/48Oq95WI5z99HaqpFv6hS3) | 2:35 |
 | 43 | [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 |
 | 44 | [Águas Passadas](https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Águas Passadas](https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 49 | [Enquanto o tempo passa](https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Enquanto o tempo passa](https://open.spotify.com/album/3Z25lZgzdpM0Zd1LE3g6u0) | 2:11 |
 | 50 | [TocToc](https://open.spotify.com/track/452FBQWeQfbivI4APRWld6) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [TocToc](https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT) | 2:35 |
 
-Snapshot ID: `MCw5NDJjNWQ3MzJiMDQ2NGYzMmY3MjI4YzYxMGJmMDVjOTEzYTRmYjkx`
+Snapshot ID: `MCxiYmYwODYwYTM2M2ZmNmQwNDhkOGNkN2U1ZDczZTgyYjEyMTY1OTJh`

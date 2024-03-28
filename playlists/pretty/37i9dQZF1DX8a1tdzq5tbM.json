@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1555463,
+  "num_followers": 1555788,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTY0ZmYxMjk0NWFiMGNlMmFhMmFiNGI3MDA4OGE2NTQ3MWEzMDFi",
+  "snapshot_id": "MCw3ZWQ1ZWM1NjQ0ZGJhOWM3YTFhODNhMDZmZTkxMWY2MjcxN2NiM2Q2",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5djOwKQnkgTv6eUgCtdFAz"
-      },
-      "artists": [
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "Together - Radio Edit",
-      "url": "https://open.spotify.com/track/4PQCrz4sk00dIEmkwmmJCr"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "The Sound of Goodbye, Pt. 2",
         "url": "https://open.spotify.com/album/5bCAsnDwc633FM025XeWeP"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 199133,
       "name": "The Sound of Goodbye - Above & Beyond UK Edit",
       "url": "https://open.spotify.com/track/1GMw17BGY1vDWNJ4xVo9V6"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5djOwKQnkgTv6eUgCtdFAz"
+      },
+      "artists": [
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "Together - Radio Edit",
+      "url": "https://open.spotify.com/track/4PQCrz4sk00dIEmkwmmJCr"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1399,6 +1399,26 @@
       "duration_ms": 207066,
       "name": "I Am Free - Radio Edit",
       "url": "https://open.spotify.com/track/1cSOchpDSHvJjtBHLVrxT1"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Western Dream",
+        "url": "https://open.spotify.com/album/2kscq6zA1a9vFQy8MsWFM0"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "duration_ms": 401360,
+      "name": "World, Hold On (Children of the Sky)",
+      "url": "https://open.spotify.com/track/04jZqMtDNKGjIsRdf5vHtK"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1815,26 +1835,6 @@
       "duration_ms": 211266,
       "name": "Sorry - Dirty South Radio Edit",
       "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Western Dream",
-        "url": "https://open.spotify.com/album/2kscq6zA1a9vFQy8MsWFM0"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        }
-      ],
-      "duration_ms": 401360,
-      "name": "World, Hold On (Children of the Sky)",
-      "url": "https://open.spotify.com/track/04jZqMtDNKGjIsRdf5vHtK"
     },
     {
       "added_at": "2023-03-22 14:00:00",

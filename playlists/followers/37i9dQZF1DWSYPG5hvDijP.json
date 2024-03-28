@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 1118,
+  "2024-03-28": 1233,
   "date_first_scraped": "2023-03-30",
   "description": "New Hip Hop from India.",
   "name": "Taaza hai bro!",
@@ -347,6 +347,32 @@
       "duration_ms": 205937,
       "name": "All Fall Down",
       "url": "https://open.spotify.com/track/6hvrcoCUK0TkZ9BAL4m68e"
+    },
+    {
+      "album": {
+        "name": "Alloy Wheel",
+        "url": "https://open.spotify.com/album/3NrgliVv0E9wunyXSuBgvv"
+      },
+      "artists": [
+        {
+          "name": "Dc",
+          "url": "https://open.spotify.com/artist/2FOKZV8ZRTKsJ9v90qIxoU"
+        },
+        {
+          "name": "Sukki",
+          "url": "https://open.spotify.com/artist/3mwwoRoH5cpXktunHY0Ecn"
+        },
+        {
+          "name": "We Are One",
+          "url": "https://open.spotify.com/artist/5m1CuvIRLwkzqpsdvtBcWu"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Alloy Wheel",
+      "url": "https://open.spotify.com/track/4aJX7324iEFV5cRAcHcjph"
     },
     {
       "album": {
@@ -1093,6 +1119,28 @@
       "duration_ms": 152245,
       "name": "Capital",
       "url": "https://open.spotify.com/track/2rWXHzfYluOCWfEch3D9YH"
+    },
+    {
+      "album": {
+        "name": "Chai aur Meetha",
+        "url": "https://open.spotify.com/album/4wOIhztS8Urn8LXqXMIX3X"
+      },
+      "artists": [
+        {
+          "name": "Frappe Ash",
+          "url": "https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH"
+        },
+        {
+          "name": "toorjo dey",
+          "url": "https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Chai aur Meetha",
+      "url": "https://open.spotify.com/track/4ndJIyM9HIu1OoMkciX0Gz"
     },
     {
       "album": {
@@ -4157,7 +4205,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 210507,
       "name": "Scene Change",
       "url": "https://open.spotify.com/track/5IVfZKvSkv8XtlswgBcmCE"

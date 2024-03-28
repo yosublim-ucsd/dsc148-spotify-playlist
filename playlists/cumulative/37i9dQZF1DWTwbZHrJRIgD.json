@@ -2379,6 +2379,32 @@
     },
     {
       "album": {
+        "name": "Love Story Natthi (From \"Dukaan\")",
+        "url": "https://open.spotify.com/album/0z6m3U7sDPM5N8jU6G3zVE"
+      },
+      "artists": [
+        {
+          "name": "Shreyas Puranik",
+          "url": "https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d"
+        },
+        {
+          "name": "Siddharth - Garima",
+          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270500,
+      "name": "Love Story Natthi (From \"Dukaan\")",
+      "url": "https://open.spotify.com/track/0P6fbw9MrsCS6KgQmBbtZW"
+    },
+    {
+      "album": {
         "name": "Dear Zindagi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW"
       },

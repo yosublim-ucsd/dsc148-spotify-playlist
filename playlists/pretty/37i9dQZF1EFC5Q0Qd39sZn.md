@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,636 likes - 508 songs - 1 day 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,639 likes - 508 songs - 1 day 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,8 +223,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 213 | [Delete You](https://open.spotify.com/track/5LXEgus3zxYYBruGDy14tx) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Guilty Pleasure](https://open.spotify.com/album/4iKfmBKXuzPROAXBuZKAVM) | 3:33 |
 | 214 | [Exceptional](https://open.spotify.com/track/7nqKm8Nj4GXmvknMjjc9vf) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa) | 3:43 |
 | 215 | [The Change](https://open.spotify.com/track/2buUEhuN8I6tZ27kaWfqyh) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Change](https://open.spotify.com/album/1bZb08UfxnPsbz8MN2hhbF) | 3:35 |
-| 216 | [Taken](https://open.spotify.com/track/758x5c6DtwpX1RuoRhr39i) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 2:48 |
-| 217 | [Nic Nás Nezastaví](https://open.spotify.com/track/027HCxtutlZLuErAbNKOoi) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM), [Gabriela Gunčíková](https://open.spotify.com/artist/1hP5sHxrXXIEoobF4EGcie) | [Dotek Lásky](https://open.spotify.com/album/4xLycbbzp5p1gxGR7YZMtd) | 3:51 |
+| 216 | [Nic Nás Nezastaví](https://open.spotify.com/track/027HCxtutlZLuErAbNKOoi) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM), [Gabriela Gunčíková](https://open.spotify.com/artist/1hP5sHxrXXIEoobF4EGcie) | [Dotek Lásky](https://open.spotify.com/album/4xLycbbzp5p1gxGR7YZMtd) | 3:51 |
+| 217 | [Taken](https://open.spotify.com/track/758x5c6DtwpX1RuoRhr39i) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 2:48 |
 | 218 | [You Stay With Me](https://open.spotify.com/track/6xo6MNE2aUY6Pc7jRgq39I) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:12 |
 | 219 | [The Closest Thing To Heaven](https://open.spotify.com/track/0drFx5desDPkH3emUDPIW5) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Time](https://open.spotify.com/album/4o5S5EwZLGCIvWOaWonhkA) | 3:59 |
 | 220 | [The Truth Is In There](https://open.spotify.com/track/2AMjbQRrfoFw7J9GsyYeEz) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [The Truth Is In There](https://open.spotify.com/album/6kyvW9sfxdepzgmyfgr7F2) | 2:23 |
@@ -330,8 +330,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 320 | [Eyes Of A Fool](https://open.spotify.com/track/3lAAQmO8XbaNHXTUIPOcZT) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Heart, Soul & A Voice](https://open.spotify.com/album/5XUP2uXNuwU04iC02ViO3A) | 4:08 |
 | 321 | [Insecurious](https://open.spotify.com/track/5PVCtgNjWVGCDckerpyqWY) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 3:30 |
 | 322 | [Love Is All That Matters](https://open.spotify.com/track/1lieKlQXApNKa5RqNGUpOa) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Every Day Is a New Day](https://open.spotify.com/album/06Oz3WGqsrMwHz4VmtUORF) | 4:10 |
-| 323 | [Destiny](https://open.spotify.com/track/01fzaHAVh1WRHbibPaMutB) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Destiny](https://open.spotify.com/album/04j2Z6lAlG5hHmZh3lLqaP) | 5:11 |
-| 324 | [Can't Lie To My Heart](https://open.spotify.com/track/6utxJKrimJZqk19ilGHily) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [The Earth, A Small Man, His Dog And A Chicken](https://open.spotify.com/album/6EdOrosZMD99AGAFC2NxcC) | 4:40 |
+| 323 | [Can't Lie To My Heart](https://open.spotify.com/track/6utxJKrimJZqk19ilGHily) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [The Earth, A Small Man, His Dog And A Chicken](https://open.spotify.com/album/6EdOrosZMD99AGAFC2NxcC) | 4:40 |
+| 324 | [Destiny](https://open.spotify.com/track/01fzaHAVh1WRHbibPaMutB) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Destiny](https://open.spotify.com/album/04j2Z6lAlG5hHmZh3lLqaP) | 5:11 |
 | 325 | [Get Used To Me](https://open.spotify.com/track/2hPv8ZMQUo99h3wGVfebzQ) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [The Sapphires](https://open.spotify.com/album/4Zr5Edzh28GdL6RTi2Ovsl) | 3:16 |
 | 326 | [Time Stand Still \(feat\. Kiara Sasso\) \- Ao Vivo](https://open.spotify.com/track/1QvRz7oDgrWHiretTburFX) | [Daniel Boaventura](https://open.spotify.com/artist/6zhFFESLaKmtRCQ1VVi3kw), [Kiara Sasso](https://open.spotify.com/artist/4BsQ1RsulvNRosBibZeTY5) | [Your Song \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/4Mi7oqkGF1vsixn6zry7eI) | 3:57 |
 | 327 | [I Want Somebody \(Bitch About\)](https://open.spotify.com/track/4jDX3Zk4eVsRGbXwmpBCqn) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Some Lessons Learned](https://open.spotify.com/album/563p0cCXffZYFVHOYRFLK5) | 3:10 |
@@ -367,8 +367,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 357 | [I Tried](https://open.spotify.com/track/4ik9oDeRdXGKheZ6LXLFWX) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Legacy \(Volume One\)](https://open.spotify.com/album/4Cpi2rXw1GfsC8L4je7lO6) | 4:04 |
 | 358 | [In Walked Love](https://open.spotify.com/track/5UzPgmMKEwsxZsQbwXQFkY) | [Exposé](https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb) | [Exposé](https://open.spotify.com/album/4O0YlGNpMCAPXsWOiivJJd) | 4:54 |
 | 359 | [Couldn't Say Goodbye](https://open.spotify.com/track/0YSXgWm3oTCWIo7RSUg17X) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Carrying a Torch](https://open.spotify.com/album/0mtNKWJ7tZkESd0k36ei5c) | 3:50 |
-| 360 | [Say What's In My Heart](https://open.spotify.com/track/3h54CP9giBXujwP7QH44dW) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [...To Make Me Who I Am](https://open.spotify.com/album/52TjEeeF9VQMBBtWcePxKy) | 4:20 |
-| 361 | [I'll Come Runnin'](https://open.spotify.com/track/431rUCxqrubQs5Xay3va5N) | [Juice](https://open.spotify.com/artist/6MvVFJb6iebegaT6FLxEAF) | [Something To Feel](https://open.spotify.com/album/3pWZkAbvLJE40u4Mtrfagc) | 4:25 |
+| 360 | [I'll Come Runnin'](https://open.spotify.com/track/431rUCxqrubQs5Xay3va5N) | [Juice](https://open.spotify.com/artist/6MvVFJb6iebegaT6FLxEAF) | [Something To Feel](https://open.spotify.com/album/3pWZkAbvLJE40u4Mtrfagc) | 4:25 |
+| 361 | [Say What's In My Heart](https://open.spotify.com/track/3h54CP9giBXujwP7QH44dW) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [...To Make Me Who I Am](https://open.spotify.com/album/52TjEeeF9VQMBBtWcePxKy) | 4:20 |
 | 362 | [Other People's Lives](https://open.spotify.com/track/5y9HLY26I0nytnGUKC913B) | [Don Johnson](https://open.spotify.com/artist/29gt8yNK2jFp21ZWXISskB) | [Let It Roll](https://open.spotify.com/album/3ugyPjTyWpPkiIOzCGNj9B) | 5:27 |
 | 363 | [You Can't Lose Me](https://open.spotify.com/track/5BHDp0MlIMLiD9CXh8yhu0) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [02](https://open.spotify.com/album/7iVHDgfwwIh0dfRT8AqghK) | 3:40 |
 | 364 | [Como Vivir Sin Verte](https://open.spotify.com/track/6kZZ5SRJry04kVh66RvO4d) | [Millie](https://open.spotify.com/artist/58gEIyWzfX7TWUavPnOGzW) | [Amar Es Un Juego \(Remastered\)](https://open.spotify.com/album/30D5RlGF3jfBu8iwFj27ws) | 4:37 |
@@ -473,8 +473,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 463 | [One Less Lonely Heart](https://open.spotify.com/track/1VuOHhfq5IMKolMQP9nms3) | [Smokey Mountain](https://open.spotify.com/artist/4kqsp7WTMpLUKe9GDJfY97) | [Know You Will](https://open.spotify.com/album/0aQ3iPqAB5roQwAqF4t4bf) | 4:33 |
 | 464 | [Earthbound](https://open.spotify.com/track/7ehWiVnECZg3Xt8CACblJ1) | [Moya](https://open.spotify.com/artist/1gzYTBlAMrESMPMueOZ31b) | [Earthbound](https://open.spotify.com/album/64eLQm7TkEZtowHYwDqIVG) | 4:23 |
 | 465 | [New Fire from an Old Flame](https://open.spotify.com/track/2KbJbYybWdMuJ9eDkE1nWs) | [Miki Howard](https://open.spotify.com/artist/7GTUAEg2QH41GgTmkIldjh) | [Femme Fatale](https://open.spotify.com/album/06jxwPZJrt0LQ6Jzbh0kbO) | 4:21 |
-| 466 | [Time Will](https://open.spotify.com/track/76h0PJfdpdPNPErt70hWlk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 5:47 |
-| 467 | [Call Out To Me](https://open.spotify.com/track/2PpPkuyHSSyxFee8Q9XXMy) | [Kathy Troccoli](https://open.spotify.com/artist/73CmW7Heo8CxnYXydAs6qc) | [Love And Mercy](https://open.spotify.com/album/6en5tkbBKIb49yzjb97T9Y) | 3:51 |
+| 466 | [Call Out To Me](https://open.spotify.com/track/2PpPkuyHSSyxFee8Q9XXMy) | [Kathy Troccoli](https://open.spotify.com/artist/73CmW7Heo8CxnYXydAs6qc) | [Love And Mercy](https://open.spotify.com/album/6en5tkbBKIb49yzjb97T9Y) | 3:51 |
+| 467 | [Time Will](https://open.spotify.com/track/76h0PJfdpdPNPErt70hWlk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 5:47 |
 | 468 | [Como Olvidarte](https://open.spotify.com/track/5KGwj6UJUl9IrXvSJT9in0) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [30 Exitos Insuperables](https://open.spotify.com/album/3dDQTasjfvYmoXwPcIj5To) | 4:04 |
 | 469 | [I Confess \- 12" Dance Mix](https://open.spotify.com/track/6yUbtzcCh0EMMD2cgqv090) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Hot On the Trail \(Expanded Edition\)](https://open.spotify.com/album/0loDN6STZdp57R5dSPyFhl) | 5:02 |
 | 470 | [Your Obsession](https://open.spotify.com/track/1zQkpt3TuwduNZrQ4U0T07) | [Joanna](https://open.spotify.com/artist/509TH9RYrGomXzXwSVeaQP) | [This Crazy Life](https://open.spotify.com/album/36w2dambPh1D43TPTPoKRY) | 3:49 |
@@ -517,4 +517,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 507 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 508 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `Mjg1MjUwOTAsMDAwMDAwMDA1NWUzNTQzN2QyNGQ1NTZkZTg3OGIxNTBlMzJjZTU3NQ==`
+Snapshot ID: `Mjg1MjY1MzAsMDAwMDAwMDA3YmUxMWQyNGZjNjkwY2EwOGM1NjNiMzU0NjY0OTI0Zg==`

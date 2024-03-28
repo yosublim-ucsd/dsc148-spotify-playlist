@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 18109,
+  "2024-03-28": 18107,
   "date_first_scraped": "2022-03-22",
   "description": "Our editors\u2019 picks for the best of R&B in Canada in 2023. Cover: SZA",
   "name": "Best R&B Songs of 2023",
@@ -776,6 +776,24 @@
     },
     {
       "album": {
+        "name": "LOONY",
+        "url": "https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198578,
+      "name": "Counting Thunder",
+      "url": "https://open.spotify.com/track/0SmOA3Fb5OTMVkG1k99Uo1"
+    },
+    {
+      "album": {
         "name": "Counting Thunder",
         "url": "https://open.spotify.com/album/3tPOrTz9PROAgrRWkiL1x8"
       },
@@ -823,7 +841,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 198578,
       "name": "Counting Thunder",
       "url": "https://open.spotify.com/track/5WGQVpI3jQhYKpVWGynxt3"

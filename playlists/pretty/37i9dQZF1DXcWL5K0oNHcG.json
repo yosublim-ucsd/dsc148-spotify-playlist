@@ -1,13 +1,57 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Amy Gadiaga. Artwork: Joy Yamusangie.",
-  "num_followers": 211797,
+  "num_followers": 211988,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGMyY2EyOGFkYjQzYjIxZDY3ODViOTM2MGI1YWIyMWMzMGMzNjI3",
+  "snapshot_id": "MCwyZWE0MmQxZDYzNWM3MjNkMWE2ZDhlZDFiMTcwMjU3NzY0ZDJlYmYy",
   "tracks": [
+    {
+      "added_at": "2024-03-27 13:18:36",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/5CI5Ww2MciydIAesA5VmPR"
+      },
+      "artists": [
+        {
+          "name": "CHERISE",
+          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
+        },
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "duration_ms": 208978,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/6bsCkIuP5zdST3CrvBJDnm"
+    },
+    {
+      "added_at": "2024-03-27 13:18:36",
+      "album": {
+        "name": "VIBZ",
+        "url": "https://open.spotify.com/album/77IuobMrNcfYIWJZXzHrm7"
+      },
+      "artists": [
+        {
+          "name": "Eudald Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc"
+        },
+        {
+          "name": "Mabreezee",
+          "url": "https://open.spotify.com/artist/4ixydE8BVYzM2P1mFrBWac"
+        },
+        {
+          "name": "Lowis",
+          "url": "https://open.spotify.com/artist/2kivZuhnSODSkTVxaFSF93"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "VIBZ",
+      "url": "https://open.spotify.com/track/2y8edbaz5VBEMOkzooa6Do"
+    },
     {
       "added_at": "2024-03-13 04:00:00",
       "album": {
@@ -25,6 +69,26 @@
       "url": "https://open.spotify.com/track/6xSafwQKqlAyUVh7UT3FOC"
     },
     {
+      "added_at": "2024-03-27 13:18:36",
+      "album": {
+        "name": "The Liminality of Her",
+        "url": "https://open.spotify.com/album/3tNvEZnLV5OAnOmII0jTiU"
+      },
+      "artists": [
+        {
+          "name": "Amanda Whiting",
+          "url": "https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5"
+        },
+        {
+          "name": "PEACH.",
+          "url": "https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6"
+        }
+      ],
+      "duration_ms": 176874,
+      "name": "Rite of Passage",
+      "url": "https://open.spotify.com/track/3QB9XSrhotF0v8tkML3F3r"
+    },
+    {
       "added_at": "2024-03-08 05:01:00",
       "album": {
         "name": "All Black Everything",
@@ -39,6 +103,58 @@
       "duration_ms": 306714,
       "name": "All Black Everything",
       "url": "https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf"
+    },
+    {
+      "added_at": "2024-03-27 13:18:36",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/4tMflSstkseynCR2S55Ybg"
+      },
+      "artists": [
+        {
+          "name": "Sol Paradise",
+          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
+        },
+        {
+          "name": "GIYA",
+          "url": "https://open.spotify.com/artist/7pz3lHXjDHO7BuFQcKM8m8"
+        }
+      ],
+      "duration_ms": 260953,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/0FE88E5srw7mcCheEmMtBr"
+    },
+    {
+      "added_at": "2024-03-27 13:18:36",
+      "album": {
+        "name": "Sorry, nie tu",
+        "url": "https://open.spotify.com/album/6oqXhhJTzydwe7PUm6t0q3"
+      },
+      "artists": [
+        {
+          "name": "Kosmonauci",
+          "url": "https://open.spotify.com/artist/283semIr4NG8yUDW5zRAol"
+        }
+      ],
+      "duration_ms": 319215,
+      "name": "OSTATNI",
+      "url": "https://open.spotify.com/track/7kTnJ6LGDGLlsLwRGjGTAs"
+    },
+    {
+      "added_at": "2024-03-27 13:18:36",
+      "album": {
+        "name": "Plasma",
+        "url": "https://open.spotify.com/album/6QiIL3Qn2uFYvJvUB2h4Zh"
+      },
+      "artists": [
+        {
+          "name": "Ryosuke Kojima",
+          "url": "https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Plasma",
+      "url": "https://open.spotify.com/track/0yh918TKzldNo6MK4RwHFF"
     },
     {
       "added_at": "2024-03-13 04:00:00",
@@ -689,30 +805,6 @@
       "url": "https://open.spotify.com/track/0g82AK31NDtvkFpsE50hY8"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "The Only Way Out Is Through",
-        "url": "https://open.spotify.com/album/2Iy0Hjuf1i3gAGOGBq32UW"
-      },
-      "artists": [
-        {
-          "name": "Cumulus Frisbee",
-          "url": "https://open.spotify.com/artist/673QByL1fEcoAMYdHc452d"
-        },
-        {
-          "name": "Mauricesax",
-          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
-        },
-        {
-          "name": "Lytmus",
-          "url": "https://open.spotify.com/artist/3elSNWFEqrOArFscSKfQn9"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Outer Offering",
-      "url": "https://open.spotify.com/track/5GQL4XWlCkttCLmdudnHG7"
-    },
-    {
       "added_at": "2024-01-19 05:01:00",
       "album": {
         "name": "She's A Rose",
@@ -729,22 +821,6 @@
       "url": "https://open.spotify.com/track/0VRICfiGMTS9RPnzpxoJ9Z"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Duras",
-        "url": "https://open.spotify.com/album/0dnGlztIzMDcdgHN6PVuVz"
-      },
-      "artists": [
-        {
-          "name": "OTOOTO",
-          "url": "https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ"
-        }
-      ],
-      "duration_ms": 310196,
-      "name": "Duras",
-      "url": "https://open.spotify.com/track/6H3IpsMLYQ4o0LJY0Fhv9R"
-    },
-    {
       "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "HERstory",
@@ -759,22 +835,6 @@
       "duration_ms": 309268,
       "name": "This Is Her",
       "url": "https://open.spotify.com/track/7cagPtRRpRZgRJHCtF5wfs"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "GOOD LUCK SOUND TRACKS",
-        "url": "https://open.spotify.com/album/0CHpILGOq59pW8hyphMQBk"
-      },
-      "artists": [
-        {
-          "name": "POLYPLUS",
-          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
-        }
-      ],
-      "duration_ms": 217332,
-      "name": "ranki",
-      "url": "https://open.spotify.com/track/2F5rkbZHDASUIGAcyeoe0l"
     },
     {
       "added_at": "2024-01-31 05:00:00",
@@ -809,22 +869,6 @@
       "url": "https://open.spotify.com/track/4jTOEKRSmjIzeB8uFI5d07"
     },
     {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/4QdhwNxSlMYIqp74Y27pLO"
-      },
-      "artists": [
-        {
-          "name": "Still Caravan",
-          "url": "https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/4zlvcUDuabGMdvzElQjRWO"
-    },
-    {
       "added_at": "2024-01-19 05:01:00",
       "album": {
         "name": "Sunday In The Park",
@@ -839,70 +883,6 @@
       "duration_ms": 265239,
       "name": "Sunday In The Park",
       "url": "https://open.spotify.com/track/2lQ0Slml8MWZyTsWlKK2rh"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/0W3nDr67V1cLQ4CiKO6mol"
-      },
-      "artists": [
-        {
-          "name": "Tess Hirst",
-          "url": "https://open.spotify.com/artist/3vfLgvHxuDXKWXYlptv8u5"
-        },
-        {
-          "name": "Richard Spaven",
-          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
-        },
-        {
-          "name": "Daniel Casimir",
-          "url": "https://open.spotify.com/artist/3J4HhohiA3sFTwyHTBqKs1"
-        },
-        {
-          "name": "Sarah Tandy",
-          "url": "https://open.spotify.com/artist/3epkMsTvBUkHIWVFVg1XW8"
-        },
-        {
-          "name": "Tomorrow's Warriors",
-          "url": "https://open.spotify.com/artist/1rrPmxNBuw7CYJw3zOZ7PZ"
-        }
-      ],
-      "duration_ms": 324970,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4QOVx0MfWDbaba1dz6Qpdb"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "The Day After",
-        "url": "https://open.spotify.com/album/7AbFbnIcnNCTaWuxOAMppI"
-      },
-      "artists": [
-        {
-          "name": "Markos Chaidemenos",
-          "url": "https://open.spotify.com/artist/14X2kmkPFpbCZXrMg9VnCj"
-        }
-      ],
-      "duration_ms": 320452,
-      "name": "The Day After",
-      "url": "https://open.spotify.com/track/7g27hI9dGpv0fpGWY8AM7O"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Space Behind The Donut",
-        "url": "https://open.spotify.com/album/17k87Nfwa78RShBusVgkll"
-      },
-      "artists": [
-        {
-          "name": "Happy Imaeda",
-          "url": "https://open.spotify.com/artist/5SBf5sAXKy4kNlVP3iTULs"
-        }
-      ],
-      "duration_ms": 177045,
-      "name": "Donuts Nebula",
-      "url": "https://open.spotify.com/track/4izlUrCxTM9AhRXZOR2qkV"
     },
     {
       "added_at": "2024-01-31 05:00:00",

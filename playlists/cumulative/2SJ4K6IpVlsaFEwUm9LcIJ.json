@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Tech Duinn",
+        "url": "https://open.spotify.com/album/71Y6SuqeTUnuDa3V0v25cv"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "De Novo",
+      "url": "https://open.spotify.com/track/0DmLfTFkLqIqiRqEMyxMXU"
+    },
+    {
+      "album": {
         "name": "Dream Alone / Beat Love",
         "url": "https://open.spotify.com/album/4rXWdsIYGhGtqYJpg3xA1b"
       },

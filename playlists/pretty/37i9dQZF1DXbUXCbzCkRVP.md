@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,166 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,207 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 43 | [Off The Wall](https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:51 |
 | 44 | [Ain't That Dandy](https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [The Peacock Recordings: 1949\-1959](https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV) | 2:53 |
 | 45 | [Runner](https://open.spotify.com/track/2Dec3RFyyRpZR6eKhA2yaf) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Mile End ll](https://open.spotify.com/album/5qYes0QKG0BY95DanQkzsz) | 3:37 |
-| 46 | [Boedo's Blues](https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Boedo's Blues](https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf) | 2:13 |
-| 47 | [The Sulfur Blues](https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf) | [Andrea Chiarini](https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3) | [The Sulfur Blues](https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF) | 3:26 |
-| 48 | [Tribute To Elmore James](https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [Second Album](https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ) | 3:25 |
-| 49 | [The Creeper Returns](https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 4:13 |
+| 46 | [The Sulfur Blues](https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf) | [Andrea Chiarini](https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3) | [The Sulfur Blues](https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF) | 3:26 |
+| 47 | [Boedo's Blues](https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Boedo's Blues](https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf) | 2:13 |
+| 48 | [The Creeper Returns](https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 4:13 |
+| 49 | [Tribute To Elmore James](https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [Second Album](https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ) | 3:25 |
 | 50 | [Alone With Yourself](https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Alone With Yourself](https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH) | 3:53 |
 | 51 | [Blues For Duke Robillard](https://open.spotify.com/track/1PZHYEA9oq4VCmXnSjanLk) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Mercy Me](https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj) | 7:43 |
 | 52 | [Frankie And Johnny Boogie](https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN) | [Memphis Slim](https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ) | [All Kinds Of Blues](https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW) | 4:06 |
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 61 | [Side Tracked](https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 3:05 |
 | 62 | [Sweet Ginny](https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Screamin' the Blues](https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY) | 3:08 |
 | 63 | [Boogie Albert](https://open.spotify.com/track/54XdAhnIsuW0YevJyI1e1P) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h) | [Room To Move 1969 \- 1974](https://open.spotify.com/album/6YGnkpsMZTH3fMuvhdC3WL) | 2:13 |
-| 64 | [Midnight In Memphis](https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps) | [Curtis Baker & The Bravehearts](https://open.spotify.com/artist/3lQTRCvi6W0iU1VZurddTR) | [Midnight In Memphis](https://open.spotify.com/album/0W13XEedSrRjAWMNGilF60) | 3:07 |
+| 64 | [Gotta Move](https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll) | [Alexis Korner's Blues Incorporated](https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN) | [R&B from the Marquee / At the Cavern \(Remastered\)](https://open.spotify.com/album/435zTVZqyNJba4YteDro9M) | 2:30 |
 | 65 | [Thank You Mr\. Poobah](https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 4:05 |
-| 66 | [Blues After Hours](https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Blues On Blues](https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V) | 3:03 |
-| 67 | [Gotta Move](https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll) | [Alexis Korner's Blues Incorporated](https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN) | [R&B from the Marquee / At the Cavern \(Remastered\)](https://open.spotify.com/album/435zTVZqyNJba4YteDro9M) | 2:30 |
+| 66 | [Midnight In Memphis](https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps) | [Curtis Baker & The Bravehearts](https://open.spotify.com/artist/3lQTRCvi6W0iU1VZurddTR) | [Midnight In Memphis](https://open.spotify.com/album/0W13XEedSrRjAWMNGilF60) | 3:07 |
+| 67 | [Blues After Hours](https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Blues On Blues](https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V) | 3:03 |
 | 68 | [The Messiah Will Come](https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu) | [Jimmy Thackery And The Drivers](https://open.spotify.com/artist/00f9rh6qgLy3a4eYqugUyg) | [True Stories](https://open.spotify.com/album/6zOeNQ5ynaT2DwlRUiYDr9) | 9:24 |
 | 69 | [La Llorona](https://open.spotify.com/track/6gLPSVs7lhIxm6HNsrjMkn) | [Tim "Too Slim" Langford](https://open.spotify.com/artist/2kx2O6JbEPkAS2bfaVXswy) | [Broken Halo](https://open.spotify.com/album/0Dpk0b9BcgKUFaYYSgVh3S) | 2:58 |
 | 70 | [Little Johnny Lee](https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 6:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 79 | [Hey Jose](https://open.spotify.com/track/6QuQyoaQ8Yrv70au1VNTkg) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 5:11 |
 | 80 | [Long gone](https://open.spotify.com/track/6iC677ZnjXAa2ixQ3hIf6z) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 5:44 |
 
-Snapshot ID: `MCw2MmY2Zjk3NmVhZmQ2OGJlMzZlYThmN2U3YTZiMGRhZDYwMjdhODQy`
+Snapshot ID: `MCxiNDY4OTk0YTlkN2Q5NmY5NmUzYzRlYjI5NDI3NjI5MmVhZjAwZTli`

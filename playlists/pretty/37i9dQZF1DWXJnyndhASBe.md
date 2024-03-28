@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Kubi Producent, bambi, Fukaj, stickxr
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,220 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,489 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [KUBKI](https://open.spotify.com/track/4nq72RUyV70qKB63qjagNO) | [Fagata](https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [KUBKI](https://open.spotify.com/album/6PTFLPItiX6iZI5dYEWiFz) | 2:21 |
 | 50 | [Must Have](https://open.spotify.com/track/5mUOcI1Ev8fYx6epZrstxz) | [Słoń](https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV), [Devv](https://open.spotify.com/artist/0uihSUoQ89CEHeTbue4h0A) | [Must Have](https://open.spotify.com/album/6dSTOhZcfMtEVCNoOIHT05) | 2:54 |
 
-Snapshot ID: `MCxiMThiYTAyODZkNDkwMzFiYzdhNmNjMTE5ODg4OTZkNDY5OTBkMjJm`
+Snapshot ID: `MCw3NmQzMTVlODEwZmRhMjBkM2M0N2QyOTkzZDUwNDM1ODVkODYwZmE3`

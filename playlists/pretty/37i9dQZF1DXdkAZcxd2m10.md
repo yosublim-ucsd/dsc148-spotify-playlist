@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkAZcxd2m10.md) - [plain]
 
 > La playlist oficial de A través de mi ventana\.  <a href=“https://www.netflix.com/title/81388078”>Ver en Netflix </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,090 likes - 56 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,121 likes - 56 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkAZcxd2m10.md) - [plain]
 | 55 | [Devil I Know](https://open.spotify.com/track/6KF3l0dtaqHanpwJVmz3mB) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God](https://open.spotify.com/album/47wRFo2As9zFmg6E5VVa8H) | 2:52 |
 | 56 | [Te Odio, Te Amo \- De A Través de Mi Ventana](https://open.spotify.com/track/37U0V2N263MEmj1PTnz7yp) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu) | [Te Odio, Te Amo \(De A Través de Mi Ventana\)](https://open.spotify.com/album/5Do3EOBrmyXa3DQMzu3CM8) | 2:58 |
 
-Snapshot ID: `MCwxN2Q1MWI3YWEyYTYzMjZlN2M3N2MwNTlkOWUzMDY2NjQ3MGYwZTc1`
+Snapshot ID: `MCw2ZjNkYWJiZGYwODhhODcyN2JhNGM1ZDgyYWVkNGU3N2UyZDNkMTgz`

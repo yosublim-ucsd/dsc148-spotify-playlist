@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 50598,
+  "2024-03-28": 50769,
   "date_first_scraped": "2024-01-30",
   "description": "natural wine vibes, because wine not? | Photo: Stir Crazy LA ",
   "name": "Wine Bar",
@@ -1068,6 +1068,24 @@
     },
     {
       "album": {
+        "name": "Intergalactic Janet",
+        "url": "https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj"
+      },
+      "artists": [
+        {
+          "name": "Ley Soul",
+          "url": "https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160440,
+      "name": "Intergalactic Janet",
+      "url": "https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87"
+    },
+    {
+      "album": {
         "name": "jazz is for ordinary people",
         "url": "https://open.spotify.com/album/0EZTn2obuqMf9AbBG2PUKp"
       },
@@ -1697,7 +1715,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 172613,
       "name": "Sacatela",
       "url": "https://open.spotify.com/track/0ZH2Ve6Ns1kzEMWunJoAek"

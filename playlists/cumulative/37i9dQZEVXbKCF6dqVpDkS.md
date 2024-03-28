@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,427 songs - 3 day 2 hr 10 min
+1,428 songs - 3 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1095,7 +1095,7 @@
 | [Schaduw](https://open.spotify.com/track/1hYUqHaKoxI9KRhWIU36LM) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Schaduw](https://open.spotify.com/album/6jRQEVs85OSaRyWWxgzltR) | 3:18 | 2021-11-28 | 2021-12-19 |
 | [Schakelen](https://open.spotify.com/track/4XAs1VBbmfnf8sUjKwF6Tp) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Schakelen](https://open.spotify.com/album/34SBy6wepe7JLEcMvTL78w) | 3:40 | 2023-10-28 | 2023-11-05 |
 | [Schakelen](https://open.spotify.com/track/6jQaK9D9PHGrh50lgvMYhO) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Beschadigd](https://open.spotify.com/album/5poVrMO8E2jTqTkEPJFlNv) | 3:40 | 2023-11-04 | 2023-11-19 |
-| [Schudden](https://open.spotify.com/track/2E3Vt7fF1tuvnkwc8Pqk7B) | [Def Rhymz](https://open.spotify.com/artist/5MP0NXMhl5TfFKtG3Q5uk2) | [De Allergoeiste \(Reissue\)](https://open.spotify.com/album/1dbz3bcXwCQUMZr226anyI) | 3:42 | 2024-03-26 |  |
+| [Schudden](https://open.spotify.com/track/2E3Vt7fF1tuvnkwc8Pqk7B) | [Def Rhymz](https://open.spotify.com/artist/5MP0NXMhl5TfFKtG3Q5uk2) | [De Allergoeiste \(Reissue\)](https://open.spotify.com/album/1dbz3bcXwCQUMZr226anyI) | 3:42 | 2024-03-26 | 2024-03-28 |
 | [Schultenbräu](https://open.spotify.com/track/540BsMhL329p3KhB8ZZ7Ez) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Chantal Janzen](https://open.spotify.com/artist/2FyAfRcka8m38xmE2vjZIn) | [Schultenbräu](https://open.spotify.com/album/5ssEaym3WyrakcCkZzihxu) | 3:02 | 2023-06-07 | 2023-09-12 |
 | [Schultenbräu](https://open.spotify.com/track/6t0zMT2rOSI0lKFyJmGExD) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Chantal Janzen](https://open.spotify.com/artist/2FyAfRcka8m38xmE2vjZIn) | [De Kibbelingsound](https://open.spotify.com/album/1GiQ2G7EReqJU3N2qRNsqb) | 3:02 | 2023-06-03 | 2023-06-08 |
 | [Scootertijd](https://open.spotify.com/track/7AzYfYR24g3dFRrIxKHMGF) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Luxeprobleem](https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy) | 2:19 | 2023-02-18 | 2023-02-23 |
@@ -1139,6 +1139,7 @@
 | [Sliden](https://open.spotify.com/track/2444a4pBCXlAX5dSxXR0t9) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sliden EP](https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY) | 2:11 | 2023-06-03 | 2023-09-26 |
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:10 | 2023-10-08 | 2023-10-13 |
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-17 | 2023-10-09 |
+| [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-03-27 |  |
 | [Smokin Out The Window](https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE) | 3:17 | 2021-11-14 | 2021-12-06 |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-06-28 | 2022-07-31 |
 | [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-07-30 | 2023-01-16 |

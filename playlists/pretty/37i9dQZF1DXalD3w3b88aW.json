@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWQzZjgzYzA3YjhhZDZhN2I2OTJiMDM3MDE2YjU5NDJmMGFjZTRk",
+  "snapshot_id": "MCxlZDM2NTAyYmU3MTRkZDNjZGVmNTkyMTdjYWE4NzgxMDE3N2MwMzMy",
   "tracks": [
     {
       "added_at": "2022-12-03 05:29:16",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "You Should Be Here",
-        "url": "https://open.spotify.com/album/3JFEZqTae3svhW8226cnNL"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 137848,
-      "name": "Runnin' - Interlude",
-      "url": "https://open.spotify.com/track/6mPTMg3DKv58M5JLbUm5lf"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 67573,
       "name": "You Are My Joy (Interlude)",
       "url": "https://open.spotify.com/track/2br377aSsnmO1ygH7eS6wJ"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "You Should Be Here",
+        "url": "https://open.spotify.com/album/3JFEZqTae3svhW8226cnNL"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 137848,
+      "name": "Runnin' - Interlude",
+      "url": "https://open.spotify.com/track/6mPTMg3DKv58M5JLbUm5lf"
     },
     {
       "added_at": "2022-12-03 05:29:16",

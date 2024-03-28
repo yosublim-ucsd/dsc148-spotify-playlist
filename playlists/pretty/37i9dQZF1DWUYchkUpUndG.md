@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/6uDsL3665JpJrYZUBih0HN?si=PXIfrLDVRFeEv27pPv3cTQ>Solomon Lange</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,459 likes - 105 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,484 likes - 105 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 104 | [We Shall Overcome \- Live](https://open.spotify.com/track/5dMlLWMxVWKWre5xU4g236) | [Musikteers Ensemble Gh](https://open.spotify.com/artist/3GhELFCKyAHi4zB0m3Z5aN) | [T.O.N.E.S \(First edition, Live\)](https://open.spotify.com/album/04dnGapHk47MuPN6JeiAjx) | 6:08 |
 | 105 | [Oh Jesus](https://open.spotify.com/track/4V4XijJv0Oc48xJedDlFKv) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn) | [Oh Jesus](https://open.spotify.com/album/4pLHvPS7Nzh15k9WcHCLhe) | 2:17 |
 
-Snapshot ID: `MCw4MGVlN2I2MzVkMTE1Mzg0N2QyZTVmOTE3NDE2ZDJlNWMyZDBmNWY2`
+Snapshot ID: `MCw4MjViYzkwNjcwZDcxNjA2Y2IzOTE4YTg0NjI5MTE0NWE0NjJhM2Ey`

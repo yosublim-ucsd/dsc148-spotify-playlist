@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Chris Young, Kenny Chesney, Megan Moroney and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,982 likes - 72 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,104 likes - 72 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 71 | [Anybody But You](https://open.spotify.com/track/489BVg3rINnA13FE43GF8v) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Anybody But You](https://open.spotify.com/album/5qmIULpclz87FP3S8tgKcI) | 2:43 |
 | 72 | [Lady Luck](https://open.spotify.com/track/1gJ0Vycekg5Cc6s9RJLy99) | [Kade Hoffman](https://open.spotify.com/artist/0R6ixwuTCNnIohSzEU7a2o) | [Lady Luck](https://open.spotify.com/album/1oGxXSTfOYvFY39NNzuniS) | 3:26 |
 
-Snapshot ID: `MCxlZTg2MWMwNDJlOGFhMzBjYzEyYTUwOWQ1NDk2OTBmZDNmYjczZWYy`
+Snapshot ID: `MCxlZGY5MTAxZTAxZjNjNTI2MTFiMjU0NDg4YTc4NTlhNGZmYzg2YzZi`

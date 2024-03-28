@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,086 songs - 2 day 14 hr 3 min
+1,087 songs - 2 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Overdose](https://open.spotify.com/track/7zRMjic8Q1Mt4kwAYIBH3M) | [shoose](https://open.spotify.com/artist/6XLMQoszP8tCQRpYuHp634) | [Overdose](https://open.spotify.com/album/20VN8o8DJJaM1Q7Asj99GG) | 3:14 | 2023-02-21 | 2023-03-08 |
 | [Overkill](https://open.spotify.com/track/1UlQyJezbjrwRlC2fo3D3i) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [Overkill](https://open.spotify.com/album/07LLFY2XpDxmjbblI4yGYy) | 2:39 | 2024-03-05 |  |
 | [overload](https://open.spotify.com/track/3HmaH6cEq2LUiVa1SCaAOd) | [ITO](https://open.spotify.com/artist/6rrrZh0srrnPzkTb6amBKi) | [overload](https://open.spotify.com/album/4HQfUEgyiQF1GBmLBsmNJJ) | 2:50 | 2023-02-21 | 2023-03-01 |
+| [Overlook](https://open.spotify.com/track/4DiOri4A9IVybvW9yzbfgT) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Mar6le](https://open.spotify.com/album/0U3YU3OcVdATKqONecYbf4) | 2:52 | 2024-03-26 |  |
 | [oxygen](https://open.spotify.com/track/1RYbwTKMI4JR86drI4IDIt) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [oxygen](https://open.spotify.com/album/7n5DPNlVjeFaFkTNJyro7o) | 2:48 | 2022-06-21 | 2022-06-29 |
 | [Oz.](https://open.spotify.com/track/2VRcLEvQCMByWBuvM9gaJ2) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz.](https://open.spotify.com/album/7C3ayPvTdGuzNCUZL7wLNQ) | 3:14 | 2022-06-09 | 2023-04-05 |
 | [PAKU](https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [PAKU](https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy) | 2:05 | 2022-06-13 | 2022-12-27 |
@@ -540,7 +541,7 @@
 | [オノマトペ \(feat\. りりあ。\)](https://open.spotify.com/track/01QgSl0HCP4DmF3RAhkJYC) | [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [オノマトペ \(feat\. りりあ。\)](https://open.spotify.com/album/1yCynXWs7IiVd8t9Yc7mPH) | 2:46 | 2022-06-30 | 2022-07-13 |
 | [オルタナティブ](https://open.spotify.com/track/0B2TQ3a8pujQvgN65zf2Cc) | [久遠](https://open.spotify.com/artist/1UIdyPdJbSt7J5siWAugUq) | [オルタナティブ](https://open.spotify.com/album/2OXhyoSOk9x1oWuU4uAnKN) | 3:43 | 2023-08-15 | 2023-09-06 |
 | [オルターエゴ](https://open.spotify.com/track/1xQk51ZFXt6Zf7d2xUNSN1) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [オルターエゴ](https://open.spotify.com/album/5QAR9vY3vVHQH63oloIr4f) | 3:42 | 2023-02-21 | 2023-03-29 |
-| [オーバールック](https://open.spotify.com/track/5ykdRyAaHly1N4svXvCuen) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [MAR6LE](https://open.spotify.com/album/0j2cQ2x2FrEWBtFudO9l5v) | 2:52 | 2024-03-26 |  |
+| [オーバールック](https://open.spotify.com/track/5ykdRyAaHly1N4svXvCuen) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [MAR6LE](https://open.spotify.com/album/0j2cQ2x2FrEWBtFudO9l5v) | 2:52 | 2024-03-26 | 2024-03-28 |
 | [カゲロウ](https://open.spotify.com/track/5KfTpP3h0EoHHCn4CVWKNX) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [カゲロウ](https://open.spotify.com/album/1vpZgqS9Z8OAfWPDacpZDD) | 4:14 | 2024-02-27 |  |
 | [カフェラテのうた](https://open.spotify.com/track/7tNcsYmCL3V6g6nfa0no8y) | [MARiA](https://open.spotify.com/artist/3VLk5buofnRZwwAS0PhS7v), [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [カフェラテのうた](https://open.spotify.com/album/1KGH7DtNGM2HMzR5K1wkHq) | 3:26 | 2022-06-14 | 2022-07-17 |
 | [カペラ](https://open.spotify.com/track/0lfn44RYalEExLKXGFv3zb) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [夜天邂逅](https://open.spotify.com/album/6m70zkoxFXufdB4plRY327) | 3:16 | 2023-08-03 | 2023-11-16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: Temm. Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: Hana Effron. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -3403,6 +3403,24 @@
     },
     {
       "album": {
+        "name": "are you there tonight?",
+        "url": "https://open.spotify.com/album/3aF38Kh2VROKvQDfyx98s7"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Luke",
+          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186883,
+      "name": "are you there tonight?",
+      "url": "https://open.spotify.com/track/2UHmiHEZ0Gwx2tqqMdpFUQ"
+    },
+    {
+      "album": {
         "name": "arizona",
         "url": "https://open.spotify.com/album/2IK5juKkSO13bAAlXTUtS4"
       },
@@ -3818,6 +3836,24 @@
       "duration_ms": 155526,
       "name": "Aye Best Friend",
       "url": "https://open.spotify.com/track/1j8dfLNsSezsfHE5XiJJv5"
+    },
+    {
+      "album": {
+        "name": "Bababababy",
+        "url": "https://open.spotify.com/album/6UYYhPbEjlwTtz0tPerDkg"
+      },
+      "artists": [
+        {
+          "name": "Cupnoodle",
+          "url": "https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "Bababababy",
+      "url": "https://open.spotify.com/track/66ltSUFE9eiyH0NiKMSfv4"
     },
     {
       "album": {
@@ -6192,7 +6228,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 203125,
       "name": "Blame It On You",
       "url": "https://open.spotify.com/track/3zaKVvx1nm5wiEBVBdMpM7"
@@ -9720,6 +9756,24 @@
       "duration_ms": 216150,
       "name": "cheap wine",
       "url": "https://open.spotify.com/track/7r47fnM1LhuCyGJrvzQBGu"
+    },
+    {
+      "album": {
+        "name": "cheater",
+        "url": "https://open.spotify.com/album/0LnQv9O33k6Y9MjNqdbivT"
+      },
+      "artists": [
+        {
+          "name": "Jack Price",
+          "url": "https://open.spotify.com/artist/3LX53Q6Lfgpr309q3yiHMh"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156889,
+      "name": "cheater",
+      "url": "https://open.spotify.com/track/42rKxZFxblKmIHCdBgPjLt"
     },
     {
       "album": {
@@ -16700,7 +16754,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 196045,
       "name": "Everything's Fine",
       "url": "https://open.spotify.com/track/1vvRNNSTZ9XuTBFqHY0eDu"
@@ -22650,7 +22704,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 176902,
       "name": "hate myself for loving you",
       "url": "https://open.spotify.com/track/79HlmezH9GAca2eY8gWQET"
@@ -30222,7 +30276,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 201706,
       "name": "LABEL",
       "url": "https://open.spotify.com/track/6yqazMRYrfuuhhIKJgxghR"
@@ -31061,6 +31115,24 @@
     },
     {
       "album": {
+        "name": "Let's Talk",
+        "url": "https://open.spotify.com/album/2nv51HjRu41tXOxsJXk3NO"
+      },
+      "artists": [
+        {
+          "name": "Hana Effron",
+          "url": "https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233610,
+      "name": "Let's Talk",
+      "url": "https://open.spotify.com/track/0yU9AgZHHg4aolSwz3eQYy"
+    },
+    {
+      "album": {
         "name": "Level",
         "url": "https://open.spotify.com/album/2vp4SZf4lh1dqzI8tWaSAX"
       },
@@ -31766,6 +31838,24 @@
       "duration_ms": 133386,
       "name": "like you",
       "url": "https://open.spotify.com/track/58tcnu6VU8M5Zg8XCgNDA4"
+    },
+    {
+      "album": {
+        "name": "Like You Boy",
+        "url": "https://open.spotify.com/album/4lbJpv9py0nbWfRQ09VRDe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Shay",
+          "url": "https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169021,
+      "name": "Like You Boy",
+      "url": "https://open.spotify.com/track/6cHV4imunCJXCd3iT40Tm5"
     },
     {
       "album": {
@@ -35762,7 +35852,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 161188,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1K4W4T2b5mTzvmrVzVa7yH"
@@ -38238,6 +38328,24 @@
       "duration_ms": 176889,
       "name": "Night Is Done",
       "url": "https://open.spotify.com/track/3eEsA84nYwM2b4pHpOLgQj"
+    },
+    {
+      "album": {
+        "name": "Night Talks",
+        "url": "https://open.spotify.com/album/1XgVKm93SUFBZLTfkWmhdx"
+      },
+      "artists": [
+        {
+          "name": "Maisyn",
+          "url": "https://open.spotify.com/artist/2SQWrWZ6liOAZtLkcs2P2d"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "Night Talks",
+      "url": "https://open.spotify.com/track/3C3nxNgZ9NK2qyDPQ8Zf5h"
     },
     {
       "album": {
@@ -50076,7 +50184,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 282477,
       "name": "Standby Baby",
       "url": "https://open.spotify.com/track/6esccUfWY4NWL3oYJajQHU"
@@ -56961,6 +57069,24 @@
     },
     {
       "album": {
+        "name": "Understatement",
+        "url": "https://open.spotify.com/album/2dmcrQEI5C8AVNTdrcAaNw"
+      },
+      "artists": [
+        {
+          "name": "Maryon",
+          "url": "https://open.spotify.com/artist/7AtbuRokFnPshEZ6muoDWV"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151868,
+      "name": "Understatement",
+      "url": "https://open.spotify.com/track/57jENaZ0ZEqxIRwEDCm63R"
+    },
+    {
+      "album": {
         "name": "Undone",
         "url": "https://open.spotify.com/album/0gCYOi2ZfRkI6cO9j8iviH"
       },
@@ -60376,7 +60502,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 149404,
       "name": "Why Should I?",
       "url": "https://open.spotify.com/track/223aYFqV1AHgSq4cKCkrkc"

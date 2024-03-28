@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 157396,
+  "num_followers": 157408,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDdlOTFmMTljZTgxZDQxOThhNTMwOGRkMTNmNGZmMTFmNzA2ZTAz",
+  "snapshot_id": "MCxhMjNmMTJiMDVhMzBhMmQ0MWMzZjZmZmQzNDY5MTU3M2EwMmNjNGI1",
   "tracks": [
     {
       "added_at": "2024-03-22 03:01:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Mundo Gira",
-        "url": "https://open.spotify.com/album/0zE0SYmMMq03W08p6hQJru"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 175522,
-      "name": "Mundo Gira",
-      "url": "https://open.spotify.com/track/4weBE9PEbb6WqtPoh47KaH"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "De Longe. (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 182205,
       "name": "Equa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Mundo Gira",
+        "url": "https://open.spotify.com/album/0zE0SYmMMq03W08p6hQJru"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "Mundo Gira",
+      "url": "https://open.spotify.com/track/4weBE9PEbb6WqtPoh47KaH"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1019,6 +1019,30 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "Nossa Viagem",
+        "url": "https://open.spotify.com/album/1llvdGgxHkX8ivOSwb8u3i"
+      },
+      "artists": [
+        {
+          "name": "MARCELA",
+          "url": "https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt"
+        },
+        {
+          "name": "Lucas Laypold",
+          "url": "https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Nossa Viagem",
+      "url": "https://open.spotify.com/track/2CYjW7iosrYhe80Ydm6PEz"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
       },
@@ -1043,26 +1067,22 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Nossa Viagem",
-        "url": "https://open.spotify.com/album/1llvdGgxHkX8ivOSwb8u3i"
+        "name": "Tudo Come\u00e7ou",
+        "url": "https://open.spotify.com/album/3ZYVUaDhyt9BvqTdmq4Cwi"
       },
       "artists": [
         {
-          "name": "MARCELA",
-          "url": "https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt"
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
         },
         {
-          "name": "Lucas Laypold",
-          "url": "https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2"
-        },
-        {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+          "name": "Diego Thug",
+          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
         }
       ],
-      "duration_ms": 156800,
-      "name": "Nossa Viagem",
-      "url": "https://open.spotify.com/track/2CYjW7iosrYhe80Ydm6PEz"
+      "duration_ms": 145953,
+      "name": "Tudo Come\u00e7ou",
+      "url": "https://open.spotify.com/track/3YxDUy8pxY8vs7mZcn0TK1"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1091,26 +1111,6 @@
       "duration_ms": 193854,
       "name": "Mais Al\u00e9m",
       "url": "https://open.spotify.com/track/4usWhbl28jDY4RhZf3oJea"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "Tudo Come\u00e7ou",
-        "url": "https://open.spotify.com/album/3ZYVUaDhyt9BvqTdmq4Cwi"
-      },
-      "artists": [
-        {
-          "name": "NALAH",
-          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
-        },
-        {
-          "name": "Diego Thug",
-          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
-        }
-      ],
-      "duration_ms": 145953,
-      "name": "Tudo Come\u00e7ou",
-      "url": "https://open.spotify.com/track/3YxDUy8pxY8vs7mZcn0TK1"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "Santa Catarina",
+        "url": "https://open.spotify.com/album/4DFsz1To8t0Bwu29ExBBJX"
+      },
+      "artists": [
+        {
+          "name": "PK Delas",
+          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
+        },
+        {
+          "name": "Ti\u00e9l",
+          "url": "https://open.spotify.com/artist/6KyHLY2nxKSNDugeKpldQ4"
+        }
+      ],
+      "duration_ms": 95483,
+      "name": "Santa Catarina",
+      "url": "https://open.spotify.com/track/0AQWxcKYGsjuarEkpeiYwR"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "Ato 3: TODAMANH\u00c3",
         "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 168448,
       "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
       "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "Santa Catarina",
-        "url": "https://open.spotify.com/album/4DFsz1To8t0Bwu29ExBBJX"
-      },
-      "artists": [
-        {
-          "name": "PK Delas",
-          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
-        },
-        {
-          "name": "Ti\u00e9l",
-          "url": "https://open.spotify.com/artist/6KyHLY2nxKSNDugeKpldQ4"
-        }
-      ],
-      "duration_ms": 95483,
-      "name": "Santa Catarina",
-      "url": "https://open.spotify.com/track/0AQWxcKYGsjuarEkpeiYwR"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Certo pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv"
-      },
-      "artists": [
-        {
-          "name": "MTK",
-          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
-        }
-      ],
-      "duration_ms": 211549,
-      "name": "Certo pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "27 Dias",
         "url": "https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 139097,
       "name": "27 Dias",
       "url": "https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Certo pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv"
+      },
+      "artists": [
+        {
+          "name": "MTK",
+          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
+        }
+      ],
+      "duration_ms": 211549,
+      "name": "Certo pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI"
     },
     {
       "added_at": "2024-03-22 03:01:00",

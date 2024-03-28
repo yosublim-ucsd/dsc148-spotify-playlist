@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 54552,
+  "2024-03-28": 54566,
   "date_first_scraped": "2023-12-02",
   "description": "Cover: Yeat",
   "name": "RAGE",
@@ -883,6 +883,24 @@
     {
       "album": {
         "name": "noir",
+        "url": "https://open.spotify.com/album/6LPcdvBpYreJXcEYOwbwgs"
+      },
+      "artists": [
+        {
+          "name": "sho",
+          "url": "https://open.spotify.com/artist/7J931Zo6xntPEBM04BANte"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97001,
+      "name": "noir",
+      "url": "https://open.spotify.com/track/37xKfBHDeIzMeeScHOp89Q"
+    },
+    {
+      "album": {
+        "name": "noir",
         "url": "https://open.spotify.com/album/1gL2p8oM0ObpobShkMCSlC"
       },
       "artists": [
@@ -911,7 +929,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 109536,
       "name": "noir",
       "url": "https://open.spotify.com/track/72vUc6aIviryxvvs4gV5ag"

@@ -9643,6 +9643,32 @@
     },
     {
       "album": {
+        "name": "New World (Flow) [Remixes]",
+        "url": "https://open.spotify.com/album/30qsuwtGY7vQv1QiTsl15G"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Fiorious",
+          "url": "https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor"
+        },
+        {
+          "name": "ABSOLUTE.",
+          "url": "https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368188,
+      "name": "New World (Flow) - ABSOLUTE. Transcendental Flow Remix",
+      "url": "https://open.spotify.com/track/1tWLqewVTJDHP8Aw9kCeOA"
+    },
+    {
+      "album": {
         "name": "New York",
         "url": "https://open.spotify.com/album/782f4OR6lKLwAdad0p4tAc"
       },

@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 8802,
+  "2024-03-28": 8812,
   "date_first_scraped": "2021-12-29",
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
   "name": "This Is Patoranking",
@@ -353,7 +353,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 239706,
       "name": "Celebrate Me",
       "url": "https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4"
@@ -701,7 +701,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 175017,
       "name": "Gal Ting - Remix",
       "url": "https://open.spotify.com/track/2SEZTPBqXBfsimqx66lfNl"
@@ -2281,6 +2281,28 @@
       "duration_ms": 196800,
       "name": "Snapdatsh!t",
       "url": "https://open.spotify.com/track/5gkUG4ebUgpKEbnaZYIfCz"
+    },
+    {
+      "album": {
+        "name": "Sober (Soo Bad)",
+        "url": "https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220206,
+      "name": "Sober (Soo Bad)",
+      "url": "https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8"
     },
     {
       "album": {

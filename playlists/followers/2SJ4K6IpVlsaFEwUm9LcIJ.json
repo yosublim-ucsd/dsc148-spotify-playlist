@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 18595,
+  "2024-03-28": 18600,
   "date_first_scraped": "2024-02-12",
   "description": "what i&#x27;m listening to: march-april 2024 (previous playlists archived on my profile)",
   "name": "innocence and panic",
@@ -828,6 +828,24 @@
     },
     {
       "album": {
+        "name": "Begin",
+        "url": "https://open.spotify.com/album/6sSb8m6MPGJIEMKH8FWCS0"
+      },
+      "artists": [
+        {
+          "name": "The Millennium",
+          "url": "https://open.spotify.com/artist/2C49JSiNeHN0xwLQCohpyY"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157106,
+      "name": "I Just Want to Be Your Friend",
+      "url": "https://open.spotify.com/track/4rKpi6H6IFtuBVAdNN3fUe"
+    },
+    {
+      "album": {
         "name": "I'd Rather You Leave Me",
         "url": "https://open.spotify.com/album/1h3zASfdILrqQDjxhpOQls"
       },
@@ -955,6 +973,24 @@
       "duration_ms": 138773,
       "name": "Just My Love And I",
       "url": "https://open.spotify.com/track/0idB3v41MLVIC7oDPV7cJh"
+    },
+    {
+      "album": {
+        "name": "Alternity",
+        "url": "https://open.spotify.com/album/7zS98tpOYwsJje1Qs9KhOx"
+      },
+      "artists": [
+        {
+          "name": "Born At Midnite",
+          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118105,
+      "name": "Like Fire Like Ice",
+      "url": "https://open.spotify.com/track/2J2Xzrf5nUnX3YZE6lPa8n"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover: <a href="spotify:artist:5YxebzzreNswbtYC1td4cx">Tasha Cobbs Leonard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,256 likes - 88 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,321 likes - 88 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 83 | [Back To Life](https://open.spotify.com/track/3PLh6BC6aaX0E7PALvt0EE) | [Deitrick Haddon & Voices of Unity](https://open.spotify.com/artist/5zZlKIiS2kimwWToti9k5I) | [Back To Life](https://open.spotify.com/album/0elzbB6iZvy5pY00RWGz8E) | 4:54 |
 | 84 | [Overflow](https://open.spotify.com/track/6BMKu4bu0kDdPYviP1Umrz) | [Bryan Andrew Wilson](https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i), [Roderick Giles & Grace](https://open.spotify.com/artist/5jMr6s2EqsG4U4HQROzA8e) | [Overflow](https://open.spotify.com/album/7gggTmjWOAI4VtzBKDhSz4) | 4:25 |
 | 85 | [Dance](https://open.spotify.com/track/3bJGae8rklq4LMAjXtBE1u) | [Marcus Jordan](https://open.spotify.com/artist/27Xu3PU0agWqCrDuhHtQva) | [Dance](https://open.spotify.com/album/7bUmJWiuHOpRVRdhl6tSPZ) | 3:07 |
-| 86 | [We Can't Forget Him](https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E) | [Bobbi Storm](https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8) | [We Can't Forget Him](https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V) | 2:58 |
-| 87 | [Shout Like You Got It](https://open.spotify.com/track/2mJejlFobZcPFBZPzNnYWl) | [Norman Hutchins](https://open.spotify.com/artist/2gya4YZQdto5OdF91ZdEzh) | [Songs from the Writers Pen](https://open.spotify.com/album/3H3inRie47J7PQ8IWoDOsP) | 4:57 |
+| 86 | [Shout Like You Got It](https://open.spotify.com/track/2mJejlFobZcPFBZPzNnYWl) | [Norman Hutchins](https://open.spotify.com/artist/2gya4YZQdto5OdF91ZdEzh) | [Songs from the Writers Pen](https://open.spotify.com/album/3H3inRie47J7PQ8IWoDOsP) | 4:57 |
+| 87 | [We Can't Forget Him](https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E) | [Bobbi Storm](https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8) | [We Can't Forget Him](https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V) | 2:58 |
 | 88 | [Able](https://open.spotify.com/track/0ICGreKEIidNiyIGMVwS1E) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [My Truth](https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm) | 5:02 |
 
-Snapshot ID: `MCw2OGNmM2RjMDQ0NTQ4MGI1Njc4NGNkYTZhZGY1NzI3YjgzMWQxMjYw`
+Snapshot ID: `MCxiN2NjNGQ2NTc4MWRmYzhiOTdhYjI3NWJmODJiNDBiOTk0MjRlMjg1`

@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,042 songs - 2 day 6 hr 25 min
+1,043 songs - 2 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -872,6 +872,7 @@
 | [Sunday](https://open.spotify.com/track/3n1La9z2eJAP5BXwTD1bdr) | [Prince Of Wales](https://open.spotify.com/artist/36QwxgUBttVtRUvASUdr1i), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Moments](https://open.spotify.com/album/4xW1nrr4SvSdTksaU1UcZF) | 3:17 | 2023-08-11 | 2023-09-07 |
 | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m) | 2:47 | 2023-02-21 | 2023-10-28 |
 | [Sweat](https://open.spotify.com/track/4qZYebAsenZ7Su6fAkAmMh) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [ERVIS](https://open.spotify.com/artist/2SASbxZSgWPzlQ6iFyRx0d) | [Sweat](https://open.spotify.com/album/6iovaxHlE2iDacVh60ADqZ) | 2:03 | 2022-08-17 | 2022-10-08 |
+| [SWEAT](https://open.spotify.com/track/1f8NvgTPsIDmJh5dGBeEGo) | [WEVLTH](https://open.spotify.com/artist/5N7wAKV4HvGQj66w5HV4bD) | [SWEAT](https://open.spotify.com/album/5ZIY1FWrbS88delxovQOCn) | 3:53 | 2024-03-27 |  |
 | [sweater weather](https://open.spotify.com/track/2zgyslOLMf0WKPzNq4EH0p) | [speedboys](https://open.spotify.com/artist/76hBRyDANNijjY0veLBwc9) | [sweater weather](https://open.spotify.com/album/7bGDPdEyxICCJoleipribU) | 2:02 | 2023-06-23 | 2023-07-29 |
 | [Sweet Child O' Mine](https://open.spotify.com/track/0iRfffwrWG4TfNc65SpxDm) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Invisible](https://open.spotify.com/artist/6GRKwhGojrzpj0486YlBA9), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9) | [Sweet Child O' Mine](https://open.spotify.com/album/3wNyS2c2RRJVSqSsUYqzmj) | 2:43 | 2022-04-01 | 2022-04-30 |
 | [Sweet Revenge](https://open.spotify.com/track/0uawQC7MQYf2TQ6MdX2yeQ) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [ELLIS!](https://open.spotify.com/artist/3GPPLSi7KokwrVlLlTMYgC), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Sweet Revenge](https://open.spotify.com/album/3RMPCBY2FEhdVWlxzsaacc) | 3:48 | 2022-06-17 | 2022-11-24 |

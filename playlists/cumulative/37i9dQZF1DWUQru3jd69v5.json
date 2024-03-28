@@ -896,7 +896,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 131992,
       "name": "Acchiappasogni",
       "url": "https://open.spotify.com/track/7EtHLSD4ehwAMFTPEe0yxg"
@@ -7156,7 +7156,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 123709,
       "name": "Fortissima Freestyle",
       "url": "https://open.spotify.com/track/5YUuwDY0ydgcx4oeUG0xbZ"
@@ -7820,7 +7820,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 160000,
       "name": "GHETTO FOCUS",
       "url": "https://open.spotify.com/track/78wyTRQyerKW4WXyc4d5NQ"
@@ -8168,7 +8168,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 166875,
       "name": "GTA",
       "url": "https://open.spotify.com/track/1EkP53aFoR5pZK9NA5PCR3"
@@ -9354,6 +9354,24 @@
       "duration_ms": 137756,
       "name": "ITALIANI (feat. Disme)",
       "url": "https://open.spotify.com/track/3HFS0lfsXRR4vsnxxTqMYJ"
+    },
+    {
+      "album": {
+        "name": "JACK MIEL",
+        "url": "https://open.spotify.com/album/3E1gSHuzCasGftxo4kjkLd"
+      },
+      "artists": [
+        {
+          "name": "SPOOKYPBL",
+          "url": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179154,
+      "name": "JACK MIEL",
+      "url": "https://open.spotify.com/track/0Kf9zYZYgZU7H8Mh0v0hQv"
     },
     {
       "album": {
@@ -14730,7 +14748,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 196551,
       "name": "Partenope (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/3o7Wj9qmWwV1mnnouU3krc"
@@ -18660,7 +18678,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 145916,
       "name": "Suvvato",
       "url": "https://open.spotify.com/track/0nv2BPc29Ufji1seJNUE6x"
@@ -21076,7 +21094,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 173423,
       "name": "X Sempre (feat. Giaime)",
       "url": "https://open.spotify.com/track/2KmksBB8kXq0WP9nAQN8VU"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh?si=rRDfEgn\-TceuQnjuKCD8Kw"> Odeal </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,333 likes - 200 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,718 likes - 200 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 60 | [Little Nothings](https://open.spotify.com/track/5JseEHJMBE2kRk2vXAaAMv) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Little Nothings](https://open.spotify.com/album/0FID2WHAhfMQ2vxcTU1C3B) | 3:42 |
 | 61 | [Awaken](https://open.spotify.com/track/7hW1ZGSfjSEW7cxwZKO7Ig) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Awaken](https://open.spotify.com/album/4Hg474OtmWNu2QZJ9jrwJc) | 2:43 |
 | 62 | [Magic](https://open.spotify.com/track/3hfFAZ25jguZiLihKYWnU0) | [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Magic](https://open.spotify.com/album/2x179zqxoklQQ4jWm6Z8kY) | 2:03 |
-| 63 | [Flood](https://open.spotify.com/track/4tIiZ0Tw8rs10U4VWhF0tW) | [Allyn](https://open.spotify.com/artist/2nWo31Kvu9rMSVfhuUVUw3), [BlueBucksClan](https://open.spotify.com/artist/2dbNDuDQiHAcS2xztVnM9X) | [Flood](https://open.spotify.com/album/24bncHiXpdwGsPlXJfp1Ad) | 2:39 |
+| 63 | [Flood](https://open.spotify.com/track/4tIiZ0Tw8rs10U4VWhF0tW) | [Allyn](https://open.spotify.com/artist/2nWo31Kvu9rMSVfhuUVUw3), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Flood](https://open.spotify.com/album/24bncHiXpdwGsPlXJfp1Ad) | 2:39 |
 | 64 | [OPTIONS](https://open.spotify.com/track/1h1ad5ERaW20I3J9Va4GsI) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [OPTIONS](https://open.spotify.com/album/7wxMg3wnhxQ4AYwM8r4lo6) | 2:17 |
 | 65 | [Shadows](https://open.spotify.com/track/0PtzMsYtataAxl7UP9Q2HF) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh), [CVIRO](https://open.spotify.com/artist/5C5mVIHAEIbomEs6nsNWJ9), [GXNXVS](https://open.spotify.com/artist/6LuLHe6y5BHU0quiy0sMhL) | [Shadows](https://open.spotify.com/album/42ZpyhNWUTOm5J9ex6I7yF) | 2:39 |
 | 66 | [HOME](https://open.spotify.com/track/4MKnbbcCLbuTMWo8JBk8ej) | [2am](https://open.spotify.com/artist/54avHNJAk1hlKRoqrbVx2d), [Karabo](https://open.spotify.com/artist/2nPtQTbG4YCBrkSftUoiG3) | [FOR YOU, FOREVER](https://open.spotify.com/album/6q8rLOzjZMAGt2M1f4syHl) | 3:22 |
@@ -165,7 +165,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 155 | [ION WANT CASH](https://open.spotify.com/track/4CHHGWuXmghgNjAjciNZez) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ) | [ION WANT CASH](https://open.spotify.com/album/59GpqX7Bcp2X3dpviUVDpv) | 2:54 |
 | 156 | [Bubblehouse Bounce \(move as one\)](https://open.spotify.com/track/0u4sSY6ERnQszMWx7k3NbC) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Bubblehouse Bounce \(move as one\)](https://open.spotify.com/album/0pwEW8znvZOKfVcL26k6o8) | 3:43 |
 | 157 | [NWTG](https://open.spotify.com/track/1gqNVP1KADI1vyce4Yb72r) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [NWTG](https://open.spotify.com/album/7xnntO00e5WYYVuiKPWWWG) | 3:15 |
-| 158 | [MNTNS](https://open.spotify.com/track/6WsynEBdML84DDlhJQ20CI) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [LSTN!](https://open.spotify.com/album/6PW2h1QLRPiPaQ0O0sKsbA) | 2:53 |
+| 158 | [MNTNS](https://open.spotify.com/track/52JxoWMweF9lmM4fOi5I0J) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [LSTN!](https://open.spotify.com/album/0aKJSf1a160L3KRDnLqu70) | 2:53 |
 | 159 | [Flights](https://open.spotify.com/track/3tdGDik2YTOVr8wuOBXPaV) | [Aryeè The Gem](https://open.spotify.com/artist/57IyzVgCqSf03yf30gIMwY), [Savannah Cristina](https://open.spotify.com/artist/7EsWLpczyTXU6zyfWt7ZkN) | [Flights](https://open.spotify.com/album/24RTGPwf3NEh7pEr4gbXgL) | 2:45 |
 | 160 | [JJC](https://open.spotify.com/track/4IcQbIh8U4DtXEy5KWKcAu) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [JJC](https://open.spotify.com/album/6Ba8adcxt440I92gC7ld28) | 2:34 |
 | 161 | [Posed To](https://open.spotify.com/track/0F49S52vtPok28qeP4TCTZ) | [ØHENRY](https://open.spotify.com/artist/4zL1qNBQ4ZVhWFUXbyFCqI) | [Posed To](https://open.spotify.com/album/4Y0aCALzjLk45oOFCmQzbP) | 2:13 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 199 | [palisades](https://open.spotify.com/track/0PLzy8TCh6YQ48WsPbtecP) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [palisades](https://open.spotify.com/album/7K9SJdOpY6C4QuvxmJ5jh6) | 3:57 |
 | 200 | [This Is What You're Gonna Get \(Intro\)](https://open.spotify.com/track/3zeIPaQMP64eIM0rI9KyEq) | [Blue Nightmare](https://open.spotify.com/artist/7KjinB2wGyb4N3zvfdOJqX) | [I Don't Think You Know Me That Well](https://open.spotify.com/album/3I2rg6r3sOA7qYEsLdH2NK) | 1:10 |
 
-Snapshot ID: `MCxjY2YxMzRmZWExYmE3ZWE2NDUyYWFiODNhODA2MzkyOGMxMmE3OTUy`
+Snapshot ID: `MCw4ODdmNjNlNGYxMzQ2YjhiYTBlMGUzNmE3NjU3OWU1MGVhYjgxN2I2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover: Jonita Gandhi, Ali Sethi
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,225 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,245 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 49 | [Don't Let Go](https://open.spotify.com/track/222VjaQ6wUWhe3SnbNHJ2K) | [Strong Asian Mothers](https://open.spotify.com/artist/4w0ZOWckwNCzNtbxu5niaB) | [Don't Let Go](https://open.spotify.com/album/5WGtuS2pMdXz7WfOrM9vcN) | 2:38 |
 | 50 | [Beautiful](https://open.spotify.com/track/6bkSlqDEou4Juvkz4vivQ6) | [Muza](https://open.spotify.com/artist/79jA5f2Sa3pgRT0ZTtYplo), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [Beautiful](https://open.spotify.com/album/2QSnKAK5bBtLHtOqtmJbwC) | 4:01 |
 
-Snapshot ID: `MCw5ZDc4ZmU5Zjk4MjI0NTY4M2QwNDBiN2ZiZmVhN2E0ZDIzN2VhZTM5`
+Snapshot ID: `MCw4ZDM0ZTZiNDE4NmY1ZGRlYTJjYzU1YjUzODhiMzJkOTQ0YzRlYzQx`

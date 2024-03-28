@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Azzy, Luiz Lins, MC Cabelinho, Slipmami, Mc Poze do Rodo, Chefin, Oruam, MC Hariel, JayA Luuck
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,315 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,468 likes - 75 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 74 | [Acústico Altamira \#8 \- Leonina](https://open.spotify.com/track/6YMi3tJujGfeXWmA9KRDhC) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Mikezin](https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q), [Anna Catarina](https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow), [Drizzy](https://open.spotify.com/artist/4GdVnTiuhvPVYdrPOLB7b1), [Luá Kali](https://open.spotify.com/artist/7erv73antdGnjobwarhKOv), [Mariana Mello](https://open.spotify.com/artist/3SpxzQOI6hJGCxNhMQbWEG) | [Acústico Altamira \#8 \- Leonina](https://open.spotify.com/album/6hIMQijH2Wz9T5sPDE2gy0) | 4:42 |
 | 75 | [Pede pra Ficar](https://open.spotify.com/track/1wkeJrOp8NiCrze5KrwgXM) | [Muzzike](https://open.spotify.com/artist/2XTtA7Pvl5vucL3oFXlMyT) | [Pede pra Ficar](https://open.spotify.com/album/2SproejOjeYG5lnBTlU6p8) | 2:55 |
 
-Snapshot ID: `MCxlZmIxMTUzZmU5MTY2Njk5N2VkZDM2ZGNlZjM0NGM2MDAzZGJjOGNh`
+Snapshot ID: `MCw5ODUyNmMwZGY5MWIyNThmZWU2MWVhNGRhOGNlMjg3ZjU3YTZlZjMx`

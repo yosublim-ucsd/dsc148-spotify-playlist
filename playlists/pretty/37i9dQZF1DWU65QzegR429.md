@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves and Cristina Martinez bringing the vibes with the first 5 songs\. Cover: Lismar
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,894 likes - 87 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,908 likes - 87 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 86 | [Gafas Pal Sol](https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 2:42 |
 | 87 | [Bless Mode](https://open.spotify.com/track/5Z1OonwsupYG38tvG91zcf) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Bless Mode](https://open.spotify.com/album/6G3Pm1DWqJksNbUq00gAjR) | 2:32 |
 
-Snapshot ID: `MCxjMDBjM2E0N2Q0YTQ0MDBhNmJkMmIzYTBmNjYwOWNlMGM3OTc0NDVk`
+Snapshot ID: `MCw0ZThjYjQ0M2JlNzU0NGRhNWUxM2RiMTZkMDZjNjFkZWExODEyYWM2`

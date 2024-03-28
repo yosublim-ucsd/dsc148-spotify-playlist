@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 555,
+  "2024-03-28": 555,
   "date_first_scraped": "2023-05-06",
   "description": "This is Germaine Franco. The essential tracks, all in one playlist.",
   "name": "This Is Germaine Franco",
@@ -57,7 +57,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 140655,
       "name": "A Real Cowboy",
       "url": "https://open.spotify.com/track/4WT4fA8R0oE5rtuPBGLRNF"
@@ -75,7 +75,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 88053,
       "name": "A Storm Approaches",
       "url": "https://open.spotify.com/track/62xeNjaW13mCaCtNzD1dMB"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 125159,
       "name": "Her Racing Heartbeat",
       "url": "https://open.spotify.com/track/0Wy0I9wbbX7CPIwU5pu8G2"
@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 65306,
       "name": "No Such Thing as Magic",
       "url": "https://open.spotify.com/track/07oBBXUsZcP6r3nUNiAVmJ"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 79280,
       "name": "Not It",
       "url": "https://open.spotify.com/track/4qQYUXly5uyHi10uLkaRha"
@@ -1537,6 +1537,24 @@
       "duration_ms": 103213,
       "name": "She Knows This Monkey",
       "url": "https://open.spotify.com/track/5cv2M8HwQrpVv5oIFsGrXj"
+    },
+    {
+      "album": {
+        "name": "The Mother (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108600,
+      "name": "She's Mine",
+      "url": "https://open.spotify.com/track/4fV0XLAcaK9Z5QQpsRP6eM"
     },
     {
       "album": {

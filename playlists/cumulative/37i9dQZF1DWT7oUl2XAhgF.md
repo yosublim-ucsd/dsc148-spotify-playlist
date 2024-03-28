@@ -2,7 +2,7 @@
 
 ### [Retro Soul](https://open.spotify.com/playlist/37i9dQZF1DWT7oUl2XAhgF)
 
-> A new take on a classic sound\. Cover: Britti
+> A new take on a classic sound\. Cover: Jalen Ngonda
 
 393 songs - 23 hr 45 min
 

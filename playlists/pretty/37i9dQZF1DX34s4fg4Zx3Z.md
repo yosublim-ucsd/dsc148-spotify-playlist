@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: KIMLONG
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,262 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,264 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Muốn Nói Yêu Em](https://open.spotify.com/track/6F0QvcQ72geuTJGjeXsOCm) | [NB3 Hoài Bảo](https://open.spotify.com/artist/5QbDgpkghCaWjJywjbJnoG) | [Muốn Nói Yêu Em](https://open.spotify.com/album/5OedhGwxgxfTzdNHThASH0) | 3:35 |
 | 100 | [Hoa Trong Sương](https://open.spotify.com/track/5PMRzTjjiBQTN4eq6PHCAY) | [Lynk Nguyen](https://open.spotify.com/artist/4NkJ2ST54TN8b1Mpp1d0Kh) | [Saudade](https://open.spotify.com/album/6MOKWwKLGBoG56fBf8YnuL) | 5:25 |
 
-Snapshot ID: `MCwxMzY3N2M1YjIyNWRmOTlkZmRkZjU3MzMzZWMxNmQ2OWFhYzdkZmJm`
+Snapshot ID: `MCw1ZDBiZTA0YjI0Mjk3ODUyZTRkMTM1NjA2Y2ZmMDFiNjU1NGQxMzg1`

@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 478420,
+  "2024-03-28": 478461,
   "date_first_scraped": "2023-09-29",
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui.",
   "name": "Culture Tubes",
@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 230426,
       "name": "L'envie",
       "url": "https://open.spotify.com/track/57zabaqzfjZVhxJeb0UZsP"
@@ -1863,7 +1863,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 182040,
       "name": "Si j'avais su",
       "url": "https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q"

@@ -1,7 +1,7 @@
 {
-  "2024-03-27": 117907,
+  "2024-03-28": 117946,
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: Su\u51f8ko D\u51f9koi",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: TOTALFAT",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -1002,6 +1002,28 @@
     },
     {
       "album": {
+        "name": "Boarding Time",
+        "url": "https://open.spotify.com/album/4kKFJVQdKNZgN0hq2JcIsS"
+      },
+      "artists": [
+        {
+          "name": "TOTALFAT",
+          "url": "https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE"
+        },
+        {
+          "name": "Pee Wee Gaskins",
+          "url": "https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176246,
+      "name": "Boarding Time",
+      "url": "https://open.spotify.com/track/5Lh4wvvHLA6hdbT1uwWI5T"
+    },
+    {
+      "album": {
         "name": "3rd e.p",
         "url": "https://open.spotify.com/album/2tnBhc5J7XZjqf7cAB7Gqf"
       },
@@ -1031,7 +1053,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 199585,
       "name": "BONES AND ALL",
       "url": "https://open.spotify.com/track/2Xu7GrXNgDRdVTZaZ3wBO4"
@@ -4223,7 +4245,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 284250,
       "name": "Koushu Road",
       "url": "https://open.spotify.com/track/1QTqwO6IvE5wcabJZMfUZH"
@@ -7257,6 +7279,24 @@
       "duration_ms": 217959,
       "name": "SCRAP AN OLD BRAIN",
       "url": "https://open.spotify.com/track/05NSGCH9lO8SP24FwyAsMc"
+    },
+    {
+      "album": {
+        "name": "ENTH",
+        "url": "https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ"
+      },
+      "artists": [
+        {
+          "name": "ENTH",
+          "url": "https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197200,
+      "name": "SCUM DOGS FART",
+      "url": "https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN"
     },
     {
       "album": {

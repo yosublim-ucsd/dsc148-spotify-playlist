@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Malayalam](https://open.spotify.com/playlist/37i9dQZF1DX8OdFBus1U8c)
 
-> Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Vedan, Sushin Shyam
+> Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Neeraj Madhav
 
 152 songs - 8 hr 8 min
 
@@ -40,7 +40,7 @@
 | [CHECK CHECK](https://open.spotify.com/track/7KieJoUWl3NAxZGmV24vJk) | [San Jaimt](https://open.spotify.com/artist/2BrfO48KSTebyOrNEyeMOm) | [CHECK CHECK](https://open.spotify.com/album/5mcYXrsMZ6X0xogQHGKnnL) | 2:32 | 2024-02-05 | 2024-02-13 |
 | [Chekuthan](https://open.spotify.com/track/5Zoe8tHOVTMOzeapdpQeYL) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan](https://open.spotify.com/album/0HH6caLXMV6xudGoXkFn9q) | 2:48 | 2021-12-03 |  |
 | [Chekuthan \(Reprise\)](https://open.spotify.com/track/6N0Z9weSdoXUzL0wbqQD4h) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan \(Reprise\)](https://open.spotify.com/album/6Qz3dfZLUwwyvzd6JHxUPa) | 1:40 | 2021-12-03 | 2024-02-18 |
-| [Chetharu](https://open.spotify.com/track/7fjoISg1aE6qSevZZw9TUn) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Chetharu](https://open.spotify.com/album/3xsreOHvjCCzqXI6YMUxFB) | 2:33 | 2024-03-17 |  |
+| [Chetharu](https://open.spotify.com/track/7fjoISg1aE6qSevZZw9TUn) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et) | [Chetharu](https://open.spotify.com/album/3xsreOHvjCCzqXI6YMUxFB) | 2:33 | 2024-03-17 |  |
 | [CHILL OUT](https://open.spotify.com/track/1gUmzKldDiBbVUKcaxDygk) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Thudwiser](https://open.spotify.com/artist/6z8IZH6zc5YxGOGZT1ZswT) | [CHILL OUT](https://open.spotify.com/album/2jKDdkD9BVxDdYkCidRAf0) | 3:05 | 2022-06-23 | 2023-09-12 |
 | [Christophonk \(From "Christopher"\)](https://open.spotify.com/track/1UglxhqM4NJFs7Nzwrqg0q) | [Justin Varghese](https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh), [Jack' Styles](https://open.spotify.com/artist/6kSff0CdORBb2zNCTuMeEX) | [Christophonk \(From "Christopher"\)](https://open.spotify.com/album/7x7wOZn05pbLNI3EgEqw3C) | 3:03 | 2023-02-07 |  |
 | [Christophonk \(From "Christopher"\)](https://open.spotify.com/track/1dZBse9huzwfLqVGZyh7vD) | [Justin Varghese](https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh), [Jack' Styles](https://open.spotify.com/artist/6kSff0CdORBb2zNCTuMeEX) | [Christophonk \(From "Christopher"\)](https://open.spotify.com/album/0SV2MCJcut7l3iveH7Bz9i) | 3:03 | 2023-02-07 | 2023-11-04 |

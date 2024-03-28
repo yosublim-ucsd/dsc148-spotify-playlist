@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,861 likes - 35 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,869 likes - 35 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 34 | [Eclipse](https://open.spotify.com/track/36HSUDViFEJfQoPvuJqBn4) | [Jaime Sin Tierra](https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5) | [El Avión Ya Se Estrelló Y Yo Sigo Volando](https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB) | 2:23 |
 | 35 | [Atlántico](https://open.spotify.com/track/7nXLrabjv9W94NyjK8WNga) | [Altocamet](https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe) | [Manzana de Metal](https://open.spotify.com/album/3eXS2iglmCZJ9feMoyX7dm) | 4:23 |
 
-Snapshot ID: `MCw4YTg1YmQzZGE1MGE5MzRjNDIwZTQ4NmNiOTQ4N2JiMjc4MTE5M2Ew`
+Snapshot ID: `MCxmOTkwZDBkNmIzZjE2MWJhZDQ0MmQ3MTE0MmY5OTdmZmE0MzA0MWNi`

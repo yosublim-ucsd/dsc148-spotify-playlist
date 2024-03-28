@@ -1,12 +1,12 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Sotam",
-  "num_followers": 129510,
+  "num_followers": 129531,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTE4Y2FkOTlhNzcwYTFjY2Q2YmIzNTRhOWE2MzY4N2FkZjY5NmE5",
+  "snapshot_id": "MCw2OWJhY2YxMDJmMDliNzA3YWFhM2E2YzQ1ZjZmOTA0OTRjNzU5Njli",
   "tracks": [
     {
       "added_at": "2024-03-22 14:40:52",
@@ -903,30 +903,6 @@
     {
       "added_at": "2024-03-22 14:40:52",
       "album": {
-        "name": "Meu Nome N\u00e3o \u00e9 Igor %",
-        "url": "https://open.spotify.com/album/3lyZheF7IyPnFduYqBJHMI"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 291764,
-      "name": "Poderosa",
-      "url": "https://open.spotify.com/track/2XlFBuim68cXb9Xp7LmERL"
-    },
-    {
-      "added_at": "2024-03-22 14:40:52",
-      "album": {
         "name": "O \u00daltimo Rom\u00e2ntico Online",
         "url": "https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4"
       },
@@ -959,26 +935,26 @@
     {
       "added_at": "2024-03-22 14:40:52",
       "album": {
-        "name": "\u00daltima Noite (Papatracks#11)",
-        "url": "https://open.spotify.com/album/0EcAY4yJ4yVIvA0RwVKOFm"
+        "name": "Meu Nome N\u00e3o \u00e9 Igor %",
+        "url": "https://open.spotify.com/album/3lyZheF7IyPnFduYqBJHMI"
       },
       "artists": [
         {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
         },
         {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         },
         {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
         }
       ],
-      "duration_ms": 178186,
-      "name": "\u00daltima Noite (Papatracks#11)",
-      "url": "https://open.spotify.com/track/361vXl5D3gNeO9SHQRnpxK"
+      "duration_ms": 291764,
+      "name": "Poderosa",
+      "url": "https://open.spotify.com/track/2XlFBuim68cXb9Xp7LmERL"
     },
     {
       "added_at": "2024-03-22 14:40:52",
@@ -1011,6 +987,30 @@
       "duration_ms": 176633,
       "name": "Nosso Momento",
       "url": "https://open.spotify.com/track/0Veziue3ma20ib0JUzARrV"
+    },
+    {
+      "added_at": "2024-03-22 14:40:52",
+      "album": {
+        "name": "\u00daltima Noite (Papatracks#11)",
+        "url": "https://open.spotify.com/album/0EcAY4yJ4yVIvA0RwVKOFm"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "\u00daltima Noite (Papatracks#11)",
+      "url": "https://open.spotify.com/track/361vXl5D3gNeO9SHQRnpxK"
     },
     {
       "added_at": "2024-03-22 14:40:52",

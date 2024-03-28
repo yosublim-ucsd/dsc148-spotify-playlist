@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist! \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,948 likes - 76 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,035 likes - 76 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Brommers Kieken](https://open.spotify.com/track/1sFOo3OyMgonEYdi4bTXHd) | [Boer Harm](https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os) | [Brommers Kieken](https://open.spotify.com/album/3AryJg88r4Hr8mSj74KaVP) | 2:26 |
-| 2 | [5713](https://open.spotify.com/track/0LyMxH6YKHAgvcSPxXBww8) | [Dv](https://open.spotify.com/artist/4MgUht9kRLFmS5uNiycgeC) | [5713](https://open.spotify.com/album/2Fqe7Pawgp6pOzijhsX6EP) | 2:31 |
-| 3 | [Ode To The Bouncer \- Hard Techno Edit](https://open.spotify.com/track/0x3c6okTJMGsYmTYtz8NDA) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Ode To The Bouncer \(Hard Techno Edit\)](https://open.spotify.com/album/3rU4QBfwX89HyLrfNk1wWF) | 3:17 |
-| 4 | [Pretty Girls](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Pretty Girls](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 |
-| 5 | [Bonus](https://open.spotify.com/track/3KXeTMIdec8G6rclrOFKTL) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc), [Jantje](https://open.spotify.com/artist/4qkXUou0EQ56wmcais8uwJ) | [Bonus](https://open.spotify.com/album/78BcIlHd26IcfnBgOKK2jQ) | 2:10 |
+| 2 | [Ode To The Bouncer \- Hard Techno Edit](https://open.spotify.com/track/0x3c6okTJMGsYmTYtz8NDA) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Ode To The Bouncer \(Hard Techno Edit\)](https://open.spotify.com/album/3rU4QBfwX89HyLrfNk1wWF) | 3:17 |
+| 3 | [Pretty Girls](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Pretty Girls](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 |
+| 4 | [Bonus](https://open.spotify.com/track/3KXeTMIdec8G6rclrOFKTL) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc), [Jantje](https://open.spotify.com/artist/4qkXUou0EQ56wmcais8uwJ) | [Bonus](https://open.spotify.com/album/78BcIlHd26IcfnBgOKK2jQ) | 2:10 |
+| 5 | [5713](https://open.spotify.com/track/0LyMxH6YKHAgvcSPxXBww8) | [Dv](https://open.spotify.com/artist/4MgUht9kRLFmS5uNiycgeC) | [5713](https://open.spotify.com/album/2Fqe7Pawgp6pOzijhsX6EP) | 2:31 |
 | 6 | [Est\-ce que tu m'aimes? \- Techno Mix](https://open.spotify.com/track/4Wfhrtx2YYGF6PuO3aejek) | [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf) | [Est\-ce que tu m'aimes? \(Techno Mix\)](https://open.spotify.com/album/2gHbzrnertShfYSJiCps6C) | 2:36 |
 | 7 | [Papito](https://open.spotify.com/track/64j3XgC9pcsuLRyhqlpZgk) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Papito](https://open.spotify.com/album/2aAI9ArnZc7BbdQQ9Ch2k9) | 2:43 |
 | 8 | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1) | 4:57 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 75 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
 | 76 | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA) | 2:27 |
 
-Snapshot ID: `MCw4NGZmZDM5ZDdkM2IxNjRhMGM2NTQzMWQ5YzA3OWU1YWY1OTMxYzU2`
+Snapshot ID: `MCw5YjcxMDNlMjM4OTY1MjA2NzFmYWY5OWU5YjFkYzMyYTcyMGU5NGY1`

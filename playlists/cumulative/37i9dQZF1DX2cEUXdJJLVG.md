@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-319 songs - 19 hr 5 min
+320 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/4z9VuRI0SGk6mZXRRZyT7Z) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/6pemgHNxTnz4vRNNMLQCAe) | 3:41 | 2022-09-09 | 2022-10-13 |
 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:41 | 2023-01-12 |  |
 | [It's Complete \- 2022 Mix](https://open.spotify.com/track/6RqQUx2nAfP864X9IEGOY7) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Labfunk \(21st Anniversary Edition\)](https://open.spotify.com/album/0iTL9FP05unP4iwBbciHPx) | 7:15 | 2022-12-15 | 2024-03-21 |
-| [It's Okay \- Lakim Remix](https://open.spotify.com/track/1rcUxbqjw9FTohyDqDNSDo) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M), [Lakim](https://open.spotify.com/artist/6kncomCdQQz8jvnf7djNZI) | [It's Okay \(Lakim Remix\)](https://open.spotify.com/album/73PwPDPqrNGF6RwJ2JJDtM) | 3:16 | 2022-09-09 |  |
+| [It's Okay \- Lakim Remix](https://open.spotify.com/track/1rcUxbqjw9FTohyDqDNSDo) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M), [Lakim](https://open.spotify.com/artist/6kncomCdQQz8jvnf7djNZI) | [It's Okay \(Lakim Remix\)](https://open.spotify.com/album/73PwPDPqrNGF6RwJ2JJDtM) | 3:16 | 2022-09-09 | 2024-03-28 |
+| [It's Okay \- Lakim Remix](https://open.spotify.com/track/5wnKlyB0ZUpgFXQy9c6NZs) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M), [Lakim](https://open.spotify.com/artist/6kncomCdQQz8jvnf7djNZI) | [Rainbow Child \(Remixes\)](https://open.spotify.com/album/1WnjgDqDFZvwkohqJQ4SUh) | 3:16 | 2024-03-21 |  |
 | [Jewels in the Night](https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Jewels in the Night](https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P) | 3:45 | 2022-09-09 |  |
 | [Just Can't Get Enough](https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu) | 5:03 | 2022-09-09 | 2022-09-30 |
 | [Just Can't Get Enough](https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/0WTqPH4Z8TiNoEaHHvgIic) | 5:03 | 2022-09-29 | 2023-04-21 |

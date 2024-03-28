@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover:JUNGWOO\(정우\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,181 songs - 3 day 4 hr 31 min
+1,183 songs - 3 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [After you’ve gone](https://open.spotify.com/track/1JEeGmgxMtzRiMo0rv7RC6) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [After you’ve gone](https://open.spotify.com/album/0CDAPlOOdZ8kf5zfyNOWey) | 3:50 | 2022-08-01 | 2022-12-27 |
 | [Afternoon](https://open.spotify.com/track/6lKTh03nceI89Jhy8aFLBL) | [BYUL](https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp) | [Startrail](https://open.spotify.com/album/4fHQGchrMiUFNmuBbnzkRN) | 4:10 | 2023-01-11 | 2023-02-25 |
 | [Again, goodbye](https://open.spotify.com/track/20sEI5enxxStjRnoKxJTA0) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Again, goodbye \(YAOKI Project part.2\)](https://open.spotify.com/album/2GcLzQ6EGtG6ssDLR3UbUZ) | 4:21 | 2023-02-06 | 2023-03-28 |
-| [Agony](https://open.spotify.com/track/4kFgtNqcmwoQmFEwiv6f1C) | [Minjeong](https://open.spotify.com/artist/7A7ednJZLOPLtUtLVmUmrd) | [Agony](https://open.spotify.com/album/50dC1dEnN1tRIHRqniF6vV) | 3:58 | 2024-03-20 |  |
+| [Agony](https://open.spotify.com/track/4kFgtNqcmwoQmFEwiv6f1C) | [Kang min jeong](https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru) | [Agony](https://open.spotify.com/album/50dC1dEnN1tRIHRqniF6vV) | 3:58 | 2024-03-20 |  |
 | [Alarm](https://open.spotify.com/track/0bWaehT6suvoyAVP0RwpNd) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [My Lovely Liar, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/7qnNNyNveamlqSXk8AhrQT) | 3:19 | 2023-09-12 | 2023-11-14 |
 | [Alcohol is](https://open.spotify.com/track/1zweXWctPrLlixV7J3mxpR) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Alcohol is](https://open.spotify.com/album/55hQhEsQqDzau7QVBsd2kx) | 1:53 | 2023-11-02 | 2024-03-06 |
 | [Alive](https://open.spotify.com/track/4EqZlbw5gy1MqN4CRYm77j) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Not Others, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/1miqW2MgPi1rbkX1hS1nJC) | 3:23 | 2023-08-24 | 2023-10-17 |
@@ -351,6 +351,7 @@
 | [Heart](https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Heart](https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP) | 4:17 | 2023-09-14 | 2024-03-16 |
 | [Heartaches](https://open.spotify.com/track/2d9uQGGLlhop1glQFrqrdZ) | [Baek Yeseul](https://open.spotify.com/artist/7GE4KJsseSG0G1848UQpro) | [Heartaches](https://open.spotify.com/album/7vhxzNYCbSnKqK1ElEt4mh) | 3:54 | 2023-02-24 | 2023-06-23 |
 | [Heaven](https://open.spotify.com/track/4Ohe61evYAILzlyhSjd7Eq) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Heaven](https://open.spotify.com/album/5PD7BUIpjw9LeGqdNItRug) | 3:43 | 2023-05-15 | 2023-10-20 |
+| [Heavenly fate](https://open.spotify.com/track/4mqfe9XrgEOSsofvq5MyjR) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Heavenly fate \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/6R3XGAZh7OzZBQiN8Ucbkq) | 4:31 | 2024-03-27 |  |
 | [HeeJae](https://open.spotify.com/track/10PzmnIzAwd4vRRDUamEwr) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [HeeJae \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wqchZ5AFWr6akPCH6h74O) | 4:41 | 2023-05-05 | 2023-05-16 |
 | [Hello](https://open.spotify.com/track/6Me6uD7KrQ2fS8U8wCiMDY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Romantic Doctor 3 OST Part.1](https://open.spotify.com/album/6nErKEsThTGVCCO4RDiIqE) | 3:50 | 2023-05-03 | 2023-09-19 |
 | [Hello](https://open.spotify.com/track/2B4Hz23pUeucJZEmgUIOtV) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Hello](https://open.spotify.com/album/2FmUOkj3thjkzbuR10fLBb) | 3:35 | 2022-01-17 | 2022-03-14 |
@@ -712,6 +713,7 @@
 | [Not Lonely](https://open.spotify.com/track/6qxNNoaaKKshw34ZdTrVV2) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Not Lonely](https://open.spotify.com/album/1c8fuugcDBjVstYX9RcI8q) | 4:11 | 2023-11-15 |  |
 | [not ours](https://open.spotify.com/track/4Mg8g6yUQSCykJKgosr2U5) | [adore](https://open.spotify.com/artist/599aVifFb724ktGNGaYRRA) | [closed eyes, daytime dreams](https://open.spotify.com/album/25iVJ5J32T4whC2NrE4VSl) | 4:25 | 2023-04-26 | 2023-09-12 |
 | [Nothing Between Us](https://open.spotify.com/track/7KbMO2Hk5u34XkLJzenQ0P) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Nothing Between Us](https://open.spotify.com/album/3hbUZ75XswpL7LjJ5iyUWX) | 3:17 | 2022-02-17 | 2022-06-24 |
+| [Nothing Ever](https://open.spotify.com/track/3e33rlL7TVHv1FuEYOqF2l) | [Kim Yuna](https://open.spotify.com/artist/74UiZwRnkEE56JLvKhNGCB) | [Nothing Ever](https://open.spotify.com/album/19Y5qOTPrSCgQodWk6pReq) | 3:30 | 2024-03-27 |  |
 | [Nothing special with the day](https://open.spotify.com/track/6ObdMZQvE0spawobMYvprk) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Nothing special with the day](https://open.spotify.com/album/1N6CCc38rJCzYOU73w5M8M) | 4:22 | 2022-03-29 | 2022-04-06 |
 | [Nothing's going my way](https://open.spotify.com/track/0PEMrxscyb93cQ0X6QFAlP) | [Park Hyun Kyu](https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt) | [Nothing's going my way](https://open.spotify.com/album/1OYxGc5j8LN7bcrDnCR3nz) | 4:03 | 2023-04-26 | 2023-09-12 |
 | [Now running to you](https://open.spotify.com/track/1BQFJgczKK7foTcPuMF95N) | [JOO SEOL OK](https://open.spotify.com/artist/4fZ1YSVoYTlqbZcJEOl80M) | [Now running to you](https://open.spotify.com/album/4uCUkLnuQRwN2wtcjaL0TH) | 3:32 | 2023-02-24 | 2023-05-16 |

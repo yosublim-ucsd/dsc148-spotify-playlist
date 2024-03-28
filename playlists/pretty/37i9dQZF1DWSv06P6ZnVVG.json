@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 35510,
+  "num_followers": 35576,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjcyYTdlZWVhYzY4ODZiOWM5ZjFmOWJkNjgwODQzYmFhODNhN2U3",
+  "snapshot_id": "MCw2ZWNiZmEyNzAzNTRhMWI2MzI2YjM0MWE0ODMxNDcyM2JjZTkzNDA0",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Banda la Fregona: Primer Aniversario (En Vivo)",
-        "url": "https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4"
-      },
-      "artists": [
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 461333,
-      "name": "Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Pi\u00f1a - En Vivo",
-      "url": "https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Arriba Mi Rancho",
         "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 225410,
       "name": "El Tecolotito",
       "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Banda la Fregona: Primer Aniversario (En Vivo)",
+        "url": "https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4"
+      },
+      "artists": [
+        {
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+        }
+      ],
+      "duration_ms": 461333,
+      "name": "Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Pi\u00f1a - En Vivo",
+      "url": "https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "El Novillo Despuntado / Toro Pinto",
-        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 277796,
-      "name": "El Novillo Despuntado / Toro Pinto",
-      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "La Fiera 2018",
         "url": "https://open.spotify.com/album/3YazfgJe5W6zZtdwdbVweg"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 218893,
       "name": "El Pistolero - Son, Huapangobanda",
       "url": "https://open.spotify.com/track/3M7XEXe5lVM1jHgGrNTkUz"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "El Novillo Despuntado / Toro Pinto",
+        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "duration_ms": 277796,
+      "name": "El Novillo Despuntado / Toro Pinto",
+      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Las m\u00e1s muerteras",
+        "url": "https://open.spotify.com/album/3gjCOwINDNAOi3VIk8PbZ8"
+      },
+      "artists": [
+        {
+          "name": "Los Oaxapen\u00b4S",
+          "url": "https://open.spotify.com/artist/3ZrpEqKME1c5ZXm6g4ZLI8"
+        }
+      ],
+      "duration_ms": 214674,
+      "name": "Carnavalezco",
+      "url": "https://open.spotify.com/track/0kk8kIdLalXbrl3DaFrXPM"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Puros Popurris De Sones",
         "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 243506,
       "name": "Popurr\u00ed Mexicano: Son de la Negra / Pelea de Gallos",
       "url": "https://open.spotify.com/track/0gi7rXrTRTmQqsoVrVW3X8"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Las m\u00e1s muerteras",
-        "url": "https://open.spotify.com/album/3gjCOwINDNAOi3VIk8PbZ8"
-      },
-      "artists": [
-        {
-          "name": "Los Oaxapen\u00b4S",
-          "url": "https://open.spotify.com/artist/3ZrpEqKME1c5ZXm6g4ZLI8"
-        }
-      ],
-      "duration_ms": 214674,
-      "name": "Carnavalezco",
-      "url": "https://open.spotify.com/track/0kk8kIdLalXbrl3DaFrXPM"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Puros Popurris De Sones",
-        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 288072,
-      "name": "Homenaje a Un Barbaro ... Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Pi\u00f1a",
-      "url": "https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Para Ti",
         "url": "https://open.spotify.com/album/6Nv7sfvruLGAqTBtnTO0sr"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 166269,
       "name": "Cinco Trancazos",
       "url": "https://open.spotify.com/track/1MX5rdoOWTuned116iNSIF"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Puros Popurris De Sones",
+        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "duration_ms": 288072,
+      "name": "Homenaje a Un Barbaro ... Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Pi\u00f1a",
+      "url": "https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Sin Miedo Al Toro",
-        "url": "https://open.spotify.com/album/2X4uzJ9nJhpjwRyB795jar"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 199420,
-      "name": "Sin Miedo Al Toro",
-      "url": "https://open.spotify.com/track/5B1R4vTA5UdFDPpcy0PckR"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Vamos Pa' Los Toros",
         "url": "https://open.spotify.com/album/09zNtJ7OrP7eZNieO2qk8F"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 167746,
       "name": "Son de la Cotorra",
       "url": "https://open.spotify.com/track/58Giumsuoa58XMfSUca4pF"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Sin Miedo Al Toro",
+        "url": "https://open.spotify.com/album/2X4uzJ9nJhpjwRyB795jar"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "duration_ms": 199420,
+      "name": "Sin Miedo Al Toro",
+      "url": "https://open.spotify.com/track/5B1R4vTA5UdFDPpcy0PckR"
     },
     {
       "added_at": "2022-08-02 22:31:47",

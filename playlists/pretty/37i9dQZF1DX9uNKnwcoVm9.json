@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 261522,
+  "num_followers": 261623,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzhlM2NlMTAyMmZjMTk3MzI3MDk0ZWI0NTEyZWMwNTBkMTg4ODE2",
+  "snapshot_id": "MCxmNzEyZmQwZDUwMjc5YzYzOWZjOTkzMDNhMTAyY2JjZDgwNmI4MmQx",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Encuentros",
-        "url": "https://open.spotify.com/album/4oUfJWOg2hDqi8wjqgshPU"
+        "name": "De Vuelta al Jardin",
+        "url": "https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ"
       },
       "artists": [
         {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 278500,
-      "name": "Cree Solamente",
-      "url": "https://open.spotify.com/track/6cLuBLskbkBxJrb0evIlNJ"
+      "duration_ms": 299600,
+      "name": "Como Dijiste",
+      "url": "https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Se Abren Los Cielos ( Pistas)",
-        "url": "https://open.spotify.com/album/6lW1vofyUsYzC7QvktsrpU"
+        "name": "Encuentros",
+        "url": "https://open.spotify.com/album/4oUfJWOg2hDqi8wjqgshPU"
       },
       "artists": [
         {
-          "name": "Jose Luis Reyes",
-          "url": "https://open.spotify.com/artist/5hijN7Isgf4lf43c50XwOp"
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
         }
       ],
-      "duration_ms": 276706,
-      "name": "Haz Llover",
-      "url": "https://open.spotify.com/track/3O51YNgaVGHrrFLXLVJxNO"
+      "duration_ms": 278500,
+      "name": "Cree Solamente",
+      "url": "https://open.spotify.com/track/6cLuBLskbkBxJrb0evIlNJ"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1451,6 +1451,42 @@
       "duration_ms": 371013,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/3Askzcj7HSPFNv5T32Vh3E"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Se Abren Los Cielos ( Pistas)",
+        "url": "https://open.spotify.com/album/6lW1vofyUsYzC7QvktsrpU"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Reyes",
+          "url": "https://open.spotify.com/artist/5hijN7Isgf4lf43c50XwOp"
+        }
+      ],
+      "duration_ms": 276706,
+      "name": "Haz Llover",
+      "url": "https://open.spotify.com/track/3O51YNgaVGHrrFLXLVJxNO"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "duration_ms": 445906,
+      "name": "Que Se Abra el Cielo",
+      "url": "https://open.spotify.com/track/795ipT8LPC3Zlbro5Umykx"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1519,22 +1555,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "De Vuelta al Jardin",
-        "url": "https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 299600,
-      "name": "Como Dijiste",
-      "url": "https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Tu Voluntad",
         "url": "https://open.spotify.com/album/5K6pp3sMIXMxkzYcQDJ6yU"
       },
@@ -1567,22 +1587,6 @@
       "duration_ms": 370665,
       "name": "Llena Este Lugar",
       "url": "https://open.spotify.com/track/2mOaRojOOLqKh4nnpcE6qL"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Perdido en Tu Amor",
-        "url": "https://open.spotify.com/album/0A92FA4s4a4jM7GuBqVE5F"
-      },
-      "artists": [
-        {
-          "name": "Luigi Castro",
-          "url": "https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9"
-        }
-      ],
-      "duration_ms": 297626,
-      "name": "Escondido en \u00c8l - Spanish",
-      "url": "https://open.spotify.com/track/5j7zEOjg0ySSGK5R3aSS3s"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1651,18 +1655,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Mi confianza est\u00e1 en ti (remix)",
-        "url": "https://open.spotify.com/album/4P70uBMLI7M22FKLIVZU96"
+        "name": "Perdido en Tu Amor",
+        "url": "https://open.spotify.com/album/0A92FA4s4a4jM7GuBqVE5F"
       },
       "artists": [
         {
-          "name": "Coalo Zamorano",
-          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+          "name": "Luigi Castro",
+          "url": "https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9"
         }
       ],
-      "duration_ms": 333653,
-      "name": "Mi confianza est\u00e1 en ti (remix)",
-      "url": "https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN"
+      "duration_ms": 297626,
+      "name": "Escondido en \u00c8l - Spanish",
+      "url": "https://open.spotify.com/track/5j7zEOjg0ySSGK5R3aSS3s"
     },
     {
       "added_at": "2020-11-24 13:23:38",

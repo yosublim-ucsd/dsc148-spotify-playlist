@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Erick The Architect
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,311,734 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,311,781 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Liberate](https://open.spotify.com/track/4BRhTUHixhvOeOj3yhVrCF) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [I've Never Been Here Before](https://open.spotify.com/album/3KUAjH6gf9p68TkLLyi4dB) | 4:17 |
 | 100 | [Can’t Take the Hood to Heaven](https://open.spotify.com/track/3kwScli0Ft2DoYWGfIg0sc) | [Seafood Sam](https://open.spotify.com/artist/42i1K4n41jrf6DuIOQW1BY) | [Can’t Take the Hood to Heaven](https://open.spotify.com/album/2YLAmPuOuJUdQFk6b82YNz) | 4:16 |
 
-Snapshot ID: `MCw0NDVkMzBhNWJkODFhNDljZDYzYTExYTc2MDRhZDVmNjk4ZmY4OWEy`
+Snapshot ID: `MCwwNWU4NTA5ZmZkOTg0YjEzYjUyNmY4NDUxNmVmNTgxYzI4MjJhMjk1`

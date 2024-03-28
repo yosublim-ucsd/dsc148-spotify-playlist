@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,116 songs - 2 day 10 hr 33 min
+1,117 songs - 2 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,7 +523,7 @@
 | [jag vill inte veta](https://open.spotify.com/track/0vdSIZl5VcLSHHaMKg4LR0) | [S:mon](https://open.spotify.com/artist/51y3C5frOfQpN0eMhxTAlt) | [jag vill inte veta](https://open.spotify.com/album/75HNTnorJCdME9UACaQt0z) | 2:41 | 2022-05-26 | 2022-09-26 |
 | [Jaguar](https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Jaguar](https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc) | 2:55 | 2023-10-26 | 2024-02-09 |
 | [Jealous](https://open.spotify.com/track/2kxHarGEadxB7kVJXo8bwT) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Jealous](https://open.spotify.com/album/34mio8hxaosvK9PV8xt1Ko) | 2:43 | 2021-12-16 | 2022-03-11 |
-| [Jimmy](https://open.spotify.com/track/3WDuNbcCulXtDkaUInTe69) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Jimmy](https://open.spotify.com/album/2MkyoXVn3hX1D6pwulQgpl) | 3:25 | 2024-02-24 |  |
+| [Jimmy](https://open.spotify.com/track/3WDuNbcCulXtDkaUInTe69) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Jimmy](https://open.spotify.com/album/2MkyoXVn3hX1D6pwulQgpl) | 3:25 | 2024-02-24 | 2024-03-28 |
 | [Jobba](https://open.spotify.com/track/2djkcLjZuz6ot4sYiup0fF) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Jobba](https://open.spotify.com/album/06lbZ8MmSsgrRrdDDS4wdi) | 3:35 | 2024-03-14 |  |
 | [Josefin](https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Josefin](https://open.spotify.com/album/482RW3Fc6VeLEsGTHh0cII) | 3:41 | 2021-12-16 | 2022-03-11 |
 | [Julia](https://open.spotify.com/track/4x92YZy4mfx7cDmEok90kx) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Julia](https://open.spotify.com/album/0JRRrUZE1e1CIPIyePoJJg) | 3:09 | 2023-03-16 | 2023-10-06 |
@@ -1077,6 +1077,7 @@
 | [We Fall in Love Sometimes](https://open.spotify.com/track/1PVx0wTCogf93dgfIDvn1a) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [Where the Tragic Happens](https://open.spotify.com/album/5wyVPQL9ZCTrYMpjjjV4Bo) | 2:53 | 2023-06-22 | 2023-10-20 |
 | [What If I](https://open.spotify.com/track/2c2O7ChAwj2jioNr1yDOH1) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [What If I](https://open.spotify.com/album/4eq3D1g5XmBKafdSOni4mr) | 3:05 | 2021-12-16 | 2022-04-02 |
 | [What You Were Made For](https://open.spotify.com/track/0Xxgu48tWiWkUd5Kxdxuqt) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [What You Were Made For](https://open.spotify.com/album/2tp55z03GJL1CexjXcEfBw) | 3:14 | 2022-05-26 | 2023-03-08 |
+| [What's On Your Mind](https://open.spotify.com/track/3JHgXCFXvwmhF87cpPzwxz) | [Nadine Randle](https://open.spotify.com/artist/5axuNl3MPux2y2GuCmuitJ) | [What's On Your Mind](https://open.spotify.com/album/2lI8SAEemZOYeCaYDiyE8x) | 2:57 | 2024-03-21 |  |
 | [When You're Not Mine](https://open.spotify.com/track/1PBplGHCuriImBANJ7kpZp) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [When You're Not Mine](https://open.spotify.com/album/4PS3WyfsO06gzqCLDJiGEf) | 3:10 | 2023-08-26 | 2024-01-19 |
 | [When You’re Young](https://open.spotify.com/track/5bui8E7DuqEilW7x1UYpmx) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [When You’re Young](https://open.spotify.com/album/0llHoi4wBf98uJcmtHKyrv) | 2:44 | 2023-02-09 | 2023-04-28 |
 | [Where Do We Go](https://open.spotify.com/track/2w4mOchaVwD34HGesWK4YE) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Feelings Unresolved](https://open.spotify.com/album/7lP8swCcM2RvsCTFIN6kLC) | 2:59 | 2021-12-16 | 2022-02-25 |

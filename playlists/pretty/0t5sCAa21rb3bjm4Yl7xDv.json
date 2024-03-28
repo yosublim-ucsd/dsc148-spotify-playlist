@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks you want to hear, all in one playlist! Cover: Olivia Rodrigo",
-  "num_followers": 80415,
+  "num_followers": 80414,
   "original_name": "New Pop Hits",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "MTQzMjgsZjdjZTQ4OTczODU2MzE3ODAwMDI1MzRhNjBlNWQyZjkwNmU1N2FjOA==",
+  "snapshot_id": "MTQzMzAsZGUyMWRkNTcxNmFmOTM3NTI5MTM5MTYxMDJjM2NjOTk3NWQ1ZTAyYQ==",
   "tracks": [
     {
       "added_at": "2024-03-22 15:13:53",
@@ -23,6 +23,26 @@
       "duration_ms": 170541,
       "name": "obsessed",
       "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
+    },
+    {
+      "added_at": "2024-03-27 16:38:46",
+      "album": {
+        "name": "I LUV IT (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 174880,
+      "name": "I LUV IT (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
     },
     {
       "added_at": "2024-03-22 15:13:53",

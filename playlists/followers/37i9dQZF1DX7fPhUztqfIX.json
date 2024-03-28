@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 123578,
+  "2024-03-28": 123641,
   "date_first_scraped": "2022-03-01",
   "description": "Emerging sounds in worship from everywhere.",
   "name": "New & Bold",
@@ -3271,7 +3271,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 409909,
       "name": "The Blessing (feat. Maranda Curtis) - Song Session",
       "url": "https://open.spotify.com/track/0bicWqcGF8HXaaBB1HqnxR"
@@ -3465,6 +3465,24 @@
       "duration_ms": 341849,
       "name": "This Is Our Story",
       "url": "https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT"
+    },
+    {
+      "album": {
+        "name": "This Is Our Story",
+        "url": "https://open.spotify.com/album/0hgeTBFRUDWPAPRPssbFvM"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341849,
+      "name": "This Is Our Story",
+      "url": "https://open.spotify.com/track/6nMfk0xK3RwJqJxX3l1tLy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f2x5zbH0oM.md) - [plain]
 
 > La playlist au\-delà des genres\. Photo : Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,820 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,833 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f2x5zbH0oM.md) - [plain]
 | 49 | [I Write The News](https://open.spotify.com/track/24rzn9kTpr0G4keKLkzofw) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg) | 2:45 |
 | 50 | [The Paradigm](https://open.spotify.com/track/2lqaVvI8tqZpVwC5Cuxsbn) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Leave the World Behind \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr) | 2:19 |
 
-Snapshot ID: `MCw5ZTVmZDdkZTY3MDg1MzZlMWMxZjViOGQ0M2UwZWVjNjEyOTEyNGUx`
+Snapshot ID: `MCxmNzAxMjY1MDgyMzAwZWI5ZDA2ODQ2YjZlYjBhYzc0N2Q4YzZkNzY3`

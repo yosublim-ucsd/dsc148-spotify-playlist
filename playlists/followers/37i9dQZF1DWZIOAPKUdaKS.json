@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 329140,
+  "2024-03-28": 329198,
   "date_first_scraped": "2021-12-21",
   "description": "Soft piano to help you focus, work or study. ",
   "name": "Focus Piano",
@@ -4865,7 +4865,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 156625,
       "name": "How Things Blend",
       "url": "https://open.spotify.com/track/18hOR7RxHGxmXTXXB4GLKj"
@@ -4887,6 +4887,24 @@
       "duration_ms": 156625,
       "name": "How Things Blend",
       "url": "https://open.spotify.com/track/6M8NtnCiA9hxB1g9QscR0D"
+    },
+    {
+      "album": {
+        "name": "And The Unknown",
+        "url": "https://open.spotify.com/album/0eoyfDQZjpyxbbpt6RA6UI"
+      },
+      "artists": [
+        {
+          "name": "Zeppi",
+          "url": "https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156625,
+      "name": "How Things Blend",
+      "url": "https://open.spotify.com/track/75VgkSAz0It7T1Og7bAu3B"
     },
     {
       "album": {
@@ -12340,6 +12358,24 @@
     },
     {
       "album": {
+        "name": "Looking At The Stars",
+        "url": "https://open.spotify.com/album/7IYJrZFlbKkWET5HmrCaos"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154625,
+      "name": "Until The Blissful Dawn",
+      "url": "https://open.spotify.com/track/2wfAJQkNqipmojScYX9lhV"
+    },
+    {
+      "album": {
         "name": "Theme For Nils",
         "url": "https://open.spotify.com/album/4yMPsNxmYZMLj9xmaFr59w"
       },
@@ -12459,7 +12495,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 154625,
       "name": "Until The Blissful Dawn",
       "url": "https://open.spotify.com/track/5QZHUzGvrJqj2WRWGqrvqA"

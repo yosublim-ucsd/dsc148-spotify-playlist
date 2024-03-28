@@ -1,12 +1,12 @@
 {
   "description": "Metalcore at its finest. Cover: The Ghost Inside",
-  "num_followers": 924369,
+  "num_followers": 924536,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjJlNzEzYjY2Mjc5OTdjM2RjNDMzODJiOGEyZTkyMDUzYzQxYTM0",
+  "snapshot_id": "MCxhYWYzMTFmMDM5YmU0OGQzYjk1ZjEzYzg3NzIxNDAyNzc5NjdmYzNk",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -75,22 +75,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Below The Belt (feat. Set It Off)",
-        "url": "https://open.spotify.com/album/5PpGvWHxcI2ddJ94i3KTGj"
+        "name": "Wash It Away",
+        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
       },
       "artists": [
         {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        },
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
         }
       ],
-      "duration_ms": 192054,
-      "name": "Below The Belt (feat. Set It Off)",
-      "url": "https://open.spotify.com/track/1kTWMMX7LjK8a2GnpKVRlM"
+      "duration_ms": 214710,
+      "name": "Wash It Away",
+      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -107,6 +103,54 @@
       "duration_ms": 283957,
       "name": "Cellar Door",
       "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Blinding Faith",
+        "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "duration_ms": 171090,
+      "name": "Blinding Faith",
+      "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
+    },
+    {
+      "added_at": "2024-03-27 13:46:45",
+      "album": {
+        "name": "Crawl Backwards Out of Heaven",
+        "url": "https://open.spotify.com/album/23e3BsmlALgWjiHwAPsJIw"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 202933,
+      "name": "Crawl Backwards Out of Heaven",
+      "url": "https://open.spotify.com/track/0X7rvyf0HWOfNQMHytQQqr"
+    },
+    {
+      "added_at": "2024-03-27 13:46:45",
+      "album": {
+        "name": "MAGNETIC",
+        "url": "https://open.spotify.com/album/1bzrE6x00bz3Q5TVizybfy"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 192729,
+      "name": "MAGNETIC",
+      "url": "https://open.spotify.com/track/784C7AyqUuTQNvJxigMZTS"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -139,6 +183,22 @@
       "duration_ms": 236953,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu"
+    },
+    {
+      "added_at": "2024-03-27 13:46:45",
+      "album": {
+        "name": "Low Tech",
+        "url": "https://open.spotify.com/album/38zTXgENqaRonHeghToNje"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        }
+      ],
+      "duration_ms": 140203,
+      "name": "Low Tech",
+      "url": "https://open.spotify.com/track/1G9givRPDFvYoKaMw2OqjK"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -175,54 +235,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Don't Look Away",
-        "url": "https://open.spotify.com/album/4waOzgfNIF4sBAkKX9NzrJ"
-      },
-      "artists": [
-        {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
-        }
-      ],
-      "duration_ms": 193121,
-      "name": "Don\u2019t Look Away",
-      "url": "https://open.spotify.com/track/13TI2bhTRld8pgk9xM8wm9"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 223405,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Blinding Faith",
-        "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        }
-      ],
-      "duration_ms": 171090,
-      "name": "Blinding Faith",
-      "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Rise (Redux)",
         "url": "https://open.spotify.com/album/0TtYq1Ni9PBoyxCAkqxuVC"
       },
@@ -243,6 +255,54 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Don't Look Away",
+        "url": "https://open.spotify.com/album/4waOzgfNIF4sBAkKX9NzrJ"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "duration_ms": 193121,
+      "name": "Don\u2019t Look Away",
+      "url": "https://open.spotify.com/track/13TI2bhTRld8pgk9xM8wm9"
+    },
+    {
+      "added_at": "2024-03-27 13:46:45",
+      "album": {
+        "name": "The Welcome Party",
+        "url": "https://open.spotify.com/album/0TFqOFS9sPHJqmL5cSTQ1X"
+      },
+      "artists": [
+        {
+          "name": "Greyhaven",
+          "url": "https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "The Welcome Party",
+      "url": "https://open.spotify.com/track/0SlmKiPJ4GpSPq6rnMLBSq"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 223405,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Nightmare (The Devil)",
         "url": "https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA"
       },
@@ -259,18 +319,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Wash It Away",
-        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
+        "name": "Below The Belt (feat. Set It Off)",
+        "url": "https://open.spotify.com/album/5PpGvWHxcI2ddJ94i3KTGj"
       },
       "artists": [
         {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        },
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
         }
       ],
-      "duration_ms": 214710,
-      "name": "Wash It Away",
-      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
+      "duration_ms": 192054,
+      "name": "Below The Belt (feat. Set It Off)",
+      "url": "https://open.spotify.com/track/1kTWMMX7LjK8a2GnpKVRlM"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -575,22 +639,6 @@
       "duration_ms": 226240,
       "name": "21 Gun Salute",
       "url": "https://open.spotify.com/track/20Ov4hI7Z5xh9NkLMMf0db"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Cure",
-        "url": "https://open.spotify.com/album/6Ab9ahxlOgEur1mr1EpZH0"
-      },
-      "artists": [
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 225999,
-      "name": "Cure",
-      "url": "https://open.spotify.com/track/5zV1FnszuSKBo7EdUEQx3G"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1121,6 +1169,78 @@
       "url": "https://open.spotify.com/track/3oelMc06qyF7tuA55tPnJQ"
     },
     {
+      "added_at": "2024-03-27 13:46:45",
+      "album": {
+        "name": "Murder8",
+        "url": "https://open.spotify.com/album/3iv3lzt8M01kjeGLR4dV9G"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        },
+        {
+          "name": "Jamey Jasta",
+          "url": "https://open.spotify.com/artist/0ZMRPS0nmaMsLth9slhzIL"
+        }
+      ],
+      "duration_ms": 228493,
+      "name": "Murder8",
+      "url": "https://open.spotify.com/track/1iujWexZauOlEulLxjEzKm"
+    },
+    {
+      "added_at": "2024-03-27 13:46:45",
+      "album": {
+        "name": "Enter The Wall",
+        "url": "https://open.spotify.com/album/7KLuUqhjYU088Q0Xt1WCfU"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 143946,
+      "name": "The Wall",
+      "url": "https://open.spotify.com/track/1WawIFyXJhxthsfFujjYez"
+    },
+    {
+      "added_at": "2024-03-27 13:46:45",
+      "album": {
+        "name": "Scars On A Soul",
+        "url": "https://open.spotify.com/album/5DMaqfH3GHcqcxbeTQaYRH"
+      },
+      "artists": [
+        {
+          "name": "Boundaries",
+          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
+        }
+      ],
+      "duration_ms": 168958,
+      "name": "Scars On A Soul",
+      "url": "https://open.spotify.com/track/7zuuCnA5KwE12ij3up8i4P"
+    },
+    {
+      "added_at": "2024-03-27 13:46:45",
+      "album": {
+        "name": "To The Dance Floor For Shelter (feat. Courtney LaPlante)",
+        "url": "https://open.spotify.com/album/5S9zh1BaFjgNq1TdDNH1Se"
+      },
+      "artists": [
+        {
+          "name": "SeeYouSpaceCowboy...",
+          "url": "https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1"
+        },
+        {
+          "name": "Courtney LaPlante",
+          "url": "https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs"
+        }
+      ],
+      "duration_ms": 259946,
+      "name": "To The Dance Floor For Shelter",
+      "url": "https://open.spotify.com/track/56Vtx5Pdhg0sgmbczxJ5b5"
+    },
+    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "Glass Preacher",
@@ -1203,22 +1323,6 @@
       "duration_ms": 233520,
       "name": "don't let it hurt me",
       "url": "https://open.spotify.com/track/3ZhgL4UrPX2vUL9ryRtvZh"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Respite For A Tragic Tale / Silhouettes in Motion",
-        "url": "https://open.spotify.com/album/7EJ2kr6NZ1kJsAPj0lkQWa"
-      },
-      "artists": [
-        {
-          "name": "SeeYouSpaceCowboy...",
-          "url": "https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1"
-        }
-      ],
-      "duration_ms": 167671,
-      "name": "Silhouettes In Motion",
-      "url": "https://open.spotify.com/track/4ygG0M1l8RY9PLOnzbnZzE"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1711,22 +1815,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Societal Bile",
-        "url": "https://open.spotify.com/album/6Huux7HHfhFuKtTAd1zL5v"
-      },
-      "artists": [
-        {
-          "name": "Darkest Hour",
-          "url": "https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq"
-        }
-      ],
-      "duration_ms": 180453,
-      "name": "Societal Bile",
-      "url": "https://open.spotify.com/track/0caF9S71yIZl43EbGCn85u"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Nothing Inspires Forgiveness Quite Like Revenge",
         "url": "https://open.spotify.com/album/3DfAAUOPBBaqQSBm6agznT"
       },
@@ -1755,6 +1843,54 @@
       "duration_ms": 189931,
       "name": "Stray",
       "url": "https://open.spotify.com/track/7ekWlDymyDnzmqoNDBGjck"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "feel something new",
+        "url": "https://open.spotify.com/album/1pTzGnTJw2ygewCm6m48ho"
+      },
+      "artists": [
+        {
+          "name": "Grayscale Season",
+          "url": "https://open.spotify.com/artist/7vkn8n6j3FIOVuRmVVYzA4"
+        }
+      ],
+      "duration_ms": 204076,
+      "name": "It Consumes Me",
+      "url": "https://open.spotify.com/track/07QTf5QNSssDofN7uoWt7l"
+    },
+    {
+      "added_at": "2024-03-27 13:46:45",
+      "album": {
+        "name": "God Under Fingernails",
+        "url": "https://open.spotify.com/album/1Q4UfATj3O0UhjFoAXmpId"
+      },
+      "artists": [
+        {
+          "name": "Foreign Hands",
+          "url": "https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "God Under Fingernails",
+      "url": "https://open.spotify.com/track/6rTiRiuhMjowousSPe4Bhu"
+    },
+    {
+      "added_at": "2024-03-27 13:46:45",
+      "album": {
+        "name": "Broken Home",
+        "url": "https://open.spotify.com/album/4CSFgqGQPjNXRTRmTrsd81"
+      },
+      "artists": [
+        {
+          "name": "Awake the Dreamer",
+          "url": "https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I"
+        }
+      ],
+      "duration_ms": 185529,
+      "name": "Broken Home",
+      "url": "https://open.spotify.com/track/4V00WAiMJlBBniPTOUIWPo"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1819,22 +1955,6 @@
       "duration_ms": 177316,
       "name": "Lately",
       "url": "https://open.spotify.com/track/0AC1yTsq1EwkiGTr7x1c1W"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "feel something new",
-        "url": "https://open.spotify.com/album/1pTzGnTJw2ygewCm6m48ho"
-      },
-      "artists": [
-        {
-          "name": "Grayscale Season",
-          "url": "https://open.spotify.com/artist/7vkn8n6j3FIOVuRmVVYzA4"
-        }
-      ],
-      "duration_ms": 204076,
-      "name": "It Consumes Me",
-      "url": "https://open.spotify.com/track/07QTf5QNSssDofN7uoWt7l"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1915,6 +2035,54 @@
       "duration_ms": 204112,
       "name": "Soul Chasm",
       "url": "https://open.spotify.com/track/66fCFGrX5XQD69VumC1sZA"
+    },
+    {
+      "added_at": "2024-03-27 13:46:45",
+      "album": {
+        "name": "Bite",
+        "url": "https://open.spotify.com/album/1VMN2NrnFunYKfBPDBFg75"
+      },
+      "artists": [
+        {
+          "name": "Releasing the Waves",
+          "url": "https://open.spotify.com/artist/5A4v8rwF0FJ63WN6qYZb0W"
+        }
+      ],
+      "duration_ms": 191139,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/365grxI8WwDhxJjATgww6x"
+    },
+    {
+      "added_at": "2024-03-27 13:46:45",
+      "album": {
+        "name": "Dead Souls",
+        "url": "https://open.spotify.com/album/0yyK6w1nNjDq3YutrQMvk1"
+      },
+      "artists": [
+        {
+          "name": "Substation",
+          "url": "https://open.spotify.com/artist/4uCcS8G5SOw5BGO67pngjC"
+        }
+      ],
+      "duration_ms": 226789,
+      "name": "Dead Souls",
+      "url": "https://open.spotify.com/track/7aa7J2weJ0mVLu4xHEKiKu"
+    },
+    {
+      "added_at": "2024-03-27 13:46:45",
+      "album": {
+        "name": "Absence",
+        "url": "https://open.spotify.com/album/0o5VRf3w65zCDVBVuRq9fB"
+      },
+      "artists": [
+        {
+          "name": "Skylene",
+          "url": "https://open.spotify.com/artist/2Rlhr0EaeREpWAkL9fctT9"
+        }
+      ],
+      "duration_ms": 345379,
+      "name": "Absence",
+      "url": "https://open.spotify.com/track/0bGJxR2A2yTGCOJwcEwktz"
     }
   ],
   "unique_name": "The Core",

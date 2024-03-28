@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 59078,
+  "num_followers": 59071,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTliNTJlMDEwNDk3N2NhYzZkNjMwYzcxMDEyZjZmNDlmODBjZTcw",
+  "snapshot_id": "MCw0ODdkNzkxZjJiYjJkMTZkMGYyMjA5YzE4YmNjNjE3ZWVkMDFhMTA0",
   "tracks": [
     {
       "added_at": "2023-12-16 03:23:16",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-12-16 03:23:16",
       "album": {
-        "name": "Sainte Nuit",
-        "url": "https://open.spotify.com/album/3DCGt7eg6TFrAa5tVf9zja"
-      },
-      "artists": [
-        {
-          "name": "Johanne Blouin",
-          "url": "https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "L'enfant au tambour",
-      "url": "https://open.spotify.com/track/4jtna43xiyQKSghOBwh0l8"
-    },
-    {
-      "added_at": "2023-12-16 03:23:16",
-      "album": {
         "name": "604 Records: The Second Noel",
         "url": "https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 251800,
       "name": "Mittens",
       "url": "https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX"
+    },
+    {
+      "added_at": "2023-12-16 03:23:16",
+      "album": {
+        "name": "Sainte Nuit",
+        "url": "https://open.spotify.com/album/3DCGt7eg6TFrAa5tVf9zja"
+      },
+      "artists": [
+        {
+          "name": "Johanne Blouin",
+          "url": "https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "L'enfant au tambour",
+      "url": "https://open.spotify.com/track/4jtna43xiyQKSghOBwh0l8"
     },
     {
       "added_at": "2023-12-16 03:23:16",

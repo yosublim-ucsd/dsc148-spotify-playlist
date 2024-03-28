@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Lourena, MC Hariel
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,756 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,781 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 70 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 |
 | 71 | [Aquelas Coisas](https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT) | [Aquelas Coisas](https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm) | 3:16 |
 | 72 | [Malandra Treinada](https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Malandra Treinada](https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx) | 2:19 |
-| 73 | [ele diz que me ama s2](https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m), [Perimnobeat](https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG) | [ele diz que me ama s2](https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P) | 4:01 |
-| 74 | [O Que Você Quiser](https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [O Que Você Quiser](https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk) | 2:56 |
-| 75 | [Risco de se Apaixonar](https://open.spotify.com/track/1M6puHONy969ZeGYemki1M) | [Marcello Melo Jr.](https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp), [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Risco de se Apaixonar](https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH) | 2:21 |
-| 76 | [Tá Fod\*](https://open.spotify.com/track/3soB2fp5V9KVxQM6BZ6JIg) | [Afrocidade](https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL) | [Tá Fod\*](https://open.spotify.com/album/6lProWEld2RgXzXN30KI1N) | 3:01 |
-| 77 | [Jeito Doce](https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [Jeito Doce](https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe) | 3:02 |
-| 78 | [Nós Dois](https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne) | [NALAH](https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8) | [Nós Dois](https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY) | 2:27 |
-| 79 | [O Que a Levada Pede](https://open.spotify.com/track/4QIYe2KUsCseRCK2WDOGym) | [Vitin](https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL) | [O Que a Levada Pede](https://open.spotify.com/album/4p3tg1AsZkO9DlpmAOTThg) | 2:07 |
+| 73 | [Tudo é Carnaval](https://open.spotify.com/track/3X5hJ2EqdIKpmw5tagtAnK) | [Cruvinel](https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW), [Bárbara Leão](https://open.spotify.com/artist/4JduGZ99yejLQKkve0LMUn), [sódan.](https://open.spotify.com/artist/496bSkfI4ViB2GrUpYXPu3), [Ogrow Beats](https://open.spotify.com/artist/0Y71tGmD0xjvdg6hZoRywr) | [Tudo é Carnaval](https://open.spotify.com/album/6X4YSZrPQ5BRaKUXBNz0U3) | 2:57 |
+| 74 | [ele diz que me ama s2](https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m), [Perimnobeat](https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG) | [ele diz que me ama s2](https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P) | 4:01 |
+| 75 | [O Que Você Quiser](https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [O Que Você Quiser](https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk) | 2:56 |
+| 76 | [Risco de se Apaixonar](https://open.spotify.com/track/1M6puHONy969ZeGYemki1M) | [Marcello Melo Jr.](https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp), [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Risco de se Apaixonar](https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH) | 2:21 |
+| 77 | [Tá Fod\*](https://open.spotify.com/track/3soB2fp5V9KVxQM6BZ6JIg) | [Afrocidade](https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL) | [Tá Fod\*](https://open.spotify.com/album/6lProWEld2RgXzXN30KI1N) | 3:01 |
+| 78 | [Jeito Doce](https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [Jeito Doce](https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe) | 3:02 |
+| 79 | [Nós Dois](https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne) | [NALAH](https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8) | [Nós Dois](https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY) | 2:27 |
 | 80 | [Seu Zé](https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff) | [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa) | [Seu Zé](https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N) | 2:16 |
 
-Snapshot ID: `MCw5ZWY4Y2MxNDNjOTBjN2I4NjgzZjY2OTg4YjJmN2E3NTQwMzkxOGNi`
+Snapshot ID: `MCwxODAwODBlYjc4MzQzMjZlYWRmMTlhODY4NjY5Mzk3OTM0YzM4MGFl`

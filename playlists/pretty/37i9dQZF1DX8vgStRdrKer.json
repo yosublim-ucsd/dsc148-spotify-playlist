@@ -1,12 +1,12 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/4HHLYB6bM6IuVvr2uOKj3P?si=dZwcyL4NTwS3bnIqUWGHOA\">Delight Munachy</a>",
-  "num_followers": 7919,
+  "num_followers": 7945,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWFjOGMyY2Y4Y2Q4ZWVmNmIzMmU2MDUyMThiYTBiNDQ1MTNiZjI5",
+  "snapshot_id": "MCwwYWI5OGEyMjBiZDQ1NmFlZDVmNDUxMTJjMjJhZjFhMDk4ZGI5NjZl",
   "tracks": [
     {
       "added_at": "2024-02-02 00:01:00",
@@ -317,6 +317,26 @@
       "url": "https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf"
     },
     {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/0lHS9xhfCMCZ9fSgvPMrol"
+      },
+      "artists": [
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 375723,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC"
+    },
+    {
       "added_at": "2024-03-01 00:01:00",
       "album": {
         "name": "We Prevail",
@@ -359,22 +379,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h"
-      },
-      "artists": [
-        {
-          "name": "Jvson",
-          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
-        }
-      ],
-      "duration_ms": 172083,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Darling Jesus (Special Version)",
         "url": "https://open.spotify.com/album/6cKiy88I1xKv5MVWflVCOa"
       },
@@ -397,40 +401,20 @@
       "url": "https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU"
     },
     {
-      "added_at": "2024-03-22 00:01:00",
+      "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Faithful",
-        "url": "https://open.spotify.com/album/0lHS9xhfCMCZ9fSgvPMrol"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h"
       },
       "artists": [
         {
-          "name": "Tomi Favored",
-          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
         }
       ],
-      "duration_ms": 375723,
-      "name": "Faithful",
-      "url": "https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Do to Me What You Want",
-        "url": "https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 714119,
-      "name": "Do to Me What You Want",
-      "url": "https://open.spotify.com/track/4DubS31RXrubsxE486uBPi"
+      "duration_ms": 172083,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -447,6 +431,22 @@
       "duration_ms": 383320,
       "name": "Unusual - Live At Cedarwoods of Sandton, 2023",
       "url": "https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Do to Me What You Want",
+        "url": "https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 714119,
+      "name": "Do to Me What You Want",
+      "url": "https://open.spotify.com/track/4DubS31RXrubsxE486uBPi"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -485,6 +485,22 @@
       "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
     },
     {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "duration_ms": 177255,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
+    },
+    {
       "added_at": "2024-02-02 00:01:00",
       "album": {
         "name": "Pain To Praise",
@@ -501,20 +517,28 @@
       "url": "https://open.spotify.com/track/2W1o9Q1zRVlPz1GYzGLXKM"
     },
     {
-      "added_at": "2024-03-15 00:01:00",
+      "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp"
+        "name": "Deliverance",
+        "url": "https://open.spotify.com/album/3U1eMnUPBQwb3UOQBmgsPw"
       },
       "artists": [
         {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+          "name": "Jesse Frohling",
+          "url": "https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY"
+        },
+        {
+          "name": "Kenzie Frohling",
+          "url": "https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y"
+        },
+        {
+          "name": "Remnant House",
+          "url": "https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR"
         }
       ],
-      "duration_ms": 177255,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
+      "duration_ms": 224000,
+      "name": "Deliverance",
+      "url": "https://open.spotify.com/track/2J8OaxMbjG25WPenQNWv5s"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -553,50 +577,6 @@
       "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
     },
     {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Deliverance",
-        "url": "https://open.spotify.com/album/3U1eMnUPBQwb3UOQBmgsPw"
-      },
-      "artists": [
-        {
-          "name": "Jesse Frohling",
-          "url": "https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY"
-        },
-        {
-          "name": "Kenzie Frohling",
-          "url": "https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y"
-        },
-        {
-          "name": "Remnant House",
-          "url": "https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Deliverance",
-      "url": "https://open.spotify.com/track/2J8OaxMbjG25WPenQNWv5s"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "The Gift, Vol. 1",
-        "url": "https://open.spotify.com/album/2YCDh7g2M3KWcDZUKKRUH1"
-      },
-      "artists": [
-        {
-          "name": "Brenden Praise",
-          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
-        },
-        {
-          "name": "Free 2 Wrshp",
-          "url": "https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt"
-        }
-      ],
-      "duration_ms": 186239,
-      "name": "Mercy (Hlabelela)",
-      "url": "https://open.spotify.com/track/03ex4OAmmBM2ci5W0q2kHm"
-    },
-    {
       "added_at": "2024-02-23 00:01:00",
       "album": {
         "name": "Ngiyamazi Umhlengi Wam (Live At Cedarwoods of Sandton, 2023)",
@@ -627,6 +607,26 @@
       "duration_ms": 194690,
       "name": "Alagbara",
       "url": "https://open.spotify.com/track/1GWjrdfcIbN4l1AJHwwTAR"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "The Gift, Vol. 1",
+        "url": "https://open.spotify.com/album/2YCDh7g2M3KWcDZUKKRUH1"
+      },
+      "artists": [
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        },
+        {
+          "name": "Free 2 Wrshp",
+          "url": "https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt"
+        }
+      ],
+      "duration_ms": 186239,
+      "name": "Mercy (Hlabelela)",
+      "url": "https://open.spotify.com/track/03ex4OAmmBM2ci5W0q2kHm"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -725,20 +725,20 @@
       "url": "https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL"
     },
     {
-      "added_at": "2024-01-12 00:01:00",
+      "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "The Ground We Stand On",
-        "url": "https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr"
+        "name": "iZono Zami",
+        "url": "https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b"
       },
       "artists": [
         {
-          "name": "Mahalia Buchanan",
-          "url": "https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC"
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
         }
       ],
-      "duration_ms": 253558,
-      "name": "Holy (Most High)",
-      "url": "https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3"
+      "duration_ms": 319334,
+      "name": "iZono Zami",
+      "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -761,20 +761,20 @@
       "url": "https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA"
     },
     {
-      "added_at": "2024-02-23 00:01:00",
+      "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Mess into a Message",
-        "url": "https://open.spotify.com/album/1adkr7tTpDZWRAmDHoQhLz"
+        "name": "The Ground We Stand On",
+        "url": "https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr"
       },
       "artists": [
         {
-          "name": "Chidiya Ohiagu",
-          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
+          "name": "Mahalia Buchanan",
+          "url": "https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC"
         }
       ],
-      "duration_ms": 197101,
-      "name": "Mess into a Message",
-      "url": "https://open.spotify.com/track/76aJBXDHpUhWS3xOeqKlSw"
+      "duration_ms": 253558,
+      "name": "Holy (Most High)",
+      "url": "https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -791,6 +791,22 @@
       "duration_ms": 691541,
       "name": "Dry Bones",
       "url": "https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Mess into a Message",
+        "url": "https://open.spotify.com/album/1adkr7tTpDZWRAmDHoQhLz"
+      },
+      "artists": [
+        {
+          "name": "Chidiya Ohiagu",
+          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
+        }
+      ],
+      "duration_ms": 197101,
+      "name": "Mess into a Message",
+      "url": "https://open.spotify.com/track/76aJBXDHpUhWS3xOeqKlSw"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -835,18 +851,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "iZono Zami",
-        "url": "https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b"
+        "name": "Diamant",
+        "url": "https://open.spotify.com/album/5MjLBaWtjwapJ17WVNnWUX"
       },
       "artists": [
         {
-          "name": "Nomcebo Zikode",
-          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+          "name": "Isaac M",
+          "url": "https://open.spotify.com/artist/3vyQ5qr9ke8gRA2VqQtg26"
         }
       ],
-      "duration_ms": 319334,
-      "name": "iZono Zami",
-      "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
+      "duration_ms": 178059,
+      "name": "Diamant",
+      "url": "https://open.spotify.com/track/38Eb7bpsTlG6MJ45XLXKAo"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -935,22 +951,6 @@
       "duration_ms": 210599,
       "name": "Holy",
       "url": "https://open.spotify.com/track/4edGYsHaOG3PjJpyrbFdKz"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Overwhelming Victory",
-        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 281227,
-      "name": "My Future and Hope",
-      "url": "https://open.spotify.com/track/2yYmdb2fPecJFrS9erTpvb"
     }
   ],
   "unique_name": "Redeemed",

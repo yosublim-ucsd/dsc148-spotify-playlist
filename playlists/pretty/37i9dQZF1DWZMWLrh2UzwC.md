@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,668 likes - 95 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,672 likes - 95 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 94 | [MNSF](https://open.spotify.com/track/6JouPb4bv2ki48IDhq9D9F) | [MANJA](https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX) | [MNSF](https://open.spotify.com/album/1zEvKoMzRqXIRM9RnAzi84) | 3:13 |
 | 95 | [Close To Me](https://open.spotify.com/track/4uqrNjosNZKTxtsEUpjkIm) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Close To Me](https://open.spotify.com/album/5OOea733uhyneBGd5UKDRS) | 3:29 |
 
-Snapshot ID: `MCxmMGE4YWFhYzBkNjk5OGJiMDY5ZDcwMWZhODY2NjJlZTgwYjdlYjAy`
+Snapshot ID: `MCw4MTAwNWExOWViZGM1MmY4NTVhNTdlM2JhZTAzODBkMDAzYmFiYTM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Tony Effe
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,017 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,320 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 16 | [I CAN FLY](https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [I CAN FLY](https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu) | 2:44 |
 | 17 | [Il Doc 4 \(feat\. Ernia, Emis Killa, Niky Savage & Andry The Hitmaker\)](https://open.spotify.com/track/03eFDbrmDPnbIHXbgXbfP3) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Il Doc 4 \(feat\. Ernia, Emis Killa, Niky Savage & Andry The Hitmaker\)](https://open.spotify.com/album/0PpCPIFyZetazW76gCA1x8) | 3:36 |
 | 18 | [BOULEVARD](https://open.spotify.com/track/6SSv0mVOX54GMKtIOrKpI1) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MOTIVATION 4 THE STREETZ](https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL) | 2:40 |
-| 19 | [Ricordi Sbiaditi \(feat\. Capo Plaza\)](https://open.spotify.com/track/7peaWA39b8g5mbw3DXpcMJ) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Maltempo](https://open.spotify.com/album/5CbHK93vpzBUTSBddUm2VH) | 3:04 |
-| 20 | [Fortuna \(feat\. Artie 5ive\)](https://open.spotify.com/track/5WYFOsQo5nupoNPX2fsMp0) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 2:32 |
-| 21 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 |
-| 22 | [Ex Angelo \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1LcAwUvsiWJqTgV9vDs0oq) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:58 |
+| 19 | [Ex Angelo \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1LcAwUvsiWJqTgV9vDs0oq) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:58 |
+| 20 | [Ricordi Sbiaditi \(feat\. Capo Plaza\)](https://open.spotify.com/track/7peaWA39b8g5mbw3DXpcMJ) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Maltempo](https://open.spotify.com/album/5CbHK93vpzBUTSBddUm2VH) | 3:04 |
+| 21 | [Fortuna \(feat\. Artie 5ive\)](https://open.spotify.com/track/5WYFOsQo5nupoNPX2fsMp0) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 2:32 |
+| 22 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 |
 | 23 | [Bee](https://open.spotify.com/track/4ZTlsr3kmSylBKSTP7f2oR) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 2:45 |
 | 24 | [Maliciosa \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/6KJ57PY7fIIRlaweLnNbXj) | [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu) | [Maliciosa \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/0k7qh6Op4gcUmlT6rrJUH3) | 2:07 |
 | 25 | [ICON](https://open.spotify.com/track/0AxRJk8LTx7w4xQWw9NIFF) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/147hzs261FAZBpwfQkOUCL) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu) | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/4v2vbwWe9ongpkfgLJDbir) | 2:54 |
 | 50 | [trueno \(feat\. Salmo\)](https://open.spotify.com/track/72CfmqTiImbgi0BTeJWFiP) | [STABBER](https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [trueno \(feat\. Salmo\)](https://open.spotify.com/album/3lPfwFIo0d2O2qjVIO6FsX) | 2:23 |
 
-Snapshot ID: `MCw0NmQzOWE4OTBiNTM4NDc0MDJmNWEwMGRjMDk4MDA4NDIwNDFmMGRj`
+Snapshot ID: `MCw0YTRmNDg5MmExN2Y2YjhhOGNlYzg3ZjU2NWM1NzA1NzBiZWMxZmUz`

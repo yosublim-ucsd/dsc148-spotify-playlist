@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ゲシュタルト乙女 \(Gestalt Girl\)
 
-1,565 songs - 4 day 1 hr 32 min
+1,566 songs - 4 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [A revolution](https://open.spotify.com/track/6JbWY04QxDrzoQgKUuILPu) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/2VjBSHmjbkuXRzIWS2QRKa) | 4:46 | 2022-08-17 | 2022-08-24 |
 | [A Thousand Miles](https://open.spotify.com/track/6TtYOU0GiN4PkN9oCvMvLx) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [A Thousand Miles](https://open.spotify.com/album/3E1GIabiOGaJDlHkX0iX4D) | 3:38 | 2023-04-11 | 2023-06-14 |
 | [A4A4A4](https://open.spotify.com/track/07scOjkDS43SXSMOppTpz7) | [鍵を返せ](https://open.spotify.com/artist/5Mzb8gbFXMwiaEwXGYfZqj) | [A4A4A4](https://open.spotify.com/album/05IsbXp12zO1BBaR03nC8e) | 3:23 | 2023-08-17 | 2023-08-23 |
-| [A8番出口](https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [A8番出口](https://open.spotify.com/album/1GqgKYbjOxhU8TtzsUsQHl) | 3:35 | 2024-03-26 |  |
+| [A8番出口](https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [A8番出口](https://open.spotify.com/album/1GqgKYbjOxhU8TtzsUsQHl) | 3:35 | 2024-03-26 | 2024-03-28 |
 | [aaa](https://open.spotify.com/track/2Srt34brSW8VItRqJStPAV) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:31 | 2023-07-25 | 2023-11-22 |
 | [About My Love](https://open.spotify.com/track/2T34l3QbveqkxwrIdHAdE5) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [JUNE e.p.](https://open.spotify.com/album/3qUSsjzJPo3IHKi98lSS8C) | 3:09 | 2023-08-08 | 2023-08-23 |
 | [Abyss](https://open.spotify.com/track/69HrfvVJ5HuOIKsXGL9Fsb) | [22\-78](https://open.spotify.com/artist/7L5o2PqrjN8MXkVHYy6dFg) | [Abyss](https://open.spotify.com/album/1CrYB8EoEZTrQOABIGNo4Z) | 3:56 | 2023-10-17 | 2023-10-25 |
@@ -198,6 +198,7 @@
 | [Everything](https://open.spotify.com/track/7zKNKDAOlyIfbOkNfz8KH0) | [FILTER](https://open.spotify.com/artist/5iqcmM1KJhZUVjDmdDlBV5), [THE LOCAL PINTS](https://open.spotify.com/artist/771IcrenZVG0AS8LmOVwa3) | [Everything](https://open.spotify.com/album/7kjN0KqGTJvmPyNGilvDDc) | 3:13 | 2023-10-24 | 2023-11-01 |
 | [Ex Human](https://open.spotify.com/track/5Xun4t1ibmVAVcEQV1hCpb) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [Guide and Devote EP](https://open.spotify.com/album/3vzb1L4uKtxII5nh9swQQP) | 3:43 | 2024-01-10 | 2024-02-01 |
 | [Exclamation Mark](https://open.spotify.com/track/5OaXyd4vZLJE4pdFkerhxK) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 2:05 | 2024-03-07 |  |
+| [Exit A8](https://open.spotify.com/track/3pq8X8itHc4JJBoNEEGnUT) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Exit A8](https://open.spotify.com/album/7KHcAhtporLHejH0s1JMIR) | 3:35 | 2024-03-26 |  |
 | [Eye](https://open.spotify.com/track/0BM9Khy7X3Z1T8XAWxH1mq) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Eye](https://open.spotify.com/album/5DsiPY0Fmgvh2lK3TB9BZB) | 3:16 | 2023-02-28 | 2023-03-02 |
 | [Eye](https://open.spotify.com/track/12VidNcfktqLYfSMffMfL8) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Eye](https://open.spotify.com/album/6r2g7PSMk7eALn086oQsxL) | 3:16 | 2023-02-28 | 2023-03-08 |
 | [F](https://open.spotify.com/track/65EINPweCPOWqUkm590s62) | [BLUEVALLEY](https://open.spotify.com/artist/54sxCJUMzlGdftpwHE5DJW) | [F](https://open.spotify.com/album/2YhGzsrMGV1uBDAyq85f9C) | 4:26 | 2023-10-17 | 2023-10-25 |

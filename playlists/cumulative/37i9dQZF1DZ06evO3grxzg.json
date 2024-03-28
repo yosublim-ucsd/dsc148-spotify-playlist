@@ -1103,6 +1103,28 @@
     },
     {
       "album": {
+        "name": "20 A\u00f1os Contigo",
+        "url": "https://open.spotify.com/album/7j74PZNNtthH0JwMPSqIVw"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166333,
+      "name": "Vuelve, Vuelve",
+      "url": "https://open.spotify.com/track/7wNLoMwhGrGBsFozJrzUlg"
+    },
+    {
+      "album": {
         "name": "Vuelve, Vuelve",
         "url": "https://open.spotify.com/album/4xTMKZ0p01gSgO0YW5aJud"
       },
@@ -1118,7 +1140,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 167741,
       "name": "Vuelve, Vuelve",
       "url": "https://open.spotify.com/track/5EjRxRZTIpJP1nOdowCFbZ"

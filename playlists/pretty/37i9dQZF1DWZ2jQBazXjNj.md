@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 
 > Corridos aesthetic y rolitas pa' las buchifresas 🍓🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,334 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - ??? likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 43 | [Gotas de Agua Dulce](https://open.spotify.com/track/1lNwxGWTLo2NOEQcszIWTB) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Gotas de Agua Dulce](https://open.spotify.com/album/0qIwz78hTB7PjXNYDPXced) | 2:55 |
 | 44 | [Colgando En Tus Manos \(En Vivo\)](https://open.spotify.com/track/1aUfM1dau8x2Zcrbm6JZeZ) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI), [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL) | [Colgando En Tus Manos \(En Vivo\)](https://open.spotify.com/album/3RxqQkDJNnDtGkz9cAITm5) | 3:23 |
 | 45 | [Normal](https://open.spotify.com/track/7zW4YRpp2nzhdbaPNG3WcL) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Normal](https://open.spotify.com/album/7kRqoAgwxx9miEyVIfoqBS) | 3:02 |
-| 46 | [Se Te Olvidó](https://open.spotify.com/track/6FAQen0CdjEnMlUS84XMBy) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Se Te Olvidó](https://open.spotify.com/album/0GWovdEPvpI0iq4kgAop1c) | 2:50 |
-| 47 | [Un Siglo Sin Ti](https://open.spotify.com/track/5WryQfin9lje7KFyXF3Qs1) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d), [Ramon Vega](https://open.spotify.com/artist/0Gb6YnVrJJHaP6yYmB9VZA) | [Pura Pieza de Mi Gusto](https://open.spotify.com/album/0HcFVoI6GxQV2lHbXgUhZj) | 3:37 |
+| 46 | [Un Siglo Sin Ti](https://open.spotify.com/track/5WryQfin9lje7KFyXF3Qs1) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d), [Ramon Vega](https://open.spotify.com/artist/0Gb6YnVrJJHaP6yYmB9VZA) | [Pura Pieza de Mi Gusto](https://open.spotify.com/album/0HcFVoI6GxQV2lHbXgUhZj) | 3:37 |
+| 47 | [Se Te Olvidó](https://open.spotify.com/track/6FAQen0CdjEnMlUS84XMBy) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Se Te Olvidó](https://open.spotify.com/album/0GWovdEPvpI0iq4kgAop1c) | 2:50 |
 | 48 | [LALA](https://open.spotify.com/track/4l2yplVehb4oiQ5qS5XCQc) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [LALA](https://open.spotify.com/album/7CNQuFMI9yYy8dHkPx9Y13) | 3:11 |
 | 49 | [No Me Quiero Enamorar](https://open.spotify.com/track/2gElMedQqwBruHVfmIPcuV) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [No Me Quiero Enamorar](https://open.spotify.com/album/5dTyit7m5HJ2q5S0zFKhyP) | 2:39 |
 | 50 | [La Playa](https://open.spotify.com/track/5EZN4BkMvZxFR5I9tBoE0O) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Playa](https://open.spotify.com/album/2WPUpSHxzc6TUYM5oxDMPO) | 3:46 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 61 | [Hawai](https://open.spotify.com/track/3IDF1BcNLIIW25U4eZwLC7) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Nuevo Camino](https://open.spotify.com/album/2xsWSJbMDqj8w5wYsjcDIx) | 3:40 |
 | 62 | [Ojos Marrones](https://open.spotify.com/track/4Y3fR2YZYo7YjJDz8dUCQJ) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Se Alinearon Los Planetas](https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ) | 3:40 |
 | 63 | [Los Santos](https://open.spotify.com/track/0JgFV5s9UNFEArrjhPXDGk) | [Grupo otro estilo](https://open.spotify.com/artist/0eOpVjUVJbfkZidyb44JI8) | [Los Santos](https://open.spotify.com/album/4SdznpnZKggzhR7Aff2N2l) | 4:03 |
-| 64 | [Antología](https://open.spotify.com/track/5Bns0V29ADfLoVAkgam4bM) | [Latente](https://open.spotify.com/artist/5s7Atmj5PYIx5UvyMwldBz) | [Antología](https://open.spotify.com/album/4gyDXZJJ5IXdyWw5lfeYok) | 4:06 |
-| 65 | [La Bachata](https://open.spotify.com/track/2bLRsJAcqwiLSvkwOyKtkk) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Vete](https://open.spotify.com/album/4JRHwnnjbcvbbzfrb8AhiK) | 3:17 |
+| 64 | [La Bachata](https://open.spotify.com/track/2bLRsJAcqwiLSvkwOyKtkk) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Vete](https://open.spotify.com/album/4JRHwnnjbcvbbzfrb8AhiK) | 3:17 |
+| 65 | [Antología](https://open.spotify.com/track/5Bns0V29ADfLoVAkgam4bM) | [Latente](https://open.spotify.com/artist/5s7Atmj5PYIx5UvyMwldBz) | [Antología](https://open.spotify.com/album/4gyDXZJJ5IXdyWw5lfeYok) | 4:06 |
 | 66 | [La Curiosidad](https://open.spotify.com/track/750Jft4koW1yoribM3DtzT) | [Tony García](https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja) | [Convencido](https://open.spotify.com/album/5jpPKL9NiWm7hVlLU6uHkb) | 3:32 |
 | 67 | [Ocean \(Versión Norteño\)](https://open.spotify.com/track/1pvk9aZ2aZvfVumOUZu4zc) | [Grupo La Reta](https://open.spotify.com/artist/7tLva7S0wR560BjLDuERQi) | [Ocean \(Versión Norteño\)](https://open.spotify.com/album/5C5lBJSmjLAF87w9yXW6px) | 3:07 |
 | 68 | [Causa Y Efecto](https://open.spotify.com/track/4Jf3GPjLyNPBeqUUIII2FT) | [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [Causa Y Efecto](https://open.spotify.com/album/4SkZE8K2fVqkccMG2SjGWZ) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 74 | [Andar Conmigo](https://open.spotify.com/track/77LbleaiKaiviCOD6QiAOc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 4:07 |
 | 75 | [Ferxxo 100](https://open.spotify.com/track/0XUpGwuM98v7v9jVHNXjlN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Ferxxo 100](https://open.spotify.com/album/32tBjPwSPQFBQJDHa5EvR6) | 3:18 |
 
-Snapshot ID: `MCw0Y2UzMWEwNzBhYzc4NGFjYTYyNWJlNzNhZjQ3MWQ5ZTk0ODE3NGJh`
+Snapshot ID: `MCxhMjFlMjZmNjBiOGIyNjQzZjA4NzMxZjE1ZGQ4Mjk4YWJjOWY3MmUw`

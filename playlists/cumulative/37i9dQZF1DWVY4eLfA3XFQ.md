@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Biscits & TOBEHONEST\. 50% techno, 50% house
 
-1,523 songs - 3 day 14 hr 10 min
+1,524 songs - 3 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -988,6 +988,7 @@
 | [Other Side](https://open.spotify.com/track/6gLDnzjpM0AwOeh9NmmHE0) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Other Side](https://open.spotify.com/album/58HGBPnIEFhg9y7BbLqmKc) | 4:04 | 2022-10-28 | 2023-08-26 |
 | [Other Side](https://open.spotify.com/track/0YTFkjKiJ2gUNh992lKLtR) | [Dead Space](https://open.spotify.com/artist/7J0vmZ5neXBGAoa8s79R9b), [G\. Felix](https://open.spotify.com/artist/0fKdJgSUpnWcOF4PyB1EYZ) | [Other Side](https://open.spotify.com/album/2n0dyZPA2Iz6ZUy6s8YL9f) | 4:24 | 2023-01-25 | 2023-03-13 |
 | [Otherside](https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Otherside](https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG) | 3:30 | 2023-07-28 | 2024-01-06 |
+| [Our Lovely City \(Hands Up For Detroit\)](https://open.spotify.com/track/318Mwtl8JQAZuul9GCHJyD) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto) | [Our Lovely City \(Hands Up For Detroit\)](https://open.spotify.com/album/2DQm8665ssFFa5EZBI6NQx) | 2:09 | 2024-03-22 |  |
 | [Out The Door](https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Out The Door](https://open.spotify.com/album/4R53BlPojGyGmWd0UVIH9Y) | 3:06 | 2022-04-22 | 2022-07-23 |
 | [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 | 2021-11-26 | 2022-01-14 |
 | [Outcast \- Koos Remix](https://open.spotify.com/track/5GWaHXSvD30X7xTbZCDcmh) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Koos](https://open.spotify.com/artist/3A8Fbum6y0H2ijJSRaDNtB) | [Don Malaa – After Hours](https://open.spotify.com/album/2Cbwm5jHgXBW2KrKtGiCVY) | 4:29 | 2023-02-24 | 2023-03-12 |
@@ -1145,7 +1146,7 @@
 | [Searching](https://open.spotify.com/track/1yLFszi3D4sq3ECcDxxPM6) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Searching](https://open.spotify.com/album/1WN5g5MtXHMiyUdUcclJ2l) | 3:30 | 2021-12-03 | 2022-04-23 |
 | [SEE ME GIVE IT](https://open.spotify.com/track/69IORvhAh5xA3P2o9iI2NW) | [MISS DRE](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [SEE ME GIVE IT](https://open.spotify.com/album/61BmA7b5VBmT0CuEViZLrC) | 3:20 | 2023-02-10 | 2023-04-03 |
 | [See The Light](https://open.spotify.com/track/0S2RADfs7vrFyyor0okdkM) | [Sacha Robotti](https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf), [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [See The Light](https://open.spotify.com/album/0RNKWw3y5HiXYqLMRP6onD) | 3:30 | 2023-02-03 | 2023-04-09 |
-| [Selecta](https://open.spotify.com/track/1MTPO4CMGIhHBocGVwVckD) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Selecta](https://open.spotify.com/album/7AjlfAc7u6QAGM9d7XQ2Be) | 2:46 | 2023-10-27 |  |
+| [Selecta](https://open.spotify.com/track/1MTPO4CMGIhHBocGVwVckD) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Selecta](https://open.spotify.com/album/7AjlfAc7u6QAGM9d7XQ2Be) | 2:46 | 2023-10-27 | 2024-03-28 |
 | [Selecta](https://open.spotify.com/track/3XXUatyIgWbC9KSN1FUHIR) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Selecta](https://open.spotify.com/album/0wAZLCTqTYCREJ9nxnrBLV) | 3:38 | 2022-01-18 | 2022-01-22 |
 | [Selecta](https://open.spotify.com/track/3y67T605zrxZadIf6dy3jg) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Selecta](https://open.spotify.com/album/0CPElXxuun2z9vczy4VC6V) | 7:14 | 2022-12-28 | 2023-01-06 |
 | [Self Love](https://open.spotify.com/track/72U1rB1DPyO6jHXq1y9VcP) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Don't Mind Ya Weight EP](https://open.spotify.com/album/1jDItIdJh4n76T8BfGZ33a) | 3:37 | 2022-12-28 | 2023-01-06 |

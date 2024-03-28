@@ -4,7 +4,7 @@
 
 > Set the mood of your day with these happy songs.
 
-567 songs - 1 day 7 hr 58 min
+568 songs - 1 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Can We Pretend \(feat\. Cash Cash\)](https://open.spotify.com/track/3O0e0LHTpza0rYVDbZfQ4r) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [Can We Pretend \(feat\. Cash Cash\)](https://open.spotify.com/album/1CXDHsSaA7UgUPvRm2AVRH) | 3:44 | 2021-12-16 | 2022-12-14 |
 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/22skzmqfdWrjJylampe0kt) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd) | 4:18 | 2022-12-14 | 2023-01-12 |
 | [Canyon Moon](https://open.spotify.com/track/5IhzJOXNE7ki0IIJbZbnGq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:09 | 2022-06-24 | 2023-05-30 |
-| [Capital Letters](https://open.spotify.com/track/6l0Ky2PycJV1Bz88kFeVGL) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [BloodPop®](https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:39 | 2023-08-04 |  |
+| [Capital Letters](https://open.spotify.com/track/6l0Ky2PycJV1Bz88kFeVGL) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [BloodPop®](https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:39 | 2023-08-04 | 2024-03-28 |
 | [Carried Away](https://open.spotify.com/track/3TOfWEQ9kpGBaT7o2GtI1X) | [Denny White](https://open.spotify.com/artist/0RuDUIQCXhrbLcsegLwp2Q) | [Carried Away](https://open.spotify.com/album/5mabbKLRmRaTBT4Zbp0Z1e) | 3:29 | 2022-03-15 | 2022-04-20 |
 | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz) | 3:35 | 2021-12-16 | 2022-12-14 |
 | [Castle on the Hill](https://open.spotify.com/track/66qlqxhEMpSHOzjRK4il0b) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Castle on the Hill](https://open.spotify.com/album/5YnGwVQx2OQ4CpcQeVDthP) | 4:21 | 2022-04-11 | 2022-11-15 |
@@ -356,6 +356,7 @@
 | [Memorized](https://open.spotify.com/track/44T6aO6fh9MPX6CGSCCidX) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Memorized](https://open.spotify.com/album/6aI8EAq9o8Xnoq1uw5QovE) | 3:26 | 2021-12-16 | 2022-07-29 |
 | [Moonlight](https://open.spotify.com/track/3XQpK8eESg2l9JpTJdB02g) | [Swim](https://open.spotify.com/artist/5sU8kGIBhMYhDIPr0zu20w) | [Moonlight](https://open.spotify.com/album/66KH6Vaml9coBhAP5hbbYf) | 3:33 | 2022-04-27 | 2022-07-28 |
 | [Move On](https://open.spotify.com/track/3KTVQGLS2np8dWe5s4F9EN) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Move On](https://open.spotify.com/album/0gI0NIsHae9AQsu6Tmi4M4) | 2:58 | 2021-12-16 | 2022-07-29 |
+| [Move Your Feet](https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7) | 3:01 | 2024-01-22 |  |
 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 | 2022-04-11 | 2022-12-14 |
 | [Must've Been \(feat\. DRAM\)](https://open.spotify.com/track/7yuUGBXakKjMjQnQssIP4I) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Must've Been \(feat\. DRAM\)](https://open.spotify.com/album/7hT6TUjaJyUYNLh2jAFYfu) | 3:30 | 2022-03-15 | 2022-04-21 |
 | [My Girl](https://open.spotify.com/track/2KpWmfFngrY4ZGTtdCQ6wW) | [Jackson Penn](https://open.spotify.com/artist/0RIQOtjWn0zYKSKfDYgukS) | [My Girl](https://open.spotify.com/album/4FJ1va8E0IPyLfDu2WdhVK) | 2:58 | 2021-12-16 | 2022-07-29 |

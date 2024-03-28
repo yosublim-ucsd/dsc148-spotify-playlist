@@ -18677,6 +18677,24 @@
     },
     {
       "album": {
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/5ZIY1FWrbS88delxovQOCn"
+      },
+      "artists": [
+        {
+          "name": "WEVLTH",
+          "url": "https://open.spotify.com/artist/5N7wAKV4HvGQj66w5HV4bD"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233439,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/1f8NvgTPsIDmJh5dGBeEGo"
+    },
+    {
+      "album": {
         "name": "sweater weather",
         "url": "https://open.spotify.com/album/7bGDPdEyxICCJoleipribU"
       },

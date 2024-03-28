@@ -4,7 +4,7 @@
 
 > This is Krewella\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 26 min
+60 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Can't Forget You \- 3LAU Remix](https://open.spotify.com/track/2zcoi9PYIEexfNmGXczab4) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Ammunition: The Remixes](https://open.spotify.com/album/3iDJuaDQHMyK77LBWCdXD5) | 3:24 | 2023-05-02 | 2023-11-11 |
 | [Come & Get It](https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:25 | 2023-05-03 |  |
 | [dead af](https://open.spotify.com/track/1UKiY1fpnB1G1nPW6ilHhw) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [dead af](https://open.spotify.com/album/74cbGl9GHBaRM8yHO4Tt1Q) | 3:28 | 2023-05-02 |  |
-| [Drive Away \(RetroVision Remix\)](https://open.spotify.com/track/1pSrJ6CpaOtoDTNgubJ6Zx) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Drive Away \(RetroVision Remix\)](https://open.spotify.com/album/4f5xCHKOJaAPEMGTrgFRPg) | 3:25 | 2023-05-02 |  |
+| [Drive Away](https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Body Never Lies](https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy) | 4:00 | 2024-03-27 |  |
+| [Drive Away \(RetroVision Remix\)](https://open.spotify.com/track/1pSrJ6CpaOtoDTNgubJ6Zx) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Drive Away \(RetroVision Remix\)](https://open.spotify.com/album/4f5xCHKOJaAPEMGTrgFRPg) | 3:25 | 2023-05-02 | 2024-03-28 |
 | [Enjoy the Ride](https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:31 | 2023-05-02 |  |
 | [Ghost](https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:06 | 2023-05-02 |  |
 | [Goddess](https://open.spotify.com/track/4KIoBpLdHX7nERPfDROJWR) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Goddess](https://open.spotify.com/album/1LxrrnNOm8an34LWCc48Ue) | 2:57 | 2023-05-02 |  |
@@ -31,8 +32,8 @@
 | [Greenlights](https://open.spotify.com/track/0ZPfoFzZ4qmdyzYmG8whmn) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 2:42 | 2023-05-02 |  |
 | [Human](https://open.spotify.com/track/6vIUovlj8NGi1JfnzVUUBI) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:15 | 2023-05-02 |  |
 | [I'm Just A Monster Underneath, My Darling](https://open.spotify.com/track/5CkicabyzDs7F7Froa503f) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [I'm Just A Monster Underneath, My Darling](https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU) | 4:10 | 2023-05-02 |  |
-| [In The Water](https://open.spotify.com/track/4CoS0uVLrNQAjCJ586HHev) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Body Never Lies](https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy) | 4:02 | 2023-05-02 |  |
-| [Killin' It](https://open.spotify.com/track/3rHFo3c176QQnZ3Ucdbp21) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Play Hard EP](https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m) | 3:27 | 2023-05-02 | 2024-03-27 |
+| [In The Water](https://open.spotify.com/track/4CoS0uVLrNQAjCJ586HHev) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Body Never Lies](https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy) | 4:02 | 2023-05-02 | 2024-03-28 |
+| [Killin' It](https://open.spotify.com/track/3rHFo3c176QQnZ3Ucdbp21) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Play Hard EP](https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m) | 3:27 | 2023-05-02 |  |
 | [Lay It Down](https://open.spotify.com/track/0dxAvCV7LGcGIJQZuqhmgL) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [Fallen Embers](https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V) | 4:24 | 2023-05-02 |  |
 | [Legacy \- Radio Edit](https://open.spotify.com/track/3SGebd91gbpKanqQ2Yg9F1) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Legacy \(Radio Edit\)](https://open.spotify.com/album/5LQcfsPc0lQMkXhvIPG94y) | 3:15 | 2023-05-02 | 2023-11-11 |
 | [Legacy \- Radio Edit](https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Legacy](https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7) | 3:15 | 2023-11-10 |  |

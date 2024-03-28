@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 
 > 45 grados y un chingo de cerveza..\. ¡Así suena el noreste!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,065 likes - 150 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,307 likes - 150 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 79 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
 | 80 | [Millionaire](https://open.spotify.com/track/4WfzRSiFd1ZlcIPLYAjLgg) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Tasty + B Sides](https://open.spotify.com/album/5IO0ppb7WMdyanUnnBCR0M) | 3:30 |
 | 81 | [Insomnio](https://open.spotify.com/track/179kBZK7Vil0uCDJDewswz) | [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Kumbia All Starz](https://open.spotify.com/artist/6m3l8oNDOGE3vo66Agi9M4) | [4](https://open.spotify.com/album/3Rn8SoV3fGLgTF8h2vfuPi) | 3:29 |
-| 82 | [Cumbia de Nuevo León](https://open.spotify.com/track/4ibivMUDrnGixov6ca0FML) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Cumbia Embajadora](https://open.spotify.com/album/3UGYBi2lUmY2RaCKthRugd) | 3:38 |
-| 83 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
+| 82 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
+| 83 | [Cumbia de Nuevo León](https://open.spotify.com/track/4ibivMUDrnGixov6ca0FML) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Cumbia Embajadora](https://open.spotify.com/album/3UGYBi2lUmY2RaCKthRugd) | 3:38 |
 | 84 | [Danza Negra](https://open.spotify.com/track/3XEWmjwVyVHFH8j6koNaxU) | [La Tropa Colombiana](https://open.spotify.com/artist/1hMLdrvmciHDcdNsXGooHx) | [De Colombia Para El Mundo Mano A Mano](https://open.spotify.com/album/05KLjrRd1YzOhyCtsOAdKB) | 3:01 |
 | 85 | [Mi Razón De Ser](https://open.spotify.com/track/03JbYQiWdbNU50NmmSU6q3) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Los Caminos De La Vida](https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv) | 3:13 |
 | 86 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 |
@@ -140,10 +140,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 130 | [Fanny](https://open.spotify.com/track/684lurkv01qxJbEt6oGM5I) | [Vallenatos De La Cumbia](https://open.spotify.com/artist/5t77bXrErzIDWoU6cHwdEX) | [Por El Mundo](https://open.spotify.com/album/6t0JkXAwiSnIamjMWUDAwx) | 3:54 |
 | 131 | [Hiereme](https://open.spotify.com/track/0VALO2mJCnpzv8OSHlMlSq) | [La Verbena Popular](https://open.spotify.com/artist/3Ht1isc7k5xuQuNvb2K6yI) | [El Tercer Viento Norestense](https://open.spotify.com/album/27YjX3Hnv6yGXgATY42GQp) | 4:01 |
 | 132 | [Solo Tú Me Haces Feliz](https://open.spotify.com/track/5GTNnaqanXfnuBT0NZ2rlf) | [El Kombo Kolombia](https://open.spotify.com/artist/3rtIjwhzCrcuShNmxeQcHu) | [Para Siempre](https://open.spotify.com/album/08L2rvAy7JXN1QbIERaEB0) | 6:15 |
-| 133 | [Como Si Fuera Mío](https://open.spotify.com/track/6wJkC7Jo8mNTb5gxMUZ66Z) | [La Leyenda](https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn), [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Como Si Fuera Mío](https://open.spotify.com/album/19ylEpi8corAcwNTDhOvGd) | 3:49 |
+| 133 | [Muere una Flor](https://open.spotify.com/track/0Df14K1BlLhjb2DnIR1Qmi) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 3:36 |
 | 134 | [Contigo Tengo Todo](https://open.spotify.com/track/6Bg1q5anwMP5SWjygN9yUt) | [Javier Lopez y los Reyes Vallenatos](https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO) | [Versiones Unicas de los Reyes](https://open.spotify.com/album/5hm1RWrfhuyfltmRfdk0Zj) | 4:39 |
-| 135 | [Eras](https://open.spotify.com/track/6Tfdvb0Evy5rjjcoIiXRaO) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [Eras](https://open.spotify.com/album/6zVmmrev2eBuEDBRSCsUUg) | 3:39 |
-| 136 | [Muere una Flor](https://open.spotify.com/track/0Df14K1BlLhjb2DnIR1Qmi) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 3:36 |
+| 135 | [Como Si Fuera Mío](https://open.spotify.com/track/6wJkC7Jo8mNTb5gxMUZ66Z) | [La Leyenda](https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn), [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Como Si Fuera Mío](https://open.spotify.com/album/19ylEpi8corAcwNTDhOvGd) | 3:49 |
+| 136 | [Eras](https://open.spotify.com/track/6Tfdvb0Evy5rjjcoIiXRaO) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [Eras](https://open.spotify.com/album/6zVmmrev2eBuEDBRSCsUUg) | 3:39 |
 | 137 | [Inmortales Medley: Celoso / Dulcemente Enamorada / Cosas del Amor / Cómo Estás Tú \- En Vivo Desde Monterrey](https://open.spotify.com/track/3B8XAAB1j59uwrCfXntXcO) | [La Casetera](https://open.spotify.com/artist/41pw8Rr71ZIY5mpOXzviAM) | [En Vivo Desde Monterrey](https://open.spotify.com/album/2YqXC2fSYZflVMNs3OzI5F) | 6:05 |
 | 138 | [Quizás](https://open.spotify.com/track/5NWwksSbX0VUFO8AhQwZKG) | [Javier Lopez](https://open.spotify.com/artist/4y3dI4VrvBA830auuPgiiI) | [Quizás](https://open.spotify.com/album/6kuKiRH3LIEs2QIylPiyGS) | 4:31 |
 | 139 | [Brindo por ti](https://open.spotify.com/track/4T2O4SWChk3uKN8Tvyxzic) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Amar o Morir](https://open.spotify.com/album/2q4m9TbU7rnvsC3thQ004u) | 4:12 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 149 | [Tanto Corazón](https://open.spotify.com/track/4LoQB01RbhL1vdJPxFmqDA) | [Cabrito Vudú](https://open.spotify.com/artist/3EZgX2cKpabRLqM0WBJJoZ) | [Tatuajes de Pólvora](https://open.spotify.com/album/6fEY0doTao8Nnqb8cP9UPx) | 3:20 |
 | 150 | [La Cervecita](https://open.spotify.com/track/18pdCGBI0xDiJvKTBHFTlO) | [Javier Lopez y los Reyes Vallenatos](https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO) | [Lo Que Tengo](https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq) | 3:53 |
 
-Snapshot ID: `MCw2Y2UwODJjNjljMGQzNjk5MjFmYTNjNTI5ODI5MTZmOWQ2MjA1MDU5`
+Snapshot ID: `MCw3NTNhZjM1ODhiYmI4ZTkwOGJkNDcyMzY3YWUwYjQ0ODA2ZWYwY2Vj`

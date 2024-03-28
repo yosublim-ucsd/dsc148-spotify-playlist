@@ -4,7 +4,7 @@
 
 > A groovy and soulful house collection\. Cover: Calvin Harris, Eliza Rose
 
-106 songs - 6 hr 23 min
+107 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Burnin' Up](https://open.spotify.com/track/1NYFMZMcvu8eEdVIZOJJKz) | [Ben Van Kuringen](https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2) | [Burnin' Up](https://open.spotify.com/album/4y3iXKpZJXlpbLRDV6MwlM) | 2:38 | 2023-09-05 |  |
 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 | 2023-09-05 | 2023-09-30 |
 | [Caught In D Middle](https://open.spotify.com/track/1DaSG7w7F7ATHCoEOIi7Vt) | [Christian Rich](https://open.spotify.com/artist/7cAlvWK5rgMmJ37j7woN8l) | [Caught In D Middle](https://open.spotify.com/album/6eJmPKnUNJY70xyKs9Dyqk) | 3:25 | 2023-09-29 | 2023-12-02 |
-| [Changes](https://open.spotify.com/track/0t7ahpke8UKi61ikrSh5sd) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [The Complete Collection](https://open.spotify.com/album/2ooyO0Krh2H87j4hJbPQiE) | 5:04 | 2023-09-05 |  |
+| [Changes](https://open.spotify.com/track/0t7ahpke8UKi61ikrSh5sd) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [The Complete Collection](https://open.spotify.com/album/2ooyO0Krh2H87j4hJbPQiE) | 5:04 | 2023-09-05 | 2024-03-28 |
+| [Changes](https://open.spotify.com/track/7K2yIbJIanAThF37SlxPey) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [Changes](https://open.spotify.com/album/62sLTTuUdEYDnVHCdp3poe) | 5:04 | 2024-01-05 |  |
 | [Circles \(feat\. Mariah Carey\)](https://open.spotify.com/track/1KTNJSTPYBLByQ14cJRGlO) | [e\-lie](https://open.spotify.com/artist/0GtpciMDV8Z7j30Tg0Ew7x), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Circles \(feat\. Mariah Carey\)](https://open.spotify.com/album/6whfBjD94WUB3kHIhDFPYG) | 3:02 | 2023-09-05 | 2023-12-02 |
 | [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 | 2023-09-05 | 2023-09-16 |
 | [Craving Crew](https://open.spotify.com/track/5tKtyc5xbc9dXjavBIEMPp) | [Tomasi Brothers](https://open.spotify.com/artist/3lc2hwCYX5BRmUzqXVazyE) | [Rythm Diaries](https://open.spotify.com/album/0mFnNsFZdYhqRseH4YHuV3) | 5:11 | 2023-09-05 | 2023-11-24 |

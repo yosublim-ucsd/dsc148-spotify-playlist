@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain]
 
 > Get your nostalgia hit with the biggest throwback anthems that everyone knows\. From Beyoncé, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 452,995 likes - 230 songs - 14 hr 6 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 453,204 likes - 230 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

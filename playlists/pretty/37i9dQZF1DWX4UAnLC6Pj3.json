@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Gerardo Coronel en portada.",
-  "num_followers": 1222201,
+  "num_followers": 1222363,
   "original_name": "Banda 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTY0YTFlZjdmOTk5N2YxNzJjN2Y3YzFjMTNjMWNkMTJkNzI4ZWQ3",
+  "snapshot_id": "MCxkZTZmM2Y0NjM0YjAwY2Y2ZDVjZTI1OGE1MTgxZTQ5NzhiMzUzNzM1",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Tiempo Fuera",
+        "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Tiempo Fuera",
+      "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Te Esfumar\u00e1s",
         "url": "https://open.spotify.com/album/3mmcWVrOrsAKfcgzJ95K8v"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 201066,
       "name": "Te Esfumar\u00e1s",
       "url": "https://open.spotify.com/track/1hLQwcyUVVUlIvsGuCoTmI"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Tiempo Fuera",
-        "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Tiempo Fuera",
-      "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Qu\u00e9 Te Hizo Olvidarme",
-        "url": "https://open.spotify.com/album/2zJQukcDjypgLJkVyORLYv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 152250,
-      "name": "Qu\u00e9 Te Hizo Olvidarme",
-      "url": "https://open.spotify.com/track/3a96vICHOEdw3rsthLW24A"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "M En El Radar",
         "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
       },
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Qu\u00e9 Te Hizo Olvidarme",
+        "url": "https://open.spotify.com/album/2zJQukcDjypgLJkVyORLYv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 152250,
+      "name": "Qu\u00e9 Te Hizo Olvidarme",
+      "url": "https://open.spotify.com/track/3a96vICHOEdw3rsthLW24A"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "El Precio De La Soledad",
         "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
       },
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "De Mezclilla el Chalec\u00f3n",
-        "url": "https://open.spotify.com/album/4kmRpSEkmZ4h0n5Miz1kkG"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "De Mezclilla el Chalec\u00f3n",
-      "url": "https://open.spotify.com/track/0L5lQTiLxwbCk1dZzPWCDV"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "M\u00e1ndame Otra Vez A La Chingada",
         "url": "https://open.spotify.com/album/370vnYfsorNlT6jEV2ul1X"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 214775,
       "name": "M\u00e1ndame Otra Vez A La Chingada",
       "url": "https://open.spotify.com/track/5Xd5yjl9UdzLQxclBT6pMf"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "De Mezclilla el Chalec\u00f3n",
+        "url": "https://open.spotify.com/album/4kmRpSEkmZ4h0n5Miz1kkG"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "De Mezclilla el Chalec\u00f3n",
+      "url": "https://open.spotify.com/track/0L5lQTiLxwbCk1dZzPWCDV"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Todo Depende de Ti (En Vivo)",
-        "url": "https://open.spotify.com/album/7IEyrxbsPPnt0XOT7irIrY"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        }
-      ],
-      "duration_ms": 209365,
-      "name": "Todo Depende de Ti (En Vivo)",
-      "url": "https://open.spotify.com/track/6EW3T5IPyotlqN8ZC9vEKo"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Nunca Dudes En Llamarme",
         "url": "https://open.spotify.com/album/3fahKcjOep1m0j2jovzx96"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 204160,
       "name": "Nunca Dudes En Llamarme",
       "url": "https://open.spotify.com/track/2cS7uDj2vfJeUazHoKJnyu"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Todo Depende de Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/7IEyrxbsPPnt0XOT7irIrY"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "duration_ms": 209365,
+      "name": "Todo Depende de Ti (En Vivo)",
+      "url": "https://open.spotify.com/track/6EW3T5IPyotlqN8ZC9vEKo"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Es Amor",
+        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Es Amor",
+      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "La Patrona",
         "url": "https://open.spotify.com/album/6bajKxH0q2vy5SRm83RGgz"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 150527,
       "name": "La Patrona",
       "url": "https://open.spotify.com/track/77tPPVeMhhzGwoMih9bs1T"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Es Amor",
-        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Es Amor",
-      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2059,6 +2059,26 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Ojitos Caf\u00e9s",
+        "url": "https://open.spotify.com/album/4F3C6UQX3tnAsLD5nl2yCt"
+      },
+      "artists": [
+        {
+          "name": "Omar Robles",
+          "url": "https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 190981,
+      "name": "Ojitos Caf\u00e9s",
+      "url": "https://open.spotify.com/track/2cJFOBctujdzBnCdrxZwWh"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Salud Por Eso",
         "url": "https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR"
       },
@@ -2079,26 +2099,6 @@
       "duration_ms": 179760,
       "name": "Salud Por Eso",
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Ojitos Caf\u00e9s",
-        "url": "https://open.spotify.com/album/4F3C6UQX3tnAsLD5nl2yCt"
-      },
-      "artists": [
-        {
-          "name": "Omar Robles",
-          "url": "https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 190981,
-      "name": "Ojitos Caf\u00e9s",
-      "url": "https://open.spotify.com/track/2cJFOBctujdzBnCdrxZwWh"
     },
     {
       "added_at": "2024-03-22 04:00:00",

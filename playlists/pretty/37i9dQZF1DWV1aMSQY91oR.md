@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Mac Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,657 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,667 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 19 | [Giving Chanel](https://open.spotify.com/track/1wMxLpODBBQMC6CiIBIV8e) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [HEATHENISM](https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG) | 3:27 |
 | 20 | [Good Look](https://open.spotify.com/track/6c098Yt8Mr2UN7EwTG8w5F) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Good Look](https://open.spotify.com/album/0ZCidOeCHqEjLxtetrELo1) | 1:54 |
 | 21 | [Wickstyle](https://open.spotify.com/track/0J1iJxPmVJRFtaYyWFU1YC) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Wickstyle](https://open.spotify.com/album/11inU7lZwHsEQ1JtuQY2oc) | 2:55 |
-| 22 | [Fire in Ya Eyes Again](https://open.spotify.com/track/348RgEmhB5tx07rODn8fWB) | [Lioness Kaur](https://open.spotify.com/artist/6CejWpCLGWas82BR6gadi5), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [Fire in Ya Eyes Again](https://open.spotify.com/album/1dnpgFtgpJGpwHN7srVVb6) | 4:51 |
+| 22 | [Fire in Ya Eyes Again](https://open.spotify.com/track/348RgEmhB5tx07rODn8fWB) | [Lioness Kaur](https://open.spotify.com/artist/6CejWpCLGWas82BR6gadi5), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [JB](https://open.spotify.com/artist/1IRcunfbaCRDigcOtZ0vXs) | [Fire in Ya Eyes Again](https://open.spotify.com/album/1dnpgFtgpJGpwHN7srVVb6) | 4:51 |
 | 23 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 |
 | 24 | [Top Bwoy](https://open.spotify.com/track/1gKlIRPvBPgqxIS0chZwVg) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T), [Urban Gurillaz](https://open.spotify.com/artist/0Ig7cXcnQOGlzWhDsjjF6c), [Brik Boss](https://open.spotify.com/artist/4ln45jlDFKRTV2nAqnLhqo), [Eastern Entertainment](https://open.spotify.com/artist/0tkR8NcOFrPKVrVfDGX05v) | [Top Bwoy](https://open.spotify.com/album/5XYAe8o1dXnTHNZm6tLQSB) | 2:47 |
 | 25 | [vintage.](https://open.spotify.com/track/0yvc2gWf7Wdq0GmCghJWIm) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [vintage.](https://open.spotify.com/album/5gvJQrNpUSW2fmWUYDn4NE) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [As We Speak \(feat\. Drake\)](https://open.spotify.com/track/6uFG0BRd3BaonWjEGuHYAh) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [2093 \(P2\)](https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg) | 4:00 |
 | 50 | [Only You](https://open.spotify.com/track/4PSvazj8Yc6zgtmc4RUoIx) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Only You](https://open.spotify.com/album/6peg85oEmyTYzm8wxik2wd) | 2:22 |
 
-Snapshot ID: `MCw3MTUxZDU0N2IyODc5YzEzNzRjNzUxMDI1NmYzMzJkYTA5YTcyOTQ5`
+Snapshot ID: `MCxjYjI5OTBkN2M5YmQxYzU1MTQ5ODBhZjE5YTBlMzAzNGI2M2ZlODcz`

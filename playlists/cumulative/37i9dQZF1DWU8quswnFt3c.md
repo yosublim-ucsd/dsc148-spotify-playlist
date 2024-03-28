@@ -2,9 +2,9 @@
 
 ### [EQUAL](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Listen to women at full volume from across the world\. Cover: Suni Hạ Linh
+> Listen to women at full volume from across the world\. Cover: RAYE
 
-1,768 songs - 4 day 1 hr 37 min
+1,771 songs - 4 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [2/10](https://open.spotify.com/track/5GyjN34ERWoiTbNDEje48C) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [2/10](https://open.spotify.com/album/1WHuYkVgYBm2yh5EbYzyq6) | 3:50 | 2023-02-01 | 2023-03-02 |
 | [20 тонн](https://open.spotify.com/track/0nbfAs7GeJIAe6nOxWD1kK) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [LAVA](https://open.spotify.com/album/0vlYUlDZviDnoMTP5ZLp9R) | 1:44 | 2022-01-05 | 2022-02-03 |
 | [200/h](https://open.spotify.com/track/12Qde9rce6A18RW6JuUfQC) | [L'Beel](https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4) | [Mis Niñas](https://open.spotify.com/album/5YjbgM8BpW9BDTKgmBv33R) | 2:29 | 2023-08-02 | 2023-09-07 |
-| [2nd prettiest girl \(in the world\)](https://open.spotify.com/track/353idKXfTcr8L4QosiGD8z) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [2nd prettiest girl \(in the world\)](https://open.spotify.com/album/42ET981Qri753Oh1TbE1Yl) | 2:48 | 2024-03-13 |  |
+| [2nd prettiest girl \(in the world\)](https://open.spotify.com/track/353idKXfTcr8L4QosiGD8z) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [2nd prettiest girl \(in the world\)](https://open.spotify.com/album/42ET981Qri753Oh1TbE1Yl) | 2:48 | 2024-03-13 | 2024-03-28 |
 | [3 Marias](https://open.spotify.com/track/4pQ2WvtAOJrdm8lN8BGnE4) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 7:25 | 2023-03-01 | 2023-04-06 |
 | [365](https://open.spotify.com/track/7j01rdHvXniCA8f1x0NTUG) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [365](https://open.spotify.com/album/66ATAuPBpHYXytPUXzCCwi) | 3:19 | 2021-12-11 | 2022-01-06 |
 | [3:30](https://open.spotify.com/track/3vt2uTPMsJtAABxhyxmU9u) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [3:30](https://open.spotify.com/album/5vo8DvHawHGp7FM40oHOmK) | 3:23 | 2022-11-08 | 2022-12-01 |
@@ -163,6 +163,7 @@
 | [Besame](https://open.spotify.com/track/4SCZZqR0xUoG8PcY9CuDzY) | [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [Besame](https://open.spotify.com/album/5i9XwsUbqZaBDtlFroAJ4B) | 2:58 | 2022-04-06 | 2022-05-03 |
 | [Besame](https://open.spotify.com/track/1cvHX1H4DUZd09pcxkDNRD) | [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [DHURATA](https://open.spotify.com/album/1BaQKcXBkeFVnyo6W2tWY2) | 3:07 | 2023-04-05 | 2024-01-11 |
 | [Besharam Rang \(From "Pathaan"\)](https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Besharam Rang \(From "Pathaan"\)](https://open.spotify.com/album/5CvI5ppsG522pV554VLezD) | 4:18 | 2023-02-01 | 2023-03-02 |
+| [Best Of Me](https://open.spotify.com/track/4Gpzgpj57YgCe9uUnwRwz4) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Best Of Me](https://open.spotify.com/album/2Zc3sdoMNkKC2O3Vlu6geL) | 3:16 | 2024-03-27 |  |
 | [Better Love](https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Better Love](https://open.spotify.com/album/0delJu1UUzdBfufg94lbME) | 2:18 | 2023-04-05 | 2024-01-11 |
 | [Betty Bruce](https://open.spotify.com/track/0eX83sk4tLtPBMf37tgMKc) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Betty Bruce](https://open.spotify.com/album/1XTJX5QoGnJVsDiSyQHfqB) | 3:28 | 2024-02-07 | 2024-03-07 |
 | [biarkan aku tertidur](https://open.spotify.com/track/4kvow3IUDyaoXUvMyEvdLf) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [LEXICON](https://open.spotify.com/album/089QU9ZClm6mksCrXCDBSi) | 3:14 | 2022-06-01 | 2022-07-07 |
@@ -626,7 +627,8 @@
 | [Huracán](https://open.spotify.com/track/4qy9nfsqwcRIUCHt61Fms9) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Hay un fuego](https://open.spotify.com/album/63ZcAWqpRxNFHsFfxyE67V) | 4:06 | 2022-05-04 | 2022-06-01 |
 | [HW1](https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [HW1](https://open.spotify.com/album/27olYw9kfefaxM2oqtXhbg) | 4:19 | 2022-07-06 | 2022-08-04 |
 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 | 2023-09-06 | 2023-10-05 |
-| [Hypé](https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Hypé](https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6) | 2:37 | 2024-03-06 |  |
+| [Hypé](https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Hypé](https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6) | 2:37 | 2024-03-06 | 2024-03-28 |
+| [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD) | 2:37 | 2024-03-27 |  |
 | [Hương \(feat\. Negav\)](https://open.spotify.com/track/6aeU5IH8DB1qHK5jRFTNUv) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [hương](https://open.spotify.com/album/6q946F95PkIqzVIxMQVVdq) | 3:30 | 2021-12-11 | 2022-01-06 |
 | [Hạ Phỏm](https://open.spotify.com/track/2lGGlexu72TnPQPUHd8NWt) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 3:15 | 2023-02-01 | 2023-03-02 |
 | [I Am America](https://open.spotify.com/track/0MkBDogipPa3FvHzlXsxqO) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [I Am America](https://open.spotify.com/album/0hdDylmyXxtpZdciiSaQS2) | 2:51 | 2023-10-18 | 2023-11-30 |
@@ -1294,7 +1296,7 @@
 | [Serendipia](https://open.spotify.com/track/1paYMMK7oI0OpN8OuCsgqR) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Isa \(Nouvelle édition\)](https://open.spotify.com/album/5VXsO0AdwwtazdWJfEP1Ag) | 2:53 | 2023-01-04 | 2023-02-02 |
 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-03-01 | 2023-04-06 |
 | [Shine](https://open.spotify.com/track/6IjEfZNMugnk5yhLLJDKg9) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi) | 2:33 | 2022-04-06 | 2022-05-05 |
-| [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 | 2024-03-06 |  |
+| [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 | 2024-03-06 | 2024-03-28 |
 | [Shoreditch Road](https://open.spotify.com/track/1fXH9WeNGhc5xBAqQUp6e0) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Shoreditch Road](https://open.spotify.com/album/56jLPpU2ZIgVy9Caq5umUH) | 3:13 | 2023-04-05 | 2023-05-04 |
 | [Show Me How \- Album edit](https://open.spotify.com/track/3Rvjf5rbWhar6k40WRrM5J) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Lucid Dreaming](https://open.spotify.com/album/0WqJS36WfpteeudLuB7kok) | 2:47 | 2022-01-05 | 2022-02-03 |
 | [Show's Rollin'](https://open.spotify.com/track/3EI9L3ixBWCJcquR5RTFgG) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Ritorno Al Futuro / Back To The Future](https://open.spotify.com/album/6H5SKANQcashhGmjQ3to7O) | 3:48 | 2022-03-08 | 2022-04-07 |
@@ -1352,6 +1354,7 @@
 | [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 | 2023-05-09 | 2024-01-11 |
 | [SPICY](https://open.spotify.com/track/5Y83kJUB06cRuQSIboBmYj) | [Slayrizz](https://open.spotify.com/artist/2g9SWtMYaTDIqWxaOBe495) | [SPICY](https://open.spotify.com/album/5rfjL2dCVzGIGJXbUiEr3N) | 2:50 | 2023-10-18 | 2023-11-09 |
 | [Spinning World](https://open.spotify.com/track/0qMWgeZ0noIwad06RmVQpm) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [PLASMA](https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y) | 4:00 | 2022-09-07 | 2022-10-05 |
+| [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 | 2024-03-27 |  |
 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 | 2023-04-05 | 2024-01-11 |
 | [Stand Up \(From Harriet\)](https://open.spotify.com/track/3wNNbf63xkxw9rIVWtFy7a) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Stand Up \(From Harriet\)](https://open.spotify.com/album/2csFa6zpizG4hDUqQgj95C) | 5:03 | 2023-10-04 | 2023-11-17 |
 | [Stathero](https://open.spotify.com/track/3tQakkOHMmqb8zhpC3sfcz) | [Eleonora Zouganeli](https://open.spotify.com/artist/0vLoXqcGEpgOgmCYshRsKt) | [Stathero](https://open.spotify.com/album/6p59dFt7fSVQeuxRMNF3sS) | 3:33 | 2022-01-05 | 2022-02-03 |

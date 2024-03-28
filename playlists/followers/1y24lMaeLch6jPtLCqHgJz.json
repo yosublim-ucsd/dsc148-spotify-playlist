@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 85813,
+  "2024-03-28": 85808,
   "date_first_scraped": "2022-08-16",
   "description": "Festival Music 2024 - Tomorrowland 2024 - Festival Songs - EDM Music - Electronic Music - Rave Music - EDM Songs - best festival music - best festival songs",
   "name": "Festival Songs 2024 \ud83c\udf87 Festival Music - Tomorrowland 2024",
@@ -1005,6 +1005,32 @@
       "duration_ms": 169605,
       "name": "Blinded by Flashing Lights",
       "url": "https://open.spotify.com/track/5wtUh09o65cMwokEiIY1pb"
+    },
+    {
+      "album": {
+        "name": "Blinded by the Light",
+        "url": "https://open.spotify.com/album/1e2WG9ondY7BopzOSoyeRr"
+      },
+      "artists": [
+        {
+          "name": "Michael Mind",
+          "url": "https://open.spotify.com/artist/2e6EM8KHMKEZfQRHkmo1rA"
+        },
+        {
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+        },
+        {
+          "name": "Manfred Mann's Earth Band",
+          "url": "https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "Blinded by the Light",
+      "url": "https://open.spotify.com/track/3cIOvmnnEBvWg9jJSwiJ5z"
     },
     {
       "album": {
@@ -5087,7 +5113,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 194764,
       "name": "Run With Me",
       "url": "https://open.spotify.com/track/2x0RRQ1lmdqrCFywGAOwYK"

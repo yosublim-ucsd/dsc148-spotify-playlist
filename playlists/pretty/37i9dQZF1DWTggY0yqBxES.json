@@ -1,12 +1,12 @@
 {
   "description": "New, leftfield, and for the real hip-hop stans! Cover: Tierra Whack",
-  "num_followers": 947284,
+  "num_followers": 947419,
   "original_name": "Alternative Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2I2ZmY4MjY5NjkyYjg1YjBmNjU5NGQ2ZGE2M2FlZjBkMWE1Mzdi",
+  "snapshot_id": "MCxkYjAyZTI1NGZlZjIyYTUxMjg1NTM5ODcyMjcwMDBmNzExMTRmZjYx",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -35,22 +35,30 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Don't Care Didn't Ask",
-        "url": "https://open.spotify.com/album/2bS25a2Bme6RkFAozL5ggK"
+        "name": "Pinball",
+        "url": "https://open.spotify.com/album/5gHqM8u3IclJ1ZV6q309OW"
       },
       "artists": [
         {
-          "name": "Akintoye",
-          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
         },
         {
-          "name": "Abhi The Nomad",
-          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
+          "name": "Tony Seltzer",
+          "url": "https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "Tony Shhnow",
+          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
         }
       ],
-      "duration_ms": 169760,
-      "name": "Don't Care Didn't Ask",
-      "url": "https://open.spotify.com/track/5LAzEfoTOp7sIiRvEXpWlT"
+      "duration_ms": 147969,
+      "name": "On God (feat. Earl Sweatshirt & Tony Shhnow)",
+      "url": "https://open.spotify.com/track/4j25WxLITRGhkYNmdezE8s"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -371,6 +379,26 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Don't Care Didn't Ask",
+        "url": "https://open.spotify.com/album/2bS25a2Bme6RkFAozL5ggK"
+      },
+      "artists": [
+        {
+          "name": "Akintoye",
+          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
+        },
+        {
+          "name": "Abhi The Nomad",
+          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Don't Care Didn't Ask",
+      "url": "https://open.spotify.com/track/5LAzEfoTOp7sIiRvEXpWlT"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Shibuya",
         "url": "https://open.spotify.com/album/6N0JK7T9CcsvDOXsIFF9cB"
       },
@@ -399,34 +427,6 @@
       "duration_ms": 137098,
       "name": "DND",
       "url": "https://open.spotify.com/track/2JcKs5oFiVAhui6XtVl0dj"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Pinball",
-        "url": "https://open.spotify.com/album/5gHqM8u3IclJ1ZV6q309OW"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        },
-        {
-          "name": "Tony Seltzer",
-          "url": "https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "Tony Shhnow",
-          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
-        }
-      ],
-      "duration_ms": 147969,
-      "name": "On God (feat. Earl Sweatshirt & Tony Shhnow)",
-      "url": "https://open.spotify.com/track/4j25WxLITRGhkYNmdezE8s"
     },
     {
       "added_at": "2024-03-22 04:00:00",

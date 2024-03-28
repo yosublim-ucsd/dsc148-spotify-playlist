@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ girl in red + sabrina carpenter in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,143 likes - 71 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,150 likes - 71 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 70 | [ALTALENA](https://open.spotify.com/track/5DMuQ5oYNrcIGSEodNJKMU) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq) | [ALTALENA](https://open.spotify.com/album/3TaZgJGHC0w8fHnhrR94Ya) | 2:24 |
 | 71 | [TI HO PORTATO LA LUNA](https://open.spotify.com/track/07xoC8VuSn5ExWMuHsAV6h) | [pablo murphy](https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB) | [TI HO PORTATO LA LUNA](https://open.spotify.com/album/7h8cDINcwdo0bzhG35aVMJ) | 2:51 |
 
-Snapshot ID: `MCwwNWQyZDRjM2RiM2E0MTIwZWNkODgyYTE5NjAxYWRhY2NiZTY0YzYy`
+Snapshot ID: `MCxkOWNiYjgyOTAyNTg1ODBhMDM1NTg5ZDQwMGIxODE2Y2QxN2UzNjYx`

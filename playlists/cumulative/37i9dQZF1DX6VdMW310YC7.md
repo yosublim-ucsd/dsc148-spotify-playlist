@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,585 songs - 4 day 12 hr 59 min
+1,586 songs - 4 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1070,6 +1070,7 @@
 | [Pale Skin](https://open.spotify.com/track/5nqvTmSm0tQmRndmB4Dn1t) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [A Forest](https://open.spotify.com/album/7CPhbXAXvokdASYAh0vnpS) | 3:50 | 2020-03-16 | 2021-12-21 |
 | [Palm of My Hand](https://open.spotify.com/track/4SdTlyC3TJfxsNetvoVlum) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [GENERATIONWHY](https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV) | 6:13 | 2020-05-18 | 2020-07-03 |
 | [Palms](https://open.spotify.com/track/1DxdiIZi2cjwz24jeD5iAG) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98) | [Palms](https://open.spotify.com/album/5Vg9jiIWY631aVuRy2GVA9) | 4:15 | 2020-03-18 | 2022-04-20 |
+| [Pangea \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Pangea](https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o) | 4:01 | 2024-03-22 |  |
 | [Pantheon](https://open.spotify.com/track/7jzYd0OEy6RGAIZrXMRU7f) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Pantheon](https://open.spotify.com/album/7fpVxk1RRn0kfzDFF8D1cQ) | 3:45 | 2020-02-29\* | 2020-03-16 |
 | [Paper Planes](https://open.spotify.com/track/0Lf7sSgj8fbOkLC68f5ldj) | [Julian Gray](https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN) | [Autonomous.](https://open.spotify.com/album/29HvI3jlicQ7a2pqxE9YtA) | 4:37 | 2020-03-20 | 2021-02-19 |
 | [Parachute](https://open.spotify.com/track/3NgAAoUZPkxL5mpvUI7Rl5) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Parachute](https://open.spotify.com/album/1yRcYuMJZfTpFGECIkRKgO) | 3:50 | 2020-08-06 | 2020-10-09 |
@@ -1454,7 +1455,7 @@
 | [Try Me](https://open.spotify.com/track/65YyjJx1nqp0MCFJw20RkR) | [Plastic Toy](https://open.spotify.com/artist/5V9hwHev8mPXMe66QmyKJp), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Premiere Classe \- The Beginning](https://open.spotify.com/album/5AzebLXjdb5xWhJpg2vEFm) | 3:18 | 2020-03-22 | 2020-05-22 |
 | [Try Me \(with Plastic Toy\)](https://open.spotify.com/track/5vTtANNlQK5UhwfooDek5y) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Plastic Toy](https://open.spotify.com/artist/5V9hwHev8mPXMe66QmyKJp) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:18 | 2020-03-20 | 2020-07-03 |
 | [Turning Away \- Parra for Cuva Remix](https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Turning Away \(Parra for Cuva Remix\)](https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs) | 4:21 | 2023-04-21 |  |
-| [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 | 2024-03-22 |  |
+| [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 | 2024-03-22 | 2024-03-28 |
 | [U Got My Heart](https://open.spotify.com/track/752noY44yVo7eYK78VikAx) | [Clément Leroux](https://open.spotify.com/artist/3MttWEEoyq7W9MjHEBaKhG), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [U Got My Heart](https://open.spotify.com/album/1a8afZYgO0ToDcgn2VJldN) | 3:11 | 2020-03-16 | 2022-04-20 |
 | [Ultimatum \- Edit](https://open.spotify.com/track/0slkzFvyBWcwnjEEDtYE5E) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Ultimatum](https://open.spotify.com/album/3mKvAiTrhpJUTAFsJXmjTE) | 3:33 | 2020-05-18 | 2020-07-18 |
 | [Undecided](https://open.spotify.com/track/25CSuITuHOTUSrCx4u72UT) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Undecided](https://open.spotify.com/album/1Ybr2PycNvqre2mpj35VRD) | 4:06 | 2020-11-13 | 2022-02-19 |

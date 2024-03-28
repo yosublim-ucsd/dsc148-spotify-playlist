@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 18792,
+  "num_followers": 18794,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTM5MTE4NmZjNWFhNzNjNGM1ZjYxMTIzNTgzYzU1M2MzMWU5ODY3",
+  "snapshot_id": "MCxmZmI1NmE0YzE4MjBjNDJmZmZlMmVkMTFmMjk4M2NlZWMxODk4YTQz",
   "tracks": [
     {
       "added_at": "2023-08-11 14:55:17",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Viajera",
-        "url": "https://open.spotify.com/album/1pMNh3OgDHDxu8HnHZhxS6"
-      },
-      "artists": [
-        {
-          "name": "Malena Muyala",
-          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
-        }
-      ],
-      "duration_ms": 323066,
-      "name": "Pasos",
-      "url": "https://open.spotify.com/track/3R8j435shaOqqAIihPo2Mb"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
         "name": "Nelly Omar - Desde el alma",
         "url": "https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 156920,
       "name": "Desde el alma",
       "url": "https://open.spotify.com/track/2qy2u4LhIS8OSnnmJdvo1n"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
+        "name": "Viajera",
+        "url": "https://open.spotify.com/album/1pMNh3OgDHDxu8HnHZhxS6"
+      },
+      "artists": [
+        {
+          "name": "Malena Muyala",
+          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
+        }
+      ],
+      "duration_ms": 323066,
+      "name": "Pasos",
+      "url": "https://open.spotify.com/track/3R8j435shaOqqAIihPo2Mb"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Morir de Amor",
-        "url": "https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo"
-      },
-      "artists": [
-        {
-          "name": "Soledad Villamil",
-          "url": "https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD"
-        }
-      ],
-      "duration_ms": 197973,
-      "name": "La Canci\u00f3n y el Poema (Morir de Amor)",
-      "url": "https://open.spotify.com/track/5FF4C9ZJQdK8vRDiPAy3Nc"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 243893,
       "name": "El Coraz\u00f3n al Sur",
       "url": "https://open.spotify.com/track/5t0QIkUpZOoejnKXeZ8z2s"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
+        "name": "Morir de Amor",
+        "url": "https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo"
+      },
+      "artists": [
+        {
+          "name": "Soledad Villamil",
+          "url": "https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD"
+        }
+      ],
+      "duration_ms": 197973,
+      "name": "La Canci\u00f3n y el Poema (Morir de Amor)",
+      "url": "https://open.spotify.com/track/5FF4C9ZJQdK8vRDiPAy3Nc"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -583,18 +583,22 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/6PDbU5wE5nZCAkXVIuvVm8"
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
       },
       "artists": [
         {
-          "name": "Soledad Villamil",
-          "url": "https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD"
+          "name": "Maria Gra\u00f1a",
+          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
+        },
+        {
+          "name": "Valeria Lynch",
+          "url": "https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM"
         }
       ],
-      "duration_ms": 130720,
-      "name": "Baldosa Floja",
-      "url": "https://open.spotify.com/track/38Umd4ALhVqbmvDSamftBR"
+      "duration_ms": 238826,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/6M4LFutTr0fgFMOWmN0kYh"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -671,22 +675,18 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/6PDbU5wE5nZCAkXVIuvVm8"
       },
       "artists": [
         {
-          "name": "Maria Gra\u00f1a",
-          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
-        },
-        {
-          "name": "Valeria Lynch",
-          "url": "https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM"
+          "name": "Soledad Villamil",
+          "url": "https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD"
         }
       ],
-      "duration_ms": 238826,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/6M4LFutTr0fgFMOWmN0kYh"
+      "duration_ms": 130720,
+      "name": "Baldosa Floja",
+      "url": "https://open.spotify.com/track/38Umd4ALhVqbmvDSamftBR"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
-        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
-      },
-      "artists": [
-        {
-          "name": "Libertad Lamarque",
-          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
-        }
-      ],
-      "duration_ms": 156155,
-      "name": "El d\u00eda que me quieras - Remastered",
-      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
         "name": "Puro Verso",
         "url": "https://open.spotify.com/album/49rcqApxkF0v2eY0nKteFl"
       },
@@ -759,22 +743,18 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Milonga del Desocupado",
-        "url": "https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X"
+        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
+        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
       },
       "artists": [
         {
-          "name": "Quinteto Bataraz",
-          "url": "https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs"
-        },
-        {
-          "name": "Liliana Herrero",
-          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
+          "name": "Libertad Lamarque",
+          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
         }
       ],
-      "duration_ms": 232930,
-      "name": "Milonga del Desocupado",
-      "url": "https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo"
+      "duration_ms": 156155,
+      "name": "El d\u00eda que me quieras - Remastered",
+      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -795,6 +775,26 @@
       "duration_ms": 250133,
       "name": "Caser\u00f3n de Tejas (feat. Jorge Calandrelli)",
       "url": "https://open.spotify.com/track/0Elfdj2gQ0Ib0h49kCKb2R"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
+        "name": "Milonga del Desocupado",
+        "url": "https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X"
+      },
+      "artists": [
+        {
+          "name": "Quinteto Bataraz",
+          "url": "https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs"
+        },
+        {
+          "name": "Liliana Herrero",
+          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
+        }
+      ],
+      "duration_ms": 232930,
+      "name": "Milonga del Desocupado",
+      "url": "https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo"
     },
     {
       "added_at": "2023-08-11 14:55:17",

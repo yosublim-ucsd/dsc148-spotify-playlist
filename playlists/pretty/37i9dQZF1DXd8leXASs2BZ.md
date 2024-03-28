@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: SugLawd Familiar
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,161 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,166 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 7 | [GONG](https://open.spotify.com/track/64wgkR32dG4TL8LnpmSZwa) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [Waston](https://open.spotify.com/artist/1xUS45eqj5e7eVpmlJvAcr), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [GONG](https://open.spotify.com/album/20B6oL3ICsUzjKWqcRFjxr) | 3:52 |
 | 8 | [Almost 20](https://open.spotify.com/track/0GzfMhBaODjHyGYCbdmI6x) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 3:22 |
 | 9 | [GOEMON](https://open.spotify.com/track/6HO0oAjTqqvfaspFkLzYEK) | [Gypsy Well](https://open.spotify.com/artist/1VsvKeGxliar6b9Ps7MqGO) | [GOEMON](https://open.spotify.com/album/6yFHD4LRXQFz6OC9JgTxWl) | 2:32 |
-| 10 | [One Way](https://open.spotify.com/track/61X4zRkLsIrWKmtRTqFtdQ) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA) | [One Way](https://open.spotify.com/album/3i0lCdzLcLoZ2GDSg0vPU3) | 2:37 |
+| 10 | [One Way](https://open.spotify.com/track/0AgswJQHfAQd5jpoYBitji) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA) | [One Way](https://open.spotify.com/album/7D31nyAqGGdfwjn6QfuYtf) | 2:37 |
 | 11 | [AKO](https://open.spotify.com/track/3jHedBtPaDC4JnbuRDuESI) | [Kidney Fuji](https://open.spotify.com/artist/5ImlGMjtl8oe8VVdjY2mwd) | [AKO](https://open.spotify.com/album/3MjGApVWk8UmIt1FMcnMAf) | 1:57 |
 | 12 | [Josetsusha!](https://open.spotify.com/track/5MCTIDVidknIGlI9atECh4) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [YungFLX](https://open.spotify.com/artist/4602NT3AQtVUISnd0cSXSe) | [Josetsusha!](https://open.spotify.com/album/7263wqVHp54oFq8zGlEXTM) | 3:21 |
 | 13 | [JET](https://open.spotify.com/track/6dBldJ7M61X4dRcxodX6O0) | [Nero](https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA) | [Local Life](https://open.spotify.com/album/5QReLSHX2gBdrMnVztz7f4) | 2:17 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 30 | [chouhachi](https://open.spotify.com/track/7HHO3TQv4CKNVa4Vxg2M6i) | [DAB](https://open.spotify.com/artist/3yYumedujiQlRToKP478wS) | [chouhachi](https://open.spotify.com/album/73mudsrUDLRUiaRJ0gp9sm) | 3:21 |
 | 31 | [come around](https://open.spotify.com/track/26Ea1ELPf9Lhe7qZnwfilu) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [come around](https://open.spotify.com/album/3jBzXZ0H7dgK9NA7GCgWUe) | 3:45 |
 | 32 | [DAIKYUJYO](https://open.spotify.com/track/6X2t7KMv5swfmt6QR4JKqn) | [NARIMIMI](https://open.spotify.com/artist/1JTdS745UntF44DnNXTS9W), [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [DAIKYUJYO](https://open.spotify.com/album/21OL83ryv1xqNXiQ5aoQii) | 3:03 |
-| 33 | [幸](https://open.spotify.com/track/5zRR6GzhLpvUkBlWINQJPF) | [楓](https://open.spotify.com/artist/0L8NJHQYHpLt05yuyEUOlf) | [Vortex](https://open.spotify.com/album/5wCMx9HiXXvFNqrSamZfJn) | 4:11 |
+| 33 | [Sachi](https://open.spotify.com/track/1h8sD4MeQ2JFoNEN10GBVb) | [Kaede](https://open.spotify.com/artist/7ucQZoZtVmqJpOWXdGoViN) | [Vortex](https://open.spotify.com/album/3e0VJ3Qnq7KxMcmruMxecx) | 4:11 |
 | 34 | [KARASU](https://open.spotify.com/track/3Zy3ydtuKxgP5GmKboF3Y3) | [KUJA](https://open.spotify.com/artist/57mU8ikgaVL2JTK5zrr01c), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [KARASU](https://open.spotify.com/album/3hqAA3agtdXgyTpm5j0Qb6) | 2:13 |
 | 35 | [4 MY CULT](https://open.spotify.com/track/1fKeLutFtUHBleFW010cNp) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [4 MY CULT](https://open.spotify.com/album/2jk9bSrhkHp2XAVXi22BDz) | 2:45 |
 | 36 | [24/7 YOU...](https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [24/7 YOU...](https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr) | 2:41 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 46 | [The first snowfall](https://open.spotify.com/track/49XnF4NRLNMImT1qKAmH9o) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Tade Dust](https://open.spotify.com/artist/2pxHWQNVmLCr3HnSqFk5IH) | [The first snowfall](https://open.spotify.com/album/4B4pZcXibJxmeJiOICB0gK) | 2:57 |
 | 47 | [Crew up](https://open.spotify.com/track/4r96S9ST7u1SfNqjvmuTJ6) | [Authority](https://open.spotify.com/artist/6fY9vo5VWazGw5fZesSB71), [ShowyRENZO](https://open.spotify.com/artist/1DXib0yTufkuTm2KkQIwvi) | [Crew up](https://open.spotify.com/album/0QuDieUt9menSlhCQvf0M6) | 2:10 |
 | 48 | [Impreza](https://open.spotify.com/track/1a7hDQkt6CbyJzANDPkKTK) | [muzik will](https://open.spotify.com/artist/46zWI7YGMpEHDkjrI3AIkY) | [Impreza](https://open.spotify.com/album/7v9zXdJ7dpqlTgKK5yDDlP) | 3:07 |
-| 49 | [夢見る者の報い](https://open.spotify.com/track/3uBCLTq1gBL74dyCBLaKWu) | [NOX](https://open.spotify.com/artist/27QgdEsqcHRgVAhy7zWTzw), [KAKKY](https://open.spotify.com/artist/0Ryt5TJOtBvoRwozJDW3sC), [大空](https://open.spotify.com/artist/6Tg13Bi1F0RVsHBEglMrsW), [HIBIKI](https://open.spotify.com/artist/4hUkfseB97lM6qhbcfwERG) | [夢見る者の報い](https://open.spotify.com/album/2pdaDaaed0Pd6xTI2PW2JO) | 5:18 |
+| 49 | [The dreamer's reward](https://open.spotify.com/track/0D8roiP0829CL2ZOVuklmy) | [NOX](https://open.spotify.com/artist/27QgdEsqcHRgVAhy7zWTzw), [KAKKY](https://open.spotify.com/artist/0Ryt5TJOtBvoRwozJDW3sC), [Daiki](https://open.spotify.com/artist/6IhQv1vXucrd3kcngzsUpg), [HIBIKI](https://open.spotify.com/artist/4hUkfseB97lM6qhbcfwERG) | [The dreamer's reward](https://open.spotify.com/album/6gsz26twt4M8tGx1MtFdYB) | 5:18 |
 | 50 | [JINANBOU](https://open.spotify.com/track/2UtYmdBDMnhTNFrgGDdLhy) | [XAN](https://open.spotify.com/artist/5NfqonprYhdYuBctIrOv6B) | [JINANBOU](https://open.spotify.com/album/4XgqXpM2IeoIEcJzihn9MH) | 2:01 |
 | 51 | [Cheddar cheese \- Remix\-](https://open.spotify.com/track/2Fgi2wKzUoHAWRUD0HV1NL) | [Vega KfK](https://open.spotify.com/artist/0CuFgaQzA173GenlMNWZ8u), [E.V.P](https://open.spotify.com/artist/5D9NPQT1XN44peiYNVPfQc), [Hijvc Kid](https://open.spotify.com/artist/1s6kw5kqBkiaD5rjeqAhtH), [Tam yellie](https://open.spotify.com/artist/3vKzwMNdPspIkYPVvG557F) | [Cheddar cheese \(\-Remix\-\)](https://open.spotify.com/album/0LnHszTXui4fuQtct8wfvY) | 2:49 |
 | 52 | [CLOVER](https://open.spotify.com/track/3tEPX2fSLx5ugdhl0QpKng) | [Sound's Deli](https://open.spotify.com/artist/7dd46Nuonbm2HO2pZ8bdgB) | [CLOVER](https://open.spotify.com/album/1AKbPWDyGF2nTwVWuOsz7D) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [Don Julio](https://open.spotify.com/track/3qdu41Y9RmZaO7hjMFPivL) | [GEEKBOY](https://open.spotify.com/artist/2ENR5uEmMC3CEqg93awedG), [Yella Flat Boys](https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP) | [Don Julio](https://open.spotify.com/album/1jiEsRdQjfqr2fQulFewTj) | 2:40 |
 | 100 | [GINGINDEGO](https://open.spotify.com/track/1F0zihdKiGUlrR1YcaQbVR) | [Ryuk](https://open.spotify.com/artist/6XwuA8ruL7xjyyxxnUCjwX), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [GINGINDEGO](https://open.spotify.com/album/6bErHCwerAoOZsI2cEfXC2) | 1:51 |
 
-Snapshot ID: `MCxiODI3N2VmMGRhZjQyMDI1OWM2YWMwYzI3ZDY4ZmFmMjdmMGJhZWVj`
+Snapshot ID: `MCxkNTQ5ODQ3OWZjM2Y1YmE1NWMzYzQ3MDBkZTBlODlhZmY5ZmUwNGMz`

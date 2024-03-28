@@ -1,12 +1,12 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Alycia Lang",
-  "num_followers": 64449,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Pem",
+  "num_followers": 64668,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmExYTVmZDU3M2MzZTdiMWJjNDEwOWViZTVmNWNjOWNjZWQ4NDEz",
+  "snapshot_id": "MCwyZmQ3YWQ1MjdmN2UzZDQ5OWI1OTNiNDQ2MDYwNWIxNzIyMjY3NGMw",
   "tracks": [
     {
       "added_at": "2024-03-20 16:00:00",
@@ -25,20 +25,52 @@
       "url": "https://open.spotify.com/track/0HUkutrgF90j7Lok80vPKL"
     },
     {
-      "added_at": "2024-03-20 16:00:00",
+      "added_at": "2024-03-27 04:00:00",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/22i1EuwuPIc25Z5E8zKdzB"
+        "name": "Made your bed",
+        "url": "https://open.spotify.com/album/7wdelmJ9L3KHechBmBl0ey"
       },
       "artists": [
         {
-          "name": "h. pruz",
-          "url": "https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN"
+          "name": "Celia",
+          "url": "https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl"
         }
       ],
-      "duration_ms": 253000,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/1E1m6vWbDvApleEu9H2oVT"
+      "duration_ms": 174264,
+      "name": "Made your bed",
+      "url": "https://open.spotify.com/track/3caqqv8ODxoJXlkTHOttqu"
+    },
+    {
+      "added_at": "2024-03-27 04:00:00",
+      "album": {
+        "name": "Let Your Grip Dig In",
+        "url": "https://open.spotify.com/album/3UXJTnZdQOsnl4GwjTVuaG"
+      },
+      "artists": [
+        {
+          "name": "NumbDome",
+          "url": "https://open.spotify.com/artist/2dt0CUEEL1u22uqRoocBQP"
+        }
+      ],
+      "duration_ms": 283913,
+      "name": "Let Your Grip Dig In",
+      "url": "https://open.spotify.com/track/6xukXoM8FBei70MxGw58uD"
+    },
+    {
+      "added_at": "2024-03-27 04:00:00",
+      "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/20gw3rAOBS1PWn6WrcaOeG"
+      },
+      "artists": [
+        {
+          "name": "Esme Emerson",
+          "url": "https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/2nGo49pmg4s4ZLWOj3MsbH"
     },
     {
       "added_at": "2024-03-14 14:54:58",
@@ -55,6 +87,134 @@
       "duration_ms": 235382,
       "name": "awe",
       "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
+    },
+    {
+      "added_at": "2024-03-27 04:00:00",
+      "album": {
+        "name": "Easy Street",
+        "url": "https://open.spotify.com/album/6nFylBBNvvWG6UgpzsKkf3"
+      },
+      "artists": [
+        {
+          "name": "Frances Whitney",
+          "url": "https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E"
+        }
+      ],
+      "duration_ms": 219238,
+      "name": "Easy Street",
+      "url": "https://open.spotify.com/track/2gru7tFhiQQ2XHYBZlAus2"
+    },
+    {
+      "added_at": "2024-03-27 04:00:00",
+      "album": {
+        "name": "Lost in a Dream",
+        "url": "https://open.spotify.com/album/4RtRUvZstzZeNfpwHjfPD4"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Lewis",
+          "url": "https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw"
+        }
+      ],
+      "duration_ms": 217805,
+      "name": "Lost in a Dream",
+      "url": "https://open.spotify.com/track/0ehGyu9uYhq7M2A9psuPEd"
+    },
+    {
+      "added_at": "2024-03-27 19:41:04",
+      "album": {
+        "name": "Woke Up and No Feet",
+        "url": "https://open.spotify.com/album/2uwk0HAD7YmULtzePm1iCU"
+      },
+      "artists": [
+        {
+          "name": "Anastasia Coope",
+          "url": "https://open.spotify.com/artist/0L3BgWZcLnRmCNBE6flGZu"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "Woke Up and No Feet",
+      "url": "https://open.spotify.com/track/2nkqIRKZjrEKLRWNjTGsiQ"
+    },
+    {
+      "added_at": "2024-03-27 16:21:18",
+      "album": {
+        "name": "Belly",
+        "url": "https://open.spotify.com/album/3gYqdZ0yT5ZLDhlS7jzQGp"
+      },
+      "artists": [
+        {
+          "name": "Niamh Regan",
+          "url": "https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa"
+        }
+      ],
+      "duration_ms": 232936,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/2YoSXoYQVikdIkkNtLbk6L"
+    },
+    {
+      "added_at": "2024-03-27 04:00:00",
+      "album": {
+        "name": "I Miss July",
+        "url": "https://open.spotify.com/album/2BEpBA2cvZEQ0U5HP9PUVJ"
+      },
+      "artists": [
+        {
+          "name": "Marie Dresselhuis",
+          "url": "https://open.spotify.com/artist/6mti1miVznkj8ShJdAI1eL"
+        }
+      ],
+      "duration_ms": 204794,
+      "name": "I Miss July",
+      "url": "https://open.spotify.com/track/765JFRgMylIbuvJJcbqe3V"
+    },
+    {
+      "added_at": "2024-03-27 04:00:00",
+      "album": {
+        "name": "O Gone",
+        "url": "https://open.spotify.com/album/4WbL9vXTwyOQwRQa8umPSt"
+      },
+      "artists": [
+        {
+          "name": "Jay Anderson",
+          "url": "https://open.spotify.com/artist/6VyB5vvy1ftmsGlHfrXEca"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "O Gone",
+      "url": "https://open.spotify.com/track/6O5f0Yl8S3iuuxQYwD1ZlK"
+    },
+    {
+      "added_at": "2024-03-27 04:00:00",
+      "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/6dUsUL9Tq9kjH5rs6cTzTG"
+      },
+      "artists": [
+        {
+          "name": "The Hanseroth Twins",
+          "url": "https://open.spotify.com/artist/3WuWtZ0K4xLMVB2tuZswIZ"
+        }
+      ],
+      "duration_ms": 193320,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/58CeOJiraFnpXp8ul1F9cA"
+    },
+    {
+      "added_at": "2024-03-20 16:00:00",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/22i1EuwuPIc25Z5E8zKdzB"
+      },
+      "artists": [
+        {
+          "name": "h. pruz",
+          "url": "https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/1E1m6vWbDvApleEu9H2oVT"
     },
     {
       "added_at": "2024-03-20 16:00:00",
@@ -1491,150 +1651,6 @@
       "duration_ms": 153250,
       "name": "Half of forever",
       "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
-    },
-    {
-      "added_at": "2024-02-02 00:54:03",
-      "album": {
-        "name": "Smile for Your Mother",
-        "url": "https://open.spotify.com/album/05FPrF8KIahU8H5tR5F70S"
-      },
-      "artists": [
-        {
-          "name": "Cristina Kaminis",
-          "url": "https://open.spotify.com/artist/3gDgmsZ0EVomGqxUnTdGTO"
-        },
-        {
-          "name": "Anna Moss",
-          "url": "https://open.spotify.com/artist/79EqLrXbrtaK3sNgSQYoRE"
-        },
-        {
-          "name": "Handmade Moments",
-          "url": "https://open.spotify.com/artist/1dyhZOoZUFWMdK2U0QvMnO"
-        },
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
-        },
-        {
-          "name": "Maria Cardona",
-          "url": "https://open.spotify.com/artist/53cUAXXYDyfoAG0eSRVLbw"
-        }
-      ],
-      "duration_ms": 299565,
-      "name": "Smile for Your Mother",
-      "url": "https://open.spotify.com/track/1OjdMf1TraTrC1Ds11bJVE"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "Save Your Tears",
-        "url": "https://open.spotify.com/album/2idf6N6kQ05QLFeu1w91C9"
-      },
-      "artists": [
-        {
-          "name": "Asia Chow",
-          "url": "https://open.spotify.com/artist/5psfiJzM6PZbUzfah6tgqT"
-        }
-      ],
-      "duration_ms": 251308,
-      "name": "Save Your Tears",
-      "url": "https://open.spotify.com/track/7qGZkoqhgYvWREitCJhsKU"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "A Little Light in the Room",
-        "url": "https://open.spotify.com/album/5GVud36SI92iah5YFmXNcU"
-      },
-      "artists": [
-        {
-          "name": "Julian Spector",
-          "url": "https://open.spotify.com/artist/0Cd6wbzFm53orgr0tNXNXC"
-        }
-      ],
-      "duration_ms": 94103,
-      "name": "A Little Light in the Room",
-      "url": "https://open.spotify.com/track/4uo1N30D3Z2OAdgFrV63Gh"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "Wandering Souls",
-        "url": "https://open.spotify.com/album/3ypI1dsbQu9TLlTaJHGYZ2"
-      },
-      "artists": [
-        {
-          "name": "Essence Martins",
-          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
-        }
-      ],
-      "duration_ms": 215593,
-      "name": "Wandering Souls",
-      "url": "https://open.spotify.com/track/2V3Ru7gXqHTskwvV281kzy"
-    },
-    {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "Texas Wide",
-        "url": "https://open.spotify.com/album/2qqtJeHMwiB9sWFV9ugdHk"
-      },
-      "artists": [
-        {
-          "name": "Kate Stephenson",
-          "url": "https://open.spotify.com/artist/5RAwXhLQfEX5khIsfnvDne"
-        }
-      ],
-      "duration_ms": 148714,
-      "name": "Texas Wide",
-      "url": "https://open.spotify.com/track/7flgkD4d50MhuipLRe6HFL"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/18dUuN21ynvDoXmZPxb8ZH"
-      },
-      "artists": [
-        {
-          "name": "Hanna Emilie",
-          "url": "https://open.spotify.com/artist/2JQwvgLu8J0FgSMWVhVySb"
-        }
-      ],
-      "duration_ms": 153828,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/1GN5whVD9c2EuFdZurHwVb"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "On and On",
-        "url": "https://open.spotify.com/album/6nZICK71SyALCOPEockVyn"
-      },
-      "artists": [
-        {
-          "name": "Grace Cummings",
-          "url": "https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a"
-        }
-      ],
-      "duration_ms": 232932,
-      "name": "On and On",
-      "url": "https://open.spotify.com/track/33JEKyGrO3x2EObzwXMS54"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "The Weather",
-        "url": "https://open.spotify.com/album/25qUBBcHwugdN7lBr5GeIk"
-      },
-      "artists": [
-        {
-          "name": "JEMS",
-          "url": "https://open.spotify.com/artist/7A2LiVSPjG69nzTzssU1Y8"
-        }
-      ],
-      "duration_ms": 196704,
-      "name": "The Weather",
-      "url": "https://open.spotify.com/track/6uCSNdetzxuxuCFZl6ZT25"
     },
     {
       "added_at": "2024-01-10 17:00:00",

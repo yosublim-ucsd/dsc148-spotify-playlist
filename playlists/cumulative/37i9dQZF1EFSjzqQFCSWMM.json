@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Tripolar 3 (Deluxe)",
+        "url": "https://open.spotify.com/album/74qn9cs3X0iSPqJHVqI5Ih"
+      },
+      "artists": [
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186923,
+      "name": "One of One",
+      "url": "https://open.spotify.com/track/1bxwVCnjFoTgritZiI7hEb"
+    },
+    {
+      "album": {
         "name": "PRESCRIBED OVERDOSE",
         "url": "https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl"
       },

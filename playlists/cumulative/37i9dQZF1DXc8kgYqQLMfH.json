@@ -3766,7 +3766,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 137156,
       "name": "Couchmode",
       "url": "https://open.spotify.com/track/0mOSYHXYzIUan2YBsuMXe9"
@@ -12600,6 +12600,24 @@
       "duration_ms": 119031,
       "name": "Morning Routine",
       "url": "https://open.spotify.com/track/5xkFx1r5s899TF4eDlzIq4"
+    },
+    {
+      "album": {
+        "name": "morning snowfall",
+        "url": "https://open.spotify.com/album/5rPiiqeRJTAuQbEj9O3c36"
+      },
+      "artists": [
+        {
+          "name": "sozin",
+          "url": "https://open.spotify.com/artist/0XO6mvpyaIdmGMmpsTtyIj"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194572,
+      "name": "morning snowfall",
+      "url": "https://open.spotify.com/track/0OWOH3peRNugmlPPzBGqpQ"
     },
     {
       "album": {

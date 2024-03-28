@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 31638,
+  "2024-03-28": 31678,
   "date_first_scraped": "2022-06-10",
   "description": "Relaxing classical music to soothe your baby.",
   "name": "Classical Music for Babies",
@@ -32,6 +32,54 @@
     },
     {
       "album": {
+        "name": "Kuula: Complete Works for Solo Piano",
+        "url": "https://open.spotify.com/album/5ZhCzOuYyL2QXfUXSYypqi"
+      },
+      "artists": [
+        {
+          "name": "Toivo Kuula",
+          "url": "https://open.spotify.com/artist/2QEZLBp41V3t2Ua0bNIiBG"
+        },
+        {
+          "name": "Adam Johnson",
+          "url": "https://open.spotify.com/artist/4lMEnbAPKP5qkZM9CJXBq5"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224480,
+      "name": "6 Piano Pieces, Op. 26: No. 2, Pastoral Atmosphere",
+      "url": "https://open.spotify.com/track/2jgbIBve4VfgQREVKnINEO"
+    },
+    {
+      "album": {
+        "name": "Abendlied, Op. 85, No. 12 (Arr. for String Orchestra by Johan Svendsen)",
+        "url": "https://open.spotify.com/album/1lEgngrSglgOHxOM2AnRqZ"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Lucerne Festival Strings",
+          "url": "https://open.spotify.com/artist/0sABleOLUMLgjJa6mpIaVc"
+        },
+        {
+          "name": "Daniel Dodds",
+          "url": "https://open.spotify.com/artist/6o63U8OvSH1UfxT7xEbnEY"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202306,
+      "name": "Abendlied, Op. 85, No. 12 (Arr. for String Orchestra by Johan Svendsen)",
+      "url": "https://open.spotify.com/track/0QbizI8RErYJIi9ROgRM8Z"
+    },
+    {
+      "album": {
         "name": "Mozart: Works for Violin & Orchestra",
         "url": "https://open.spotify.com/album/4zETVNxxf0HT4iHXV0he0F"
       },
@@ -55,6 +103,24 @@
       "duration_ms": 517360,
       "name": "Adagio in E Major, K. 261",
       "url": "https://open.spotify.com/track/2vBuaUzWANdghLfM1nF0Yw"
+    },
+    {
+      "album": {
+        "name": "Adieux",
+        "url": "https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175492,
+      "name": "Adieux",
+      "url": "https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq"
     },
     {
       "album": {
@@ -124,6 +190,28 @@
     },
     {
       "album": {
+        "name": "Bambal\u00f3",
+        "url": "https://open.spotify.com/album/2Pxg7kjXogc6wNNmP80rHL"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        },
+        {
+          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
+          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161129,
+      "name": "Bambal\u00f3",
+      "url": "https://open.spotify.com/track/5rzY2HPvGBe7E2yKxXbRAE"
+    },
+    {
+      "album": {
         "name": "The English Viola",
         "url": "https://open.spotify.com/album/5L28fof2nWQNBwMmDvxtDA"
       },
@@ -169,6 +257,28 @@
       "duration_ms": 269226,
       "name": "Berceuse in D-Flat Major, Op. 57",
       "url": "https://open.spotify.com/track/10SzxcRqXfcJIlKKZlg1CP"
+    },
+    {
+      "album": {
+        "name": "Bizet sans Paroles",
+        "url": "https://open.spotify.com/album/0UbRmtk4reK9XEzz1yk2P4"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Nathana\u00ebl Gouin",
+          "url": "https://open.spotify.com/artist/6ycB2zc7NqE59KlP0WQCBl"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224333,
+      "name": "Chants du Rhin, WD 52: Les r\u00eaves",
+      "url": "https://open.spotify.com/track/0Kubohno5e03J30wNFg4B2"
     },
     {
       "album": {
@@ -870,6 +980,32 @@
     },
     {
       "album": {
+        "name": "Schumann & Schubert - Transcriptions for Clarinet & Harp",
+        "url": "https://open.spotify.com/album/2O1MCD0Yt1sh79kNyq3Gxk"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Anneleen Lenaerts",
+          "url": "https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I"
+        },
+        {
+          "name": "Dionysis Grammenos",
+          "url": "https://open.spotify.com/artist/1gyehD73iVuIYqL6Rltepc"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129919,
+      "name": "Schumann: 12 Gedichte aus Liebesfr\u00fchling, Op. 37: No. 11: Warum willst du andre fragen",
+      "url": "https://open.spotify.com/track/1NechTDnTtSaciAT6gmvJQ"
+    },
+    {
+      "album": {
         "name": "Beethoven: Cello Sonatas Op.69 & 102; Variations",
         "url": "https://open.spotify.com/album/78ZbLKWcIAkdgY50qDRMIA"
       },
@@ -915,6 +1051,24 @@
       "duration_ms": 425440,
       "name": "String Quartet No. 3 in D Major, Op. 18: II. Andante con moto",
       "url": "https://open.spotify.com/track/0o3Mcv1JOPsrnc3wBROq2S"
+    },
+    {
+      "album": {
+        "name": "Through The Blue (Piano Version)",
+        "url": "https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225494,
+      "name": "Through The Blue - Piano Version",
+      "url": "https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC"
     },
     {
       "album": {
@@ -1091,6 +1245,28 @@
       "duration_ms": 232333,
       "name": "Wind Quintet in E-Flat Major, Hess 19: II. Adagio maestoso",
       "url": "https://open.spotify.com/track/5TGCJDjLkKg05iT1ajUE1w"
+    },
+    {
+      "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/1JY1BKv5rj8ILQvHdz2Aaw"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122362,
+      "name": "Written on the Sky",
+      "url": "https://open.spotify.com/track/0x1sDBH8c2eAqmBSjwv4yd"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVmyIPX2ivrY"

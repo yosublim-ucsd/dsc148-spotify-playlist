@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 309282,
+  "num_followers": 309433,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2M4MjI0ZTI4ZTVmYjM1MTAyYWY0ODNiMmE1YTgyZjcxODBhODA1",
+  "snapshot_id": "MCxmYzYyODUyZDNiZGY4M2IzZDYyNTk5ZGJhNzZkODBiMDc2NjE3Y2Vm",
   "tracks": [
     {
       "added_at": "2024-03-13 08:19:05",
@@ -471,6 +471,26 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Moulayiten",
+        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Ahmad Sleiman",
+          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
+        }
+      ],
+      "duration_ms": 297593,
+      "name": "Moulayiten",
+      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Isla Bonita",
         "url": "https://open.spotify.com/album/1zpMJrknblXdoE5PW9xmr2"
       },
@@ -531,26 +551,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Moulayiten",
-        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
-        }
-      ],
-      "duration_ms": 297593,
-      "name": "Moulayiten",
-      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Dle Yaman (116 Deep Mix)",
         "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
       },
@@ -563,26 +563,6 @@
       "duration_ms": 438674,
       "name": "Dle Yaman (116 Deep Mix)",
       "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Enta Omry Remix 2022",
-        "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
-      },
-      "artists": [
-        {
-          "name": "Hijazi",
-          "url": "https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL"
-        },
-        {
-          "name": "Noel Kharman",
-          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Enta Omry Remix 2022",
-      "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -603,6 +583,26 @@
       "duration_ms": 431520,
       "name": "Le Beirut",
       "url": "https://open.spotify.com/track/7dpKMbwkvZUV9JKFpjaxp0"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Enta Omry Remix 2022",
+        "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
+      },
+      "artists": [
+        {
+          "name": "Hijazi",
+          "url": "https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL"
+        },
+        {
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Enta Omry Remix 2022",
+      "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/1bQuCY8PIVLbvSl0cHyivO"
+      },
+      "artists": [
+        {
+          "name": "Efemero",
+          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
+        }
+      ],
+      "duration_ms": 193684,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/6GSuQUeRCOEQ5JRnI8iZYo"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Bayati Shiraz (feat. Kenan Bayramli)",
         "url": "https://open.spotify.com/album/6huLdD5ZW7dOcrtlTRm1sf"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 186017,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/1bQuCY8PIVLbvSl0cHyivO"
-      },
-      "artists": [
-        {
-          "name": "Efemero",
-          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
-        }
-      ],
-      "duration_ms": 193684,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/6GSuQUeRCOEQ5JRnI8iZYo"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Lamouni",
-        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
-        }
-      ],
-      "duration_ms": 217647,
-      "name": "Lamouni",
-      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "MIRAN",
         "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 129145,
       "name": "MIRAN",
       "url": "https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Lamouni",
+        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+        }
+      ],
+      "duration_ms": 217647,
+      "name": "Lamouni",
+      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1483,30 +1483,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Salam",
-        "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
-      },
-      "artists": [
-        {
-          "name": "Anis Karek",
-          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        },
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 273502,
-      "name": "Rhim - Jad Halal Remix",
-      "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Tawada",
         "url": "https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M"
       },
@@ -1531,6 +1507,30 @@
       "duration_ms": 435121,
       "name": "Tawada - Saint Evo Remix",
       "url": "https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
+      },
+      "artists": [
+        {
+          "name": "Anis Karek",
+          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "duration_ms": 273502,
+      "name": "Rhim - Jad Halal Remix",
+      "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1607,22 +1607,18 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Ksser Essouk",
-        "url": "https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh"
+        "name": "Nomadic",
+        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
       },
       "artists": [
         {
-          "name": "Momo Ryuk",
-          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
-        },
-        {
-          "name": "Salah Hammadi",
-          "url": "https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T"
+          "name": "Hlm.Prod",
+          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
         }
       ],
-      "duration_ms": 326557,
-      "name": "Ksser Essouk",
-      "url": "https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF"
+      "duration_ms": 206339,
+      "name": "Nomadic",
+      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1647,34 +1643,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Nomadic",
-        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
+        "name": "Ksser Essouk",
+        "url": "https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh"
       },
       "artists": [
         {
-          "name": "Hlm.Prod",
-          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
-        }
-      ],
-      "duration_ms": 206339,
-      "name": "Nomadic",
-      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Younan",
-        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
-      },
-      "artists": [
+          "name": "Momo Ryuk",
+          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
+        },
         {
-          "name": "Al\u00ec Farahani",
-          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
+          "name": "Salah Hammadi",
+          "url": "https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T"
         }
       ],
-      "duration_ms": 418413,
-      "name": "Younan",
-      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
+      "duration_ms": 326557,
+      "name": "Ksser Essouk",
+      "url": "https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1691,6 +1675,22 @@
       "duration_ms": 178153,
       "name": "Roots",
       "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Younan",
+        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
+      },
+      "artists": [
+        {
+          "name": "Al\u00ec Farahani",
+          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
+        }
+      ],
+      "duration_ms": 418413,
+      "name": "Younan",
+      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1743,22 +1743,18 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Anatolian Vibe",
-        "url": "https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK"
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/0VCPlHKrNaXBmvDLuXdBVH"
       },
       "artists": [
         {
-          "name": "Kad1r",
-          "url": "https://open.spotify.com/artist/3jE4ASRCE1MR5GDzP2jkIi"
-        },
-        {
-          "name": "Bugra Atmaca",
-          "url": "https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23"
+          "name": "Berat Oz",
+          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
         }
       ],
-      "duration_ms": 187779,
-      "name": "Anatolian Vibe",
-      "url": "https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld"
+      "duration_ms": 176400,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/6swUlpIZQ3ogPdfnn2Sh5Y"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1783,6 +1779,26 @@
       "duration_ms": 347855,
       "name": "El Hawa",
       "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Anatolian Vibe",
+        "url": "https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK"
+      },
+      "artists": [
+        {
+          "name": "Kad1r",
+          "url": "https://open.spotify.com/artist/3jE4ASRCE1MR5GDzP2jkIi"
+        },
+        {
+          "name": "Bugra Atmaca",
+          "url": "https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23"
+        }
+      ],
+      "duration_ms": 187779,
+      "name": "Anatolian Vibe",
+      "url": "https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1847,22 +1863,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/0VCPlHKrNaXBmvDLuXdBVH"
-      },
-      "artists": [
-        {
-          "name": "Berat Oz",
-          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/6swUlpIZQ3ogPdfnn2Sh5Y"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Hayati",
         "url": "https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ"
       },
@@ -1895,6 +1895,26 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "all the things i got",
+        "url": "https://open.spotify.com/album/6YDWYDGrrEIrTc4mC32b06"
+      },
+      "artists": [
+        {
+          "name": "Faruk Orakci",
+          "url": "https://open.spotify.com/artist/2jjH04yNhYlg9ELbQnzEGe"
+        },
+        {
+          "name": "Ceren Toks\u00f6z",
+          "url": "https://open.spotify.com/artist/0myjfPfYo0O5lpWRZZMpzT"
+        }
+      ],
+      "duration_ms": 145210,
+      "name": "all the things i got",
+      "url": "https://open.spotify.com/track/7yKrNNtG7zSXceOoQf1XQv"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Hebele Hubulu & Belantash",
         "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
       },
@@ -1907,22 +1927,6 @@
       "duration_ms": 484644,
       "name": "Hebele Hubulu",
       "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Viraha",
-        "url": "https://open.spotify.com/album/1FWAZzzfsj8Xpyt7NY5URT"
-      },
-      "artists": [
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        }
-      ],
-      "duration_ms": 171534,
-      "name": "Viraha",
-      "url": "https://open.spotify.com/track/6ecbcjg67nbaXzPU4dvac7"
     }
   ],
   "unique_name": "mosaic",

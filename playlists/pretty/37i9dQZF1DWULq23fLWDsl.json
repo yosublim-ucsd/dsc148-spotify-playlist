@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 239499,
+  "num_followers": 239672,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGJhNWVjMDFkMDY3MzZmMGJjN2Q0NDIyY2I2MTljNTdjYzg0NTJk",
+  "snapshot_id": "MCwxMTIyODZhOTg3MGRmYmIxYWMyYmFlYWE1YjdkOGMzNGQ0OWI1NmE5",
   "tracks": [
     {
       "added_at": "2024-03-18 13:17:02",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
+        "name": "I Can't Handle Change",
+        "url": "https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX"
+      },
+      "artists": [
+        {
+          "name": "Roar",
+          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+        }
+      ],
+      "duration_ms": 198213,
+      "name": "I Can't Handle Change",
+      "url": "https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
         "name": "Passive Me, Aggressive You",
         "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Rivers and Roads",
-      "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
         "name": "Plastic Beach",
         "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
       },
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "I Can't Handle Change",
-        "url": "https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX"
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
       "artists": [
         {
-          "name": "Roar",
-          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 198213,
-      "name": "I Can't Handle Change",
-      "url": "https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9"
+      "duration_ms": 284000,
+      "name": "Rivers and Roads",
+      "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
         "name": "Passive Me, Aggressive You",
         "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 238133,
       "name": "Punching In A Dream",
       "url": "https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "The Suburbs",
-        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 315200,
-      "name": "The Suburbs",
-      "url": "https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
         "name": "The Wild Hunt",
         "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 255853,
       "name": "Love is All",
       "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
+        "name": "The Suburbs",
+        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 315200,
+      "name": "The Suburbs",
+      "url": "https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "Flaws",
-        "url": "https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 176071,
-      "name": "Ivy & Gold",
-      "url": "https://open.spotify.com/track/0ej0gx9JY7fNJv9thW5UEe"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
         "name": "Forgiveness Rock Record",
         "url": "https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 309306,
       "name": "Sweetest Kill",
       "url": "https://open.spotify.com/track/488u1IbVEsaC7fxjABWjHx"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
+        "name": "Flaws",
+        "url": "https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 176071,
+      "name": "Ivy & Gold",
+      "url": "https://open.spotify.com/track/0ej0gx9JY7fNJv9thW5UEe"
     },
     {
       "added_at": "2024-03-18 13:17:02",

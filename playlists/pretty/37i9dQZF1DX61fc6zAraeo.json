@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98174,
+  "num_followers": 98184,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjdkN2YxNGIyMjRlMDViMzc1OTc2OTQ1MmM2OWNlYzg3MzExOWMw",
+  "snapshot_id": "MCwwOGJlMjk2OTlkM2NhMDRkOWI3YmM4MjRjNTk1OTg5ZDU0YTMxNTMx",
   "tracks": [
     {
       "added_at": "2024-03-26 11:00:10",
@@ -51,22 +51,6 @@
     {
       "added_at": "2024-03-26 11:00:10",
       "album": {
-        "name": "If U Need It",
-        "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "If U Need It",
-      "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
-    },
-    {
-      "added_at": "2024-03-26 11:00:10",
-      "album": {
         "name": "Mwaki (Ti\u00ebsto's VIP Mix)",
         "url": "https://open.spotify.com/album/3pbFWOxjxLdlyxapT21PLe"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 160439,
       "name": "Mwaki - Ti\u00ebsto's VIP Mix",
       "url": "https://open.spotify.com/track/3bYSuNFC8UqtpTRKBcDtZf"
+    },
+    {
+      "added_at": "2024-03-26 11:00:10",
+      "album": {
+        "name": "If U Need It",
+        "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "If U Need It",
+      "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
     },
     {
       "added_at": "2024-03-26 11:00:10",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-03-26 11:00:10",
       "album": {
+        "name": "Needing You",
+        "url": "https://open.spotify.com/album/1SKUtzbpnb3sNj0EWBiUF7"
+      },
+      "artists": [
+        {
+          "name": "Laura van Dam",
+          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+        }
+      ],
+      "duration_ms": 216190,
+      "name": "Needing You",
+      "url": "https://open.spotify.com/track/36TDp73ujhbKnX6qxPqjmb"
+    },
+    {
+      "added_at": "2024-03-26 11:00:10",
+      "album": {
         "name": "Waste My Time",
         "url": "https://open.spotify.com/album/11IxazZzeXvHoxyicCZ7JY"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 153024,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/4KN3Ic9B9lCJ60drS78Pe8"
-    },
-    {
-      "added_at": "2024-03-26 11:00:10",
-      "album": {
-        "name": "Needing You",
-        "url": "https://open.spotify.com/album/1SKUtzbpnb3sNj0EWBiUF7"
-      },
-      "artists": [
-        {
-          "name": "Laura van Dam",
-          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
-        }
-      ],
-      "duration_ms": 216190,
-      "name": "Needing You",
-      "url": "https://open.spotify.com/track/36TDp73ujhbKnX6qxPqjmb"
     },
     {
       "added_at": "2024-03-26 11:00:10",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2024-03-26 11:00:10",
       "album": {
-        "name": "Nothing In Common",
-        "url": "https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        },
-        {
-          "name": "Raphi",
-          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nothing In Common",
-      "url": "https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR"
-    },
-    {
-      "added_at": "2024-03-26 11:00:10",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4DKA5qXjV1vihrD5m2lVWD"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 174624,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1B4OIfL8ovAHujVlHvhnAq"
+    },
+    {
+      "added_at": "2024-03-26 11:00:10",
+      "album": {
+        "name": "Nothing In Common",
+        "url": "https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "Raphi",
+          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nothing In Common",
+      "url": "https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR"
     },
     {
       "added_at": "2024-03-26 11:00:10",

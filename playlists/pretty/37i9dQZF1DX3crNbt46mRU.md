@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,585 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,591 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 99 | [Love Me In The Morning](https://open.spotify.com/track/5fV9MjZZ6DwHZUABZzIy2l) | [SOFIIA](https://open.spotify.com/artist/55EPKpLXwOAvgT7Xya8ROI) | [Love Me In The Morning](https://open.spotify.com/album/7DPJ6utT5RpQt7tCP05ORd) | 2:27 |
 | 100 | [Guide Me Home](https://open.spotify.com/track/3mi8t9JLEASpg8od6loHu8) | [Stanfour](https://open.spotify.com/artist/0Ku9jFTJvPANO4LBOyJoWv) | [Guide Me Home](https://open.spotify.com/album/0NMPWDJSBIEDAXlahaJqKa) | 2:16 |
 
-Snapshot ID: `MCw1Mzc3YzhlNjUyZjY1YjE4ZmY1YjUwMjZiYTg1ODAzOTMyODc2NzY2`
+Snapshot ID: `MCxiNTU1Yzc1MzkzYTMzOTk0NDdkN2E4YTZjNGRhYmRmNTBlM2U3MWUz`

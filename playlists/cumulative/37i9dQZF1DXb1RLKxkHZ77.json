@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "Alamak Raya Lagi!",
+        "url": "https://open.spotify.com/album/2Rggi2m4YvzePLbKMJg74o"
+      },
+      "artists": [
+        {
+          "name": "De Fam",
+          "url": "https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Alamak Raya Lagi!",
+      "url": "https://open.spotify.com/track/2VTLUKd4CbW14uKI973vl4"
+    },
+    {
+      "album": {
         "name": "Ali Baba",
         "url": "https://open.spotify.com/album/4uOypUiRUVXAAoFVkhwx4K"
       },
@@ -3272,7 +3290,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 216749,
       "name": "Jiwa Raga",
       "url": "https://open.spotify.com/track/0H1SerRzt4EhRQjKyI9MYV"
@@ -3700,6 +3718,28 @@
       "duration_ms": 229286,
       "name": "Kesetiaan",
       "url": "https://open.spotify.com/track/74m4dZz52eJRIu7TWVa9vL"
+    },
+    {
+      "album": {
+        "name": "Ketipak Ketipung Raya",
+        "url": "https://open.spotify.com/album/1rP89pooj6Y82ZCylqUzX6"
+      },
+      "artists": [
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        },
+        {
+          "name": "Aziz Harun",
+          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150882,
+      "name": "Ketipak Ketipung Raya",
+      "url": "https://open.spotify.com/track/7eaCFseO4fOljCMxLTM5ta"
     },
     {
       "album": {
@@ -7816,7 +7856,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 196153,
       "name": "Urat",
       "url": "https://open.spotify.com/track/5PbQbKnUkLv2fCNBI0aQUo"

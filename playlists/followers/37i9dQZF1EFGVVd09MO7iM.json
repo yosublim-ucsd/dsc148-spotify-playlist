@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 3163,
+  "2024-03-28": 3179,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp\">Pharrell Williams</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Pharrell Williams",
@@ -717,7 +717,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 316250,
       "name": "Bend & Break",
       "url": "https://open.spotify.com/track/4IoCXKpR6xIZWAIU1o4Utp"
@@ -1066,6 +1066,24 @@
     },
     {
       "album": {
+        "name": "The Downtown Riddim",
+        "url": "https://open.spotify.com/album/3x27ja7NU25Xm33xb9nwHU"
+      },
+      "artists": [
+        {
+          "name": "Lutan Fyah",
+          "url": "https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218040,
+      "name": "Bossman",
+      "url": "https://open.spotify.com/track/3aHSF2U89PebbBFDx0VYv8"
+    },
+    {
+      "album": {
         "name": "Tarantula",
         "url": "https://open.spotify.com/album/22qrzIjC0d35poqKloCQaU"
       },
@@ -1354,6 +1372,24 @@
     },
     {
       "album": {
+        "name": "January Flower",
+        "url": "https://open.spotify.com/album/4DvC7DqqEcba2kHAlkUL5x"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237413,
+      "name": "Can't Look Back",
+      "url": "https://open.spotify.com/track/6nW8EcB8IVpXOXPQt0rFxb"
+    },
+    {
+      "album": {
         "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
         "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
       },
@@ -1483,6 +1519,28 @@
       "duration_ms": 288040,
       "name": "Candy (Drippin' Like Water) - Final Album Version (Explicit)",
       "url": "https://open.spotify.com/track/0E1NCpOWUweGB674Hhu7sc"
+    },
+    {
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218990,
+      "name": "Candy Paint (feat. Bun B)",
+      "url": "https://open.spotify.com/track/5Su82DCebDzhL88yWyUasx"
     },
     {
       "album": {
@@ -1625,7 +1683,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 258660,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/7Lflb7ssXJ6hCcoMf5U1Wb"
@@ -1803,6 +1861,28 @@
       "duration_ms": 208725,
       "name": "Come Get It Bae",
       "url": "https://open.spotify.com/track/3FGRLdKEnQStgnG6mnO8gV"
+    },
+    {
+      "album": {
+        "name": "BODR",
+        "url": "https://open.spotify.com/album/4KzJG9VVC0zxlZrRqJTCvE"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169926,
+      "name": "Conflicted",
+      "url": "https://open.spotify.com/track/5T4zLnPeoi7bES97eG0Z7h"
     },
     {
       "album": {
@@ -3319,7 +3399,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 251880,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/4RflvLWOM5BABk9fvEa8zU"
@@ -5495,7 +5575,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 476626,
       "name": "Lost Queen",
       "url": "https://open.spotify.com/track/2SYCj35WXBydywsRJl91cE"
@@ -5721,6 +5801,24 @@
       "duration_ms": 289426,
       "name": "Midsection (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/7xn9uXfYkFXfMJgaQxgbCN"
+    },
+    {
+      "album": {
+        "name": "boy irl girl url",
+        "url": "https://open.spotify.com/album/288XdTVygdmmIac5TX7r4X"
+      },
+      "artists": [
+        {
+          "name": "meganeko",
+          "url": "https://open.spotify.com/artist/5tXUIbGjW1uqXoy8cPW8MB"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235312,
+      "name": "Milkshake",
+      "url": "https://open.spotify.com/track/47KgTVohM1uQi1e4ybZwPq"
     },
     {
       "album": {
@@ -6572,6 +6670,24 @@
     },
     {
       "album": {
+        "name": "Provider",
+        "url": "https://open.spotify.com/album/7uSaHPXSYaRB3FxLOmatG9"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243238,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/6R6ihJhRbgu7JxJKIbW57w"
+    },
+    {
+      "album": {
         "name": "In Search Of...",
         "url": "https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI"
       },
@@ -6681,7 +6797,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 295400,
       "name": "Recognize (feat. Chris Rock)",
       "url": "https://open.spotify.com/track/5NSmT4lUFahOBEYSKYmCj1"
@@ -8214,6 +8330,24 @@
     },
     {
       "album": {
+        "name": "The Preview",
+        "url": "https://open.spotify.com/album/0BfzIrlViS9devVRvpf4tw"
+      },
+      "artists": [
+        {
+          "name": "Chiddy Bang",
+          "url": "https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176946,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/4MQsMfVxJtu79nUHwWD2WQ"
+    },
+    {
+      "album": {
         "name": "Sweetener",
         "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
       },
@@ -8723,6 +8857,24 @@
       "duration_ms": 194826,
       "name": "Up There",
       "url": "https://open.spotify.com/track/2rKmNEYrQxaOPZrOWKZpOc"
+    },
+    {
+      "album": {
+        "name": "epiphany",
+        "url": "https://open.spotify.com/album/5OPlgjfJT4M8WNZNtOvUGB"
+      },
+      "artists": [
+        {
+          "name": "KA$HDAMI",
+          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103862,
+      "name": "Up!",
+      "url": "https://open.spotify.com/track/6RJsaZuO6iqrMszA55RFds"
     },
     {
       "album": {

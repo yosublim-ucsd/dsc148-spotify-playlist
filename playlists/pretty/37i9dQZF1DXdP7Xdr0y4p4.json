@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 13385,
+  "num_followers": 13389,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWEyOWY3OGUyMjRmNGQwMzlhOWMwYWVlMjBjZjNkYThhMjRhYjkz",
+  "snapshot_id": "MCxjMzRmZGJjNGZkNDJhYzkwM2JkYjU3NmRkNWIyMmQ2MTcxM2U2NWQw",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Let's Just Praise The Lord",
-        "url": "https://open.spotify.com/album/4JKJQyS9iv3qVBeUsY8BIi"
-      },
-      "artists": [
-        {
-          "name": "Gaither Vocal Band",
-          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
-        }
-      ],
-      "duration_ms": 312883,
-      "name": "Revelation Song",
-      "url": "https://open.spotify.com/track/509nwQdYfumwpK4OMCz9ZM"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/5stgFFoGFOkFz9gzvLMFRl"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 149213,
       "name": "Come & Dine",
       "url": "https://open.spotify.com/track/1EVDgJXZpD3DXKH1PLXWtq"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Let's Just Praise The Lord",
+        "url": "https://open.spotify.com/album/4JKJQyS9iv3qVBeUsY8BIi"
+      },
+      "artists": [
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        }
+      ],
+      "duration_ms": 312883,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/509nwQdYfumwpK4OMCz9ZM"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "On Jordan's Stormy Banks",
-        "url": "https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "On Jordan's Stormy Banks",
-      "url": "https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "He Touched Me",
         "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 207440,
       "name": "He Touched Me",
       "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "On Jordan's Stormy Banks",
+        "url": "https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "On Jordan's Stormy Banks",
+      "url": "https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "I Am Not Alone",
-        "url": "https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA"
-      },
-      "artists": [
-        {
-          "name": "Jack Greene",
-          "url": "https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "King of Kings",
-      "url": "https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Bring That Giant Down",
         "url": "https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 208359,
       "name": "Bring That Giant Down",
       "url": "https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "I Am Not Alone",
+        "url": "https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA"
+      },
+      "artists": [
+        {
+          "name": "Jack Greene",
+          "url": "https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "King of Kings",
+      "url": "https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Come On In",
-        "url": "https://open.spotify.com/album/6fomyXP5lxMAmm1yKXmIHV"
-      },
-      "artists": [
-        {
-          "name": "The Guardians",
-          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Cast My Care",
-      "url": "https://open.spotify.com/track/5DFuyhTAYErvppuImjKHvo"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "The Lighthouse (50 Year Celebration)",
         "url": "https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 262212,
       "name": "The Lighthouse - 50 Year Celebration",
       "url": "https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Come On In",
+        "url": "https://open.spotify.com/album/6fomyXP5lxMAmm1yKXmIHV"
+      },
+      "artists": [
+        {
+          "name": "The Guardians",
+          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Cast My Care",
+      "url": "https://open.spotify.com/track/5DFuyhTAYErvppuImjKHvo"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Not For Long",
-        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
-      },
-      "artists": [
-        {
-          "name": "The Guardians",
-          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Not For Long",
-      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "The World Needs a Song",
         "url": "https://open.spotify.com/album/0GdNxipb3VVA8WDXQ3QMLb"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 157500,
       "name": "Pass Me Not Oh Gentle Saviour",
       "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Not For Long",
+        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
+      },
+      "artists": [
+        {
+          "name": "The Guardians",
+          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Not For Long",
+      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1319,18 +1319,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "The World Needs a Song",
-        "url": "https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ"
+        "name": "Every Story Whispers His Name",
+        "url": "https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl"
       },
       "artists": [
         {
-          "name": "The Lore Family",
-          "url": "https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94"
+          "name": "The Old Paths",
+          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
+        },
+        {
+          "name": "Anthem Edition",
+          "url": "https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5"
         }
       ],
-      "duration_ms": 191056,
-      "name": "The World Needs a Song",
-      "url": "https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T"
+      "duration_ms": 235000,
+      "name": "Every Story Whispers His Name",
+      "url": "https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m"
     }
   ],
   "unique_name": "Streets Of Gold",

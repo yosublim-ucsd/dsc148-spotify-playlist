@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 24,
+  "2024-03-28": 25,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4faXS5M3wmHrYeRCoMXyUg\">Katharina Emendoerfer</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Katharina Emendoerfer",
@@ -815,6 +815,24 @@
       "duration_ms": 174333,
       "name": "OHNE DICH",
       "url": "https://open.spotify.com/track/71hdTxlg3hYTBomSwAG0mM"
+    },
+    {
+      "album": {
+        "name": "One More Night to Go",
+        "url": "https://open.spotify.com/album/4MGkPbRnNQKX3aPgB6slEO"
+      },
+      "artists": [
+        {
+          "name": "Swasion",
+          "url": "https://open.spotify.com/artist/2laSdQ3VWlxoqY1HOV6KFm"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158677,
+      "name": "One More Night to Go",
+      "url": "https://open.spotify.com/track/4xylMnIhy4TEpsKwFW1jFd"
     },
     {
       "album": {

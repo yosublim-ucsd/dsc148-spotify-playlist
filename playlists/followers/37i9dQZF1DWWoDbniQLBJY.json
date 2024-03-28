@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 1940718,
+  "2024-03-28": 1940718,
   "date_first_scraped": "2021-12-30",
   "description": "Aqu\u00ed viven las canciones ac\u00fasticas. Cover: Maria Becerra",
   "name": "Ac\u00fasticas",
@@ -1709,7 +1709,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 223634,
       "name": "La Parte Buena",
       "url": "https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ"
@@ -3517,6 +3517,24 @@
       "duration_ms": 205010,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
+    },
+    {
+      "album": {
+        "name": "Un Cari\u00f1ito (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/74fF7h1oaKiGaUQBVvScwu"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210942,
+      "name": "Un Cari\u00f1ito - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6yafaQ3bGzRgC6Rr2gRGxt"
     },
     {
       "album": {

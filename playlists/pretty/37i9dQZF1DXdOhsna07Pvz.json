@@ -1,12 +1,12 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 71074,
+  "num_followers": 71116,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2FiNTJjYzNiYzBjN2YwZTIyMDhhZGEzOGU4ZDQwOTA5NjI1MDc2",
+  "snapshot_id": "MCxlMmY0MjMwNjI4Nzg5NjgyOWQ2MmM1NTZmNWZjYTk1OWI5YjBjZGYx",
   "tracks": [
     {
       "added_at": "2022-09-22 18:13:04",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Tim Maia 1971",
-        "url": "https://open.spotify.com/album/1crN3RnAw8N6BztzuEAo8A"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 153790,
-      "name": "N\u00e3o Quero Dinheiro (S\u00f3 Quero Amar)",
-      "url": "https://open.spotify.com/track/0SfcG65T1KKCj5NQffpzQR"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Rita Hits",
         "url": "https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 127840,
       "name": "Lan\u00e7a Perfume",
       "url": "https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Tim Maia 1971",
+        "url": "https://open.spotify.com/album/1crN3RnAw8N6BztzuEAo8A"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 153790,
+      "name": "N\u00e3o Quero Dinheiro (S\u00f3 Quero Amar)",
+      "url": "https://open.spotify.com/track/0SfcG65T1KKCj5NQffpzQR"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Bom Demais",
-        "url": "https://open.spotify.com/album/1LGy5dn6nMFpiqG3mJlfoz"
+        "name": "Bebadosamba",
+        "url": "https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf"
       },
       "artists": [
         {
-          "name": "Ara Ketu",
-          "url": "https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog"
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
         }
       ],
-      "duration_ms": 239026,
-      "name": "Ara Ketu Bom Demais",
-      "url": "https://open.spotify.com/track/2pgP6IT08m0Uw9cEMZM7A6"
+      "duration_ms": 205200,
+      "name": "Timoneiro",
+      "url": "https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -403,18 +403,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Bebadosamba",
-        "url": "https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf"
+        "name": "Bom Demais",
+        "url": "https://open.spotify.com/album/1LGy5dn6nMFpiqG3mJlfoz"
       },
       "artists": [
         {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+          "name": "Ara Ketu",
+          "url": "https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Timoneiro",
-      "url": "https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G"
+      "duration_ms": 239026,
+      "name": "Ara Ketu Bom Demais",
+      "url": "https://open.spotify.com/track/2pgP6IT08m0Uw9cEMZM7A6"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Tete a Tete Margareth",
-        "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
-      },
-      "artists": [
-        {
-          "name": "Margareth Menezes",
-          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
-        }
-      ],
-      "duration_ms": 334133,
-      "name": "Fara\u00f3",
-      "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Conversa Fiada",
         "url": "https://open.spotify.com/album/2V0ZVQuPdzePp6hO19WFWm"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Retratos",
-        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
+        "name": "Tete a Tete Margareth",
+        "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
       },
       "artists": [
         {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+          "name": "Margareth Menezes",
+          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
         }
       ],
-      "duration_ms": 261733,
-      "name": "Canto Das Tr\u00eas Ra\u00e7as",
-      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
+      "duration_ms": 334133,
+      "name": "Fara\u00f3",
+      "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -715,6 +699,22 @@
       "duration_ms": 234893,
       "name": "Chega Mais",
       "url": "https://open.spotify.com/track/4DIabg0zSDn6xoq810Spqn"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 261733,
+      "name": "Canto Das Tr\u00eas Ra\u00e7as",
+      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Pochete",
+        "url": "https://open.spotify.com/album/3WLyLlxq0JJMAeiGPpge1S"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 235712,
+      "name": "Pochete",
+      "url": "https://open.spotify.com/track/3VOwZvqUNBLXsvIqxmjFJ2"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Bixinho (Lux & Tr\u00f3ia \u2013 Remix)",
         "url": "https://open.spotify.com/album/6swse685DzZyyj2sxe8hl2"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 207916,
       "name": "Bixinho - Lux & Tr\u00f3ia \u2013 Remix",
       "url": "https://open.spotify.com/track/4sUQddjXIU07mUYcax8udC"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Pochete",
-        "url": "https://open.spotify.com/album/3WLyLlxq0JJMAeiGPpge1S"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 235712,
-      "name": "Pochete",
-      "url": "https://open.spotify.com/track/3VOwZvqUNBLXsvIqxmjFJ2"
     },
     {
       "added_at": "2022-09-22 18:13:04",

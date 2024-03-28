@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. Enigma Norteño, Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,740 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,030 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [La Jeepeta](https://open.spotify.com/track/2fTTzQH6SGFZ3WWBVG6Ub3) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Jorge Duran C](https://open.spotify.com/artist/3g3A0QVWCfSiby8NxjuZ1N) | [La Jeepeta](https://open.spotify.com/album/3RU0FfyxymCbPts9Tj2w91) | 2:28 |
 | 75 | [Me Llamaron Asesina](https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Me Llamaron Asesina](https://open.spotify.com/album/728sapsjppB98wPX2yckAC) | 3:05 |
 
-Snapshot ID: `MCxhMWE1OTNkZTRmMzJjNTE5ZGZlMzNiMDFmNzJmZDRhNGUwYzg2MzZl`
+Snapshot ID: `MCwyZGU5ZDc1YzVhNjY1YmRjNDE5MDlhMTUwZmZkMzZlMDQxODA4OWM2`

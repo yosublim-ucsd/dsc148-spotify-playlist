@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 67342,
+  "num_followers": 67350,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDA3MzFjOTVjYjFhNzMxYzI1ZmQzNzc3ZDI4ZTdiMWEzMjEzOTIx",
+  "snapshot_id": "MCxlYzhjYTNlYWNjMDRiOTQ0YWZhODQ2YzBhNjAzNzExM2MwYzk1MzU1",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Anatolia",
-        "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
-      },
-      "artists": [
-        {
-          "name": "Thylacine",
-          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
-        }
-      ],
-      "duration_ms": 309840,
-      "name": "Anatolia",
-      "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 361160,
       "name": "Blurred - Bonobo Remix",
       "url": "https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Anatolia",
+        "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
+      },
+      "artists": [
+        {
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        }
+      ],
+      "duration_ms": 309840,
+      "name": "Anatolia",
+      "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Drone Logic",
+        "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 342853,
+      "name": "Knowing We'll Be Here",
+      "url": "https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Luscious Rain",
         "url": "https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Drone Logic",
-        "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/7MZG3LSOOdw5tfFFN9OJUs"
       },
       "artists": [
         {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+          "name": "Third Son",
+          "url": "https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc"
         }
       ],
-      "duration_ms": 342853,
-      "name": "Knowing We'll Be Here",
-      "url": "https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7"
+      "duration_ms": 92017,
+      "name": "Truman Sleeps",
+      "url": "https://open.spotify.com/track/0BXOKtZDCf9gLOMmqPZfAY"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -683,22 +699,6 @@
       "duration_ms": 250936,
       "name": "Youth",
       "url": "https://open.spotify.com/track/5DvG9PknutxGzDCFNJerg0"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Retrograde",
-        "url": "https://open.spotify.com/album/7MZG3LSOOdw5tfFFN9OJUs"
-      },
-      "artists": [
-        {
-          "name": "Third Son",
-          "url": "https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc"
-        }
-      ],
-      "duration_ms": 92017,
-      "name": "Truman Sleeps",
-      "url": "https://open.spotify.com/track/0BXOKtZDCf9gLOMmqPZfAY"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bortz",
-          "url": "https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi"
-        }
-      ],
-      "duration_ms": 308877,
-      "name": "Holding You",
-      "url": "https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "When the Rain",
         "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 400327,
       "name": "Deep Eyes Blue Skies",
       "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bortz",
+          "url": "https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi"
+        }
+      ],
+      "duration_ms": 308877,
+      "name": "Holding You",
+      "url": "https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Interlife",
-        "url": "https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1"
-      },
-      "artists": [
-        {
-          "name": "Aroma Pitch",
-          "url": "https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC"
-        }
-      ],
-      "duration_ms": 281531,
-      "name": "Lotus Bass",
-      "url": "https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Zetex",
         "url": "https://open.spotify.com/album/2IRIOFPm3XmATAoB9LomVY"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "The Haunted House of House",
-        "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
+        "name": "Interlife",
+        "url": "https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1"
       },
       "artists": [
         {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+          "name": "Aroma Pitch",
+          "url": "https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC"
         }
       ],
-      "duration_ms": 346640,
-      "name": "Cow Palace",
-      "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
+      "duration_ms": 281531,
+      "name": "Lotus Bass",
+      "url": "https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -863,6 +847,22 @@
       "duration_ms": 303734,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/4yAGUSWR2xzOEV0SLgBWZX"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "The Haunted House of House",
+        "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 346640,
+      "name": "Cow Palace",
+      "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
     },
     {
       "added_at": "2023-06-09 18:05:35",

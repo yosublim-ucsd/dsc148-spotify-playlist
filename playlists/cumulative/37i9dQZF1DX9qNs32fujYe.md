@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: FLAT BLACK
 
-816 songs - 2 day 12 hr 23 min
+817 songs - 2 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Amazonia](https://open.spotify.com/track/1GWtUkDQk7XC35r7kTPfqx) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 5:00 | 2022-07-13 | 2023-03-11 |
 | [Angel In Disgrace](https://open.spotify.com/track/2yoCtR2C0sMFgII70RosuY) | [The Raven Age](https://open.spotify.com/artist/1Ia5iTYHMBsMQfi7Fbcbuw) | [The Raven Age](https://open.spotify.com/album/59xXjvaaliSM6MUAxcZ6Ho) | 5:28 | 2021-12-17 | 2022-07-09 |
 | [Angel In Disgrace](https://open.spotify.com/track/4qxXNYWAnjQhLDy0fAg9bL) | [The Raven Age](https://open.spotify.com/artist/1Ia5iTYHMBsMQfi7Fbcbuw) | [The Raven Age](https://open.spotify.com/album/4sxjCBlUj4Gq4KecyQDS07) | 5:28 | 2022-07-08 | 2024-03-11 |
+| [Angry God Of Earth](https://open.spotify.com/track/7hMlKC8T4RUcJDI5iYJRcz) | [ARKA'N ASRAFOKOR](https://open.spotify.com/artist/6l8FgxcVWdqGn25uZY2rgY) | [Angry God Of Earth](https://open.spotify.com/album/6tvx9nUL9IPq6U3Pss15rJ) | 3:35 | 2024-03-27 |  |
 | [Animals](https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:04 | 2022-07-13 |  |
 | [Archangel](https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Archangel](https://open.spotify.com/album/3nwMvp5aCT0IUYXNATk4b2) | 3:23 | 2021-12-17 | 2023-10-30 |
 | [Archangel](https://open.spotify.com/track/63aGgWIoGfl3wxykzje8eJ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Manifest](https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa) | 3:23 | 2022-07-08 | 2023-01-02 |
@@ -413,7 +414,7 @@
 | [Master of Puppets](https://open.spotify.com/track/799XxzSlWNYkuWJxUbuGnF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 8:34 | 2022-11-11 | 2022-11-13 |
 | [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 | 2022-07-01 | 2022-07-29 |
 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-07-08 |  |
-| [Masters of War](https://open.spotify.com/track/4Avnu5FR70qWD9VxandTWe) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Masters of War](https://open.spotify.com/album/0w8qn4MsyCw0d8i98QiZTh) | 4:34 | 2021-12-17 |  |
+| [Masters of War](https://open.spotify.com/track/4Avnu5FR70qWD9VxandTWe) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Masters of War](https://open.spotify.com/album/0w8qn4MsyCw0d8i98QiZTh) | 4:34 | 2021-12-17 | 2024-03-28 |
 | [Mattel](https://open.spotify.com/track/4KyghCEewQOSZ4OdvQwFN3) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 5:30 | 2024-01-26 |  |
 | [Maximus](https://open.spotify.com/track/1K39nmA9tBudF6jNiV1iO6) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Maximus](https://open.spotify.com/album/4FGuBSsKGaTw0MV7qBeq16) | 4:12 | 2021-12-17 | 2022-07-21 |
 | [Mean, Green, Killing Machine](https://open.spotify.com/track/0mIUS9GApGWW8wGxNI0CPE) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [The Grinding Wheel](https://open.spotify.com/album/5XuskaRVS1oPwxEdjEfYoz) | 7:29 | 2022-03-22 |  |

@@ -1,7 +1,7 @@
 {
-  "2024-03-27": 392123,
+  "2024-03-28": 392128,
   "date_first_scraped": "2023-09-29",
-  "description": "blink-182 au top des meilleurs morceaux rock du moment.",
+  "description": "Green Day au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -143,7 +143,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 184099,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/1QQ3b5ff5hp6HvFqNpkpCE"
@@ -255,6 +255,24 @@
       "duration_ms": 238143,
       "name": "Beguiled",
       "url": "https://open.spotify.com/track/5irjzz4WhkbJUKk0YFbIQW"
+    },
+    {
+      "album": {
+        "name": "Best Of Me",
+        "url": "https://open.spotify.com/album/2Zc3sdoMNkKC2O3Vlu6geL"
+      },
+      "artists": [
+        {
+          "name": "JJ Wilde",
+          "url": "https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196655,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/4Gpzgpj57YgCe9uUnwRwz4"
     },
     {
       "album": {
@@ -547,7 +565,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 215986,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/3PEes770N4fkSv0RrBsBZC"
@@ -601,7 +619,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 198324,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP"
@@ -904,6 +922,24 @@
     },
     {
       "album": {
+        "name": "Saviors",
+        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176965,
+      "name": "Goodnight Adeline",
+      "url": "https://open.spotify.com/track/5oi7EJnwhDhqs4FJ2ewry7"
+    },
+    {
+      "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },
@@ -1067,7 +1103,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 178933,
       "name": "I Got Heaven",
       "url": "https://open.spotify.com/track/4C6EPbxGiGSX95nJY3z9ZG"
@@ -1150,6 +1186,24 @@
     },
     {
       "album": {
+        "name": "It's Gonna Be Alright",
+        "url": "https://open.spotify.com/album/4hgCmtgWCyXZHDggCKetE4"
+      },
+      "artists": [
+        {
+          "name": "Edg\u00e4r",
+          "url": "https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185800,
+      "name": "It's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/1adglBbuQQaCbUORdvYjdZ"
+    },
+    {
+      "album": {
         "name": "152",
         "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
       },
@@ -1179,10 +1233,28 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 233965,
       "name": "Know",
       "url": "https://open.spotify.com/track/3QyvWzVXwvSYn3aSC2ugHY"
+    },
+    {
+      "album": {
+        "name": "Koda",
+        "url": "https://open.spotify.com/album/0d5CiECfD56OVv6tttLiCP"
+      },
+      "artists": [
+        {
+          "name": "Datcha Mandala",
+          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222920,
+      "name": "Koda",
+      "url": "https://open.spotify.com/track/2mbg1A5gDbyJX1pHPpGTWJ"
     },
     {
       "album": {
@@ -1312,6 +1384,24 @@
     },
     {
       "album": {
+        "name": "Liminal Status",
+        "url": "https://open.spotify.com/album/0I11xptQ0tRtlWQo99uXMz"
+      },
+      "artists": [
+        {
+          "name": "Watertank",
+          "url": "https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213560,
+      "name": "Liminal Status",
+      "url": "https://open.spotify.com/track/0Bwp8KB0rlOAOGcBvPP2rk"
+    },
+    {
+      "album": {
         "name": "Ma pi\u00e8ce",
         "url": "https://open.spotify.com/album/20vx4PPkOcDFPYuV51BoKW"
       },
@@ -1345,6 +1435,24 @@
       "duration_ms": 209799,
       "name": "Make It Out Alive",
       "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
+    },
+    {
+      "album": {
+        "name": "Dark Rainbow",
+        "url": "https://open.spotify.com/album/4pU6rQzlCfTrSxous1m7CK"
+      },
+      "artists": [
+        {
+          "name": "Frank Carter & The Rattlesnakes",
+          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181377,
+      "name": "Man Of The Hour",
+      "url": "https://open.spotify.com/track/40jXLuZysjEEqfAwXg6moM"
     },
     {
       "album": {
@@ -1467,7 +1575,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 149835,
       "name": "OFF MY FACE",
       "url": "https://open.spotify.com/track/0cyQuiFTVaHM70y8xRsOWA"
@@ -1755,7 +1863,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 264243,
       "name": "RNR",
       "url": "https://open.spotify.com/track/1T4BtR7FhZL7e25ExyDq5L"
@@ -1845,7 +1953,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 193764,
       "name": "Shadow in the Sun",
       "url": "https://open.spotify.com/track/6xaMXvpkmVow1RAinlthUT"
@@ -1978,6 +2086,24 @@
     },
     {
       "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252314,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
+    },
+    {
+      "album": {
         "name": "Spiral City",
         "url": "https://open.spotify.com/album/72Fz5Nvjn0gS7Hf9qtwFt5"
       },
@@ -2007,7 +2133,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 229555,
       "name": "Starchild",
       "url": "https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH"

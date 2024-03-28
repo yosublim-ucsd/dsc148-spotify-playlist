@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: ELENA ROSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,267 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,272 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 26 | [Soy un HP](https://open.spotify.com/track/70GjuOgd1NuiPTs82JBIUn) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Soy un HP](https://open.spotify.com/album/6tg2yjTAqpo2o8uInNcS4R) | 2:26 |
 | 27 | [Conquistar El Planeta](https://open.spotify.com/track/6cOGBvdT0RY3UUtEP7vRHs) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 2:42 |
 | 28 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
-| 29 | [¿Por Qué No Me Fui Antes?](https://open.spotify.com/track/6sYMPSRtbjiPjksAfrjszr) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Por Qué No Me Fui Antes?](https://open.spotify.com/album/5EsXC7mx9m2O11NHQvr21L) | 2:47 |
-| 30 | [MALVAS](https://open.spotify.com/track/1MtxOSpyeHEQEUV2NtkK1H) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [MALVAS](https://open.spotify.com/album/6kUKwicaYia3sYbgQyEtb2) | 3:03 |
-| 31 | [Aquí Sigo \- Remix](https://open.spotify.com/track/3ZFkTy11pA5qRAXJhXrygN) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4) | 3:28 |
-| 32 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 |
+| 29 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 |
+| 30 | [¿Por Qué No Me Fui Antes?](https://open.spotify.com/track/6sYMPSRtbjiPjksAfrjszr) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Por Qué No Me Fui Antes?](https://open.spotify.com/album/5EsXC7mx9m2O11NHQvr21L) | 2:47 |
+| 31 | [MALVAS](https://open.spotify.com/track/1MtxOSpyeHEQEUV2NtkK1H) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [MALVAS](https://open.spotify.com/album/6kUKwicaYia3sYbgQyEtb2) | 3:03 |
+| 32 | [Aquí Sigo \- Remix](https://open.spotify.com/track/3ZFkTy11pA5qRAXJhXrygN) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4) | 3:28 |
 | 33 | [PAENAMORAR](https://open.spotify.com/track/6N9hiZx8ZvZznXjaWoiPJ1) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [PAENAMORAR](https://open.spotify.com/album/4690a9jilzn3yfvvtKdqMj) | 2:58 |
-| 34 | [awitado :\(](https://open.spotify.com/track/2Bqs1VyrVezmDp9pBUr1GL) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [awitado :\(](https://open.spotify.com/album/2KU98wlYsgiwrHZMzoC5Ad) | 3:49 |
-| 35 | [Lejos De Mis Ojos](https://open.spotify.com/track/1ZIKWQ97kDMhu28IyhEtVU) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Lejos De Mis Ojos](https://open.spotify.com/album/4j14bzS5YpWDsmGdbPV4un) | 2:56 |
+| 34 | [Lejos De Mis Ojos](https://open.spotify.com/track/1ZIKWQ97kDMhu28IyhEtVU) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Lejos De Mis Ojos](https://open.spotify.com/album/4j14bzS5YpWDsmGdbPV4un) | 2:56 |
+| 35 | [awitado :\(](https://open.spotify.com/track/2Bqs1VyrVezmDp9pBUr1GL) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [awitado :\(](https://open.spotify.com/album/2KU98wlYsgiwrHZMzoC5Ad) | 3:49 |
 | 36 | [Mi Corazón \(feat\. Camilo\)](https://open.spotify.com/track/421IxIwggbLYx9XUSUJpZN) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mi Corazón \(feat\. Camilo\)](https://open.spotify.com/album/6Lmp3WKfNvIKLJuyED6gqJ) | 3:05 |
 | 37 | [Ahora Que No Te Tengo](https://open.spotify.com/track/59FrYnRQIPpCtnJ7LOxx49) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Ahora Que No Te Tengo](https://open.spotify.com/album/62AI6DFXsSSVWV5l0ZBOVl) | 2:35 |
 | 38 | [rompo esquemas](https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [rompo esquemas](https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ) | 3:19 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 66 | [Carolina](https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Carolina](https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k) | 2:47 |
 | 67 | [en el pasado](https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [en el pasado](https://open.spotify.com/album/78EFQKhgET0w845QMun4na) | 3:43 |
 | 68 | [Cora Frío](https://open.spotify.com/track/02St1isK2dC8LVWn8BBDoY) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Cora Frío](https://open.spotify.com/album/5NfVkHKItmD5GfGmTSwy9e) | 2:44 |
-| 69 | [Como Si Nada](https://open.spotify.com/track/0WOZZpdj3HKxYKtZlLjdJg) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax), [ILAMIKE](https://open.spotify.com/artist/4W0rQhlraEK244nKmDosJi) | [Como Si Nada](https://open.spotify.com/album/4a8vhvGoU8VFZvE3Hrc7RI) | 3:06 |
-| 70 | [Sola](https://open.spotify.com/track/7y5ZyLfcBa5oYhP8jZwUcz) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [SOLA](https://open.spotify.com/album/4jM7PAcZUqdVhRoke8bF1N) | 3:11 |
+| 69 | [Sola](https://open.spotify.com/track/7y5ZyLfcBa5oYhP8jZwUcz) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [SOLA](https://open.spotify.com/album/4jM7PAcZUqdVhRoke8bF1N) | 3:11 |
+| 70 | [Como Si Nada](https://open.spotify.com/track/0WOZZpdj3HKxYKtZlLjdJg) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax), [ILAMIKE](https://open.spotify.com/artist/4W0rQhlraEK244nKmDosJi) | [Como Si Nada](https://open.spotify.com/album/4a8vhvGoU8VFZvE3Hrc7RI) | 3:06 |
 | 71 | [Enemigos](https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Enemigos](https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv) | 2:37 |
 | 72 | [La Que Yo Amo](https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 3](https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X) | 2:12 |
 | 73 | [TKILA](https://open.spotify.com/track/1NLyVRa0aPtZXjw9XMZZCX) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [TKILA](https://open.spotify.com/album/2SvKuNmLXp4a9zt2BpCf5h) | 2:36 |
-| 74 | [Inevitable](https://open.spotify.com/track/4DyVhH4VtUcl42sNJgp0wr) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Inevitable](https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4) | 3:08 |
-| 75 | [aguardiente](https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd) | [Miranda del Sol](https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7) | [aguardiente](https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch) | 2:51 |
+| 74 | [26 \- ni tarde ni temprano](https://open.spotify.com/track/6ClF0j9hpvx0PcNBbiUZT9) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [26 \(ni tarde ni temprano\)](https://open.spotify.com/album/7fhRpgRxxa7FUZWQXpRitl) | 3:23 |
+| 75 | [Inevitable](https://open.spotify.com/track/4DyVhH4VtUcl42sNJgp0wr) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Inevitable](https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4) | 3:08 |
 
-Snapshot ID: `MCxlN2E4MDI5Mzc4NmU3NzE5MDg0MzUxMWNkOTBmMjgxZTM4NzNiY2Qz`
+Snapshot ID: `MCxiMGJhZWU4MTE0ZDc3NzM3ZDZmYjQyYjdjMGQ3MWUxNDc3Yjg0MTll`

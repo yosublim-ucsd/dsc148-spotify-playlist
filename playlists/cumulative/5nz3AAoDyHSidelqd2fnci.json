@@ -536,7 +536,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 150000,
       "name": "Anonymous",
       "url": "https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa"
@@ -950,7 +950,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 173533,
       "name": "Blood - Hidden Track",
       "url": "https://open.spotify.com/track/1rNSLiEFpAF4amVhkzfTUG"
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 160622,
       "name": "cross my heart (hope to die)",
       "url": "https://open.spotify.com/track/7qt0s5OswWIDJBlLHmiKNi"
@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 261466,
       "name": "El P\u00e1jaro Vio el Cielo y Se Vol\u00f3",
       "url": "https://open.spotify.com/track/4smTDf8dKkZXxz66uv5w43"
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 262880,
       "name": "Esta Vez",
       "url": "https://open.spotify.com/track/3O6FSINQCT743cLVMRJrsT"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 256693,
       "name": "Freak On a Leash",
       "url": "https://open.spotify.com/track/5TfqfmN4bGwOptgcjlihH5"
@@ -2592,6 +2592,24 @@
       "duration_ms": 245800,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/40QPoAAKKMwPms6I6FHJqy"
+    },
+    {
+      "album": {
+        "name": "Atrocities",
+        "url": "https://open.spotify.com/album/6j7RSXc8qwZ4bHJ6MwhpsL"
+      },
+      "artists": [
+        {
+          "name": "Christian Death",
+          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183440,
+      "name": "Gloomy Sunday",
+      "url": "https://open.spotify.com/track/5z6yJcfCoJkGI0yvEtrj0r"
     },
     {
       "album": {
@@ -3381,6 +3399,24 @@
     },
     {
       "album": {
+        "name": "Lo Primero",
+        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
+      },
+      "artists": [
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183093,
+      "name": "Inseguro, Pero Honesto",
+      "url": "https://open.spotify.com/track/7EgTz89Xi1pTXnw0MqJ5FM"
+    },
+    {
+      "album": {
         "name": "Intertwined",
         "url": "https://open.spotify.com/album/2VK00iADYTVoLVqf2GxFVt"
       },
@@ -3454,6 +3490,24 @@
       "duration_ms": 275760,
       "name": "Is This Love - 2007 Remastered Version",
       "url": "https://open.spotify.com/track/3k58VAgUkM9cSvRpjIVaC7"
+    },
+    {
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234546,
+      "name": "It's Far Better To Learn",
+      "url": "https://open.spotify.com/track/0nQcyybXeatlDXgvQOrT1n"
     },
     {
       "album": {
@@ -3637,6 +3691,24 @@
     },
     {
       "album": {
+        "name": "Runaway Horses (Remastered & Expanded Special Edition)",
+        "url": "https://open.spotify.com/album/3tWN0uTRc9uSFiRoTTSmAQ"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285026,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/21IhKvPNPb2VkTACCpAD4j"
+    },
+    {
+      "album": {
         "name": "Los Tres MTV Unplugged",
         "url": "https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW"
       },
@@ -3666,7 +3738,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 248800,
       "name": "La Voz De Los '80",
       "url": "https://open.spotify.com/track/3UWMYVLYo0QwaPw1OI8hDk"
@@ -3763,6 +3835,24 @@
     },
     {
       "album": {
+        "name": "Pursuance",
+        "url": "https://open.spotify.com/album/0TeZKDdx7VNDA3QDExVwpw"
+      },
+      "artists": [
+        {
+          "name": "Only Crime",
+          "url": "https://open.spotify.com/artist/77B3UTPWOJL6ZF0uOTZ4Iq"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166133,
+      "name": "Life Was Fair",
+      "url": "https://open.spotify.com/track/7x8Sfll6zqxjmTinyYiFtj"
+    },
+    {
+      "album": {
         "name": "Like a Prayer",
         "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
       },
@@ -3796,6 +3886,24 @@
       "duration_ms": 228346,
       "name": "Long Road To Ruin",
       "url": "https://open.spotify.com/track/4Hv5jUXVQveCj36wN6dPmD"
+    },
+    {
+      "album": {
+        "name": "Home For The Moment",
+        "url": "https://open.spotify.com/album/6pUVU5RbGyFOJYPmUNKCOD"
+      },
+      "artists": [
+        {
+          "name": "Julien Chang",
+          "url": "https://open.spotify.com/artist/0QwAWEp3r3Ut1dYNQb7JzS"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234991,
+      "name": "Looking At People",
+      "url": "https://open.spotify.com/track/6eH80huR96DL1awXtHKqf6"
     },
     {
       "album": {
@@ -4170,7 +4278,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 304226,
       "name": "Mister Superstar",
       "url": "https://open.spotify.com/track/0T30qRXdFY8Ihy9zjP3hwG"
@@ -4188,7 +4296,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 695386,
       "name": "Mistreated - Live; 2004 Remastered Version",
       "url": "https://open.spotify.com/track/39IupZnm3kefibXWnNCX91"
@@ -4390,6 +4498,24 @@
       "duration_ms": 236813,
       "name": "Nada Es Igual",
       "url": "https://open.spotify.com/track/7niEic2atQVHSzfc2eau3s"
+    },
+    {
+      "album": {
+        "name": "Spinetta y los Socios del Desierto",
+        "url": "https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt"
+      },
+      "artists": [
+        {
+          "name": "Spinetta Y Los Socios Del Desierto",
+          "url": "https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217560,
+      "name": "Nasty People",
+      "url": "https://open.spotify.com/track/3qBwLmGiqRvBqrzfcsl9Fp"
     },
     {
       "album": {
@@ -4632,7 +4758,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 223653,
       "name": "Nothing Left",
       "url": "https://open.spotify.com/track/2zy79BntQ1kumEUeqM5O84"
@@ -5800,7 +5926,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 322746,
       "name": "Shoots and Ladders",
       "url": "https://open.spotify.com/track/40DoajfWsc4BVCeU85MWMu"
@@ -6875,6 +7001,24 @@
     },
     {
       "album": {
+        "name": "Ocho",
+        "url": "https://open.spotify.com/album/3dJ5ujgyBc2Mw2G9fFeINy"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207666,
+      "name": "Todos los D\u00edas",
+      "url": "https://open.spotify.com/track/3QYC5AvjIsq3sG5eEVuqRl"
+    },
+    {
+      "album": {
         "name": "Too Long",
         "url": "https://open.spotify.com/album/6dX5Kzre3gVtM6Zh5Oh0PI"
       },
@@ -7077,6 +7221,24 @@
     },
     {
       "album": {
+        "name": "Ver Tus Ojos Mir\u00e1ndome",
+        "url": "https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1"
+      },
+      "artists": [
+        {
+          "name": "Volc\u00e1n",
+          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210078,
+      "name": "Ver Tus Ojos Mir\u00e1ndome",
+      "url": "https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT"
+    },
+    {
+      "album": {
         "name": "All Hope Is Gone",
         "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
       },
@@ -7176,6 +7338,24 @@
       "duration_ms": 463000,
       "name": "Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
       "url": "https://open.spotify.com/track/3bDA5rMBde88xVYgm1oIUw"
+    },
+    {
+      "album": {
+        "name": "Laberinto",
+        "url": "https://open.spotify.com/album/7fM0DdFY3V2In2pFg9D7p3"
+      },
+      "artists": [
+        {
+          "name": "Kudai",
+          "url": "https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168746,
+      "name": "Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/3wfoh2ktV2H35UaqBMaGYt"
     },
     {
       "album": {
@@ -7298,7 +7478,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 221666,
       "name": "Warning",
       "url": "https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu"
@@ -7356,6 +7536,24 @@
       "duration_ms": 138045,
       "name": "Webbie Flow",
       "url": "https://open.spotify.com/track/0w0EXHl3oMmHuJphcxjns8"
+    },
+    {
+      "album": {
+        "name": "The Poison (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373826,
+      "name": "Welcome Home (Sanitarium)",
+      "url": "https://open.spotify.com/track/4FLbop1O5wfLdoPL3ytEbi"
     },
     {
       "album": {
@@ -7558,6 +7756,24 @@
       "duration_ms": 120000,
       "name": "Why Walk On Water When We've Got Boats - Live at the Capitol",
       "url": "https://open.spotify.com/track/4Urbb9u3jP5cn5vR1TJiWD"
+    },
+    {
+      "album": {
+        "name": "Robot Lost: Scene 2 (part 2)",
+        "url": "https://open.spotify.com/album/69Yw4LeOl2HjviV0efVD4s"
+      },
+      "artists": [
+        {
+          "name": "Cavedoll",
+          "url": "https://open.spotify.com/artist/4U6cZkjQE5aIsCnfL9DaJk"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496034,
+      "name": "Wireless",
+      "url": "https://open.spotify.com/track/6GbIu8LjSr7JKBexnSeRZH"
     },
     {
       "album": {

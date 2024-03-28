@@ -1,7 +1,7 @@
 {
-  "2024-03-27": 132676,
+  "2024-03-28": 132761,
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: BAD HOP",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: DJ RYOW",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -343,6 +343,32 @@
       "duration_ms": 322133,
       "name": "4L (feat. Bark, Benjazzy, C.O.S.A. & IO)",
       "url": "https://open.spotify.com/track/3vlpUpYXJygq10pUUrtX1Y"
+    },
+    {
+      "album": {
+        "name": "5G (feat. MARONI)",
+        "url": "https://open.spotify.com/album/3Dj6BQqyIX6ElTPyp2QIZp"
+      },
+      "artists": [
+        {
+          "name": "YUTO",
+          "url": "https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA"
+        },
+        {
+          "name": "DopeOnigiri",
+          "url": "https://open.spotify.com/artist/3K2Hmv1k0CJjuSRk8NXluO"
+        },
+        {
+          "name": "MARONI",
+          "url": "https://open.spotify.com/artist/2k0Qus01xR72uS8ctdFDzM"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168323,
+      "name": "5G (feat. MARONI)",
+      "url": "https://open.spotify.com/track/0nsvNmJuNuAc4ypsix8CYY"
     },
     {
       "album": {
@@ -1856,6 +1882,24 @@
     },
     {
       "album": {
+        "name": "BUCHINUKERU",
+        "url": "https://open.spotify.com/album/4eKCXqZvwAUzYKihxBUcKk"
+      },
+      "artists": [
+        {
+          "name": "MIYACHI",
+          "url": "https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182555,
+      "name": "BUCHINUKERU",
+      "url": "https://open.spotify.com/track/2TCyfVDce0Ftvz9baInjcy"
+    },
+    {
+      "album": {
         "name": "Cali Jap",
         "url": "https://open.spotify.com/album/6XLsxnfd4omvEx9vrZQSYW"
       },
@@ -2180,6 +2224,24 @@
     },
     {
       "album": {
+        "name": "Choice",
+        "url": "https://open.spotify.com/album/7fB34Rq7CTpKZrMkz14lVO"
+      },
+      "artists": [
+        {
+          "name": "Red Eye",
+          "url": "https://open.spotify.com/artist/4yu1crXDHBTb27yiM5otx5"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155433,
+      "name": "Choice",
+      "url": "https://open.spotify.com/track/5YB4PzBNOw7h6vRfS5loVs"
+    },
+    {
+      "album": {
         "name": "MATSURI",
         "url": "https://open.spotify.com/album/7affgEpm5B1mwdgPBlvCTw"
       },
@@ -2499,7 +2561,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 183232,
       "name": "DAIKYUJYO",
       "url": "https://open.spotify.com/track/6X2t7KMv5swfmt6QR4JKqn"
@@ -3303,7 +3365,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 121894,
       "name": "ENTP",
       "url": "https://open.spotify.com/track/0beiy2vUUzpc9TsfCuhOLB"
@@ -3381,6 +3443,32 @@
       "duration_ms": 158918,
       "name": "Eternity - feat. Dove",
       "url": "https://open.spotify.com/track/0hgFEg1GC8bmkMi4jYPptm"
+    },
+    {
+      "album": {
+        "name": "WILL OF STEEL",
+        "url": "https://open.spotify.com/album/2UQh4sHMRFOKwBNuDUuNt1"
+      },
+      "artists": [
+        {
+          "name": "BES",
+          "url": "https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H"
+        },
+        {
+          "name": "GENJU",
+          "url": "https://open.spotify.com/artist/52vnH9P4Rs3Gbc7FSbLNwC"
+        },
+        {
+          "name": "rkemishi",
+          "url": "https://open.spotify.com/artist/0p8wb8VQyOYmHkN42xhJ9v"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Everything Is Everything",
+      "url": "https://open.spotify.com/track/0O7Kf2lAVqJDXQIVyLbjFn"
     },
     {
       "album": {
@@ -5705,7 +5793,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 291698,
       "name": "KAWASAKI SONG (feat. DJ TY-KOH, Bark, T-Pablow, Benjazzy, JJJ, BIM & A-Thug)",
       "url": "https://open.spotify.com/track/6W3KBonOxrh8hvtJfJoM55"
@@ -6088,6 +6176,24 @@
     },
     {
       "album": {
+        "name": "Later",
+        "url": "https://open.spotify.com/album/6FLczwTvtpfCUWv8E6bUM6"
+      },
+      "artists": [
+        {
+          "name": "LIX",
+          "url": "https://open.spotify.com/artist/1JAZbuGZ0MkSvdjPIbGPMd"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233866,
+      "name": "Later",
+      "url": "https://open.spotify.com/track/30Iz6lNafhvqK1MLMmoVS2"
+    },
+    {
+      "album": {
         "name": "LEAD",
         "url": "https://open.spotify.com/album/12eiDX769GffsCljewZy7i"
       },
@@ -6357,7 +6463,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 220975,
       "name": "Looking 4u",
       "url": "https://open.spotify.com/track/1klLWilNyA3eCOvvw0y1sQ"
@@ -7029,6 +7135,36 @@
       "duration_ms": 295050,
       "name": "Mother Jane",
       "url": "https://open.spotify.com/track/40OOy85AA2Jruk8jIagKrM"
+    },
+    {
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5d6uFxCZb1TPGNSIDCSdm0"
+      },
+      "artists": [
+        {
+          "name": "BFN TOKYOTRILL",
+          "url": "https://open.spotify.com/artist/1VuOxzoNAxcI7c2QROGWM2"
+        },
+        {
+          "name": "SEEDA",
+          "url": "https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY"
+        },
+        {
+          "name": "seiji oda",
+          "url": "https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp"
+        },
+        {
+          "name": "Maple.Maple.Maple",
+          "url": "https://open.spotify.com/artist/63KWo0zGBDnDivb9LirzTA"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261238,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/5Npy69VCucL1fi3elYM71m"
     },
     {
       "album": {
@@ -8920,6 +9056,36 @@
     },
     {
       "album": {
+        "name": "DRIVE MY DREAMS",
+        "url": "https://open.spotify.com/album/5FWp05PHX3UMevTppACZJ5"
+      },
+      "artists": [
+        {
+          "name": "DJ RYOW",
+          "url": "https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn"
+        },
+        {
+          "name": "guca owl",
+          "url": "https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf"
+        },
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "\u00a5ellow Bucks",
+          "url": "https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172786,
+      "name": "Ready To Fight",
+      "url": "https://open.spotify.com/track/2k1JY21H2w4RbrvbJ3iHFC"
+    },
+    {
+      "album": {
         "name": "REMEMBER",
         "url": "https://open.spotify.com/album/6tEEc0Afxp3keGmu7fItcy"
       },
@@ -9133,6 +9299,32 @@
       "duration_ms": 208000,
       "name": "Rio Tokyo",
       "url": "https://open.spotify.com/track/6MzZndXMHckI4EFM2Q425c"
+    },
+    {
+      "album": {
+        "name": "RISE UP",
+        "url": "https://open.spotify.com/album/0cKFy5ofRjOarpEBd8cmi4"
+      },
+      "artists": [
+        {
+          "name": "DJ TANAKEN",
+          "url": "https://open.spotify.com/artist/2JbB2acDrN9qLBVPNVMP81"
+        },
+        {
+          "name": "TWIGY",
+          "url": "https://open.spotify.com/artist/3LRuRmJcuRBvc7mLhTli0v"
+        },
+        {
+          "name": "BES",
+          "url": "https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180962,
+      "name": "RISE UP",
+      "url": "https://open.spotify.com/track/2QiCZxGi2ejBx0RDanHN2S"
     },
     {
       "album": {
@@ -10543,7 +10735,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 147043,
       "name": "Too Many",
       "url": "https://open.spotify.com/track/5JDCusdjHsaxwHEelSO1Rj"
@@ -10771,7 +10963,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 195659,
       "name": "U Are My Paradise",
       "url": "https://open.spotify.com/track/3sdo6IqAbWbu8rDsZE2ilQ"
@@ -10837,7 +11029,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 218750,
       "name": "Undefeated Pride",
       "url": "https://open.spotify.com/track/4aBgiXy34Pmtd7qGk4GISK"
@@ -11469,6 +11661,24 @@
       "duration_ms": 166000,
       "name": "WEATHERTEC",
       "url": "https://open.spotify.com/track/3nMGzAkZ2ICWyILMH4nTSQ"
+    },
+    {
+      "album": {
+        "name": "Werewolf",
+        "url": "https://open.spotify.com/album/5pCvYlMmhOSjCrQ0KYEPDL"
+      },
+      "artists": [
+        {
+          "name": "VIGORMAN",
+          "url": "https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203609,
+      "name": "Werewolf",
+      "url": "https://open.spotify.com/track/2iY4MmfEyJOG6HqM96GWR6"
     },
     {
       "album": {
@@ -12415,7 +12625,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 107375,
       "name": "\u5984\u60f3",
       "url": "https://open.spotify.com/track/0TArKQplab5pqiapxogXoX"
@@ -12543,7 +12753,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 103636,
       "name": "\u6700\u4f4e\u3060\u3051\u3069\u6700\u9ad8",
       "url": "https://open.spotify.com/track/2ufX2xxEysgDrPE5ANyhHy"

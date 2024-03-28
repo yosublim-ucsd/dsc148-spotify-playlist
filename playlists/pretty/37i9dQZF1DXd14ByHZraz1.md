@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: CERES
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,334 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,329 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 4 | [DEEPER](https://open.spotify.com/track/1BxtUxsBmTxUOdH2f1LVXx) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [DEEPER](https://open.spotify.com/album/4xft6Pa0NAhIAJTJzccqHZ) | 3:48 |
 | 5 | [With You](https://open.spotify.com/track/4pD7ds0WqjF6I5xrRJStkk) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj) | [With You](https://open.spotify.com/album/18ejf0VB2RM7UnyTZ3EIOc) | 2:04 |
 | 6 | [Reason](https://open.spotify.com/track/0ppTYxMWmNN8SuVoRZMbKB) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Reason](https://open.spotify.com/album/11L6VBSHib3rjEo7PQbJib) | 3:06 |
-| 7 | [Please Press Play](https://open.spotify.com/track/0bpw8AXz54hDgFju4Xfw1o) | [Agguiar](https://open.spotify.com/artist/6TapvGfMBXqnvHSQCAuouV) | [MEGAO Spring Vibes](https://open.spotify.com/album/1D3rXf5df289uaRp31EmgB) | 2:40 |
+| 7 | [Please Press Play \- Radio Edit](https://open.spotify.com/track/37JCQAFq3xloM2QraYGUUk) | [Agguiar](https://open.spotify.com/artist/6TapvGfMBXqnvHSQCAuouV) | [Please Press Play](https://open.spotify.com/album/7F7lLV1T0hqmR3GOSiENan) | 2:40 |
 | 8 | [Road To Nowhere](https://open.spotify.com/track/4MZPKuMk4zZnpRKvvhBgu1) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Road To Nowhere](https://open.spotify.com/album/5ac8bG69seB2u4qEeCwtkl) | 3:11 |
 | 9 | [Michael Jordan](https://open.spotify.com/track/32WxH1Qka15MbHI81jBv3R) | [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [Michael Jordan](https://open.spotify.com/album/5hIUv1fnohxphRqND4DBjr) | 2:41 |
 | 10 | [My Body \(feat\. Y&M\)](https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Y&M](https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q) | [My Body \(feat\. Y&M\)](https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Running](https://open.spotify.com/track/5K59VdBAhtTYIxBlne1WT2) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Francesca Sardi](https://open.spotify.com/artist/1qI2ett9td7YVX6C1eiq1Z) | [Running](https://open.spotify.com/album/5JMbsiPcxRBVNztGimHvyw) | 2:39 |
 | 50 | [Love Goes](https://open.spotify.com/track/3uAFwegcb4Vavx5BNgzXT9) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [Jae Walters](https://open.spotify.com/artist/2kAm3LwfVyqbufmusOcanD) | [Love Goes](https://open.spotify.com/album/3vGHDvBv1PAtzQCnD00eAO) | 3:21 |
 
-Snapshot ID: `MCxkY2RhNDJiNzI5YmRjY2M4MDA0ZjU3OWMwMjYzOTZkYTQ3YmMzMDI3`
+Snapshot ID: `MCxhNTllNmMzMzY4N2M0YTE1N2UwMzdmYmM1Y2U4NTE2M2VkZGNlZWE1`

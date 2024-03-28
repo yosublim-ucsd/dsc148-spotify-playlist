@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Elsa y Elmar.
 
-557 songs - 1 day 9 hr 31 min
+558 songs - 1 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [La Melancolía](https://open.spotify.com/track/0rYCv51RoAHWVxkISDgXyU) | [Perropájaro](https://open.spotify.com/artist/1GEPR0e1faYM4A0q6TugVT), [Santiago Adano](https://open.spotify.com/artist/39x4k2KdpPJQ2rrzRLht7Q), [Victoria Fernández](https://open.spotify.com/artist/0Plbanani9vlKgJH0XteYu), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [La Melancolía](https://open.spotify.com/album/43naFQmoz0bkCXJOfbxM5t) | 1:49 | 2023-07-28 | 2023-08-21 |
 | [La Mirada](https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [La Mirada](https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC) | 3:14 | 2021-12-24 |  |
 | [La Niña Más Bonita del Mundo \- Trasteo y Ensayo](https://open.spotify.com/track/2GGiawjsfO5jNKUC4ITZi5) | [Víctor Martín](https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN) | [Trasteo y Ensayo](https://open.spotify.com/album/13wj4eC6VYQE6OZfIiPML2) | 3:10 | 2022-07-08 | 2022-07-13 |
-| [La Noche de Mi Amor](https://open.spotify.com/track/3kMOp6GfCkln4nR91q9ESE) | [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx), [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [La Noche de Mi Amor](https://open.spotify.com/album/4HZrNKdPv7iheKniNZOH7E) | 3:34 | 2022-05-27 |  |
+| [La Noche de Mi Amor](https://open.spotify.com/track/3kMOp6GfCkln4nR91q9ESE) | [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx), [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [La Noche de Mi Amor](https://open.spotify.com/album/4HZrNKdPv7iheKniNZOH7E) | 3:34 | 2022-05-27 | 2024-03-28 |
 | [La Parca](https://open.spotify.com/track/0a7Dpie00d1zB9zngPdeZM) | [Raquel Lúa](https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [La Parca](https://open.spotify.com/album/1PYQgbe65EHOb9bfKsOdn5) | 2:38 | 2022-03-11 | 2022-04-09 |
 | [La Profecía](https://open.spotify.com/track/4SalVML4kHX3Kjlbq24EgZ) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [La Profecía](https://open.spotify.com/album/0E6iE7Z2TREMlOcCdxsR2x) | 3:37 | 2021-12-24 | 2022-07-29 |
 | [La Quimerita](https://open.spotify.com/track/7Cvvi9V0dEnpGeY3axVNGP) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [La Quimerita](https://open.spotify.com/album/24iqwRhlBDcDlkUwDFZqL9) | 3:10 | 2021-12-24 | 2022-01-13 |
@@ -327,6 +327,7 @@
 | [Mi otra mitad](https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Mi otra mitad](https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB) | 3:49 | 2023-02-24 | 2023-03-11 |
 | [Mi Propio Lago](https://open.spotify.com/track/4Xktlj4EcbwmjdrTKmrlWu) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Mi Propio Lago](https://open.spotify.com/album/4asixMg1KsVDnmYPoDZ7MG) | 3:28 | 2022-05-27 | 2022-11-12 |
 | [Mi Vida](https://open.spotify.com/track/1Lx4D0ktuebDP7NG5l6RLc) | [Ona Mae](https://open.spotify.com/artist/1ejRCkLEViEiClmKLL1hpk) | [Mi Vida](https://open.spotify.com/album/2NAp7j38y6ktMr6IhhPjvi) | 4:22 | 2022-05-13 | 2022-05-25 |
+| [Mi vida huele a flor \(un poema de Elvira Sastre\)](https://open.spotify.com/track/4wiJZp4e3wOhfEbL37JpYT) | [IDOIA](https://open.spotify.com/artist/2iq1FxEfislRCbTq8A1GzC) | [de amar y desandar](https://open.spotify.com/album/6bCPUu2cXzHjXFo2Q1Cr3U) | 4:19 | 2024-03-22 |  |
 | [Migajas de azul](https://open.spotify.com/track/2sOe8ukL8pEq7OwOHQgzuV) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Migajas de azul](https://open.spotify.com/album/6YM5sqV1DI8tAJDbjjJkMA) | 3:21 | 2022-05-27 | 2022-06-03 |
 | [Migas](https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6) | [TéCanela](https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0) | [Migas](https://open.spotify.com/album/0z8Py2L5re037O71sy22q9) | 5:33 | 2021-12-24 |  |
 | [Mil dias](https://open.spotify.com/track/4FxnfAA967C1jHBjYVKx1j) | [Jorge Barrio](https://open.spotify.com/artist/25CZSiUnJNp2FT3w0UDHlk), [Laura Sweet](https://open.spotify.com/artist/4AV9qcjaRYZ99MMvhqItvC) | [Mil dias](https://open.spotify.com/album/0lSbhpuj8k9bY0E3IdH9J5) | 3:21 | 2022-05-13 | 2022-05-20 |

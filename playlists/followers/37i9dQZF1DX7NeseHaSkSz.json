@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 30171,
+  "2024-03-28": 30328,
   "date_first_scraped": "2023-08-12",
   "description": "Indian flute and nature sounds transport you to a hidden sacred place deep in the woods... Escape to your inner sanctuary to find recovery, healing and tranquility. ",
   "name": "Temple of Dreams",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 268716,
       "name": "Adbhut Rahasya",
       "url": "https://open.spotify.com/track/2m0umpf7Zf3M6IKQrlpcKk"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 277852,
       "name": "Anupam Rahasya",
       "url": "https://open.spotify.com/track/3xg08C7H2cgIQ96lpA5gBB"
@@ -237,6 +237,24 @@
       "duration_ms": 199117,
       "name": "Calm Garden",
       "url": "https://open.spotify.com/track/3TuoN9z8tuHuL8p6djZqVU"
+    },
+    {
+      "album": {
+        "name": "Chakra Flute",
+        "url": "https://open.spotify.com/album/4LSng7C1CBzdkReeEq2zCR"
+      },
+      "artists": [
+        {
+          "name": "Sacred Bansuri",
+          "url": "https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258118,
+      "name": "Chakra Flute",
+      "url": "https://open.spotify.com/track/1RVE3qgDAvaiD5zDOq3uE0"
     },
     {
       "album": {
@@ -431,7 +449,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 138485,
       "name": "Echoes of Stillness",
       "url": "https://open.spotify.com/track/0QhZbK0kuJbKi9li1SfwG9"
@@ -600,6 +618,24 @@
     },
     {
       "album": {
+        "name": "Forest Zen",
+        "url": "https://open.spotify.com/album/4RXntU6pbX3LWLXQFQGgrp"
+      },
+      "artists": [
+        {
+          "name": "Sacred Bansuri",
+          "url": "https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155728,
+      "name": "Forest Zen",
+      "url": "https://open.spotify.com/track/5XMYAJZVTKVDLwWHu5bjV9"
+    },
+    {
+      "album": {
         "name": "Fountain Of Calmness",
         "url": "https://open.spotify.com/album/5Q87MNpqzebIdfCoWTSSOS"
       },
@@ -719,7 +755,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 205390,
       "name": "Healing Stream (432 Hz)",
       "url": "https://open.spotify.com/track/4BtZMCkTt5rV0ZFUJos6Oi"
@@ -762,6 +798,40 @@
     },
     {
       "album": {
+        "name": "Indian Rain",
+        "url": "https://open.spotify.com/album/1MWEkWy9Y0uKggU5LSWomI"
+      },
+      "artists": [
+        {
+          "name": "Jasper Whisper",
+          "url": "https://open.spotify.com/artist/1mVO71iTroCcLf7mg1uSo2"
+        },
+        {
+          "name": "Sensory Meditation",
+          "url": "https://open.spotify.com/artist/6nsx3cKoJ9eF4KVvN5H8vb"
+        },
+        {
+          "name": "Nina Nalo",
+          "url": "https://open.spotify.com/artist/2MdY1sqVHXi8GkfIaJN09r"
+        },
+        {
+          "name": "Flame Timo",
+          "url": "https://open.spotify.com/artist/4rUIbE7K008AMLXBRYP8sR"
+        },
+        {
+          "name": "Alma Lin",
+          "url": "https://open.spotify.com/artist/3ODNnEyG6ZtPYrnK19oZ5z"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151573,
+      "name": "Indian Rain",
+      "url": "https://open.spotify.com/track/6wB1KV5rYAhkCi0yBfEOo6"
+    },
+    {
+      "album": {
         "name": "Infinite Horizon",
         "url": "https://open.spotify.com/album/3YN4WnxAGZOCYuE9Gu99ar"
       },
@@ -777,6 +847,24 @@
       "duration_ms": 129250,
       "name": "Infinite Horizon",
       "url": "https://open.spotify.com/track/0Nokr83UgOUypquer2EODh"
+    },
+    {
+      "album": {
+        "name": "Jaaduee Baansuree Naturee",
+        "url": "https://open.spotify.com/album/6on7wGHIBkZgyrNBEpCnd2"
+      },
+      "artists": [
+        {
+          "name": "Izrail",
+          "url": "https://open.spotify.com/artist/2leVUaOXPT335bAsr36YiH"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Jaaduee Baansuree Naturee",
+      "url": "https://open.spotify.com/track/0G3SZAhZR9mlNECCTcSoCo"
     },
     {
       "album": {
@@ -845,7 +933,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 168911,
       "name": "Jogish",
       "url": "https://open.spotify.com/track/4k8Gb9Zi2FOKsZ5ijbafz1"
@@ -903,7 +991,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 395800,
       "name": "Krishna's Flute",
       "url": "https://open.spotify.com/track/05HwPjHeYVPpNsVoWKh8iC"
@@ -939,7 +1027,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 256502,
       "name": "Light Between the Trees",
       "url": "https://open.spotify.com/track/2EIMh1P8NyPtrY6pOUAEac"
@@ -1537,7 +1625,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 160988,
       "name": "Remedies",
       "url": "https://open.spotify.com/track/3l33BD42cOR4aOFI9PTPQs"
@@ -1559,6 +1647,24 @@
       "duration_ms": 192089,
       "name": "Sacred Breath",
       "url": "https://open.spotify.com/track/2nwknls2umYQSh3flvnA4m"
+    },
+    {
+      "album": {
+        "name": "Savasana Flute",
+        "url": "https://open.spotify.com/album/4DMFH5Ie87pmokI0LzCini"
+      },
+      "artists": [
+        {
+          "name": "Sacred Dreams",
+          "url": "https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144066,
+      "name": "Savasana Flute",
+      "url": "https://open.spotify.com/track/6ZB2oeA6Olob5zf1EcfJ3N"
     },
     {
       "album": {
@@ -1649,6 +1755,24 @@
       "duration_ms": 138084,
       "name": "Soulful Ascent: Yoga Flute Serenity",
       "url": "https://open.spotify.com/track/3pLNy4gcKXD9S0iMP63yT9"
+    },
+    {
+      "album": {
+        "name": "Spiritual Journey",
+        "url": "https://open.spotify.com/album/1wuH6jrN9Eug9dfVfzDAdr"
+      },
+      "artists": [
+        {
+          "name": "Kundalini Dreams",
+          "url": "https://open.spotify.com/artist/24OD7jZHofVutQwTUSL2mV"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144067,
+      "name": "Spiritual Journey",
+      "url": "https://open.spotify.com/track/60FBGb6CI6aLdjUcyglBgc"
     },
     {
       "album": {
@@ -1753,7 +1877,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 186407,
       "name": "Sundar",
       "url": "https://open.spotify.com/track/6bVHHmG52i4Vmgoz5b1Bs5"
@@ -1861,7 +1985,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 216063,
       "name": "The Heritage",
       "url": "https://open.spotify.com/track/66AA3dPMsQt3C0h9zUGejQ"

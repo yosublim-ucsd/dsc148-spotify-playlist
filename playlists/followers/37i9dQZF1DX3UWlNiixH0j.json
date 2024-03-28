@@ -1,7 +1,7 @@
 {
-  "2024-03-27": 57068,
+  "2024-03-28": 57088,
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: VivaOla",
+  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Mega Shinnosuke",
   "name": "Edge!",
   "tracks": [
     {
@@ -1899,7 +1899,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 104231,
       "name": "botto\u2167",
       "url": "https://open.spotify.com/track/0CMxmQmnMhPGLUu0yW2Ooo"
@@ -3733,7 +3733,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 185370,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/1W6FrZS2Nr4nc2tJSr6OPm"
@@ -5439,7 +5439,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 164479,
       "name": "FUTURE STORY",
       "url": "https://open.spotify.com/track/3dvIrZ2i48eEE0OS9bQZgc"
@@ -6117,7 +6117,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 246500,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/05qzm6oTMHx2ig0v6IcrB8"
@@ -7297,6 +7297,28 @@
       "duration_ms": 251506,
       "name": "INU",
       "url": "https://open.spotify.com/track/26UKmLKURjKwYa8wUBSDmp"
+    },
+    {
+      "album": {
+        "name": "hello.wav",
+        "url": "https://open.spotify.com/album/5PC8a4Q7ikgJm74tC60AGO"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175151,
+      "name": "iPhone feat. Skaai",
+      "url": "https://open.spotify.com/track/1pZTEOptrh7RY0BZXJCr56"
     },
     {
       "album": {
@@ -8783,7 +8805,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 182229,
       "name": "Loud Land",
       "url": "https://open.spotify.com/track/5V6v1a5W9AMUouu0UwHSf7"
@@ -10905,7 +10927,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 185586,
       "name": "NTM",
       "url": "https://open.spotify.com/track/4219u7yEzPwkqYnA3XUW2e"
@@ -11882,6 +11904,28 @@
     },
     {
       "album": {
+        "name": "Pretense",
+        "url": "https://open.spotify.com/album/64Ucc9nGoY5gpfh86alRVm"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        },
+        {
+          "name": "\u674e\u6d69\u744b Howard Lee",
+          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267986,
+      "name": "Pretense",
+      "url": "https://open.spotify.com/track/1iGilBtLO9t5Wm6hs4I7pj"
+    },
+    {
+      "album": {
         "name": "SAL.LIGHTER",
         "url": "https://open.spotify.com/album/4oBBpnt1HORElrqqIma5zM"
       },
@@ -12465,7 +12509,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 265961,
       "name": "Regrets",
       "url": "https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS"
@@ -14219,7 +14263,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 211447,
       "name": "Stateless feat. YonYon",
       "url": "https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif"
@@ -16203,7 +16247,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 177259,
       "name": "Trank",
       "url": "https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA"
@@ -17419,7 +17463,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 222440,
       "name": "Worst Dawn",
       "url": "https://open.spotify.com/track/05jo10yiDMaGSq3o7W05Zf"
@@ -18665,7 +18709,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 265066,
       "name": "\u3055\u308f\u3084\u304b",
       "url": "https://open.spotify.com/track/7qtGoaMSCb9Zct4ay1A2TS"
@@ -19737,7 +19781,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 216000,
       "name": "\u30a2\u30fc\u30b1\u30fc\u30c9",
       "url": "https://open.spotify.com/track/6KYeNuXLUNIkctc8BHMpCB"
@@ -20991,6 +21035,24 @@
       "duration_ms": 234859,
       "name": "\u30cf\u30ed\u30fc\u30b0\u30c3\u30d0\u30a4",
       "url": "https://open.spotify.com/track/6hZgLEX5jzfqBp0BChLQWu"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30d7\u30ec\u30a4\u30e4\u30fc",
+        "url": "https://open.spotify.com/album/4nga9j9y8noD839ZEGbo45"
+      },
+      "artists": [
+        {
+          "name": "Zainichi Funk",
+          "url": "https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211503,
+      "name": "\u30d0\u30a4\u30d7\u30ec\u30a4\u30e4\u30fc",
+      "url": "https://open.spotify.com/track/7jYUrB56TYRxEF3WpDtUrk"
     },
     {
       "album": {
@@ -23133,7 +23195,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 268500,
       "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2"
@@ -23313,7 +23375,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 230539,
       "name": "\u5931\u604b\u56de\u8ee2\u5bff\u53f8",
       "url": "https://open.spotify.com/track/7LrbJAwIXnzDAHZEoNKpqS"
@@ -23591,7 +23653,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 201893,
       "name": "\u5e38\u78d0\u30c7\u30a3\u30b9\u30b3\u6e2f\u753a",
       "url": "https://open.spotify.com/track/1KD0jTugxL6WPdTrXwEPL5"

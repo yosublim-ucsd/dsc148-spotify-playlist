@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Flau'jae Johnson and Angel Reese
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Anthony Davis
 
 583 songs - 1 day 5 hr 38 min
 

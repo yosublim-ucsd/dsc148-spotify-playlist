@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,839 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,893 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 72 | [CKULO](https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [CKULO](https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW) | 2:32 |
 | 73 | [Satisfied](https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Satisfied](https://open.spotify.com/album/5Ao966nL5V38v8652399lo) | 3:06 |
 | 74 | [Me Gusta](https://open.spotify.com/track/1HU2VVHRKbcvHvqUMY5BqN) | [Dmitri Saidi](https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g), [Chicks Luv Us](https://open.spotify.com/artist/6tb3j9CDb60zsHm1lN8K02), [BMW KENNY](https://open.spotify.com/artist/3n6wgt7LmxAnT0XOHleQcP), [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Me Gusta](https://open.spotify.com/album/2CaLuhIpgR5omJCyx2rnm4) | 2:44 |
-| 75 | [Pa Lante](https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen), [Gabsy](https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc) | [Pa Lante](https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22) | 2:59 |
+| 75 | [Pa Lante](https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Bautista](https://open.spotify.com/artist/5oryDmGJCySSpMFY9YUeb1), [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen), [Gabsy](https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc) | [Pa Lante](https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22) | 2:59 |
 | 76 | [Bullerengue](https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Bullerengue](https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3) | 3:15 |
 | 77 | [Corazon](https://open.spotify.com/track/3bot8lUvwEKSn8yDuxHA4z) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Corazon](https://open.spotify.com/album/5GJEHZyJuZaAIAoLQscX99) | 2:47 |
 | 78 | [Que Pasa](https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Que Pasa](https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 99 | [Veneno](https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez) | [Alex Now \(ES\)](https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf) | [Veneno](https://open.spotify.com/album/1P8rURJ1RIue0LD5k8iALc) | 3:15 |
 | 100 | [Morena](https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Morena](https://open.spotify.com/album/2uV1mmtYPm4cGFnXWZa1kc) | 2:50 |
 
-Snapshot ID: `MCw5ZTBmNzYyYzkxNDBiNjgyZGYxYjg4MTI5NDdkM2E2NmFhNWNjYzYz`
+Snapshot ID: `MCw5OGVjZTY1ZjI5MmY3NjhkMmNjNTg3NTc5NjE5OTQ2NGU4ZTcwYTBl`

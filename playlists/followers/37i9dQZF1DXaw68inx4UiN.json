@@ -1,8 +1,8 @@
 {
-  "2024-03-27": 344044,
+  "2024-03-28": 344139,
   "date_first_scraped": "2021-12-21",
   "description": "Recordings from the tropical rainforest ",
-  "name": "Rain Forest Sounds",
+  "name": "Rainforest Sounds",
   "tracks": [
     {
       "album": {
@@ -60,6 +60,28 @@
     },
     {
       "album": {
+        "name": "Rainforest Rhythms",
+        "url": "https://open.spotify.com/album/3WPhdX8tbu9RbD3wTEkkoI"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219207,
+      "name": "Belize Rainforest Beats",
+      "url": "https://open.spotify.com/track/5IUdldROD2X1JiFQwBDpcx"
+    },
+    {
+      "album": {
         "name": "Rain Awakening",
         "url": "https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc"
       },
@@ -78,6 +100,46 @@
     },
     {
       "album": {
+        "name": "Forest Bird Songs - Colombia",
+        "url": "https://open.spotify.com/album/1iZoxPY2SJxO1gdNuGySqZ"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Vozterra",
+          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163188,
+      "name": "Bird Sounds in Tarqu\u00ed",
+      "url": "https://open.spotify.com/track/1386KA9Iyqm4brKYk3W3z3"
+    },
+    {
+      "album": {
+        "name": "Birds & Passing Thunder",
+        "url": "https://open.spotify.com/album/7fZE4tCvRCTrqQHn8fvySj"
+      },
+      "artists": [
+        {
+          "name": "Solis Occasum",
+          "url": "https://open.spotify.com/artist/6bKBTQOaODtyaHOJCnXMSd"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218072,
+      "name": "Birds & Passing Thunder",
+      "url": "https://open.spotify.com/track/3ZrnxOOmcv1uHEmSM9b7vw"
+    },
+    {
+      "album": {
         "name": "Nature Sounds",
         "url": "https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX"
       },
@@ -89,7 +151,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 232000,
       "name": "Birds And Breeze",
       "url": "https://open.spotify.com/track/5vRvzOHbx40CCMkmSC28fY"
@@ -125,7 +187,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 222586,
       "name": "Birds in the Forest",
       "url": "https://open.spotify.com/track/6xYPYS7c6y8f6QszLSMtCB"
@@ -179,7 +241,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 599279,
       "name": "Calming Nighttime Rain Sounds",
       "url": "https://open.spotify.com/track/4xnwkLgArVlRv81I1NF2Uu"
@@ -233,7 +295,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 590035,
       "name": "Daytime Jungle Ambience with Heavy Insects, Birds and Water Dropping on Vegetation",
       "url": "https://open.spotify.com/track/4JfIIJr0YVezLxTpHK5Nz3"
@@ -672,6 +734,24 @@
     },
     {
       "album": {
+        "name": "Columbian Jungle Noise",
+        "url": "https://open.spotify.com/album/6YGCYq6zWBhvecdc9Ozn3d"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Gutierrez G.",
+          "url": "https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120125,
+      "name": "Jungle Dusk",
+      "url": "https://open.spotify.com/track/1zmrYMq41ft2IABVvP4FOs"
+    },
+    {
+      "album": {
         "name": "Rain Forest Ambience Sleep Sounds - Sounds From The Jungle For A Clearer Mind",
         "url": "https://open.spotify.com/album/7vJGaKJj8PvMqYTi58Jlun"
       },
@@ -773,7 +853,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 191780,
       "name": "Monsun Thunderstorm",
       "url": "https://open.spotify.com/track/63qps2UseM4TTaciTdeK59"
@@ -888,6 +968,28 @@
     },
     {
       "album": {
+        "name": "Midnight Wilderness",
+        "url": "https://open.spotify.com/album/6OvDlztdFURmheHoFwdtLr"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191144,
+      "name": "Nicaragua Midnight Nature",
+      "url": "https://open.spotify.com/track/72xSV2NJ2pWiuPRTMthIF4"
+    },
+    {
+      "album": {
         "name": "Relaxing Nature Sounds (Deluxe Edition) [Rain, Thunder, Crickets, Waves, Waterfalls, River and Spa Soundscapes]",
         "url": "https://open.spotify.com/album/7o9X31puUg4szGY6eexPmZ"
       },
@@ -899,7 +1001,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 600000,
       "name": "Night Time Forest + Jungle Waterfall Soundscape",
       "url": "https://open.spotify.com/track/07mULeXBpE2Midfs1dM9Ni"
@@ -1104,6 +1206,28 @@
     },
     {
       "album": {
+        "name": "Colombian Rainforests",
+        "url": "https://open.spotify.com/album/756h8xQRfz0sOG6XzHgVHE"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "VozTerra",
+          "url": "https://open.spotify.com/artist/3qnHfhYEvyr6DWu3zYOaP0"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155648,
+      "name": "Rainforest in Leticia",
+      "url": "https://open.spotify.com/track/7ftTtIU8v4ixMT8b7gDduL"
+    },
+    {
+      "album": {
         "name": "Mellow Forest Rain",
         "url": "https://open.spotify.com/album/1QgH2hp8LfklCAr7h90gEO"
       },
@@ -1212,6 +1336,24 @@
     },
     {
       "album": {
+        "name": "Rainy Day in the Jungle of Kauai",
+        "url": "https://open.spotify.com/album/4IhenzeIt8p9Y3vkmRz0rD"
+      },
+      "artists": [
+        {
+          "name": "Beauty of Nature",
+          "url": "https://open.spotify.com/artist/60Z6UmKsZWqsQtg0XHL4Ct"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132224,
+      "name": "Rainy Day in the Jungle of Kauai",
+      "url": "https://open.spotify.com/track/2U0N3cNFuhJU0b8En0BEwR"
+    },
+    {
+      "album": {
         "name": "Gentle Forest Rain",
         "url": "https://open.spotify.com/album/4Q4aYbWcZtkK0vRpzj3RwE"
       },
@@ -1241,7 +1383,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 510720,
       "name": "Refreshing Claps In Thunderstorm",
       "url": "https://open.spotify.com/track/4K5o0A7lQpHox49jSNc7Yk"
@@ -1493,7 +1635,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 590035,
       "name": "South American Jungle Ambience",
       "url": "https://open.spotify.com/track/62UzU328BY9sOluH2yTMQR"
@@ -1551,6 +1693,42 @@
       "duration_ms": 93009,
       "name": "The Sound Of The Jungle With Coloured Birds For Relaxation, Sleeping, Studying",
       "url": "https://open.spotify.com/track/61SiFnjiY36uVSTBVXK5Yw"
+    },
+    {
+      "album": {
+        "name": "Thunderous Relaxation",
+        "url": "https://open.spotify.com/album/57AK2pZaIKBJaWR6SAfGMu"
+      },
+      "artists": [
+        {
+          "name": "Ambiworld",
+          "url": "https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189442,
+      "name": "Thunderous Amazon",
+      "url": "https://open.spotify.com/track/4Xy4EQyJWS01SEERqnfrkn"
+    },
+    {
+      "album": {
+        "name": "Nature's Peaceful Serenade",
+        "url": "https://open.spotify.com/album/5s4EYkZBv7T6tbdxSuotWX"
+      },
+      "artists": [
+        {
+          "name": "Streams of Dreams",
+          "url": "https://open.spotify.com/artist/2MjkAKmAqlHhYHUISO8lli"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132777,
+      "name": "Tranquil Forest Melodies",
+      "url": "https://open.spotify.com/track/3Lfw9M2Z01DnMbDKQ1QbSj"
     },
     {
       "album": {
@@ -1709,10 +1887,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 796451,
       "name": "Waterfall Constant Roar of a Mountain Waterfall to Reduce Stress. Nature Sounds Relaxing",
       "url": "https://open.spotify.com/track/0A71OLE9BN4ImZ3XTCOHP7"
+    },
+    {
+      "album": {
+        "name": "Whispering Nature Harmony",
+        "url": "https://open.spotify.com/album/28CXo52EEFsQF1yMBi8iXo"
+      },
+      "artists": [
+        {
+          "name": "Herbird",
+          "url": "https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195819,
+      "name": "Whispering Nature Harmony",
+      "url": "https://open.spotify.com/track/1rWyQsyX5vqqSMXZyrtQqW"
     },
     {
       "album": {
@@ -1749,6 +1945,24 @@
       "duration_ms": 532000,
       "name": "White Noise (Peaceful Jungle)",
       "url": "https://open.spotify.com/track/26MpviERp5F3eLwotmejx7"
+    },
+    {
+      "album": {
+        "name": "Relaxing Wilderness Serenade",
+        "url": "https://open.spotify.com/album/3zAlxRrbuNo44XqLEHTLqg"
+      },
+      "artists": [
+        {
+          "name": "Fictional Athmosphere",
+          "url": "https://open.spotify.com/artist/0gQq1HrP727iogwRWtHJ5H"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107217,
+      "name": "Wildwood Meditation Soundscape",
+      "url": "https://open.spotify.com/track/0pbswGrPsQ3LRkDGxiiZr5"
     },
     {
       "album": {

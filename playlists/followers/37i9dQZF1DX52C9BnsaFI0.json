@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 207812,
+  "2024-03-28": 207988,
   "date_first_scraped": "2022-09-15",
   "description": "70s rock to fuel your ride. Cover: Aerosmith",
   "name": "70s Rock Drive",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 213633,
       "name": "Baby Hold On (2022 Remaster)",
       "url": "https://open.spotify.com/track/5ZYvcJ04ccUw2Matbnmu0U"
@@ -258,6 +258,24 @@
     },
     {
       "album": {
+        "name": "Hot Rocks (1964-1971)",
+        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229173,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/34K7nU8EWQIRI93RfqhdRJ"
+    },
+    {
+      "album": {
         "name": "Bad Company (Deluxe)",
         "url": "https://open.spotify.com/album/4fuDpBLCt9ChDlqw48bj7p"
       },
@@ -269,7 +287,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 256360,
       "name": "Can't Get Enough - 2015 Remaster",
       "url": "https://open.spotify.com/track/6n5lHdpuBDdA7pYDpiKzEI"
@@ -449,7 +467,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 224533,
       "name": "Double Vision",
       "url": "https://open.spotify.com/track/0fsj3HxzBHev6EJ7OLFE3r"
@@ -489,6 +507,24 @@
       "duration_ms": 267596,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH"
+    },
+    {
+      "album": {
+        "name": "Every Picture Tells A Story",
+        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359733,
+      "name": "Every Picture Tells A Story",
+      "url": "https://open.spotify.com/track/7cYuolexJpsjD91G6i7XIm"
     },
     {
       "album": {
@@ -708,6 +744,24 @@
     },
     {
       "album": {
+        "name": "The Yes Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4nQe6IzubN7cE7EWzrIvu4"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413346,
+      "name": "I've Seen All Good People: a. Your Move, b. All Good People - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3skk6UIXV4kepq2bdYy97g"
+    },
+    {
+      "album": {
         "name": "Jailbreak (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
       },
@@ -777,9 +831,9 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-17",
+      "date_removed": null,
       "duration_ms": 210480,
-      "name": "Lawyers, Guns and Money - 2007 Remaster",
+      "name": "Lawyers, Guns and Money",
       "url": "https://open.spotify.com/track/64dHj8ZxaI2Wj0brEehVMN"
     },
     {
@@ -838,6 +892,42 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501213,
+      "name": "Like a Hurricane - 2003 Remaster",
+      "url": "https://open.spotify.com/track/4CqbJHZ6JtVM3MLh41y7JI"
+    },
+    {
+      "album": {
+        "name": "George Harrison",
+        "url": "https://open.spotify.com/album/49ZkNYNNscP7wzn5iFsfKV"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276213,
+      "name": "Love Comes to Everyone",
+      "url": "https://open.spotify.com/track/5ZYXmLKf2GPYcCHCIYpxg4"
+    },
+    {
+      "album": {
         "name": "Pearl (Legacy Edition)",
         "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
       },
@@ -853,6 +943,24 @@
       "duration_ms": 271333,
       "name": "Me and Bobby McGee",
       "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
+    },
+    {
+      "album": {
+        "name": "Turnstiles",
+        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315000,
+      "name": "Miami 2017 (Seen the Lights Go Out On Broadway)",
+      "url": "https://open.spotify.com/track/4zVPevC2rE84lySHxX61Yr"
     },
     {
       "album": {
@@ -903,7 +1011,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 223826,
       "name": "Move Over",
       "url": "https://open.spotify.com/track/2bD9x9kN4wYyVoyckeqlLk"
@@ -943,6 +1051,24 @@
       "duration_ms": 508333,
       "name": "Paradise By the Dashboard Light",
       "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
+    },
+    {
+      "album": {
+        "name": "Caribou (Remastered 1995)",
+        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309106,
+      "name": "Pinball Wizard - Remastered 1995",
+      "url": "https://open.spotify.com/track/6CJCCb9ookMMDQNz1Rrtii"
     },
     {
       "album": {
@@ -1054,6 +1180,24 @@
     },
     {
       "album": {
+        "name": "The Wild, the Innocent & The E Street Shuffle",
+        "url": "https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420840,
+      "name": "Rosalita (Come Out Tonight)",
+      "url": "https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0"
+    },
+    {
+      "album": {
         "name": "Running on Empty / Nothing but Time (Digital 45)",
         "url": "https://open.spotify.com/album/5ivr226sTfgyZMeWnQjKRL"
       },
@@ -1155,7 +1299,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 208413,
       "name": "Suffragette City - 2012 Remaster",
       "url": "https://open.spotify.com/track/3YZa4IzxK2UtEKTvdTgsi8"
@@ -1213,6 +1357,24 @@
       "duration_ms": 274133,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
+    },
+    {
+      "album": {
+        "name": "Smiler",
+        "url": "https://open.spotify.com/album/1RuMPrVES7OeG5Nam0N8mJ"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222840,
+      "name": "Sweet Little Rock 'N' Roller",
+      "url": "https://open.spotify.com/track/6iLgfbyvQ8lRjixyIYZCW8"
     },
     {
       "album": {
@@ -1324,6 +1486,24 @@
     },
     {
       "album": {
+        "name": "The Lamb Lies Down on Broadway (2007 Stereo Mix)",
+        "url": "https://open.spotify.com/album/49BxISwAbZZfmlhqD6Vh88"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293533,
+      "name": "The Lamb Lies Down on Broadway - 2007 Stereo Mix",
+      "url": "https://open.spotify.com/track/10birs3L6T1PnvDwk4NXuf"
+    },
+    {
+      "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
@@ -1357,6 +1537,24 @@
       "duration_ms": 207093,
       "name": "We're An American Band - Remastered 2002",
       "url": "https://open.spotify.com/track/3XcjIvaZVUFAIdIYZqY9bd"
+    },
+    {
+      "album": {
+        "name": "Walls And Bridges",
+        "url": "https://open.spotify.com/album/3n1j9GslH8h0jIx7NRUIX4"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "Whatever Gets You Thru The Night - Remastered 2010",
+      "url": "https://open.spotify.com/track/49nBXQzYNyjoBmUda3ezMf"
     },
     {
       "album": {

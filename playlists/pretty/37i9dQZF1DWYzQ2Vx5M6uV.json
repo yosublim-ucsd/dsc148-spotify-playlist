@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rawayana, Mr Eazi & Micro TDH",
-  "num_followers": 114825,
+  "num_followers": 114832,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTAyZWZiZTI0M2EwYmRmZTc2MDZjN2RmZDY3NjQxOGIwOTI2Njlh",
+  "snapshot_id": "MCw5MTRmNWQxMzI3MjRlOGMxN2JjMzRlYWFmZTA0ZWQ4M2ZkYmQ2YWIw",
   "tracks": [
     {
       "added_at": "2024-03-22 05:25:14",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-03-22 05:25:14",
       "album": {
+        "name": "Sabi na Sabura",
+        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Sabi na Sabura",
+      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
+    },
+    {
+      "added_at": "2024-03-22 05:25:14",
+      "album": {
         "name": "Estrella",
         "url": "https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 205400,
       "name": "Estrella",
       "url": "https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5"
-    },
-    {
-      "added_at": "2024-03-22 05:25:14",
-      "album": {
-        "name": "Sabi na Sabura",
-        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Sabi na Sabura",
-      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
     },
     {
       "added_at": "2024-03-22 05:25:14",
@@ -1427,18 +1427,22 @@
     {
       "added_at": "2024-03-22 05:25:14",
       "album": {
-        "name": "Yoyo",
-        "url": "https://open.spotify.com/album/6kclTdKcY1qZxG0MiXEyZR"
+        "name": "iluminada",
+        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
       },
       "artists": [
         {
-          "name": "El Gerard",
-          "url": "https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P"
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        },
+        {
+          "name": "Andrew Ace",
+          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
         }
       ],
-      "duration_ms": 156850,
-      "name": "Yoyo",
-      "url": "https://open.spotify.com/track/6a9e8biVcbRP8dcaolJQbQ"
+      "duration_ms": 145909,
+      "name": "lo siento",
+      "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
     }
   ],
   "unique_name": "Afro Ritmo",

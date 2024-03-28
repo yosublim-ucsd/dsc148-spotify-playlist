@@ -1,7 +1,7 @@
 {
-  "2024-03-27": 68110,
+  "2024-03-28": 68126,
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: First Love is Never Returned",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: muque",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -395,7 +395,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 170623,
       "name": "456",
       "url": "https://open.spotify.com/track/6kgOLdMFma5r2Wft43YEgt"
@@ -1400,6 +1400,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Life",
+        "url": "https://open.spotify.com/album/2KZ0CPDNk4bEcBWGWq45fS"
+      },
+      "artists": [
+        {
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168453,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/0Nxt3bgGuaQ02HzCsR7TBn"
+    },
+    {
+      "album": {
         "name": "because",
         "url": "https://open.spotify.com/album/3plPzN3X1JvuC9FENL0my9"
       },
@@ -1559,6 +1577,42 @@
       "duration_ms": 112813,
       "name": "Birthday cake",
       "url": "https://open.spotify.com/track/6PtoEYfD0CoX25YXFfOpVV"
+    },
+    {
+      "album": {
+        "name": "Bite you",
+        "url": "https://open.spotify.com/album/7p1zPjZwJJA9sYTqw7lmpm"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182815,
+      "name": "Bite you",
+      "url": "https://open.spotify.com/track/0HQY3oa2908qhJwIPtiYHE"
+    },
+    {
+      "album": {
+        "name": "BLACK RAIN",
+        "url": "https://open.spotify.com/album/6ZOcVQPB1WCRvAoig0v8vI"
+      },
+      "artists": [
+        {
+          "name": "dawgss",
+          "url": "https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229316,
+      "name": "BLACK RAIN",
+      "url": "https://open.spotify.com/track/22iojo2llkB1j6jSvOSHpx"
     },
     {
       "album": {
@@ -4524,6 +4578,28 @@
     },
     {
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/2YaJIx0GJsRxSAQIRxL4lF"
+      },
+      "artists": [
+        {
+          "name": "Fried Banana Shop",
+          "url": "https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF"
+        },
+        {
+          "name": "Julia Takada",
+          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259065,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/50bQfnQ9OXxDLc158BoAOR"
+    },
+    {
+      "album": {
         "name": "FINE LINE (feat. Skaai) (Prod. uin)",
         "url": "https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P"
       },
@@ -6061,7 +6137,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 185200,
       "name": "Hokoronde Hazereba",
       "url": "https://open.spotify.com/track/1oBxcP18dseo8fUfC1Aya5"
@@ -14931,7 +15007,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 215221,
       "name": "Unlucky!!",
       "url": "https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc"
@@ -16519,7 +16595,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 237106,
       "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa"

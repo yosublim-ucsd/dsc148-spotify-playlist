@@ -5013,6 +5013,24 @@
     },
     {
       "album": {
+        "name": "Mar6le",
+        "url": "https://open.spotify.com/album/0U3YU3OcVdATKqONecYbf4"
+      },
+      "artists": [
+        {
+          "name": "Chogakusei",
+          "url": "https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172512,
+      "name": "Overlook",
+      "url": "https://open.spotify.com/track/4DiOri4A9IVybvW9yzbfgT"
+    },
+    {
+      "album": {
         "name": "oxygen",
         "url": "https://open.spotify.com/album/7n5DPNlVjeFaFkTNJyro7o"
       },
@@ -10216,7 +10234,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 172512,
       "name": "\u30aa\u30fc\u30d0\u30fc\u30eb\u30c3\u30af",
       "url": "https://open.spotify.com/track/5ykdRyAaHly1N4svXvCuen"

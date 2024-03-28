@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 0,
+  "2024-03-28": 0,
   "date_first_scraped": "2023-03-07",
   "description": "",
   "name": "import of The daily dozen (@pipemanuel10)",
@@ -317,7 +317,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 188150,
       "name": "Agua por el rio",
       "url": "https://open.spotify.com/track/2QDI5YME101OVywAT0w2Ih"
@@ -519,6 +519,28 @@
       "duration_ms": 345960,
       "name": "Animal",
       "url": "https://open.spotify.com/track/5Nke24PiSVbzcA4ieZY1Ai"
+    },
+    {
+      "album": {
+        "name": "Sad Songs For Winter",
+        "url": "https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp"
+      },
+      "artists": [
+        {
+          "name": "Kali Claire",
+          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
+        },
+        {
+          "name": "JADA",
+          "url": "https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Anonymous",
+      "url": "https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa"
     },
     {
       "album": {
@@ -918,6 +940,24 @@
     },
     {
       "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173533,
+      "name": "Blood - Hidden Track",
+      "url": "https://open.spotify.com/track/1rNSLiEFpAF4amVhkzfTUG"
+    },
+    {
+      "album": {
         "name": "Boss of Me (From \"Malcolm in the Middle\")",
         "url": "https://open.spotify.com/album/27hQK7DYqEbTvfcQAsH4me"
       },
@@ -1019,7 +1059,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 156403,
       "name": "Brussh",
       "url": "https://open.spotify.com/track/10rsHMWV3P0x5jsA5gO4oe"
@@ -1055,7 +1095,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 267866,
       "name": "Bulls in the Bronx",
       "url": "https://open.spotify.com/track/5JQ21uZ49Hn5VjPiyDSqza"
@@ -1175,7 +1215,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 458083,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/7AW4T7G3e8VsZ8D7jV1hMr"
@@ -1301,7 +1341,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 298866,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
@@ -1485,7 +1525,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 390000,
       "name": "Con Amor...Ojal\u00e1",
       "url": "https://open.spotify.com/track/2pICg8o7bKeIA1BViCIUrg"
@@ -1561,6 +1601,24 @@
       "duration_ms": 243080,
       "name": "Crazy - LP Edit",
       "url": "https://open.spotify.com/track/4kPtKY0eOZcxfehet2aiYK"
+    },
+    {
+      "album": {
+        "name": "cross my heart (hope to die)",
+        "url": "https://open.spotify.com/album/2OPo2MAbCCUWp3TS4N7nld"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Arromba",
+          "url": "https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160622,
+      "name": "cross my heart (hope to die)",
+      "url": "https://open.spotify.com/track/7qt0s5OswWIDJBlLHmiKNi"
     },
     {
       "album": {
@@ -1946,6 +2004,24 @@
     },
     {
       "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261466,
+      "name": "El P\u00e1jaro Vio el Cielo y Se Vol\u00f3",
+      "url": "https://open.spotify.com/track/4smTDf8dKkZXxz66uv5w43"
+    },
+    {
+      "album": {
         "name": "Decipher (The Album - the Sessions)",
         "url": "https://open.spotify.com/album/0Gr8tHhOH8vzBTFqnf0YjT"
       },
@@ -2037,6 +2113,24 @@
       "duration_ms": 263906,
       "name": "Escape",
       "url": "https://open.spotify.com/track/2ik73mqDU1wIlgTriYTebt"
+    },
+    {
+      "album": {
+        "name": "SINO",
+        "url": "https://open.spotify.com/album/4yLlkceQbuq64zdFnxdCYB"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262880,
+      "name": "Esta Vez",
+      "url": "https://open.spotify.com/track/3O6FSINQCT743cLVMRJrsT"
     },
     {
       "album": {
@@ -2354,6 +2448,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/3NSivK5tIM5k4IiH5wobRr"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256693,
+      "name": "Freak On a Leash",
+      "url": "https://open.spotify.com/track/5TfqfmN4bGwOptgcjlihH5"
+    },
+    {
+      "album": {
         "name": "FUBAR",
         "url": "https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx"
       },
@@ -2657,7 +2769,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 241106,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/4NWuOlJQdgDc4uGsq9qmBX"
@@ -2693,7 +2805,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 207409,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
@@ -3555,7 +3667,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 248800,
       "name": "La Voz De Los '80",
       "url": "https://open.spotify.com/track/3UWMYVLYo0QwaPw1OI8hDk"
@@ -4048,6 +4160,42 @@
     },
     {
       "album": {
+        "name": "Antichrist Superstar",
+        "url": "https://open.spotify.com/album/1WLs1iVHFL0wboZpeZ0bFf"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304226,
+      "name": "Mister Superstar",
+      "url": "https://open.spotify.com/track/0T30qRXdFY8Ihy9zjP3hwG"
+    },
+    {
+      "album": {
+        "name": "The Platinum Collection",
+        "url": "https://open.spotify.com/album/1G5FycaSPGPZiwMDxrumgm"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 695386,
+      "name": "Mistreated - Live; 2004 Remastered Version",
+      "url": "https://open.spotify.com/track/39IupZnm3kefibXWnNCX91"
+    },
+    {
+      "album": {
         "name": "Vida de Perros",
         "url": "https://open.spotify.com/album/6GWKx06gvqMvKrDECSuYx4"
       },
@@ -4239,7 +4387,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 236813,
       "name": "Nada Es Igual",
       "url": "https://open.spotify.com/track/7niEic2atQVHSzfc2eau3s"
@@ -4474,6 +4622,24 @@
     },
     {
       "album": {
+        "name": "An Ocean Between Us",
+        "url": "https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223653,
+      "name": "Nothing Left",
+      "url": "https://open.spotify.com/track/2zy79BntQ1kumEUeqM5O84"
+    },
+    {
+      "album": {
         "name": "Bohemian Rhapsody (The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
       },
@@ -4485,7 +4651,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 265981,
       "name": "Now I'm Here - Live At The Hammersmith Odeon",
       "url": "https://open.spotify.com/track/4ysz5yttr3rpRkvyVMLlRB"
@@ -5221,7 +5387,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 332053,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/3sz6nNih9aCuh3yNTsVrst"
@@ -5621,6 +5787,24 @@
       "duration_ms": 146372,
       "name": "Shining",
       "url": "https://open.spotify.com/track/2eGEIhx0owrAgHCyYR0QUr"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/3NSivK5tIM5k4IiH5wobRr"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322746,
+      "name": "Shoots and Ladders",
+      "url": "https://open.spotify.com/track/40DoajfWsc4BVCeU85MWMu"
     },
     {
       "album": {
@@ -6285,7 +6469,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 253640,
       "name": "The Father's House - Studio",
       "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
@@ -7101,6 +7285,24 @@
       "duration_ms": 209073,
       "name": "Want You to Know",
       "url": "https://open.spotify.com/track/4Y3vcZJzevbTEq29vINtYj"
+    },
+    {
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221666,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu"
     },
     {
       "album": {

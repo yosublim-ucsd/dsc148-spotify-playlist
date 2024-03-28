@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Jaido P
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,287 likes - 70 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,350 likes - 70 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 22 | [Frenemies](https://open.spotify.com/track/4E36I3slp0mrMJi5B2jX63) | [Bils](https://open.spotify.com/artist/4ra22MalcoLKAIJwwkeJ8o) | [Frenemies](https://open.spotify.com/album/7yAck9wFhYhgzUMNO6B5ws) | 2:47 |
 | 23 | [BLOOD ON THE DANCE FLOOR \(feat\. Bloody Civilian and Wale\)](https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:53 |
 | 24 | [Wrong Person \(with ODUMODUBLVCK\)](https://open.spotify.com/track/0upnuatnbGnFV7HJgCm9Xj) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:43 |
-| 25 | [LIKE ICE SPICE](https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Like Ice Spice / Bezos](https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA) | 2:03 |
+| 25 | [Personally](https://open.spotify.com/track/4hOlSIK8uwDyzBZEf1mAKI) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [Personally](https://open.spotify.com/album/05lg7B0tibQX5v89l4I7ej) | 2:09 |
 | 26 | [Soro](https://open.spotify.com/track/2dVQommY8nXPpWHoE3dCBX) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Soro](https://open.spotify.com/album/4LvhQBl1WJd8ZdUh5YL3et) | 3:05 |
-| 27 | [Personally](https://open.spotify.com/track/4hOlSIK8uwDyzBZEf1mAKI) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [Personally](https://open.spotify.com/album/05lg7B0tibQX5v89l4I7ej) | 2:09 |
+| 27 | [LIKE ICE SPICE](https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Like Ice Spice / Bezos](https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA) | 2:03 |
 | 28 | [Left Right](https://open.spotify.com/track/73YOLxia81uwDIy7g1TClf) | [Keys the Prince](https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1) | [Left Right](https://open.spotify.com/album/4hCOpkmIWNH1bxMeRxfjfK) | 2:40 |
 | 29 | [Tempo](https://open.spotify.com/track/5u3DPeOB7igxEaZV6lntlh) | [dndSection](https://open.spotify.com/artist/7mQzdxdxZFsbWLMP3lcZtS) | [Tempo](https://open.spotify.com/album/62idXCwWHEJYlTvBNTnXuE) | 2:49 |
 | 30 | [No Time](https://open.spotify.com/track/0q38R1OzXFPF3lUaAl1sGm) | [SamxCas](https://open.spotify.com/artist/3JyQBfZ68RWhEYZU3AKGyn) | [No Time](https://open.spotify.com/album/6Y3ysqPvkpY9vasxSEvGWI) | 2:07 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 64 | [Pop Sermon](https://open.spotify.com/track/3jGkAgjo3IwwcCsuUptm0W) | [Dope Caesar](https://open.spotify.com/artist/0EEbHnHvCvomjaPszMvJxL), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Pop Sermon](https://open.spotify.com/album/4sJRYRgfoFyQrI7qlDmnCb) | 2:29 |
 | 65 | [Family time](https://open.spotify.com/track/20hAjy3wYx3VW8pWr3AgGx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Family Time](https://open.spotify.com/album/5kbGns9MNOAyvRhadymdy2) | 3:42 |
 | 66 | [No Wam](https://open.spotify.com/track/2ZoMTHk3A1IiChH9h6BW5b) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [No Wam](https://open.spotify.com/album/72EQ052XrPOGeHp1M7ruYE) | 3:03 |
-| 67 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 |
-| 68 | [Belong to You](https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Belong to You](https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU) | 3:02 |
-| 69 | [Jowo](https://open.spotify.com/track/3JMPFxoSzCeLD9n5JumZFb) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Jowo](https://open.spotify.com/album/5sXgkD3qm5z4QKznPlGJNT) | 2:43 |
-| 70 | [Egberi](https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Egberi](https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP) | 2:19 |
+| 67 | [Belong to You](https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Belong to You](https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU) | 3:02 |
+| 68 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 |
+| 69 | [Egberi](https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Egberi](https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP) | 2:19 |
+| 70 | [Jowo](https://open.spotify.com/track/3JMPFxoSzCeLD9n5JumZFb) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Jowo](https://open.spotify.com/album/5sXgkD3qm5z4QKznPlGJNT) | 2:43 |
 
-Snapshot ID: `MCxlZWNmZjBjZTI1ZTEwOTk2YWIyNTYyZDVkYjM2NDdlODEwMTk5ZjEx`
+Snapshot ID: `MCxiZDk5MGNmMzE3YTg1NTA3YTg1Zjc0ZjFhOTY0ZDkxOWI1MGY4ZGVk`

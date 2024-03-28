@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！International Women’s Day takeover\. Powered by <a href="spotify:genre:equal">EQUAL</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,714 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,718 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [CACTUS](https://open.spotify.com/track/5XEanyXMTmJwi6C3ECSc2j) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [CACTUS](https://open.spotify.com/album/4vC52K14grNuFtp8NIbLMm) | 4:06 |
 | 50 | [stay in 17](https://open.spotify.com/track/7xTJK8fcNF51xxPRgVlhBh) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [stay in 17](https://open.spotify.com/album/1gFenmBSXfKe8bewjkiFiv) | 3:42 |
 
-Snapshot ID: `MCw0NDBmZjM2NWExZjhhNjM1ZWM5ZmFkZGRkMjJmZThiNTk2MTRhYTUy`
+Snapshot ID: `MCxlZTkzMjI3NmQ5M2RmNTk5MzkxYzdiOTAxYjE5YThjOTVmYmQ0MzZj`

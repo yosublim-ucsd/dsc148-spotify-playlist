@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha?si=ThEtLhEJS\-C9MyvOxUl4fA">Kujenga</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,581 likes - 55 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,594 likes - 55 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 54 | [Joburg Poem](https://open.spotify.com/track/2HOgtaksnuNreoo6xogBHL) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 3:56 |
 | 55 | [Komani](https://open.spotify.com/track/20493T1klNTt4VFVIQFosr) | [Keenan Meyer](https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG), [Tshepo Tsotetsi](https://open.spotify.com/artist/1WePh4qMbrAyRrkTm8Pn7q) | [The Alchemy of Living](https://open.spotify.com/album/6rC96afb0mApTsgQeA7GZb) | 6:43 |
 
-Snapshot ID: `MCwyODNmN2NlNDlmMDMxYjc1MzJiMzM1MGI5ZWY3ZGVhYmFkYTYyMjBl`
+Snapshot ID: `MCw2NTVhODc4YzFiOWZlYzE4OWRiOWRmZTQyMjljODJhMDJiYTE0ZGYw`

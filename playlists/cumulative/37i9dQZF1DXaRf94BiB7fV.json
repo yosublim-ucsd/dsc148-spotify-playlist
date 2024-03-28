@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Rudra The Band, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Pranav Kamat & Brecilla, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -768,7 +768,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 216393,
       "name": "Aazaad",
       "url": "https://open.spotify.com/track/5SPU4bsq4EFcWyXoDYyqNE"
@@ -2400,6 +2400,28 @@
       "duration_ms": 184620,
       "name": "Bekhabar",
       "url": "https://open.spotify.com/track/3eUNJxtPr0KPBOUV95rMj2"
+    },
+    {
+      "album": {
+        "name": "Bekhabar Zindagi",
+        "url": "https://open.spotify.com/album/0WnTKkQQwKRSwfCyLfHxio"
+      },
+      "artists": [
+        {
+          "name": "Prissha",
+          "url": "https://open.spotify.com/artist/61GLxQPP4ljtcOGVckN2x0"
+        },
+        {
+          "name": "Pancham",
+          "url": "https://open.spotify.com/artist/3huoY1OXYvL515nDMJeVMj"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154396,
+      "name": "Bekhabar Zindagi",
+      "url": "https://open.spotify.com/track/2eHfJ7tAqFAiTMZnnOnYhT"
     },
     {
       "album": {
@@ -5622,7 +5644,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 200653,
       "name": "Everything at once",
       "url": "https://open.spotify.com/track/4WkUY1fMYyXijiqFZpSy6f"
@@ -8480,7 +8502,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 220953,
       "name": "Intezaar",
       "url": "https://open.spotify.com/track/425tIET6KTUJm8nnZsy0eI"
@@ -11086,7 +11108,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 187631,
       "name": "KINA KHAAS",
       "url": "https://open.spotify.com/track/4uNL66m32hCv2kWfUfZiof"
@@ -11752,6 +11774,24 @@
       "duration_ms": 234857,
       "name": "Laut Aao",
       "url": "https://open.spotify.com/track/4XberKGfNrXQuXj3xy3K21"
+    },
+    {
+      "album": {
+        "name": "Laut Aao",
+        "url": "https://open.spotify.com/album/2E7sbHTClKeC4HXGq27yO5"
+      },
+      "artists": [
+        {
+          "name": "Parth Gambhir",
+          "url": "https://open.spotify.com/artist/1wi1qrjDbpDLrQkkwuS7Dm"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226663,
+      "name": "Laut Aao",
+      "url": "https://open.spotify.com/track/1mTbcETPy7i8zwTIFNCG9p"
     },
     {
       "album": {
@@ -14404,7 +14444,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 201951,
       "name": "Noor",
       "url": "https://open.spotify.com/track/1q44MTO5xmgBtaR7Y9H3S7"
@@ -14795,6 +14835,28 @@
     },
     {
       "album": {
+        "name": "Outta My Way",
+        "url": "https://open.spotify.com/album/4eZZk8KXoT5is4XAgZBhOt"
+      },
+      "artists": [
+        {
+          "name": "Pranav Kamat",
+          "url": "https://open.spotify.com/artist/5LWsO320320Bir9ZgvrHGx"
+        },
+        {
+          "name": "Brecilla",
+          "url": "https://open.spotify.com/artist/4CuvDi9xxTJKFKvzfhEdRB"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63000,
+      "name": "Outta My Way",
+      "url": "https://open.spotify.com/track/4hhDb9CjEY4HuqviFY3KNH"
+    },
+    {
+      "album": {
         "name": "Over & Over",
         "url": "https://open.spotify.com/album/5ClJWsPzUAbj6A1SWGTPoe"
       },
@@ -14934,6 +14996,32 @@
       "duration_ms": 294428,
       "name": "Panaah",
       "url": "https://open.spotify.com/track/494HaAQ2CQ1fTdGi8snJsN"
+    },
+    {
+      "album": {
+        "name": "Par Na Karoon Main Bayaan",
+        "url": "https://open.spotify.com/album/0Zfh8roNgTHPi6UKMIr5jr"
+      },
+      "artists": [
+        {
+          "name": "Sourav Dey",
+          "url": "https://open.spotify.com/artist/5lH2vFIQx4St00QvSMe0BX"
+        },
+        {
+          "name": "Hardik Sawhney",
+          "url": "https://open.spotify.com/artist/4kiiFz7Cf3gombibBvf1JX"
+        },
+        {
+          "name": "Aathira Gopi",
+          "url": "https://open.spotify.com/artist/1XbRxRkDOSiMtOJxsCgCTU"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301142,
+      "name": "Par Na Karoon Main Bayaan",
+      "url": "https://open.spotify.com/track/5ne10Gy0T0j5hKFIGqcI5X"
     },
     {
       "album": {
@@ -15166,7 +15254,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 84923,
       "name": "Peace",
       "url": "https://open.spotify.com/track/51XJgxc4jML9Tqjr1Sj4c8"
@@ -15879,6 +15967,50 @@
     },
     {
       "album": {
+        "name": "Raise Me",
+        "url": "https://open.spotify.com/album/6a1kWALY5WBlsJpMq0DumN"
+      },
+      "artists": [
+        {
+          "name": "Dwain Willis",
+          "url": "https://open.spotify.com/artist/79ZYKvbgWvEwQye9io7K0X"
+        },
+        {
+          "name": "Mayur Koli",
+          "url": "https://open.spotify.com/artist/05m2Kni8TOM0zX0o0yb7OF"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193255,
+      "name": "Raise Me",
+      "url": "https://open.spotify.com/track/0bCHWyjpBqAt07I4AUKB8Y"
+    },
+    {
+      "album": {
+        "name": "Rang Chadheya",
+        "url": "https://open.spotify.com/album/4s2WLUhDysiCe9JWcmmEnR"
+      },
+      "artists": [
+        {
+          "name": "Apurva Krishna",
+          "url": "https://open.spotify.com/artist/4Mv4apQaWzG4FtYA5XsJch"
+        },
+        {
+          "name": "Tajinder Singh",
+          "url": "https://open.spotify.com/artist/74YdWBWq7R9JJIDM3NCSrG"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215419,
+      "name": "Rang Chadheya",
+      "url": "https://open.spotify.com/track/0pHVpjpyZg3rI6e2AWYQFm"
+    },
+    {
+      "album": {
         "name": "Rang Daaroongi",
         "url": "https://open.spotify.com/album/3JsXkQlrySZM91ANIiqIDa"
       },
@@ -16296,7 +16428,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 118588,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/6JcJItwa9i9xZrSgpnd5fK"
@@ -17030,6 +17162,24 @@
       "duration_ms": 268333,
       "name": "Saiyaan Bina (feat. Anshuman Sharma)",
       "url": "https://open.spotify.com/track/3JMz4MfpBq6OOv5kfltzgL"
+    },
+    {
+      "album": {
+        "name": "Sajan Bin Bavari",
+        "url": "https://open.spotify.com/album/5IYJ1af4kwTOC32bhLELII"
+      },
+      "artists": [
+        {
+          "name": "Aryann Shabin",
+          "url": "https://open.spotify.com/artist/14Flmh4Trw9dePECs84HvK"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179692,
+      "name": "Sajan Bin Bavari",
+      "url": "https://open.spotify.com/track/5nHoSRkxU3FTBg1CpXjzW1"
     },
     {
       "album": {
@@ -18585,6 +18735,24 @@
     },
     {
       "album": {
+        "name": "Sundai Nai",
+        "url": "https://open.spotify.com/album/4yLFUe1PSJt2xwB3LmqpY6"
+      },
+      "artists": [
+        {
+          "name": "Samyak Prasana",
+          "url": "https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245647,
+      "name": "Sundai Nai",
+      "url": "https://open.spotify.com/track/6hBk0Y9c7BAOX11loue0e1"
+    },
+    {
+      "album": {
         "name": "Sundarva",
         "url": "https://open.spotify.com/album/5qOnY0X8yNAhUzBnHO4pEf"
       },
@@ -19668,7 +19836,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 190800,
       "name": "Till Midnight",
       "url": "https://open.spotify.com/track/4Dc3XTwAWL6TmgkEBtT431"

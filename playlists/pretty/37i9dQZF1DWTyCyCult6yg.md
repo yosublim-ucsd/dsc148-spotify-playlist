@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyCyCult6yg.md) - [plain]
 
 > Caterina Barbieri's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,219 likes - 29 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,241 likes - 29 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyCyCult6yg.md) - [plain]
 | 4 | [Voyager](https://open.spotify.com/track/4VWqW5L7atG0psu8TtCVyN) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [In Free Fall](https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2) | 4:04 |
 | 5 | [Variation \#9: Pantelleria](https://open.spotify.com/track/2OdF7JWprGAps570PA57dS) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations For Piano & Tape](https://open.spotify.com/album/3YajhQtcNYZbLooxeVp4KA) | 44:37 |
 | 6 | [Clearing](https://open.spotify.com/track/3IL43TRkEnh4buGOZ1Brb5) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 4:41 |
-| 7 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 |
+| 7 | [Spectacle Of Ritual](https://open.spotify.com/track/2BqFBCxmlTAYLklSuyWi7y) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/5Hyb3LlbP8DIVP4zsMOwlw) | 10:53 |
 | 8 | [Sonus Ruinae part 1](https://open.spotify.com/track/6zBMShkhey4dGfJb9DjHxS) | [Marta De Pascalis](https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr) | [Sonus Ruinae](https://open.spotify.com/album/5GWWgKTuTNLVTlMB44ognu) | 9:43 |
 | 9 | [Eutow](https://open.spotify.com/track/4uRXAyNL5T4KY7iawdfJBZ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI) | 4:15 |
 | 10 | [Canone Infinito](https://open.spotify.com/track/4rbLiyMabI4JhlLeXqb5ps) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Scacco Matto](https://open.spotify.com/album/2vgQwkBwLcdwdwvQecpp1p) | 4:59 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyCyCult6yg.md) - [plain]
 | 28 | [Agalma VI](https://open.spotify.com/track/2AMuGr4llwtut9y4l4TJNU) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4) | [Agalma](https://open.spotify.com/album/5qHPkkSl1GwTNqHQx0nuwk) | 5:48 |
 | 29 | [Fantas](https://open.spotify.com/track/4mrRhrbG2o102StszS7I8y) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Ecstatic Computation](https://open.spotify.com/album/2wcVvjGwKFPtVV8Ggn5dkm) | 10:31 |
 
-Snapshot ID: `MCxmNjAzZDVlMTU3M2I2YzZkZTA5OWFhMDIzOTA2NjViYzNmMzQzZGE2`
+Snapshot ID: `MCwwZDNmNzlmZDBhYjM4MDc5ODZhNjA3OTZkMDc3YTE2YzE3MzQ2ZDg5`

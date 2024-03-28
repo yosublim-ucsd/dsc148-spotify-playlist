@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 71725,
+  "num_followers": 71762,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzEwZGU3ODBhNTgwN2JjMDNlNDViMjVhZjVlYTc3MjI5MzdiNWQ4",
+  "snapshot_id": "MCwzOTY1NGYxNWY2Mzk0MGM5NGI1ZTRlMWJhMjQ4OWEyOWM1ZmI2ZGVm",
   "tracks": [
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
+        "name": "Adrenaline Kicks",
+        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
+      },
+      "artists": [
+        {
+          "name": "Jur Terreur",
+          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
+        }
+      ],
+      "duration_ms": 160390,
+      "name": "Adrenaline Kicks",
+      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
         "name": "Go Insane",
         "url": "https://open.spotify.com/album/5StSF4OCsRGmOxa2Bm7c9d"
       },
@@ -1063,38 +1079,6 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "Adrenaline Kicks",
-        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
-      },
-      "artists": [
-        {
-          "name": "Jur Terreur",
-          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
-        }
-      ],
-      "duration_ms": 160390,
-      "name": "Adrenaline Kicks",
-      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
-        "name": "The Oni Retribution",
-        "url": "https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb"
-      },
-      "artists": [
-        {
-          "name": "Nosferatu",
-          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
-        }
-      ],
-      "duration_ms": 265900,
-      "name": "The Oni Retribution",
-      "url": "https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
         "name": "The Roots (Official Harmony of Hardcore 2023 Anthem)",
         "url": "https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 235734,
       "name": "The Roots - Official Harmony of Hardcore 2023 Anthem",
       "url": "https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
+        "name": "The Oni Retribution",
+        "url": "https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb"
+      },
+      "artists": [
+        {
+          "name": "Nosferatu",
+          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
+        }
+      ],
+      "duration_ms": 265900,
+      "name": "The Oni Retribution",
+      "url": "https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "We Roar Special",
-        "url": "https://open.spotify.com/album/0K9Jpxbt3Er6NMwMkEFR0r"
-      },
-      "artists": [
-        {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
-        },
-        {
-          "name": "Jur Terreur",
-          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Like An Animal - Jur Terreur Remix",
-      "url": "https://open.spotify.com/track/2Ja6dTeqsDx8YFAR1ojmpx"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
         "name": "Psychopath",
         "url": "https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 217411,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/5BQxtpXiJFMCqjKFklX7xo"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
+        "name": "We Roar Special",
+        "url": "https://open.spotify.com/album/0K9Jpxbt3Er6NMwMkEFR0r"
+      },
+      "artists": [
+        {
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+        },
+        {
+          "name": "Jur Terreur",
+          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Like An Animal - Jur Terreur Remix",
+      "url": "https://open.spotify.com/track/2Ja6dTeqsDx8YFAR1ojmpx"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1211,8 +1211,8 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "No Rules",
-        "url": "https://open.spotify.com/album/4BthNnsYQRqzWirIhkpNl9"
+        "name": "PURSUIT",
+        "url": "https://open.spotify.com/album/4U28LlMnvG8KdHRm05Dodt"
       },
       "artists": [
         {
@@ -1220,13 +1220,13 @@
           "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
         },
         {
-          "name": "XELOR",
-          "url": "https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf"
+          "name": "Stealth",
+          "url": "https://open.spotify.com/artist/0epWcaPLkRPWSFYgWk26Ju"
         }
       ],
-      "duration_ms": 183268,
-      "name": "LEGEND (feat. XELOR)",
-      "url": "https://open.spotify.com/track/4CSQFGPnH6Q6UzcequUkKn"
+      "duration_ms": 120000,
+      "name": "PURSUIT",
+      "url": "https://open.spotify.com/track/0kBjy2MP0fx0gqHfIDSy23"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
+        "name": "Shadows in the Dark",
+        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 288398,
+      "name": "Shadows in the Dark",
+      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
         "name": "Birds Of Prey",
         "url": "https://open.spotify.com/album/47W7mse88m5QeXraSc28Ga"
       },
@@ -1279,6 +1295,22 @@
       "duration_ms": 185846,
       "name": "Birds Of Prey",
       "url": "https://open.spotify.com/track/7hRfEhxrcO80pJUmrT59kr"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
+      },
+      "artists": [
+        {
+          "name": "Bloodfire",
+          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1303,38 +1335,6 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "Shadows in the Dark",
-        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 288398,
-      "name": "Shadows in the Dark",
-      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
-      },
-      "artists": [
-        {
-          "name": "Bloodfire",
-          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
         "name": "Adrenaline (Never Surrender Remix)",
         "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
       },
@@ -1355,8 +1355,8 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "PURSUIT",
-        "url": "https://open.spotify.com/album/4U28LlMnvG8KdHRm05Dodt"
+        "name": "No Rules",
+        "url": "https://open.spotify.com/album/4BthNnsYQRqzWirIhkpNl9"
       },
       "artists": [
         {
@@ -1364,13 +1364,13 @@
           "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
         },
         {
-          "name": "Stealth",
-          "url": "https://open.spotify.com/artist/0epWcaPLkRPWSFYgWk26Ju"
+          "name": "XELOR",
+          "url": "https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf"
         }
       ],
-      "duration_ms": 120000,
-      "name": "PURSUIT",
-      "url": "https://open.spotify.com/track/0kBjy2MP0fx0gqHfIDSy23"
+      "duration_ms": 183268,
+      "name": "LEGEND (feat. XELOR)",
+      "url": "https://open.spotify.com/track/4CSQFGPnH6Q6UzcequUkKn"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
+        "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
+        "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
+      },
+      "artists": [
+        {
+          "name": "GridKiller",
+          "url": "https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7"
+        }
+      ],
+      "duration_ms": 322666,
+      "name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
+      "url": "https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 223578,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
-        "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
-        "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
-      },
-      "artists": [
-        {
-          "name": "GridKiller",
-          "url": "https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7"
-        }
-      ],
-      "duration_ms": 322666,
-      "name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
-      "url": "https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
+        "name": "THE 4TH DIMENSION",
+        "url": "https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 203052,
+      "name": "Oldschool The School",
+      "url": "https://open.spotify.com/track/3og4g4ASh85aYNRTHzX0gO"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/1dK50G7UOfUkgB6ysbyexf"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 208000,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/2I4sZzFKCPdTVlKrUka1mO"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
-        "name": "THE 4TH DIMENSION",
-        "url": "https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        }
-      ],
-      "duration_ms": 203052,
-      "name": "Oldschool The School",
-      "url": "https://open.spotify.com/track/3og4g4ASh85aYNRTHzX0gO"
     },
     {
       "added_at": "2024-03-26 15:23:23",

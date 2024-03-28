@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 105545,
+  "2024-03-28": 105549,
   "date_first_scraped": "2023-02-25",
   "description": "Luister naar nieuwe songs en hits van dit moment! Cover: The Indien",
   "name": "Stay Tuned!",
@@ -4417,7 +4417,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 183653,
       "name": "Physical Touch",
       "url": "https://open.spotify.com/track/0tnpWXevslZO3FkxSu4VVC"
@@ -6083,6 +6083,24 @@
       "duration_ms": 272709,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh"
+    },
+    {
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
     },
     {
       "album": {

@@ -413,6 +413,32 @@
     },
     {
       "album": {
+        "name": "15 MINUT",
+        "url": "https://open.spotify.com/album/4Zdit50vrKOrDlC4LH04TR"
+      },
+      "artists": [
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "Sergiusz",
+          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193733,
+      "name": "15 MINUT",
+      "url": "https://open.spotify.com/track/0ohhlmedLa72XMSJwxW62A"
+    },
+    {
+      "album": {
         "name": "M\u0142ody Matczak",
         "url": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd"
       },
@@ -1892,7 +1918,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 142978,
       "name": "Ameryka",
       "url": "https://open.spotify.com/track/1y6BLlPX3H2i9ziz4OMZTs"
@@ -4123,6 +4149,36 @@
     },
     {
       "album": {
+        "name": "BLOK!",
+        "url": "https://open.spotify.com/album/5enVbTWwFKmmCxc8RGNmYO"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        },
+        {
+          "name": "Suwal",
+          "url": "https://open.spotify.com/artist/5ySH1SGdybbpB07zl03goY"
+        },
+        {
+          "name": "Kusha",
+          "url": "https://open.spotify.com/artist/2a3CjKMScCbYiM3XTay0zf"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137480,
+      "name": "BLOK!",
+      "url": "https://open.spotify.com/track/031b3RMm1OxdNAta0tBcvN"
+    },
+    {
+      "album": {
         "name": "Born This Way (Special Edition)",
         "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
       },
@@ -6312,7 +6368,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 169840,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
@@ -6562,6 +6618,32 @@
       "duration_ms": 192480,
       "name": "co to za bluza lanek?",
       "url": "https://open.spotify.com/track/1NiFHUcQAqgNIIaZGbbHsu"
+    },
+    {
+      "album": {
+        "name": "Co ty mi dasz ale to DRILL",
+        "url": "https://open.spotify.com/album/0wfRReRNYIdKi0yP5XCrvm"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "m\u0142ody klakson",
+          "url": "https://open.spotify.com/artist/5OpbwO25KnXFv2nUYlMwOu"
+        },
+        {
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/00ekfPE5ZS3NwF8H8o8GBk"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132042,
+      "name": "Co ty mi dasz ale to DRILL",
+      "url": "https://open.spotify.com/track/0cN69CM2rw5hoEgeGdF87m"
     },
     {
       "album": {
@@ -7740,7 +7822,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 162000,
       "name": "Death note",
       "url": "https://open.spotify.com/track/13mgRmDwkyfsgG78YyEDLc"
@@ -15090,7 +15172,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 153600,
       "name": "Jolie Jolie",
       "url": "https://open.spotify.com/track/2JJ6WnAfVglnYfxZubSukn"
@@ -19524,7 +19606,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 180573,
       "name": "Miyabi",
       "url": "https://open.spotify.com/track/2lCNJCCu7eiBeGVu9AevkW"
@@ -21826,6 +21908,28 @@
       "duration_ms": 142857,
       "name": "NIE OTWIERAJ DRZWI",
       "url": "https://open.spotify.com/track/3xMn54eE8d34T9lcsuWLey"
+    },
+    {
+      "album": {
+        "name": "Nie Szkodzi",
+        "url": "https://open.spotify.com/album/71VoAa4uW9aVsgFifebH62"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        },
+        {
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151687,
+      "name": "Nie Szkodzi",
+      "url": "https://open.spotify.com/track/73f2sCPvdMu9eWrbA0Eu56"
     },
     {
       "album": {
@@ -31340,7 +31444,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 180937,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/1g88Qpz9ZsJM1hlB3PLdgY"

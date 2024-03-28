@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1220422,
+  "num_followers": 1220562,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDVjODQ0YThjNjczZmMwMWI1ZmI2MDgyMmViZjZhMDRmMDJiN2Nl",
+  "snapshot_id": "MCxkZDdiYzRiYzdlMjQ5MDNmYmI3YjdmNGMxYjAwNDlmNzI1NmFhOWZk",
   "tracks": [
     {
       "added_at": "2024-03-20 08:21:42",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "Nat \"King\" Cole & Me",
-        "url": "https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 128520,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "The Window",
         "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 129127,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
+        "name": "Nat \"King\" Cole & Me",
+        "url": "https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 128520,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "Me and My Radio",
-        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
-      },
-      "artists": [
-        {
-          "name": "Anthony Strong",
-          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
-        }
-      ],
-      "duration_ms": 318980,
-      "name": "I Can't Give You Anything",
-      "url": "https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "Dear Blossom,",
         "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 233120,
       "name": "I Walk A Little Faster",
       "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
+        "name": "Me and My Radio",
+        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
+      },
+      "artists": [
+        {
+          "name": "Anthony Strong",
+          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
+        }
+      ],
+      "duration_ms": 318980,
+      "name": "I Can't Give You Anything",
+      "url": "https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "Here's To You - Songs For Shirley Horn",
-        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9rez Montcalm",
-          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
-        }
-      ],
-      "duration_ms": 301533,
-      "name": "A Song For You",
-      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "First Conversation",
         "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 271773,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
+        "name": "Here's To You - Songs For Shirley Horn",
+        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9rez Montcalm",
+          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
+        }
+      ],
+      "duration_ms": 301533,
+      "name": "A Song For You",
+      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1"
-      },
-      "artists": [
-        {
-          "name": "Marie Bergman",
-          "url": "https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99"
-        }
-      ],
-      "duration_ms": 262920,
-      "name": "It Amazes Me",
-      "url": "https://open.spotify.com/track/7DxwotLgkVN9zOcZ58JFfw"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "An Englishman in Love in LA",
         "url": "https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 176573,
       "name": "The Touch of Your Lips",
       "url": "https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1"
+      },
+      "artists": [
+        {
+          "name": "Marie Bergman",
+          "url": "https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99"
+        }
+      ],
+      "duration_ms": 262920,
+      "name": "It Amazes Me",
+      "url": "https://open.spotify.com/track/7DxwotLgkVN9zOcZ58JFfw"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -1611,34 +1611,18 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "Once Again Looking For Love",
-        "url": "https://open.spotify.com/album/2vBgUSyNzqaIs8ZJPCpQeM"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo"
       },
       "artists": [
         {
-          "name": "Irma Neum\u00fcller",
-          "url": "https://open.spotify.com/artist/12IgqUh5ZWPutziu3KFq4w"
-        },
-        {
-          "name": "Stefan Wingefors",
-          "url": "https://open.spotify.com/artist/1liam8bwvvXaHhAtjBBBC4"
-        },
-        {
-          "name": "Bo Nyg\u00e5rds",
-          "url": "https://open.spotify.com/artist/3BBzllaBTkBElB3EAIevP7"
-        },
-        {
-          "name": "Albin Halvordsson",
-          "url": "https://open.spotify.com/artist/3275AaFKPyK0QCVLYHraMv"
-        },
-        {
-          "name": "Johan L\u00f6fcrantz Ramsay",
-          "url": "https://open.spotify.com/artist/4KjT6YrRSQlJcj6YJuRZuy"
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
         }
       ],
-      "duration_ms": 363440,
-      "name": "Once Again Looking For Love",
-      "url": "https://open.spotify.com/track/15co0IfqPYN3UvUX47Arhq"
+      "duration_ms": 301320,
+      "name": "A Time For Love",
+      "url": "https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -1679,18 +1663,34 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo"
+        "name": "Once Again Looking For Love",
+        "url": "https://open.spotify.com/album/2vBgUSyNzqaIs8ZJPCpQeM"
       },
       "artists": [
         {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+          "name": "Irma Neum\u00fcller",
+          "url": "https://open.spotify.com/artist/12IgqUh5ZWPutziu3KFq4w"
+        },
+        {
+          "name": "Stefan Wingefors",
+          "url": "https://open.spotify.com/artist/1liam8bwvvXaHhAtjBBBC4"
+        },
+        {
+          "name": "Bo Nyg\u00e5rds",
+          "url": "https://open.spotify.com/artist/3BBzllaBTkBElB3EAIevP7"
+        },
+        {
+          "name": "Albin Halvordsson",
+          "url": "https://open.spotify.com/artist/3275AaFKPyK0QCVLYHraMv"
+        },
+        {
+          "name": "Johan L\u00f6fcrantz Ramsay",
+          "url": "https://open.spotify.com/artist/4KjT6YrRSQlJcj6YJuRZuy"
         }
       ],
-      "duration_ms": 301320,
-      "name": "A Time For Love",
-      "url": "https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG"
+      "duration_ms": 363440,
+      "name": "Once Again Looking For Love",
+      "url": "https://open.spotify.com/track/15co0IfqPYN3UvUX47Arhq"
     },
     {
       "added_at": "2024-03-20 08:21:42",

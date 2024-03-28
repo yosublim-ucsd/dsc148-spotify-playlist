@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 9246,
+  "num_followers": 9259,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmNlYTBkYjY2NGVlNDg2OWVmNThhZmQ0NTNlN2NmYTMxZWFiNDJl",
+  "snapshot_id": "MCxmMTJkMWI3NGUzZTVhZTRjMDhlY2ExZTcxNjYwMjk2YjZmY2ZlYTNm",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "MIDLIFE CRISIS / WYDTM",
+        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 131478,
+      "name": "MIDLIFE CRISIS",
+      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Insert Project Name",
         "url": "https://open.spotify.com/album/5tw4JeQu97XGzDiJpvY2iw"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 217487,
       "name": "Gardens",
       "url": "https://open.spotify.com/track/3XlMp86m5fJzly6Wn9vQDP"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "MIDLIFE CRISIS / WYDTM",
-        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 131478,
-      "name": "MIDLIFE CRISIS",
-      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "MASTA",
+        "url": "https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Tighter",
+      "url": "https://open.spotify.com/track/6mDGTjuEKhX8TtcLD4NMpA"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 193249,
       "name": "SPACE",
       "url": "https://open.spotify.com/track/2pdBq0lWsGjSiDP2T6NSZ0"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Supa Sigh",
-        "url": "https://open.spotify.com/album/0Ozr5RbURs53qS2LPBq3eS"
-      },
-      "artists": [
-        {
-          "name": "BrisB",
-          "url": "https://open.spotify.com/artist/5hsqUG0HzeF5qurzzanUWa"
-        },
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Supa Sigh",
-      "url": "https://open.spotify.com/track/6mESvUo6c4KILTSt0tv7Em"
     }
   ],
   "unique_name": "Alt\u00e9 Classics ",

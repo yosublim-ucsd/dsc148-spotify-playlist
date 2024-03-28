@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12664,
+  "num_followers": 12667,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjFiYjJhM2E1M2E0NmU4Mzk3NmZiNTg5NGI2MWMxODYyMWFlYTA4",
+  "snapshot_id": "MCw2OTJiMWZjMzMwMjhhNjJkYmE3ZGE5ZjA0NjU5OGU1NmIyYzhlMTQ2",
   "tracks": [
     {
       "added_at": "2024-03-25 16:49:10",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
+        "name": "Stronger (Acoustic)",
+        "url": "https://open.spotify.com/album/5434GTkVlcoMWYaKUUBIXd"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "Stronger - Acoustic",
+      "url": "https://open.spotify.com/track/21Yq2RZa4fyV6juXaCQOFV"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
         "name": "Everyday Life, Everyday People",
         "url": "https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 241306,
       "name": "If You Want It",
       "url": "https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
-        "name": "Stronger (Acoustic)",
-        "url": "https://open.spotify.com/album/5434GTkVlcoMWYaKUUBIXd"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "Stronger - Acoustic",
-      "url": "https://open.spotify.com/track/21Yq2RZa4fyV6juXaCQOFV"
     },
     {
       "added_at": "2024-03-25 16:49:10",

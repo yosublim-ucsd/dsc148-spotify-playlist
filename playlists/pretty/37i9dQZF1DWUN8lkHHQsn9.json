@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDEyZmYwY2I4NGQzYmZhMjVkOGE5ZjJiZmZmY2ZiZTg3YzZhYzli",
+  "snapshot_id": "MCwzYzEwY2Q4MjQwMDc0ZGQzYTcxMjQ5ZmVlMTEyYWM0MDUzYWVjZTg2",
   "tracks": [
     {
       "added_at": "2024-03-11 23:01:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Sabota\u017cysta",
-        "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kempi\u0144ski",
-          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Sabota\u017cysta",
-      "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
         "name": "Shyness!",
         "url": "https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 210581,
       "name": "Stalker",
       "url": "https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "Sabota\u017cysta",
+        "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kempi\u0144ski",
+          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sabota\u017cysta",
+      "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Nawzajem",
-        "url": "https://open.spotify.com/album/75GNnZ1zBakXOS6ibrMcuI"
-      },
-      "artists": [
-        {
-          "name": "Sophie Szklarska",
-          "url": "https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan"
-        }
-      ],
-      "duration_ms": 142975,
-      "name": "Nawzajem",
-      "url": "https://open.spotify.com/track/0co1lgFF2B3fimrK2PqHok"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
         "name": "The Moon",
         "url": "https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU"
       },
@@ -691,22 +675,34 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/0ehpKSEaud7WMcMNUNiPui"
+        "name": "Nawzajem",
+        "url": "https://open.spotify.com/album/75GNnZ1zBakXOS6ibrMcuI"
       },
       "artists": [
         {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
-        },
-        {
-          "name": "huskie",
-          "url": "https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS"
+          "name": "Sophie Szklarska",
+          "url": "https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan"
         }
       ],
-      "duration_ms": 230489,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/1tEGMBP6luVt9q9nImOooY"
+      "duration_ms": 142975,
+      "name": "Nawzajem",
+      "url": "https://open.spotify.com/track/0co1lgFF2B3fimrK2PqHok"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "Wracam",
+        "url": "https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB"
+      },
+      "artists": [
+        {
+          "name": "Stysio",
+          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Wracam",
+      "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -727,18 +723,22 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Wracam",
-        "url": "https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB"
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/0ehpKSEaud7WMcMNUNiPui"
       },
       "artists": [
         {
-          "name": "Stysio",
-          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        },
+        {
+          "name": "huskie",
+          "url": "https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS"
         }
       ],
-      "duration_ms": 168387,
-      "name": "Wracam",
-      "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
+      "duration_ms": 230489,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/1tEGMBP6luVt9q9nImOooY"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/3WKj4kBRl4OSuxuSTe9H9Y"
+      },
+      "artists": [
+        {
+          "name": "Filip Sterne",
+          "url": "https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw"
+        }
+      ],
+      "duration_ms": 179111,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/5LthNLCUbAMNMAHhiBVyZE"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
         "name": "Przekle\u0144stwa Niewinno\u015bci",
         "url": "https://open.spotify.com/album/5zBEDCmcK2SVgyTK8maiu5"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 171379,
       "name": "Wiem, \u017ce Smakuj\u0119 Jak...",
       "url": "https://open.spotify.com/track/4GMIKtwsgJwa6zvA0krAS4"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/3WKj4kBRl4OSuxuSTe9H9Y"
-      },
-      "artists": [
-        {
-          "name": "Filip Sterne",
-          "url": "https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw"
-        }
-      ],
-      "duration_ms": 179111,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/5LthNLCUbAMNMAHhiBVyZE"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1111,8 +1111,8 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Piruet i salto",
-        "url": "https://open.spotify.com/album/0cmFgkbiLxbNS6ujkTRvXY"
+        "name": "\u015awiat\u0142a Lamp",
+        "url": "https://open.spotify.com/album/2ZcmKJQ5Ts00yz1IaKZkMo"
       },
       "artists": [
         {
@@ -1120,9 +1120,9 @@
           "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
         }
       ],
-      "duration_ms": 203505,
-      "name": "Piruet i salto",
-      "url": "https://open.spotify.com/track/2ym23Le3ixHJoEnbtHeB3j"
+      "duration_ms": 164242,
+      "name": "\u015awiat\u0142a Lamp",
+      "url": "https://open.spotify.com/track/1X6LyZBmgjXBpaJyR11z6D"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "BSoD (Bluescreen)",
-        "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
-      },
-      "artists": [
-        {
-          "name": "Dawid Grzelak",
-          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "BSoD (Bluescreen)",
-      "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
       },
@@ -1279,8 +1263,24 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "\u015awiat\u0142a Lamp",
-        "url": "https://open.spotify.com/album/2ZcmKJQ5Ts00yz1IaKZkMo"
+        "name": "BSoD (Bluescreen)",
+        "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
+      },
+      "artists": [
+        {
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+        }
+      ],
+      "duration_ms": 179986,
+      "name": "BSoD (Bluescreen)",
+      "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "Piruet i salto",
+        "url": "https://open.spotify.com/album/0cmFgkbiLxbNS6ujkTRvXY"
       },
       "artists": [
         {
@@ -1288,9 +1288,9 @@
           "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
         }
       ],
-      "duration_ms": 164242,
-      "name": "\u015awiat\u0142a Lamp",
-      "url": "https://open.spotify.com/track/1X6LyZBmgjXBpaJyR11z6D"
+      "duration_ms": 203505,
+      "name": "Piruet i salto",
+      "url": "https://open.spotify.com/track/2ym23Le3ixHJoEnbtHeB3j"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1363,22 +1363,18 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Dziewczyna z NASA",
-        "url": "https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX"
+        "name": "Palo Santo",
+        "url": "https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP"
       },
       "artists": [
         {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        },
-        {
-          "name": "Panilas",
-          "url": "https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa"
+          "name": "Lesbijski Groove",
+          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Dziewczyna z NASA",
-      "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
+      "duration_ms": 179400,
+      "name": "Palo Santo",
+      "url": "https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1415,22 +1411,6 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Palo Santo",
-        "url": "https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP"
-      },
-      "artists": [
-        {
-          "name": "Lesbijski Groove",
-          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Palo Santo",
-      "url": "https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
         "name": "Ulubione miejsce",
         "url": "https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 175200,
       "name": "Ulubione miejsce",
       "url": "https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "Dziewczyna z NASA",
+        "url": "https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX"
+      },
+      "artists": [
+        {
+          "name": "MICU\u0141A",
+          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
+        },
+        {
+          "name": "Panilas",
+          "url": "https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Dziewczyna z NASA",
+      "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
+        "name": "Don't Collapse",
+        "url": "https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm"
+      },
+      "artists": [
+        {
+          "name": "Didi Lez",
+          "url": "https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v"
+        },
+        {
+          "name": "Julia Bossque",
+          "url": "https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "Don't Collapse",
+      "url": "https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
         "name": "Rojava",
         "url": "https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 260000,
       "name": "Cztery Dwa Zero",
       "url": "https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
-        "name": "Don't Collapse",
-        "url": "https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm"
-      },
-      "artists": [
-        {
-          "name": "Didi Lez",
-          "url": "https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v"
-        },
-        {
-          "name": "Julia Bossque",
-          "url": "https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "Don't Collapse",
-      "url": "https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Organic Love",
-        "url": "https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX"
-      },
-      "artists": [
-        {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Organic Love",
-      "url": "https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
         "name": "Gus\u0142a (Human Rites)",
         "url": "https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 248202,
       "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
       "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "Organic Love",
+        "url": "https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX"
+      },
+      "artists": [
+        {
+          "name": "MICU\u0141A",
+          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Organic Love",
+      "url": "https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m"
     },
     {
       "added_at": "2024-03-11 23:01:00",

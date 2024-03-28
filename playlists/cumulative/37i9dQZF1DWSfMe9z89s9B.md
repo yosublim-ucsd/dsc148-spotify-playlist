@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Cruza
 
-1,126 songs - 2 day 11 hr 48 min
+1,127 songs - 2 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,7 @@
 | [Eucalyptus](https://open.spotify.com/track/0jXcEpjGIfyDYCqf2eTmjN) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Eucalyptus](https://open.spotify.com/album/4Mki5qZ68ARHfSjriUFqng) | 4:28 | 2023-09-29 | 2024-03-02 |
 | [Euphoria \(At Night\)](https://open.spotify.com/track/41kClICjtba1W8UVbcHmya) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Cool Party](https://open.spotify.com/album/2bdOs4BJoK5hI9jAC37H06) | 2:07 | 2023-02-24 | 2023-09-03 |
 | [Everybody's Gotta Learn Sometimes](https://open.spotify.com/track/1NIsLZ5LgLUccEM6XGWYRw) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Sorrow At Sunrise](https://open.spotify.com/album/0rRIa6j19dKRwvAo9Oxe23) | 3:48 | 2023-09-29 | 2023-12-17 |
-| [everything will be ok](https://open.spotify.com/track/6U3weHvqJmkdNzeOIioVAS) | [ay3demi](https://open.spotify.com/artist/7gcq03kJfgHiW2qPTwS6q1) | [Everything Will Be Ok](https://open.spotify.com/album/0JMnR6HMV5YIo9NhsrpmEU) | 2:00 | 2024-02-02 |  |
+| [everything will be ok](https://open.spotify.com/track/6U3weHvqJmkdNzeOIioVAS) | [ay3demi](https://open.spotify.com/artist/7gcq03kJfgHiW2qPTwS6q1) | [Everything Will Be Ok](https://open.spotify.com/album/0JMnR6HMV5YIo9NhsrpmEU) | 2:00 | 2024-02-02 | 2024-03-28 |
 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 | 2024-01-26 |  |
 | [Everytime the Night Starts Calling](https://open.spotify.com/track/5UY8NELLyxYeziwciKIhJQ) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN), [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Form Follows Function](https://open.spotify.com/album/55Rfi4oaFbYuWbZuQw5Qxr) | 2:40 | 2023-04-14 | 2023-07-02 |
 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 | 2023-02-10 | 2024-03-10 |
@@ -754,6 +754,7 @@
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2023-04-14 | 2023-05-27 |
 | [Pink + White \- Live at Electric Lady](https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Live at Electric Lady](https://open.spotify.com/album/4BI9my41BKZdY4rYevmxSQ) | 3:53 | 2022-08-05 | 2023-01-14 |
 | [pink dress](https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [pink dress](https://open.spotify.com/album/2By8efmDvVvtVaWyJdyx0s) | 2:53 | 2023-10-06 | 2024-03-25 |
+| [pink dress](https://open.spotify.com/track/4UYMPoAzPFMkWUYa5t5Fpb) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 2:53 | 2023-10-06 |  |
 | [Pink Matter](https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:28 | 2023-04-14 | 2023-05-27 |
 | [Pissed Black Girl](https://open.spotify.com/track/2jf4eV6xXe1z3tZAfGuB7c) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Pissed Black Girl](https://open.spotify.com/album/24BZlsNv1awggEHEtyjZaI) | 3:25 | 2022-05-13 | 2022-05-20 |
 | [Pissed Off \(Interlude\)](https://open.spotify.com/track/7pPaaQ7PGpKG3HJfUO0wam) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [The Interludes](https://open.spotify.com/album/3o2o7mFiio6QAAvgYPgrx7) | 2:05 | 2023-10-27 |  |

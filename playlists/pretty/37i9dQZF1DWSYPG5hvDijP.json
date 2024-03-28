@@ -1,12 +1,12 @@
 {
   "description": "New Hip Hop from India.",
-  "num_followers": 1118,
+  "num_followers": 1233,
   "original_name": "Taaza hai bro!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzNjNjIyYjdhNzVhZmEzZDY4NmUyY2Y5ZWMzZTIzNGIzODMxMTI1",
+  "snapshot_id": "MCw2NTE0ZWU4M2Q3NjU1M2JiM2UyNTZmM2ZmNGIzYmMyOWY3YjE1ODNh",
   "tracks": [
     {
       "added_at": "2024-03-22 11:23:56",
@@ -107,6 +107,26 @@
       "duration_ms": 181379,
       "name": "Like A Snake",
       "url": "https://open.spotify.com/track/1pCyNu4mgeZP0qqHNMTjWJ"
+    },
+    {
+      "added_at": "2024-03-27 08:20:57",
+      "album": {
+        "name": "Mindset",
+        "url": "https://open.spotify.com/album/5FUF6X2WZ6KTTH7iDrItcM"
+      },
+      "artists": [
+        {
+          "name": "Shiv Nevergive Up",
+          "url": "https://open.spotify.com/artist/0Y9w0CKjJm1FEg6og8p9O8"
+        },
+        {
+          "name": "Ricky on the Beat",
+          "url": "https://open.spotify.com/artist/2bThg4vu5CITycJjAaAADK"
+        }
+      ],
+      "duration_ms": 185444,
+      "name": "Mindset",
+      "url": "https://open.spotify.com/track/6GR9mVx6iFX2OEWY6aTgJS"
     },
     {
       "added_at": "2024-03-22 11:23:56",
@@ -1459,22 +1479,6 @@
       "duration_ms": 158285,
       "name": "NAZAR",
       "url": "https://open.spotify.com/track/2suAYGhBT7vR26s5dNy9OL"
-    },
-    {
-      "added_at": "2024-03-22 11:23:56",
-      "album": {
-        "name": "Beast Mode",
-        "url": "https://open.spotify.com/album/2Nl4A1lvPTUWluWq80vjjy"
-      },
-      "artists": [
-        {
-          "name": "Young Galib",
-          "url": "https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o"
-        }
-      ],
-      "duration_ms": 154405,
-      "name": "Beast Mode",
-      "url": "https://open.spotify.com/track/5zNASHCNyoKgVoPN1Rq9HI"
     },
     {
       "added_at": "2024-03-22 11:23:56",

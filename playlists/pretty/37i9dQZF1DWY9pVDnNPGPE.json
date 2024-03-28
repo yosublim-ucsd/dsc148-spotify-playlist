@@ -1,12 +1,12 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 4959,
+  "num_followers": 4967,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjYzM2Y5ZWQ1YjY3ZmM2NTYzMTZlYmZkYWJmNmE5OWYwYThkZjll",
+  "snapshot_id": "MCwyOGJiNGNhMjUzOGI5NDI4MWUyOTE1MjIzZGQ0ODEyMTc4OWQ0OTQ1",
   "tracks": [
     {
       "added_at": "2024-03-21 12:58:38",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-03-21 12:58:38",
       "album": {
+        "name": "CEO-dol Mart (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/0XLq1Dhnhjsm87XFahi6DO"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "duration_ms": 181625,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/1mnyie1f8GFwDBENXuvld9"
+    },
+    {
+      "added_at": "2024-03-21 12:58:38",
+      "album": {
         "name": "START-UP (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/3IDzkP36HtCnTn3zt4mqpb"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 198666,
       "name": "I Know",
       "url": "https://open.spotify.com/track/5PSdIZyo4lxh8p2SPiPikf"
-    },
-    {
-      "added_at": "2024-03-21 12:58:38",
-      "album": {
-        "name": "CEO-dol Mart (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/0XLq1Dhnhjsm87XFahi6DO"
-      },
-      "artists": [
-        {
-          "name": "XIUMIN",
-          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
-        }
-      ],
-      "duration_ms": 181625,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/1mnyie1f8GFwDBENXuvld9"
     },
     {
       "added_at": "2024-03-21 12:58:38",
@@ -743,58 +743,6 @@
     {
       "added_at": "2024-03-21 12:58:38",
       "album": {
-        "name": "Picture of you",
-        "url": "https://open.spotify.com/album/3WLs3in6kQskYA2bKsYQa9"
-      },
-      "artists": [
-        {
-          "name": "J.BASS",
-          "url": "https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln"
-        },
-        {
-          "name": "Hwang Moon Seob",
-          "url": "https://open.spotify.com/artist/0a9CLtjf2oj3OooJA0ZbTr"
-        }
-      ],
-      "duration_ms": 178232,
-      "name": "Picture of You",
-      "url": "https://open.spotify.com/track/4k65QOnSekJUpGuV6dHUHU"
-    },
-    {
-      "added_at": "2024-03-21 12:58:38",
-      "album": {
-        "name": "IN-OUT",
-        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua"
-    },
-    {
-      "added_at": "2024-03-21 12:58:38",
-      "album": {
-        "name": "DA DA!",
-        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
-      },
-      "artists": [
-        {
-          "name": "MEENOI",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "DA DA!",
-      "url": "https://open.spotify.com/track/6vvoQKMci0NB7Zbo10t61N"
-    },
-    {
-      "added_at": "2024-03-21 12:58:38",
-      "album": {
         "name": "HESITATING",
         "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
       },
@@ -815,6 +763,58 @@
     {
       "added_at": "2024-03-21 12:58:38",
       "album": {
+        "name": "IN-OUT",
+        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua"
+    },
+    {
+      "added_at": "2024-03-21 12:58:38",
+      "album": {
+        "name": "Picture of you",
+        "url": "https://open.spotify.com/album/3WLs3in6kQskYA2bKsYQa9"
+      },
+      "artists": [
+        {
+          "name": "J.BASS",
+          "url": "https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln"
+        },
+        {
+          "name": "Hwang Moon Seob",
+          "url": "https://open.spotify.com/artist/0a9CLtjf2oj3OooJA0ZbTr"
+        }
+      ],
+      "duration_ms": 178232,
+      "name": "Picture of You",
+      "url": "https://open.spotify.com/track/4k65QOnSekJUpGuV6dHUHU"
+    },
+    {
+      "added_at": "2024-03-21 12:58:38",
+      "album": {
+        "name": "DA DA!",
+        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
+      },
+      "artists": [
+        {
+          "name": "MEENOI",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "DA DA!",
+      "url": "https://open.spotify.com/track/6vvoQKMci0NB7Zbo10t61N"
+    },
+    {
+      "added_at": "2024-03-21 12:58:38",
+      "album": {
         "name": "HOODIE E BANBAJI",
         "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
       },
@@ -827,6 +827,26 @@
       "duration_ms": 189973,
       "name": "HOODIE E BANBAJI",
       "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
+    },
+    {
+      "added_at": "2024-03-21 12:58:38",
+      "album": {
+        "name": "HESITATING",
+        "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
+      },
+      "artists": [
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 178706,
+      "name": "JUST RIGHT (feat. SOLE)",
+      "url": "https://open.spotify.com/track/6wevHkyjRNc6B92Mt4mHaC"
     },
     {
       "added_at": "2024-03-21 12:58:38",
@@ -859,22 +879,6 @@
       "duration_ms": 191906,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/6QK081MDKmHExMa1zmCC1S"
-    },
-    {
-      "added_at": "2024-03-21 12:58:38",
-      "album": {
-        "name": "Twenty (Prod. Jung Key)",
-        "url": "https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq"
-      },
-      "artists": [
-        {
-          "name": "SWAN",
-          "url": "https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Twenty (Prod. Jung Key)",
-      "url": "https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO"
     }
   ],
   "unique_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",

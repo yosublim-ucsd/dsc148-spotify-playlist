@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: MOGMusic",
-  "num_followers": 9309,
+  "num_followers": 9330,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjUyYjU5NWY4ZjNmZWM0NjM2MzZkYTUxNDUxZDQ0ODAwNTQ5ZmZk",
+  "snapshot_id": "MCw2Y2E2NTBlNjMyZTI1ODllNWE3MDRjYjllODk5ZDMzNWQ5NGE5OTQ0",
   "tracks": [
     {
       "added_at": "2024-03-22 00:01:00",
@@ -335,18 +335,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "This Far by Grace",
-        "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
+        "name": "Ote Me Mu",
+        "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
       },
       "artists": [
         {
-          "name": "Pastor Edwin Dadson",
-          "url": "https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH"
+          "name": "Ohemaa Mercy",
+          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
+        },
+        {
+          "name": "MOG",
+          "url": "https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf"
         }
       ],
-      "duration_ms": 293500,
-      "name": "This Far by Grace",
-      "url": "https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD"
+      "duration_ms": 275551,
+      "name": "Ote Me Mu",
+      "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -367,22 +371,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Ote Me Mu",
-        "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
+        "name": "This Far by Grace",
+        "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
       },
       "artists": [
         {
-          "name": "Ohemaa Mercy",
-          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
-        },
-        {
-          "name": "MOG",
-          "url": "https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf"
+          "name": "Pastor Edwin Dadson",
+          "url": "https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH"
         }
       ],
-      "duration_ms": 275551,
-      "name": "Ote Me Mu",
-      "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
+      "duration_ms": 293500,
+      "name": "This Far by Grace",
+      "url": "https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Nyansabuakwa Nyame",
-        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
+        "name": "Lord Have Your Way",
+        "url": "https://open.spotify.com/album/309FhXt3gyQzKeQ9sQ0DiD"
       },
       "artists": [
         {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+          "name": "Efe Grace Official",
+          "url": "https://open.spotify.com/artist/4sUJ8WsQFdYNsOVuXTZLgS"
         }
       ],
-      "duration_ms": 356200,
-      "name": "Nyansabuakwa Nyame",
-      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
+      "duration_ms": 368182,
+      "name": "Lord Have Your Way",
+      "url": "https://open.spotify.com/track/53sEAgeh4Pb2hJETL6IkcE"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Lord Have Your Way",
-        "url": "https://open.spotify.com/album/309FhXt3gyQzKeQ9sQ0DiD"
+        "name": "Nyansabuakwa Nyame",
+        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
       },
       "artists": [
         {
-          "name": "Efe Grace Official",
-          "url": "https://open.spotify.com/artist/4sUJ8WsQFdYNsOVuXTZLgS"
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
         }
       ],
-      "duration_ms": 368182,
-      "name": "Lord Have Your Way",
-      "url": "https://open.spotify.com/track/53sEAgeh4Pb2hJETL6IkcE"
+      "duration_ms": 356200,
+      "name": "Nyansabuakwa Nyame",
+      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
     },
     {
       "added_at": "2024-03-22 00:01:00",

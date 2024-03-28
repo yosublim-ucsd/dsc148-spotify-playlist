@@ -1281,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "Eye's Sentry",
+        "url": "https://open.spotify.com/album/7eQ7opjUTYoo92d4Ix5jtZ"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102760,
+      "name": "uber cozy universe",
+      "url": "https://open.spotify.com/track/6Mr82nnP6kj2OuD3tQgX1E"
+    },
+    {
+      "album": {
         "name": "ENIGMASIS",
         "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
       },
@@ -1508,7 +1526,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 295213,
       "name": "\u30ca\u30ce\u30fb\u30bb\u30ab\u30f3\u30c9(album ver.)",
       "url": "https://open.spotify.com/track/4Hz1T64ZZiHkM4fYHFN0MV"

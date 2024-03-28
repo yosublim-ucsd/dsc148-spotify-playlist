@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,529 likes - 157 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,541 likes - 157 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 34 | [Queen](https://open.spotify.com/track/3ynvh5EnUmMKDXQ98qcynE) | [Lyna](https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV) | [Muted Chaos.](https://open.spotify.com/album/4y17DEPHYBNF1zBqRVOnHn) | 2:36 |
 | 35 | [Or Is It?](https://open.spotify.com/track/1LQobjggg6QY8iXA8PNFIS) | [MANOLO](https://open.spotify.com/artist/007E3ZGctU4aLHEtxO0lTy) | [Or Is It?](https://open.spotify.com/album/3D7UKoqrqBr4uuzk4KSecK) | 5:10 |
 | 36 | [Naked \- Live](https://open.spotify.com/track/76ZWt6KvtIIAf4O1qCMT10) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk), [Berenice Van Leer](https://open.spotify.com/artist/05WEW3kd5mLRHs3xtUF6t9) | [Twenty](https://open.spotify.com/album/6uAVwhjyE1eGec56ZsRoAQ) | 4:15 |
-| 37 | [It's Okay \- Lakim Remix](https://open.spotify.com/track/1rcUxbqjw9FTohyDqDNSDo) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M), [Lakim](https://open.spotify.com/artist/6kncomCdQQz8jvnf7djNZI) | [It's Okay \(Lakim Remix\)](https://open.spotify.com/album/73PwPDPqrNGF6RwJ2JJDtM) | 3:16 |
+| 37 | [It's Okay \- Lakim Remix](https://open.spotify.com/track/5wnKlyB0ZUpgFXQy9c6NZs) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M), [Lakim](https://open.spotify.com/artist/6kncomCdQQz8jvnf7djNZI) | [Rainbow Child \(Remixes\)](https://open.spotify.com/album/1WnjgDqDFZvwkohqJQ4SUh) | 3:16 |
 | 38 | [Dancin Like a Fool](https://open.spotify.com/track/4wI11xnaKJAayVFBTHd6LM) | [Souldrippin](https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5), [Darius Dante](https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5), [Hari Loco](https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ) | [Dancin Like a Fool](https://open.spotify.com/album/6MY3TcKo5VPo3ANxeuVM6G) | 3:04 |
 | 39 | [My Favourite](https://open.spotify.com/track/4jTDyGLrDTt0nj7kjNVTaJ) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [My Favourite](https://open.spotify.com/album/3yoSTA4NQDOJAVfdvLPMNA) | 3:14 |
 | 40 | [Sunshine](https://open.spotify.com/track/1hCnHgozKGG5vTlaDG0GU1) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Sunshine](https://open.spotify.com/album/215YLopesmMe6jOG0hPcMj) | 3:29 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 156 | [Hey Amy!](https://open.spotify.com/track/64x6DYFIlWKRtGMeOdNkfN) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC), [Ketta](https://open.spotify.com/artist/23iAWqyfMe6hnEkfI6UFTe), [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Hey Amy!](https://open.spotify.com/album/7AFsIiFME2aS8qccETnkBp) | 2:57 |
 | 157 | [Drowning in Your Love \- Gold Edit](https://open.spotify.com/track/3HYanTbvNE4gyjnbjgxOoO) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze) | [ICARUS](https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p) | 3:47 |
 
-Snapshot ID: `MCw1OWI4YzlkYTMxNjQ3YWM1N2YyMzk1ODQxOGFmMjVmMDc1ZDBmZTg4`
+Snapshot ID: `MCw2ZGU5YjE2MTc1MjIxMDJkYmNiZTJiYjE2ZjRiMDlhNWRhNWNmNDc4`

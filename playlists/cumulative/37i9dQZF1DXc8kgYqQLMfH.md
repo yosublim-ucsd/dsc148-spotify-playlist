@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,146 songs - 1 day 19 hr 29 min
+1,147 songs - 1 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [cosmic](https://open.spotify.com/track/4oYH2FzH0vV1R3Df7MtaLi) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [cosmic](https://open.spotify.com/album/2Jl7oKmRdC38vmasNoIsTM) | 1:36 | 2021-11-10 | 2022-06-10 |
 | [Cosmos](https://open.spotify.com/track/00TdtTQPE8qA8wprZHfHLo) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Elephant Soul](https://open.spotify.com/album/672sDweJIxHJ8hlvd7BwEz) | 2:06 | 2023-03-01 |  |
 | [Cotton Cloud](https://open.spotify.com/track/0MF8Kt0jkvQAyGHumTc7CF) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Cotton Cloud](https://open.spotify.com/album/7jWSbj1bC222IlvFNTnosl) | 1:44 | 2023-02-17 |  |
-| [Couchmode](https://open.spotify.com/track/0mOSYHXYzIUan2YBsuMXe9) | [Djevka](https://open.spotify.com/artist/4MaUAgGipMKGcl5K3IjzlX) | [Couchmode](https://open.spotify.com/album/6ayLD01oNMaMqCmTHUsc6u) | 2:17 | 2022-10-28 |  |
+| [Couchmode](https://open.spotify.com/track/0mOSYHXYzIUan2YBsuMXe9) | [Djevka](https://open.spotify.com/artist/4MaUAgGipMKGcl5K3IjzlX) | [Couchmode](https://open.spotify.com/album/6ayLD01oNMaMqCmTHUsc6u) | 2:17 | 2022-10-28 | 2024-03-28 |
 | [Counting Sheep](https://open.spotify.com/track/3rtsPORAAssL2z26CZl9Qe) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Counting Sheep](https://open.spotify.com/album/17thKKGvAnuKtkVWz6YEGD) | 3:08 | 2021-11-10 | 2022-07-22 |
 | [Cozy](https://open.spotify.com/track/4GJmFQTiFcpTHxhu08RIlx) | [Taipei Tapes](https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT) | [Cozy](https://open.spotify.com/album/4AYK42KZsekEDCi1rxnYN5) | 2:28 | 2024-01-05 |  |
 | [Cozy Cabin](https://open.spotify.com/track/7nnnBJFl8r283qVvKsMk6z) | [Elon Husky](https://open.spotify.com/artist/4MSu62C3898KnZ5tNT3MKI) | [Cozy Cabin](https://open.spotify.com/album/77VvjjPPUHVzYz0Hvo5qPL) | 2:58 | 2023-12-08 |  |
@@ -669,6 +669,7 @@
 | [Morning Mist](https://open.spotify.com/track/2sBez5HNklqVvAHXr4Rdy2) | [rezov](https://open.spotify.com/artist/6qkecg8KZjkwnYkLGP4H3H) | [Morning Mist](https://open.spotify.com/album/4ly78EoL5J9WXcHaKYmSaJ) | 2:33 | 2022-11-25 | 2023-05-20 |
 | [Morning Nature](https://open.spotify.com/track/7mTekQjP822DSXDNsjUM7b) | [Terrence Woods](https://open.spotify.com/artist/68OTfPEEVauMj9rWCFSz1k) | [Morning Nature](https://open.spotify.com/album/0QDzmNXuK79T55gf5UYDAJ) | 2:20 | 2022-09-02 |  |
 | [Morning Routine](https://open.spotify.com/track/5xkFx1r5s899TF4eDlzIq4) | [MZERA](https://open.spotify.com/artist/7xJs9lbHChKSJ9cHvW95tK), [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [Morning Routine](https://open.spotify.com/album/7h1b8l17OW0aKsk4MAKalt) | 1:59 | 2023-04-20 |  |
+| [morning snowfall](https://open.spotify.com/track/0OWOH3peRNugmlPPzBGqpQ) | [sozin](https://open.spotify.com/artist/0XO6mvpyaIdmGMmpsTtyIj) | [morning snowfall](https://open.spotify.com/album/5rPiiqeRJTAuQbEj9O3c36) | 3:14 | 2024-03-22 |  |
 | [Morning Sunrise](https://open.spotify.com/track/0wzWrIYYmziBwVPPGvnIHq) | [Cammie](https://open.spotify.com/artist/44r79Vc1hTjMlaDFfWE5aO), [Chkody](https://open.spotify.com/artist/0lpmaOMQwbE7m9MOQjBQuU) | [Morning Sunrise](https://open.spotify.com/album/24hioIL1cpUNoGRDOwBoWx) | 2:20 | 2022-10-01 |  |
 | [morrowind](https://open.spotify.com/track/2KEKQ6UuaqnuvYHLbh6rn8) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [morrowind](https://open.spotify.com/album/3iZaHCWiNFfzuQqGTQoDsL) | 1:37 | 2021-11-10 | 2022-09-20 |
 | [morrowind](https://open.spotify.com/track/2VzFtP6YxLfDk0U7aMD4H2) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [morrowind](https://open.spotify.com/album/2w1B689gsXzaKg85JxAvy3) | 1:37 | 2022-09-16 | 2022-10-15 |

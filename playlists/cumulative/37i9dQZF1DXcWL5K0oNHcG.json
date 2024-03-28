@@ -6442,7 +6442,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 177045,
       "name": "Donuts Nebula",
       "url": "https://open.spotify.com/track/4izlUrCxTM9AhRXZOR2qkV"
@@ -6814,7 +6814,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 310196,
       "name": "Duras",
       "url": "https://open.spotify.com/track/6H3IpsMLYQ4o0LJY0Fhv9R"
@@ -8468,6 +8468,28 @@
       "duration_ms": 208450,
       "name": "Fluttering",
       "url": "https://open.spotify.com/track/2K0iWOM2xNgdTymhkCbYJf"
+    },
+    {
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/5CI5Ww2MciydIAesA5VmPR"
+      },
+      "artists": [
+        {
+          "name": "CHERISE",
+          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
+        },
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208978,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/6bsCkIuP5zdST3CrvBJDnm"
     },
     {
       "album": {
@@ -12237,6 +12259,28 @@
     },
     {
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/4tMflSstkseynCR2S55Ybg"
+      },
+      "artists": [
+        {
+          "name": "Sol Paradise",
+          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
+        },
+        {
+          "name": "GIYA",
+          "url": "https://open.spotify.com/artist/7pz3lHXjDHO7BuFQcKM8m8"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260953,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/0FE88E5srw7mcCheEmMtBr"
+    },
+    {
+      "album": {
         "name": "Kalief",
         "url": "https://open.spotify.com/album/6Q5LlLiiA5SPD9KstE2A5U"
       },
@@ -14124,7 +14168,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 324970,
       "name": "Magic",
       "url": "https://open.spotify.com/track/4QOVx0MfWDbaba1dz6Qpdb"
@@ -14744,7 +14788,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 246000,
       "name": "Metamorphosis",
       "url": "https://open.spotify.com/track/4zlvcUDuabGMdvzElQjRWO"
@@ -17421,6 +17465,24 @@
     },
     {
       "album": {
+        "name": "Sorry, nie tu",
+        "url": "https://open.spotify.com/album/6oqXhhJTzydwe7PUm6t0q3"
+      },
+      "artists": [
+        {
+          "name": "Kosmonauci",
+          "url": "https://open.spotify.com/artist/283semIr4NG8yUDW5zRAol"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319215,
+      "name": "OSTATNI",
+      "url": "https://open.spotify.com/track/7kTnJ6LGDGLlsLwRGjGTAs"
+    },
+    {
+      "album": {
         "name": "Ostend",
         "url": "https://open.spotify.com/album/6zDX7WsgITFRx7OvoMjom5"
       },
@@ -17480,7 +17542,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 260000,
       "name": "Outer Offering",
       "url": "https://open.spotify.com/track/5GQL4XWlCkttCLmdudnHG7"
@@ -18214,6 +18276,24 @@
       "duration_ms": 142718,
       "name": "Plasma",
       "url": "https://open.spotify.com/track/0tN87uXOyp6KjCfUVms7o5"
+    },
+    {
+      "album": {
+        "name": "Plasma",
+        "url": "https://open.spotify.com/album/6QiIL3Qn2uFYvJvUB2h4Zh"
+      },
+      "artists": [
+        {
+          "name": "Ryosuke Kojima",
+          "url": "https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Plasma",
+      "url": "https://open.spotify.com/track/0yh918TKzldNo6MK4RwHFF"
     },
     {
       "album": {
@@ -18964,7 +19044,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 217332,
       "name": "ranki",
       "url": "https://open.spotify.com/track/2F5rkbZHDASUIGAcyeoe0l"
@@ -19638,6 +19718,28 @@
       "duration_ms": 191160,
       "name": "Rita",
       "url": "https://open.spotify.com/track/5fqfYybTZq1AuSv3Mn5CJE"
+    },
+    {
+      "album": {
+        "name": "The Liminality of Her",
+        "url": "https://open.spotify.com/album/3tNvEZnLV5OAnOmII0jTiU"
+      },
+      "artists": [
+        {
+          "name": "Amanda Whiting",
+          "url": "https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5"
+        },
+        {
+          "name": "PEACH.",
+          "url": "https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176874,
+      "name": "Rite of Passage",
+      "url": "https://open.spotify.com/track/3QB9XSrhotF0v8tkML3F3r"
     },
     {
       "album": {
@@ -23590,7 +23692,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 320452,
       "name": "The Day After",
       "url": "https://open.spotify.com/track/7g27hI9dGpv0fpGWY8AM7O"
@@ -26186,6 +26288,32 @@
       "duration_ms": 221760,
       "name": "Vibes",
       "url": "https://open.spotify.com/track/4Te7zPHAK1dVTcyWPcFesv"
+    },
+    {
+      "album": {
+        "name": "VIBZ",
+        "url": "https://open.spotify.com/album/77IuobMrNcfYIWJZXzHrm7"
+      },
+      "artists": [
+        {
+          "name": "Eudald Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc"
+        },
+        {
+          "name": "Mabreezee",
+          "url": "https://open.spotify.com/artist/4ixydE8BVYzM2P1mFrBWac"
+        },
+        {
+          "name": "Lowis",
+          "url": "https://open.spotify.com/artist/2kivZuhnSODSkTVxaFSF93"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "VIBZ",
+      "url": "https://open.spotify.com/track/2y8edbaz5VBEMOkzooa6Do"
     },
     {
       "album": {

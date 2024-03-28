@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: El Fantasma
 
-4,668 songs - 10 day 3 hr 11 min
+4,668 songs - 10 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2308,7 +2308,7 @@
 | [La Mera Vena](https://open.spotify.com/track/6XZ1gKHtAHcXPYjVt3UBaz) | [Pandemia 702](https://open.spotify.com/artist/7mBia2BQu7KJR4tIOnJeQM) | [La Mera Vena](https://open.spotify.com/album/3OSPVwIG8hA2G5Ltc3sfJg) | 2:30 | 2023-04-28 | 2023-05-06 |
 | [La Mercedes Cuadradita \(En Vivo\)](https://open.spotify.com/track/3f6tKxLFAOtpo5dJ4Fv9hY) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Mercedes Cuadradita \(En Vivo\)](https://open.spotify.com/album/77qwbVpJge8AbCHu0OPIoq) | 2:35 | 2023-06-16 | 2023-07-01 |
 | [La Mesa Del Rincón](https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK) | [La Mesa Del Rincón](https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4) | 3:11 | 2022-09-23 | 2022-10-01 |
-| [La Mini Mini \- En Vivo](https://open.spotify.com/track/0kbopkBDaNibPzo9xTUpuF) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [La Mini Mini \(En Vivo\)](https://open.spotify.com/album/5BCa82l9X8OXffxQvijYlr) | 2:49 | 2024-03-15 |  |
+| [La Mini Mini \- En Vivo](https://open.spotify.com/track/0kbopkBDaNibPzo9xTUpuF) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [La Mini Mini \(En Vivo\)](https://open.spotify.com/album/5BCa82l9X8OXffxQvijYlr) | 2:23 | 2024-03-15 |  |
 | [La Mision 3](https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [La Mision 3](https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6) | 4:42 | 2023-07-21 | 2023-07-29 |
 | [La Misma Linea](https://open.spotify.com/track/4hAMLTpgURkqiXRiAgHnc7) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Misma Linea](https://open.spotify.com/album/1j5EH7pzJmwcQGOVi81e6o) | 3:05 | 2023-07-21 | 2023-07-29 |
 | [La Morra](https://open.spotify.com/track/46E4FM38OkpbNqBnNLvWqB) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN), [Banda Santa y Sagrada](https://open.spotify.com/artist/3olFGA3n7vT5jACcY4Wsy0) | [La Morra](https://open.spotify.com/album/4Cn5hu9eIqZnCAQgMfGOrZ) | 2:21 | 2023-01-20 | 2023-01-28 |

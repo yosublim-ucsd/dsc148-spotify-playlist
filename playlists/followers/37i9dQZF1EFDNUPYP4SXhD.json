@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 1176,
+  "2024-03-28": 1176,
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/1OuLNm4mvRAZK11eefmj9Z\">Chris Jedi</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Chris Jedi",
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 226378,
       "name": "As\u00ed Soy Yo",
       "url": "https://open.spotify.com/track/6NfC2FKfsfzuLIF4lThw0A"
@@ -1649,7 +1649,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 208453,
       "name": "El Problema",
       "url": "https://open.spotify.com/track/6cyH3OGfKQBevSYxJFIUCx"
@@ -1671,7 +1671,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 177500,
       "name": "El Problema",
       "url": "https://open.spotify.com/track/5dXTVrRz1VXQgs51b8Jftf"
@@ -1751,7 +1751,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 258306,
       "name": "En Lo Oscuro",
       "url": "https://open.spotify.com/track/03eqlziOWq8JcWtGlKdpGz"
@@ -3786,6 +3786,28 @@
     },
     {
       "album": {
+        "name": "Si Te Pillo",
+        "url": "https://open.spotify.com/album/3oqhHO8MGpzpqyHEyyIdu9"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219721,
+      "name": "Si Te Pillo",
+      "url": "https://open.spotify.com/track/2CT2oLeINCEuTEBrkTLUgD"
+    },
+    {
+      "album": {
         "name": "El Hubiera No Existe",
         "url": "https://open.spotify.com/album/2G7dE9ucjqL4cecJPpJAiF"
       },
@@ -3815,7 +3837,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 209319,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/2C2WlAfCIXENACQEEIobOC"
@@ -4262,6 +4284,24 @@
     },
     {
       "album": {
+        "name": "DNCE",
+        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
+      },
+      "artists": [
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182653,
+      "name": "Truthfully",
+      "url": "https://open.spotify.com/track/2lBqyCeue1bCd6HCZtKXHu"
+    },
+    {
+      "album": {
         "name": "El Regreso del Sobreviviente (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO"
       },
@@ -4698,6 +4738,24 @@
     },
     {
       "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191526,
+      "name": "YO VISTO AS\u00cd",
+      "url": "https://open.spotify.com/track/5fROvzNghPid8mbKNDYvpJ"
+    },
+    {
+      "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
       },
@@ -4761,7 +4819,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 194733,
       "name": "\u00c9l No Te Lo Hace Como Yo",
       "url": "https://open.spotify.com/track/5GnU16WYRJqHNRFUXDJYdu"

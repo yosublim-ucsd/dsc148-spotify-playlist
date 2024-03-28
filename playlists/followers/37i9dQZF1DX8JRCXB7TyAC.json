@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 33424,
+  "2024-03-28": 33481,
   "date_first_scraped": "2023-07-25",
   "description": "Workout with Haryanvi Songs. Cover: Ankit Baiyanpuria",
   "name": "Haryanvi Workout",
@@ -223,7 +223,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 142000,
       "name": "Bad Boys",
       "url": "https://open.spotify.com/track/5WkaECgnFSCeSHKBoRGoNs"
@@ -529,6 +529,24 @@
       "duration_ms": 275000,
       "name": "Convoy",
       "url": "https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO"
+    },
+    {
+      "album": {
+        "name": "Dabke Na Chale",
+        "url": "https://open.spotify.com/album/2iQNuAG6QWNQcCcJdxFzL3"
+      },
+      "artists": [
+        {
+          "name": "Raj Mawar",
+          "url": "https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134399,
+      "name": "Dabke Na Chale",
+      "url": "https://open.spotify.com/track/4VVqoi4F2GZg5EBnOGUAc3"
     },
     {
       "album": {
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 222439,
       "name": "Jalya Na Karo",
       "url": "https://open.spotify.com/track/2ja8pqhYArF0DmH3JmrCRV"
@@ -1284,6 +1302,24 @@
     },
     {
       "album": {
+        "name": "No Escape",
+        "url": "https://open.spotify.com/album/44GmLku7At0sHfzevpWJn7"
+      },
+      "artists": [
+        {
+          "name": "Candy Sheoran",
+          "url": "https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196900,
+      "name": "No Escape",
+      "url": "https://open.spotify.com/track/0BEitiMLJyddZ7yY2LyD7x"
+    },
+    {
+      "album": {
         "name": "No Mercy",
         "url": "https://open.spotify.com/album/0ig0cN50Yv63nJs0O0LyZo"
       },
@@ -1321,6 +1357,24 @@
       "duration_ms": 192000,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR"
+    },
+    {
+      "album": {
+        "name": "Notorious Desi",
+        "url": "https://open.spotify.com/album/0DBU7BkdjqHsgAT5WgvkFh"
+      },
+      "artists": [
+        {
+          "name": "Ndee Kundu",
+          "url": "https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Notorious Desi",
+      "url": "https://open.spotify.com/track/7yCQyuIqzHtXBsIY0OiNti"
     },
     {
       "album": {
@@ -1766,6 +1820,32 @@
     },
     {
       "album": {
+        "name": "Tool",
+        "url": "https://open.spotify.com/album/3BP7BDO3yOVjkd7UEzC7ik"
+      },
+      "artists": [
+        {
+          "name": "BigMoney",
+          "url": "https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE"
+        },
+        {
+          "name": "Laath Saab",
+          "url": "https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7"
+        },
+        {
+          "name": "PRNCE SIDHU",
+          "url": "https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Tool",
+      "url": "https://open.spotify.com/track/5HmcQoM06urojODrgEpEiV"
+    },
+    {
+      "album": {
         "name": "Tycon",
         "url": "https://open.spotify.com/album/4D3i79insTzHjhQMgqyi7w"
       },
@@ -1847,7 +1927,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 172942,
       "name": "World Famous Haryanvi",
       "url": "https://open.spotify.com/track/4I5UULvQZeU6XuSPoC2u3W"
@@ -1895,7 +1975,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 140000,
       "name": "Yaar Haryane Te",
       "url": "https://open.spotify.com/track/36pCCXFo9bICfCXIPrIegh"

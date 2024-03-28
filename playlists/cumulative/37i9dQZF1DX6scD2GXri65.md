@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-189 songs - 10 hr 28 min
+190 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [DMT](https://open.spotify.com/track/063YSXc8E2MUCermhiW0Te) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [DMT](https://open.spotify.com/album/39qEWfBRftbceehLGfHAcC) | 2:31 | 2023-11-08 |  |
 | [Do Or Die \- Refract Remix](https://open.spotify.com/track/3jWSTMDUKMgnbSKmrb199T) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C), [Refract](https://open.spotify.com/artist/41lWiT1FGPMHKu8DEoOMGm) | [Do Or Die \(Refract Remix\)](https://open.spotify.com/album/0gjLOJHeQvXUKxOs47AYdr) | 3:09 | 2023-06-01 | 2023-06-06 |
 | [DOWN DOWN](https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [WELCOME TO THE GANG VOL\. 2](https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ) | 3:26 | 2023-02-28 | 2024-03-08 |
-| [Dreams Come True](https://open.spotify.com/track/1SjbnK5RCnEpKoMhXsXa52) | [Level One](https://open.spotify.com/artist/5gfLje7A2I9mMRVfuiphnh) | [Reversed Reality](https://open.spotify.com/album/0Z3bA9sTXrgmIOIeGIj4kT) | 2:15 | 2024-03-20 |  |
+| [Dreams Come True](https://open.spotify.com/track/1SjbnK5RCnEpKoMhXsXa52) | [Level One](https://open.spotify.com/artist/5gfLje7A2I9mMRVfuiphnh) | [Reversed Reality](https://open.spotify.com/album/0Z3bA9sTXrgmIOIeGIj4kT) | 2:15 | 2024-03-20 | 2024-03-28 |
 | [Dusk Till Dawn](https://open.spotify.com/track/0CPePM7Vm5XUp2n66otp8s) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX) | [Dusk Till Dawn](https://open.spotify.com/album/377OkXqXNCNsUNiArXIVq7) | 3:10 | 2023-01-26 | 2023-03-14 |
 | [Dynamite \(TNT\)](https://open.spotify.com/track/6hJNSbwK0M1yuTJvBXpMNL) | [Demi Kanon](https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Dynamite \(TNT\)](https://open.spotify.com/album/0eqZ2gpCg63LLg0cqQnaQD) | 3:02 | 2022-12-08 | 2023-04-04 |
 | [Dystopia](https://open.spotify.com/track/6faKhmuIVK55mquv0NP1AJ) | [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Dystopia \(feat\. MERYLL\)](https://open.spotify.com/album/35GcsAppzFYm9zd51sXZ0F) | 4:44 | 2022-12-08 | 2022-12-13 |
@@ -68,6 +68,7 @@
 | [For You](https://open.spotify.com/track/5VGRWK6AgM3BifNn5WPsXs) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [For You](https://open.spotify.com/album/1CAyRb6HyVWV9k7Pr7jntA) | 2:56 | 2022-12-08 | 2022-12-16 |
 | [Free Fall](https://open.spotify.com/track/7BNuc3medoxeqd4qnOhGCA) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ) | [Free Fall](https://open.spotify.com/album/4gpWr19Zz1Et4GZmBKtYaS) | 3:15 | 2023-03-30 | 2023-06-08 |
 | [Futurepower](https://open.spotify.com/track/5BEeBEAsRWIhAw18rkun9F) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Futurepower](https://open.spotify.com/album/2MG0xLJezHQAAlmpCVf7h6) | 4:06 | 2022-12-08 |  |
+| [FYAH](https://open.spotify.com/track/1t43yOydn1O4uOusALEUFl) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [FYAH](https://open.spotify.com/album/3uhqc4NKHlfFXjC0SvrI39) | 3:15 | 2024-03-27 |  |
 | [Get Psycho](https://open.spotify.com/track/2qSbdjBKV4Ooa0yxZtA0px) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA), [Alter Ego](https://open.spotify.com/artist/455mf4vICIi2dYQrH59xh8) | [Get Psycho](https://open.spotify.com/album/4eqnUJrLMljVfSbomWiVgG) | 2:15 | 2022-12-08 | 2023-02-28 |
 | [Ghost Town](https://open.spotify.com/track/7IsoFYGFt3Ac4snG5iSJnT) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Ghost Town](https://open.spotify.com/album/41JfN5cDxWW7iua9p3jDoO) | 3:24 | 2022-12-08 |  |
 | [Go Down Low](https://open.spotify.com/track/6QCs2VEwYeSrhutMPGw5Vs) | [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09), [NLCK](https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL) | [Go Down Low](https://open.spotify.com/album/7tWUHSKe7LYJGSNT1NFLTb) | 3:32 | 2023-02-09 | 2023-03-25 |

@@ -4,7 +4,7 @@
 
 > The biggest house tracks we couldn't get enough of this year\. Cover: FISHER
 
-159 songs - 9 hr 0 min
+160 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Can't Get You out of My Head \- Peggy Gou’s Midnight Remix](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Can't Get You out of My Head \(Peggy Gou’s Midnight Remix\)](https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3) | 4:31 | 2022-11-30 | 2023-11-30 |
 | [Can’t Fight The Feeling](https://open.spotify.com/track/1T7fTFxkosqEF8AZzDvm6I) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Can’t Fight The Feeling](https://open.spotify.com/album/0UDIxo8rh9AcO7oGHjaETt) | 2:51 | 2023-11-29 |  |
 | [Carnaval de Paris](https://open.spotify.com/track/5b58AS0u6Xr4vaxWnY2C1n) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Carnaval de Paris](https://open.spotify.com/album/75yY2YZoi4iMQQqXCj4fW3) | 3:15 | 2022-11-30 | 2023-11-30 |
-| [Changes](https://open.spotify.com/track/0t7ahpke8UKi61ikrSh5sd) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [The Complete Collection](https://open.spotify.com/album/2ooyO0Krh2H87j4hJbPQiE) | 5:04 | 2023-11-29 |  |
+| [Changes](https://open.spotify.com/track/0t7ahpke8UKi61ikrSh5sd) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [The Complete Collection](https://open.spotify.com/album/2ooyO0Krh2H87j4hJbPQiE) | 5:04 | 2023-11-29 | 2024-03-28 |
+| [Changes](https://open.spotify.com/track/7K2yIbJIanAThF37SlxPey) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [Changes](https://open.spotify.com/album/62sLTTuUdEYDnVHCdp3poe) | 5:04 | 2023-11-29 |  |
 | [Chromatic](https://open.spotify.com/track/3FcKnF4nEwGxlwdAmRIogh) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Chromatic](https://open.spotify.com/album/4i8IDahLQKUEmBMscCBlDA) | 3:22 | 2022-11-30 | 2023-11-30 |
 | [Colourblind](https://open.spotify.com/track/1ZNaOGKAZKaZh7V87zDs1i) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Colourblind](https://open.spotify.com/album/11GNGqeQLQTGUTn8AewzDy) | 3:05 | 2023-11-29 |  |
 | [Coma Cat \- Purple Disco Machine Re\-Work](https://open.spotify.com/track/1BMFet4vUoOgpLYIl3kVMQ) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Coma Cat \(Purple Disco Machine Re\-Work\)](https://open.spotify.com/album/0xQYiQjTVXSJFEqgM7GgUC) | 3:28 | 2022-11-30 | 2023-11-30 |

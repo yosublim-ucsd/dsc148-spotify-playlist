@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 213496,
+  "num_followers": 213679,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmYyOTRlY2I2YzBhMjU2YTc2ZTU1MjY4ZGE1NGI4MGZiNTAwYWM5",
+  "snapshot_id": "MCxkMGVmNmE0NTEzMzg5OTNjOWFlNDUyMjE2OWI3YjZhM2FiZTZmMGU4",
   "tracks": [
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "The Libertines",
-        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 182386,
-      "name": "Music When The Lights Go Out",
-      "url": "https://open.spotify.com/track/3cU9b4vb5yzyM12RXJ1k3s"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "American Thighs",
         "url": "https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 196573,
       "name": "Seether",
       "url": "https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "The Libertines",
+        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 182386,
+      "name": "Music When The Lights Go Out",
+      "url": "https://open.spotify.com/track/3cU9b4vb5yzyM12RXJ1k3s"
     },
     {
       "added_at": "2024-02-07 18:19:28",

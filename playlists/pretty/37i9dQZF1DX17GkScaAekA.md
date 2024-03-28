@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,905 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 736,175 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 | 74 | [Mahler / Transcr\. Tharaud: Symphony No\. 5 in C\-Sharp Minor, Pt\. 3: IV\. Adagietto](https://open.spotify.com/track/2wRDxGoCJWiWVNgjC8eHwJ) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Le Poète du piano](https://open.spotify.com/album/5e0hqGrjuazjIvaCNLGKVk) | 10:36 |
 | 75 | [Schubert: Sonata in A Minor, D\. 821 "Arpeggione": II\. Adagio](https://open.spotify.com/track/0mphqBldbD5cTcWfnODhmI) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I), [Dionysis Grammenos](https://open.spotify.com/artist/1gyehD73iVuIYqL6Rltepc) | [Schumann & Schubert \- Transcriptions for Clarinet & Harp](https://open.spotify.com/album/2O1MCD0Yt1sh79kNyq3Gxk) | 3:40 |
 
-Snapshot ID: `MCwxZGVmZmYzOTZiZGIyYTE0NTU2YWQ1MzZhOTNlYWExMWRmZDc4ZDAy`
+Snapshot ID: `MCw2Mjg2YjVjMzcxZTJhMThiOTMzZGFjOWU0OTdkZDMyNDMxNjA3NTMx`

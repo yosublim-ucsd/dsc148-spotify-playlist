@@ -4,7 +4,7 @@
 
 > Shotgun Willy, born and raised on the internet.
 
-982 songs - 1 day 16 hr 8 min
+983 songs - 1 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 | 2022-05-06 | 2022-09-17 |
 | [Face no Book](https://open.spotify.com/track/5LIIVNlJGqtFrfe9pl3Gw2) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Face no Book](https://open.spotify.com/album/0FFzC5WmgTApZK7RgJTPZw) | 2:25 | 2022-10-21 | 2023-02-16 |
 | [fafo](https://open.spotify.com/track/2R711v6UpsgYvDuzCJ1iSl) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [fafo](https://open.spotify.com/album/0Q7DWii4IDrNrz9l4F6GPl) | 2:39 | 2021-10-01 | 2022-08-27 |
+| [Fakish](https://open.spotify.com/track/0OVG5Up5tufqcbXRNyntq3) | [Jay Bezzy](https://open.spotify.com/artist/1GZUXd4w6cHTfoqHMrbMDZ), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Fakish](https://open.spotify.com/album/51LNAzyDGYQuBKNeTxM7sI) | 1:55 | 2024-03-27 |  |
 | [Fall Dragon](https://open.spotify.com/track/0xoyOumQBDZC41QdURfglb) | [Overpade](https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q) | [Fall Dragon](https://open.spotify.com/album/2xg986MAj2eacfdcKzTsRQ) | 1:53 | 2022-11-11 | 2022-11-16 |
 | [Fallin](https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Fallin](https://open.spotify.com/album/1wt8UJYePXqJkNx2R7R32Q) | 2:21 | 2023-05-26 | 2023-09-30 |
 | [Falling Off \(feat\. Rico Nasty\)](https://open.spotify.com/track/5UVmvehbEDP74A8i6VP381) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Falling Off](https://open.spotify.com/album/4lQ9BZexDCtaBrDhBKh6Og) | 4:24 | 2022-02-11 | 2022-03-02 |
@@ -457,7 +458,7 @@
 | [Ice Cream Truck](https://open.spotify.com/track/2df3JPm3fulE2yYYUaOxFZ) | [SugarHill Keem](https://open.spotify.com/artist/7DY7ygEiVKNki7ZIPnZoNB), [MOVE LOOK](https://open.spotify.com/artist/7lFBIKbHTSCgAj2CLzDuQ1) | [KING OF DRILL](https://open.spotify.com/album/4Y9DAhfaqRw3aW55W0WrYM) | 1:46 | 2022-10-18 | 2022-12-11 |
 | [Ice Spice](https://open.spotify.com/track/49f5Oe4fSDacBfoaNa9lmL) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Ice Spice](https://open.spotify.com/album/6hymj4hfCoXsFQYO1VqlRi) | 2:41 | 2023-05-26 | 2023-06-17 |
 | [ICEY](https://open.spotify.com/track/05k4xJfpBqkLoO9FBl9XrE) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [ICEY](https://open.spotify.com/album/5507PerHYF9zo9yCFcdfv4) | 2:11 | 2023-10-06 | 2024-02-28 |
-| [Ick](https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Now You See Me](https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T) | 1:55 | 2023-10-20 |  |
+| [Ick](https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Now You See Me](https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T) | 1:55 | 2023-10-20 | 2024-03-28 |
 | [IDK WHAT TO TELL YOU](https://open.spotify.com/track/67Ca21PiqjzovVSAwBMwUf) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LOVE BLACK](https://open.spotify.com/album/6dWVFLZm0CPA2mxsvRd8RA) | 3:30 | 2021-10-22 | 2022-04-09 |
 | [if looks could kill](https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [if looks could kill](https://open.spotify.com/album/1lbRv6yB7ZI2MuoGG9io6E) | 3:14 | 2023-03-03 | 2023-09-09 |
 | [ily](https://open.spotify.com/track/52otgxiSY8ywOjoSqi0aVV) | [BabySantana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [ily](https://open.spotify.com/album/4BrUuCzw2vfAicYcet3Jmv) | 2:05 | 2022-05-13 | 2022-06-03 |
@@ -925,7 +926,7 @@
 | [waiting alonE](https://open.spotify.com/track/4kZgxSySjVSLRpegVw8SsX) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [waiting alonE](https://open.spotify.com/album/342UvGijO1QgI9wQFXDq9m) | 2:53 | 2023-08-11 | 2023-12-30 |
 | [Wake That Thang Up](https://open.spotify.com/track/3BP4jOOvZgrBkaHo1Jcx7T) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Wake That Thang Up](https://open.spotify.com/album/25KZIVdcl3dn3TrxsiFD54) | 2:25 | 2023-03-31 | 2023-05-20 |
 | [Wake Up](https://open.spotify.com/track/5rfMpJorQrwpvCOfDM7Q5L) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Wake Up](https://open.spotify.com/album/0A94MKet60d5HhzN0vSGDm) | 1:52 | 2023-03-31 | 2023-12-30 |
-| [Walk](https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Walk](https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9) | 2:04 | 2023-10-27 |  |
+| [walk](https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [walk](https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9) | 2:25 | 2023-10-27 |  |
 | [WALKED IN](https://open.spotify.com/track/4TtwfNpekE33a0Uo5sIMLF) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [WALKED IN](https://open.spotify.com/album/20yPX27SdWr1hc5aZQAOsn) | 2:22 | 2023-02-24 | 2023-08-19 |
 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 | 2022-06-01 | 2022-12-03 |
 | [Want Me](https://open.spotify.com/track/1kWjuuleSkjjdncR75pGcj) | [Cl4pers](https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ) | [Want Me](https://open.spotify.com/album/48QabKYCn7iLJuZy8oDS8k) | 1:10 | 2021-12-09 | 2022-04-14 |

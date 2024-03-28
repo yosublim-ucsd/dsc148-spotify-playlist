@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 455353,
+  "2024-03-28": 455404,
   "date_first_scraped": "2021-12-21",
   "description": "pop punk, emo, post-hardcore, alt, & more. Cover: The Story So Far",
   "name": "The Scene",
@@ -1397,6 +1397,24 @@
       "duration_ms": 187679,
       "name": "Are You Impressed?",
       "url": "https://open.spotify.com/track/26hI6Cea82njvwJfG6t3Jl"
+    },
+    {
+      "album": {
+        "name": "Retrovision",
+        "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187679,
+      "name": "Are You Impressed?",
+      "url": "https://open.spotify.com/track/46UDlYUFZgpRDzouOGBM1m"
     },
     {
       "album": {
@@ -13293,7 +13311,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 209426,
       "name": "No News Is Good News",
       "url": "https://open.spotify.com/track/6cZntUHzJ0shH0wq7mEKUg"

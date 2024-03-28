@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 189239,
       "name": "Evig kvile",
       "url": "https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB"
@@ -1390,6 +1390,24 @@
       "duration_ms": 184827,
       "name": "Finn Veien Engel - New version",
       "url": "https://open.spotify.com/track/57okbLO40Q3aH4SgcAfmSS"
+    },
+    {
+      "album": {
+        "name": "Folk flest er snille",
+        "url": "https://open.spotify.com/album/4Edzdald8oV574cv2ejxwQ"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144553,
+      "name": "Folk flest er snille",
+      "url": "https://open.spotify.com/track/2Nlc6MR5OukglrSFsF1vGn"
     },
     {
       "album": {

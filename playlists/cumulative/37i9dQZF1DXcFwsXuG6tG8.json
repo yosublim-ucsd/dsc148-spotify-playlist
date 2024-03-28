@@ -559,6 +559,28 @@
     },
     {
       "album": {
+        "name": "Mal Hecha (Deluxe)",
+        "url": "https://open.spotify.com/album/6kfMjt47c5iFFibGx01cIB"
+      },
+      "artists": [
+        {
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+        },
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137096,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/5Xt8eyovli6IXfS4rzsMYS"
+    },
+    {
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/4BKSx1fa1slV2v0a8lBx3V"
       },
@@ -1528,7 +1550,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 187666,
       "name": "tensi\u00f3n",
       "url": "https://open.spotify.com/track/17POGo5ALqlJWhUhmH7Zbq"

@@ -1,18 +1,18 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: \u82b1\u6fa4\u9999\u83dc",
-  "num_followers": 156148,
+  "num_followers": 156190,
   "original_name": "EQUAL Anime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2U4ZTAwMDJjMTQ5YjM3ZjlhYzI5OTVkNmE3ODQ3NWIxZDM1NDM2",
+  "snapshot_id": "MCxhNzk1MjNmYTMxM2I3MjcyNzBlY2EwOWZkNzY3ZDhjYmM0OWE2NDYx",
   "tracks": [
     {
       "added_at": "2024-03-26 18:02:21",
       "album": {
-        "name": "\u8ffd\u61b6\u3068\u6307\u5148",
-        "url": "https://open.spotify.com/album/0UDQ6tZZaowo4AzB0zSve3"
+        "name": "Memoirs and Fingertips",
+        "url": "https://open.spotify.com/album/3wGgfAJwubMHynov9g5gev"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 216700,
       "name": "It's My Thing",
-      "url": "https://open.spotify.com/track/3bHlV2IbVT3CKv80eONxt4"
+      "url": "https://open.spotify.com/track/2OSW5gqltXfeloiqubO844"
     },
     {
       "added_at": "2024-03-26 18:02:21",
@@ -799,6 +799,30 @@
     {
       "added_at": "2024-03-26 18:02:21",
       "album": {
+        "name": "Flower in the Snow (from \"The Apothecary Diaries\" Soundtrack)",
+        "url": "https://open.spotify.com/album/0JGpkt0mAvZvW1NRsdZkAj"
+      },
+      "artists": [
+        {
+          "name": "Kanako Kishi",
+          "url": "https://open.spotify.com/artist/6ZVNZWQr6wlsUlm9SKII0k"
+        },
+        {
+          "name": "Mashiro Uchida",
+          "url": "https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo"
+        },
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "duration_ms": 161166,
+      "name": "Flower in the Snow (from \"The Apothecary Diaries\" Soundtrack)",
+      "url": "https://open.spotify.com/track/2YMmUrQBXrkONqMyXXJCd3"
+    },
+    {
+      "added_at": "2024-03-26 18:02:21",
+      "album": {
         "name": "FAKEit",
         "url": "https://open.spotify.com/album/3LgahfFyNmXwudGoFtN9yC"
       },
@@ -831,30 +855,6 @@
       "duration_ms": 205237,
       "name": "\u30b9\u30a4\u30fc\u30c8\u30b5\u30a4\u30f3",
       "url": "https://open.spotify.com/track/3PSgLRh1Wrk5fqxRDYfnDW"
-    },
-    {
-      "added_at": "2024-03-26 18:02:21",
-      "album": {
-        "name": "Flower in the Snow (from \"The Apothecary Diaries\" Soundtrack)",
-        "url": "https://open.spotify.com/album/0JGpkt0mAvZvW1NRsdZkAj"
-      },
-      "artists": [
-        {
-          "name": "Kanako Kishi",
-          "url": "https://open.spotify.com/artist/6ZVNZWQr6wlsUlm9SKII0k"
-        },
-        {
-          "name": "Mashiro Uchida",
-          "url": "https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo"
-        },
-        {
-          "name": "\u795e\u524d \u6681",
-          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
-        }
-      ],
-      "duration_ms": 161166,
-      "name": "Flower in the Snow (from \"The Apothecary Diaries\" Soundtrack)",
-      "url": "https://open.spotify.com/track/2YMmUrQBXrkONqMyXXJCd3"
     }
   ],
   "unique_name": "EQUAL Anime",

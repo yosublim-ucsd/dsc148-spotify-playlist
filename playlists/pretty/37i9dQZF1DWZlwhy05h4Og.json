@@ -1,13 +1,29 @@
 {
-  "description": "The sweetest bops. Cover: WENDY",
-  "num_followers": 51309,
+  "description": "The sweetest bops. Cover: ILLIT",
+  "num_followers": 51353,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTJjOGEyMzgyOTQzNTE1OTA3NGM2OTc5ZGM3ZTU3NjI2NWRjYzZm",
+  "snapshot_id": "MCxiYzllZTIzNjY4ZWI1M2QxNjNkNTA1MTk5YWExNzlkNGFjYWVhM2Yx",
   "tracks": [
+    {
+      "added_at": "2024-03-27 15:54:39",
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
     {
       "added_at": "2024-03-22 03:40:17",
       "album": {
@@ -759,22 +775,6 @@
       "duration_ms": 151947,
       "name": "Effort",
       "url": "https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o"
-    },
-    {
-      "added_at": "2024-03-22 03:40:17",
-      "album": {
-        "name": "READY TO BE",
-        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "SET ME FREE (ENG)",
-      "url": "https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0"
     },
     {
       "added_at": "2024-03-22 03:40:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjgTMdVaOfu.md) - [plain]
 
 > Music from "The Apothecary Diaries" /「薬屋のひとりごと」の楽曲を1つのプレイリストで。©日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 990 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,361 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjgTMdVaOfu.md) - [plain]
 | 6 | [Towards the Light \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/5mGYUEVZ9UR7JYKCbgWnkV) | [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Towards the Light \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/3SOGVZE05ZKcJSLIm3BLR6) | 2:28 |
 | 7 | [Flower in the Snow \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/2YMmUrQBXrkONqMyXXJCd3) | [Kanako Kishi](https://open.spotify.com/artist/6ZVNZWQr6wlsUlm9SKII0k), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Flower in the Snow \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/0JGpkt0mAvZvW1NRsdZkAj) | 2:41 |
 | 8 | [Blaze of Clear Sky \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/04xIuk7yE5S3ucvzd7VNi2) | [Daichi Takenaka](https://open.spotify.com/artist/40kOocaMWxJX2dIYzDAUmB), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Blaze of Clear Sky \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/23GffvhwgaUE3p6K3ZCDFT) | 1:58 |
-| 9 | [When Wishes Bloom \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/6QF9LXzRKg7xvNNrgB8qZ3) | [Aoiema](https://open.spotify.com/artist/10XKbVG4CEEwWKkcSRAG8D), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 4:38 |
+| 9 | [When Wishes Bloom \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/2EMXqSv1xiGy0PfTIB0Uz3) | [Aoiema](https://open.spotify.com/artist/10XKbVG4CEEwWKkcSRAG8D), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [When Wishes Bloom \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/4kxAWubYxgVBB6149n7Pi9) | 4:38 |
 | 10 | [Towards the Light \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/5mGYUEVZ9UR7JYKCbgWnkV) | [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Towards the Light \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/3SOGVZE05ZKcJSLIm3BLR6) | 2:28 |
 | 11 | [Like a Dream](https://open.spotify.com/track/3lXw6OE0nTVZw43xPPaemC) | [CHICA.](https://open.spotify.com/artist/3Q7w79FFfjsVrEFbmQuQOY), [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 2:25 |
 | 12 | [Little Cuckoo](https://open.spotify.com/track/4SrequYoeVWq2o3FTdGSYs) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 1:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjgTMdVaOfu.md) - [plain]
 | 49 | [Spring Peony](https://open.spotify.com/track/0E2XxJPZIMX3F8jGwhG94Y) | [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 1:46 |
 | 50 | [The Food Tasting Girl](https://open.spotify.com/track/1H8XPKWpYk1aMIVvzsR2aG) | [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 2:01 |
 
-Snapshot ID: `MCwxMTFlOTYwMDYyZTc4OTU4MWNlNWRlOTE1MjIxNzY3NGE4MGIxNTBi`
+Snapshot ID: `MCxjYTRkMmJlYzU1NThkYzk3MTk3NGQ3MGE4ZGQ3ZmQ4YjdhMDEzZTRl`

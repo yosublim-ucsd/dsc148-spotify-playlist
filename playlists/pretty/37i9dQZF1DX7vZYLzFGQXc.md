@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: IMI\_BLUE\(이미블루\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,625 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,651 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [Rainbow](https://open.spotify.com/track/12ku60Vbv6CkBal4Bq4u2Y) | [Heon](https://open.spotify.com/artist/4AfVKxP48OYzRXuAz2d3XO) | [Rainbow](https://open.spotify.com/album/1wxJKyH69bCA7zkJRjvqoM) | 3:32 |
 | 100 | [Ride \(Feat\. Jueun\)](https://open.spotify.com/track/1cCszH5E4C3U01CaLFsuVR) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U) | [Dear.R](https://open.spotify.com/album/3tqu6xDwjAStZh0A8oiXKH) | 3:12 |
 
-Snapshot ID: `MCxhY2U2ZWQ5MTVkN2QwMGE4YTQyMDE2OGNjYzI3ZDliNmY3NWIyZjVl`
+Snapshot ID: `MCw0ODVmOWFlYmY5NGUzNTg4MDdhN2RkMDcwZGJkYjUyMWM4NDE1MzY2`

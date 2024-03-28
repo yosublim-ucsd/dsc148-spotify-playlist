@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. \nCo-curada por Lali.",
-  "num_followers": 40302,
+  "num_followers": 40303,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDE2ZWYwYWFlNTE0ZTZkMGExYjYwM2Y2MjJlOTI2Yzc1MThkYzk3",
+  "snapshot_id": "MCxiMTE2ZTg0YTc2MTU3OGU0ZDk2ZDNjYzlmMDk2MDEwY2ViNDFhNDcy",
   "tracks": [
     {
       "added_at": "2024-03-11 16:56:02",
@@ -783,22 +783,18 @@
     {
       "added_at": "2024-03-11 16:56:02",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1cAWKfLaoca8sSAiY0bbd1"
+        "name": "Mi Voz",
+        "url": "https://open.spotify.com/album/7yJRR7UVedkmHG1pzIrkeG"
       },
       "artists": [
         {
-          "name": "O.L.I.V.I.A",
-          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
-        },
-        {
-          "name": "Zyntax",
-          "url": "https://open.spotify.com/artist/76KyZ9BBbydGTJkKJz7xdO"
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
         }
       ],
-      "duration_ms": 161513,
-      "name": "CRASH",
-      "url": "https://open.spotify.com/track/56AfMR14hEbvNxPkzkr4Lu"
+      "duration_ms": 192286,
+      "name": "Mi Voz",
+      "url": "https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE"
     },
     {
       "added_at": "2024-03-11 16:56:02",
@@ -823,18 +819,22 @@
     {
       "added_at": "2024-03-11 16:56:02",
       "album": {
-        "name": "Mi Voz",
-        "url": "https://open.spotify.com/album/7yJRR7UVedkmHG1pzIrkeG"
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1cAWKfLaoca8sSAiY0bbd1"
       },
       "artists": [
         {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+          "name": "O.L.I.V.I.A",
+          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
+        },
+        {
+          "name": "Zyntax",
+          "url": "https://open.spotify.com/artist/76KyZ9BBbydGTJkKJz7xdO"
         }
       ],
-      "duration_ms": 192286,
-      "name": "Mi Voz",
-      "url": "https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE"
+      "duration_ms": 161513,
+      "name": "CRASH",
+      "url": "https://open.spotify.com/track/56AfMR14hEbvNxPkzkr4Lu"
     },
     {
       "added_at": "2024-03-11 16:56:02",

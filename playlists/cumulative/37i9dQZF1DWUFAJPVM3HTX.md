@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh?si=rRDfEgn\-TceuQnjuKCD8Kw"> Odeal </a>\. Updates every Wednesday.
 
-2,179 songs - 4 day 15 hr 46 min
+2,180 songs - 4 day 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -656,7 +656,7 @@
 | [Flexin](https://open.spotify.com/track/1JgDsJQGG9ZPdZaL8Y0Afb) | [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Flexin](https://open.spotify.com/album/3rOki3JLECyVDkCn6o7XMX) | 2:55 | 2023-07-14 | 2023-09-09 |
 | [Flicker](https://open.spotify.com/track/7cpfxEvlhdx9IeMw1VqhLQ) | [LOLA](https://open.spotify.com/artist/4VljXOkEAZ4EWzvbvJszyT) | [Flicker](https://open.spotify.com/album/3ou8ef9dfMjeRW6RA7uptd) | 3:27 | 2022-09-01 | 2022-10-06 |
 | [Flights](https://open.spotify.com/track/3tdGDik2YTOVr8wuOBXPaV) | [Aryeè The Gem](https://open.spotify.com/artist/57IyzVgCqSf03yf30gIMwY), [Savannah Cristina](https://open.spotify.com/artist/7EsWLpczyTXU6zyfWt7ZkN) | [Flights](https://open.spotify.com/album/24RTGPwf3NEh7pEr4gbXgL) | 2:45 | 2024-02-09 |  |
-| [Flood](https://open.spotify.com/track/4tIiZ0Tw8rs10U4VWhF0tW) | [Allyn](https://open.spotify.com/artist/2nWo31Kvu9rMSVfhuUVUw3), [BlueBucksClan](https://open.spotify.com/artist/2dbNDuDQiHAcS2xztVnM9X) | [Flood](https://open.spotify.com/album/24bncHiXpdwGsPlXJfp1Ad) | 2:39 | 2024-03-08 |  |
+| [Flood](https://open.spotify.com/track/4tIiZ0Tw8rs10U4VWhF0tW) | [Allyn](https://open.spotify.com/artist/2nWo31Kvu9rMSVfhuUVUw3), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Flood](https://open.spotify.com/album/24bncHiXpdwGsPlXJfp1Ad) | 2:39 | 2024-03-08 |  |
 | [Floored](https://open.spotify.com/track/4YlFogCbQGWaQWWvJGuk4q) | [Eric Ryan](https://open.spotify.com/artist/7zFbJFKex3lnJNDj8cWeKp), [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn) | [Floored](https://open.spotify.com/album/6V34NkhtN0ZXb56KfET1Lj) | 2:30 | 2023-06-02 | 2023-08-04 |
 | [flowerboy](https://open.spotify.com/track/62joMjNLLw9jzu3JTjRRxb) | [jite](https://open.spotify.com/artist/2U5muScVm0KPEmqiBQuXO3) | [flowerboy](https://open.spotify.com/album/70z8xi7IoXSm3I7Uod10BU) | 2:49 | 2024-01-19 | 2024-03-23 |
 | [Flowers](https://open.spotify.com/track/1LL00BpMXEA5S3qht35qY2) | [MiC LOWRY](https://open.spotify.com/artist/0AJUYWKztkg5dnrHDIBv47) | [Flowers](https://open.spotify.com/album/1s31yXSSLd8ljT9lu6wgnK) | 3:34 | 2022-09-02 | 2022-10-06 |
@@ -1226,7 +1226,8 @@
 | [Missed Calls](https://open.spotify.com/track/1MxarVVd5hR6iTzv7gHEsr) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4) | [Missed Calls](https://open.spotify.com/album/75OxMVad3LRTB0W1I2JxCy) | 2:20 | 2022-07-01 | 2022-08-20 |
 | [Missin U](https://open.spotify.com/track/4vbLpTueqBx98sAcDpqC02) | [Britney Stoney](https://open.spotify.com/artist/1NrCzxQBuoRoh8q1ZRq83X) | [Missin U](https://open.spotify.com/album/44WxetHXSTxjpkTYbaRLMb) | 3:29 | 2022-04-13 | 2022-05-27 |
 | [Missing Out](https://open.spotify.com/track/5v1Whxcvk1jLhCK6BMhtq7) | [Keithian](https://open.spotify.com/artist/7hoU07f3UrItBlYeEty3md) | [Missing Out](https://open.spotify.com/album/09l49iZetajq0q71gjrhMv) | 2:35 | 2023-09-20 | 2023-11-30 |
-| [MNTNS](https://open.spotify.com/track/6WsynEBdML84DDlhJQ20CI) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [LSTN!](https://open.spotify.com/album/6PW2h1QLRPiPaQ0O0sKsbA) | 2:53 | 2024-02-09 |  |
+| [MNTNS](https://open.spotify.com/track/52JxoWMweF9lmM4fOi5I0J) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [LSTN!](https://open.spotify.com/album/0aKJSf1a160L3KRDnLqu70) | 2:53 | 2024-02-09 |  |
+| [MNTNS](https://open.spotify.com/track/6WsynEBdML84DDlhJQ20CI) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [LSTN!](https://open.spotify.com/album/6PW2h1QLRPiPaQ0O0sKsbA) | 2:53 | 2024-02-09 | 2024-03-28 |
 | [Moisturize](https://open.spotify.com/track/4RF6PYFvVulYWNNcWSMlJr) | [Sarah Couch](https://open.spotify.com/artist/3bOSsR32xNEWQOErYAkAnN) | [Moisturize](https://open.spotify.com/album/6qUxvI69H4i2jriurFo1j4) | 3:28 | 2023-10-03 | 2023-11-30 |
 | [Moments Ago](https://open.spotify.com/track/6OHfVVT9bIFWizu3XhSg3P) | [JJ Adrian](https://open.spotify.com/artist/4crJ8wTee0AgPI72R7YS77) | [Moments Ago / Yesterday Feels](https://open.spotify.com/album/77obPp4tcowHZwET3NGtBB) | 2:42 | 2022-04-27 | 2022-06-10 |
 | [Mona Lisa](https://open.spotify.com/track/7FDrxmRDLKUnt0hcZkaHvO) | [Meaghan Maples](https://open.spotify.com/artist/5FA6mWNzm3ecpLGip159LP) | [Mona Lisa](https://open.spotify.com/album/08y3tRgGzJ5jVoIC4QWqCK) | 2:50 | 2022-04-13 | 2022-05-27 |

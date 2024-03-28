@@ -1,12 +1,12 @@
 {
   "description": "Laissez-moi plonger je suis m\u00e9decin !",
-  "num_followers": 55611,
+  "num_followers": 56043,
   "original_name": "Balec !",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTA3NzMxMGNmMGMwOWRhNzkzM2FmNmRkYzk2NWNkNDcyMmZkOWZm",
+  "snapshot_id": "MCw0MGE0YTMzYTUxNzY0N2MyOWFhMmY3MWU1MzI5ZmVkMjM0YWE3YzY2",
   "tracks": [
     {
       "added_at": "2024-03-22 19:58:30",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-03-22 19:58:30",
       "album": {
+        "name": "Summer23",
+        "url": "https://open.spotify.com/album/0bFEzvjsasoFJt9OBJVeC0"
+      },
+      "artists": [
+        {
+          "name": "MERCURY",
+          "url": "https://open.spotify.com/artist/7nZUfrzMjY1kuooTJcg5s2"
+        }
+      ],
+      "duration_ms": 251081,
+      "name": "After",
+      "url": "https://open.spotify.com/track/0TLoVayT4L0wK8XqSJmcnN"
+    },
+    {
+      "added_at": "2024-03-22 19:58:30",
+      "album": {
         "name": "Heathens",
         "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
       },
@@ -71,6 +87,26 @@
       "duration_ms": 121160,
       "name": "Song 2 - 2012 Remaster",
       "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+    },
+    {
+      "added_at": "2024-03-22 19:58:30",
+      "album": {
+        "name": "UNBOUND",
+        "url": "https://open.spotify.com/album/6yV7TTaBOu1rwivcDLVUXJ"
+      },
+      "artists": [
+        {
+          "name": "Indigo Blaze",
+          "url": "https://open.spotify.com/artist/0hCmNM3Zwz6gYb8fdaxIcf"
+        },
+        {
+          "name": "LATE 90s",
+          "url": "https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "UNBOUND",
+      "url": "https://open.spotify.com/track/3LMY1W14udlJRI5cRHH1B9"
     },
     {
       "added_at": "2024-03-22 19:58:30",
@@ -107,6 +143,22 @@
     {
       "added_at": "2024-03-22 19:58:30",
       "album": {
+        "name": "Engage",
+        "url": "https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f"
+      },
+      "artists": [
+        {
+          "name": "Rain Check",
+          "url": "https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj"
+        }
+      ],
+      "duration_ms": 186374,
+      "name": "Engage",
+      "url": "https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr"
+    },
+    {
+      "added_at": "2024-03-22 19:58:30",
+      "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
@@ -139,6 +191,22 @@
     {
       "added_at": "2024-03-22 19:58:30",
       "album": {
+        "name": "D.I.A.D.",
+        "url": "https://open.spotify.com/album/0jWYNExqrkXCTjSe3zfyFy"
+      },
+      "artists": [
+        {
+          "name": "Shell",
+          "url": "https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm"
+        }
+      ],
+      "duration_ms": 177636,
+      "name": "D.I.A.D.",
+      "url": "https://open.spotify.com/track/4V3dIL2F7vbyrRko2yMkF4"
+    },
+    {
+      "added_at": "2024-03-22 19:58:30",
+      "album": {
         "name": "All Killer, No Filler",
         "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
@@ -151,6 +219,38 @@
       "duration_ms": 207093,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
+    },
+    {
+      "added_at": "2024-03-22 19:58:30",
+      "album": {
+        "name": "Take Off Your Pants And Jacket",
+        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "First Date",
+      "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
+    },
+    {
+      "added_at": "2024-03-22 19:58:30",
+      "album": {
+        "name": "Facade",
+        "url": "https://open.spotify.com/album/6qqHAGCQXunTSwpqDn8YTq"
+      },
+      "artists": [
+        {
+          "name": "Mirrortalk",
+          "url": "https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D"
+        }
+      ],
+      "duration_ms": 229750,
+      "name": "Facade",
+      "url": "https://open.spotify.com/track/3nFhmnUY60LR6o3zvcRKPq"
     },
     {
       "added_at": "2024-03-22 19:58:30",
@@ -215,22 +315,6 @@
       "duration_ms": 211520,
       "name": "Misery Business",
       "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
-    },
-    {
-      "added_at": "2024-03-22 19:58:30",
-      "album": {
-        "name": "Take Off Your Pants And Jacket",
-        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "First Date",
-      "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
     },
     {
       "added_at": "2024-03-22 19:58:30",
@@ -411,22 +495,6 @@
     {
       "added_at": "2024-03-22 19:58:30",
       "album": {
-        "name": "Black Ice",
-        "url": "https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 261506,
-      "name": "Rock N Roll Train",
-      "url": "https://open.spotify.com/track/4feXJ5IC3avXsVW9WNFSag"
-    },
-    {
-      "added_at": "2024-03-22 19:58:30",
-      "album": {
         "name": "The Battle Of Los Angeles",
         "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
       },
@@ -455,6 +523,22 @@
       "duration_ms": 236013,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
+    },
+    {
+      "added_at": "2024-03-22 19:58:30",
+      "album": {
+        "name": "Black Ice",
+        "url": "https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 261506,
+      "name": "Rock N Roll Train",
+      "url": "https://open.spotify.com/track/4feXJ5IC3avXsVW9WNFSag"
     },
     {
       "added_at": "2024-03-22 19:58:30",
@@ -799,6 +883,22 @@
     {
       "added_at": "2024-03-22 19:58:30",
       "album": {
+        "name": "Stickers of Brian",
+        "url": "https://open.spotify.com/album/1VIMKqBLNwr7MOJennpzwW"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "duration_ms": 161642,
+      "name": "Stickers of Brian",
+      "url": "https://open.spotify.com/track/7M0A43aUdp5VDqUq39SJhV"
+    },
+    {
+      "added_at": "2024-03-22 19:58:30",
+      "album": {
         "name": "Guero",
         "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
       },
@@ -879,18 +979,18 @@
     {
       "added_at": "2024-03-22 19:58:30",
       "album": {
-        "name": "Stickers of Brian",
-        "url": "https://open.spotify.com/album/1VIMKqBLNwr7MOJennpzwW"
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
       "artists": [
         {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 161642,
-      "name": "Stickers of Brian",
-      "url": "https://open.spotify.com/track/7M0A43aUdp5VDqUq39SJhV"
+      "duration_ms": 172020,
+      "name": "HOLIDAY",
+      "url": "https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7"
     },
     {
       "added_at": "2024-03-22 19:58:30",
@@ -907,22 +1007,6 @@
       "duration_ms": 226106,
       "name": "Freak",
       "url": "https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0"
-    },
-    {
-      "added_at": "2024-03-22 19:58:30",
-      "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 172020,
-      "name": "HOLIDAY",
-      "url": "https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7"
     },
     {
       "added_at": "2024-03-22 19:58:30",
@@ -1215,90 +1299,6 @@
       "duration_ms": 209061,
       "name": "Won\u2019t Stand Down",
       "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
-    },
-    {
-      "added_at": "2024-03-22 19:58:30",
-      "album": {
-        "name": "Transplants",
-        "url": "https://open.spotify.com/album/0lf0Mw6dwcAWxIIVXEv0fQ"
-      },
-      "artists": [
-        {
-          "name": "Transplants",
-          "url": "https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q"
-        }
-      ],
-      "duration_ms": 241908,
-      "name": "Diamonds And Guns",
-      "url": "https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d"
-    },
-    {
-      "added_at": "2024-03-22 19:58:30",
-      "album": {
-        "name": "Love From The Other Side",
-        "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 247320,
-      "name": "Love From The Other Side - Edit",
-      "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
-    },
-    {
-      "added_at": "2024-03-22 19:58:30",
-      "album": {
-        "name": "Cold World",
-        "url": "https://open.spotify.com/album/4OMrhNt4uDO7k44AlkqLJb"
-      },
-      "artists": [
-        {
-          "name": "Death Lens",
-          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
-        }
-      ],
-      "duration_ms": 197026,
-      "name": "Cold World",
-      "url": "https://open.spotify.com/track/4rUWdWtDbM3aYUHoFTzJdW"
-    },
-    {
-      "added_at": "2024-03-22 19:58:30",
-      "album": {
-        "name": "Relationship Of Command",
-        "url": "https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um"
-      },
-      "artists": [
-        {
-          "name": "At the Drive-In",
-          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
-        }
-      ],
-      "duration_ms": 260306,
-      "name": "One Armed Scissor",
-      "url": "https://open.spotify.com/track/4QYg0pee8jcGTHC3Uh2Vii"
-    },
-    {
-      "added_at": "2024-03-22 19:58:30",
-      "album": {
-        "name": "Apelogies",
-        "url": "https://open.spotify.com/album/0TAeIWcUAjAb1ZBXzaDOGV"
-      },
-      "artists": [
-        {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
-        },
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 276160,
-      "name": "Pure 90 (Rapping Queen)",
-      "url": "https://open.spotify.com/track/24ZEVCdOTKgdcM41B598NM"
     }
   ],
   "unique_name": "Balec !",

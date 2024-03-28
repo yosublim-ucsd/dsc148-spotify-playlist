@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: FAST BOY, R3HAB
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,971 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,020 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 27 | [Make It Happen](https://open.spotify.com/track/3T7sUc1POvptNCM8o3KAmM) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Make It Happen](https://open.spotify.com/album/4Y8K7bajbQbmBKLgzjAcG9) | 2:03 |
 | 28 | [Leave The World Behind \(L'Esperanza\)](https://open.spotify.com/track/0LfaCcUnwFsfeOctUbzUCO) | [AVA CROWN](https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Leave The World Behind \(L'Esperanza\)](https://open.spotify.com/album/13f2jmZJ5yDLFicA2nOPxE) | 2:37 |
 | 29 | [Not Even Love](https://open.spotify.com/track/65s9dLrylbHp60IYIcUZEz) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Not Even Love](https://open.spotify.com/album/3tjAvXx7DnY6tYkzcZ4wXc) | 4:05 |
-| 30 | [Head Down \- BENNETT Remix](https://open.spotify.com/track/5ChmudcvV29aaDtUb3PnLr) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Head Down \(Remix Pack\)](https://open.spotify.com/album/6t3zHEWBg99jS3dv0K07QE) | 2:37 |
+| 30 | [Head Down \- BENNETT Remix](https://open.spotify.com/track/64jPzU7ggkxKHzgKFgnXPF) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Head Down \(Remix Pack\)](https://open.spotify.com/album/5fSB7APCR8tXYEaHwpRiic) | 2:37 |
 | 31 | [Stumblin' In \(Sonny Wern Remix\)](https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Stumblin' In \(Sonny Wern Remix\)](https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY) | 2:32 |
 | 32 | [Ich nehm dich bei der Hand \- Hardstyle](https://open.spotify.com/track/2xylu2773l6wsB0bxDXzwN) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs) | [Ich nehm dich bei der Hand \(SimsalaGrimm\) EP](https://open.spotify.com/album/3bJpS66FJAVvUxe8hQR6tQ) | 2:22 |
 | 33 | [Still Here With You](https://open.spotify.com/track/2JjS5wksKwaAqaB4Tubijz) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Still Here With You](https://open.spotify.com/album/7kMf2MXLqvDBMH6278lRn5) | 2:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 79 | [Home](https://open.spotify.com/track/4YrB46WduA4TYnSdtk6URa) | [THORE](https://open.spotify.com/artist/3gv3HaxW0wEJLeDymQGXBt), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN) | [Home](https://open.spotify.com/album/5e9zMuKIBPtl9CStL34g9Y) | 3:11 |
 | 80 | [Hold](https://open.spotify.com/track/0HVWPPXF5rPXyUKAMNN5K2) | [TwoSides](https://open.spotify.com/artist/1K9jLPrfh7R7jykAV79ivA) | [Hold](https://open.spotify.com/album/6e8nVQU821w444dPdgikQm) | 2:45 |
 
-Snapshot ID: `MCxmZTYzMTY1MzRhNTg1YjVjMzgxOGJlZDUyOGE5NjUzY2ViMDRkNGY4`
+Snapshot ID: `MCxiNjY5ZDE1MjM5MGVhNjg4YWM5ODFkZWQ1ZTVhMWZmMTVkY2U1OGRh`

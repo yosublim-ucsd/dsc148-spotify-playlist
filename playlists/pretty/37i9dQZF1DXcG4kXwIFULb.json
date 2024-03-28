@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 152644,
+  "num_followers": 152725,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWIxYmFhOWIzMWMwMDE2MTcxZWJkYmYxMGRkMDEzNWFlODU4MmQ5",
+  "snapshot_id": "MCxkMzUxYzBjNjI5MTU0MTc1OTkzZDU2N2U5M2JlOTMzNDllNTgyZjA1",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -99,26 +99,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Genetic World",
-        "url": "https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9l\u00e9popmusik",
-          "url": "https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF"
-        },
-        {
-          "name": "Angela McCluskey",
-          "url": "https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x"
-        }
-      ],
-      "duration_ms": 282240,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/0uKrhHBDUQ4w5fv4qwOubP"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 271520,
       "name": "In The Waiting Line",
       "url": "https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Genetic World",
+        "url": "https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9l\u00e9popmusik",
+          "url": "https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF"
+        },
+        {
+          "name": "Angela McCluskey",
+          "url": "https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x"
+        }
+      ],
+      "duration_ms": 282240,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0uKrhHBDUQ4w5fv4qwOubP"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Paradise Blown",
-        "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
-      },
-      "artists": [
-        {
-          "name": "9 Lazy 9",
-          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Black Jesus",
-      "url": "https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Shallow and Profound",
         "url": "https://open.spotify.com/album/59h727IciPDdyh4bdd0WWT"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Magic Love (Remixes)",
-        "url": "https://open.spotify.com/album/21KrsFEPYoXmJRIj0UNtnq"
+        "name": "Paradise Blown",
+        "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
       },
       "artists": [
         {
-          "name": "Bent",
-          "url": "https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa"
+          "name": "9 Lazy 9",
+          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
         }
       ],
-      "duration_ms": 202333,
-      "name": "Magic Love - Radio Edit",
-      "url": "https://open.spotify.com/track/01K42inuuCqOB731ugiQAd"
+      "duration_ms": 245493,
+      "name": "Black Jesus",
+      "url": "https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1087,6 +1071,22 @@
       "duration_ms": 278144,
       "name": "DUST",
       "url": "https://open.spotify.com/track/7AHaKrKuhzpl4xK0r2Jd9g"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Magic Love (Remixes)",
+        "url": "https://open.spotify.com/album/21KrsFEPYoXmJRIj0UNtnq"
+      },
+      "artists": [
+        {
+          "name": "Bent",
+          "url": "https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "Magic Love - Radio Edit",
+      "url": "https://open.spotify.com/track/01K42inuuCqOB731ugiQAd"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 426614,
-      "name": "La femme d'argent",
-      "url": "https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Angel Milk",
         "url": "https://open.spotify.com/album/4YjO6XT3uuRvY9PGWPli7E"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 230066,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/6T1DyqY15fNj7F5FK4r5VR"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 426614,
+      "name": "La femme d'argent",
+      "url": "https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "The Cosmic Game",
-        "url": "https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 139226,
-      "name": "The Cosmic Game",
-      "url": "https://open.spotify.com/track/6x8yvtqzNmzyzLbqy1BDIs"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Journey Into Abstract Hip Hop",
         "url": "https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 325583,
       "name": "Emkay",
       "url": "https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "The Cosmic Game",
+        "url": "https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 139226,
+      "name": "The Cosmic Game",
+      "url": "https://open.spotify.com/track/6x8yvtqzNmzyzLbqy1BDIs"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Flashlight EP",
+        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 302542,
+      "name": "Return to Air",
+      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Wax Poetic",
         "url": "https://open.spotify.com/album/7DvlXVQ997HD3NGp9oCMXQ"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 243066,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/4eKIHs1qmbmcFLdFYH6pU2"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Flashlight EP",
-        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 302542,
-      "name": "Return to Air",
-      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
       "added_at": "2020-09-04 01:12:56",

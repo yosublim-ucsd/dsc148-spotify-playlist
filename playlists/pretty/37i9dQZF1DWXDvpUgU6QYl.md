@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 
 > A groovy and soulful house collection\. Cover: Calvin Harris, Eliza Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,690 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,756 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 | 16 | [Again \- Edit](https://open.spotify.com/track/6Jy35IQl4MUrYX90AkBZuD) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Again \(Edit\)](https://open.spotify.com/album/3vGWOnoKWrxkueS2VXtj4F) | 3:33 |
 | 17 | [Our House](https://open.spotify.com/track/3Jpf1gn9uR4tbL35HT0yPj) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Our House](https://open.spotify.com/album/3aqsOlBHvcuDQvNJNuSWwM) | 3:03 |
 | 18 | [Release Me](https://open.spotify.com/track/0dyNRRAiEnX98U4BlZkbfT) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Release Me](https://open.spotify.com/album/0tJ2xpt6XRAjBeARDB9JKk) | 2:48 |
-| 19 | [Changes](https://open.spotify.com/track/0t7ahpke8UKi61ikrSh5sd) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [The Complete Collection](https://open.spotify.com/album/2ooyO0Krh2H87j4hJbPQiE) | 5:04 |
+| 19 | [Changes](https://open.spotify.com/track/7K2yIbJIanAThF37SlxPey) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [Changes](https://open.spotify.com/album/62sLTTuUdEYDnVHCdp3poe) | 5:04 |
 | 20 | [Smile on Your Face](https://open.spotify.com/track/7nNf5ay9ozxPZEJba65iQm) | [Juicy M](https://open.spotify.com/artist/6klooWKc13AOY1BVfE0Tm6), [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Smile on Your Face](https://open.spotify.com/album/2Pb0Cq9JzebMQ8nJJUUINT) | 2:55 |
 | 21 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
 | 22 | [Motown Philly](https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Motown Philly](https://open.spotify.com/album/2Rb5KdeDt7P1WASorfVR46) | 2:38 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 | 59 | [Downstream](https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Downstream](https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z) | 2:55 |
 | 60 | [Take It Back \(feat\. Davie\)](https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Take It Back \(feat\. Davie\)](https://open.spotify.com/album/5NN6jIlYaOhjirtYiGuPNr) | 3:36 |
 
-Snapshot ID: `MCw0OTM3ZTRmN2MyMTgyODkwMzY5NmM5ZTY3ZmQyOGMxZDFmZWViNGNj`
+Snapshot ID: `MCxlNjNkNGY1M2I3OWNlNzYyMGVmMjgzMDBiMjUxM2M3YWFmMWUwNDY4`

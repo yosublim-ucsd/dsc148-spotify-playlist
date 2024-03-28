@@ -1119,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "EL CONDOR LEGENDARIO",
+        "url": "https://open.spotify.com/album/1rqPo5ION00UAC96FiARAW"
+      },
+      "artists": [
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266913,
+      "name": "El Diario De Un Borracho",
+      "url": "https://open.spotify.com/track/74sCPhSM33BvUge3gKG5jn"
+    },
+    {
+      "album": {
         "name": "Grandes Exitos Originales",
         "url": "https://open.spotify.com/album/2MdfIDjiq3PWbuWUvOKHgu"
       },
@@ -1250,7 +1268,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 192386,
       "name": "El Santo Del Amor",
       "url": "https://open.spotify.com/track/1ypgaZINEPR74L2c5W3h0A"

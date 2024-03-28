@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 705008,
+  "num_followers": 705037,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTRlOGE3YzNkNzA4NmM0YTdlODc4MzZlZDQ1MjRiMDc0NmNiZjMz",
+  "snapshot_id": "MCwyMzM4ZGM4MGRkMmM0Zjc2MGZhNTU4MzE2Nzc2OWUwMDYxYjU3Nzg5",
   "tracks": [
     {
       "added_at": "2024-03-22 11:04:03",
@@ -1799,22 +1799,22 @@
     {
       "added_at": "2024-03-22 11:04:03",
       "album": {
-        "name": "Liquid Spirit (Claptone Remix)",
-        "url": "https://open.spotify.com/album/2IeDDT5i132tRkKHrdfWS2"
+        "name": "Triple F",
+        "url": "https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
         },
         {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+          "name": "Peaches",
+          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
         }
       ],
-      "duration_ms": 383552,
-      "name": "Liquid Spirit - Claptone Remix",
-      "url": "https://open.spotify.com/track/6wp5tGVNQYpKJPo1s3WUEY"
+      "duration_ms": 163200,
+      "name": "Fuck The Pain Away",
+      "url": "https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0"
     },
     {
       "added_at": "2024-03-22 11:04:03",
@@ -1835,22 +1835,22 @@
     {
       "added_at": "2024-03-22 11:04:03",
       "album": {
-        "name": "Triple F",
-        "url": "https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw"
+        "name": "Liquid Spirit (Claptone Remix)",
+        "url": "https://open.spotify.com/album/2IeDDT5i132tRkKHrdfWS2"
       },
       "artists": [
         {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         },
         {
-          "name": "Peaches",
-          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
         }
       ],
-      "duration_ms": 163200,
-      "name": "Fuck The Pain Away",
-      "url": "https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0"
+      "duration_ms": 383552,
+      "name": "Liquid Spirit - Claptone Remix",
+      "url": "https://open.spotify.com/track/6wp5tGVNQYpKJPo1s3WUEY"
     },
     {
       "added_at": "2024-03-22 11:04:03",
@@ -1947,6 +1947,34 @@
     {
       "added_at": "2024-03-22 11:04:03",
       "album": {
+        "name": "Oh Baby (feat. bshp & Issey Cross)",
+        "url": "https://open.spotify.com/album/7oXgMepNUWPk1dN6MpDn2C"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "bshp",
+          "url": "https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ"
+        },
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        }
+      ],
+      "duration_ms": 148236,
+      "name": "Oh Baby (feat. bshp & Issey Cross)",
+      "url": "https://open.spotify.com/track/2F0dCzhF9W1tcXwXu99m28"
+    },
+    {
+      "added_at": "2024-03-22 11:04:03",
+      "album": {
         "name": "Turn Me On",
         "url": "https://open.spotify.com/album/1dACmwUnkKyXTl2w04Zymr"
       },
@@ -1963,26 +1991,6 @@
       "duration_ms": 126123,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/70pNsXFxPkPw5pkwMuywP2"
-    },
-    {
-      "added_at": "2024-03-22 11:04:03",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/6hVYf2R4nHBorsLM6Oj2cN"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
-        }
-      ],
-      "duration_ms": 199408,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/73W9I0EIOcw8IW8zEIiyN4"
     }
   ],
   "unique_name": "PARTY MODE",

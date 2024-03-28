@@ -1,12 +1,12 @@
 {
   "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: NCT DREAM",
-  "num_followers": 409635,
+  "num_followers": 409827,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjhhOGNhMWY4ZmVlMWEwYjY4YjY0M2U5MWMzYTFhODNhYzVlM2I1",
+  "snapshot_id": "MCxhZTM5Nzk5ZWE1MzVlOTRmZmE3YTI2YTNjMTIwNWNlMGRjMTQ1MjI5",
   "tracks": [
     {
       "added_at": "2024-03-26 15:00:00",
@@ -657,6 +657,22 @@
       "url": "https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06"
     },
     {
+      "added_at": "2024-03-27 02:03:42",
+      "album": {
+        "name": "Emptiness",
+        "url": "https://open.spotify.com/album/7Iipt9N6AEqCDHy73xPVtU"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Emptiness",
+      "url": "https://open.spotify.com/track/55W3ONBbW98Cqvk0ZIoaKR"
+    },
+    {
       "added_at": "2024-03-26 15:00:00",
       "album": {
         "name": "wherever u r (ft. V of BTS)",
@@ -907,22 +923,6 @@
       "duration_ms": 148753,
       "name": "Sweet Venom",
       "url": "https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m"
-    },
-    {
-      "added_at": "2024-03-26 15:00:00",
-      "album": {
-        "name": "Un: SEEN",
-        "url": "https://open.spotify.com/album/6lPOFQarc48hDHdFYcVdzQ"
-      },
-      "artists": [
-        {
-          "name": "EVNNE",
-          "url": "https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "UGLY",
-      "url": "https://open.spotify.com/track/3p5SJW1Jb4EvSEXrpShQzm"
     },
     {
       "added_at": "2024-03-26 15:00:00",

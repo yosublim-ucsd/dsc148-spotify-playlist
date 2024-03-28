@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 54 min 41 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 49 min 21 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nothing Left](https://open.spotify.com/track/2zy79BntQ1kumEUeqM5O84) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [An Ocean Between Us](https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN) | 3:43 |
-| 2 | [Mister Superstar](https://open.spotify.com/track/0T30qRXdFY8Ihy9zjP3hwG) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Antichrist Superstar](https://open.spotify.com/album/1WLs1iVHFL0wboZpeZ0bFf) | 5:04 |
-| 3 | [Freak On a Leash](https://open.spotify.com/track/5TfqfmN4bGwOptgcjlihH5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/3NSivK5tIM5k4IiH5wobRr) | 4:16 |
-| 4 | [Anonymous](https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Sad Songs For Winter](https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp) | 2:30 |
-| 5 | [Shoots and Ladders](https://open.spotify.com/track/40DoajfWsc4BVCeU85MWMu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/3NSivK5tIM5k4IiH5wobRr) | 5:22 |
-| 6 | [Warning](https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:41 |
-| 7 | [La Voz De Los '80](https://open.spotify.com/track/3UWMYVLYo0QwaPw1OI8hDk) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Ni por la Razon, Ni por la Fuerza \- Antologia](https://open.spotify.com/album/3lw3Fh1bzFCGQaDRE1AguX) | 4:08 |
-| 8 | [Mistreated \- Live; 2004 Remastered Version](https://open.spotify.com/track/39IupZnm3kefibXWnNCX91) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Platinum Collection](https://open.spotify.com/album/1G5FycaSPGPZiwMDxrumgm) | 11:35 |
-| 9 | [cross my heart \(hope to die\)](https://open.spotify.com/track/7qt0s5OswWIDJBlLHmiKNi) | [Mackenzie Arromba](https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq) | [cross my heart \(hope to die\)](https://open.spotify.com/album/2OPo2MAbCCUWp3TS4N7nld) | 2:40 |
-| 10 | [Blood \- Hidden Track](https://open.spotify.com/track/1rNSLiEFpAF4amVhkzfTUG) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:53 |
-| 11 | [El Pájaro Vio el Cielo y Se Voló](https://open.spotify.com/track/4smTDf8dKkZXxz66uv5w43) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Mi Vida Loca](https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5) | 4:21 |
-| 12 | [Esta Vez](https://open.spotify.com/track/3O6FSINQCT743cLVMRJrsT) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [SINO](https://open.spotify.com/album/4yLlkceQbuq64zdFnxdCYB) | 4:22 |
+| 1 | [Ver Tus Ojos Mirándome](https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY) | [Ver Tus Ojos Mirándome](https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1) | 3:30 |
+| 2 | [It's Far Better To Learn](https://open.spotify.com/track/0nQcyybXeatlDXgvQOrT1n) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:54 |
+| 3 | [Welcome Home \(Sanitarium\)](https://open.spotify.com/track/4FLbop1O5wfLdoPL3ytEbi) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 6:13 |
+| 4 | [Nasty People](https://open.spotify.com/track/3qBwLmGiqRvBqrzfcsl9Fp) | [Spinetta Y Los Socios Del Desierto](https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi) | [Spinetta y los Socios del Desierto](https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt) | 3:37 |
+| 5 | [Looking At People](https://open.spotify.com/track/6eH80huR96DL1awXtHKqf6) | [Julien Chang](https://open.spotify.com/artist/0QwAWEp3r3Ut1dYNQb7JzS) | [Home For The Moment](https://open.spotify.com/album/6pUVU5RbGyFOJYPmUNKCOD) | 3:54 |
+| 6 | [Vivir Sin Ti](https://open.spotify.com/track/3wfoh2ktV2H35UaqBMaGYt) | [Kudai](https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC) | [Laberinto](https://open.spotify.com/album/7fM0DdFY3V2In2pFg9D7p3) | 2:48 |
+| 7 | [Todos los Días](https://open.spotify.com/track/3QYC5AvjIsq3sG5eEVuqRl) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Ocho](https://open.spotify.com/album/3dJ5ujgyBc2Mw2G9fFeINy) | 3:27 |
+| 8 | [Gloomy Sunday](https://open.spotify.com/track/5z6yJcfCoJkGI0yvEtrj0r) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Atrocities](https://open.spotify.com/album/6j7RSXc8qwZ4bHJ6MwhpsL) | 3:03 |
+| 9 | [Inseguro, Pero Honesto](https://open.spotify.com/track/7EgTz89Xi1pTXnw0MqJ5FM) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:03 |
+| 10 | [Wireless](https://open.spotify.com/track/6GbIu8LjSr7JKBexnSeRZH) | [Cavedoll](https://open.spotify.com/artist/4U6cZkjQE5aIsCnfL9DaJk) | [Robot Lost: Scene 2 \(part 2\)](https://open.spotify.com/album/69Yw4LeOl2HjviV0efVD4s) | 8:16 |
+| 11 | [Life Was Fair](https://open.spotify.com/track/7x8Sfll6zqxjmTinyYiFtj) | [Only Crime](https://open.spotify.com/artist/77B3UTPWOJL6ZF0uOTZ4Iq) | [Pursuance](https://open.spotify.com/album/0TeZKDdx7VNDA3QDExVwpw) | 2:46 |
+| 12 | [La Luna](https://open.spotify.com/track/21IhKvPNPb2VkTACCpAD4j) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Runaway Horses \(Remastered & Expanded Special Edition\)](https://open.spotify.com/album/3tWN0uTRc9uSFiRoTTSmAQ) | 4:45 |
 
-Snapshot ID: `NjcsZWZjMjYxYjAwMzkyMzlkZWJmZGJmYmQ3ZWYwNTdhZjdkYWU0OWM0MQ==`
+Snapshot ID: `NjgsOWI4MGNmM2UzZWMyMTdhYWFjYzI0OWQ3NzM3ZjQ5MDRhYjUxM2E5Ng==`

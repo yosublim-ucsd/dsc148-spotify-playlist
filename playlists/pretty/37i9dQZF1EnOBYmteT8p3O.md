@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EnOBYmteT8p3O.md) - [plain]
 
 > Podcast episodes picked just for you
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,912 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 278,914 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Matisse",
-  "num_followers": 280895,
+  "num_followers": 280883,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGQ5MmEzNGZjYTU0MWQzNTc2NmZkZDllNzhkYjgwMzJlMTU2NzMy",
+  "snapshot_id": "MCxhYWQ5MjhlMGI4Zjc3NTBmZjE5NmE4MDNmZTg1ODM0MWQ5MWYzMGUw",
   "tracks": [
     {
       "added_at": "2023-12-20 18:00:15",
@@ -471,22 +471,18 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Al Mundo Paz",
-        "url": "https://open.spotify.com/album/2DtZvoCBDFwW5mplsyxRoL"
+        "name": "Solo En Navidad",
+        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
       },
       "artists": [
         {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        },
-        {
-          "name": "Playa Limbo",
-          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
         }
       ],
-      "duration_ms": 182042,
-      "name": "Al Mundo Paz",
-      "url": "https://open.spotify.com/track/4IlsOf3duyAvhJhfICiPJo"
+      "duration_ms": 191117,
+      "name": "Solo En Navidad",
+      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -507,18 +503,22 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Solo En Navidad",
-        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
+        "name": "Al Mundo Paz",
+        "url": "https://open.spotify.com/album/2DtZvoCBDFwW5mplsyxRoL"
       },
       "artists": [
         {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        },
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
         }
       ],
-      "duration_ms": 191117,
-      "name": "Solo En Navidad",
-      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
+      "duration_ms": 182042,
+      "name": "Al Mundo Paz",
+      "url": "https://open.spotify.com/track/4IlsOf3duyAvhJhfICiPJo"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "st. Pedro's Christmas Special",
-        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 195842,
-      "name": "Last Christmas (Spanish Version)",
-      "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "Llegu\u00e9 a Navidad",
         "url": "https://open.spotify.com/album/0IHUZrmVQfFWNkZUnWF4c6"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 161684,
       "name": "Llegu\u00e9 a Navidad",
       "url": "https://open.spotify.com/track/4e4wrhbqdj6CKxHEgWjPfw"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "st. Pedro's Christmas Special",
+        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 195842,
+      "name": "Last Christmas (Spanish Version)",
+      "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Alegr\u00eda",
-        "url": "https://open.spotify.com/album/1rwh1yj0SrvoS7cbVjIl4k"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 202846,
-      "name": "Alegr\u00eda",
-      "url": "https://open.spotify.com/track/26wgGNbiKfdOmlbFxcjN8q"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "Volvernos a Encontrar",
         "url": "https://open.spotify.com/album/6oIN2uymnjEuWbrgMzE4X1"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 186130,
       "name": "Volvernos a Encontrar",
       "url": "https://open.spotify.com/track/2rvfoWKvT0axDiXB96X4jO"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "Alegr\u00eda",
+        "url": "https://open.spotify.com/album/1rwh1yj0SrvoS7cbVjIl4k"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 202846,
+      "name": "Alegr\u00eda",
+      "url": "https://open.spotify.com/track/26wgGNbiKfdOmlbFxcjN8q"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "st. Pedro's Christmas Special",
-        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 187668,
-      "name": "Otra Navidad :(",
-      "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "Diciembre",
         "url": "https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 160312,
       "name": "Diciembre",
       "url": "https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "st. Pedro's Christmas Special",
+        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 187668,
+      "name": "Otra Navidad :(",
+      "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"
     },
     {
       "added_at": "2023-12-20 18:00:15",

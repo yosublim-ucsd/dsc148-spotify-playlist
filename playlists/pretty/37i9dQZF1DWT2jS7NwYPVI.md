@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your rock/alt cheat sheet \| Cover: King Isis
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,215 likes - 105 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,276 likes - 105 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,9 +109,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 99 | [Let It Go](https://open.spotify.com/track/5YDJAG4rfagJ1hjhtLGffk) | [American Culture](https://open.spotify.com/artist/6OaSE468GGX1xWqex449FP), [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Let It Go](https://open.spotify.com/album/1Fc7tzB2bYIllsmJz2X4yf) | 5:21 |
 | 100 | [Girls!](https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E), [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [ANTI\-FUN PROPAGANDA](https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW) | 3:04 |
 | 101 | [BACKSTABBER](https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [BACKSTABBER](https://open.spotify.com/album/1RFijpHOUqGPZ3hdvcm8IM) | 3:08 |
-| 102 | [Ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
+| 102 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
 | 103 | [Alexithymia](https://open.spotify.com/track/6YJ3xte2WDYvaEPToXDl0F) | [GREYSKIIN](https://open.spotify.com/artist/2A3HWyaY6VSKoPBgEWxtFX) | [Alexithymia](https://open.spotify.com/album/2UgPOc1dAJRK8LG9j5Ir0l) | 2:56 |
 | 104 | [Not Like The Rest](https://open.spotify.com/track/4KwYHGWMQelyzc6a5RXP4a) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [Not Like The Rest](https://open.spotify.com/album/311IWRJeyNHUwqV3bk3Grb) | 3:14 |
 | 105 | [Cigarette Smell](https://open.spotify.com/track/48oxH1vAEmGyiEmbkYmwfH) | [Willy Cobb](https://open.spotify.com/artist/0shChEBZjTSDGjbRDsKcNL) | [Cigarette Smell](https://open.spotify.com/album/5Ox5z0pesi1GayCajvzjoR) | 2:38 |
 
-Snapshot ID: `MCwzMGRhN2FkZjE2NWVkMTU3NjM0YmNhZmI3Y2VlYzkwMzlhNWY4YmIw`
+Snapshot ID: `MCw4NTM4OTM5N2NkNWIzMTg3NjQ0YWRlZTk1ODUzZjlmY2ViZDI3MjYw`

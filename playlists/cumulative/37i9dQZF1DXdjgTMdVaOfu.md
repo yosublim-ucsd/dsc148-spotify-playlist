@@ -4,7 +4,7 @@
 
 > Music from "The Apothecary Diaries" /「薬屋のひとりごと」の楽曲を1つのプレイリストで。©日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会
 
-90 songs - 3 hr 28 min
+91 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Towards the Light \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/5mGYUEVZ9UR7JYKCbgWnkV) | [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Towards the Light \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/3SOGVZE05ZKcJSLIm3BLR6) | 2:28 | 2024-03-24 |  |
 | [Understanding the Situation](https://open.spotify.com/track/2aBQjEerkamx4VclWabkCd) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 2:15 | 2024-03-25 |  |
 | [Verification](https://open.spotify.com/track/6PUd2MPSurNHmFkp2JninC) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 2:08 | 2024-03-25 |  |
-| [When Wishes Bloom \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/6QF9LXzRKg7xvNNrgB8qZ3) | [Aoiema](https://open.spotify.com/artist/10XKbVG4CEEwWKkcSRAG8D), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 4:38 | 2024-03-25 |  |
+| [When Wishes Bloom \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/2EMXqSv1xiGy0PfTIB0Uz3) | [Aoiema](https://open.spotify.com/artist/10XKbVG4CEEwWKkcSRAG8D), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [When Wishes Bloom \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/4kxAWubYxgVBB6149n7Pi9) | 4:38 | 2024-03-26 |  |
+| [When Wishes Bloom \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/6QF9LXzRKg7xvNNrgB8qZ3) | [Aoiema](https://open.spotify.com/artist/10XKbVG4CEEwWKkcSRAG8D), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 4:38 | 2024-03-25 | 2024-03-28 |
 | [Withered Rose](https://open.spotify.com/track/7wdJTmoQJUFKNcVRntyaGC) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 2:03 | 2024-03-25 |  |
 | [いつでも帰っておいで](https://open.spotify.com/track/3YZ9JzzThDjJkaQoBWJjUv) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 1:51 | 2024-03-24 | 2024-03-26 |
 | [やり手婆](https://open.spotify.com/track/1CVcvXiWw1hpwfMVgwSpQu) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 1:33 | 2024-03-24 | 2024-03-26 |

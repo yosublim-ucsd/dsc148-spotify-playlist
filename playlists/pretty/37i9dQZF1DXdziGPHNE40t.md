@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,753 likes - 366 songs - 21 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,864 likes - 366 songs - 21 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -371,8 +371,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 361 | [I'll Be Seeing You](https://open.spotify.com/track/48w1IYrxtNKmm0bBMICOdu) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [I'll Be Seeing You](https://open.spotify.com/album/2gPUo8oL5vW9LC5o7SnCSU) | 3:33 |
 | 362 | [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 |
 | 363 | [This Is New](https://open.spotify.com/track/6fYwCP9RSKhbOkLmGwX41N) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [This Is New](https://open.spotify.com/album/3Lt4cW6ig50NtOBGtsBO7V) | 3:15 |
-| 364 | [Skylark](https://open.spotify.com/track/3UQ4Lp3OuEm0X72ViUX0N3) | [Figgy Mold](https://open.spotify.com/artist/1qGG4XafUUbeKRV7Mdt0Kh) | [Skylark](https://open.spotify.com/album/2LeqvXxzRfuCmqUzGf1Zms) | 4:35 |
+| 364 | [Skylark](https://open.spotify.com/track/3UQ4Lp3OuEm0X72ViUX0N3) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Skylark](https://open.spotify.com/album/2LeqvXxzRfuCmqUzGf1Zms) | 4:35 |
 | 365 | [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 |
 | 366 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 |
 
-Snapshot ID: `MCw0N2Q5OGIxNGM0NmUwNzljMGY0ZGExODliOGQwYWI1MWQ4MzIzOTZm`
+Snapshot ID: `MCxmZjUwMDlhNjQxYjNlNDc2OTgwYWZjY2E4MmNhMzQyM2VkOGRmZWQ5`

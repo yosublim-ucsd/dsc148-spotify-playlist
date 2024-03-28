@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 28948,
+  "2024-03-28": 29035,
   "date_first_scraped": "2023-02-25",
   "description": "songs voor je playlist! #fyp",
   "name": "Viral Hits NL",
@@ -1075,6 +1075,24 @@
       "duration_ms": 166464,
       "name": "Call Me Revenge - Call of Duty: Modern Warfare 3",
       "url": "https://open.spotify.com/track/6m0S4wcG6sTCP010ZrgdJI"
+    },
+    {
+      "album": {
+        "name": "Stick Season (We'll All Be Here Forever)",
+        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278670,
+      "name": "Call Your Mom",
+      "url": "https://open.spotify.com/track/3yn01PcU95PTbiZ3xvop2j"
     },
     {
       "album": {
@@ -2437,7 +2455,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 245360,
       "name": "Greenlight (feat. Flo Rida & LunchMoney Lewis)",
       "url": "https://open.spotify.com/track/3lJA6dGqvaKtVxqHbTtQiQ"
@@ -3615,6 +3633,24 @@
       "duration_ms": 224160,
       "name": "Lotosblume - DAS ORIGINAL",
       "url": "https://open.spotify.com/track/4RFiNPW3ND94D0cravoOFN"
+    },
+    {
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
+      },
+      "artists": [
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255333,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq"
     },
     {
       "album": {
@@ -5847,7 +5883,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 181200,
       "name": "Samen Zijn We E\u00e9n",
       "url": "https://open.spotify.com/track/1Q36IMiHir62ZkdinImepL"
@@ -6072,7 +6108,7 @@
     },
     {
       "album": {
-        "name": "SKEU SKEU (feat. wilsko) [Speed Up]",
+        "name": "SKEU SKEU (feat. wilsko & 7ia) [Speed Up]",
         "url": "https://open.spotify.com/album/0CYCJc1xZYhd9BIaKXCdn7"
       },
       "artists": [
@@ -6083,13 +6119,17 @@
         {
           "name": "wilsko",
           "url": "https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha"
+        },
+        {
+          "name": "7ia",
+          "url": "https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG"
         }
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 155359,
-      "name": "SKEU SKEU (feat. wilsko) - Speed Up",
+      "name": "SKEU SKEU (feat. wilsko & 7ia) - Speed Up",
       "url": "https://open.spotify.com/track/60XZ7ePJQZqRJio62G5CnM"
     },
     {
@@ -7409,7 +7449,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 148794,
       "name": "Weg Van Hier (feat. Masri)",
       "url": "https://open.spotify.com/track/6f0c32QKMYYI9wZsHeGG8E"
@@ -7611,6 +7651,28 @@
       "duration_ms": 296975,
       "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
       "url": "https://open.spotify.com/track/2qp7rTcFVz67fz88JSnbkU"
+    },
+    {
+      "album": {
+        "name": "You Will See",
+        "url": "https://open.spotify.com/album/3msZ8noFEpIw19fsd3fxay"
+      },
+      "artists": [
+        {
+          "name": "Quarterhead",
+          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
+        },
+        {
+          "name": "SESA",
+          "url": "https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143374,
+      "name": "You Will See",
+      "url": "https://open.spotify.com/track/7l6AuWpDlecpVxI0Yq4zmI"
     },
     {
       "album": {

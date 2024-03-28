@@ -1,15 +1,15 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 42433,
+  "num_followers": 42464,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTVmMzUzZDk0NjM2MzIzNjRiMmQ2MjRiNGFkMmQ5NjAzZTkzOTdl",
+  "snapshot_id": "MCwzNTBlMDIwNThjMWZiN2YzZjUyYjc3NDM2OWIzNWYxMmNjMmNjMWEy",
   "tracks": [
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/1FNmNqN8zEi4TOuhQ4pxkK"
@@ -25,39 +25,7 @@
       "url": "https://open.spotify.com/track/20li7MK7ufX4MhYcVsGUIX"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Vida Ya No es Vida",
-        "url": "https://open.spotify.com/album/3bYxZ5jLjyWrPcThIpCOZg"
-      },
-      "artists": [
-        {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/4CpOzN60AZOKsufiLpNfhY"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Desde el estudio",
-        "url": "https://open.spotify.com/album/3rLAWBembrdnSdDK8QaGRN"
-      },
-      "artists": [
-        {
-          "name": "William Luna",
-          "url": "https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw"
-        }
-      ],
-      "duration_ms": 322600,
-      "name": "Ni\u00f1achay",
-      "url": "https://open.spotify.com/track/3kpTxzF6Uas4qZuX5ou4hD"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "A..estilo propio y jaranero",
         "url": "https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D"
@@ -73,7 +41,39 @@
       "url": "https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "Desde el estudio",
+        "url": "https://open.spotify.com/album/3rLAWBembrdnSdDK8QaGRN"
+      },
+      "artists": [
+        {
+          "name": "William Luna",
+          "url": "https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw"
+        }
+      ],
+      "duration_ms": 322600,
+      "name": "Ni\u00f1achay",
+      "url": "https://open.spotify.com/track/3kpTxzF6Uas4qZuX5ou4hD"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "Un Sentimiento de Amor",
+        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00edces D'Jauja",
+          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
+        }
+      ],
+      "duration_ms": 277603,
+      "name": "Amor Ajeno",
+      "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Max Castro y la Gran Banda",
         "url": "https://open.spotify.com/album/3AKPMqREYYrNpkqXC5t8Tv"
@@ -93,39 +93,7 @@
       "url": "https://open.spotify.com/track/09ooFAZPkqMmXrON2wmdWk"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Un Sentimiento de Amor",
-        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00edces D'Jauja",
-          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
-        }
-      ],
-      "duration_ms": 277603,
-      "name": "Amor Ajeno",
-      "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Serie Maravillas: Cuerdas & Vientos Sagrados, Vol. 1",
-        "url": "https://open.spotify.com/album/0orBMvdv3crXTHj2DS4rAp"
-      },
-      "artists": [
-        {
-          "name": "The Strings Of The Inkas",
-          "url": "https://open.spotify.com/artist/5IvgHIvVVCT77omikIYE9O"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "Adi\u00f3s Pueblo de Ayacucho",
-      "url": "https://open.spotify.com/track/5SnatgsCSbX8tQ3WVX9Rhe"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Olvidame",
         "url": "https://open.spotify.com/album/1TyZdWfNCLMUd1sikT13CZ"
@@ -141,23 +109,23 @@
       "url": "https://open.spotify.com/track/5tOCsVNHO1rEtC7KaP2v3E"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
-        "name": "De Colores",
-        "url": "https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00"
+        "name": "Serie Maravillas: Cuerdas & Vientos Sagrados, Vol. 1",
+        "url": "https://open.spotify.com/album/0orBMvdv3crXTHj2DS4rAp"
       },
       "artists": [
         {
-          "name": "Yawar",
-          "url": "https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW"
+          "name": "The Strings Of The Inkas",
+          "url": "https://open.spotify.com/artist/5IvgHIvVVCT77omikIYE9O"
         }
       ],
-      "duration_ms": 257893,
-      "name": "No Quiero M\u00e1s Esta Vida",
-      "url": "https://open.spotify.com/track/7nMvYV2DHRy2FhtXmNsAl0"
+      "duration_ms": 179040,
+      "name": "Adi\u00f3s Pueblo de Ayacucho",
+      "url": "https://open.spotify.com/track/5SnatgsCSbX8tQ3WVX9Rhe"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "La Chinita del Amor",
         "url": "https://open.spotify.com/album/564dCSiWqoKbYuCWIUUyu5"
@@ -173,23 +141,23 @@
       "url": "https://open.spotify.com/track/43AppGONaZENtN60Ez9Vyv"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
-        "name": "Olvidame",
-        "url": "https://open.spotify.com/album/1TyZdWfNCLMUd1sikT13CZ"
+        "name": "De Colores",
+        "url": "https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00"
       },
       "artists": [
         {
-          "name": "String Karma",
-          "url": "https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx"
+          "name": "Yawar",
+          "url": "https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW"
         }
       ],
-      "duration_ms": 270289,
-      "name": "Olvidame",
-      "url": "https://open.spotify.com/track/0vEBYwEwOYVq1tPqB2Qohf"
+      "duration_ms": 257893,
+      "name": "No Quiero M\u00e1s Esta Vida",
+      "url": "https://open.spotify.com/track/7nMvYV2DHRy2FhtXmNsAl0"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Lejos de Ti",
         "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
@@ -205,7 +173,23 @@
       "url": "https://open.spotify.com/track/0bzZwaUXxJGoEYGrPdSLwk"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "Olvidame",
+        "url": "https://open.spotify.com/album/1TyZdWfNCLMUd1sikT13CZ"
+      },
+      "artists": [
+        {
+          "name": "String Karma",
+          "url": "https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx"
+        }
+      ],
+      "duration_ms": 270289,
+      "name": "Olvidame",
+      "url": "https://open.spotify.com/track/0vEBYwEwOYVq1tPqB2Qohf"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Angel Bedrillana (Mestizo)",
         "url": "https://open.spotify.com/album/4BKlcQZgjkudPLXUayFHLG"
@@ -221,7 +205,7 @@
       "url": "https://open.spotify.com/track/5NRAUbtk0aTVzhB2jxkN7h"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Puro Sentimiento",
         "url": "https://open.spotify.com/album/4OmbN40zd86thCciHF3PR9"
@@ -237,23 +221,7 @@
       "url": "https://open.spotify.com/track/1FJMpwSVvvRAUs4e9J8cSr"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Amor, amor",
-        "url": "https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
-          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
-        }
-      ],
-      "duration_ms": 271666,
-      "name": "Amor, amor",
-      "url": "https://open.spotify.com/track/6iypGCgmE155AvPNa53qWS"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Un Sentimiento de Amor",
         "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
@@ -269,7 +237,23 @@
       "url": "https://open.spotify.com/track/0NM3JRUlrBhKbJM2lgKesV"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "Amor, amor",
+        "url": "https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
+          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
+        }
+      ],
+      "duration_ms": 271666,
+      "name": "Amor, amor",
+      "url": "https://open.spotify.com/track/6iypGCgmE155AvPNa53qWS"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Max Castro y la Gran Banda",
         "url": "https://open.spotify.com/album/3AKPMqREYYrNpkqXC5t8Tv"
@@ -285,7 +269,7 @@
       "url": "https://open.spotify.com/track/2H19r12AYTfmJ4TBlXXWRE"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Los Errantes",
         "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
@@ -301,7 +285,7 @@
       "url": "https://open.spotify.com/track/5H1GKJbNqttrG2mXCnMwWJ"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Conjunto Condemayta de Acomayo",
         "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
@@ -317,7 +301,7 @@
       "url": "https://open.spotify.com/track/1BcTZEHwY7sII7qRwsKEqg"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Amanda Portales la Novia del Per\u00fa",
         "url": "https://open.spotify.com/album/30eO7WmS3tMRiY9MLfLWMn"
@@ -333,23 +317,7 @@
       "url": "https://open.spotify.com/track/2trFtYxzQR6FnNfwuHLpXf"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Amor, amor",
-        "url": "https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
-          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Otra vez me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Tusuyninchiq",
         "url": "https://open.spotify.com/album/6t3uN5N7F3qT1b5f6LfRlU"
@@ -365,23 +333,23 @@
       "url": "https://open.spotify.com/track/1KAZ9CCzFCwlfs2VoLe3p4"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/4HU9eCiuTHoxRANEAlQ8xu"
+        "name": "Amor, amor",
+        "url": "https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh"
       },
       "artists": [
         {
-          "name": "Max Castro",
-          "url": "https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr"
+          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
+          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
         }
       ],
-      "duration_ms": 361573,
-      "name": "Huaynos Norte\u00f1os (Todo Empez\u00f3 Como Jugando / Casualidad)",
-      "url": "https://open.spotify.com/track/3xmSFdTIOFgFrbIN2q4IiY"
+      "duration_ms": 197866,
+      "name": "Otra vez me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Papito Por Qu\u00e9 Me Dejaste..!",
         "url": "https://open.spotify.com/album/210Yb6y0gEDDRZd8EM3pAc"
@@ -397,23 +365,7 @@
       "url": "https://open.spotify.com/track/2OqmtWMjw5Jm3BQxtzvMmu"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Como Siempre Con El Mayor Cari\u00f1o",
-        "url": "https://open.spotify.com/album/6wvfzD7OBcegaxiW28Q5gn"
-      },
-      "artists": [
-        {
-          "name": "Trio Ayacucho",
-          "url": "https://open.spotify.com/artist/3RRRYXxdsZ7IoFGDALJIA8"
-        }
-      ],
-      "duration_ms": 224773,
-      "name": "Adi\u00f3s Pueblo De Ayacucho",
-      "url": "https://open.spotify.com/track/43qqoWGmOa8UAXJZtScAfe"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Los Errantes",
         "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
@@ -429,7 +381,39 @@
       "url": "https://open.spotify.com/track/3vhm0bQl9Ag22O2XUKaef8"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/4HU9eCiuTHoxRANEAlQ8xu"
+      },
+      "artists": [
+        {
+          "name": "Max Castro",
+          "url": "https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr"
+        }
+      ],
+      "duration_ms": 361573,
+      "name": "Huaynos Norte\u00f1os (Todo Empez\u00f3 Como Jugando / Casualidad)",
+      "url": "https://open.spotify.com/track/3xmSFdTIOFgFrbIN2q4IiY"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "Como Siempre Con El Mayor Cari\u00f1o",
+        "url": "https://open.spotify.com/album/6wvfzD7OBcegaxiW28Q5gn"
+      },
+      "artists": [
+        {
+          "name": "Trio Ayacucho",
+          "url": "https://open.spotify.com/artist/3RRRYXxdsZ7IoFGDALJIA8"
+        }
+      ],
+      "duration_ms": 224773,
+      "name": "Adi\u00f3s Pueblo De Ayacucho",
+      "url": "https://open.spotify.com/track/43qqoWGmOa8UAXJZtScAfe"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Pastorita Huaracina",
         "url": "https://open.spotify.com/album/5zU5497KK5qMwEnZGlsf4b"
@@ -445,7 +429,7 @@
       "url": "https://open.spotify.com/track/2zBNL2irMpvqj3DNJiUgUe"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "El Imperio de los Apus",
         "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
@@ -461,7 +445,7 @@
       "url": "https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Wistu Vida",
         "url": "https://open.spotify.com/album/6Ow5JgeHaoriAgtP9jbDMU"
@@ -477,7 +461,7 @@
       "url": "https://open.spotify.com/track/44xGBoSZ8S98X3LzgUyuWK"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Lejos de Ti",
         "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
@@ -493,7 +477,7 @@
       "url": "https://open.spotify.com/track/7nPN1YXRgC737Z5W0FM0G9"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Huayno, Vol. 1",
         "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
@@ -509,7 +493,7 @@
       "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Cantares Huaracinos",
         "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
@@ -525,7 +509,7 @@
       "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Mis Mejores Huaynos",
         "url": "https://open.spotify.com/album/26kFFLPJ5A1scqYoVgW3EB"
@@ -541,7 +525,7 @@
       "url": "https://open.spotify.com/track/3KYG6f0J9xM5LKmJ6WgHwN"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Lo Mejor del Incomparable...Mario Mendoza",
         "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
@@ -557,7 +541,7 @@
       "url": "https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE"
@@ -573,7 +557,7 @@
       "url": "https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Folklore",
         "url": "https://open.spotify.com/album/1muX3zfFprVt4WLCxrXF0h"
@@ -589,7 +573,7 @@
       "url": "https://open.spotify.com/track/7KU47DKSR3mZVPCHYoQnQw"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Caminando Y Cantando",
         "url": "https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI"
@@ -605,7 +589,7 @@
       "url": "https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "El Jilguero de Huascar\u00e1n",
         "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
@@ -621,7 +605,7 @@
       "url": "https://open.spotify.com/track/1Vm5LVuCAyBB3rsWee4ZIz"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Nuestra Promesa",
         "url": "https://open.spotify.com/album/1y5FGSrv0xgzhqJRSkvFob"
@@ -641,7 +625,7 @@
       "url": "https://open.spotify.com/track/2z6PQ65b5pTBnI8lqMMwrR"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Conjunto Condemayta de Acomayo",
         "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
@@ -657,7 +641,7 @@
       "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Los Pacharacos",
         "url": "https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ"
@@ -673,7 +657,7 @@
       "url": "https://open.spotify.com/track/3IOnWo0h8Vl0VrQKhOQmLj"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Soy Provinciano",
         "url": "https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt"
@@ -689,7 +673,7 @@
       "url": "https://open.spotify.com/track/3ZkFqIPa7HL9ijEiONlUpf"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Mis \u00c9xitos Eternos Vol. 2",
         "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
@@ -705,7 +689,7 @@
       "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
         "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
@@ -721,7 +705,7 @@
       "url": "https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Mensajes Andinos",
         "url": "https://open.spotify.com/album/4DBGVbYysli4Ir4J1cjvXI"
@@ -737,7 +721,7 @@
       "url": "https://open.spotify.com/track/5AXFzmnW21Atxa2zM92VsA"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
         "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
@@ -753,7 +737,7 @@
       "url": "https://open.spotify.com/track/4C36p2WRgwhAiQtZa1JRkX"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Sobreviviendo",
         "url": "https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R"
@@ -769,7 +753,7 @@
       "url": "https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Bodas de Plata: Concierto en Vivo",
         "url": "https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te"
@@ -785,7 +769,7 @@
       "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Lo Mejor del Incomparable...Mario Mendoza",
         "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
@@ -801,55 +785,7 @@
       "url": "https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Soy Provinciano",
-        "url": "https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt"
-      },
-      "artists": [
-        {
-          "name": "Pumita Cazador",
-          "url": "https://open.spotify.com/artist/09c8HpNqJEMBl1bopgRqks"
-        }
-      ],
-      "duration_ms": 340584,
-      "name": "La Cornuda",
-      "url": "https://open.spotify.com/track/6OzTUt05pxFJAFJjGPxqU5"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "De Colores",
-        "url": "https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00"
-      },
-      "artists": [
-        {
-          "name": "Yawar",
-          "url": "https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Linda Warmisitay",
-      "url": "https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "El Imperio de los Apus",
-        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
-      },
-      "artists": [
-        {
-          "name": "Los Apus",
-          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Sirwana",
-      "url": "https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Mis \u00c9xitos Eternos Vol. 2",
         "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
@@ -865,7 +801,55 @@
       "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "Soy Provinciano",
+        "url": "https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt"
+      },
+      "artists": [
+        {
+          "name": "Pumita Cazador",
+          "url": "https://open.spotify.com/artist/09c8HpNqJEMBl1bopgRqks"
+        }
+      ],
+      "duration_ms": 340584,
+      "name": "La Cornuda",
+      "url": "https://open.spotify.com/track/6OzTUt05pxFJAFJjGPxqU5"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "De Colores",
+        "url": "https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00"
+      },
+      "artists": [
+        {
+          "name": "Yawar",
+          "url": "https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Linda Warmisitay",
+      "url": "https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "El Imperio de los Apus",
+        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
+      },
+      "artists": [
+        {
+          "name": "Los Apus",
+          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "Sirwana",
+      "url": "https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Los Pacharacos",
         "url": "https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ"
@@ -881,7 +865,7 @@
       "url": "https://open.spotify.com/track/5Zg2sTf0f476qo0u9h0wOB"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "T\u00fa Puedes Volar",
         "url": "https://open.spotify.com/album/6Mfa1vsbXf1sIRg4GMtpXw"
@@ -901,7 +885,7 @@
       "url": "https://open.spotify.com/track/1CMgLNMnmOzQc1pbaVwctV"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Cantares Huaracinos",
         "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
@@ -917,7 +901,7 @@
       "url": "https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Ayacucho En El Corazon De Todos Vol.2",
         "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
@@ -933,7 +917,7 @@
       "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "La Nueva Expresi\u00f3n del Folklore de Bolivia",
         "url": "https://open.spotify.com/album/0X1nBJpPBaIT8mFh0XnBoU"
@@ -949,7 +933,7 @@
       "url": "https://open.spotify.com/track/3LZccAbS0T0UdH661mUno3"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "Papito Por Qu\u00e9 Me Dejaste..!",
         "url": "https://open.spotify.com/album/210Yb6y0gEDDRZd8EM3pAc"
@@ -965,7 +949,7 @@
       "url": "https://open.spotify.com/track/2kOOUxPrMxVNCQrjkBJoMz"
     },
     {
-      "added_at": "2022-02-04 14:45:56",
+      "added_at": "2024-03-28 01:34:50",
       "album": {
         "name": "El Jilguero de Huascar\u00e1n",
         "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
@@ -979,6 +963,22 @@
       "duration_ms": 161973,
       "name": "Carrito del Regreso",
       "url": "https://open.spotify.com/track/6E37bI48bQcPPJj20aNCOL"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "Huaylash Macho",
+        "url": "https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz"
+      },
+      "artists": [
+        {
+          "name": "Eusebio \"Chato\" Grados",
+          "url": "https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Huaylash Macho",
+      "url": "https://open.spotify.com/track/2wIRGGoFZ43qlGKd5c0gnE"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

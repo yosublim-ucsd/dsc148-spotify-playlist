@@ -4,7 +4,7 @@
 
 > The music from Love Life on HBO Max.
 
-104 songs - 6 hr 30 min
+105 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Haenim](https://open.spotify.com/track/6uBFcQ0TFjdnS5QUTff2Yb) | [Kim Jung Mi](https://open.spotify.com/artist/0yxIUq0WFyaTmYyleG4Uca) | [Now](https://open.spotify.com/album/2lzfXDmAAnFTwAHNc759Rz) | 6:53 | 2021-11-11 |  |
 | [Heart Full of Love](https://open.spotify.com/track/12Oh0VZv0kCtC9bk7jCRgU) | [Dave Richardson](https://open.spotify.com/artist/1w0f2sd0wr2c5fxN0jAZnA) | [Heart Full Of Love](https://open.spotify.com/album/2gqkriS0sQ14AUpLSN2la4) | 3:24 | 2021-11-04 |  |
 | [Hold You \- Hold Yuh](https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Hold You](https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe) | 3:53 | 2020-06-11 |  |
-| [Home Boy](https://open.spotify.com/track/2yBhIp7eJG8arUOYTbSlth) | [Sea Bee](https://open.spotify.com/artist/3TKsjvKgxOl5bbWwZce343) | [I Wanda Why](https://open.spotify.com/album/1rNsFehofepgbF3SuF4IjP) | 6:23 | 2021-11-11 |  |
+| [Home Boy](https://open.spotify.com/track/2yBhIp7eJG8arUOYTbSlth) | [Sea Bee](https://open.spotify.com/artist/3TKsjvKgxOl5bbWwZce343) | [I Wanda Why](https://open.spotify.com/album/1rNsFehofepgbF3SuF4IjP) | 6:23 | 2021-11-11 | 2024-03-28 |
+| [Home Boy](https://open.spotify.com/track/7jk7K6EfHOuJhu0iPYDAb3) | [Sea Bee](https://open.spotify.com/artist/3TKsjvKgxOl5bbWwZce343) | [I Wanda Why?](https://open.spotify.com/album/73rSSUbrOYDCxA1C3M86Ai) | 6:23 | 2021-11-11 |  |
 | [Houses](https://open.spotify.com/track/2b73Q6Kl8Gh6Brb40lpLcr) | [Elyse Weinberg](https://open.spotify.com/artist/2Aelm5hqlvbD7jxDGGKToM) | [Greasepaint Smile](https://open.spotify.com/album/0hyD7A73SMqCNcDFTZ2ARe) | 3:36 | 2020-06-11 |  |
 | [Human Race](https://open.spotify.com/track/2DBr4d82hDGMr13smygEBj) | [Human Race](https://open.spotify.com/artist/3xPRqzkCilihoKpF9OzzRn) | [Human Race b/w Grey Boy](https://open.spotify.com/album/2MQtrrmGaJ4ItjcyqidCX3) | 3:05 | 2021-10-29 |  |
 | [I Almost Blew My Mind](https://open.spotify.com/track/2B4Ga5xWxVQIorGkMC9njv) | [The Positive Sounds](https://open.spotify.com/artist/79bZvF0WEQ5BYE4Ui6tp8W) | [I Almost Blew My Mind b/w You're The One I Need](https://open.spotify.com/album/59E9hLdzI7jg3FaZXOD3wS) | 3:38 | 2021-10-29 |  |

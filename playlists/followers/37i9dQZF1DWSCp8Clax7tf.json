@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 249468,
+  "2024-03-28": 249557,
   "date_first_scraped": "2022-01-02",
   "description": "The Women who put Country Music on the map. Cover: Loretta Lynn",
   "name": "Legendary Women of Country",
@@ -549,10 +549,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 260399,
       "name": "Does He Love You",
       "url": "https://open.spotify.com/track/0wFQnci5YCcwbKAWNBzqiA"
+    },
+    {
+      "album": {
+        "name": "Does He Love You - The Collection",
+        "url": "https://open.spotify.com/album/0dWUjh1jlOencTwIf36CFN"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Linda Davis",
+          "url": "https://open.spotify.com/artist/3rXeRTogAKT6xqOLyfC7xv"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260400,
+      "name": "Does He Love You",
+      "url": "https://open.spotify.com/track/0fyN5usCME5bXJXCJprTUK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 
 > Enjoy these songs while you eat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,479 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,581 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 24 | [I Love You](https://open.spotify.com/track/6MSCWPjKrG5aAcRG9oh3R7) | [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [One Truth](https://open.spotify.com/album/4wCfLoyvMTGVE5mkmShVkJ) | 8:12 |
 | 25 | [Dök Zülfünü Meydana Gel](https://open.spotify.com/track/7e8ihILPkAN4K4N8yAgxo7) | [Kemal Bor](https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg) | [Osmanlı Sarayı Musikisi](https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9) | 2:34 |
 | 26 | [Yeniden Doğmak](https://open.spotify.com/track/0kFXWLSog6fxmZsZmbECq2) | [Göksel Baktagir](https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp), [Ceyhun Çelikten](https://open.spotify.com/artist/00Cjagp6pAVNHfzbPYzzki) | [Hayal Gibi](https://open.spotify.com/album/26rfwfgXgdB8XU74eincXS) | 7:02 |
-| 27 | [Tanbur & Duduk Taksimi](https://open.spotify.com/track/6G7zn10Pu1kNK6tMLnYeGw) | [Ertan Tekin](https://open.spotify.com/artist/5nTswH6KXoL7iQjZXjQEj4), [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv), [Çağ Erçağ](https://open.spotify.com/artist/4yNFDeDkcHTH1H1mRQ475t) | [Itri & Bach](https://open.spotify.com/album/6r17TPLNFTrPtKOUCDpo9w) | 2:25 |
-| 28 | [Tanbur Taksimi](https://open.spotify.com/track/65hJb6nxK7LOa6FxzxVLT0) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 2:56 |
+| 27 | [Tanbur Taksimi](https://open.spotify.com/track/65hJb6nxK7LOa6FxzxVLT0) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 2:56 |
+| 28 | [Tanbur & Duduk Taksimi](https://open.spotify.com/track/6G7zn10Pu1kNK6tMLnYeGw) | [Ertan Tekin](https://open.spotify.com/artist/5nTswH6KXoL7iQjZXjQEj4), [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv), [Çağ Erçağ](https://open.spotify.com/artist/4yNFDeDkcHTH1H1mRQ475t) | [Itri & Bach](https://open.spotify.com/album/6r17TPLNFTrPtKOUCDpo9w) | 2:25 |
 | 29 | [Suzidilara Peşrev](https://open.spotify.com/track/7kAcFcm9YU5Yg5dIR6hRxm) | [III\. Selim](https://open.spotify.com/artist/7r275IPKEFBgyTqHn4YPEx) | [Sultan Bestekarlar](https://open.spotify.com/album/6Tchr0YXUVBghNVyosUkHd) | 3:50 |
-| 30 | [Rast Methal](https://open.spotify.com/track/6GaNkUOxQtTPuvuNrSc1Zm) | [Refik Fersan](https://open.spotify.com/artist/7Go3wwVD6FZ6erRNm9CvWT) | [The Golden Horn Production](https://open.spotify.com/album/7FeShPklJxlvqxidL96GDa) | 5:31 |
-| 31 | [Şedd\-i Araban Saz Semaisi](https://open.spotify.com/track/4M0mHZnpprWgjOQcda7Szv) | [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv), [Derya Türkan](https://open.spotify.com/artist/04e8hX9MAJUSVQNEyBdth0) | [Ahenk 2](https://open.spotify.com/album/1MtMYy7Z3tVPwTxNuQMWgY) | 5:24 |
+| 30 | [Şedd\-i Araban Saz Semaisi](https://open.spotify.com/track/4M0mHZnpprWgjOQcda7Szv) | [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv), [Derya Türkan](https://open.spotify.com/artist/04e8hX9MAJUSVQNEyBdth0) | [Ahenk 2](https://open.spotify.com/album/1MtMYy7Z3tVPwTxNuQMWgY) | 5:24 |
+| 31 | [Rast Methal](https://open.spotify.com/track/6GaNkUOxQtTPuvuNrSc1Zm) | [Refik Fersan](https://open.spotify.com/artist/7Go3wwVD6FZ6erRNm9CvWT) | [The Golden Horn Production](https://open.spotify.com/album/7FeShPklJxlvqxidL96GDa) | 5:31 |
 | 32 | [Unutulmuş Ne Varsa](https://open.spotify.com/track/3LLs8Cisml6Oe26f2Jhi3C) | [Turgut Özüfler](https://open.spotify.com/artist/05g84ITA7SKNtR7HUtb4Bs), [Yıldıran Güz](https://open.spotify.com/artist/1BIiyYKngGrDIESG6g8UrK), [Çorlulu Savaş](https://open.spotify.com/artist/2tQaTSCwyoMTEQofuEqmwH), [İsmail Nar](https://open.spotify.com/artist/5k9pDFmgrENJOW2LWWHq4K), [Şener Yolal](https://open.spotify.com/artist/1KPKarMXdRPGbDLEKkFDG3) | [Alaturka İstanbul, Vol\. 2](https://open.spotify.com/album/5AUAj74jUxryODLsNyWaiN) | 2:40 |
 | 33 | [Sultaniyegah Taksim](https://open.spotify.com/track/5J2bmapoi3PiXvnL2zz4yH) | [Kemal Bor](https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg) | [Osmanlı Sarayı Musikisi](https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9) | 1:31 |
 | 34 | [Nihavend Saz Semaisi](https://open.spotify.com/track/3s5MUsla602JbLy9TFLUl4) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 49 | [Suzidilara Saz Semaisi](https://open.spotify.com/track/01GOqOsRD21di19O0uvTd3) | [Ihsan Özgen](https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM) | [Tanburi Cemil Bey \- Peşrev ve Saz Semaileri](https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP) | 4:09 |
 | 50 | [Uşşak Peşrev](https://open.spotify.com/track/4d5z3kFaO5eqko6jPKtp1h) | [Ubeydullah Sezikli](https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N) | [Makamlarla Türk Din Mûsîkisi Eğitim Seti, Vol\. 2 / Uşşak Hicaz](https://open.spotify.com/album/4CKCjlCm0tcc0NaHbPrsNu) | 1:47 |
 
-Snapshot ID: `MCw5NWMyY2Q0NzVjMTdmZDZhY2U1ZmNjNmI2MWM1ZDllYmU3MDQ0NmU4`
+Snapshot ID: `MCw4YmRlMTRkNzQwYWEwMGYyYjc3YTVhYjIzMzk5MDgwOTk3ZGJhOTIw`

@@ -4,7 +4,7 @@
 
 > The state of shoegaze\. Gazing at pedals, soaring celestially high\. Cover: Wisp
 
-578 songs - 1 day 13 hr 36 min
+579 songs - 1 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Belinda Says](https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:45 | 2022-09-29 | 2023-06-08 |
 | [Belinda Says](https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Belinda Says / Very Online Guy](https://open.spotify.com/album/7J5xX8Me4vKkPxDLIMeG5q) | 2:45 | 2022-09-29 | 2022-11-27 |
 | [Better Off Alone](https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [Better Off Alone](https://open.spotify.com/album/5A8AvrfDtcjGfUdzbvcqyK) | 4:07 | 2023-02-09 | 2023-07-22 |
-| [between](https://open.spotify.com/track/4R6KQd4LPht1GQauuZACcM) | [Kraus](https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951) | [anything else](https://open.spotify.com/album/3XxhfN0qjvOg9Q6LPIC1Fg) | 3:26 | 2024-02-23 |  |
+| [between](https://open.spotify.com/track/1CrEJ3qMtljP0562ry3Ucz) | [Kraus](https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951) | [anything else](https://open.spotify.com/album/7i9BS4uTVcB8Noibnwssjm) | 3:26 | 2024-02-23 |  |
+| [between](https://open.spotify.com/track/4R6KQd4LPht1GQauuZACcM) | [Kraus](https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951) | [anything else](https://open.spotify.com/album/3XxhfN0qjvOg9Q6LPIC1Fg) | 3:26 | 2024-02-23 | 2024-03-28 |
 | [Billy](https://open.spotify.com/track/3JOa0D7guR3vTzRAWVV0Cy) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Billy](https://open.spotify.com/album/17d1NM1uI3Bg9fhijXz7jZ) | 3:48 | 2022-03-04 | 2022-09-10 |
 | [Birdsong](https://open.spotify.com/track/6LYbfM6MEgkpCv487dQXG4) | [Punchlove](https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW) | [Channels](https://open.spotify.com/album/0fROkij27KLAQl0uUTFS2e) | 4:12 | 2024-03-18 |  |
 | [Blank](https://open.spotify.com/track/0GlxeLd0z8FFsTFyIAyB1X) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Into You](https://open.spotify.com/album/1ZMLm0d2t919CO7VnSpyQC) | 3:36 | 2021-10-19 | 2022-07-28 |

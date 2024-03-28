@@ -4,7 +4,7 @@
 
 > Más música, menos etiquetas\.  <br/>📷 Feli Colina & BLAIR
 
-196 songs - 10 hr 31 min
+197 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [INFLEXIÓN](https://open.spotify.com/track/0QTklhlD3bQz6vq1QcPKjc) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [INFLEXIÓN](https://open.spotify.com/album/4q3w1YExFuQ0uXEWd9wFMo) | 3:37 | 2023-10-13 |  |
 | [Ir derecho](https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Hola Precioso](https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty) | 3:26 | 2023-10-13 | 2024-01-20 |
 | [LA COCHERÍA](https://open.spotify.com/track/6BqAyOg9mraM91wByUaWp9) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:13 | 2024-03-22 |  |
+| [LA QUE PUEDE, PUEDE](https://open.spotify.com/track/3vqd0xW1QefjkRPuKSPtib) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [LA QUE PUEDE, PUEDE](https://open.spotify.com/album/4DAzoHpj0GPwj05SWNGWgY) | 2:34 | 2024-03-27 |  |
 | [LA WEÁ](https://open.spotify.com/track/4hy5vm3FW1Mk6S58vq6MVk) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [LA WEÁ](https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv) | 2:50 | 2023-11-10 | 2023-12-09 |
 | [Lago Eterno](https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lago Eterno](https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC) | 2:08 | 2024-01-19 | 2024-03-09 |
 | [Lento Remix \(feat\. Shoda Monkas\)](https://open.spotify.com/track/5N003YTjBFjf6hOmObVIMZ) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Shoda Monkas](https://open.spotify.com/artist/3K3u27hhXRoHojEeDHXLAe) | [Lento Remix \(feat\. Shoda Monkas\)](https://open.spotify.com/album/4pwegNA3NTZZnTAl043d28) | 3:50 | 2024-03-22 |  |
@@ -110,7 +111,7 @@
 | [Mi Amor](https://open.spotify.com/track/4JTFZGp79eIpo5OhUJVmB1) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M), [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf) | [Mi amor](https://open.spotify.com/album/0PoKNzX5Z7nTQgLzUZ8VSP) | 2:34 | 2024-03-01 |  |
 | [Mi Droga Favorita](https://open.spotify.com/track/5uAMj3PkbSoYhJbEfc0CSX) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Mi Droga Favorita](https://open.spotify.com/album/5gVIZXNXoXM9Z9AHDtnSqL) | 2:55 | 2023-10-13 |  |
 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG) | 4:10 | 2023-11-24 |  |
-| [Millonaria](https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vida](https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST) | 3:36 | 2024-01-19 |  |
+| [Millonaria](https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vida](https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST) | 3:36 | 2024-01-19 | 2024-03-28 |
 | [MINIMI](https://open.spotify.com/track/4peKgHvfUAadkQWllTK6GA) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [AD HONOREM, Vol\. 1](https://open.spotify.com/album/6DZvxJ78oNsSIg4oYGXSJo) | 2:24 | 2023-10-13 |  |
 | [Montaña](https://open.spotify.com/track/2If135FqLwJZvPsCQFcMYl) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg) | [Caramelos de Felicidad](https://open.spotify.com/album/7pLDXo36pQJ7Dv2likm6nJ) | 3:01 | 2023-10-13 | 2024-01-05 |
 | [Morena mía](https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Morena mía](https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK) | 3:08 | 2024-01-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Biscits & TOBEHONEST. 50% techno, 50% house",
-  "num_followers": 613152,
+  "num_followers": 613295,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjEwMDk5NzkzNWYyYTRjYzFlNGQ5MzE2ZjQ2NmY3NWQ3MThmYmRl",
+  "snapshot_id": "MCw2MmNhYTJlZjFkNGVmZTQ2MWZmMWY0ZTZjMmE4NDVmYzIwOTJlMzQx",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1069,6 +1069,26 @@
       "url": "https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb"
     },
     {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Low Rider (Kyle Watson Remix)",
+        "url": "https://open.spotify.com/album/2GbMNQQT9q4Y3ULVdmwbji"
+      },
+      "artists": [
+        {
+          "name": "War",
+          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
+        },
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "duration_ms": 200788,
+      "name": "Low Rider - Kyle Watson Remix",
+      "url": "https://open.spotify.com/track/5JA85EYInaPr1SehlXtMXG"
+    },
+    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Anthem",
@@ -1091,26 +1111,6 @@
       "duration_ms": 206964,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Low Rider (Kyle Watson Remix)",
-        "url": "https://open.spotify.com/album/2GbMNQQT9q4Y3ULVdmwbji"
-      },
-      "artists": [
-        {
-          "name": "War",
-          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
-        },
-        {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        }
-      ],
-      "duration_ms": 200788,
-      "name": "Low Rider - Kyle Watson Remix",
-      "url": "https://open.spotify.com/track/5JA85EYInaPr1SehlXtMXG"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1421,22 +1421,6 @@
       "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "One Pill",
-        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "One Pill",
-      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
-    },
-    {
       "added_at": "2023-12-15 05:00:00",
       "album": {
         "name": "Give You",
@@ -1451,6 +1435,22 @@
       "duration_ms": 155076,
       "name": "Give You",
       "url": "https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "One Pill",
+        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "One Pill",
+      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1641,30 +1641,6 @@
       "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Nikes On",
-        "url": "https://open.spotify.com/album/6XNYFdj89d9S80qrwATYFH"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Ron Carroll",
-          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
-        }
-      ],
-      "duration_ms": 155905,
-      "name": "Nikes On",
-      "url": "https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m"
-    },
-    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Hypnotic",
@@ -1701,6 +1677,30 @@
       "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
     },
     {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Nikes On",
+        "url": "https://open.spotify.com/album/6XNYFdj89d9S80qrwATYFH"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        }
+      ],
+      "duration_ms": 155905,
+      "name": "Nikes On",
+      "url": "https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Dancing At The Disco",
@@ -1719,6 +1719,22 @@
       "duration_ms": 194423,
       "name": "Dancing At The Disco",
       "url": "https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Done",
+        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 185624,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1763,22 +1779,6 @@
       "duration_ms": 195100,
       "name": "I Don't Remember",
       "url": "https://open.spotify.com/track/0hi0udQ5ZXTKRcZ9t0e4TF"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Done",
-        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1925,22 +1925,6 @@
       "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Freddie's Warmup",
-        "url": "https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m"
-      },
-      "artists": [
-        {
-          "name": "Vlado",
-          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
-        }
-      ],
-      "duration_ms": 120930,
-      "name": "Freddie's Warmup",
-      "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
-    },
-    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "Stolen Dub",
@@ -1955,6 +1939,22 @@
       "duration_ms": 136615,
       "name": "Stolen Dub",
       "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Freddie's Warmup",
+        "url": "https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m"
+      },
+      "artists": [
+        {
+          "name": "Vlado",
+          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
+        }
+      ],
+      "duration_ms": 120930,
+      "name": "Freddie's Warmup",
+      "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2061,30 +2061,6 @@
       "url": "https://open.spotify.com/track/1pIugPaeYrwzjoBi8SC2ts"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/7wluquB3THjFZ9yqXAu01I"
-      },
-      "artists": [
-        {
-          "name": "HELLMATE",
-          "url": "https://open.spotify.com/artist/5UU04gvXBWysJhWxvFGilD"
-        },
-        {
-          "name": "Santiago & Carlitos",
-          "url": "https://open.spotify.com/artist/6f4x8vaGbIIm70Fg6wi6CO"
-        },
-        {
-          "name": "Chantal Lewis Brown",
-          "url": "https://open.spotify.com/artist/0hEVrtPQzlVt1Rilq8A4nA"
-        }
-      ],
-      "duration_ms": 121874,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/6CzeYbEfvZb76PlsOVgGxR"
-    },
-    {
       "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "What I Do",
@@ -2107,6 +2083,30 @@
       "duration_ms": 148571,
       "name": "What I Do",
       "url": "https://open.spotify.com/track/5Xi4xwLls4A7J0NqOfkWID"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/7wluquB3THjFZ9yqXAu01I"
+      },
+      "artists": [
+        {
+          "name": "HELLMATE",
+          "url": "https://open.spotify.com/artist/5UU04gvXBWysJhWxvFGilD"
+        },
+        {
+          "name": "Santiago & Carlitos",
+          "url": "https://open.spotify.com/artist/6f4x8vaGbIIm70Fg6wi6CO"
+        },
+        {
+          "name": "Chantal Lewis Brown",
+          "url": "https://open.spotify.com/artist/0hEVrtPQzlVt1Rilq8A4nA"
+        }
+      ],
+      "duration_ms": 121874,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/6CzeYbEfvZb76PlsOVgGxR"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2193,26 +2193,6 @@
       "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Tu Tu",
-        "url": "https://open.spotify.com/album/3dw0eHvyRnuIdIp7LrkOmw"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        },
-        {
-          "name": "Chico Rose",
-          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
-        }
-      ],
-      "duration_ms": 183947,
-      "name": "Tu Tu",
-      "url": "https://open.spotify.com/track/3LUq5EsyDfbdjMhUBYMQJ8"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "I Want Your Soul (Mau P Remix)",
@@ -2231,6 +2211,26 @@
       "duration_ms": 210826,
       "name": "I Want Your Soul - Mau P Remix",
       "url": "https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Tu Tu",
+        "url": "https://open.spotify.com/album/3dw0eHvyRnuIdIp7LrkOmw"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        },
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        }
+      ],
+      "duration_ms": 183947,
+      "name": "Tu Tu",
+      "url": "https://open.spotify.com/track/3LUq5EsyDfbdjMhUBYMQJ8"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2277,24 +2277,24 @@
       "url": "https://open.spotify.com/track/3XVrQFwrjoj5rHMUK0N7mU"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Better World",
-        "url": "https://open.spotify.com/album/18ytwDEGWlQ7siXzpTi9Rh"
+        "name": "Our Lovely City (Hands Up For Detroit)",
+        "url": "https://open.spotify.com/album/2DQm8665ssFFa5EZBI6NQx"
       },
       "artists": [
         {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
         },
         {
-          "name": "Chris Moody",
-          "url": "https://open.spotify.com/artist/1wIiZwCIGDvM3YfYqo33Ui"
+          "name": "Matthew Dear",
+          "url": "https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto"
         }
       ],
-      "duration_ms": 186562,
-      "name": "Better World",
-      "url": "https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW"
+      "duration_ms": 129373,
+      "name": "Our Lovely City (Hands Up For Detroit)",
+      "url": "https://open.spotify.com/track/318Mwtl8JQAZuul9GCHJyD"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2317,20 +2317,40 @@
       "url": "https://open.spotify.com/track/2rZCirycRAokqUr4g1kygx"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "444",
-        "url": "https://open.spotify.com/album/1kBqRa2e2terLD72aVHvsk"
+        "name": "Better World",
+        "url": "https://open.spotify.com/album/18ytwDEGWlQ7siXzpTi9Rh"
       },
       "artists": [
         {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Chris Moody",
+          "url": "https://open.spotify.com/artist/1wIiZwCIGDvM3YfYqo33Ui"
         }
       ],
-      "duration_ms": 196904,
-      "name": "444",
-      "url": "https://open.spotify.com/track/7gjxXndvML1DoJeB6izQPa"
+      "duration_ms": 186562,
+      "name": "Better World",
+      "url": "https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/4OZkLa9YRSDHvL0jQ8jwyv"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/6pOSx27uLkZBE75JBEWFiE"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2353,20 +2373,20 @@
       "url": "https://open.spotify.com/track/509SVKlb3c2Tb7IeD3k1Kc"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/4OZkLa9YRSDHvL0jQ8jwyv"
+        "name": "444",
+        "url": "https://open.spotify.com/album/1kBqRa2e2terLD72aVHvsk"
       },
       "artists": [
         {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/6pOSx27uLkZBE75JBEWFiE"
+      "duration_ms": 196904,
+      "name": "444",
+      "url": "https://open.spotify.com/track/7gjxXndvML1DoJeB6izQPa"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2407,22 +2427,6 @@
       "duration_ms": 197812,
       "name": "Never Leave You (Uh Oh) - Club Mix",
       "url": "https://open.spotify.com/track/6vS4QHhODz5P779tfqIzB4"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Selecta",
-        "url": "https://open.spotify.com/album/7AjlfAc7u6QAGM9d7XQ2Be"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 166625,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/1MTPO4CMGIhHBocGVwVckD"
     },
     {
       "added_at": "2023-10-27 04:01:00",

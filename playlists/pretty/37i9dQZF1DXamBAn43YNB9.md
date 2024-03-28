@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,125 likes - 90 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,147 likes - 90 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 89 | [Holy Water](https://open.spotify.com/track/0iXqDv92jTifES3rxAYDNc) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Holy Water](https://open.spotify.com/album/2IqSupOGT9SFUaxv7oQUMn) | 2:45 |
 | 90 | [Touch of the Outback](https://open.spotify.com/track/2futotmCCo2tIHmPsybQcd) | [Josh Arnold](https://open.spotify.com/artist/3bNkSSl10ckpEpWGVV4V3G) | [Touch of the Outback](https://open.spotify.com/album/4J6wpJHpq1HX88TVbYFvbe) | 2:40 |
 
-Snapshot ID: `MCwxY2JhNjIwNmI2OTgxNDBhM2MwZDI0NmE4MzM0NTQ3NDc4ZDkxZTRk`
+Snapshot ID: `MCwzM2VjNWFkMTI1ZGI4OTU2ZjMxOTZlZjdhOGJlY2ZiN2IxYjMxOWQ1`

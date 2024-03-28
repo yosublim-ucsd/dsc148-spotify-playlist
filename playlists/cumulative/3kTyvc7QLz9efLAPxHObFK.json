@@ -17131,6 +17131,24 @@
     },
     {
       "album": {
+        "name": "Quiver",
+        "url": "https://open.spotify.com/album/36MIS2T9fOpiTdSew0yB5L"
+      },
+      "artists": [
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Quiver",
+      "url": "https://open.spotify.com/track/6gfdc0sgLQvolZteBTRCDY"
+    },
+    {
+      "album": {
         "name": "Thunder In Paradise",
         "url": "https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF"
       },

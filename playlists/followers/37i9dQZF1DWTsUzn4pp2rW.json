@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 150148,
+  "2024-03-28": 150206,
   "date_first_scraped": "2022-01-01",
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
   "name": "Jazz Pop",
@@ -1635,7 +1635,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 232350,
       "name": "Follow",
       "url": "https://open.spotify.com/track/17BdO3lx1ovJHyELPJxIYa"
@@ -4437,7 +4437,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 208013,
       "name": "Softer Than You Know",
       "url": "https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS"

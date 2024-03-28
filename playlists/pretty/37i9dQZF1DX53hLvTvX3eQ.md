@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 
 > 90년대 모두의 마음을 사로 잡았던 추억의 록 발라드를 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,039 likes - 75 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,063 likes - 75 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 | 39 | [사랑할수록](https://open.spotify.com/track/5R7CMPvfSM0RdBYTFuKlDt) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [기억상실](https://open.spotify.com/album/6fQp1ErGeFDBpDXJjkWgsF) | 4:39 |
 | 40 | [준비 없는 이별](https://open.spotify.com/track/7CSmwiPhtzLt03ZiLCGmlv) | [녹색지대](https://open.spotify.com/artist/7fi5KGkFM55KpMQ80TsAhn) | [녹색지대Ⅱ](https://open.spotify.com/album/2XfaQQmsFw92v1kooahFxg) | 4:35 |
 | 41 | [Crying](https://open.spotify.com/track/0TuU81Gdgr7fc8w0Ztt2iO) | [플라워](https://open.spotify.com/artist/5sp44iOiTOC0lXmN8zMRaT) | [Bandlife](https://open.spotify.com/album/7lHhvMAK71MO4p94IZ5x3b) | 4:25 |
-| 42 | [영원](https://open.spotify.com/track/7Fi8gr20s1CngYWJFUL27m) | [Sky](https://open.spotify.com/artist/0NevTvfjHPhYiQrogBXrqj) | [Final Fantasy \-The Best Is Yet To Come](https://open.spotify.com/album/5iIizqydJAR7YYItY7kSwe) | 4:33 |
+| 42 | [영원](https://open.spotify.com/track/7Fi8gr20s1CngYWJFUL27m) | [SKY](https://open.spotify.com/artist/0w93fGITMF8hyPxVkh2AU5) | [Final Fantasy \-The Best Is Yet To Come](https://open.spotify.com/album/5iIizqydJAR7YYItY7kSwe) | 4:33 |
 | 43 | [슬픈 동화](https://open.spotify.com/track/1IpOlgbX2B8QB0GnT8DUP1) | [Yarn](https://open.spotify.com/artist/3226f2U0gI31nf1pUdNO8t) | [Story](https://open.spotify.com/album/3R14DVB66J9xkdzQiaDRGj) | 4:24 |
 | 44 | [Forever](https://open.spotify.com/track/3DzzBD3RoBWZaNWCmJyTVw) | [G\. 고릴라](https://open.spotify.com/artist/1nEP0V9Zqiwdm5W1Vg5dpL) | [Chaos in the Name of Love](https://open.spotify.com/album/0H38zdnhKGgNC7xc3iACF4) | 3:57 |
 | 45 | [마지막 약속](https://open.spotify.com/track/7uaTKyXRjGCFpNDRsdVYC9) | [Kim Jung Min](https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8) | [4Love](https://open.spotify.com/album/6TcJ8I4bTBO8924wOksjUI) | 4:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 | 74 | [유죄](https://open.spotify.com/track/50JJRvyBQRF0wXfXYQ5U3B) | [Kim Hyun Sung](https://open.spotify.com/artist/2OlQF7o8Cos9ruBAYxfy7I) | [Kim Hyun Sung 2 Solo Album](https://open.spotify.com/album/333rXQab40GUjauLGmMPuD) | 4:05 |
 | 75 | [You](https://open.spotify.com/track/532BkP20KoyCq7ehziah0N) | [Kim SangMin](https://open.spotify.com/artist/1qUM2ze6aqsBM8eIUDJlqo) | [Face](https://open.spotify.com/album/5DKVM7qALIPE2dsiPP6spX) | 4:38 |
 
-Snapshot ID: `MCw1N2NjM2NlNTNlYjM1MDEwMDhkN2MwMDJkMzYzMjA3ZTgyMzQxZmRk`
+Snapshot ID: `MCwzNmQ0OWUwMDNmODMyZmJiZjAyY2I5YTFkMzFlYjcyM2IzZjI3ZDlm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,662 likes - 105 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,850 likes - 105 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 104 | [Distance](https://open.spotify.com/track/4cXRe000LxbchXggA2TlrU) | [Oceans Cry](https://open.spotify.com/artist/174Q4UvaXNdNt4KSRrglKi) | [Distance](https://open.spotify.com/album/6idMBEpMSoVX44nJb5jtIW) | 3:56 |
 | 105 | [Spiritual air](https://open.spotify.com/track/1KAATnviD1ZXgcwmvLDYB1) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual Air](https://open.spotify.com/album/0pq0aHyIYn08kdFHUci3H6) | 3:38 |
 
-Snapshot ID: `MCxmMDg1MTBmZWM3MmIxYTY2M2Y0MmEwZTJmNGMyZjczMGMyZjZkMTNj`
+Snapshot ID: `MCxiMDJmNWYyMDFiNWRjNmE1MTYwMjU5N2MyM2EwNDZkMzdmNjc4ZTIx`

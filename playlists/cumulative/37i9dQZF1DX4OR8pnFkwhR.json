@@ -4592,10 +4592,32 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 259065,
       "name": "Fever",
       "url": "https://open.spotify.com/track/50bQfnQ9OXxDLc158BoAOR"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0IecUO0ahPPmxWgrWzmB2X"
+      },
+      "artists": [
+        {
+          "name": "Fried Banana Shop",
+          "url": "https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF"
+        },
+        {
+          "name": "Julia Takada",
+          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259065,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/6AooAMhGS6YIU7IDoHeBbZ"
     },
     {
       "album": {

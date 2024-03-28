@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 639530,
+  "2024-03-28": 639684,
   "date_first_scraped": "2023-07-29",
   "description": "This is Madonna. The essential tracks, all in one playlist.",
   "name": "This Is Madonna",
@@ -535,7 +535,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 293933,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4Cna7QxOOTNnylVHLtShCi"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 298164,
       "name": "Medell\u00edn (with Maluma)",
       "url": "https://open.spotify.com/track/6mfu6jyFgvnXeTPQrYNs8d"

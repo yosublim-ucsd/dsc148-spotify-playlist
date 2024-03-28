@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Two Shell
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,013 likes - 150 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,097 likes - 150 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 149 | [ULTRANCE](https://open.spotify.com/track/11O2CGvvumz63FcH4VYUMx) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [ULTRANCE](https://open.spotify.com/album/0eqxXDKHDPPYIUs59r6Vvv) | 5:39 |
 | 150 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 |
 
-Snapshot ID: `MCw1MDYyZGNhMTE1MWFlYTRkNGFjY2U3MDkyMDNiY2M5MzFkNmI3MGRh`
+Snapshot ID: `MCwzNDZmMWNkM2NjZTczNzAyMDAxMzA3YTYxN2JlOTk3ZDI3MGU5ODVl`

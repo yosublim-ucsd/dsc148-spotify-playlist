@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-2,009 songs - 4 day 4 hr 44 min
+2,010 songs - 4 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-06-01 | 2024-01-03 |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2022-07-29 | 2024-01-03 |
 | [Daniel Lee](https://open.spotify.com/track/11NL4WkilMYNvu1iQrzCLL) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Daniel Lee](https://open.spotify.com/album/0xB1sVECcvXklEI4RK5Kz4) | 2:47 | 2021-07-04 | 2021-07-12 |
-| [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 | 2023-05-01 |  |
+| [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 | 2023-05-01 | 2024-03-28 |
 | [Dark Knight](https://open.spotify.com/track/0hbq80nqwppsKczeDYlo64) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Dark Knight](https://open.spotify.com/album/3AenEbUKk1M1NbrwS8W0bo) | 4:35 | 2023-09-02 | 2023-09-10 |
 | [Dark Side](https://open.spotify.com/track/6A8B1kJ9ZNHbl2uFPN6Wtm) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Lzb7EjZXgtelxgBsZUhMS) | 2:57 | 2021-05-25 | 2021-05-28 |
 | [Das ist Bonez 💀](https://open.spotify.com/track/5FIOk2jFbke8PgU1xh6E24) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Das ist Bonez 💀](https://open.spotify.com/album/5nh9A0kRBn7YcPHodvMRuS) | 2:23 | 2023-10-21 | 2023-10-29 |
@@ -1870,6 +1870,7 @@
 | [Voyage Skit \(feat\. Gzuz\)](https://open.spotify.com/track/7nhRvNTtuNPWvJuEnmNJYb) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Majestic](https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o) | 1:13 | 2022-10-01 | 2022-10-03 |
 | [VULTURES](https://open.spotify.com/track/4202KkXGtULRsbRocWSw09) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:36 | 2024-02-12 | 2024-02-15 |
 | [Wahnsinn](https://open.spotify.com/track/2pnZ17l3SWlz1StKUDIqSZ) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Wahnsinn](https://open.spotify.com/album/2AusTFYEhtdgeHvzwZ04DF) | 2:28 | 2023-10-07 | 2023-10-09 |
+| [Walou Diploma](https://open.spotify.com/track/27EXNwLk86McXpIr85kvjk) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [Walou Diploma](https://open.spotify.com/album/1ZfFqau3hQgm7Gko5p1L21) | 2:34 | 2024-03-27 |  |
 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/1cA4wEmLkKlttS6N89LbJh) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:08 | 2021-12-12 | 2021-12-13 |
 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/5J6rTmMjF9DVIAF8G3M9n4) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/album/16ou1Elgll2ElsdnU4LNzn) | 3:09 | 2021-12-05 | 2021-12-06 |
 | [Warum bin ich so](https://open.spotify.com/track/05WmAn7motdmypzjO6hgza) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Chaos](https://open.spotify.com/album/57fa0CExUrmMgmvH4nRIbg) | 2:29 | 2023-04-08 | 2023-04-11 |

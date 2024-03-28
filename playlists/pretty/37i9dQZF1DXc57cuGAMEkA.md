@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Tyla, Olivia Rodrigo, JVKE,  PNAU and more! cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,071 likes - 84 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,083 likes - 84 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 |
 | 2 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 |
 | 3 | [We Don't Trust You](https://open.spotify.com/track/1pnDvUuAEd6z8bKEsbAjk1) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:46 |
-| 4 | [Fam\*ly \(feat\. Tiji Jojo, DADA & LEX\)](https://open.spotify.com/track/1HzgAWbo1kRq1EyVeyq77k) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [Dada](https://open.spotify.com/artist/03FagtGSQn7UpUflscKmsX), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [BAD HOP \(THE FINAL Edition\)](https://open.spotify.com/album/5PcbIrT3joNAINMTXSVItF) | 4:20 |
+| 4 | [Fam\*ly \(feat\. Tiji Jojo, DADA & LEX\)](https://open.spotify.com/track/1HzgAWbo1kRq1EyVeyq77k) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [BAD HOP \(THE FINAL Edition\)](https://open.spotify.com/album/5PcbIrT3joNAINMTXSVItF) | 4:20 |
 | 5 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 |
 | 6 | [so american](https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:49 |
 | 7 | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF) | 3:06 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 83 | [Something in the Room She Moves](https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 6:18 |
 | 84 | [Jukebox Johnny](https://open.spotify.com/track/2QfIPh7c5QrP0mfXWpAA7Y) | [Diane Birch](https://open.spotify.com/artist/5m2sKBa2fJAm4P2MWfopum) | [Jukebox Johnny](https://open.spotify.com/album/5K8vHM9q5Zbw5sSif2xSmQ) | 4:18 |
 
-Snapshot ID: `MCw5ODRmMjQ3Yjg4MmYzOTU2YjJkMDY1YjA2MzA5ZGQwYWMzMTc5MDEz`
+Snapshot ID: `MCw4YzM4NGJkZTdjMTc4MjI2NTQ0N2MxM2Q2MDc3ODNiMmE5YWMwMzc1`

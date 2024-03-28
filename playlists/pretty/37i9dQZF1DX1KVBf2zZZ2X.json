@@ -1,12 +1,12 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 37291,
+  "num_followers": 37469,
   "original_name": "Soft Nature Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2M2N2U2NmE4NTM0YjllNTBkYzRkMWVjZmUxNTVjN2QyMWFmNWRm",
+  "snapshot_id": "MCw2NTkzY2YxMjllOWU4MzNmNjFmODQ4ZmMyOTM4N2Q3MjhhMWYxYmFl",
   "tracks": [
     {
       "added_at": "2024-03-20 14:26:29",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-03-20 14:26:29",
       "album": {
+        "name": "Swells of Peace",
+        "url": "https://open.spotify.com/album/0JdcL1uvu23PI3A0pdYEPF"
+      },
+      "artists": [
+        {
+          "name": "Beyond Observable",
+          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
+        }
+      ],
+      "duration_ms": 143045,
+      "name": "Swells of Peace",
+      "url": "https://open.spotify.com/track/2dIc6DpyULpWApOIcfrJ9R"
+    },
+    {
+      "added_at": "2024-03-20 14:26:29",
+      "album": {
         "name": "In The Forest",
         "url": "https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88"
       },
@@ -555,18 +571,18 @@
     {
       "added_at": "2024-03-20 14:26:29",
       "album": {
-        "name": "Swells of Peace",
-        "url": "https://open.spotify.com/album/0JdcL1uvu23PI3A0pdYEPF"
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/6MiyneDUR4YLTtnuoqcvNy"
       },
       "artists": [
         {
-          "name": "Beyond Observable",
-          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
         }
       ],
-      "duration_ms": 143045,
-      "name": "Swells of Peace",
-      "url": "https://open.spotify.com/track/2dIc6DpyULpWApOIcfrJ9R"
+      "duration_ms": 180041,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/72g342BdHqVHgitJOVpKyU"
     },
     {
       "added_at": "2024-03-20 14:26:29",
@@ -603,22 +619,6 @@
     {
       "added_at": "2024-03-20 14:26:29",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/6MiyneDUR4YLTtnuoqcvNy"
-      },
-      "artists": [
-        {
-          "name": "Flyndon",
-          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
-        }
-      ],
-      "duration_ms": 180041,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/72g342BdHqVHgitJOVpKyU"
-    },
-    {
-      "added_at": "2024-03-20 14:26:29",
-      "album": {
         "name": "Lazy Lanta",
         "url": "https://open.spotify.com/album/49XdeD0HhnXEMTB1MvtsMi"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-03-20 14:26:29",
       "album": {
-        "name": "In The Forest",
-        "url": "https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88"
-      },
-      "artists": [
-        {
-          "name": "Auley Gere",
-          "url": "https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz"
-        }
-      ],
-      "duration_ms": 107000,
-      "name": "Ballerina",
-      "url": "https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7"
-    },
-    {
-      "added_at": "2024-03-20 14:26:29",
-      "album": {
         "name": "Sunday Mornings XXVIII",
         "url": "https://open.spotify.com/album/6xyFTbKHD0jolOCX5KstzK"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 67000,
       "name": "The Way I Am & Sunday Mornings",
       "url": "https://open.spotify.com/track/5oUzKkdvWBoX6B0slLHZX7"
+    },
+    {
+      "added_at": "2024-03-20 14:26:29",
+      "album": {
+        "name": "In The Forest",
+        "url": "https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88"
+      },
+      "artists": [
+        {
+          "name": "Auley Gere",
+          "url": "https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz"
+        }
+      ],
+      "duration_ms": 107000,
+      "name": "Ballerina",
+      "url": "https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7"
     },
     {
       "added_at": "2024-03-20 14:26:29",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-03-20 14:26:29",
       "album": {
-        "name": "Secunda Carmina",
-        "url": "https://open.spotify.com/album/6Mimz0Gk1BdDz5NPhtBiyG"
-      },
-      "artists": [
-        {
-          "name": "Valeria Pintile",
-          "url": "https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "Secunda Carmina",
-      "url": "https://open.spotify.com/track/2FwkigsYjlfvVJN4NCqyp3"
-    },
-    {
-      "added_at": "2024-03-20 14:26:29",
-      "album": {
         "name": "Da Lat",
         "url": "https://open.spotify.com/album/3WMsFEZNsxeQOYUQvt6RXS"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 122583,
       "name": "Da Lat",
       "url": "https://open.spotify.com/track/6PLuM9Bi08yCcHPYKTyEdt"
+    },
+    {
+      "added_at": "2024-03-20 14:26:29",
+      "album": {
+        "name": "Secunda Carmina",
+        "url": "https://open.spotify.com/album/6Mimz0Gk1BdDz5NPhtBiyG"
+      },
+      "artists": [
+        {
+          "name": "Valeria Pintile",
+          "url": "https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "Secunda Carmina",
+      "url": "https://open.spotify.com/track/2FwkigsYjlfvVJN4NCqyp3"
     },
     {
       "added_at": "2024-03-20 14:26:29",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-03-20 14:26:29",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2yxL2OnCpPt5gB6NFeirMa"
+        "name": "On Quietude",
+        "url": "https://open.spotify.com/album/5Rdpc4zu0Mv5401DI3V7qB"
       },
       "artists": [
         {
-          "name": "Odette Pineda",
-          "url": "https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw"
+          "name": "Tonal Topographies",
+          "url": "https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8"
         }
       ],
-      "duration_ms": 187035,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5kDSdlxuEd4tSYgvHc1eRM"
+      "duration_ms": 168214,
+      "name": "On Quietude",
+      "url": "https://open.spotify.com/track/5JiXbtZhm8I6O62S3NHqzi"
     },
     {
       "added_at": "2024-03-20 14:26:29",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-03-20 14:26:29",
       "album": {
-        "name": "On Quietude",
-        "url": "https://open.spotify.com/album/5Rdpc4zu0Mv5401DI3V7qB"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2yxL2OnCpPt5gB6NFeirMa"
       },
       "artists": [
         {
-          "name": "Tonal Topographies",
-          "url": "https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8"
+          "name": "Odette Pineda",
+          "url": "https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw"
         }
       ],
-      "duration_ms": 168214,
-      "name": "On Quietude",
-      "url": "https://open.spotify.com/track/5JiXbtZhm8I6O62S3NHqzi"
+      "duration_ms": 187035,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5kDSdlxuEd4tSYgvHc1eRM"
     },
     {
       "added_at": "2024-03-20 14:26:29",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-03-20 14:26:29",
       "album": {
-        "name": "At Dawn",
-        "url": "https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg"
-      },
-      "artists": [
-        {
-          "name": "Logan Collier",
-          "url": "https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1"
-        }
-      ],
-      "duration_ms": 159709,
-      "name": "Bayou",
-      "url": "https://open.spotify.com/track/4S71lQSOqzjq85OytOWOpS"
-    },
-    {
-      "added_at": "2024-03-20 14:26:29",
-      "album": {
         "name": "The Perfect Morning",
         "url": "https://open.spotify.com/album/0FFTxou2PMl9sDPcxopeCB"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 174500,
       "name": "Forest Dreams (432 Hz)",
       "url": "https://open.spotify.com/track/1eLXhJf2bLfeghNsz7FpxV"
+    },
+    {
+      "added_at": "2024-03-20 14:26:29",
+      "album": {
+        "name": "At Dawn",
+        "url": "https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg"
+      },
+      "artists": [
+        {
+          "name": "Logan Collier",
+          "url": "https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1"
+        }
+      ],
+      "duration_ms": 159709,
+      "name": "Bayou",
+      "url": "https://open.spotify.com/track/4S71lQSOqzjq85OytOWOpS"
     },
     {
       "added_at": "2024-03-20 14:26:29",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-03-20 14:26:29",
       "album": {
-        "name": "Above all",
-        "url": "https://open.spotify.com/album/2SndImMqTgOaikElBmLHQP"
-      },
-      "artists": [
-        {
-          "name": "Henrietta Patrick",
-          "url": "https://open.spotify.com/artist/4dCZm6THef8wb8x4VwrSO0"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Above all",
-      "url": "https://open.spotify.com/track/32lWGnfRRUk44f4zWHV37L"
-    },
-    {
-      "added_at": "2024-03-20 14:26:29",
-      "album": {
         "name": "Winter Lake",
         "url": "https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb"
       },
@@ -1687,6 +1671,38 @@
       "duration_ms": 265000,
       "name": "Winter Lake",
       "url": "https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6"
+    },
+    {
+      "added_at": "2024-03-20 14:26:29",
+      "album": {
+        "name": "Des Roches Ritual",
+        "url": "https://open.spotify.com/album/0et9Tv7PCytessod4b4Kl7"
+      },
+      "artists": [
+        {
+          "name": "Electric Rivers",
+          "url": "https://open.spotify.com/artist/4ATjV5COMvZp7XfnELm7nV"
+        }
+      ],
+      "duration_ms": 213699,
+      "name": "Des Roches Ritual",
+      "url": "https://open.spotify.com/track/31nCgRTa6hPm2sFzUQD2NW"
+    },
+    {
+      "added_at": "2024-03-20 14:26:29",
+      "album": {
+        "name": "Above all",
+        "url": "https://open.spotify.com/album/2SndImMqTgOaikElBmLHQP"
+      },
+      "artists": [
+        {
+          "name": "Henrietta Patrick",
+          "url": "https://open.spotify.com/artist/4dCZm6THef8wb8x4VwrSO0"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Above all",
+      "url": "https://open.spotify.com/track/32lWGnfRRUk44f4zWHV37L"
     },
     {
       "added_at": "2024-03-20 14:26:29",
@@ -1771,22 +1787,6 @@
     {
       "added_at": "2024-03-20 14:26:29",
       "album": {
-        "name": "Passing",
-        "url": "https://open.spotify.com/album/4NMvHwdcqZ9mJoYBj31oRo"
-      },
-      "artists": [
-        {
-          "name": "Lenards \u0160mits",
-          "url": "https://open.spotify.com/artist/72zkGbxVoZCrrQbZRjhySx"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Passing",
-      "url": "https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8"
-    },
-    {
-      "added_at": "2024-03-20 14:26:29",
-      "album": {
         "name": "Ceredona Peace (Nature)",
         "url": "https://open.spotify.com/album/58qI5TV9Qdnj65CQtzldvH"
       },
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2024-03-20 14:26:29",
       "album": {
+        "name": "Passing",
+        "url": "https://open.spotify.com/album/4NMvHwdcqZ9mJoYBj31oRo"
+      },
+      "artists": [
+        {
+          "name": "Lenards \u0160mits",
+          "url": "https://open.spotify.com/artist/72zkGbxVoZCrrQbZRjhySx"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Passing",
+      "url": "https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8"
+    },
+    {
+      "added_at": "2024-03-20 14:26:29",
+      "album": {
         "name": "The Old Grandfather Clock",
         "url": "https://open.spotify.com/album/4mOXlp10cieaSNNvyAQRIu"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 192000,
       "name": "The Sparrow",
       "url": "https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1"
-    },
-    {
-      "added_at": "2024-03-20 14:26:29",
-      "album": {
-        "name": "Des Roches Ritual",
-        "url": "https://open.spotify.com/album/0et9Tv7PCytessod4b4Kl7"
-      },
-      "artists": [
-        {
-          "name": "Electric Rivers",
-          "url": "https://open.spotify.com/artist/4ATjV5COMvZp7XfnELm7nV"
-        }
-      ],
-      "duration_ms": 213699,
-      "name": "Des Roches Ritual",
-      "url": "https://open.spotify.com/track/31nCgRTa6hPm2sFzUQD2NW"
     },
     {
       "added_at": "2024-03-20 14:26:29",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-03-20 14:26:29",
       "album": {
-        "name": "Angelic Birds",
-        "url": "https://open.spotify.com/album/3IxoZadyhQnLHeDxKo06YX"
-      },
-      "artists": [
-        {
-          "name": "Inara Rex",
-          "url": "https://open.spotify.com/artist/1z7Wz5Nf6ZcKVMbTbrfGmj"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Angelic Birds",
-      "url": "https://open.spotify.com/track/4RRSAw83nF2cnrIlmmVAq5"
-    },
-    {
-      "added_at": "2024-03-20 14:26:29",
-      "album": {
         "name": "Hands In The Sky",
         "url": "https://open.spotify.com/album/56bBodScnFrZTDX0PfpeHW"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 164112,
       "name": "Hands In The Sky",
       "url": "https://open.spotify.com/track/70ObLIVk41IfOm3ijjifgg"
+    },
+    {
+      "added_at": "2024-03-20 14:26:29",
+      "album": {
+        "name": "Angelic Birds",
+        "url": "https://open.spotify.com/album/3IxoZadyhQnLHeDxKo06YX"
+      },
+      "artists": [
+        {
+          "name": "Inara Rex",
+          "url": "https://open.spotify.com/artist/1z7Wz5Nf6ZcKVMbTbrfGmj"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Angelic Birds",
+      "url": "https://open.spotify.com/track/4RRSAw83nF2cnrIlmmVAq5"
     },
     {
       "added_at": "2024-03-20 14:26:29",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-03-20 14:26:29",
       "album": {
-        "name": "Paladin Diversum",
-        "url": "https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur"
-      },
-      "artists": [
-        {
-          "name": "Los Sobriles",
-          "url": "https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Paladin Diversum",
-      "url": "https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp"
-    },
-    {
-      "added_at": "2024-03-20 14:26:29",
-      "album": {
         "name": "Stolen Stream Moments",
         "url": "https://open.spotify.com/album/2qy2vMSHgIfGtaxoGjbFPD"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 188500,
       "name": "Stolen Stream Moments",
       "url": "https://open.spotify.com/track/7hnw4JKqdaiGhEch2TWoVR"
+    },
+    {
+      "added_at": "2024-03-20 14:26:29",
+      "album": {
+        "name": "Paladin Diversum",
+        "url": "https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur"
+      },
+      "artists": [
+        {
+          "name": "Los Sobriles",
+          "url": "https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Paladin Diversum",
+      "url": "https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp"
     },
     {
       "added_at": "2024-03-20 14:26:29",

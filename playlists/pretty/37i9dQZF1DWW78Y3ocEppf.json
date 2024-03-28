@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: Inayah",
-  "num_followers": 43217,
+  "num_followers": 43220,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODhmMTcwZmM2ZDY3YmZmMWQ1YmFkMjliM2ZiN2UyM2RjYWM5NDA4",
+  "snapshot_id": "MCw1NGQ0ZDRiNTNmYmM2ZTljNWEyNDA5MWY5Nzc2YzZkN2M4ODRjNjFk",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -205,7 +205,7 @@
         },
         {
           "name": "BlueBucksClan",
-          "url": "https://open.spotify.com/artist/2dbNDuDQiHAcS2xztVnM9X"
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
         }
       ],
       "duration_ms": 159171,
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "BUT IF iiM HONEST",
-        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 170640,
-      "name": "Outside Freestyle",
-      "url": "https://open.spotify.com/track/6TKOariWgppe0f6JcXMMCo"
-    },
-    {
       "added_at": "2023-03-03 05:16:10",
       "album": {
         "name": "Overrated",
@@ -723,6 +707,22 @@
       "duration_ms": 187484,
       "name": "Overrated",
       "url": "https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "BUT IF iiM HONEST",
+        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 170640,
+      "name": "Outside Freestyle",
+      "url": "https://open.spotify.com/track/6TKOariWgppe0f6JcXMMCo"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -781,6 +781,26 @@
       "url": "https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Full Circle: Sonic Book Two",
+        "url": "https://open.spotify.com/album/0zfR2DLWZWMWYjg9B8DKEx"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "BJRNCK",
+          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
+        }
+      ],
+      "duration_ms": 229838,
+      "name": "Taking Off",
+      "url": "https://open.spotify.com/track/6UpQnWMqluVLTdCyk3qFJ4"
+    },
+    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
@@ -819,58 +839,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Full Circle: Sonic Book Two",
-        "url": "https://open.spotify.com/album/0zfR2DLWZWMWYjg9B8DKEx"
-      },
-      "artists": [
-        {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        },
-        {
-          "name": "BJRNCK",
-          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
-        }
-      ],
-      "duration_ms": 229838,
-      "name": "Taking Off",
-      "url": "https://open.spotify.com/track/6UpQnWMqluVLTdCyk3qFJ4"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "BUT IF iiM HONEST",
-        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 229854,
-      "name": "Spin the Block",
-      "url": "https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1"
-    },
-    {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "it's not you, it's me",
-        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 120493,
-      "name": "cascade road",
-      "url": "https://open.spotify.com/track/0tkJrvooVHw5r7MrUaCWjh"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Escape Plan",
         "url": "https://open.spotify.com/album/62DboXMp5tBqZGDVxdaiVy"
       },
@@ -891,6 +859,22 @@
     {
       "added_at": "2023-06-16 05:24:07",
       "album": {
+        "name": "it's not you, it's me",
+        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 120493,
+      "name": "cascade road",
+      "url": "https://open.spotify.com/track/0tkJrvooVHw5r7MrUaCWjh"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
         "name": "Grudges",
         "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
       },
@@ -903,6 +887,38 @@
       "duration_ms": 213736,
       "name": "LMK",
       "url": "https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "BUT IF iiM HONEST",
+        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 229854,
+      "name": "Spin the Block",
+      "url": "https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "ARTchives: The Gallery",
+        "url": "https://open.spotify.com/album/7feiQ1G1IwHzUgipvWbGHh"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "duration_ms": 162625,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/5N1JIOm3fDwEb06XVNb4GD"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -925,22 +941,6 @@
       "url": "https://open.spotify.com/track/2N2kx4jJG4683NoO3NMvpw"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "ARTchives: The Gallery",
-        "url": "https://open.spotify.com/album/7feiQ1G1IwHzUgipvWbGHh"
-      },
-      "artists": [
-        {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
-        }
-      ],
-      "duration_ms": 162625,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/5N1JIOm3fDwEb06XVNb4GD"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Don't Mind Me",
@@ -955,22 +955,6 @@
       "duration_ms": 189929,
       "name": "Don\u2019t Mind Me",
       "url": "https://open.spotify.com/track/1ZsNLqqBzUbDG9LDosVk2p"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Out The Way",
-        "url": "https://open.spotify.com/album/3ZqHjjh7jnUEGPf4b5xbwO"
-      },
-      "artists": [
-        {
-          "name": "Samaria",
-          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
-        }
-      ],
-      "duration_ms": 155414,
-      "name": "Out The Way",
-      "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -991,6 +975,22 @@
       "duration_ms": 247912,
       "name": "Love It Here",
       "url": "https://open.spotify.com/track/4kV6qAPbj0lzykZekhfjzE"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Out The Way",
+        "url": "https://open.spotify.com/album/3ZqHjjh7jnUEGPf4b5xbwO"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "duration_ms": 155414,
+      "name": "Out The Way",
+      "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
     },
     {
       "added_at": "2023-05-05 04:18:58",
@@ -1099,8 +1099,8 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Love Hate",
-        "url": "https://open.spotify.com/album/6ReX2Hg53ItFexiCXSemhy"
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/3cyVtGHoaRIWfrfqBItC9t"
       },
       "artists": [
         {
@@ -1108,9 +1108,9 @@
           "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
         }
       ],
-      "duration_ms": 156309,
-      "name": "Love Hate",
-      "url": "https://open.spotify.com/track/1nRAogZ7SjnSsExrkQrU4s"
+      "duration_ms": 163720,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/6dEHTCK6SyciGXCStYmoJb"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1173,26 +1173,6 @@
       "url": "https://open.spotify.com/track/6HlPPcbjlyq7liRqu8q6mK"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "What It Do",
-        "url": "https://open.spotify.com/album/55y0JmlsaqXupvjFiMTA4h"
-      },
-      "artists": [
-        {
-          "name": "Zae France",
-          "url": "https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 185566,
-      "name": "What It Do (with Fridayy)",
-      "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Heads Up",
@@ -1211,6 +1191,26 @@
       "duration_ms": 207123,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/32kJsIvZZf6pEq6xOsv0j0"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "What It Do",
+        "url": "https://open.spotify.com/album/55y0JmlsaqXupvjFiMTA4h"
+      },
+      "artists": [
+        {
+          "name": "Zae France",
+          "url": "https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 185566,
+      "name": "What It Do (with Fridayy)",
+      "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1263,8 +1263,8 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Addiction",
-        "url": "https://open.spotify.com/album/3cyVtGHoaRIWfrfqBItC9t"
+        "name": "Love Hate",
+        "url": "https://open.spotify.com/album/6ReX2Hg53ItFexiCXSemhy"
       },
       "artists": [
         {
@@ -1272,9 +1272,9 @@
           "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
         }
       ],
-      "duration_ms": 163720,
-      "name": "Addiction",
-      "url": "https://open.spotify.com/track/6dEHTCK6SyciGXCStYmoJb"
+      "duration_ms": 156309,
+      "name": "Love Hate",
+      "url": "https://open.spotify.com/track/1nRAogZ7SjnSsExrkQrU4s"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1385,22 +1385,6 @@
       "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Weak For Me",
-        "url": "https://open.spotify.com/album/06OJ08xYd8UwL3B5ih8O5l"
-      },
-      "artists": [
-        {
-          "name": "Baby B",
-          "url": "https://open.spotify.com/artist/7nznupCgJONUdFSwrrqnDi"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Weak For Me",
-      "url": "https://open.spotify.com/track/1qHwfmane0e7tMGnnMM1jo"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "The Hurtbook (Homegirl Pack)",
@@ -1419,6 +1403,22 @@
       "duration_ms": 193781,
       "name": "So Be It (with Summer Walker) - Remix",
       "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Weak For Me",
+        "url": "https://open.spotify.com/album/06OJ08xYd8UwL3B5ih8O5l"
+      },
+      "artists": [
+        {
+          "name": "Baby B",
+          "url": "https://open.spotify.com/artist/7nznupCgJONUdFSwrrqnDi"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Weak For Me",
+      "url": "https://open.spotify.com/track/1qHwfmane0e7tMGnnMM1jo"
     },
     {
       "added_at": "2022-10-14 05:33:57",
@@ -1461,6 +1461,22 @@
       "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Speak Your Mine",
+        "url": "https://open.spotify.com/album/3e2ZjkaPzsXXsMJzXYQDqG"
+      },
+      "artists": [
+        {
+          "name": "Tre\u0300 Samuels",
+          "url": "https://open.spotify.com/artist/45vC474xQVArVv4KZ4K8Kq"
+        }
+      ],
+      "duration_ms": 207175,
+      "name": "Speak Your Mine",
+      "url": "https://open.spotify.com/track/1i5hcCnWCHYu2mvUq04OPP"
+    },
+    {
       "added_at": "2023-07-28 08:00:10",
       "album": {
         "name": "Just Like Me",
@@ -1479,22 +1495,6 @@
       "duration_ms": 150361,
       "name": "Just Like Me",
       "url": "https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Speak Your Mine",
-        "url": "https://open.spotify.com/album/3e2ZjkaPzsXXsMJzXYQDqG"
-      },
-      "artists": [
-        {
-          "name": "Tre\u0300 Samuels",
-          "url": "https://open.spotify.com/artist/45vC474xQVArVv4KZ4K8Kq"
-        }
-      ],
-      "duration_ms": 207175,
-      "name": "Speak Your Mine",
-      "url": "https://open.spotify.com/track/1i5hcCnWCHYu2mvUq04OPP"
     },
     {
       "added_at": "2022-09-30 04:04:59",
@@ -1613,22 +1613,6 @@
       "url": "https://open.spotify.com/track/7y1mzezUl5HfAvWYSs7Qu1"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "Pretty Conversation",
-        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
-      },
-      "artists": [
-        {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Man on Fire",
-      "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
-    },
-    {
       "added_at": "2023-09-08 05:11:32",
       "album": {
         "name": "ISN'T THE SAME",
@@ -1645,20 +1629,20 @@
       "url": "https://open.spotify.com/track/5c5WpahqfyGJ7ZibFt8Es7"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-06-16 05:24:07",
       "album": {
-        "name": "Right My Wrongs",
-        "url": "https://open.spotify.com/album/61ecHf31ENhC6xSwKqcw3P"
+        "name": "Pretty Conversation",
+        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
       },
       "artists": [
         {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
         }
       ],
-      "duration_ms": 151730,
-      "name": "Right My Wrongs",
-      "url": "https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1"
+      "duration_ms": 144000,
+      "name": "Man on Fire",
+      "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1679,6 +1663,22 @@
       "duration_ms": 161684,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Right My Wrongs",
+        "url": "https://open.spotify.com/album/61ecHf31ENhC6xSwKqcw3P"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "duration_ms": 151730,
+      "name": "Right My Wrongs",
+      "url": "https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1733,22 +1733,6 @@
       "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
     },
     {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Hurt Before",
-        "url": "https://open.spotify.com/album/5Pp8b3ejvglrVW7D8EXOoV"
-      },
-      "artists": [
-        {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
-        }
-      ],
-      "duration_ms": 122086,
-      "name": "Hurt Before",
-      "url": "https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5"
-    },
-    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Cold Toronto",
@@ -1763,6 +1747,22 @@
       "duration_ms": 157808,
       "name": "Fell Asleep",
       "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Kissing On Your Tattoos",
+        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 153599,
+      "name": "Kissing On Your Tattoos",
+      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
     },
     {
       "added_at": "2023-06-16 05:24:07",

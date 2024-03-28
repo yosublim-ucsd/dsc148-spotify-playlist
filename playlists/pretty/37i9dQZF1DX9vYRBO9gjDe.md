@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。3月24日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,331 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,395 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 33 | [Kimi to Hitsuji to Ao](https://open.spotify.com/track/2qz2iNaqKDJesD2ombEIsi) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Zettaizetsumei](https://open.spotify.com/album/3b3tyPWcSOYy5SFC0bCUWP) | 2:42 |
 | 34 | [めちゃくちゃ好きな人を愛すように世界を愛して！](https://open.spotify.com/track/7HjTKFuYlYHeteUGxUaVY3) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [めちゃくちゃ好きな人を愛すように世界を愛して！](https://open.spotify.com/album/3dW78okSq9qPIB3tX1JivC) | 3:41 |
 | 35 | [I'm a mess](https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [X](https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e) | 4:11 |
-| 36 | [Fam\*ly \(feat\. Tiji Jojo, DADA & LEX\)](https://open.spotify.com/track/1HzgAWbo1kRq1EyVeyq77k) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [Dada](https://open.spotify.com/artist/03FagtGSQn7UpUflscKmsX), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [BAD HOP \(THE FINAL Edition\)](https://open.spotify.com/album/5PcbIrT3joNAINMTXSVItF) | 4:20 |
+| 36 | [Fam\*ly \(feat\. Tiji Jojo, DADA & LEX\)](https://open.spotify.com/track/1HzgAWbo1kRq1EyVeyq77k) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [BAD HOP \(THE FINAL Edition\)](https://open.spotify.com/album/5PcbIrT3joNAINMTXSVItF) | 4:20 |
 | 37 | [ゆらゆら \-運命の花\-](https://open.spotify.com/track/6wpI5gQoIYWBJs9juUEvJI) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ゆらゆら \-運命の花\-](https://open.spotify.com/album/1LbeJNguuG0T6BaQ9f2OGq) | 3:04 |
 | 38 | [W / X / Y](https://open.spotify.com/track/3cBghvTcQNDNkW98Y4eGaP) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/1aYWdnbKO3asqDUruOl2cY) | 4:38 |
 | 39 | [チャンスは平等](https://open.spotify.com/track/7zOjmnHDE1Wg7SPwbGdpPr) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [チャンスは平等](https://open.spotify.com/album/4zSEHTrIKneN7Zepl7Km9g) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [ドライブ・マイ・イデア](https://open.spotify.com/track/4kprPDP5JqxcBLqKXjhMTJ) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [ドライブ・マイ・イデア](https://open.spotify.com/album/1hyXLEpA9pZfWenpqUUE5Q) | 3:37 |
 | 50 | [Be on Your side](https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF) | 3:39 |
 
-Snapshot ID: `MCw1NjgxYTJhZjU3MDlkNmY5MzVmMDcyMjRlYTk3MjhkNzc3NTEzMDA2`
+Snapshot ID: `MCwyMzg1YTJkZTFmOTdlNTg4MjdmYTFlMDFiNTNkNmYyZjcwMDNmOWQx`

@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 1045,
+  "2024-03-28": 1045,
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/48szR2kmia8PcpVpxqI2o1\">Gaby Music</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Gaby Music",
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 225520,
       "name": "Amantes de una Noche",
       "url": "https://open.spotify.com/track/2iCOdoyDmWG3hWkbtH1KB2"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 226378,
       "name": "As\u00ed Soy Yo",
       "url": "https://open.spotify.com/track/6NfC2FKfsfzuLIF4lThw0A"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 208453,
       "name": "El Problema",
       "url": "https://open.spotify.com/track/6cyH3OGfKQBevSYxJFIUCx"
@@ -1309,7 +1309,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 177500,
       "name": "El Problema",
       "url": "https://open.spotify.com/track/5dXTVrRz1VXQgs51b8Jftf"
@@ -1523,6 +1523,28 @@
       "duration_ms": 220920,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/6qiPrJwiT5BHKeGPF11cTO"
+    },
+    {
+      "album": {
+        "name": "RealG4Life Vol. 4",
+        "url": "https://open.spotify.com/album/1xYN8n1zN2OuAL2VCrWDTx"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227013,
+      "name": "Gato de Noche",
+      "url": "https://open.spotify.com/track/7zybwfvL6F1t17U4FUZLRM"
     },
     {
       "album": {
@@ -4435,6 +4457,24 @@
       "duration_ms": 261904,
       "name": "Yeezy",
       "url": "https://open.spotify.com/track/54N6ILqlyNzADZNuGEfk9a"
+    },
+    {
+      "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191526,
+      "name": "YO VISTO AS\u00cd",
+      "url": "https://open.spotify.com/track/5fROvzNghPid8mbKNDYvpJ"
     },
     {
       "album": {

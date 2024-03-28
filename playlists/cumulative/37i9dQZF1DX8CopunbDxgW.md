@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: jigitz
 
-1,211 songs - 3 day 4 hr 46 min
+1,212 songs - 3 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Carrossel Do Tempo](https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Abrão](https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq) | [Carrossel Do Tempo](https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy) | 4:57 | 2023-09-08 | 2024-01-13 |
 | [Cash](https://open.spotify.com/track/3aHiz7IyBKr9vNynIQJykZ) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Cash](https://open.spotify.com/album/5C7l2U2lJrjLSMg8p13J14) | 2:42 | 2023-11-17 |  |
 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 | 2021-09-10 | 2023-01-06 |
+| [Cause Of U](https://open.spotify.com/track/1VxXo9KogHyccmoXcwqqCc) | [Familiar Faces](https://open.spotify.com/artist/2faJegxkyWRI7AMI9pyWZo) | [Inner Circuitry](https://open.spotify.com/album/2vHPBoZuIIBBsfHjRZdoAA) | 3:41 | 2024-03-27 |  |
 | [Caution To The Wind](https://open.spotify.com/track/1nTp6IaQyU2FCbe1KZipRI) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Caution To The Wind](https://open.spotify.com/album/2oIbVI3dL2BIXVFxfqNpKR) | 4:06 | 2023-02-24 | 2023-05-03 |
 | [Celestial Kiss](https://open.spotify.com/track/0BeYfKg45UTONeA65CSxGR) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Dreamland](https://open.spotify.com/album/48bM9Odm50py9VSzXQ93Pk) | 2:37 | 2024-02-16 |  |
 | [Chaeri](https://open.spotify.com/track/23lHAG7gddyqzpCAv3OuCT) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Chaeri](https://open.spotify.com/album/0oaj14xWeAaya1H1BF9MLC) | 4:17 | 2021-07-02 | 2022-07-04 |

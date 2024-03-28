@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 816776,
+  "2024-03-28": 816878,
   "date_first_scraped": "2021-12-21",
   "description": "Setting sights on banging <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a>.",
   "name": "Trance Mission",
@@ -3657,7 +3657,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 212231,
       "name": "Dark Space",
       "url": "https://open.spotify.com/track/6rhOHHZEI2HYeX0ITWyKsg"
@@ -12203,6 +12203,24 @@
       "duration_ms": 187500,
       "name": "Path Of Light",
       "url": "https://open.spotify.com/track/5eJvKAK62imJiVq15kYYds"
+    },
+    {
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/4Gk2YY4XwnfDWKdS6mJbmV"
+      },
+      "artists": [
+        {
+          "name": "L\u00dcRUM",
+          "url": "https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213777,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/3c42Rmh1Tu8IkSY3TY6YJt"
     },
     {
       "album": {

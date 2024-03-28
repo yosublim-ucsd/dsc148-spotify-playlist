@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 38683,
+  "num_followers": 38684,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjU0MTlhNDAwYjcwMDk0YmIzNDUwYTBjODk2ZjM2NjUxZWQwYjA4",
+  "snapshot_id": "MCxjYjFjMTMxODgxN2NjYWFjYjgyYWYzY2M1ODMxMGFkNTQxZGU5OGEx",
   "tracks": [
     {
       "added_at": "2024-03-22 08:00:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2024-03-22 08:00:00",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+        "name": "So Sick Of Dreaming",
+        "url": "https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 236236,
-      "name": "Go Baby",
-      "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
+      "duration_ms": 232080,
+      "name": "So Sick Of Dreaming",
+      "url": "https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh"
     },
     {
       "added_at": "2024-03-22 08:00:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2024-03-22 08:00:00",
       "album": {
-        "name": "So Sick Of Dreaming",
-        "url": "https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 232080,
-      "name": "So Sick Of Dreaming",
-      "url": "https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh"
+      "duration_ms": 236236,
+      "name": "Go Baby",
+      "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
     },
     {
       "added_at": "2024-03-22 08:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-22 08:00:00",
       "album": {
-        "name": "Radiosoul",
-        "url": "https://open.spotify.com/album/5doIyRFTqHfAgqu8oy0rXE"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 218113,
-      "name": "Radiosoul - Single Version",
-      "url": "https://open.spotify.com/track/6AyaAytveXEC4AEUiQj0Sa"
-    },
-    {
-      "added_at": "2024-03-22 08:00:00",
-      "album": {
         "name": "Giving It In",
         "url": "https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2024-03-22 08:00:00",
       "album": {
-        "name": "Voice Notes",
-        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
+        "name": "Radiosoul",
+        "url": "https://open.spotify.com/album/5doIyRFTqHfAgqu8oy0rXE"
       },
       "artists": [
         {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
         }
       ],
-      "duration_ms": 175173,
-      "name": "From A Lover",
-      "url": "https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau"
+      "duration_ms": 218113,
+      "name": "Radiosoul - Single Version",
+      "url": "https://open.spotify.com/track/6AyaAytveXEC4AEUiQj0Sa"
     },
     {
       "added_at": "2024-03-22 08:00:00",
@@ -903,6 +887,22 @@
       "duration_ms": 195037,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/1uxW2hzpUKMkNAGnVVF3Xy"
+    },
+    {
+      "added_at": "2024-03-22 08:00:00",
+      "album": {
+        "name": "Voice Notes",
+        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "From A Lover",
+      "url": "https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau"
     },
     {
       "added_at": "2024-03-22 08:00:00",
@@ -1039,6 +1039,38 @@
     {
       "added_at": "2024-03-22 08:00:00",
       "album": {
+        "name": "selfcare",
+        "url": "https://open.spotify.com/album/2NXmQJoHa21xDPxtbrdu5b"
+      },
+      "artists": [
+        {
+          "name": "Moncrieff",
+          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "the sun is shining somewhere",
+      "url": "https://open.spotify.com/track/0MIO8GZ6qHBWqzIWVXp7RN"
+    },
+    {
+      "added_at": "2024-03-22 08:00:00",
+      "album": {
+        "name": "Over When It's Over",
+        "url": "https://open.spotify.com/album/6jDVKFjMqctoXlhxDl0FyW"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 215336,
+      "name": "Over When It's Over",
+      "url": "https://open.spotify.com/track/4ReyhFTpfBriTPxdUmkmuv"
+    },
+    {
+      "added_at": "2024-03-22 08:00:00",
+      "album": {
         "name": "Gettin' Down To It",
         "url": "https://open.spotify.com/album/1o3Rv2hBIXYw8pE0TqoM3X"
       },
@@ -1071,22 +1103,6 @@
     {
       "added_at": "2024-03-22 08:00:00",
       "album": {
-        "name": "Over When It's Over",
-        "url": "https://open.spotify.com/album/6jDVKFjMqctoXlhxDl0FyW"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 215336,
-      "name": "Over When It's Over",
-      "url": "https://open.spotify.com/track/4ReyhFTpfBriTPxdUmkmuv"
-    },
-    {
-      "added_at": "2024-03-22 08:00:00",
-      "album": {
         "name": "Without Words",
         "url": "https://open.spotify.com/album/2m1FDvBl8pE7IIph8sjrAf"
       },
@@ -1099,38 +1115,6 @@
       "duration_ms": 186496,
       "name": "Without Words",
       "url": "https://open.spotify.com/track/2fC0RkvXGfa9A6eZDSnUha"
-    },
-    {
-      "added_at": "2024-03-22 08:00:00",
-      "album": {
-        "name": "selfcare",
-        "url": "https://open.spotify.com/album/2NXmQJoHa21xDPxtbrdu5b"
-      },
-      "artists": [
-        {
-          "name": "Moncrieff",
-          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "the sun is shining somewhere",
-      "url": "https://open.spotify.com/track/0MIO8GZ6qHBWqzIWVXp7RN"
-    },
-    {
-      "added_at": "2024-03-22 08:00:00",
-      "album": {
-        "name": "Katata",
-        "url": "https://open.spotify.com/album/6NArqG0EGzKBknB2x88YlL"
-      },
-      "artists": [
-        {
-          "name": "Bamily",
-          "url": "https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy"
-        }
-      ],
-      "duration_ms": 216150,
-      "name": "Katata",
-      "url": "https://open.spotify.com/track/38e0QxmoRqsBQr6Y4TwMHp"
     },
     {
       "added_at": "2024-03-22 08:00:00",
@@ -1167,22 +1151,18 @@
     {
       "added_at": "2024-03-22 08:00:00",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/2deMeM43Oj3TFZjvpHwxUI"
+        "name": "Katata",
+        "url": "https://open.spotify.com/album/6NArqG0EGzKBknB2x88YlL"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Bamily",
+          "url": "https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy"
         }
       ],
-      "duration_ms": 176048,
-      "name": "The Hardest Part (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/5Me4zF8CC68wmkZyI5rFDR"
+      "duration_ms": 216150,
+      "name": "Katata",
+      "url": "https://open.spotify.com/track/38e0QxmoRqsBQr6Y4TwMHp"
     },
     {
       "added_at": "2024-03-22 08:00:00",
@@ -1203,18 +1183,38 @@
     {
       "added_at": "2024-03-22 08:00:00",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO"
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/2deMeM43Oj3TFZjvpHwxUI"
       },
       "artists": [
         {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 164448,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP"
+      "duration_ms": 176048,
+      "name": "The Hardest Part (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/5Me4zF8CC68wmkZyI5rFDR"
+    },
+    {
+      "added_at": "2024-03-22 08:00:00",
+      "album": {
+        "name": "My Future",
+        "url": "https://open.spotify.com/album/0XsZ7ulN5Qqeyn3buHrn23"
+      },
+      "artists": [
+        {
+          "name": "Poppy Ajudha",
+          "url": "https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl"
+        }
+      ],
+      "duration_ms": 142349,
+      "name": "My Future",
+      "url": "https://open.spotify.com/track/1r5ScrTm9vynVcUal1HDii"
     },
     {
       "added_at": "2024-03-22 08:00:00",
@@ -1235,18 +1235,34 @@
     {
       "added_at": "2024-03-22 08:00:00",
       "album": {
-        "name": "My Future",
-        "url": "https://open.spotify.com/album/0XsZ7ulN5Qqeyn3buHrn23"
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO"
       },
       "artists": [
         {
-          "name": "Poppy Ajudha",
-          "url": "https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl"
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
         }
       ],
-      "duration_ms": 142349,
-      "name": "My Future",
-      "url": "https://open.spotify.com/track/1r5ScrTm9vynVcUal1HDii"
+      "duration_ms": 164448,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP"
+    },
+    {
+      "added_at": "2024-03-22 08:00:00",
+      "album": {
+        "name": "ordinary love",
+        "url": "https://open.spotify.com/album/2wtHEZMiYClmFw6klKyISA"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        }
+      ],
+      "duration_ms": 192835,
+      "name": "ordinary love",
+      "url": "https://open.spotify.com/track/6c1hBQhJpn1n8Jgf7pLAYE"
     },
     {
       "added_at": "2024-03-22 08:00:00",
@@ -1275,6 +1291,22 @@
     {
       "added_at": "2024-03-22 08:00:00",
       "album": {
+        "name": "Came Thru",
+        "url": "https://open.spotify.com/album/13AAQF1ds0legttoSUV573"
+      },
+      "artists": [
+        {
+          "name": "Downtown Kayoto",
+          "url": "https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "Came Thru",
+      "url": "https://open.spotify.com/track/74XVOhXsPxH3h2WfzowVHZ"
+    },
+    {
+      "added_at": "2024-03-22 08:00:00",
+      "album": {
         "name": "Dublin Sessions",
         "url": "https://open.spotify.com/album/5dFdSNChr9iVoEMBdCVB4w"
       },
@@ -1287,22 +1319,6 @@
       "duration_ms": 189306,
       "name": "Courtyard Theatre",
       "url": "https://open.spotify.com/track/3sKMUyp6Z2Ex9aFPv03xZd"
-    },
-    {
-      "added_at": "2024-03-22 08:00:00",
-      "album": {
-        "name": "ordinary love",
-        "url": "https://open.spotify.com/album/2wtHEZMiYClmFw6klKyISA"
-      },
-      "artists": [
-        {
-          "name": "Humble the Great",
-          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
-        }
-      ],
-      "duration_ms": 192835,
-      "name": "ordinary love",
-      "url": "https://open.spotify.com/track/6c1hBQhJpn1n8Jgf7pLAYE"
     },
     {
       "added_at": "2024-03-22 08:00:00",
@@ -1335,22 +1351,6 @@
       "duration_ms": 186582,
       "name": "Please Love Me Again",
       "url": "https://open.spotify.com/track/4b605Ezmi2n7Oyk4vbdhsh"
-    },
-    {
-      "added_at": "2024-03-22 08:00:00",
-      "album": {
-        "name": "Came Thru",
-        "url": "https://open.spotify.com/album/13AAQF1ds0legttoSUV573"
-      },
-      "artists": [
-        {
-          "name": "Downtown Kayoto",
-          "url": "https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR"
-        }
-      ],
-      "duration_ms": 157377,
-      "name": "Came Thru",
-      "url": "https://open.spotify.com/track/74XVOhXsPxH3h2WfzowVHZ"
     },
     {
       "added_at": "2024-03-22 08:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-03-22 08:00:00",
       "album": {
+        "name": "Resting State",
+        "url": "https://open.spotify.com/album/3RMcQ8d4hH9nK2hBNKx8Gy"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "Resting State",
+      "url": "https://open.spotify.com/track/2PwJU6fEjoThOXal3axKEf"
+    },
+    {
+      "added_at": "2024-03-22 08:00:00",
+      "album": {
         "name": "What Sundays Are For",
         "url": "https://open.spotify.com/album/7qJPzAhLFJMMKCx34msYf5"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 267535,
       "name": "Mrs Blue",
       "url": "https://open.spotify.com/track/0GdgXSWoGZeRBOzbRDudp8"
-    },
-    {
-      "added_at": "2024-03-22 08:00:00",
-      "album": {
-        "name": "Resting State",
-        "url": "https://open.spotify.com/album/3RMcQ8d4hH9nK2hBNKx8Gy"
-      },
-      "artists": [
-        {
-          "name": "Lucy Park",
-          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "Resting State",
-      "url": "https://open.spotify.com/track/2PwJU6fEjoThOXal3axKEf"
     },
     {
       "added_at": "2024-03-22 08:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-03-22 08:00:00",
       "album": {
-        "name": "IOU",
-        "url": "https://open.spotify.com/album/24GmXwooEdNANcH1eixZCs"
-      },
-      "artists": [
-        {
-          "name": "Tim Chadwick",
-          "url": "https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL"
-        }
-      ],
-      "duration_ms": 210368,
-      "name": "IOU",
-      "url": "https://open.spotify.com/track/2Yil8y4YADc3sMtY3YqpWY"
-    },
-    {
-      "added_at": "2024-03-22 08:00:00",
-      "album": {
         "name": "every night was the same",
         "url": "https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 148445,
       "name": "circles",
       "url": "https://open.spotify.com/track/5snFgC1DedpQ5yhJINZ70A"
+    },
+    {
+      "added_at": "2024-03-22 08:00:00",
+      "album": {
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/24GmXwooEdNANcH1eixZCs"
+      },
+      "artists": [
+        {
+          "name": "Tim Chadwick",
+          "url": "https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL"
+        }
+      ],
+      "duration_ms": 210368,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/2Yil8y4YADc3sMtY3YqpWY"
     },
     {
       "added_at": "2024-03-22 08:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YcFdF9VSq4ZiNzXH0KTPk.md) - [plain]
 
 > Country music that Rocks!
 
-[theharry1103](https://open.spotify.com/user/theharry1103) - 2 likes - 212 songs - 12 hr 30 min
+[Harry Shaw](https://open.spotify.com/user/theharry1103) - 2 likes - 212 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

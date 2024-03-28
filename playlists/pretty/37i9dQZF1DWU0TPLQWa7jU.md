@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 
 > Get your energy boost for your Ramadan workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,508 likes - 37 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,515 likes - 37 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 | 6 | [يوما سيجبرك \- يوسف الأيوب وعبدالعزيز الراشد](https://open.spotify.com/track/1lsJfanH5fu3PJiUPEclW9) | [Yousef Al Ayoub](https://open.spotify.com/artist/3JenNVbS5aTA7XGTUd25Rg) | [يوما سيجبرك \- يوسف الأيوب وعبدالعزيز الراشد](https://open.spotify.com/album/6AGKS3wFugIm3qWqVXdAAL) | 1:00 |
 | 7 | [يا رفيق الدرب](https://open.spotify.com/track/0LyA6TWn6NRSU5m5OLUGwm) | [موسى العميرة](https://open.spotify.com/artist/3dW0TwrbCdU7qkPuXIvLQy) | [يا رفيق الدرب](https://open.spotify.com/album/5hGN66Z7FbMbraHITzeey0) | 1:01 |
 | 8 | [Mahom](https://open.spotify.com/track/1vBn1Ww1twe8h9NOI6SNTd) | [صديقك](https://open.spotify.com/artist/7EMsV4uagKkDWD6Q5W47M5) | [Mahom](https://open.spotify.com/album/5twitGPTSW7IVlO6UfNxjc) | 3:10 |
-| 9 | [Subhana Allah \- Vocals Only Version](https://open.spotify.com/track/5zDqYGsOCC9EaektrqFmag) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz), [Mesut Kurtis](https://open.spotify.com/artist/1B03KdvD2TCVUEeaDbP5qf) | [Thank You Allah \(Vocals Only \- No Music Version\)](https://open.spotify.com/album/6GU6PmAOKYRsYVJTMlcjJr) | 3:43 |
-| 10 | [ana maradun](https://open.spotify.com/track/0Eo8zX4FDkVjbji7H46I0a) | [religiousbliss](https://open.spotify.com/artist/3YnN981QCpx1LGoyfgvjAa) | [ana maradun](https://open.spotify.com/album/3j8g30E3z1qWr5ox9IYD8E) | 4:25 |
+| 9 | [ana maradun](https://open.spotify.com/track/0Eo8zX4FDkVjbji7H46I0a) | [religiousbliss](https://open.spotify.com/artist/3YnN981QCpx1LGoyfgvjAa) | [ana maradun](https://open.spotify.com/album/3j8g30E3z1qWr5ox9IYD8E) | 4:25 |
+| 10 | [Subhana Allah \- Vocals Only Version](https://open.spotify.com/track/5zDqYGsOCC9EaektrqFmag) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz), [Mesut Kurtis](https://open.spotify.com/artist/1B03KdvD2TCVUEeaDbP5qf) | [Thank You Allah \(Vocals Only \- No Music Version\)](https://open.spotify.com/album/6GU6PmAOKYRsYVJTMlcjJr) | 3:43 |
 | 11 | [Nasheed \- Kuntu Maitan](https://open.spotify.com/track/549jNPkLSNvTh30gPc7O2L) | [Sulim](https://open.spotify.com/artist/6WRnkuaLO8JGDfCCokbenj) | [Nasheed \- Kuntu Maitan](https://open.spotify.com/album/5zOTIHKwMeQw4McLGonLKj) | 2:24 |
 | 12 | [Morning dua and remembrance](https://open.spotify.com/track/4GpmK4t1t5xteaOCl9GByj) | [Omar Hisham](https://open.spotify.com/artist/1RlnzIazwomBpkg7vHVs2s) | [Morning dua and remembrance](https://open.spotify.com/album/6uaNXbL8Um9LKfK1zvBUeV) | 27:31 |
 | 13 | [يا الطارش](https://open.spotify.com/track/3akQ2gH0B06nEwyLkRaDLs) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [ذكريات](https://open.spotify.com/album/4VtVVCIJd5daGZo3mGVb3Y) | 2:53 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 | 36 | [أصاح رويدك](https://open.spotify.com/track/1EioceLs7WfltjunttPmg7) | [موسى العميرة](https://open.spotify.com/artist/3dW0TwrbCdU7qkPuXIvLQy) | [أصاح رويدك](https://open.spotify.com/album/7G0oINdAsvpaULeqtcgWMI) | 3:53 |
 | 37 | [Subahanallah 100](https://open.spotify.com/track/4v8TMP1xvQ05eeT89RYgbr) | [Nasheed](https://open.spotify.com/artist/09BCWz6kNuBQmMimHztLxJ) | [Islamic Dhikrs](https://open.spotify.com/album/4a4m0tBIeuHKC7Ui1imctM) | 3:35 |
 
-Snapshot ID: `MCw1NzYxYjJlNDNjNDZhODdiZDM1OWNiZGQyNmZmZDZkZWUwZmQ2MzQ3`
+Snapshot ID: `MCxhNmM2OWEzMWMzNDAxMzc1MTY4MGMzY2JmN2U3OWQ2ZmE1MjExMzg5`

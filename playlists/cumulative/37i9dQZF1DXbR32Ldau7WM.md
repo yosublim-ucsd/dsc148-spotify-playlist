@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now!  Cover: Porno Graffitti \(ポルノグラフィティ\)
 
-1,004 songs - 2 day 18 hr 28 min
+1,005 songs - 2 day 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -975,7 +975,8 @@
 | [襲撃](https://open.spotify.com/track/4lKGembiDBdYHSCWfxOKIQ) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [式日散花](https://open.spotify.com/album/5UwYVbkJL3whWkNQIkLGpa) | 4:00 | 2023-08-29 | 2023-09-13 |
 | [西方コーストストーリー](https://open.spotify.com/track/1YH7Rv0BpvNyjtno88MxXY) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [サーフ ブンガク カマクラ \(半カートン\)](https://open.spotify.com/album/6O5gIlE93Ym8DeAlyJI4P3) | 3:41 | 2023-06-13 | 2023-06-28 |
 | [解放カーニバル](https://open.spotify.com/track/5IWj6ohZRj224eMPQSWT7S) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [解放カーニバル](https://open.spotify.com/album/4I0sfMmCYmRNQIMkPLzFPD) | 2:53 | 2023-07-11 | 2023-07-13 |
-| [解放区](https://open.spotify.com/track/52dfm26rDnoqFCmCNam7ex) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [解放区](https://open.spotify.com/album/74KxSiODn8PWwQ2el59TT8) | 3:56 | 2024-03-26 |  |
+| [解放区](https://open.spotify.com/track/0twL0D0qGzNJM9QHx0Hp5x) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [解放区](https://open.spotify.com/album/2iTeXS6y9RYmgq5U3fN0L2) | 3:56 | 2024-03-26 |  |
+| [解放区](https://open.spotify.com/track/52dfm26rDnoqFCmCNam7ex) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [解放区](https://open.spotify.com/album/74KxSiODn8PWwQ2el59TT8) | 3:56 | 2024-03-26 | 2024-03-28 |
 | [証](https://open.spotify.com/track/1Nm8xR8SIiphGCW1sn11Qr) | [ZIGGY](https://open.spotify.com/artist/1be5pBkzQZ3kVJFWroppbb) | [証](https://open.spotify.com/album/2JqFzGT35Ted5pM3PKP6Os) | 3:26 | 2022-05-12 | 2022-07-26 |
 | [証 \- A Spring Breath ver.](https://open.spotify.com/track/2NtwiDUuV1NlaS9oh7r1cN) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [A Spring Breath](https://open.spotify.com/album/1r4OmtQDqbrWo5llPSIWue) | 5:32 | 2022-05-31 | 2022-07-23 |
 | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/track/59SliEKc5sEWaJUNOpKAzH) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/album/1o4DJE0sn5wIl878BIw1bT) | 3:09 | 2023-02-07 | 2023-03-22 |

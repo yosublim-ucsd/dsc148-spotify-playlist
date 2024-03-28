@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 229507,
+  "num_followers": 229584,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmE3OTYzYTY3NGZmNDExZDBhZmY5YWNhZTc4ZDFkNDQxOTRmZTBl",
+  "snapshot_id": "MCwyNTNmY2U0MTA4ZjFhMzg3ZDBhZTI3ZDliNWVkMzAxYjRlYjcxYTRj",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/7ycG05oTUchKzHEEfNrpef"
+      },
+      "artists": [
+        {
+          "name": "Richie Havens",
+          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
+        }
+      ],
+      "duration_ms": 303573,
+      "name": "Going Back to My Roots",
+      "url": "https://open.spotify.com/track/6PFsub5iIJwrBb8qBRqmiV"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Icare",
         "url": "https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 222631,
       "name": "Icare",
       "url": "https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Connections",
-        "url": "https://open.spotify.com/album/7ycG05oTUchKzHEEfNrpef"
-      },
-      "artists": [
-        {
-          "name": "Richie Havens",
-          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
-        }
-      ],
-      "duration_ms": 303573,
-      "name": "Going Back to My Roots",
-      "url": "https://open.spotify.com/track/6PFsub5iIJwrBb8qBRqmiV"
     },
     {
       "added_at": "2022-09-05 16:54:43",

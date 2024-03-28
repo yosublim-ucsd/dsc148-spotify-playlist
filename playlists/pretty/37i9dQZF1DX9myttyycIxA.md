@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Francis of Delirium
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,763 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,778 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 32 | [Next Time](https://open.spotify.com/track/2JfSHrsOnxzDUZptyH31DL) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Next Time](https://open.spotify.com/album/4cDkVp1F4MoDk14LiUQzZV) | 2:58 |
 | 33 | [Here Hair](https://open.spotify.com/track/115AP550Xkjhj1O6S0teo8) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Here Hair / Hard Hair](https://open.spotify.com/album/03fQcyzWD57NgUkIwFuVmD) | 4:40 |
 | 34 | [Compliment](https://open.spotify.com/track/1zRQ4KlIzIpikVJq4ZnvvC) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9) | [Souvenir](https://open.spotify.com/album/703bpbJhzptTx5GTGNQoS4) | 3:56 |
-| 35 | [Ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
+| 35 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
 | 36 | [The Brown Eyed Driver](https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Synthetic Flowers For A Romantic Comedy](https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A) | 4:39 |
 | 37 | [Obsessive Thoughts](https://open.spotify.com/track/0lavlWToofi8DpSeC2DplP) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 3:19 |
 | 38 | [the lonely girl](https://open.spotify.com/track/4uMKR0rtdKK1TwnLYNtNJf) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [the lonely girl](https://open.spotify.com/album/4clOUOCFf89vkXuaTs9Klf) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Theatre](https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Theatre](https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv) | 2:59 |
 | 100 | [Tin Man](https://open.spotify.com/track/5W6KtuTeceMUqu7zW4JNdi) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 2:11 |
 
-Snapshot ID: `MCw5NjY5MjE1OThhMWMyOGJiMmMxZmU5YzQ4ODBjOTM5OTM4YWUyMmJm`
+Snapshot ID: `MCxjYTUwZTExMGJkMjYxYmNlN2RiMmQxOWE5N2QyYTk5ZTBlNzFkNjJl`

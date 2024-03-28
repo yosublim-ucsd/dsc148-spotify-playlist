@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Empress Of
 
-1,798 songs - 3 day 22 hr 46 min
+1,799 songs - 3 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Alien](https://open.spotify.com/track/335zR61okTOqbGmLFlHcrz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Alien](https://open.spotify.com/album/3nHgMTBuY81FhqgBmcjMhv) | 3:49 | 2022-05-20 | 2022-05-24 |
 | [All About You \(feat\. Foster The People\)](https://open.spotify.com/track/5ug2bpyUHVOR7Y3TUPH3J7) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [All About You \(feat\. Foster The People\)](https://open.spotify.com/album/2pGD0e3QJo37XJpbgHm59q) | 3:36 | 2020-11-03 | 2020-11-15 |
 | [All day](https://open.spotify.com/track/5X0K7EYfLnoztd4oSwucJv) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [All day](https://open.spotify.com/album/6uJZYYLIdh24fxnIGe9Vbn) | 3:14 | 2024-01-12 | 2024-02-23 |
-| [All day](https://open.spotify.com/track/6GAbbgKtgj2F4BwszjEk12) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [Lost and found](https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z) | 3:14 | 2024-03-08 |  |
+| [All day](https://open.spotify.com/track/6GAbbgKtgj2F4BwszjEk12) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [Lost and found](https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z) | 3:14 | 2024-03-08 | 2024-03-28 |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-03-18 | 2022-10-29 |
 | [all i ever wanted \(was you\)](https://open.spotify.com/track/3Lq24mWk6irXyj6CBccvjV) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [all i ever wanted \(was you\)](https://open.spotify.com/album/3Z4Xf5uITELZqCZhD6QGbp) | 2:30 | 2022-04-25 | 2022-07-29 |
 | [All I Need](https://open.spotify.com/track/3aMyQSDW0DJ7LTOkrd29hU) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All I Need](https://open.spotify.com/album/4ZXK260CRmgXgQ5tCs1hmk) | 3:36 | 2020-11-03 | 2021-03-22 |
@@ -837,6 +837,7 @@
 | [in the darkness](https://open.spotify.com/track/2zxe1bIcH0mHSMwuc9Fh1k) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 3:29 | 2021-09-10 | 2022-05-21 |
 | [In Time](https://open.spotify.com/track/2fFfZSl0faCTDNXZ2Lo2KE) | [The Yves](https://open.spotify.com/artist/50CeFDCHW8eEwymrHFAeKL) | [Sleeping In](https://open.spotify.com/album/3NusJrwTXCCW7UnV0IxSwV) | 3:46 | 2022-04-08 | 2022-07-19 |
 | [Industry Baby](https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Industry Baby](https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq) | 3:51 | 2022-02-25 | 2022-04-21 |
+| [Inside Out](https://open.spotify.com/track/6Z9nNatxC7Nbm4VY15A3ij) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Inside Out](https://open.spotify.com/album/67iY4D5SSaw1eRfExYzWh3) | 2:58 | 2024-03-22 |  |
 | [Intentions](https://open.spotify.com/track/6S4NRqNCYpsxlxMtSFKxh2) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Intentions](https://open.spotify.com/album/5GykugUTWmwtCcbiYp1sda) | 3:28 | 2022-04-25 | 2022-07-16 |
 | [internet crush](https://open.spotify.com/track/4GISsjjHTA2UyM9DY4DNgY) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [internet crush](https://open.spotify.com/album/5lUP2Yxp4mdf7Dl3GXoB8H) | 3:22 | 2023-02-10 | 2023-04-01 |
 | [Internet Religion](https://open.spotify.com/track/4oicjE1qZcs6NpAAQ3QNhC) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Internet Religion](https://open.spotify.com/album/6WgiNXKdvu34Nvg3a0xTon) | 3:53 | 2021-01-16 | 2021-03-22 |

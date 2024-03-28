@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,988 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,093 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 46 | [Se Você Se Entregar](https://open.spotify.com/track/3WbtamPQS9wdB784HVTeAN) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Vem Me Amar](https://open.spotify.com/album/54zbtfsS8bCb9PTvwpw2F2) | 3:20 |
 | 47 | [Inquilina \- Ao Vivo](https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Xperience Na Praia \(ao Vivo\)](https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5) | 4:05 |
 | 48 | [Mantenha Distância](https://open.spotify.com/track/4fs0ImTtUd9lfD7WA7edUX) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Mantenha Distância](https://open.spotify.com/album/26GulP7pTxfqLFVgdAwJAS) | 2:25 |
-| 49 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
-| 50 | [Ele Não Tem](https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ele Não Tem](https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy) | 3:32 |
+| 49 | [Ele Não Tem](https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ele Não Tem](https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy) | 3:32 |
+| 50 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
 | 51 | [Mó Viagem](https://open.spotify.com/track/3PXgzJ6ixRKkjokWjVOnoR) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mó Viagem](https://open.spotify.com/album/4VngkaHZ61v5wbjEsNAY3W) | 3:17 |
 | 52 | [Os Boys Amam O Ex Chora](https://open.spotify.com/track/2o8MYdtYZYidgpe9oIGIcy) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Os Boys Amam O Ex Chora](https://open.spotify.com/album/1yvxWiONM8RYM6sqxPGBrr) | 2:33 |
 | 53 | [Eu Vou Tirar Você Do Cabaré](https://open.spotify.com/track/0aU3kAN7Nxy2fS5mtii3wd) | [Israell Muniz](https://open.spotify.com/artist/1GEoj0CGGUFSqnDepUa3o9) | [Eu Vou Tirar Você Do Cabaré](https://open.spotify.com/album/1lGOvn3EJ2lWCxu5FEBqOK) | 2:33 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 71 | [O Carpinteiro \- Conto de Fadas](https://open.spotify.com/track/5KOBuBLQzUvGDpB3aLrHad) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Elias Monkbel](https://open.spotify.com/artist/5mFMTcmSFaMIkmHvXZUrVZ) | [O Carpinteiro \(Conto de Fadas\)](https://open.spotify.com/album/40ANmeWOPvVZXQDEaOFIKL) | 4:09 |
 | 72 | [Decida](https://open.spotify.com/track/26SiLqV7fI8m3ruKzI0hpz) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [O Estouro das Vaquejadas](https://open.spotify.com/album/0CgvVfyNywoIw0rcFsdgsD) | 2:42 |
 | 73 | [Juramento do Dedinho](https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Juramento do Dedinho](https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0) | 2:44 |
-| 74 | [Figurinha Repetida \- Ao Vivo](https://open.spotify.com/track/0bMhnnw1SbmpGUWs8gzuIv) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Levada Do Gigante \(Ao Vivo / Pt\. 2\)](https://open.spotify.com/album/4oO0DPB6UyM2ldoKKLMLGc) | 3:45 |
-| 75 | [Jenifer](https://open.spotify.com/track/7wMAgaPiKzTNxpDWu2BPfk) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [À Vontade](https://open.spotify.com/album/6afrnMQFnO6nY5GuGYZcgP) | 2:40 |
+| 74 | [Jenifer](https://open.spotify.com/track/7wMAgaPiKzTNxpDWu2BPfk) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [À Vontade](https://open.spotify.com/album/6afrnMQFnO6nY5GuGYZcgP) | 2:40 |
+| 75 | [Figurinha Repetida \- Ao Vivo](https://open.spotify.com/track/0bMhnnw1SbmpGUWs8gzuIv) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Levada Do Gigante \(Ao Vivo / Pt\. 2\)](https://open.spotify.com/album/4oO0DPB6UyM2ldoKKLMLGc) | 3:45 |
 | 76 | [Vem Me Amar](https://open.spotify.com/track/0UavwCicOnQwMuh67yaxM3) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Vem Me Amar](https://open.spotify.com/album/2NWNzo6YT0Z5FXQaFhTRuB) | 2:35 |
 | 77 | [Adivinha Aí](https://open.spotify.com/track/36VuUsoIGq395mwQFhhXfY) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Adivinha Aí](https://open.spotify.com/album/4ZOltnZGREqjx7I1FSf1Xj) | 2:36 |
 | 78 | [Internacional](https://open.spotify.com/track/2HqQRmR4YQUsK30oEJLUlj) | [Cachorrão do Brega](https://open.spotify.com/artist/0zdAfAcNxThQ4gONcWuiDn) | [2k18.2](https://open.spotify.com/album/1crnwii1wMT2AqMHjf1UHd) | 1:54 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 80 | [My Baby](https://open.spotify.com/track/5BG7jLnjI62eS7EuBGr3r7) | [Furacão Love](https://open.spotify.com/artist/35udcF82bFL8EzsDlWWcsr) | [My Baby](https://open.spotify.com/album/2Tvmo1uMgsFxkMtZ1xgzLp) | 2:24 |
 | 81 | [Cracudo](https://open.spotify.com/track/456nQoGd4zPrJtfeugR221) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Acertou na Mosca](https://open.spotify.com/album/5Jum3LSjwNFO8OxVo0PM2N) | 2:51 |
 | 82 | [Lovezão da Porra](https://open.spotify.com/track/3LrhQhUHudX7SOa2uYHO50) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Lovezão da Porra](https://open.spotify.com/album/6K5XxHJwvR1F0EXQm3AcBO) | 2:59 |
-| 83 | [Monta Logo Vai](https://open.spotify.com/track/6Fy2jcYzVfej3EfElB3XVK) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Monta Logo Vai](https://open.spotify.com/album/1FkqeFDUcGPhjKKkC9CWnT) | 2:21 |
-| 84 | [Bom Dia](https://open.spotify.com/track/4A0vKKkbHRVJc7vIVnEoop) | [Nêgo Jhá](https://open.spotify.com/artist/2KbGxTODNjsDa9DZgpC6rZ) | [Bom Dia](https://open.spotify.com/album/5Fxrlgctaae03u1eLNoW7W) | 1:56 |
+| 83 | [Bom Dia](https://open.spotify.com/track/4A0vKKkbHRVJc7vIVnEoop) | [Nêgo Jhá](https://open.spotify.com/artist/2KbGxTODNjsDa9DZgpC6rZ) | [Bom Dia](https://open.spotify.com/album/5Fxrlgctaae03u1eLNoW7W) | 1:56 |
+| 84 | [Monta Logo Vai](https://open.spotify.com/track/6Fy2jcYzVfej3EfElB3XVK) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Monta Logo Vai](https://open.spotify.com/album/1FkqeFDUcGPhjKKkC9CWnT) | 2:21 |
 | 85 | [Linda Bela](https://open.spotify.com/track/1S0HjmWVsWVdLcjtoZjqmI) | [Elias Monkbel](https://open.spotify.com/artist/5mFMTcmSFaMIkmHvXZUrVZ) | [O Carpinteiro \(Ao Vivo\)](https://open.spotify.com/album/1Q18WOT7ZQlxjd5ApZ9dZZ) | 3:27 |
 | 86 | [Tá Faltando Eu](https://open.spotify.com/track/3jr84zsemJUVRODvbteOoX) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [Tá Faltando Eu](https://open.spotify.com/album/20jNvanEVYWQOAisswocMx) | 2:28 |
 | 87 | [O Matuto se Apaixonou](https://open.spotify.com/track/5uZx1CIGYRK1TdPVg8l9YT) | [Vitor Fernandes](https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX) | [\#REIDOPISEIRO: 2020.1](https://open.spotify.com/album/7JgDhnzqUP4uWRqZysUWme) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 99 | [Vaquejada Deixo Não](https://open.spotify.com/track/7opFSfeMfpGF3KGByMeunX) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Vaquejada Deixo Não](https://open.spotify.com/album/1clLqhZRPHVnA0LyG6PQAO) | 3:17 |
 | 100 | [Status](https://open.spotify.com/track/3dE99KYI09Vu4EkTTyi6sQ) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Status](https://open.spotify.com/album/7Akci0vFaGZq89dVxEl07F) | 2:31 |
 
-Snapshot ID: `MCw0YjU3YzU5MTE4YTZlMzVlMGQ2ZWI4NDAyOTk5ODU5Zjg0ODVkMTJm`
+Snapshot ID: `MCwzNzcyZWVjOGVhYTU2ZDg1Yjg0Nzk3ODUzMGQ3YWQzY2FiOWJjNjVj`

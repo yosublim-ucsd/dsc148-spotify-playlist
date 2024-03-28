@@ -4,7 +4,7 @@
 
 > This is Qlank\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 20 min
+72 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Badd](https://open.spotify.com/track/1Pfbotjg9CDpq5GlJykKVW) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Toolbox EP](https://open.spotify.com/album/2F8YY6Wq2c8qp8JJ0R8kae) | 4:07 | 2024-01-13 | 2024-01-25 |
 | [Bang](https://open.spotify.com/track/50Umemgf8thrfyygQLgMay) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Food Fight](https://open.spotify.com/artist/33TJ8sk96DSfomcTAJ7cQq) | [Play It](https://open.spotify.com/album/1lbSa349DdXHGneMapw1cg) | 3:08 | 2024-02-15 | 2024-02-25 |
 | [Caldera](https://open.spotify.com/track/0T1P5ngGzqMhLWV6gRevha) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Caldera](https://open.spotify.com/album/5881VqXsgmHR7Ib16nzl9b) | 3:10 | 2024-01-03 |  |
-| [Cell Phone](https://open.spotify.com/track/4vrxiotFxYfjEB11oRAfqN) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Cell Phone](https://open.spotify.com/album/178yvgtt01oNSUQwL36bud) | 2:50 | 2024-03-25 |  |
+| [Cell Phone](https://open.spotify.com/track/4vrxiotFxYfjEB11oRAfqN) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Cell Phone](https://open.spotify.com/album/178yvgtt01oNSUQwL36bud) | 2:50 | 2024-03-25 | 2024-03-28 |
 | [Chai Tea](https://open.spotify.com/track/7BCIfos9MNom10BdK2domq) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Toolbox EP](https://open.spotify.com/album/2F8YY6Wq2c8qp8JJ0R8kae) | 3:48 | 2024-01-04 |  |
 | [Dance Again](https://open.spotify.com/track/3xnqyNhS24WPwuGg5Ktjn2) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Dance Again](https://open.spotify.com/album/2U9dJGCEwVPQ10Mv48XTi6) | 3:41 | 2024-01-03 |  |
 | [DGAF](https://open.spotify.com/track/06Z345gYT6n333z9XYXsiY) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [New Times EP](https://open.spotify.com/album/4eRgsarMzUN0FQX1FWzwl0) | 4:17 | 2024-01-03 |  |
@@ -64,6 +64,7 @@
 | [Pretty Deep](https://open.spotify.com/track/2Y68ObWFspu2EHB4vqMC3k) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Modern Mechanics](https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD) | 3:18 | 2024-01-03 |  |
 | [Problem](https://open.spotify.com/track/4E9enYOmhzIld9ezlik57W) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Problem](https://open.spotify.com/album/4SU1oWWE8KK62aRXiitiG6) | 3:50 | 2024-01-03 |  |
 | [Questions](https://open.spotify.com/track/0u4YBL97IRfISyZfhto6is) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Questions](https://open.spotify.com/album/7qp05PQkgvp4iKheQD6yCR) | 3:49 | 2024-02-19 | 2024-02-22 |
+| [Rotate](https://open.spotify.com/track/1xpBxE9fYN4J9GEpuJsvwH) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [CYMN](https://open.spotify.com/artist/1WJ5N2Ld3BdB4y0bEvCuRO) | [Rotate](https://open.spotify.com/album/539q4mYHRuSFHlak3Cz9Tz) | 3:58 | 2024-03-27 |  |
 | [See It Through](https://open.spotify.com/track/1FtuKCXTuyoYpkR8VTsvmu) | [Ekonovah](https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [See It Through](https://open.spotify.com/album/4dmB32HMdTmKtpTkPwjayA) | 4:16 | 2024-01-03 |  |
 | [So High](https://open.spotify.com/track/4Y03M2hBHxhYzjfo8unVIM) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Modern Mechanics](https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD) | 3:45 | 2024-01-10 | 2024-03-24 |
 | [Step Aside](https://open.spotify.com/track/4lHD2jO3RVoy7qoT1i1zsl) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Dance Again](https://open.spotify.com/album/2U9dJGCEwVPQ10Mv48XTi6) | 4:17 | 2024-03-22 |  |

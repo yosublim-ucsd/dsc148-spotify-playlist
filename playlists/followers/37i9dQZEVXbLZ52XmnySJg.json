@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 484929,
+  "2024-03-28": 485053,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - India.",
   "name": "Top 50 - India",
@@ -1589,7 +1589,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 206858,
       "name": "Badri Ki Dulhania (Title Track) [From \"Badrinath Ki Dulhania\"]",
       "url": "https://open.spotify.com/track/3MXUEYNS6LNxb61415AdE3"
@@ -6417,7 +6417,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 339533,
       "name": "Hori Khele Raghuveera",
       "url": "https://open.spotify.com/track/7zrQ2vyyvMfg8fl3XF18MD"
@@ -7339,7 +7339,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 230557,
       "name": "Jai Jai Shivshankar (From \"War\")",
       "url": "https://open.spotify.com/track/1F3mmE11euAAjwPHCSwSCC"
@@ -8563,7 +8563,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 268164,
       "name": "Kesariya",
       "url": "https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X"
@@ -10763,7 +10763,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 191647,
       "name": "Manjha",
       "url": "https://open.spotify.com/track/0UZLaEOSIc5kg0cc7eszqC"
@@ -13721,7 +13721,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 266075,
       "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
       "url": "https://open.spotify.com/track/7Ky9U9iHjGBiRax3joCRDS"
@@ -14340,6 +14340,24 @@
     },
     {
       "album": {
+        "name": "Silsila (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3QyzsjSnEUqIcCuUrXYYuv"
+      },
+      "artists": [
+        {
+          "name": "Amitabh Bachchan",
+          "url": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366266,
+      "name": "Rang Barse Bheege Chunarwali",
+      "url": "https://open.spotify.com/track/4ctKPs1q73B2OQDhzNE1kz"
+    },
+    {
+      "album": {
         "name": "Silsila",
         "url": "https://open.spotify.com/album/7vLbhMgxPh61vW6beUZWn5"
       },
@@ -14775,7 +14793,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 171473,
       "name": "Saajan Ve",
       "url": "https://open.spotify.com/track/3iFYJMrRS0fLrwDNVbqNF0"
@@ -15511,7 +15529,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 247941,
       "name": "Shayad",
       "url": "https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL"
@@ -17979,7 +17997,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 277500,
       "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/00ake6KfnzbZ2MaRLGqsyX"

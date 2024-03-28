@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 822497,
+  "2024-03-28": 822531,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Turkey.",
   "name": "Top 50 - Turkey",
@@ -8608,6 +8608,24 @@
     },
     {
       "album": {
+        "name": "\u0130ste",
+        "url": "https://open.spotify.com/album/4e6XFQZiz13rRBmJnI547E"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Sandal",
+          "url": "https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235333,
+      "name": "\u0130syankar",
+      "url": "https://open.spotify.com/track/6eGeSrKdUUYpXaq8BDDwZO"
+    },
+    {
+      "album": {
         "name": "BABA",
         "url": "https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ"
       },
@@ -11949,7 +11967,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 117350,
       "name": "ONLY BUSINESS PHONK",
       "url": "https://open.spotify.com/track/2N04OfEvrvuBLPXEP7foct"
@@ -13787,7 +13805,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 188500,
       "name": "Seni Dert Etmeler",
       "url": "https://open.spotify.com/track/10n66m41IGjA2ZulKPK7Ew"
@@ -13965,7 +13983,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 122000,
       "name": "SENIN UGRUNA",
       "url": "https://open.spotify.com/track/5flH7FY4ledAQboO5a0XQ5"

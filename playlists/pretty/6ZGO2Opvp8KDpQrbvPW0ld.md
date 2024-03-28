@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,674 likes - 300 songs - 11 hr 6 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,673 likes - 300 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -290,7 +290,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 280 | [Ricotta Cake](https://open.spotify.com/track/32ANsKLMiMkpGhWwtDZ7vu) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Ricotta Cake](https://open.spotify.com/album/2DHv2ykU0TFJJydWaryet6) | 1:26 |
 | 281 | [Fever Dream](https://open.spotify.com/track/5BdAyRL9ke8BbxxUT3HDhY) | [Leave](https://open.spotify.com/artist/4bzPVOTRYr7xSjWfcXI7oU) | [Fever Dream](https://open.spotify.com/album/6m0ENFyChtWJ6a1S2QC7zW) | 2:12 |
 | 282 | [Hot Coffee](https://open.spotify.com/track/3GDWUOSOdJCLRbYA3fMkF2) | [Daemon](https://open.spotify.com/artist/0diXRBzOdGZ4i0TKs8Xakh), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Hot Coffee](https://open.spotify.com/album/0ErLBSrNdCrQq3Kr3PhRcw) | 2:24 |
-| 283 | [like u got what i need](https://open.spotify.com/track/3caFdOHIY9iOHbX8BWCg7k) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [like u got what i need](https://open.spotify.com/album/3oJHtiWvBmgt4fJ6hScrd1) | 2:27 |
+| 283 | [Like U got what I need](https://open.spotify.com/track/3caFdOHIY9iOHbX8BWCg7k) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Like U got what I need](https://open.spotify.com/album/3oJHtiWvBmgt4fJ6hScrd1) | 2:27 |
 | 284 | [SMOOTHED OUT](https://open.spotify.com/track/4bb0wTyPFSDswigkcr0RKZ) | [Chilltone](https://open.spotify.com/artist/2ORbG4SlyzHnrOdRJg1hxz) | [SMOOTHED OUT](https://open.spotify.com/album/7hMi9MGSoAekuLr1XEAAb2) | 2:48 |
 | 285 | [Chances](https://open.spotify.com/track/52b16TZeZzIu3KPQQUQK84) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [CHANCES](https://open.spotify.com/album/0XC1ksDBTcIoR3DmlecZaW) | 1:29 |
 | 286 | [Solar](https://open.spotify.com/track/0HlH9RWqLzlop5jeuNVlxV) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Solar](https://open.spotify.com/album/3Ffecx6cyJhztdHVkBs4nr) | 2:35 |

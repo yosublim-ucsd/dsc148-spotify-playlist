@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 84339,
+  "num_followers": 84394,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDAyNTIwMTNkMTZlNDdiZTc1OGFjNDhiNDU2YWM5YzI3NDQyNmVj",
+  "snapshot_id": "MCxlN2VjODAwNWUyNWNjYWZlZTZhMDZhY2VlODhjMDczN2ZiZThlMDFi",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -743,18 +743,22 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "I Left You In Minnesota",
-        "url": "https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP"
+        "name": "The Breakfast Club (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2kKR8sRKNRqlN8axIsAvnB"
       },
       "artists": [
         {
-          "name": "Pardyalone",
-          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+          "name": "POORSTACY",
+          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 164327,
-      "name": "She Likes My Tattoos",
-      "url": "https://open.spotify.com/track/00JNccokQDsIv4oqNlz3LC"
+      "duration_ms": 129339,
+      "name": "Choose Life (feat. Travis Barker)",
+      "url": "https://open.spotify.com/track/5jbjAmYTrF6ITa72YW8mFS"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -779,22 +783,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "The Breakfast Club (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2kKR8sRKNRqlN8axIsAvnB"
+        "name": "I Left You In Minnesota",
+        "url": "https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP"
       },
       "artists": [
         {
-          "name": "POORSTACY",
-          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
         }
       ],
-      "duration_ms": 129339,
-      "name": "Choose Life (feat. Travis Barker)",
-      "url": "https://open.spotify.com/track/5jbjAmYTrF6ITa72YW8mFS"
+      "duration_ms": 164327,
+      "name": "She Likes My Tattoos",
+      "url": "https://open.spotify.com/track/00JNccokQDsIv4oqNlz3LC"
     },
     {
       "added_at": "2022-08-16 22:06:35",

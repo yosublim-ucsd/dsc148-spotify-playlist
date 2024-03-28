@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 200480,
+  "num_followers": 200527,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGM1YTZkOTIwY2IzNGRmMmZlYmQwZGEyMDkyOTRlNjE5OWM4NTQ4",
+  "snapshot_id": "MCw2MjA0ZjVjYzg1ZDEzNjMzNjMxZjcwOTVjOTFhNzRjMWMxYzMzZjU5",
   "tracks": [
     {
       "added_at": "2024-03-21 23:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "The State of the World",
+        "url": "https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39"
+      },
+      "artists": [
+        {
+          "name": "Kalandra",
+          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+        }
+      ],
+      "duration_ms": 258880,
+      "name": "The State of the World",
+      "url": "https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "The Night Visitor",
         "url": "https://open.spotify.com/album/3n3p5tioTdiNksbGzTDImJ"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 283708,
       "name": "For Someone",
       "url": "https://open.spotify.com/track/4u42LckHYKddjPpUySqHnJ"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "The State of the World",
-        "url": "https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39"
-      },
-      "artists": [
-        {
-          "name": "Kalandra",
-          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
-        }
-      ],
-      "duration_ms": 258880,
-      "name": "The State of the World",
-      "url": "https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "Magic Chairs",
+        "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
+      },
+      "artists": [
+        {
+          "name": "Efterklang",
+          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+        }
+      ],
+      "duration_ms": 293760,
+      "name": "Modern Drift",
+      "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/2VKGfsdRfoQ9o8ci3TXzhx"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 222750,
       "name": "Departure",
       "url": "https://open.spotify.com/track/60jiLoF3SXocwFp0yTa9eZ"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Magic Chairs",
-        "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
-      },
-      "artists": [
-        {
-          "name": "Efterklang",
-          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
-        }
-      ],
-      "duration_ms": 293760,
-      "name": "Modern Drift",
-      "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
     },
     {
       "added_at": "2024-03-21 23:00:00",

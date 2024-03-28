@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é seu estilo ser original vocês já sabem\. Foto: Mc Luanna, Danzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,044 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,050 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 47 | [MÍDIA](https://open.spotify.com/track/5hMMfJWPMuGfOKiFpuOorM) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [MÍDIA](https://open.spotify.com/album/2UX0mWZIM4I258iEoefXjq) | 1:56 |
 | 48 | [Louis V](https://open.spotify.com/track/2zikGG28kMmAy13xQOYHPs) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Louis V](https://open.spotify.com/album/7gNGNQO10NyQPnq1ytUbLF) | 2:12 |
 | 49 | [Dias sem dormir](https://open.spotify.com/track/35rDOlA5PaPyboTNjIrXQ0) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Swxm](https://open.spotify.com/artist/0wjT2AitdI5hxU13J5Clo8), [Kustor](https://open.spotify.com/artist/01KhiXBvC4UaFIaTFrzgjx) | [EU VIM DE GR](https://open.spotify.com/album/2qNasWZDq8XQumAbiSuCOn) | 3:03 |
-| 50 | [TAMBOR](https://open.spotify.com/track/5I3fsOI8IJjOkmgqCyZVfY) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Diego Kairo](https://open.spotify.com/artist/6D0yjB3AE6xTi137BEQkWb), [L300](https://open.spotify.com/artist/0PVUOzL3xWKnD1lMEE3tPw), [FELINA](https://open.spotify.com/artist/3RwgTYuexocU1QLpiOhhNO), [RUI'f](https://open.spotify.com/artist/7eAOkFsB01T4iRqfC4cjH9), [Negrex](https://open.spotify.com/artist/3McCPdkvrYSgz1vzJgTVgl) | [ISSO Ñ É GPT](https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI) | 6:03 |
+| 50 | [TAMBOR](https://open.spotify.com/track/5I3fsOI8IJjOkmgqCyZVfY) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Diego Kairo](https://open.spotify.com/artist/6D0yjB3AE6xTi137BEQkWb), [L300](https://open.spotify.com/artist/0PVUOzL3xWKnD1lMEE3tPw), [FELINA](https://open.spotify.com/artist/3RwgTYuexocU1QLpiOhhNO), [RUI'f](https://open.spotify.com/artist/7eAOkFsB01T4iRqfC4cjH9), [Negrex](https://open.spotify.com/artist/3McCPdkvrYSgz1vzJgTVgl), [Slain Rúbia](https://open.spotify.com/artist/0PWSIUUy2RF5TYkx6JXoit) | [ISSO Ñ É GPT](https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI) | 6:03 |
 
-Snapshot ID: `MCwyYjJlYjAwODc5NzYyMDE1Mjk1NzEyZjg4YTI2MzdlZDc1MjBjZTE1`
+Snapshot ID: `MCw0MTk3NDZlYzRhYTJkYTJlYzg3MGFiNDQ0MGRhMjU3NTVjNWUyODM5`

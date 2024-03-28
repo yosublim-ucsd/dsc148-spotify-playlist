@@ -4,7 +4,7 @@
 
 > La liste de lecture officielle de l’édition 2023 des Francos de Montréal!
 
-320 songs - 18 hr 22 min
+321 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Dans l'bois](https://open.spotify.com/track/0LI89ikl3gcJpFepnrfr38) | [Édith Butler](https://open.spotify.com/artist/4AhQuJhnTP8pO6nlNhy0YL), [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Le tour du Grand Bois](https://open.spotify.com/album/22ZzGyaIz2MN4cJWfuNngW) | 3:35 | 2022-05-25 | 2023-04-13 |
 | [Dans l'sang](https://open.spotify.com/track/6sysCIlYo1j1TS0SkbIXLT) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Rap Queb Monuments](https://open.spotify.com/album/2pp3pSMIiaXswhgqfOp6I2) | 4:13 | 2023-04-12 |  |
 | [Danser](https://open.spotify.com/track/6AT0rc6dhB4f5cjULRyd7Z) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Danser](https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55) | 2:56 | 2023-05-25 |  |
-| [De Matane à Natashquan](https://open.spotify.com/track/6rykqHkuwL1s58P3LoqwD9) | [Phil G\. Smith](https://open.spotify.com/artist/6YpIE8UFTcFZ5eDQVCvwz9) | [On est encore là](https://open.spotify.com/album/5WrG6tjEad6q5cYJXuegQE) | 3:02 | 2023-05-25 |  |
+| [De Matane à Natashquan](https://open.spotify.com/track/65M222sgedKWdcKdDpWrWX) | [Phil G\. Smith](https://open.spotify.com/artist/6YpIE8UFTcFZ5eDQVCvwz9) | [On est encore là](https://open.spotify.com/album/36JqAK6msoqoKPAneZYGOj) | 3:02 | 2023-05-25 |  |
+| [De Matane à Natashquan](https://open.spotify.com/track/6rykqHkuwL1s58P3LoqwD9) | [Phil G\. Smith](https://open.spotify.com/artist/6YpIE8UFTcFZ5eDQVCvwz9) | [On est encore là](https://open.spotify.com/album/5WrG6tjEad6q5cYJXuegQE) | 3:02 | 2023-05-25 | 2024-03-28 |
 | [Demain](https://open.spotify.com/track/1h5MPkAA20QEPUhtgxKlf8) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Un homme et son piano](https://open.spotify.com/album/7mKgZN8UNAQEzhRQ2KQxcl) | 3:38 | 2022-05-25 | 2023-04-13 |
 | [Deux pieds dans la tombe](https://open.spotify.com/track/6rbzZ9CreR1hNoejCuOq5Z) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [América](https://open.spotify.com/album/7oUfp7K3bbzupkxaXBNtdi) | 3:28 | 2023-05-25 |  |
 | [Devil May Cry](https://open.spotify.com/track/3iw9cmv0VuAhwLI9HPkcx6) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti) | [Carnaval de Finesse 2 : Les Chroniques d'un Jeune Entrepreneur](https://open.spotify.com/album/6XHp29DWqSqCS2UIZislPO) | 2:42 | 2023-05-25 |  |

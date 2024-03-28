@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 122738,
+  "num_followers": 122779,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2NmZjNlZGZjNzcyNjVlZmY4MjJhYWE1ODRiNDNlMTkxZDljYjRk",
+  "snapshot_id": "MCxjOGRkYjNlMWNiMDQ1MzU0NGU5ZDQ0YmFlNGNlYTk4YmY4MjliMDQ1",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "No Hay Nada Imposible",
-        "url": "https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6"
-      },
-      "artists": [
-        {
-          "name": "Javier Maldonado",
-          "url": "https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76"
-        }
-      ],
-      "duration_ms": 295360,
-      "name": "Espiritu De Dios",
-      "url": "https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Mi Resurgimiento",
         "url": "https://open.spotify.com/album/5XKayUtzWsWH4VEciBqhEg"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 195459,
       "name": "Dependo de Ti",
       "url": "https://open.spotify.com/track/0OTp7O27Oz1hpBAPpAJVTe"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "No Hay Nada Imposible",
+        "url": "https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6"
+      },
+      "artists": [
+        {
+          "name": "Javier Maldonado",
+          "url": "https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76"
+        }
+      ],
+      "duration_ms": 295360,
+      "name": "Espiritu De Dios",
+      "url": "https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV"
     },
     {
       "added_at": "2020-09-18 05:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: Drahla",
-  "num_followers": 450215,
+  "num_followers": 450179,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTZlZGM0ODUxZTc0ZmQ5OGRjMTFmMTljNWQzMTY2ZDYzZmM1MDE2",
+  "snapshot_id": "MCxjY2Q3YjQ4Y2Q1OTNjYmY3MDczYzc1MjQ3ZjNkYTZjYzU5NzRmYzFm",
   "tracks": [
     {
       "added_at": "2024-03-15 12:00:00",
@@ -107,18 +107,18 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+        "name": "Big Blind",
+        "url": "https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm"
       },
       "artists": [
         {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
         }
       ],
-      "duration_ms": 176805,
-      "name": "Tear Me to Pieces",
-      "url": "https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g"
+      "duration_ms": 144986,
+      "name": "Big Blind",
+      "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -139,18 +139,18 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Big Blind",
-        "url": "https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm"
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
       "artists": [
         {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 144986,
-      "name": "Big Blind",
-      "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
+      "duration_ms": 176805,
+      "name": "Tear Me to Pieces",
+      "url": "https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "You're My Medicine",
-        "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
-      },
-      "artists": [
-        {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
-        }
-      ],
-      "duration_ms": 192682,
-      "name": "You're My Medicine",
-      "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "Sanguivore",
         "url": "https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 267864,
       "name": "Cry To Heaven",
       "url": "https://open.spotify.com/track/1iNKQ8LIG4OVFK3o9vmmUY"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "You're My Medicine",
+        "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 192682,
+      "name": "You're My Medicine",
+      "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK"
-      },
-      "artists": [
-        {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
-        }
-      ],
-      "duration_ms": 165393,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "Resolution/Revolution",
         "url": "https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 202992,
       "name": "Resolution/Revolution",
       "url": "https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 165393,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "I Gotta Feeling",
-        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 197648,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "Des Goblin",
         "url": "https://open.spotify.com/album/1ln1r9VxOpYkRve5YWt2iB"
       },
@@ -799,22 +783,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "What A Fucking Nightmare",
-        "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
-      },
-      "artists": [
-        {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
-        }
-      ],
-      "duration_ms": 216618,
-      "name": "Cuts Like A Knife",
-      "url": "https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "Gonna Get Better",
         "url": "https://open.spotify.com/album/7xla3BNE9X4zRZfu0iwezN"
       },
@@ -827,6 +795,38 @@
       "duration_ms": 195694,
       "name": "Gonna Get Better",
       "url": "https://open.spotify.com/track/3lnKBvycf8vphhmpvhruNI"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "I Gotta Feeling",
+        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "What A Fucking Nightmare",
+        "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
+      },
+      "artists": [
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "duration_ms": 216618,
+      "name": "Cuts Like A Knife",
+      "url": "https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Invite me, kindly",
-        "url": "https://open.spotify.com/album/77D1XYQxm5bRFsiWUNTXal"
-      },
-      "artists": [
-        {
-          "name": "HotWax",
-          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
-        }
-      ],
-      "duration_ms": 176933,
-      "name": "High Tea",
-      "url": "https://open.spotify.com/track/2jpkUfj8a8G32DzsIYXxHM"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "Roll With It",
         "url": "https://open.spotify.com/album/4CpQRht0zS8BLLNk78dr0W"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 215760,
       "name": "Roll With It",
       "url": "https://open.spotify.com/track/3xHgszDlff5N2EOZWWWcAy"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "Invite me, kindly",
+        "url": "https://open.spotify.com/album/77D1XYQxm5bRFsiWUNTXal"
+      },
+      "artists": [
+        {
+          "name": "HotWax",
+          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
+        }
+      ],
+      "duration_ms": 176933,
+      "name": "High Tea",
+      "url": "https://open.spotify.com/track/2jpkUfj8a8G32DzsIYXxHM"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO"
-      },
-      "artists": [
-        {
-          "name": "HotWax",
-          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
-        }
-      ],
-      "duration_ms": 191106,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "Unlike Me",
         "url": "https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT"
       },
@@ -1175,22 +1159,6 @@
       "duration_ms": 188000,
       "name": "Unlike Me",
       "url": "https://open.spotify.com/track/20u6KgvQdfV3gnQDJ8ilMw"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
-        "name": "Kids Wanna Dance",
-        "url": "https://open.spotify.com/album/4yh3NxpgLVxDac62H6sGDS"
-      },
-      "artists": [
-        {
-          "name": "Gen and the Degenerates",
-          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
-        }
-      ],
-      "duration_ms": 204480,
-      "name": "Kids Wanna Dance",
-      "url": "https://open.spotify.com/track/3elBHbeIPKuWTuflsA8tFw"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -1227,6 +1195,22 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO"
+      },
+      "artists": [
+        {
+          "name": "HotWax",
+          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
+        }
+      ],
+      "duration_ms": 191106,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
         "name": "MK Nothing",
         "url": "https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "The Heart",
-        "url": "https://open.spotify.com/album/3tEiKAfyGmPod4qyZc9IDi"
+        "name": "Kids Wanna Dance",
+        "url": "https://open.spotify.com/album/4yh3NxpgLVxDac62H6sGDS"
       },
       "artists": [
         {
-          "name": "Lip Critic",
-          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
         }
       ],
-      "duration_ms": 155415,
-      "name": "The Heart",
-      "url": "https://open.spotify.com/track/6lP16B6cMgkRmqXDzZNh0N"
+      "duration_ms": 204480,
+      "name": "Kids Wanna Dance",
+      "url": "https://open.spotify.com/track/3elBHbeIPKuWTuflsA8tFw"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -1287,6 +1271,22 @@
       "duration_ms": 198000,
       "name": "Fingernails",
       "url": "https://open.spotify.com/track/5SYxTY6mv8cUKUsTJk1jAD"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "The Heart",
+        "url": "https://open.spotify.com/album/3tEiKAfyGmPod4qyZc9IDi"
+      },
+      "artists": [
+        {
+          "name": "Lip Critic",
+          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
+        }
+      ],
+      "duration_ms": 155415,
+      "name": "The Heart",
+      "url": "https://open.spotify.com/track/6lP16B6cMgkRmqXDzZNh0N"
     },
     {
       "added_at": "2024-03-15 12:00:00",

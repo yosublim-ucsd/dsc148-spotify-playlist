@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: FAST BOY, R3HAB
 
-1,140 songs - 2 day 4 hr 28 min
+1,141 songs - 2 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,8 @@
 | [Hated On \(Funkatron\)](https://open.spotify.com/track/0BGMkKTFjUrznBsbpnqsQt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [Hated On \(Funkatron\)](https://open.spotify.com/album/65z5rSxOEzyMFdu6FbGCOO) | 3:07 | 2024-01-18 | 2024-02-02 |
 | [HDGDL](https://open.spotify.com/track/5Hli80QVOsrEZzHB3NYHU9) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [MYT](https://open.spotify.com/artist/49zauyREeS0BA9layn9e6j) | [HDGDL](https://open.spotify.com/album/5oYnxFDtgTSWAcnvpnqA5l) | 2:11 | 2024-02-22 | 2024-03-01 |
 | [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 | 2023-12-29 | 2024-01-19 |
-| [Head Down \- BENNETT Remix](https://open.spotify.com/track/5ChmudcvV29aaDtUb3PnLr) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Head Down \(Remix Pack\)](https://open.spotify.com/album/6t3zHEWBg99jS3dv0K07QE) | 2:37 | 2024-03-07 |  |
+| [Head Down \- BENNETT Remix](https://open.spotify.com/track/5ChmudcvV29aaDtUb3PnLr) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Head Down \(Remix Pack\)](https://open.spotify.com/album/6t3zHEWBg99jS3dv0K07QE) | 2:37 | 2024-03-07 | 2024-03-28 |
+| [Head Down \- BENNETT Remix](https://open.spotify.com/track/64jPzU7ggkxKHzgKFgnXPF) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Head Down \(Remix Pack\)](https://open.spotify.com/album/5fSB7APCR8tXYEaHwpRiic) | 2:37 | 2024-03-22 |  |
 | [Head Up](https://open.spotify.com/track/3zieOwCrap1s2sIpxWlx92) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/7FQA4DGX7aIfT8b8f8GVhp) | 3:09 | 2024-02-08 | 2024-02-16 |
 | [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 | 2024-01-25 | 2024-01-30 |
 | [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 | 2024-01-26 | 2024-02-09 |

@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。Cover: This Is LAST
 
-604 songs - 1 day 12 hr 53 min
+605 songs - 1 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,7 +592,8 @@
 | [赤い糸](https://open.spotify.com/track/3IyRJqEMThCTZ5BNuxesYt) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [赤い糸](https://open.spotify.com/album/3CSyfOS8nAynjTrDuNsHyr) | 3:22 | 2023-11-28 | 2023-12-06 |
 | [足りないくらいがちょうどいい](https://open.spotify.com/track/1KzqFsguec79BMBJ5eG4M6) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [足りないくらいがちょうどいい](https://open.spotify.com/album/3o9xBUEP8K9RCApLjEmr5b) | 2:35 | 2023-11-05 |  |
 | [輝夜姫](https://open.spotify.com/track/4FctVxLuE6HZnwpxlUgIXk) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [月で読む絵本](https://open.spotify.com/album/1Q2qFAU6h1cp6YYHt1utxr) | 3:29 | 2023-12-05 | 2023-12-07 |
-| [近年、平和な日々が続いたせいで](https://open.spotify.com/track/0vIHpcdQp2oWWOijs82reu) | [Hwyl](https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC) | [近年、平和な日々が続いたせいで](https://open.spotify.com/album/67DxXq2OiiHs8OS0L5hlZn) | 3:39 | 2024-03-19 |  |
+| [近年、平和な日々が続いたせいで](https://open.spotify.com/track/0ZD6Jt4hVNerQFJFezQU3k) | [Hwyl](https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC) | [近年、平和な日々が続いたせいで](https://open.spotify.com/album/6de8j6rMIzRDoyQXhRTF9V) | 3:39 | 2024-03-26 |  |
+| [近年、平和な日々が続いたせいで](https://open.spotify.com/track/0vIHpcdQp2oWWOijs82reu) | [Hwyl](https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC) | [近年、平和な日々が続いたせいで](https://open.spotify.com/album/67DxXq2OiiHs8OS0L5hlZn) | 3:39 | 2024-03-19 | 2024-03-28 |
 | [退屈日和](https://open.spotify.com/track/1SANS0ANduqRipbtBBozqk) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [君と暮らしの真ん中で](https://open.spotify.com/album/6OYxxPsxVd5R0dWQ8Lql5z) | 3:41 | 2023-10-03 | 2023-10-05 |
 | [過呼吸愛](https://open.spotify.com/track/2JPnyNJbfwBac5ij3jHaj2) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [羽化](https://open.spotify.com/album/2AbNjfO01Yyyeew0oYsHNR) | 2:25 | 2023-08-29 |  |
 | [道の途中](https://open.spotify.com/track/03V3gmMDZZa8U3CGXTEOsu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [道の途中](https://open.spotify.com/album/2I2XSTxcPhYvozdRWKswAj) | 4:05 | 2023-08-22 | 2023-10-09 |

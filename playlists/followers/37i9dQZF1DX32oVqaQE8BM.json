@@ -1,9 +1,27 @@
 {
-  "2024-03-27": 769777,
+  "2024-03-28": 769799,
   "date_first_scraped": "2021-12-21",
   "description": "The ultimate chill out playlist.",
   "name": "Chill Out Music",
   "tracks": [
+    {
+      "album": {
+        "name": "#5 Bus",
+        "url": "https://open.spotify.com/album/0Vdl4Vtwcw3XixkibmqXBm"
+      },
+      "artists": [
+        {
+          "name": "Kayyyy",
+          "url": "https://open.spotify.com/artist/5g4nLwrKsbQSYCI4AXhsTJ"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169046,
+      "name": "#5 Bus",
+      "url": "https://open.spotify.com/track/05XbhzXuCNqmmOxTBCi01M"
+    },
     {
       "album": {
         "name": "12am",
@@ -2362,6 +2380,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/2m0sbRXIWEnAopuAf63GbT"
+      },
+      "artists": [
+        {
+          "name": "Mygg An",
+          "url": "https://open.spotify.com/artist/1YaivDyy6lgWBZF6fQfuRz"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134705,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/66fMfoqInk5U2fwhMHgnGR"
+    },
+    {
+      "album": {
         "name": "dreams and demons",
         "url": "https://open.spotify.com/album/3n246J1Sjq9xfplFJFBlFU"
       },
@@ -3536,6 +3572,24 @@
     },
     {
       "album": {
+        "name": "Glowing Bay",
+        "url": "https://open.spotify.com/album/0Gf87FTCKvYoY1tKUaXLEg"
+      },
+      "artists": [
+        {
+          "name": "Thief Traveler",
+          "url": "https://open.spotify.com/artist/4mrLTjLmGbyjfZHuQytlq0"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Glowing Bay",
+      "url": "https://open.spotify.com/track/6oEyetJ43K8dbu6VenlPxU"
+    },
+    {
+      "album": {
         "name": "go back to sleep",
         "url": "https://open.spotify.com/album/0IqthodrjaI1HGLjF8gM7e"
       },
@@ -4181,6 +4235,24 @@
       "duration_ms": 141407,
       "name": "idle",
       "url": "https://open.spotify.com/track/6zlQDUZVrxyv8hYl6SXI6j"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/1yXoDOS7MEiQXozSoMxArl"
+      },
+      "artists": [
+        {
+          "name": "Lewisham",
+          "url": "https://open.spotify.com/artist/4FY7PiiJHfUCxV4EeFZJFS"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132244,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6Cw5spV9WireahqbLMsbUR"
     },
     {
       "album": {
@@ -4891,6 +4963,24 @@
       "duration_ms": 172904,
       "name": "lipshells",
       "url": "https://open.spotify.com/track/2nfYoMN2329hAlwbPhVJuf"
+    },
+    {
+      "album": {
+        "name": "Little Moon Boy",
+        "url": "https://open.spotify.com/album/1M27dn1O8wSJg6djBWZmtR"
+      },
+      "artists": [
+        {
+          "name": "niitoo",
+          "url": "https://open.spotify.com/artist/51MgdPvDhbrdA9vZQqxgBO"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159391,
+      "name": "Little Moon Boy",
+      "url": "https://open.spotify.com/track/3D71qeEcBZq7jmniL0nbvB"
     },
     {
       "album": {
@@ -9897,6 +9987,24 @@
       "duration_ms": 132692,
       "name": "volcano view",
       "url": "https://open.spotify.com/track/4yNCMQjKFCYLhLolCByf9r"
+    },
+    {
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/1rsR6Lt6I0bEx0gJ5WvGiU"
+      },
+      "artists": [
+        {
+          "name": "Sinee",
+          "url": "https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/7wUs6zZsbZ5Aluv8Vq2bij"
     },
     {
       "album": {

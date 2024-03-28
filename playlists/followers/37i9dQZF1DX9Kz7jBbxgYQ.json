@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 148749,
+  "2024-03-28": 148880,
   "date_first_scraped": "2022-05-30",
   "description": "Home to the best of South Asian Indie scene. Cover: Aashir Wajahat",
   "name": "Desi Indie",
@@ -4775,10 +4775,32 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 255764,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/0hOqMsscursarJjpcMgGgu"
+    },
+    {
+      "album": {
+        "name": "Day 5",
+        "url": "https://open.spotify.com/album/0i6ojSzvOTKDj9u7jgwzeg"
+      },
+      "artists": [
+        {
+          "name": "Hassan & Roshaan",
+          "url": "https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7"
+        },
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255764,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/3DBCCSY8ys75I4T8iK2TTA"
     },
     {
       "album": {

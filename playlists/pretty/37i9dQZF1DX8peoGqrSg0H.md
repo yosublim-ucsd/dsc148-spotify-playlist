@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: GEMINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,940 likes - 65 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,005 likes - 65 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [Life Boy \(พูดไปก็ไลฟ์บอย\)](https://open.spotify.com/track/6PBIcQaSWsv3EBExPSk9H3) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Life Boy \(พูดไปก็ไลฟ์บอย\)](https://open.spotify.com/album/5jteqptiESbFUa4kEPwiqK) | 3:20 |
 | 65 | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/track/2vQjt6vAghkAHa5WObuF2W) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/album/1XtKXmvNFMiuGJZ4vsxmVZ) | 3:43 |
 
-Snapshot ID: `MCxjOWYzMTVmMmU4OWIzYzIzYWM1NTFhODg3NjZjMTk1YWUzMTgwYWEy`
+Snapshot ID: `MCwyOWU5YTA1ZGEzYWY0ZDIyNzc0Y2YyMGI2OTc0YjJiODJhMjM5NzRj`

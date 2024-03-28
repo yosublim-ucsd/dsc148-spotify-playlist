@@ -1,12 +1,12 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 27772,
+  "num_followers": 27786,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2RkNWRlOThkYzM3NjRjNTI0MmQxZTBiZjBmMzJlMGQxYmI1MGRl",
+  "snapshot_id": "MCxjZmIxYmI4ZGM5NmJiNTU0YjEwNmU1NGFhYTM1NmQxNDk4ZWQxYTQx",
   "tracks": [
     {
       "added_at": "2024-03-21 23:00:00",
@@ -180,7 +180,7 @@
       "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "In Memory Of Some Stand Up Guys (Private Collection)",
-        "url": "https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH"
+        "url": "https://open.spotify.com/album/6JYg8ZoDwgKL20qLy10SW8"
       },
       "artists": [
         {
@@ -190,7 +190,7 @@
       ],
       "duration_ms": 144000,
       "name": "BELLA",
-      "url": "https://open.spotify.com/track/1AuKZFNQfIKdwR2LngeNjD"
+      "url": "https://open.spotify.com/track/7kDWqdkbVoSWkb93NELVae"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -599,6 +599,26 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "Amok",
+        "url": "https://open.spotify.com/album/5ttbRoMLEEuYmx7UFkzHAy"
+      },
+      "artists": [
+        {
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        },
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 125878,
+      "name": "Amok",
+      "url": "https://open.spotify.com/track/0k3MPCBFxebrct6NxH3kCY"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Come Alive",
         "url": "https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R"
       },
@@ -611,30 +631,6 @@
       "duration_ms": 166216,
       "name": "WAKA WAKA",
       "url": "https://open.spotify.com/track/2g6O4J9ktUjorMkgyhglYP"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "YOUNG THUG P\u00c5 1M",
-        "url": "https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby"
-      },
-      "artists": [
-        {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        },
-        {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
-        },
-        {
-          "name": "DAN",
-          "url": "https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp"
-        }
-      ],
-      "duration_ms": 145797,
-      "name": "YOUNG THUG P\u00c5 1M",
-      "url": "https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -675,6 +671,30 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "YOUNG THUG P\u00c5 1M",
+        "url": "https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "DAN",
+          "url": "https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp"
+        }
+      ],
+      "duration_ms": 145797,
+      "name": "YOUNG THUG P\u00c5 1M",
+      "url": "https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "BLANCO",
         "url": "https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2"
       },
@@ -695,22 +715,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Holy Father",
-        "url": "https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu"
-      },
-      "artists": [
-        {
-          "name": "Ricky Rich",
-          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
-        }
-      ],
-      "duration_ms": 158035,
-      "name": "Holy Father",
-      "url": "https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Sommerhus",
         "url": "https://open.spotify.com/album/1xzkyK5V6Q6PXMdJzLtW3y"
       },
@@ -723,6 +727,22 @@
       "duration_ms": 141714,
       "name": "Sommerhus",
       "url": "https://open.spotify.com/track/08dWbd4W1hhUusqsJ7zk2J"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Holy Father",
+        "url": "https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu"
+      },
+      "artists": [
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        }
+      ],
+      "duration_ms": 158035,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -743,22 +763,18 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Amok",
-        "url": "https://open.spotify.com/album/5ttbRoMLEEuYmx7UFkzHAy"
+        "name": "Best\u00e4mda Kliv",
+        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
       },
       "artists": [
         {
-          "name": "Broiler",
-          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
-        },
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
         }
       ],
-      "duration_ms": 125878,
-      "name": "Amok",
-      "url": "https://open.spotify.com/track/0k3MPCBFxebrct6NxH3kCY"
+      "duration_ms": 123169,
+      "name": "K\u00e4nslokall",
+      "url": "https://open.spotify.com/track/0XYJmQjglYGEYTAipk9uVQ"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -775,22 +791,6 @@
       "duration_ms": 173131,
       "name": "Gas",
       "url": "https://open.spotify.com/track/77T996JlKleOyB1RAchTQr"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Best\u00e4mda Kliv",
-        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 123169,
-      "name": "K\u00e4nslokall",
-      "url": "https://open.spotify.com/track/0XYJmQjglYGEYTAipk9uVQ"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Sprite",
-        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 165570,
-      "name": "Sprite",
-      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "L\u00f8sningsorienterte",
         "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 173465,
       "name": "L\u00f8sningsorienterte",
       "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Sprite",
+        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "duration_ms": 165570,
+      "name": "Sprite",
+      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Det Regner Penger (Allez Allez)",
-        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
-      },
-      "artists": [
-        {
-          "name": "AVGVSTVS",
-          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
-        }
-      ],
-      "duration_ms": 93830,
-      "name": "Det Regner Penger (Allez Allez)",
-      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Mariachi",
         "url": "https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 162857,
       "name": "Mariachi",
       "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Det Regner Penger (Allez Allez)",
+        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
+      },
+      "artists": [
+        {
+          "name": "AVGVSTVS",
+          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
+        }
+      ],
+      "duration_ms": 93830,
+      "name": "Det Regner Penger (Allez Allez)",
+      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
     },
     {
       "added_at": "2024-03-21 23:00:00",

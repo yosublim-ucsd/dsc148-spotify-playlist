@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 52,
+  "2024-03-28": 52,
   "date_first_scraped": "2022-09-17",
   "description": "This is Salt Creek. The essential tracks, all in one playlist.",
   "name": "This Is Salt Creek",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 320320,
       "name": "Destroy",
       "url": "https://open.spotify.com/track/5GMsUTlHVuuKF08zW6zQ5g"

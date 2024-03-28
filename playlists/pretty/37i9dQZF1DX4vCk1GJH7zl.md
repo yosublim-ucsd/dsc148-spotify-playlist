@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bon Jovi
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,744 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,806 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 74 | [Quem Me Dera](https://open.spotify.com/track/6NqgtbC5WuR20UKSnDCsQ2) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [Invernia](https://open.spotify.com/album/6aICwiB8bpY0ZA409IIfdx) | 3:30 |
 | 75 | [Que Haja Amor \- Ao Vivo](https://open.spotify.com/track/0QNtVyOxfVs8qUcTzB3nz8) | [Delittus](https://open.spotify.com/artist/3jGgAV4HKOqvQcOEdK4yer), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Delittus 15 Anos \(Ao Vivo\)](https://open.spotify.com/album/0o1b8zCvsWHiakPhlC0YJY) | 4:46 |
 
-Snapshot ID: `MCwzNDNlMzI4ZTBkYTAzYzc1NmRjYjk1MmU3YWYzZWI1ZGYxZjE5ZDAx`
+Snapshot ID: `MCw1NmM1MDIwMGUxYWUwM2Y3NTQ2N2RiZjQ0MGNlY2ZlZDU3ZWE5N2M3`

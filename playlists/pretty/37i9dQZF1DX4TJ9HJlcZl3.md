@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,983 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,989 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 3 | [Peach Optimo](https://open.spotify.com/track/3RNLKLJyNYLh9t6ojhxN7B) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Peach Optimo](https://open.spotify.com/album/3Thk2OpOq4xLIg3Qmetarj) | 2:50 |
 | 4 | [Wherever I Go \(feat\. Lawrence & Michael McDonald\)](https://open.spotify.com/track/77PlrIDSmmWwCj7vgNQiR4) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Wherever I Go \(feat\. Lawrence & Michael McDonald\)](https://open.spotify.com/album/3urTyQXxwNAcuNmQa5Xho3) | 2:46 |
 | 5 | [Mango](https://open.spotify.com/track/4teEHZgbLfOIHJ3jrgzPlT) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Loneliness Confetti](https://open.spotify.com/album/0Cinqm0u7kj6hQc1CIFjxu) | 3:15 |
-| 6 | [One Bedroom Apartment](https://open.spotify.com/track/6XEuXtDnH3s42tXRYdowaA) | [MAXN](https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL) | [One Bedroom Apartment](https://open.spotify.com/album/5lcxvlwmGlB8J7k8W269im) | 3:36 |
+| 6 | [One Bedroom Apartment](https://open.spotify.com/track/3mObCivWwBNhjGn1lNqtk2) | [MAXN](https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL) | [Mirror In a Gold Mine](https://open.spotify.com/album/1kOf4AbczjMcNaRMb4HiVN) | 3:36 |
 | 7 | [Sleeptalking](https://open.spotify.com/track/0e5GmXWvSKnngHSD8X7jir) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Sleeptalking](https://open.spotify.com/album/0XRYj8uyEJMzUKM60gZjAP) | 3:00 |
 | 8 | [What a Mess](https://open.spotify.com/track/0Nh1lcfO370r4RbnbHyI0u) | [Zachary Austin](https://open.spotify.com/artist/4dACqKiAumlZz4e7g05BUx), [Offghost](https://open.spotify.com/artist/5idpy1lojocVoblo9y9nan), [Barb](https://open.spotify.com/artist/2AKn3QitGXoKeodTlARfxe) | [What a Mess](https://open.spotify.com/album/4g6ZTv4RiQfcbrwZX9Xwnd) | 3:27 |
 | 9 | [On The Line](https://open.spotify.com/track/7l25I7cYjeUZVKXDOaDPQP) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO), [Maya Killtron](https://open.spotify.com/artist/00kg3zOGx3pJytYkDxK0q2) | [On The Line](https://open.spotify.com/album/55V67H6MNzcqy5hiYRQQZB) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 49 | [15th Floor](https://open.spotify.com/track/14NAPaeP9jPGkWXso4J23B) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [15th Floor](https://open.spotify.com/album/3jOCHftuZiA1w54yvVHP8h) | 4:30 |
 | 50 | [Clear](https://open.spotify.com/track/6OyjHEusfnpjMxewx4msTA) | [Hush Moss](https://open.spotify.com/artist/1GHJ2yDZhTLodOfqimd6ZK) | [Clear](https://open.spotify.com/album/0H5PiJtK74cXzs4A1HDmeR) | 4:02 |
 
-Snapshot ID: `MCw4NjgxZmRlZGZmMTExOGQ0ZjgxOGY1MzI2OWVmMDkyNTI2ZjRkMDZj`
+Snapshot ID: `MCxhMzM0NjkzMGI1MjQ4NzE5Zjc3ZDZjZmFkODUxOTk1ZTE2MTZiYTRi`

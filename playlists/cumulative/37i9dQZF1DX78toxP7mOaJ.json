@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock from independent artists every Wednesday. Cover: Thank You, I'm Sorry",
+  "description": "Fresh rock from independent artists every Wednesday. Cover: mary in the junkyard",
   "name": "Fresh Finds Rock ",
   "tracks": [
     {
@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 275546,
       "name": "AFV",
       "url": "https://open.spotify.com/track/6V4YtTp7J3PrDHXvSZgH4n"
@@ -3617,6 +3617,24 @@
     },
     {
       "album": {
+        "name": "My Life In Subtitles",
+        "url": "https://open.spotify.com/album/7sWgC3VwEkJ1NDghlHxGNc"
+      },
+      "artists": [
+        {
+          "name": "Carpool",
+          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172893,
+      "name": "Can We Just Get High?",
+      "url": "https://open.spotify.com/track/2TOgSScrpcnSZeihmZRn93"
+    },
+    {
+      "album": {
         "name": "Can You Feel The Weight?",
         "url": "https://open.spotify.com/album/6c2J1w8fqcTjkR75YqEYGE"
       },
@@ -3744,6 +3762,24 @@
       "duration_ms": 227835,
       "name": "Can't Wait",
       "url": "https://open.spotify.com/track/3GEhHEU3nkK2vGFqmKWKc3"
+    },
+    {
+      "album": {
+        "name": "can't you see",
+        "url": "https://open.spotify.com/album/7v4ZAQ0xLfnCnTkKT03Pan"
+      },
+      "artists": [
+        {
+          "name": "Lucian Rice",
+          "url": "https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227812,
+      "name": "can't you see",
+      "url": "https://open.spotify.com/track/26wee6L2Iv9SATnmDTQrkE"
     },
     {
       "album": {
@@ -5064,6 +5100,28 @@
       "duration_ms": 193783,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/6ilStGJwy7nzQe2HqKjeik"
+    },
+    {
+      "album": {
+        "name": "Cruise",
+        "url": "https://open.spotify.com/album/7Ks5QNF8Ea61IGRbzJVfwA"
+      },
+      "artists": [
+        {
+          "name": "Oscar Louis",
+          "url": "https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK"
+        },
+        {
+          "name": "Chris Vincent",
+          "url": "https://open.spotify.com/artist/2TP5gePc0SBG8sOpRp8ymQ"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163914,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/2HxGutaMBJvIF8qRh3yBjl"
     },
     {
       "album": {
@@ -6486,7 +6544,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 268466,
       "name": "Double Vision",
       "url": "https://open.spotify.com/track/5WMHKJaKkfVI1BRzrbgWgs"
@@ -7408,7 +7466,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 246138,
       "name": "FAKE",
       "url": "https://open.spotify.com/track/5izbDKoLGNuEiRFEut2qb1"
@@ -8438,7 +8496,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 138786,
       "name": "Funny",
       "url": "https://open.spotify.com/track/1XTj67GksyndBxsKAZuOxj"
@@ -8690,7 +8748,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 246909,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
@@ -9912,7 +9970,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 232073,
       "name": "Here",
       "url": "https://open.spotify.com/track/1IfQ5kpNLdyejFMB28CEzO"
@@ -10006,7 +10064,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 108283,
       "name": "HEY WHAT'S HAPPENIN?",
       "url": "https://open.spotify.com/track/1JoGT0DC76LoABejDyTpz2"
@@ -10510,10 +10568,28 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 208747,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/2HtXypOaDQhfWG1sKrjN0f"
+    },
+    {
+      "album": {
+        "name": "Hot Dad",
+        "url": "https://open.spotify.com/album/5uzhDex7buzldzMyTB7aFL"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204960,
+      "name": "Hot Dad",
+      "url": "https://open.spotify.com/track/0qxQ9DltFW338AF9yKYKNp"
     },
     {
       "album": {
@@ -12699,6 +12775,24 @@
     },
     {
       "album": {
+        "name": "LEECH",
+        "url": "https://open.spotify.com/album/6qJXVTsKChoeFsnatk18th"
+      },
+      "artists": [
+        {
+          "name": "MNYS",
+          "url": "https://open.spotify.com/artist/4ymdwRD5Aq27CugmxZFJv0"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199411,
+      "name": "LEECH",
+      "url": "https://open.spotify.com/track/63Zv4a3NnCYzxA6OxIaFyG"
+    },
+    {
+      "album": {
         "name": "PRINCE OF THE UNDERGROUND",
         "url": "https://open.spotify.com/album/2VIABGmLDRn9twkThfT8Yz"
       },
@@ -13801,6 +13895,24 @@
     },
     {
       "album": {
+        "name": "marble arch",
+        "url": "https://open.spotify.com/album/2aWNuYIUpxgS5ybXek6d0a"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296636,
+      "name": "marble arch",
+      "url": "https://open.spotify.com/track/3gIC7qzRoxiDpYo0ymjZS0"
+    },
+    {
+      "album": {
         "name": "Mark Mothersbaugh Alterego",
         "url": "https://open.spotify.com/album/47RiulSgSCvFPbzp11Qkf9"
       },
@@ -14486,6 +14598,24 @@
       "duration_ms": 254858,
       "name": "Mother",
       "url": "https://open.spotify.com/track/5XmRdFUYTxDdEYXyz2HYJx"
+    },
+    {
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/24y1XFeOlxc3O2AEkoeYt8"
+      },
+      "artists": [
+        {
+          "name": "Girl and Girl",
+          "url": "https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241675,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/72sD1izeWWCbeD9mao5PXz"
     },
     {
       "album": {
@@ -17156,7 +17286,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 195767,
       "name": "Puppy",
       "url": "https://open.spotify.com/track/6lKPZsX33G9uTJ3mDU3pVB"
@@ -17484,7 +17614,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 191053,
       "name": "Rearview",
       "url": "https://open.spotify.com/track/0eQEiz74qCxTqbprWu03og"
@@ -18764,6 +18894,24 @@
       "duration_ms": 190867,
       "name": "Shapes",
       "url": "https://open.spotify.com/track/1ca1NzHafMzPWubaf5zUtB"
+    },
+    {
+      "album": {
+        "name": "She Plays The Theremin",
+        "url": "https://open.spotify.com/album/18Y1Q9Uh2yvnzHv7YPDEgl"
+      },
+      "artists": [
+        {
+          "name": "Balancing Act",
+          "url": "https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191204,
+      "name": "She Plays The Theremin",
+      "url": "https://open.spotify.com/track/35JhEm6WDM1MZmhi9hHbTp"
     },
     {
       "album": {
@@ -22189,6 +22337,24 @@
     },
     {
       "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/32HLALhFpSlyLSVMWYAaMc"
+      },
+      "artists": [
+        {
+          "name": "Native Sun",
+          "url": "https://open.spotify.com/artist/4brVz68WvAaXknF2qhCjOm"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189111,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/4GdkBsqaIopybSiKDnuUSH"
+    },
+    {
+      "album": {
         "name": "Took My Time",
         "url": "https://open.spotify.com/album/0zIgcRJ7HsQNk0s8KjBHHp"
       },
@@ -23855,6 +24021,24 @@
     },
     {
       "album": {
+        "name": "Thanks So Much",
+        "url": "https://open.spotify.com/album/2Wci0uRKwLR63NcvHg0vIU"
+      },
+      "artists": [
+        {
+          "name": "Cusp",
+          "url": "https://open.spotify.com/artist/07nDyiBj44NtwrqJJ54Or8"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296654,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/4mkSG5c6ardiiybPXUF5AQ"
+    },
+    {
+      "album": {
         "name": "split death",
         "url": "https://open.spotify.com/album/2ZCOtfUpCr3DA9bLtLx7NU"
       },
@@ -24354,7 +24538,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 200803,
       "name": "you were right",
       "url": "https://open.spotify.com/track/4B0JJwH5FKz3tslJ5Soi6y"

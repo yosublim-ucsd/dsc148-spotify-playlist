@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Super Napkin
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,730 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,736 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 59 | [Ghosts](https://open.spotify.com/track/1a8Krrol95IhEDLZtutEIB) | [潘PAN](https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo) | [Ghosts](https://open.spotify.com/album/3KROcodSwLEuPTUWItvY98) | 3:08 |
 | 60 | [Side2Side \(feat\. Kris Kiss\)](https://open.spotify.com/track/4fW6SaZcLGqorpZ8iORrNt) | [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Side2Side \(feat\. Kris Kiss\)](https://open.spotify.com/album/0XkB0bCvalhDWuiG5Cqdnr) | 1:57 |
 
-Snapshot ID: `MCw3YzRhYzEwOWE3MzU2MzNiOGNiMjU2Y2E3N2FhOWViYWQ3ZGE5YzAy`
+Snapshot ID: `MCxjZjc2NjgwMzA2NjgzNDc5ODk4NmE1MWEyMDFmMGI1NDgwNGI2MmYx`

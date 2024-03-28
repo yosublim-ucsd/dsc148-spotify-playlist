@@ -1,13 +1,77 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Temm. Artwork by Paola Saliby",
-  "num_followers": 207964,
+  "description": "The best new pop music by independent artists and labels. Cover: Hana Effron. Artwork by Paola Saliby",
+  "num_followers": 208109,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzNkOTUwOGZmNzdhNzMzZTNjY2FkNGY3Yzk1MDI4ZDRjMDhiY2Zi",
+  "snapshot_id": "MCxiZWEzMGVmM2EyZDc4YTRlN2YyMjM4NjA3N2UwYTNlYzI5Nzk4M2Zh",
   "tracks": [
+    {
+      "added_at": "2024-03-27 04:00:00",
+      "album": {
+        "name": "Let's Talk",
+        "url": "https://open.spotify.com/album/2nv51HjRu41tXOxsJXk3NO"
+      },
+      "artists": [
+        {
+          "name": "Hana Effron",
+          "url": "https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj"
+        }
+      ],
+      "duration_ms": 233610,
+      "name": "Let's Talk",
+      "url": "https://open.spotify.com/track/0yU9AgZHHg4aolSwz3eQYy"
+    },
+    {
+      "added_at": "2024-03-27 04:00:00",
+      "album": {
+        "name": "Night Talks",
+        "url": "https://open.spotify.com/album/1XgVKm93SUFBZLTfkWmhdx"
+      },
+      "artists": [
+        {
+          "name": "Maisyn",
+          "url": "https://open.spotify.com/artist/2SQWrWZ6liOAZtLkcs2P2d"
+        }
+      ],
+      "duration_ms": 187428,
+      "name": "Night Talks",
+      "url": "https://open.spotify.com/track/3C3nxNgZ9NK2qyDPQ8Zf5h"
+    },
+    {
+      "added_at": "2024-03-27 04:00:00",
+      "album": {
+        "name": "Like You Boy",
+        "url": "https://open.spotify.com/album/4lbJpv9py0nbWfRQ09VRDe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Shay",
+          "url": "https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ"
+        }
+      ],
+      "duration_ms": 169021,
+      "name": "Like You Boy",
+      "url": "https://open.spotify.com/track/6cHV4imunCJXCd3iT40Tm5"
+    },
+    {
+      "added_at": "2024-03-27 04:00:00",
+      "album": {
+        "name": "cheater",
+        "url": "https://open.spotify.com/album/0LnQv9O33k6Y9MjNqdbivT"
+      },
+      "artists": [
+        {
+          "name": "Jack Price",
+          "url": "https://open.spotify.com/artist/3LX53Q6Lfgpr309q3yiHMh"
+        }
+      ],
+      "duration_ms": 156889,
+      "name": "cheater",
+      "url": "https://open.spotify.com/track/42rKxZFxblKmIHCdBgPjLt"
+    },
     {
       "added_at": "2024-03-20 04:00:00",
       "album": {
@@ -27,22 +91,6 @@
     {
       "added_at": "2024-03-20 04:00:00",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/74aipGQuzmhuy3hRFYvmOJ"
-      },
-      "artists": [
-        {
-          "name": "Bagetti",
-          "url": "https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/3WXWwVIU7e9MElcPwVdPgE"
-    },
-    {
-      "added_at": "2024-03-20 04:00:00",
-      "album": {
         "name": "cross my heart (hope to die)",
         "url": "https://open.spotify.com/album/2OPo2MAbCCUWp3TS4N7nld"
       },
@@ -55,6 +103,70 @@
       "duration_ms": 160622,
       "name": "cross my heart (hope to die)",
       "url": "https://open.spotify.com/track/7qt0s5OswWIDJBlLHmiKNi"
+    },
+    {
+      "added_at": "2024-03-27 04:00:00",
+      "album": {
+        "name": "are you there tonight?",
+        "url": "https://open.spotify.com/album/3aF38Kh2VROKvQDfyx98s7"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Luke",
+          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
+        }
+      ],
+      "duration_ms": 186883,
+      "name": "are you there tonight?",
+      "url": "https://open.spotify.com/track/2UHmiHEZ0Gwx2tqqMdpFUQ"
+    },
+    {
+      "added_at": "2024-03-27 04:00:00",
+      "album": {
+        "name": "Bababababy",
+        "url": "https://open.spotify.com/album/6UYYhPbEjlwTtz0tPerDkg"
+      },
+      "artists": [
+        {
+          "name": "Cupnoodle",
+          "url": "https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Bababababy",
+      "url": "https://open.spotify.com/track/66ltSUFE9eiyH0NiKMSfv4"
+    },
+    {
+      "added_at": "2024-03-27 04:00:00",
+      "album": {
+        "name": "Understatement",
+        "url": "https://open.spotify.com/album/2dmcrQEI5C8AVNTdrcAaNw"
+      },
+      "artists": [
+        {
+          "name": "Maryon",
+          "url": "https://open.spotify.com/artist/7AtbuRokFnPshEZ6muoDWV"
+        }
+      ],
+      "duration_ms": 151868,
+      "name": "Understatement",
+      "url": "https://open.spotify.com/track/57jENaZ0ZEqxIRwEDCm63R"
+    },
+    {
+      "added_at": "2024-03-20 04:00:00",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/74aipGQuzmhuy3hRFYvmOJ"
+      },
+      "artists": [
+        {
+          "name": "Bagetti",
+          "url": "https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/3WXWwVIU7e9MElcPwVdPgE"
     },
     {
       "added_at": "2024-03-20 04:00:00",
@@ -1337,26 +1449,6 @@
       "url": "https://open.spotify.com/track/6AYNmsHwCWmfYrniipNAWe"
     },
     {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "Everything's Fine",
-        "url": "https://open.spotify.com/album/0JLQ10nHxkzRODNL6Kmmdv"
-      },
-      "artists": [
-        {
-          "name": "NOEL",
-          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
-        },
-        {
-          "name": "Tessa Odden",
-          "url": "https://open.spotify.com/artist/5fWn9g8ERHtGKWdkAuomBx"
-        }
-      ],
-      "duration_ms": 196045,
-      "name": "Everything's Fine",
-      "url": "https://open.spotify.com/track/1vvRNNSTZ9XuTBFqHY0eDu"
-    },
-    {
       "added_at": "2024-01-25 05:07:27",
       "album": {
         "name": "Half of forever",
@@ -1371,38 +1463,6 @@
       "duration_ms": 153250,
       "name": "Half of forever",
       "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
-    },
-    {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "hate myself for loving you",
-        "url": "https://open.spotify.com/album/4xcOAflH4IJ6aIPhy97PP5"
-      },
-      "artists": [
-        {
-          "name": "Mackenzie Arromba",
-          "url": "https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq"
-        }
-      ],
-      "duration_ms": 176902,
-      "name": "hate myself for loving you",
-      "url": "https://open.spotify.com/track/79HlmezH9GAca2eY8gWQET"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/61brdiy3qEnUfbWWALxipD"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 161188,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/1K4W4T2b5mTzvmrVzVa7yH"
     },
     {
       "added_at": "2024-01-24 05:00:00",
@@ -1435,22 +1495,6 @@
       "duration_ms": 160693,
       "name": "Bible Belt",
       "url": "https://open.spotify.com/track/5AON00DcAqzMBIxGl0IHm3"
-    },
-    {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "LABEL",
-        "url": "https://open.spotify.com/album/1ejfxcxQfj19qoLh7r9wo1"
-      },
-      "artists": [
-        {
-          "name": "Jessy Lipton",
-          "url": "https://open.spotify.com/artist/7pGsvDKuZ3OumdrpDwCB2f"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "LABEL",
-      "url": "https://open.spotify.com/track/6yqazMRYrfuuhhIKJgxghR"
     },
     {
       "added_at": "2024-01-17 05:00:00",
@@ -1499,54 +1543,6 @@
       "duration_ms": 218031,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu"
-    },
-    {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "Standby Baby",
-        "url": "https://open.spotify.com/album/1EYRPp03Jr5KLY3n4B1Nha"
-      },
-      "artists": [
-        {
-          "name": "Laraw",
-          "url": "https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1"
-        }
-      ],
-      "duration_ms": 282477,
-      "name": "Standby Baby",
-      "url": "https://open.spotify.com/track/6esccUfWY4NWL3oYJajQHU"
-    },
-    {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "Blame It On You",
-        "url": "https://open.spotify.com/album/3iCfKKQ8KW8aicP8zadJMd"
-      },
-      "artists": [
-        {
-          "name": "Mellie",
-          "url": "https://open.spotify.com/artist/0fCB3cu52wsor5eiGb2OhK"
-        }
-      ],
-      "duration_ms": 203125,
-      "name": "Blame It On You",
-      "url": "https://open.spotify.com/track/3zaKVvx1nm5wiEBVBdMpM7"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "Why Should I?",
-        "url": "https://open.spotify.com/album/17iRGnHZKFr5ASEjrz0ApQ"
-      },
-      "artists": [
-        {
-          "name": "Z3LLA",
-          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
-        }
-      ],
-      "duration_ms": 149404,
-      "name": "Why Should I?",
-      "url": "https://open.spotify.com/track/223aYFqV1AHgSq4cKCkrkc"
     },
     {
       "added_at": "2024-01-10 05:00:00",

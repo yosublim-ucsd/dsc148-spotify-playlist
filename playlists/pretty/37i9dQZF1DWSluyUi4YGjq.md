@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > The state of shoegaze\. Gazing at pedals, soaring celestially high\. Cover: Wisp
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,564 likes - 115 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,901 likes - 115 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 17 | [Rebounds](https://open.spotify.com/track/7BTmWEdtfvluFSNxjiudYu) | [YEAHRS](https://open.spotify.com/artist/0xT8wI8JgoOqFrCr5v96qd) | [Spiritual Sickness](https://open.spotify.com/album/4eXpcehtxUaEhPJz9flqAO) | 4:20 |
 | 18 | [An Impossibly Long Hallway...](https://open.spotify.com/track/1HeAW9fVMfuN0T5LKb8q6g) | [Strawberry Milk Cult](https://open.spotify.com/artist/3r5D13Q9I4sLrC1bsJK0gR) | [An Impossibly Long Hallway...](https://open.spotify.com/album/5joC1BFoMHQXxAxI5eHIrI) | 2:29 |
 | 19 | [wonder if you care](https://open.spotify.com/track/0KdEx2ETCXYZeEVAZS4sJ4) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [wonder if you care](https://open.spotify.com/album/3oPOkIUqeSMxKV5cS39kl4) | 2:14 |
-| 20 | [between](https://open.spotify.com/track/4R6KQd4LPht1GQauuZACcM) | [Kraus](https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951) | [anything else](https://open.spotify.com/album/3XxhfN0qjvOg9Q6LPIC1Fg) | 3:26 |
+| 20 | [between](https://open.spotify.com/track/1CrEJ3qMtljP0562ry3Ucz) | [Kraus](https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951) | [anything else](https://open.spotify.com/album/7i9BS4uTVcB8Noibnwssjm) | 3:26 |
 | 21 | [kmart amen break](https://open.spotify.com/track/5ZmZfrXm35ak5SYvO9kAKk) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [s](https://open.spotify.com/album/3Lj48iwzK7wF0oT4KCsDtV) | 2:40 |
 | 22 | [The Oranges](https://open.spotify.com/track/3MFYMNksTfegCcZ1c9SlaX) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 4:14 |
 | 23 | [Paradox](https://open.spotify.com/track/7zh8Zt10egvcibYGR9VaVa) | [BrokenTeeth](https://open.spotify.com/artist/5kNGExA70Z5twMjo7mFYrW) | [Paradox](https://open.spotify.com/album/2swSZBnSV3brk5bTFiNLoW) | 4:48 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 114 | [Vacation](https://open.spotify.com/track/5F1gAs2j6FLTITQ1FJni0O) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Computerwife](https://open.spotify.com/album/5xGfEYzVfcPYPrTE6FqfyP) | 3:32 |
 | 115 | [COME WITH ME](https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [COME WITH ME](https://open.spotify.com/album/3g1hCDombl0mBfQdb7XxHN) | 2:34 |
 
-Snapshot ID: `MCxkODc0NjcwMTM0ODY5YzliZmE4YTE1ZWFmZjZmMjM1ZDA5YTk0OGEx`
+Snapshot ID: `MCwxN2M1ODUxMGZlNjNmODZlMTExMGEyYTM4M2UxNDU4ZDUzNmMwYmRj`

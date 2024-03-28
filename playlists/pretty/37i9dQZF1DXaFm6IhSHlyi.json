@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 143614,
+  "num_followers": 143636,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmUyZTI1MjQ4ZWNlM2M2MmY3ZmZmZWRkYTk0MDlmNzQzNWE2MTgy",
+  "snapshot_id": "MCw4ZmM5MDc3OTY3YWYyOTJkNDZiOThkYmVhNmNiNDA5Nzk1ZDgzYzJi",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "A Little Bit Yours",
-        "url": "https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "A Little Bit Yours",
-      "url": "https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/2qCB3BnsOtq3Rja6nPslrk"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 169127,
       "name": "At My Worst (feat. Kehlani)",
       "url": "https://open.spotify.com/track/306ediRjbmuizOLWtjDG3Z"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "A Little Bit Yours",
+        "url": "https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "A Little Bit Yours",
+      "url": "https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Maula",
-        "url": "https://open.spotify.com/album/1OIWkzjWFJuClJVm7DEry4"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Maula",
-      "url": "https://open.spotify.com/track/7pncFFzijtxIQtLpNwiAyO"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 231870,
       "name": "But it's Destiny",
       "url": "https://open.spotify.com/track/29yUM7cyxQgVn9MfrJjCom"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Maula",
+        "url": "https://open.spotify.com/album/1OIWkzjWFJuClJVm7DEry4"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Maula",
+      "url": "https://open.spotify.com/track/7pncFFzijtxIQtLpNwiAyO"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Malay Mo, Tayo",
-        "url": "https://open.spotify.com/album/0zBCehKCAFoYUPW0X2g9wj"
-      },
-      "artists": [
-        {
-          "name": "TJ Monterde",
-          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
-        }
-      ],
-      "duration_ms": 274291,
-      "name": "Malay Mo",
-      "url": "https://open.spotify.com/track/0B2GJuD8XZoovLyAvcYBsF"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 160736,
       "name": "17",
       "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Malay Mo, Tayo",
+        "url": "https://open.spotify.com/album/0zBCehKCAFoYUPW0X2g9wj"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "duration_ms": 274291,
+      "name": "Malay Mo",
+      "url": "https://open.spotify.com/track/0B2GJuD8XZoovLyAvcYBsF"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Tutto questo sei tu",
+        "url": "https://open.spotify.com/album/5UvTtLCCL6GIHn7Ewh6pQB"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Tutto questo sei tu",
+      "url": "https://open.spotify.com/track/2JbPEAf12Ju2CxSIoZC89d"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "The Way I Love You",
         "url": "https://open.spotify.com/album/3K4LPKywpYV44mQtqt5mNH"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 162726,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/3XV5r1cMB2AlD2ir0v6mfm"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Tutto questo sei tu",
-        "url": "https://open.spotify.com/album/5UvTtLCCL6GIHn7Ewh6pQB"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Tutto questo sei tu",
-      "url": "https://open.spotify.com/track/2JbPEAf12Ju2CxSIoZC89d"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Ana Mesh Magroha",
-        "url": "https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI"
-      },
-      "artists": [
-        {
-          "name": "Shaimaa ElShayeb",
-          "url": "https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr"
-        }
-      ],
-      "duration_ms": 155013,
-      "name": "Ana Mesh Magroha",
-      "url": "https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Akustikhane",
         "url": "https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 331607,
       "name": "D\u00fc\u015ft\u00fc\u011f\u00fcm Gibi Kalkar\u0131m - Akustikhane",
       "url": "https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Ana Mesh Magroha",
+        "url": "https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI"
+      },
+      "artists": [
+        {
+          "name": "Shaimaa ElShayeb",
+          "url": "https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr"
+        }
+      ],
+      "duration_ms": 155013,
+      "name": "Ana Mesh Magroha",
+      "url": "https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Tum Jaisi Ho",
-        "url": "https://open.spotify.com/album/05vRHIg3ZhYkO8Wlpb5yRk"
-      },
-      "artists": [
-        {
-          "name": "Tony Kakkar",
-          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
-        }
-      ],
-      "duration_ms": 145301,
-      "name": "Tum Jaisi Ho",
-      "url": "https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Obscured star",
         "url": "https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 268426,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Tum Jaisi Ho",
+        "url": "https://open.spotify.com/album/05vRHIg3ZhYkO8Wlpb5yRk"
+      },
+      "artists": [
+        {
+          "name": "Tony Kakkar",
+          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+        }
+      ],
+      "duration_ms": 145301,
+      "name": "Tum Jaisi Ho",
+      "url": "https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs"
     },
     {
       "added_at": "2022-10-17 15:00:00",

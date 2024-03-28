@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 326847,
+  "2024-03-28": 326874,
   "date_first_scraped": "2021-12-21",
   "description": "H\u00e5ll det 100.",
   "name": "100",
@@ -6467,10 +6467,28 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 161250,
       "name": "DIAMANTER",
       "url": "https://open.spotify.com/track/6z8QKwRlKLG81uKYMPnvcI"
+    },
+    {
+      "album": {
+        "name": "In Memory Of Some Stand Up Guys (Private Collection)",
+        "url": "https://open.spotify.com/album/6JYg8ZoDwgKL20qLy10SW8"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "DIAMANTER",
+      "url": "https://open.spotify.com/track/75yxwZbg4YmiAdXslkrLiM"
     },
     {
       "album": {

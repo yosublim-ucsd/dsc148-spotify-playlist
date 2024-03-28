@@ -1,5 +1,5 @@
 {
-  "2024-03-27": 22656,
+  "2024-03-28": 22676,
   "date_first_scraped": "2022-09-21",
   "description": "<a href=\"spotify:artist:6mK0vAO13gT8jWYANyoXAl\">Young Franco's </a> favourite tracks.  Updated regularly. Curated by Young Franco. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Young Franco's track IDs",
@@ -1506,6 +1506,24 @@
     },
     {
       "album": {
+        "name": "Champs Elys\u00e9es",
+        "url": "https://open.spotify.com/album/62DMpTTW3o6sYaNVYxtq2B"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350813,
+      "name": "I Feel for You",
+      "url": "https://open.spotify.com/track/7opq9mMuTcHUXTY3EO3hym"
+    },
+    {
+      "album": {
         "name": "Champs elys\u00e9es",
         "url": "https://open.spotify.com/album/7xRnsA4UR8FgkMOSsfnizs"
       },
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-27",
       "duration_ms": 350813,
       "name": "I feel for you - Original",
       "url": "https://open.spotify.com/track/3zAU6cqXVFTzz1Yvnw87x1"

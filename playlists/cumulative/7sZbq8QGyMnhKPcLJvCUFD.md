@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-519 songs - 1 day 2 hr 35 min
+520 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Dreamatic](https://open.spotify.com/track/7Ahq8UweaUdoBHwVR76suu) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Dreamatic](https://open.spotify.com/album/15b6oP9UfGUyEYJpv2V150) | 3:48 | 2022-10-19 | 2023-04-28 |
 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 | 2023-04-06 |  |
 | [Dreamin'](https://open.spotify.com/track/6Pqil5djDYDxWzitsw2eD3) | [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2) | [Dreamin'](https://open.spotify.com/album/3bk1wrlMRkpdzUhmo078nK) | 2:35 | 2023-08-18 | 2024-01-04 |
-| [Dreams](https://open.spotify.com/track/4j5zq53Fyu84lmY6UYO8yW) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Dreams](https://open.spotify.com/album/5qQgoVCtIoessL2xXUO6DX) | 3:35 | 2023-08-08 |  |
+| [Dreams](https://open.spotify.com/track/4j5zq53Fyu84lmY6UYO8yW) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Dreams](https://open.spotify.com/album/5qQgoVCtIoessL2xXUO6DX) | 3:35 | 2023-08-08 | 2024-03-28 |
 | [Dreams pt\. II](https://open.spotify.com/track/7kaux342y0B446JgJgojAi) | [Sara Skinner](https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y), [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Dreams pt\. II](https://open.spotify.com/album/3STuD6KaHYbv2OX6cRlj2Y) | 3:35 | 2023-08-08 | 2024-03-02 |
 | [Driver Seat](https://open.spotify.com/track/4EcM3Q6U3yZ9qEfuxWDiNp) | [C1W](https://open.spotify.com/artist/0zdyRXWOOZQYYwFrTWbT4M) | [Driver Seat](https://open.spotify.com/album/5Myg1kEdNPvJZxTI4Ywuso) | 2:29 | 2023-07-26 | 2023-08-10 |
 | [Drop In The Ocean](https://open.spotify.com/track/2sPGbO0TWLwBCL2Q1i1e6H) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Harry Taylor](https://open.spotify.com/artist/290yQM2xoSurRtxeDSMUmC), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [India Dupriez](https://open.spotify.com/artist/32sZPVoYKzWY0Y5zuieJ1a) | [Drop In The Ocean](https://open.spotify.com/album/2T53UGJPnAa9kjl28eOLU1) | 2:43 | 2023-01-19 | 2023-08-10 |
@@ -255,6 +255,7 @@
 | [Karma](https://open.spotify.com/track/1LRFdWqintP46UIkC33YhL) | [Alaina Cross](https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5) | [Karma](https://open.spotify.com/album/4ilC8x3IxNevbhhFxxxNCu) | 3:09 | 2023-12-13 |  |
 | [Karma](https://open.spotify.com/track/010b8IrP1Yvs9RvafHRylH) | [Ariadne](https://open.spotify.com/artist/5MTn6h662oQm25nnTVhpnK) | [Karma](https://open.spotify.com/album/1qoOg8XtIGRIUsbbr8rzyI) | 2:53 | 2024-03-08 |  |
 | [Keep You](https://open.spotify.com/track/0NHGqculuy8Aa1bEerrGtS) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Keep You](https://open.spotify.com/album/5dunVmIKUec2zaq5rJeFe5) | 2:42 | 2024-01-26 |  |
+| [KHARMA](https://open.spotify.com/track/2GMWUfoFmwy5KO4XZCcW3R) | [Christopher Damas](https://open.spotify.com/artist/03sZi1EjCnl0b3Irnqa9NJ) | [KHARMA](https://open.spotify.com/album/0wNUgo1LK6wv3R0Ot4imWF) | 1:38 | 2024-03-27 |  |
 | [La Manera De Vivir](https://open.spotify.com/track/7C2OMLPtQsbQgcOiyFytzA) | [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2), [ÆSTRØ](https://open.spotify.com/artist/4JXD4saaiFlOBWXhDPtj4F) | [La Manera De Vivir](https://open.spotify.com/album/2cfbzv0R430XWmjtKPSQ7Q) | 2:06 | 2023-02-02 | 2023-08-10 |
 | [LA VIBE](https://open.spotify.com/track/4pgmtdYruqcV7gcT1uky56) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [LA VIBE](https://open.spotify.com/album/4Rggq3KsZImoLSicpoYaz7) | 2:12 | 2023-02-03 | 2023-08-10 |
 | [Lachrymose](https://open.spotify.com/track/6NIoYuKRXmbklQdh6uPryZ) | [Maze](https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ), [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Lost Words EP](https://open.spotify.com/album/3bS5ZqH24CFVNO43q2I0uI) | 3:29 | 2023-06-23 | 2023-08-10 |
