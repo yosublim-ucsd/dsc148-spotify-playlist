@@ -136,10 +136,32 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 223998,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/2eqC236uwgGhieuk0ZeK9B"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/36gLIthSri78lkux9w1z8t"
+      },
+      "artists": [
+        {
+          "name": "ANGELICA",
+          "url": "https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50"
+        },
+        {
+          "name": "Grupo Moneda",
+          "url": "https://open.spotify.com/artist/6MZ41CkqrTJO9ypkLlEGx4"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223998,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2tSVxvzLWLgF9SuYalashf"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Updated weekly | Hardstyle | Cover: Nico Moreno & Warface",
+  "description": "Updated weekly | Hardstyle | Cover: Sound Rush",
   "name": "Hardstyle Adrenaline! 2024",
   "tracks": [
     {
@@ -516,7 +516,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 205939,
       "name": "Alone",
       "url": "https://open.spotify.com/track/4NToO34vA9pHUsaaGx6pZh"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 197013,
       "name": "Arabian Nights",
       "url": "https://open.spotify.com/track/4i4KAZzbz2LIf9AoZNqp6t"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 212195,
       "name": "Army of the Night",
       "url": "https://open.spotify.com/track/60wBNYcW91OTrWviC5Sfil"
@@ -938,6 +938,28 @@
       "duration_ms": 209169,
       "name": "Back Around",
       "url": "https://open.spotify.com/track/2z6myuBoxgdT91joiqNqN4"
+    },
+    {
+      "album": {
+        "name": "BACK TO LIFE",
+        "url": "https://open.spotify.com/album/2Qn2aIloOlmwC9ek1WQG4a"
+      },
+      "artists": [
+        {
+          "name": "Adjuzt",
+          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
+        },
+        {
+          "name": "Jordan Jade",
+          "url": "https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175496,
+      "name": "BACK TO LIFE",
+      "url": "https://open.spotify.com/track/0GLbugBl7oTlKZmlcm9M9w"
     },
     {
       "album": {
@@ -2567,6 +2589,24 @@
     },
     {
       "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/0sSAo1leCAoLLaDlkUzZK2"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181093,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/3Uk2w6r3A3RlQcFwxKmkh0"
+    },
+    {
+      "album": {
         "name": "Come Alive",
         "url": "https://open.spotify.com/album/2AMzGsyHFKzWVJ86BLBxUg"
       },
@@ -2710,6 +2750,28 @@
       "duration_ms": 230790,
       "name": "Conquerors",
       "url": "https://open.spotify.com/track/1KbBkDTXutZ3MdAPAttxa8"
+    },
+    {
+      "album": {
+        "name": "Consequences",
+        "url": "https://open.spotify.com/album/0t5gG3WZWnZUQyIvkmNdJv"
+      },
+      "artists": [
+        {
+          "name": "Exproz",
+          "url": "https://open.spotify.com/artist/22jcDppDfbm4cqqUDzM8tU"
+        },
+        {
+          "name": "Element",
+          "url": "https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157503,
+      "name": "Consequences",
+      "url": "https://open.spotify.com/track/6dMTVOiZzZA1HXfpxS89oy"
     },
     {
       "album": {
@@ -3477,6 +3539,36 @@
     },
     {
       "album": {
+        "name": "DISCOVER THE MAYHEM (Official REBiRTH Festival 2024 Anthem)",
+        "url": "https://open.spotify.com/album/2KsPJDWa8KnaFlkQu4wnEN"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Mish",
+          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
+        },
+        {
+          "name": "MC Livid",
+          "url": "https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe"
+        },
+        {
+          "name": "Mark Vayne",
+          "url": "https://open.spotify.com/artist/0ISUKgiBjQ63VbyoIHfD3F"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238875,
+      "name": "DISCOVER THE MAYHEM (Official REBiRTH Festival 2024 Anthem)",
+      "url": "https://open.spotify.com/track/1Wv5JiJLCJL8xZ5PNH1IEB"
+    },
+    {
+      "album": {
         "name": "Disruption",
         "url": "https://open.spotify.com/album/1GYyPR5JjoWHuJtCpHC6Kq"
       },
@@ -3684,7 +3776,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 216315,
       "name": "Doom",
       "url": "https://open.spotify.com/track/0qB75YRyYUpPFGw7SE6hvj"
@@ -3790,7 +3882,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 224245,
       "name": "Dragon Boat",
       "url": "https://open.spotify.com/track/20JpznWmKURCKTMwBESsr0"
@@ -4970,7 +5062,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 155679,
       "name": "For The Techno",
       "url": "https://open.spotify.com/track/1vvQimSDXG0iEqje0VX14I"
@@ -5799,6 +5891,24 @@
     },
     {
       "album": {
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/2wCRVhbcBdev2a3RJIRxQk"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147870,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/7MIk66NGUsgJVZzEh1LQ4H"
+    },
+    {
+      "album": {
         "name": "Hardcore Feelings",
         "url": "https://open.spotify.com/album/6zeIYR0A6Zi134UcF1fajD"
       },
@@ -6620,7 +6730,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 230322,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/6PbduKa4eIF4bOaDtQ11KO"
@@ -6660,10 +6770,36 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 182852,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/5SuWRkFDofAjJbOXrghgnc"
+    },
+    {
+      "album": {
+        "name": "I Won't Let You Down (feat. Miss Geist)",
+        "url": "https://open.spotify.com/album/0YVnmtb2Wgv8Y8Ys2tAB3M"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Miss Geist",
+          "url": "https://open.spotify.com/artist/48ImEzvNyazjXPOsjaYnu2"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168876,
+      "name": "I Won't Let You Down",
+      "url": "https://open.spotify.com/track/6UgApPDQAu7C4DlMKegr07"
     },
     {
       "album": {
@@ -9603,6 +9739,24 @@
     },
     {
       "album": {
+        "name": "Move Your Feet",
+        "url": "https://open.spotify.com/album/6jeWxhEJrd0XwSxSBCKr5w"
+      },
+      "artists": [
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/1L9h9rrW1bvWiFWj6XD31j"
+    },
+    {
+      "album": {
         "name": "MOVIE DREAM",
         "url": "https://open.spotify.com/album/48e9WXqqjXSDn8PGlbjJrd"
       },
@@ -10287,6 +10441,32 @@
     },
     {
       "album": {
+        "name": "Nobody Said It Was Easy (feat. Eelco)",
+        "url": "https://open.spotify.com/album/30h2dhNfkYYLhtNg7w27kE"
+      },
+      "artists": [
+        {
+          "name": "Bass Chaserz",
+          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
+        },
+        {
+          "name": "Loud x Fout",
+          "url": "https://open.spotify.com/artist/4lkET6bLWntrKVap1MuYWA"
+        },
+        {
+          "name": "Eelco",
+          "url": "https://open.spotify.com/artist/1TeGfz6FIuG4U2aBXRN7SX"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188903,
+      "name": "Nobody Said It Was Easy (feat. Eelco)",
+      "url": "https://open.spotify.com/track/1kvbBzDJoHYc3Bj4TpqGps"
+    },
+    {
+      "album": {
         "name": "Nothing",
         "url": "https://open.spotify.com/album/3b8ROVFVbmcSJWIDnUOmMG"
       },
@@ -10650,7 +10830,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 206555,
       "name": "One Day Left",
       "url": "https://open.spotify.com/track/6j7c7qxP1BXBzbF6B9uxSz"
@@ -11291,6 +11471,24 @@
     },
     {
       "album": {
+        "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
+        "url": "https://open.spotify.com/album/0oObHHYsI5qalv9UMSOz6n"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325494,
+      "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
+      "url": "https://open.spotify.com/track/0Bwq1DvIe3YSN2nVQ1n5Am"
+    },
+    {
+      "album": {
         "name": "Pray 4 Party",
         "url": "https://open.spotify.com/album/4i5TdB9PbLEO5wgIrjyg9T"
       },
@@ -11756,7 +11954,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 160500,
       "name": "Ready For War",
       "url": "https://open.spotify.com/track/2YimCTUF3UEyFCgEXTkvqv"
@@ -13467,6 +13665,28 @@
     },
     {
       "album": {
+        "name": "ElektraWave",
+        "url": "https://open.spotify.com/album/29I2xhfBPyvI5lAM6sPOZs"
+      },
+      "artists": [
+        {
+          "name": "Vasto",
+          "url": "https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa"
+        },
+        {
+          "name": "Element",
+          "url": "https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181507,
+      "name": "Stand For",
+      "url": "https://open.spotify.com/track/5wHmqEC9i5Zg4KqqGNr2Du"
+    },
+    {
+      "album": {
         "name": "Stand Up",
         "url": "https://open.spotify.com/album/2fyVOpARXznPN9r0UUgl5G"
       },
@@ -14072,6 +14292,24 @@
       "duration_ms": 214200,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/4OSJ9LrhlX3V2n3sYf4Vbk"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/0Epjh2uppKZdPz2ooy7svA"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214817,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/2J9ttXlJoW4yo0eSH8asIf"
     },
     {
       "album": {
@@ -15231,6 +15469,24 @@
     },
     {
       "album": {
+        "name": "The Riddle",
+        "url": "https://open.spotify.com/album/58d2pvjqzMvI4xxayOcBgu"
+      },
+      "artists": [
+        {
+          "name": "Audiotricz",
+          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290400,
+      "name": "The Riddle",
+      "url": "https://open.spotify.com/track/3I2IF4bYGrv30V9D5S4VMe"
+    },
+    {
+      "album": {
         "name": "The Same Blood (Official EPIK 2023 Anthem)",
         "url": "https://open.spotify.com/album/3R54Xa2tvyNnQL63vGSizR"
       },
@@ -15250,6 +15506,32 @@
       "duration_ms": 209097,
       "name": "The Same Blood - Official EPIK 2023 Anthem",
       "url": "https://open.spotify.com/track/3q2XAEa5btQAbgIha0I8JW"
+    },
+    {
+      "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/37wPy2LW3iLCALxjZFIdDb"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207483,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/3wxbMFOaduop2XFO9gKihO"
     },
     {
       "album": {
@@ -16509,6 +16791,32 @@
     },
     {
       "album": {
+        "name": "WARHORN (E2 We Rise Or Fall)",
+        "url": "https://open.spotify.com/album/2ER06lGXSEBKo7aDe3XrAy"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Restrained",
+          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+        },
+        {
+          "name": "Maintain",
+          "url": "https://open.spotify.com/artist/2dXEbXQ9fhc8cI9Vla7fR0"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192615,
+      "name": "WARHORN (E2 We Rise Or Fall)",
+      "url": "https://open.spotify.com/track/19Lm5UIDheWcngR6ApupP8"
+    },
+    {
+      "album": {
         "name": "Wariors",
         "url": "https://open.spotify.com/album/0OlbquZVmj60oUVaTnZbZo"
       },
@@ -16842,7 +17150,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 152000,
       "name": "We Won't Stop (For Eternity)",
       "url": "https://open.spotify.com/track/3VpHxjjTRdyFH8MMSPR5Ws"
@@ -17070,6 +17378,28 @@
       "duration_ms": 213322,
       "name": "Where Do We Go",
       "url": "https://open.spotify.com/track/1nHyRJeXwM0gngZiqEhblw"
+    },
+    {
+      "album": {
+        "name": "Where I Belong",
+        "url": "https://open.spotify.com/album/1NPmIyN3g1B42Ii24pVNsd"
+      },
+      "artists": [
+        {
+          "name": "KELTEK",
+          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
+        },
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165569,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/2zOCJuQ7QKaceQTaIgLXAO"
     },
     {
       "album": {
@@ -17410,7 +17740,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 188253,
       "name": "Wrong or Right (The Riddle) [Revelation Remix]",
       "url": "https://open.spotify.com/track/4xUjGco1qY0RW3B7DYstgA"

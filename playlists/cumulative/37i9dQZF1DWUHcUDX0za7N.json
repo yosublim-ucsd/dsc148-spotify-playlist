@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Jaido P",
+  "description": "Hip hop and rap music from Nigeria. Cover: Ajebo Hustelrs",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 209578,
       "name": "Denge III",
       "url": "https://open.spotify.com/track/2tschk15VzJ5IqhHRnNoxp"
@@ -2116,10 +2116,36 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 197746,
       "name": "Don't Pressure Me (feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/2gCSM7hC0VH4qJYenhkK7g"
+    },
+    {
+      "album": {
+        "name": "DREAMS II",
+        "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237647,
+      "name": "DREAMS II",
+      "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
     },
     {
       "album": {
@@ -2626,7 +2652,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 167924,
       "name": "Frenemies",
       "url": "https://open.spotify.com/track/4E36I3slp0mrMJi5B2jX63"
@@ -2732,7 +2758,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 151578,
       "name": "German Machine (feat. Jeriq)",
       "url": "https://open.spotify.com/track/6TEseDlC0o2lkim735xKhU"
@@ -3324,7 +3350,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 145351,
       "name": "In Charge",
       "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
@@ -4374,7 +4400,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 186906,
       "name": "My Bro",
       "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
@@ -4762,7 +4788,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 127242,
       "name": "No Time",
       "url": "https://open.spotify.com/track/0q38R1OzXFPF3lUaAl1sGm"
@@ -6258,7 +6284,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 150079,
       "name": "SHARP SHOOTER",
       "url": "https://open.spotify.com/track/5ThgZ5GSs5KffqHZ2chM17"
@@ -6342,6 +6368,28 @@
       "duration_ms": 200790,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/0NWt2GeH14qHbs3S9dgdXl"
+    },
+    {
+      "album": {
+        "name": "Shutdown",
+        "url": "https://open.spotify.com/album/5KfqTov6TpsIfY0wRrBNbC"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179272,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/3WBq1rpt6WVIQmGBBNAIBE"
     },
     {
       "album": {
@@ -6602,6 +6650,32 @@
       "duration_ms": 135256,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/54Bvt0UE6yMPQBWb2TYSKc"
+    },
+    {
+      "album": {
+        "name": "Some Kind Things (feat. PsychoYP & Minz)",
+        "url": "https://open.spotify.com/album/1ybxzzMBGSlfigEsfuXtsF"
+      },
+      "artists": [
+        {
+          "name": "Major AJ",
+          "url": "https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT"
+        },
+        {
+          "name": "Psychoyp",
+          "url": "https://open.spotify.com/artist/0zXL9AbkRZtWXFFufCX8X6"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "Some Kind Things (feat. PsychoYP & Minz)",
+      "url": "https://open.spotify.com/track/5NSR2CDIcWkV8aXTDjF4ur"
     },
     {
       "album": {
@@ -7840,7 +7914,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 235520,
       "name": "Will Be",
       "url": "https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS"

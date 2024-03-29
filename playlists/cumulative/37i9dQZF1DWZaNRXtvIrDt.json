@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "a new world of alternative electronic music. Cover: Moktar",
+  "description": "a new world of alternative electronic music. Cover: Sam Alfred",
   "name": "Portal",
   "tracks": [
     {
@@ -472,6 +472,32 @@
       "duration_ms": 271742,
       "name": "All Good",
       "url": "https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF"
+    },
+    {
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/2pXo4k3f6Za6rFrpF7B5sI"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+        },
+        {
+          "name": "IS U IS U",
+          "url": "https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178746,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3fA1ftCkI0rwc2fz09ae29"
     },
     {
       "album": {
@@ -2708,6 +2734,24 @@
       "duration_ms": 297126,
       "name": "Did I Stutter",
       "url": "https://open.spotify.com/track/3ehNN1PIg2ozR6RV7qdQ2d"
+    },
+    {
+      "album": {
+        "name": "Forward Step",
+        "url": "https://open.spotify.com/album/1IIy8SMWVCxqvLTv5u2cFQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316056,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/1x9e1A8PI3Sp0dX55edTCD"
     },
     {
       "album": {
@@ -6167,6 +6211,24 @@
     },
     {
       "album": {
+        "name": "Making The Beast",
+        "url": "https://open.spotify.com/album/3DhI1gzM2t6dzfaMbrPsXq"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296706,
+      "name": "Making The Beast",
+      "url": "https://open.spotify.com/track/6p4swbIRUammCrjcpK9G1F"
+    },
+    {
+      "album": {
         "name": "MANIC",
         "url": "https://open.spotify.com/album/7aZzOXdbZOl9A8FL3z1c20"
       },
@@ -8500,6 +8562,24 @@
       "duration_ms": 117539,
       "name": "Si Te Portas Bonito - Edit",
       "url": "https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9"
+    },
+    {
+      "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/2fbcY2L4Nvg5GqqDoE3trh"
+      },
+      "artists": [
+        {
+          "name": "2touch",
+          "url": "https://open.spotify.com/artist/2RikPlsCIooWbVXeFikhcq"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204452,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/5fj3PwaRTnpDQpNWTytTgy"
     },
     {
       "album": {

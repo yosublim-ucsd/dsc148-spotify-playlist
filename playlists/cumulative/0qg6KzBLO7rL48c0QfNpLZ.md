@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-240 songs - 11 hr 2 min
+241 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Waiting For](https://open.spotify.com/track/7frmv0TaHOiLrzcXEHiOgU) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Chill Satellite](https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA) | [Waiting For](https://open.spotify.com/album/1qGmr1O8Mco2Nsm0FDrYuM) | 3:16 | 2024-02-23 |  |
 | [Waiting For A Better Day](https://open.spotify.com/track/7FYeUV7zqjm7nFNC32g6BY) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Waiting For A Better Day](https://open.spotify.com/album/0ulaHvKhk79OWZ12gmZDtO) | 2:37 | 2022-06-10 |  |
 | [Walk Away](https://open.spotify.com/track/2FCltzpqmJ3sZRcXmOTVID) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt), [Ima Sobé](https://open.spotify.com/artist/3xZA1iqapR7QdWz6gpu0Zn) | [Walk Away](https://open.spotify.com/album/7sb7fAMIPadqcaHkPV5MNE) | 2:00 | 2024-02-09 | 2024-03-16 |
+| [Walking On A Dream](https://open.spotify.com/track/6GqARMalvyeKe5m53HnUEo) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Walking On A Dream](https://open.spotify.com/album/1SPJfmyfAGNPSuA7ODwzw5) | 1:59 | 2024-03-29 |  |
 | [Walking On a Dream](https://open.spotify.com/track/46pBXAlzxOnEqnssIaDwHf) | [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Walking On a Dream](https://open.spotify.com/album/1vjLjA9LB8lyKyTuiW9Y8s) | 2:49 | 2024-01-16 | 2024-03-09 |
 | [Wanderlust](https://open.spotify.com/track/4x1jpIof8dtpVlZN4RozhS) | [oliqua](https://open.spotify.com/artist/4bhTdFjS6ajhkDk6qDtMmS), [NUENCE](https://open.spotify.com/artist/0tSvTksdhoYhu08BNTyidE) | [Wanderlust](https://open.spotify.com/album/3W6XeZ3WAcxkVSBgdK4BhT) | 2:49 | 2024-03-08 |  |
 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 | 2022-06-10 |  |

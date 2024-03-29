@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Monsieur M\u00c2L\u00c2",
+  "description": "The best jazz new releases. Cover: Laurent Bardainne",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -2850,7 +2850,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 209960,
       "name": "Est-ce que tu me suis ?",
       "url": "https://open.spotify.com/track/35WRhiT1UJ2aXFkv2tRK9G"
@@ -3064,7 +3064,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 204640,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/7FazaEyS23gRqSFHocOQva"
@@ -3152,6 +3152,28 @@
       "duration_ms": 225240,
       "name": "First Shot",
       "url": "https://open.spotify.com/track/0vnArNTn5aLJmqrnZnK4Li"
+    },
+    {
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/5CI5Ww2MciydIAesA5VmPR"
+      },
+      "artists": [
+        {
+          "name": "CHERISE",
+          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
+        },
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208978,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/6bsCkIuP5zdST3CrvBJDnm"
     },
     {
       "album": {
@@ -3746,7 +3768,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 169500,
       "name": "Great Wind - Radio Edit",
       "url": "https://open.spotify.com/track/7k620TJe42bIg16RE51EZ4"
@@ -3768,7 +3790,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 443693,
       "name": "Greens",
       "url": "https://open.spotify.com/track/44uJEp8zyuz4TeRXt9epuV"
@@ -3931,6 +3953,28 @@
     },
     {
       "album": {
+        "name": "Ha\u00efti (Kaidi tatham Remix)",
+        "url": "https://open.spotify.com/album/16bLKmPNrKoL6j3WUnYLpN"
+      },
+      "artists": [
+        {
+          "name": "Rodolphe Lauretta",
+          "url": "https://open.spotify.com/artist/0dY6C9QRg2uY9iY9vNbxzQ"
+        },
+        {
+          "name": "Kaidi Tatham",
+          "url": "https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316160,
+      "name": "Ha\u00efti - Kaidi Tatham Remix",
+      "url": "https://open.spotify.com/track/006aNwI2WYQ44KUQOlreXC"
+    },
+    {
+      "album": {
         "name": "Heat Of The Moment",
         "url": "https://open.spotify.com/album/79Bhfp8xlbhgfZ0jLWMuSj"
       },
@@ -4080,6 +4124,24 @@
       "duration_ms": 250480,
       "name": "Hizuki",
       "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
+    },
+    {
+      "album": {
+        "name": "Dark Black",
+        "url": "https://open.spotify.com/album/2eV8dXQXxJderdQEvY3ZuC"
+      },
+      "artists": [
+        {
+          "name": "Marie Sarah",
+          "url": "https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185493,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/7JLnz4gduHX0gXdaCp33Kb"
     },
     {
       "album": {
@@ -4944,7 +5006,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 226029,
       "name": "Just",
       "url": "https://open.spotify.com/track/2a4PkVPUiH7ITVbUUxlxtx"
@@ -5705,6 +5767,28 @@
     },
     {
       "album": {
+        "name": "EDEN BEACH CLUB",
+        "url": "https://open.spotify.com/album/1t09svidUSt1tXFFqhIAYz"
+      },
+      "artists": [
+        {
+          "name": "Laurent Bardainne",
+          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
+        },
+        {
+          "name": "Tigre d'Eau Douce",
+          "url": "https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252769,
+      "name": "Luxe, calme et volupt\u00e9",
+      "url": "https://open.spotify.com/track/6M0r4QcBoTdkPpFkyVUhl9"
+    },
+    {
+      "album": {
         "name": "La source",
         "url": "https://open.spotify.com/album/0019HzLbrGXubxmtWZvrx0"
       },
@@ -6332,6 +6416,28 @@
       "duration_ms": 272113,
       "name": "Music Box",
       "url": "https://open.spotify.com/track/66A3w6W20wVYW2327l60EB"
+    },
+    {
+      "album": {
+        "name": "My Baby Just Cares for Me (Pompignan Take)",
+        "url": "https://open.spotify.com/album/3lcDjloVVM2Iu43tyRDatt"
+      },
+      "artists": [
+        {
+          "name": "Jacky Terrasson",
+          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
+        },
+        {
+          "name": "Kareen Guiock-Thuram",
+          "url": "https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192573,
+      "name": "My Baby Just Cares for Me (Pompignan Take)",
+      "url": "https://open.spotify.com/track/7MT7wDaOW2nzOthUTS2GR8"
     },
     {
       "album": {
@@ -7540,7 +7646,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 481325,
       "name": "Retreat",
       "url": "https://open.spotify.com/track/3diGyW1Q9dHoE9Qk1u4hXe"
@@ -8040,6 +8146,24 @@
       "duration_ms": 274945,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0"
+    },
+    {
+      "album": {
+        "name": "D Day",
+        "url": "https://open.spotify.com/album/5jiKkzg09f3YoQq5ewYSR8"
+      },
+      "artists": [
+        {
+          "name": "Monty Alexander",
+          "url": "https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390733,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/4gnLPUf5GDEH1jl8XGqM2O"
     },
     {
       "album": {

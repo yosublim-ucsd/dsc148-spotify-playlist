@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Woro Widowati",
+  "description": "Dendang Dangdut teratas. Cover: Warda",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -328,6 +328,24 @@
       "duration_ms": 271106,
       "name": "Bintang Tertutup Awan",
       "url": "https://open.spotify.com/track/3sarIVZdIKTZB6SD9A2c5F"
+    },
+    {
+      "album": {
+        "name": "Blebah",
+        "url": "https://open.spotify.com/album/0YIE6bVQo1DQTW2cUvb1Kn"
+      },
+      "artists": [
+        {
+          "name": "Sherly Ulvia",
+          "url": "https://open.spotify.com/artist/0G9RDvOnKMlEDruXEaGG8V"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327913,
+      "name": "Blebah",
+      "url": "https://open.spotify.com/track/0OqiXDYtBXixteIxjOYyW3"
     },
     {
       "album": {
@@ -1664,6 +1682,24 @@
       "duration_ms": 268795,
       "name": "Menyerah",
       "url": "https://open.spotify.com/track/17QG2cIIyiUk3938GRLRTq"
+    },
+    {
+      "album": {
+        "name": "Meraih Impian",
+        "url": "https://open.spotify.com/album/2CkCEt6jf0yPavwwFH5aAY"
+      },
+      "artists": [
+        {
+          "name": "Warda",
+          "url": "https://open.spotify.com/artist/13VpyoFwcfTMN0wLMMshRw"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253077,
+      "name": "Meraih Impian",
+      "url": "https://open.spotify.com/track/0Cg4RdstxbC0l265xzKRLU"
     },
     {
       "album": {

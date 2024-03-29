@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 43554,
+  "2024-03-29": 43554,
   "date_first_scraped": "2023-12-14",
   "description": "Turn this playlist all the way up! Babyface Ray, Money Man &amp; Young Dolph x Key Glock. ",
   "name": "All The Way Up",
@@ -1480,7 +1480,7 @@
     },
     {
       "album": {
-        "name": "Walk",
+        "name": "walk",
         "url": "https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9"
       },
       "artists": [
@@ -1491,13 +1491,17 @@
         {
           "name": "Luh Tyler",
           "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Cash Kidd",
+          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
         }
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 124965,
-      "name": "Walk",
+      "duration_ms": 145649,
+      "name": "walk",
       "url": "https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65533,
+  "num_followers": 65535,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Njc4M2UzYTI4MzdiZTA2ZTgyYTIwOTUzMmJiMWFhY2ZhMzM0Yjk1",
+  "snapshot_id": "MCw0NGU2YmY5N2RjYzY2NGZmOWMyZWM2ZDExNDY5ZTAwYjQyZDc4NjEy",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Saade, Vol. 1",
-        "url": "https://open.spotify.com/album/3ZaKROktb3ejok1owIknk7"
-      },
-      "artists": [
-        {
-          "name": "Eric Saade",
-          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
-        }
-      ],
-      "duration_ms": 180813,
-      "name": "Popular",
-      "url": "https://open.spotify.com/track/64WR5TPXZZ2wsWYA3enKfK"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Lie to Me",
         "url": "https://open.spotify.com/album/5EeLrqlSbR0pa6J7hglLG5"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 171080,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/6zBdVVksaTQeAzwfszbovz"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Saade, Vol. 1",
+        "url": "https://open.spotify.com/album/3ZaKROktb3ejok1owIknk7"
+      },
+      "artists": [
+        {
+          "name": "Eric Saade",
+          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
+        }
+      ],
+      "duration_ms": 180813,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/64WR5TPXZZ2wsWYA3enKfK"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Wings Of Love",
-        "url": "https://open.spotify.com/album/0dF4TpultM9Ch3jazO0cN5"
-      },
-      "artists": [
-        {
-          "name": "Br\u00f8drene Olsen",
-          "url": "https://open.spotify.com/artist/4pM3DAhLOqMQT5z4pl0Sri"
-        }
-      ],
-      "duration_ms": 185066,
-      "name": "Fly on the Wings of Love",
-      "url": "https://open.spotify.com/track/4v2RaPHSsTvNkggw3RqyeT"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Hits chanson fran\u00e7aise",
         "url": "https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 153346,
       "name": "Poup\u00e9e de cire, poup\u00e9e de son",
       "url": "https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Wings Of Love",
+        "url": "https://open.spotify.com/album/0dF4TpultM9Ch3jazO0cN5"
+      },
+      "artists": [
+        {
+          "name": "Br\u00f8drene Olsen",
+          "url": "https://open.spotify.com/artist/4pM3DAhLOqMQT5z4pl0Sri"
+        }
+      ],
+      "duration_ms": 185066,
+      "name": "Fly on the Wings of Love",
+      "url": "https://open.spotify.com/track/4v2RaPHSsTvNkggw3RqyeT"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "La Det Swinge",
+        "url": "https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa"
+      },
+      "artists": [
+        {
+          "name": "Bobbysocks",
+          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "La Det Swinge",
+      "url": "https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/2tJbLZDH2pNDCYQYaUl2oC"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 174626,
       "name": "Always - Single Version",
       "url": "https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "La Det Swinge",
-        "url": "https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa"
-      },
-      "artists": [
-        {
-          "name": "Bobbysocks",
-          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "La Det Swinge",
-      "url": "https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Lipstick",
-        "url": "https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA"
-      },
-      "artists": [
-        {
-          "name": "Jedward",
-          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Lipstick - Radio Edit",
-      "url": "https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "\u0421\u043e\u043b\u043d\u0446\u0435",
         "url": "https://open.spotify.com/album/3Be7rJ72wTrmE0W6oSUt32"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 178880,
       "name": "Shady Lady",
       "url": "https://open.spotify.com/track/0DHet9TdSsdouIbOjvLf3m"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA"
+      },
+      "artists": [
+        {
+          "name": "Jedward",
+          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Lipstick - Radio Edit",
+      "url": "https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4"
     },
     {
       "added_at": "2023-05-05 17:20:54",

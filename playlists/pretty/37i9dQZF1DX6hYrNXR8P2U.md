@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Más música, menos etiquetas\.  <br/>📷 Feli Colina & BLAIR
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,890 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,899 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [Mi Amor](https://open.spotify.com/track/4JTFZGp79eIpo5OhUJVmB1) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M), [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf) | [Mi amor](https://open.spotify.com/album/0PoKNzX5Z7nTQgLzUZ8VSP) | 2:34 |
 | 100 | [AMANECER](https://open.spotify.com/track/1DDqxK4J41BGZXavc4cSuh) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E) | [AMANECER](https://open.spotify.com/album/1inF5EvaN9ugCIyw33Q1F5) | 3:01 |
 
-Snapshot ID: `MCwyZTcwYjBiM2IxZTk3YTE0ODE3ZGVhNDRkYzAxZmM1Y2I0YmQ4Zjlm`
+Snapshot ID: `MCw2NzY4OTk4ZjE5Yjc4MmIzYzkxYTAwZDQzY2RjYjM5MDM0NWI1ODNl`

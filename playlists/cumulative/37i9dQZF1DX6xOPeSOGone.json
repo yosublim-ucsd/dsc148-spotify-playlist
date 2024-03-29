@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "As The Time Flies",
+        "url": "https://open.spotify.com/album/7yLRgAHHQhdEv0zdpIOLew"
+      },
+      "artists": [
+        {
+          "name": "Frank Weber",
+          "url": "https://open.spotify.com/artist/1eSiF3yqrDvs9oT6fz8GqF"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250920,
+      "name": "'71",
+      "url": "https://open.spotify.com/track/3D2E1gVqgXa5Wu3JmaQPY2"
+    },
+    {
+      "album": {
         "name": "Ring",
         "url": "https://open.spotify.com/album/41aJgAReVkh1pA0aKAvT4W"
       },
@@ -521,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Baby I'm-a Want You",
+        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150706,
+      "name": "Baby I'm-a Want You",
+      "url": "https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7"
+    },
+    {
+      "album": {
         "name": "Chicago XI",
         "url": "https://open.spotify.com/album/2Uq6uCf2FOmVl30J6028N1"
       },
@@ -929,6 +965,24 @@
     },
     {
       "album": {
+        "name": "Jerry Corbetta",
+        "url": "https://open.spotify.com/album/0aUPeCHJGwbHyG3aQ9CpcW"
+      },
+      "artists": [
+        {
+          "name": "Jerry Corbetta",
+          "url": "https://open.spotify.com/artist/2EZbiVzmsTlzoB0h4qGbbK"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335333,
+      "name": "Caribbean Lady",
+      "url": "https://open.spotify.com/track/6eQVkHUqeI9nPrWQRhDWJS"
+    },
+    {
+      "album": {
         "name": "The Final Countdown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
@@ -1052,6 +1106,24 @@
       "duration_ms": 253906,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/3sYWyVGfPuit80szWXhrRA"
+    },
+    {
+      "album": {
+        "name": "Cool Fool",
+        "url": "https://open.spotify.com/album/5y5UZa5Nl26PfFugFworBq"
+      },
+      "artists": [
+        {
+          "name": "Bruce Roberts",
+          "url": "https://open.spotify.com/artist/1liZxHhIHGMKRPV0Fdy4a5"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265106,
+      "name": "Cool Fool",
+      "url": "https://open.spotify.com/track/2Xsl0KsPjC6U9i8eiT7UM2"
     },
     {
       "album": {
@@ -1343,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "Terence Boylan",
+        "url": "https://open.spotify.com/album/07anyJDtgAtmv6Kw6V9lai"
+      },
+      "artists": [
+        {
+          "name": "Terence Boylan",
+          "url": "https://open.spotify.com/artist/7tEqcCZQ38VjTnpBVuRBoL"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208826,
+      "name": "Don't Hang up Those Dancing Shoes",
+      "url": "https://open.spotify.com/track/5hrpOBm7vZsCg408wNAuat"
+    },
+    {
+      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/4Rvc82pV7HCKZyRHbLWCac"
       },
@@ -1397,6 +1487,24 @@
     },
     {
       "album": {
+        "name": "Marooned",
+        "url": "https://open.spotify.com/album/41gCEwhvLkbNwe42sgUXKp"
+      },
+      "artists": [
+        {
+          "name": "Larry Lee",
+          "url": "https://open.spotify.com/artist/5Y729ErsydFUk0LNrCkdIH"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199880,
+      "name": "Don't Talk",
+      "url": "https://open.spotify.com/track/1RJ4vjgb8jz7BkFdnCbLa3"
+    },
+    {
+      "album": {
         "name": "Success Hasn't Spoiled Me",
         "url": "https://open.spotify.com/album/34Des1p8Uh34J9PFl5oE6p"
       },
@@ -1412,6 +1520,24 @@
       "duration_ms": 180360,
       "name": "Don't Talk to Strangers",
       "url": "https://open.spotify.com/track/27m9QagiBV62JyGVk360kT"
+    },
+    {
+      "album": {
+        "name": "Roger Voudouris",
+        "url": "https://open.spotify.com/album/2pSocuPOPZSA60dBAPpY5Y"
+      },
+      "artists": [
+        {
+          "name": "Roger Voudouris",
+          "url": "https://open.spotify.com/artist/0AfDBW6x1y3cJ7U8wSasVM"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188133,
+      "name": "Don't Turn My Music Down",
+      "url": "https://open.spotify.com/track/1bo2TgOdc3Qx21KXV6dNI4"
     },
     {
       "album": {
@@ -1924,6 +2050,24 @@
       "duration_ms": 267080,
       "name": "Faithfully",
       "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
+    },
+    {
+      "album": {
+        "name": "Main Course",
+        "url": "https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243560,
+      "name": "Fanny (Be Tender With My Love)",
+      "url": "https://open.spotify.com/track/7KUHpRlZQR91SLflhsQCg9"
     },
     {
       "album": {
@@ -2788,6 +2932,24 @@
       "duration_ms": 227266,
       "name": "How Do You Talk To An Angel?",
       "url": "https://open.spotify.com/track/2QVHmiFTjFsHyxONRdbkcq"
+    },
+    {
+      "album": {
+        "name": "How Long (Has This Been Going On)",
+        "url": "https://open.spotify.com/album/5oVn8tFSdzViyI1i7Y25Vr"
+      },
+      "artists": [
+        {
+          "name": "Players",
+          "url": "https://open.spotify.com/artist/7M5XG1TqWfmHmxYWi1Stzf"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "How Long (Has This Been Going On)",
+      "url": "https://open.spotify.com/track/2tn2oznLGgPRJBmptAR5Qd"
     },
     {
       "album": {
@@ -4527,6 +4689,24 @@
     },
     {
       "album": {
+        "name": "Faragher Brothers",
+        "url": "https://open.spotify.com/album/1TyHZPxwgW2Vx0tlpx2R0d"
+      },
+      "artists": [
+        {
+          "name": "Faragher Brothers",
+          "url": "https://open.spotify.com/artist/4zUTx3tB4IQyx7CorqZBHK"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241706,
+      "name": "Never Get Your Love Behind Me",
+      "url": "https://open.spotify.com/track/1jjMfsvOte0io1mTaN9iQn"
+    },
+    {
+      "album": {
         "name": "Goodbye Girl",
         "url": "https://open.spotify.com/album/6In7MCrPTTezZiHrdFtSDd"
       },
@@ -4718,7 +4898,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 248333,
       "name": "Now And Then",
       "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
@@ -5607,6 +5787,24 @@
     },
     {
       "album": {
+        "name": "A Rock And Roll Alternative",
+        "url": "https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO"
+      },
+      "artists": [
+        {
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260866,
+      "name": "So Into You",
+      "url": "https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX"
+    },
+    {
+      "album": {
         "name": "How To Dismantle An Atomic Bomb",
         "url": "https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT"
       },
@@ -5892,6 +6090,24 @@
       "duration_ms": 205480,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/01UYpHuzHi4eB9PAbDoPY2"
+    },
+    {
+      "album": {
+        "name": "Brian Elliot",
+        "url": "https://open.spotify.com/album/3sN2GfqZMYYsJhFIgaM3Q6"
+      },
+      "artists": [
+        {
+          "name": "Brian Elliot",
+          "url": "https://open.spotify.com/artist/30hP1jEM2nQ7ehVc5Vshed"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190106,
+      "name": "Summer Nights in Hollywood",
+      "url": "https://open.spotify.com/track/7akwJF31cm16zeovNH8DZj"
     },
     {
       "album": {
@@ -6288,6 +6504,24 @@
       "duration_ms": 185413,
       "name": "The Sound of Silence - Acoustic Version",
       "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+    },
+    {
+      "album": {
+        "name": "Deceptive Bends",
+        "url": "https://open.spotify.com/album/6D3RQD5AQZ4P2aDzsZmBI4"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207573,
+      "name": "The Things We Do For Love",
+      "url": "https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR"
     },
     {
       "album": {
@@ -7077,6 +7311,24 @@
     },
     {
       "album": {
+        "name": "Arcade",
+        "url": "https://open.spotify.com/album/0a1A3fIDAcAGNjtOkuYSOj"
+      },
+      "artists": [
+        {
+          "name": "Patrick Simmons",
+          "url": "https://open.spotify.com/artist/1kZxI5FlVdFxgoRaiJ8hf0"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240040,
+      "name": "Why You Givin' Up",
+      "url": "https://open.spotify.com/track/4BNb1sbtoS1cwT0LLjTblA"
+    },
+    {
+      "album": {
         "name": "Heart Shaped World",
         "url": "https://open.spotify.com/album/7DJNtoXELIm2KIhEpZfEv0"
       },
@@ -7571,6 +7823,24 @@
     },
     {
       "album": {
+        "name": "Firefall",
+        "url": "https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o"
+      },
+      "artists": [
+        {
+          "name": "Firefall",
+          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164440,
+      "name": "You Are the Woman",
+      "url": "https://open.spotify.com/track/4iiLzvbh0bXMnomiB6DIuk"
+    },
+    {
+      "album": {
         "name": "Boys in the Trees",
         "url": "https://open.spotify.com/album/6TUPBFLSBxRwHDXV0y3AHs"
       },
@@ -7730,6 +8000,24 @@
       "duration_ms": 225506,
       "name": "You're All That I Need",
       "url": "https://open.spotify.com/track/7a8WQOzVw3T4B37LRJoAp5"
+    },
+    {
+      "album": {
+        "name": "Retro Active",
+        "url": "https://open.spotify.com/album/0ncxOGs5dci5EbDJGb5j5F"
+      },
+      "artists": [
+        {
+          "name": "Robert Kraft",
+          "url": "https://open.spotify.com/artist/3OQ6LmhU59NAsdJfQHQmaa"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207840,
+      "name": "You're Blue Too",
+      "url": "https://open.spotify.com/track/2B2BzZuerHsjJVIk7tgbFk"
     },
     {
       "album": {

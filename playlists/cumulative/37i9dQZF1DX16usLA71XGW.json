@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-20",
-  "description": "East Africa queens in their music bag. Cover: Muthoni Drummer Queen",
+  "description": "East Africa queens in their music bag. Cover: Polaris Pauline",
   "name": "Malkia",
   "tracks": [
     {
@@ -284,7 +284,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 190515,
       "name": "EN3RGY",
       "url": "https://open.spotify.com/track/7s1cUqddTHFRmL66cuyAlh"
@@ -1834,6 +1834,24 @@
       "duration_ms": 234666,
       "name": "Sitachelewa",
       "url": "https://open.spotify.com/track/2pEKF6WOg0Z4IalfGDwYp1"
+    },
+    {
+      "album": {
+        "name": "Tufanye?",
+        "url": "https://open.spotify.com/album/6HbpDwNycYIw628UtTGiT0"
+      },
+      "artists": [
+        {
+          "name": "Polaris Pauline",
+          "url": "https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "Sitaki",
+      "url": "https://open.spotify.com/track/3jLbPvmEX7niNIoFCQjY7I"
     },
     {
       "album": {

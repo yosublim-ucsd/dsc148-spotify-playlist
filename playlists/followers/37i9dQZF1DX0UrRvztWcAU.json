@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 1341517,
+  "2024-03-29": 1341543,
   "date_first_scraped": "2021-12-21",
   "description": "Set the mood of your day with these happy songs.",
   "name": "Wake Up Happy",
@@ -1787,7 +1787,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 219373,
       "name": "Capital Letters",
       "url": "https://open.spotify.com/track/6l0Ky2PycJV1Bz88kFeVGL"
@@ -6791,6 +6791,24 @@
       "duration_ms": 178426,
       "name": "Move On",
       "url": "https://open.spotify.com/track/3KTVQGLS2np8dWe5s4F9EN"
+    },
+    {
+      "album": {
+        "name": "D-D-Don't Don't Stop the Beat",
+        "url": "https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7"
+      },
+      "artists": [
+        {
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6"
     },
     {
       "album": {

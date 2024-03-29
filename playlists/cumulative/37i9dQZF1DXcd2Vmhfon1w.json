@@ -2719,6 +2719,32 @@
     },
     {
       "album": {
+        "name": "JURAME",
+        "url": "https://open.spotify.com/album/57dlX1CoFPthT0f9XLYYoe"
+      },
+      "artists": [
+        {
+          "name": "Sule B",
+          "url": "https://open.spotify.com/artist/2YVwfaL3C5K4KQiNHfI8aK"
+        },
+        {
+          "name": "Cheb Ruben",
+          "url": "https://open.spotify.com/artist/4hsO4OgoQ1Wz2K0vyqEIpf"
+        },
+        {
+          "name": "Sceno",
+          "url": "https://open.spotify.com/artist/75CrPxuxEtojeIeFidQeMH"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134655,
+      "name": "JURAME",
+      "url": "https://open.spotify.com/track/7EwDTkzr2M4TkSkWFCb5u6"
+    },
+    {
+      "album": {
         "name": "Kazike",
         "url": "https://open.spotify.com/album/1kfkqYuwTD8S0PJxNngGdG"
       },
@@ -2811,6 +2837,32 @@
     },
     {
       "album": {
+        "name": "Konbini Wars",
+        "url": "https://open.spotify.com/album/1mCk7AHyKfC93rJ8tjhRZg"
+      },
+      "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173414,
+      "name": "Konbini Wars",
+      "url": "https://open.spotify.com/track/4G6fhntNzO01jPr2jV8TAk"
+    },
+    {
+      "album": {
         "name": "Kurosawa",
         "url": "https://open.spotify.com/album/6NO60vTg71nt4e397VOlz3"
       },
@@ -2856,7 +2908,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 198000,
       "name": "La Chatarra",
       "url": "https://open.spotify.com/track/3rDOICIhlKdAoDODvDoivf"
@@ -3092,6 +3144,28 @@
       "duration_ms": 170322,
       "name": "LA \u00daLTIMA",
       "url": "https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb"
+    },
+    {
+      "album": {
+        "name": "La \u00daltima Ronda",
+        "url": "https://open.spotify.com/album/387JwEnxp4T547oXCL8Brp"
+      },
+      "artists": [
+        {
+          "name": "El Momo",
+          "url": "https://open.spotify.com/artist/7HhsUsekYDNFOeqiq54VbW"
+        },
+        {
+          "name": "Kase.O",
+          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207850,
+      "name": "La \u00daltima Ronda",
+      "url": "https://open.spotify.com/track/2l6W5JKXwqx1ZuARazOWJC"
     },
     {
       "album": {
@@ -3816,7 +3890,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 204705,
       "name": "Me rindo por hoy",
       "url": "https://open.spotify.com/track/224BnTtRO2rh1VvYxDbtCZ"
@@ -4613,6 +4687,32 @@
     },
     {
       "album": {
+        "name": "Old G's & New G's",
+        "url": "https://open.spotify.com/album/0wicuIUwDpmIWWZiAb6RN4"
+      },
+      "artists": [
+        {
+          "name": "Gente Jodida",
+          "url": "https://open.spotify.com/artist/5C1iCZfbKq6WWOzkgvl7TJ"
+        },
+        {
+          "name": "Ill Peke\u00f1o",
+          "url": "https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8"
+        },
+        {
+          "name": "Ergo Pro",
+          "url": "https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169725,
+      "name": "Old G's & New G's",
+      "url": "https://open.spotify.com/track/0AHAxGwslsz8RZowsSPBXj"
+    },
+    {
+      "album": {
         "name": "Opel Kadett",
         "url": "https://open.spotify.com/album/4J2EeScFOJvt8kJniOzDLJ"
       },
@@ -4834,7 +4934,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 171882,
       "name": "PINK FLOYD",
       "url": "https://open.spotify.com/track/2YXmkEgrudYSKpNu4kKl0e"

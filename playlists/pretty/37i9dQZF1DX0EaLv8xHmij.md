@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Jovem MK
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,373 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,374 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 62 | [Dudley Boyz](https://open.spotify.com/track/0Pj8wKuf5TDRtQ5kv9mRtW) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Ogoin & Linguini: TV Show](https://open.spotify.com/album/1rKjTHrC5iRC5e9Vm8Widv) | 3:22 |
 | 63 | [SoulCrime](https://open.spotify.com/track/3wdqcWmIbOTxUtFUCJ2M9F) | [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [Cronus](https://open.spotify.com/artist/1zK877kicLoZ5q8CiTN8li) | [SoulCrime](https://open.spotify.com/album/2tMpwH9sCsmwr4Sprp7VtQ) | 2:03 |
 | 64 | [ZIG ZAG](https://open.spotify.com/track/26aP5eXvDcnxdtpHCVl0Jh) | [Raonir Braz](https://open.spotify.com/artist/44w1bg6i4nDOZMvNnGiRdg) | [PERSONA Vol\. 2](https://open.spotify.com/album/3B2MpuHunAGSZ8FwpYK5lx) | 2:32 |
-| 65 | [Dia de Baile](https://open.spotify.com/track/4PfqsdrU6sLm9o5mQyL3Ab) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Xizoh](https://open.spotify.com/artist/0NjUbCAKnxMxMYT6adoRdI) | [Antiherói](https://open.spotify.com/album/1wI62kfrg6KQCK79ukw2Es) | 1:58 |
+| 65 | [Dia de Baile](https://open.spotify.com/track/4PfqsdrU6sLm9o5mQyL3Ab) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Xizoh](https://open.spotify.com/artist/0NjUbCAKnxMxMYT6adoRdI) | [ANTI\-HERÓI](https://open.spotify.com/album/1wI62kfrg6KQCK79ukw2Es) | 1:58 |
 | 66 | [Retrato \#6 \- Astro](https://open.spotify.com/track/1bgjgBhjaCe8YKbdexhQFJ) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [AZN Studio](https://open.spotify.com/artist/3mmQ2jRf2DDpkI844nTT1h) | [Retrato \#6 \- Astro](https://open.spotify.com/album/53y6Pk5lZr59jBGxEE0IHH) | 2:21 |
 | 67 | [DRILL](https://open.spotify.com/track/52Tf4Az267JIt0cTfEuwIT) | [Pexande](https://open.spotify.com/artist/2q0FHjgmI45xHxbdXkxYAK) | [DRILL](https://open.spotify.com/album/7M8MImMKcogtsASCL5cXVb) | 2:30 |
 | 68 | [Ganhos](https://open.spotify.com/track/0wrePFro6HxW7tjYWC7uqi) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [DaFrança](https://open.spotify.com/artist/2V4G3cFRwJpGpO27YJQ4cK), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q) | [Ganhos](https://open.spotify.com/album/333I0QRAviHx2YewC8c4gI) | 2:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Esse Din Aqui](https://open.spotify.com/track/0HreFBS2oxj7lPeMcYKjeZ) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt), [MAD GUI](https://open.spotify.com/artist/3EurgulwAwWZ9hjxOQ0NXv) | [Esse Din Aqui](https://open.spotify.com/album/1TyxLermgwhsVhQf44sdR3) | 2:10 |
 | 75 | [Me Joguei](https://open.spotify.com/track/3i5ougZJSMT6WFDKVRdIjt) | [Cesola](https://open.spotify.com/artist/6Zk2Z3tctpDw4FNu1NWYIC), [queronemsabe](https://open.spotify.com/artist/6f9JkorbAuANVLCt0mLHJ5) | [Me Joguei](https://open.spotify.com/album/6TW9nwIFkQ4P0QfWllwknq) | 2:54 |
 
-Snapshot ID: `MCxjOWJkMjA3NDc5ZTQzMThmZWZkMDJhNjgzNWU1Mjk4MDBiNzlmYjBm`
+Snapshot ID: `MCw3Y2E0ODMzYTM1YWY1NGE1ZmEyYzNiNTg5OTNkYThkNDdhZWQyZTlh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Nicky Elisabeth\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,064 likes - 85 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,159 likes - 85 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 84 | [Je Préfère Ça](https://open.spotify.com/track/6EFCqqmQPbfPTiGaTX2o8r) | [Marine Neuilly](https://open.spotify.com/artist/4YwQhwRfbRMFIplXwGQezw) | [Je Préfère Ça](https://open.spotify.com/album/3bQniI8gmo3higCnIQ3MYe) | 3:17 |
 | 85 | [Straight from the Underground](https://open.spotify.com/track/3aChvUQ1AxLrRZM43C1DQm) | [Løne Døg](https://open.spotify.com/artist/5M4CIxy6u5hKcneJxiQQJ7) | [Straight from the Underground](https://open.spotify.com/album/4obZu6Ej9zpn6P2DsTyFpd) | 4:18 |
 
-Snapshot ID: `MCw1MGQ5MmQxZThlYzIwYWVjNjZlNTZhODkyNWViMWRmZmQ3MDJlODRl`
+Snapshot ID: `MCwzNzMyZTYwZGQ0M2RlZjJiMGUyYmQxMDNjNGJlN2FmMTc5YjdmYjlk`

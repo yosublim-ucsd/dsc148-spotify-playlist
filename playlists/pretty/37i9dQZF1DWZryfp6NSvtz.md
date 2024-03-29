@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: One Step Closer
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,868 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,033 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [I Don't Know](https://open.spotify.com/track/3QcICY8v0INVnnmnvMDLc3) | [Druidess](https://open.spotify.com/artist/6N29twfYpFP41MiqaJuCDW) | [I Don't Know](https://open.spotify.com/album/0hjToFPcuqdDHFGb64FU5r) | 2:59 |
 | 50 | [Kathleen](https://open.spotify.com/track/4s7l0JNvkvFjoD40Am4p1P) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7), [Harlee Young](https://open.spotify.com/artist/5PjLHWWAAV9GJBRChXuclG) | [Kathleen](https://open.spotify.com/album/6HbXom8ITK6F2IBYVkj0uO) | 2:18 |
 
-Snapshot ID: `MCwyMzVjY2FjOTg3ZmNkZmNhNGUxOTYyNWMwYWEzYzU0MTIwMTBiM2Uz`
+Snapshot ID: `MCwxY2I0YzM4MTQxYTk4NzAyZDM5NjJiNzY5MWIzOGYxZmI1ODk2NGMw`

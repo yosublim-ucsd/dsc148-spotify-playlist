@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 5315506,
+  "2024-03-29": 5317071,
   "date_first_scraped": "2019-05-26",
   "description": "The biggest songs of the 1970s. Cover: Roberta Flack",
   "name": "All Out 70s",
@@ -1221,6 +1221,24 @@
       "duration_ms": 273999,
       "name": "Can't Get Enough Of Your Love, Babe",
       "url": "https://open.spotify.com/track/0hSAR39xfxXXs2LmwjTWUI"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
     },
     {
       "album": {
@@ -4319,7 +4337,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 233173,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"

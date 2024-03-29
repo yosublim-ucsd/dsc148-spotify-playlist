@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 
 > Holy fuck I&\#x27;m so tired
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 46 songs - 2 hr 38 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 47 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,5 +54,6 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 | 44 | [Shuffle](https://open.spotify.com/track/7FKkJ0NDrMobvDw1jD8w58) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Mysteries for Rats](https://open.spotify.com/album/2lLqbdwvNw8zWDYwk1nsED) | 2:43 |
 | 45 | [Cigarette Ahegao](https://open.spotify.com/track/67VxWciiaYZYy3NTlyCtp7) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:03 |
 | 46 | [Moonsickness](https://open.spotify.com/track/4lOEGaLwY4yN2WFfGIq2Tr) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 5:14 |
+| 47 | [Hurt](https://open.spotify.com/track/4CIDpgIby1S9PPnDNUnxdg) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:25 |
 
-Snapshot ID: `NTIsYTBjZDBjNTg1YWNhMTY2ZjQ1YjYzOGM2NTMzODBhOGUxYTEyZTFmNw==`
+Snapshot ID: `NTMsN2I1YzVjYzlmNjQ0ZmNjNzYwZmYzYzdlZmMxNGQ5ZDg5NzNjOWY1NA==`

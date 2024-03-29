@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 238158,
+  "2024-03-29": 238324,
   "date_first_scraped": "2024-01-20",
   "description": "Lagu-lagu terpopuler dari dekade 2010an. Cover: Astrid",
   "name": "Ngetren di 2010an",
@@ -2116,6 +2116,24 @@
     },
     {
       "album": {
+        "name": "Terlalu Lama Sendiri",
+        "url": "https://open.spotify.com/album/0GB76JaYDPhZJK5hvXGicY"
+      },
+      "artists": [
+        {
+          "name": "Kunto Aji",
+          "url": "https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241708,
+      "name": "Terlalu Lama Sendiri",
+      "url": "https://open.spotify.com/track/0UmeNfgZMk7ZSDodkkcTwH"
+    },
+    {
+      "album": {
         "name": "Generation Y",
         "url": "https://open.spotify.com/album/6AsfYvHD9yFB7UrZLeWsuZ"
       },
@@ -2127,7 +2145,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 241708,
       "name": "Terlalu Lama Sendiri",
       "url": "https://open.spotify.com/track/2BYjHJxyEgy5Bu8wFgeSAg"

@@ -1,12 +1,12 @@
 {
   "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover: <a href=\"https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=QOxAEPw5SfeFdIYUaljgEA\">Christina Shusho</a> ",
-  "num_followers": 13091,
+  "num_followers": 13152,
   "original_name": "Swahili Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTU3M2FhNzZkYWU5YjM5YThmMjY2ZTY3MjI3MWI5NGZjZmMzNDA3",
+  "snapshot_id": "MCwxZTg1YWVlMzYzMjE2MDQwMzFlZWE3ZWRjMTJiYTY2M2JjYTEwMGZh",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9"
     },
     {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "AMENIWEKA HURU KWELI (Nyimbo za wokovu) ALBUM 2",
-        "url": "https://open.spotify.com/album/5kBT5i8KJqCS9ka4RwEAKu"
-      },
-      "artists": [
-        {
-          "name": "Papi Clever & Dorcas",
-          "url": "https://open.spotify.com/artist/0BuyM2PAaY1aqSqvYkV26J"
-        }
-      ],
-      "duration_ms": 398000,
-      "name": "Ameniweka huru kweli",
-      "url": "https://open.spotify.com/track/6TxbYqlgD57ftgtbZh7cw9"
-    },
-    {
       "added_at": "2023-11-24 00:01:00",
       "album": {
         "name": "Umusirikare",
@@ -55,6 +39,22 @@
       "duration_ms": 670000,
       "name": "Nina Siri",
       "url": "https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "AMENIWEKA HURU KWELI (Nyimbo za wokovu) ALBUM 2",
+        "url": "https://open.spotify.com/album/5kBT5i8KJqCS9ka4RwEAKu"
+      },
+      "artists": [
+        {
+          "name": "Papi Clever & Dorcas",
+          "url": "https://open.spotify.com/artist/0BuyM2PAaY1aqSqvYkV26J"
+        }
+      ],
+      "duration_ms": 398000,
+      "name": "Ameniweka huru kweli",
+      "url": "https://open.spotify.com/track/6TxbYqlgD57ftgtbZh7cw9"
     },
     {
       "added_at": "2023-06-16 00:01:00",
@@ -105,22 +105,6 @@
       "url": "https://open.spotify.com/track/0MmeFIEKNgYpw1cHWgBMJd"
     },
     {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Coeur \u00e0 Coeur",
-        "url": "https://open.spotify.com/album/49ssUVOK4uqFvzQyVHNFkh"
-      },
-      "artists": [
-        {
-          "name": "Patrick Kubuya",
-          "url": "https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2"
-        }
-      ],
-      "duration_ms": 309864,
-      "name": "Moyo Wangu",
-      "url": "https://open.spotify.com/track/2QhujhH9Sq63INScYDMa0Z"
-    },
-    {
       "added_at": "2023-06-16 00:01:00",
       "album": {
         "name": "Safari: The Journey",
@@ -135,6 +119,22 @@
       "duration_ms": 282932,
       "name": "Naomba",
       "url": "https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV"
+    },
+    {
+      "added_at": "2022-06-24 17:41:13",
+      "album": {
+        "name": "Coeur \u00e0 Coeur",
+        "url": "https://open.spotify.com/album/49ssUVOK4uqFvzQyVHNFkh"
+      },
+      "artists": [
+        {
+          "name": "Patrick Kubuya",
+          "url": "https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2"
+        }
+      ],
+      "duration_ms": 309864,
+      "name": "Moyo Wangu",
+      "url": "https://open.spotify.com/track/2QhujhH9Sq63INScYDMa0Z"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -183,6 +183,22 @@
       "duration_ms": 200857,
       "name": "Kwa Yesu",
       "url": "https://open.spotify.com/track/2zgITxAOZXWxt1JLAOlYxB"
+    },
+    {
+      "added_at": "2024-03-28 21:55:53",
+      "album": {
+        "name": "Nimefichwa",
+        "url": "https://open.spotify.com/album/6y2am1XRqcxkvDi9RCogrr"
+      },
+      "artists": [
+        {
+          "name": "Enock Jonas",
+          "url": "https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9"
+        }
+      ],
+      "duration_ms": 212532,
+      "name": "Nimefichwa",
+      "url": "https://open.spotify.com/track/1itH2yw2j8YpoqyVodTC2s"
     },
     {
       "added_at": "2024-03-08 00:01:00",

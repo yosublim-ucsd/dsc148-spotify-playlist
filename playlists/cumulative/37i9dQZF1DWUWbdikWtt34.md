@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Woro Widowati
+> Dendang Dangdut teratas\. Cover: Warda
 
-161 songs - 12 hr 26 min
+163 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bertauhid](https://open.spotify.com/track/2pQ6I2NzRL0dsGc3D5Im5F) | [Sridevi DA5](https://open.spotify.com/artist/7KM65RnfkPrC4zzLoKuQ0s), [Eby DA5](https://open.spotify.com/artist/3di1pESdZfMHYO406ck1oy), [Afan DA5](https://open.spotify.com/artist/60jQVcXcjnlcFmXPkHEbfB) | [Bertauhid](https://open.spotify.com/album/70GKblOZsbv191FHhGOHsk) | 3:17 | 2023-03-13 |  |
 | [Bertepuk Sebelah Tangan](https://open.spotify.com/track/76IJq5eOqctxtHGyuEwF5Y) | [Gamma1](https://open.spotify.com/artist/4c4TlVWGSvRk1mBfZdYsnX), [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Bertepuk Sebelah Tangan](https://open.spotify.com/album/5A02IkD5iJF61AkW368oHI) | 3:14 | 2021-08-23 | 2023-06-30 |
 | [Bintang Tertutup Awan](https://open.spotify.com/track/3sarIVZdIKTZB6SD9A2c5F) | [Gunawan](https://open.spotify.com/artist/5MZr7EDPHUoy3vWUs2R88o) | [Bintang Tertutup Awan](https://open.spotify.com/album/2wSBUcaO4xdRiPL11aRxQb) | 4:31 | 2023-09-21 |  |
+| [Blebah](https://open.spotify.com/track/0OqiXDYtBXixteIxjOYyW3) | [Sherly Ulvia](https://open.spotify.com/artist/0G9RDvOnKMlEDruXEaGG8V) | [Blebah](https://open.spotify.com/album/0YIE6bVQo1DQTW2cUvb1Kn) | 5:27 | 2024-03-28 |  |
 | [Bojo Setyo](https://open.spotify.com/track/63TwHyUBMkvBbeeHr07sOG) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Bojo Setyo](https://open.spotify.com/album/2lD4cA2RppQkk2JR9dO0W2) | 4:48 | 2023-09-07 |  |
 | [Buih Jadi Permadani \(Versi Keroncong\)](https://open.spotify.com/track/37SfZOslPgeHutnlEA3NYG) | [Hetty Koes Endang](https://open.spotify.com/artist/5EITOMadvjqpslJ4Y5j5z6) | [Buih Jadi Permadani \(Versi Keroncong\)](https://open.spotify.com/album/0EUqNrL3d60KeopNKysRIz) | 4:41 | 2023-10-05 |  |
 | [Bukan Cinta Biasa](https://open.spotify.com/track/0SGLXPkGAHAzmNMUZICurK) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Bukan Cinta Biasa](https://open.spotify.com/album/0Zhnf3VQis3LBvnyeP2OxH) | 5:17 | 2023-09-28 |  |
@@ -97,6 +98,7 @@
 | [Menepuk Air Didulang](https://open.spotify.com/track/2AMNSOCtgVIgSk3mxOGGPD) | [Evie Tamala](https://open.spotify.com/artist/518KzpAUCquD9HcSLDklzd) | [Menepuk Air Didulang](https://open.spotify.com/album/7Lj33EIrcBUrTsk8CoOGNH) | 5:08 | 2023-11-17 |  |
 | [Menggapai Cinta](https://open.spotify.com/track/4rerJfXC9ursw1GszRrxuO) | [Putri Isnari](https://open.spotify.com/artist/0OnSSg1BbWcHmKtDfBpjE1) | [Menggapai Cinta](https://open.spotify.com/album/18rTICWmL8FhSeB8XMKHXa) | 5:30 | 2023-12-14 |  |
 | [Menyerah](https://open.spotify.com/track/17QG2cIIyiUk3938GRLRTq) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB), [Mom Uung](https://open.spotify.com/artist/5w0tU4gg00N5ODpshCHz6c), [Rizky Billar](https://open.spotify.com/artist/1QHSgB3sQ7xd1Cbs3yPU16) | [Menyerah](https://open.spotify.com/album/0zA93D842xuF7GCUitx0i6) | 4:28 | 2023-12-21 |  |
+| [Meraih Impian](https://open.spotify.com/track/0Cg4RdstxbC0l265xzKRLU) | [Warda](https://open.spotify.com/artist/13VpyoFwcfTMN0wLMMshRw) | [Meraih Impian](https://open.spotify.com/album/2CkCEt6jf0yPavwwFH5aAY) | 4:13 | 2024-03-28 |  |
 | [Midua Cinta 2](https://open.spotify.com/track/0KdIzVC1n2MWuPDeKO18Wy) | [Sule](https://open.spotify.com/artist/2RidxHO6bjbB1wwZRrXAmI) | [Midua Cinta 2](https://open.spotify.com/album/0XBrWExffE5qF8PM66ATkn) | 3:39 | 2023-06-15 |  |
 | [Milik Orang](https://open.spotify.com/track/0dWWC789aUr6pP3wjcKrn7) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Milik Orang](https://open.spotify.com/album/5AWojPeB0TaNQxevK7qAZE) | 4:34 | 2021-08-23 | 2022-11-13 |
 | [Milik Orang](https://open.spotify.com/track/3ZYBj5Dt4gfDA5BdjJep2R) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [DANGDUT TERBAIK HAPPY ASMARA](https://open.spotify.com/album/1Jo6c8Zuw6FUvuHyREYTFG) | 4:34 | 2022-10-13 | 2024-02-16 |

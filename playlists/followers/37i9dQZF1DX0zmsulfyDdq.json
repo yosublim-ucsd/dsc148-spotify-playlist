@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 288612,
+  "2024-03-29": 288828,
   "date_first_scraped": "2022-04-19",
   "description": "Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Wish.",
   "name": "Disney Lullaby",
@@ -375,6 +375,32 @@
       "duration_ms": 258387,
       "name": "Almost There - Orgel Version",
       "url": "https://open.spotify.com/track/0Zw8yGMFK5Kxy4zwYN6ek6"
+    },
+    {
+      "album": {
+        "name": "Wish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
+      },
+      "artists": [
+        {
+          "name": "Chris Pine",
+          "url": "https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e"
+        },
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198920,
+      "name": "At All Costs",
+      "url": "https://open.spotify.com/track/1233MOKLpbc9qjNN31vpl4"
     },
     {
       "album": {

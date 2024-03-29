@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-475 songs - 1 day 8 hr 51 min
+476 songs - 1 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Jezus Malusieńki \(Reworked by Hania Rani & Dobrawa Czocher\)](https://open.spotify.com/track/6fhgA3CmafnvNgzENG0Su4) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Jezus Malusieńki \(Reworked by Hania Rani & Dobrawa Czocher\)](https://open.spotify.com/album/16tfidKurmQ6Y7WvPlOCmb) | 4:16 | 2021-10-09 | 2022-04-20 |
 | [Journey](https://open.spotify.com/track/3HbIl9RM7C4QZTc2p5jQUd) | [Peter Belec](https://open.spotify.com/artist/012xNfNlm7MiRwB2DuLaAu), [India Gailey](https://open.spotify.com/artist/0kb5IIceYS7wlVjVKj4FLu) | [Journey](https://open.spotify.com/album/1k5v3fQO8fAC3cXxDTLX9P) | 4:37 | 2021-12-10 | 2022-04-16 |
 | [jól](https://open.spotify.com/track/20EbRpoBHXpiofYllZD3Hz) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [jól](https://open.spotify.com/album/12wOn1w7bkEOHSITYeQlWh) | 3:06 | 2024-03-08 | 2024-03-19 |
+| [Kindred](https://open.spotify.com/track/3OCVlE2SajdElQt0HI3wbq) | [Austin Fray](https://open.spotify.com/artist/6uQUVNwgLKs0M1GxBzZSAd) | [Origins](https://open.spotify.com/album/0q1vjlDPgJ0atlFChSf24O) | 4:30 | 2024-03-08 |  |
 | [KINDRED](https://open.spotify.com/track/6SlFgGSl9cY9lxdFFXnzU3) | [Austin Fray](https://open.spotify.com/artist/6uQUVNwgLKs0M1GxBzZSAd) | [Origins](https://open.spotify.com/album/6gUSb65QUI3MHljzUm1J0N) | 4:30 | 2020-10-20\* | 2022-05-23 |
 | [Kirbu Epiphany](https://open.spotify.com/track/5LTUIQkmpwqLR7qCv2o4vB) | [Kristjan Järvi](https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7), [Nordic Pulse Ensemble](https://open.spotify.com/artist/1kmYLIvqkvkVJMy1KeHG4l) | [Kirbu Epiphany](https://open.spotify.com/album/7fOvC45iH0NDHTgUjeIcxn) | 3:14 | 2020-10-21 | 2020-11-13 |
 | [Klass](https://open.spotify.com/track/0pzyxIEZimzoJfwaBKdAdH) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Sensibus](https://open.spotify.com/album/7BJCfuM4BGuC1U3HvViT5y) | 6:32 | 2022-07-22 | 2023-03-09 |
@@ -446,7 +447,7 @@
 | [Un Dimanche Orageux](https://open.spotify.com/track/1cMUzynWRSC8JwAkohZ9Kr) | [REYN](https://open.spotify.com/artist/17HirBkDw4wJyY3NXU0aYS) | [Un Dimanche Orageux](https://open.spotify.com/album/5CC8lLIuUha1r1HTIIaW3H) | 1:57 | 2024-03-01 |  |
 | [Un Dimanche Orageux](https://open.spotify.com/track/7xcUYm5XUQ1bULRNlWCunX) | [REYN](https://open.spotify.com/artist/17HirBkDw4wJyY3NXU0aYS) | [Un Dimanche Orageux](https://open.spotify.com/album/5JgQFsHeTsoMXB8xjJN4EM) | 1:57 | 2021-02-12 | 2022-04-19 |
 | [Under the Stars](https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT), [Francois Mathian](https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX) | [Under the Stars](https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI) | 2:31 | 2023-05-05 |  |
-| [Upstream Dream](https://open.spotify.com/track/36nGeAgQbzIgtvhTbOAA0S) | [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Upstream Dream](https://open.spotify.com/album/1srML4m8W67DuWLV3zAgRN) | 4:16 | 2021-12-10 |  |
+| [Upstream Dream](https://open.spotify.com/track/36nGeAgQbzIgtvhTbOAA0S) | [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Upstream Dream](https://open.spotify.com/album/1srML4m8W67DuWLV3zAgRN) | 4:16 | 2021-12-10 | 2024-03-29 |
 | [Valentine My Funny](https://open.spotify.com/track/0g14q3zrGDf8GiVH8WnDl8) | [F.S\. Blumm](https://open.spotify.com/artist/4cHtgM7lauSNaau5uAm5Cc), [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Tag Eins Tag Zwei](https://open.spotify.com/album/1GiZCxzoFZqoc8JlgLTmYF) | 7:15 | 2021-02-06 | 2021-02-12 |
 | [Verdigris](https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:03 | 2020-10-20\* |  |
 | [Verses](https://open.spotify.com/track/0uMgtxvlfFqa4T0YIMEDIj) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [The Chopin Project](https://open.spotify.com/album/3e9ZZe5qexHd61X9ucUNxh) | 4:03 | 2021-02-06 | 2021-02-12 |

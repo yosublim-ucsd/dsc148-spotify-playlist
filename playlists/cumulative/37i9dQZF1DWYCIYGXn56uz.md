@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Holden
+> ✨giovane✨pop✨z✨ Cover: Olly
 
-363 songs - 16 hr 46 min
+367 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,11 +34,11 @@
 | [Ancora](https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Ancora](https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6) | 2:51 | 2023-06-27 |  |
 | [Ancora un minuto](https://open.spotify.com/track/0MTabSNX8sZzRgjRDqqJ0e) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Ancora un minuto](https://open.spotify.com/album/7qLIFQSH0hbvt9wjTi6dIa) | 2:47 | 2023-11-09 | 2024-02-07 |
 | [Anima Tormentata](https://open.spotify.com/track/7C1cnKPhNwieQsKORc0hE1) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 2:56 | 2023-04-13 | 2023-05-19 |
-| [Anni 70](https://open.spotify.com/track/4gExrhPC8TKtMqbO6MrjAP) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Anni 70](https://open.spotify.com/album/3CH6Le8XzQhnzWMQBELzmE) | 2:27 | 2023-05-15 |  |
+| [Anni 70](https://open.spotify.com/track/4gExrhPC8TKtMqbO6MrjAP) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Anni 70](https://open.spotify.com/album/3CH6Le8XzQhnzWMQBELzmE) | 2:27 | 2023-05-15 | 2024-03-29 |
 | [ARANCIATA](https://open.spotify.com/track/4X24I8ugXKgRgdtC9LzmlP) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [ARANCIATA](https://open.spotify.com/album/0I9Kc8iR7JAf52TITuMyhK) | 3:14 | 2023-06-08 | 2023-10-06 |
 | [Arsenico](https://open.spotify.com/track/7anzuQWuiCCULZhfJdXTyw) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:03 | 2023-06-08 | 2023-06-30 |
 | [Assurdo](https://open.spotify.com/track/3ZXL0jrjFsK5tlMifAohYg) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Assurdo](https://open.spotify.com/album/1m64K87nJYI6lwpCQKET7h) | 3:01 | 2024-01-04 | 2024-03-15 |
-| [ATTIMO](https://open.spotify.com/track/0KM17GZroJQiZUkQZEUH1I) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [ATTIMO](https://open.spotify.com/album/46oN09hGI1JujQaLgv1kbL) | 3:07 | 2024-03-07 |  |
+| [ATTIMO](https://open.spotify.com/track/0KM17GZroJQiZUkQZEUH1I) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [ATTIMO](https://open.spotify.com/album/46oN09hGI1JujQaLgv1kbL) | 3:07 | 2024-03-07 | 2024-03-29 |
 | [AUTODISTRUTTIVO](https://open.spotify.com/track/3ZcpVnBJguv1WVeMG44i2M) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [AUTODISTRUTTIVO](https://open.spotify.com/album/1M06XJqOcsMo0kCroZzl0q) | 3:09 | 2024-02-07 |  |
 | [Autogol](https://open.spotify.com/track/5QRvX3WAktD8SIN2fQ99e6) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Autogol](https://open.spotify.com/album/3YBhgpFuwuRf0APuD4Ff2M) | 2:34 | 2023-11-23 | 2023-12-13 |
 | [Avaria](https://open.spotify.com/track/25d0v0TOdM0KS99R4uK6bd) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Avaria](https://open.spotify.com/album/7wLjcMg51NTWXNSJ1gloyQ) | 2:33 | 2024-03-21 |  |
@@ -145,6 +145,7 @@
 | [Giovane e triste](https://open.spotify.com/track/56WecW5HnWstqg0GvhseEP) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Giovane e triste](https://open.spotify.com/album/0ZfMM8FzMhHGffOGdew5R1) | 3:06 | 2023-03-23 | 2023-06-16 |
 | [giusti nei momenti sbagliati](https://open.spotify.com/track/5JRfYMzHxPVikYYOWEBKUn) | [venerdì](https://open.spotify.com/artist/0v9674wp1zmIxhlfpjBXfo) | [giusti nei momenti sbagliati](https://open.spotify.com/album/6JFpUqpSF1TP2xDJfovFXq) | 1:59 | 2024-02-22 | 2024-03-15 |
 | [Goccia \(feat\. Sissi\)](https://open.spotify.com/track/4MYgRIZmue4SNzhMw0mxiE) | [Cyrus Yung](https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH), [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [GLORIA](https://open.spotify.com/album/4oJn7mM9OaDqOaffvkW5PW) | 2:55 | 2023-04-27 | 2023-05-19 |
+| [Goodbye Lover](https://open.spotify.com/track/2E9wgIcYIg7POy9eBldS3W) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [Goodbye Lover](https://open.spotify.com/album/2vq1152LsoFIGXxatJ1Gi4) | 2:56 | 2024-03-28 |  |
 | [GOVERNO PUNK](https://open.spotify.com/track/7He9P5gjaE4cmQOquezZnl) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [GOVERNO PUNK](https://open.spotify.com/album/4I20c4niAvrvALPHZ7Nw9p) | 3:25 | 2024-02-07 |  |
 | [Gran Finale](https://open.spotify.com/track/5elZw9mtjjPsXc4ukn3XeH) | [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [Indaco](https://open.spotify.com/album/00ALxUXwprONphiPixCN0l) | 2:42 | 2023-03-23 | 2023-03-31 |
 | [Granita](https://open.spotify.com/track/70ZfnDxMxzFlCVdsZgpLSv) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Granita](https://open.spotify.com/album/7wAn4PdtIwEv9dhb78Ywbj) | 2:51 | 2023-05-25 | 2023-09-29 |
@@ -214,6 +215,7 @@
 | [MISS](https://open.spotify.com/track/3vlTKfJa18JHBlzrrERz4u) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [NDG](https://open.spotify.com/artist/6VSx5Yd2AO0fhm0h6xxeGi) | [MISS](https://open.spotify.com/album/2qXQEILrMAiwH9IdcKJNCd) | 3:05 | 2023-05-18 | 2023-07-07 |
 | [mon amie freestyle](https://open.spotify.com/track/5mC23FcCHeUWjsARR60Jqb) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [mon amie freestyle](https://open.spotify.com/album/7KmLYmRPkDkkRsK8llzJuE) | 2:37 | 2023-03-23 | 2023-07-07 |
 | [MOSTRO](https://open.spotify.com/track/2AzbPKN2Vf3CUukNZGnjYx) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [MOSTRO](https://open.spotify.com/album/21aHeeZe4eCanYhoAPuiaX) | 2:55 | 2023-03-23 | 2023-04-28 |
+| [NERO MASCARA](https://open.spotify.com/track/34XpVQyYbTZb5hmldVrlvl) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [NERO MASCARA](https://open.spotify.com/album/4lv6ZOsKGlVGxEcSIJFhR0) | 3:29 | 2024-03-28 |  |
 | [NEVE SU MARTE \(feat\. Annalisa\)](https://open.spotify.com/track/3vMigJ03XjZTUMtrhDBIrK) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [FRAGILE](https://open.spotify.com/album/6W0JuhlBiFbVakn06IpC63) | 3:17 | 2023-03-23 | 2023-04-14 |
 | [niente](https://open.spotify.com/track/6DVMWxdestSTiCSI0Ejnbm) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [niente](https://open.spotify.com/album/31KUQDz09OrNeF5bW0MeSz) | 2:25 | 2023-09-28 | 2023-11-10 |
 | [Niente da perdere](https://open.spotify.com/track/60UzJigT6149nbKWCzo3WK) | [Mido](https://open.spotify.com/artist/4IDQpLt670azHbRBQkwZQP) | [Niente da perdere](https://open.spotify.com/album/71hP7WroPbAvUHWkNPSz6D) | 2:24 | 2023-10-05 | 2023-10-27 |
@@ -248,7 +250,7 @@
 | [Padova](https://open.spotify.com/track/7lacTm7XdUshSIzWLemBDj) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Padova](https://open.spotify.com/album/0IhkJpTu85p3aSmjzmBaDf) | 2:56 | 2024-03-21 |  |
 | [Pane e Burro \(feat\. Ascanio\)](https://open.spotify.com/track/77TD6EFSrQjolUvGHImg6t) | [Charlotte M](https://open.spotify.com/artist/6v839swiOjpjUxeXJ3l78M), [Ascanio](https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI) | [Pane e Burro \(feat\. Ascanio\)](https://open.spotify.com/album/5AXe8ItdrXgeTCNJKBwRNu) | 2:35 | 2023-04-20 | 2023-05-19 |
 | [Panico](https://open.spotify.com/track/614dam3LpnYxlJlZAl6Kem) | [Federico Baroni](https://open.spotify.com/artist/3RURcBFBQifZM2MyA4frZr) | [Panico](https://open.spotify.com/album/0TMPKsKcwdtyYNVLkrlrAU) | 3:13 | 2023-05-04 | 2023-05-19 |
-| [Papaya](https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Papaya](https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ) | 2:19 | 2023-08-31 |  |
+| [Papaya](https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Papaya](https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ) | 2:19 | 2023-08-31 | 2024-03-29 |
 | [PARANOIA \(48h\)](https://open.spotify.com/track/03B7LASAbnyBdfybCxCuEw) | [Gianluca Modanese](https://open.spotify.com/artist/3EvOGKxwzDenIvnfwmOgIT) | [\(tra parentesi\)](https://open.spotify.com/album/2cavlI3WwEcr1mJeyVC4ZV) | 2:41 | 2023-04-06 | 2023-04-14 |
 | [Parigi](https://open.spotify.com/track/3moOAzfOC32TI8k0qyfVWc) | [Sergi](https://open.spotify.com/artist/2mR7bH8m4JaoCtI4czxcSP), [YLY](https://open.spotify.com/artist/39RZFrsACGBnWyTb4diU10) | [Parigi](https://open.spotify.com/album/6nf3jw1VqPW3H158XMApUK) | 2:24 | 2023-03-23 | 2023-04-14 |
 | [Parlami](https://open.spotify.com/track/00QN58Gx571pB1MEuBAcmL) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Parlami](https://open.spotify.com/album/1XWrPc7GoTh1vQ5WAd575N) | 2:49 | 2023-03-23 |  |
@@ -271,11 +273,13 @@
 | [POSATENEBRE](https://open.spotify.com/track/2TgvnT8ugu5YMrQpXdspXM) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [POSATENEBRE](https://open.spotify.com/album/0HZ53MWDea1zIvVZ2DqQXg) | 3:02 | 2024-03-08 |  |
 | [POV](https://open.spotify.com/track/5mQFiACRHdBVugZX0QXwfS) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U), [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [POV](https://open.spotify.com/album/6QUuzX73hnDFPNXtsmoAAh) | 2:40 | 2023-09-21 | 2023-10-20 |
 | [Primavera](https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Foglio rosa](https://open.spotify.com/album/1W7ymm9tQ3ujae0Ho2Gnm7) | 2:19 | 2023-11-09 | 2023-11-24 |
+| [Primo al Mondo](https://open.spotify.com/track/2mo05Hp6Vym4rLhwisNAh4) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Primo al Mondo](https://open.spotify.com/album/4x7hMG2FWRHEvI8bWnURB2) | 3:06 | 2024-03-28 |  |
 | [Privé](https://open.spotify.com/track/6Y9rfuFyLJDz4kj2aysvhs) | [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71) | [Privé](https://open.spotify.com/album/0qMfK0pn4oDONHjKDJEAFD) | 3:00 | 2023-10-12 | 2023-11-10 |
 | [PROFUMO](https://open.spotify.com/track/0Gi4BJG02Hj6x1csoni8fz) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PROFUMO](https://open.spotify.com/album/1lD5U7HWtabfmkSxx7vH6X) | 3:23 | 2023-04-20 | 2023-05-19 |
 | [Promesse \(from the original Netflix series "DI4RI"\)](https://open.spotify.com/track/1cSRzvNN1xMHpkgCBFAqIE) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Promesse \(from the original Netflix series "DI4RI"\)](https://open.spotify.com/album/2c3QzmZOHzb3T1Z0IQxBZM) | 2:26 | 2023-12-07 | 2024-01-12 |
 | [pum pum pum](https://open.spotify.com/track/7oS4wH2v1Yl8fAdKxBZL61) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [pum pum pum](https://open.spotify.com/album/2JWpXVDQrDkFHLGmBuHznT) | 2:33 | 2024-01-04 | 2024-02-02 |
 | [quando realizzi che non ti aveva capito](https://open.spotify.com/track/0dv8XKmRsUY86EKBDiiqRI) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [quando realizzi che non ti aveva capito](https://open.spotify.com/album/1XZ2XLLCU20UJHFix4Wbiy) | 2:46 | 2024-01-18 | 2024-03-01 |
+| [quando ti svolta la giornata](https://open.spotify.com/track/3n0Oy4O6Zpq1kqvFEJi13k) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [quando ti svolta la giornata](https://open.spotify.com/album/4aDl13jKSMQwrmNFa1TQ8r) | 2:49 | 2024-03-28 |  |
 | [Radar](https://open.spotify.com/track/3EdDWXSjgqazIp9G1VzK3S) | [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT) | [Radar](https://open.spotify.com/album/6DT9PVf7rJdfv91IO4n6cJ) | 2:21 | 2023-11-02 | 2023-11-17 |
 | [RAGAZZI FUORI](https://open.spotify.com/track/6ESqYk01s6jNv0YFv2vguz) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t) | 2:56 | 2024-02-15 |  |
 | [RED](https://open.spotify.com/track/0jwm30oXN08kVO9JwqrCPL) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [RED](https://open.spotify.com/album/2Ddi22NvLWIP9MUAYqEil5) | 2:14 | 2024-01-26 | 2024-02-02 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 1000524,
+  "2024-03-29": 1000570,
   "date_first_scraped": "2022-04-20",
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: Seori)",
   "name": "TrenChill K-R&B",
@@ -43,7 +43,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 205771,
       "name": "007 (feat. Syd)",
       "url": "https://open.spotify.com/track/6FqOUCihYYu3OisVBpoEp3"
@@ -1197,7 +1197,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 165213,
       "name": "Baby PLZ (feat. Jay Park)",
       "url": "https://open.spotify.com/track/0KBQZCNDLOPLFNZ17Q8CQg"
@@ -5304,6 +5304,24 @@
     },
     {
       "album": {
+        "name": "Happy Tears",
+        "url": "https://open.spotify.com/album/4gXSXykZmeNY8c6k5QNAGk"
+      },
+      "artists": [
+        {
+          "name": "4BOUT",
+          "url": "https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173880,
+      "name": "Happy Tears",
+      "url": "https://open.spotify.com/track/453YZHIyNa6KzWF3ouoiVF"
+    },
+    {
+      "album": {
         "name": "Hated you",
         "url": "https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm"
       },
@@ -5395,7 +5413,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 155546,
       "name": "her",
       "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
@@ -6695,7 +6713,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 197533,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP"
@@ -8527,7 +8545,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 167853,
       "name": "No Jam",
       "url": "https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9"
@@ -9135,7 +9153,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 184624,
       "name": "ONE SPARK (R&B ver.)",
       "url": "https://open.spotify.com/track/73G0emO69Z2hWwqsZpx3BC"
@@ -12401,7 +12419,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 160150,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/3lgIAJyBSEF48IlcZ9ShnO"
@@ -12869,7 +12887,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 185737,
       "name": "Whenever it rains (feat. Nason & amin)",
       "url": "https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu"
@@ -13475,7 +13493,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 273000,
       "name": "Your Dog Loves You (Feat. Crush)",
       "url": "https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ"

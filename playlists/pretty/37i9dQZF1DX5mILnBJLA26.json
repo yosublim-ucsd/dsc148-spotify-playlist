@@ -1,13 +1,41 @@
 {
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve?si=AwtOBb97SmmKDiPyACQzQA\">Da Muziqal Chef</a>",
-  "num_followers": 718251,
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=aeYgxcXXRNCrxXOFBolzrQ\">Pabi Cooper</a>",
+  "num_followers": 719181,
   "original_name": "AMAPIANO grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzIxMzY0ZTViYjI0ZDhlZDRmMzNkNmM0Yzc3YWRiOTgwOGNmMmEw",
+  "snapshot_id": "MCxlOTllODVlYThkNDc1ZDE2YjFjYjJmYTE1YjdiMmY3YmU3NDM3YTBh",
   "tracks": [
+    {
+      "added_at": "2024-03-28 22:00:00",
+      "album": {
+        "name": "Thula Mabota",
+        "url": "https://open.spotify.com/album/1uPeUTP88QNapiZQGDq9UY"
+      },
+      "artists": [
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "Pabi Cooper",
+          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
+        },
+        {
+          "name": "031CHOPPA",
+          "url": "https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks"
+        },
+        {
+          "name": "Shakes & Les",
+          "url": "https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp"
+        }
+      ],
+      "duration_ms": 269500,
+      "name": "Thula Mabota",
+      "url": "https://open.spotify.com/track/4xXHrIiIeW7dMh5FoYI5m1"
+    },
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
@@ -201,6 +229,46 @@
       "url": "https://open.spotify.com/track/7fyVAeiVE6mvM4MgyX4zi8"
     },
     {
+      "added_at": "2024-03-28 22:00:00",
+      "album": {
+        "name": "THATHA BAMBA",
+        "url": "https://open.spotify.com/album/5Hun9rN7KmPkLid1TnsDcs"
+      },
+      "artists": [
+        {
+          "name": "uLazi",
+          "url": "https://open.spotify.com/artist/4XfSBTIyfJdQLhxDrUDU7l"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Mpho Spizzy",
+          "url": "https://open.spotify.com/artist/6or3L6AbGx83tADuwcS3PF"
+        },
+        {
+          "name": "Nation-365",
+          "url": "https://open.spotify.com/artist/7EtyNQtFW6fsD34PVJzXj0"
+        },
+        {
+          "name": "El-Kay MusiQ",
+          "url": "https://open.spotify.com/artist/0ia80EfsByTdnSCwJMayb4"
+        },
+        {
+          "name": "Tee Taurus",
+          "url": "https://open.spotify.com/artist/2RwRpP3FzupYZLMrD8i2Ns"
+        }
+      ],
+      "duration_ms": 391681,
+      "name": "THATHA BAMBA",
+      "url": "https://open.spotify.com/track/2AreaGSzIlyWeOncxJGHJM"
+    },
+    {
       "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Made For Me (Yumbs\u2019 Amapiano Remix)",
@@ -219,6 +287,34 @@
       "duration_ms": 245750,
       "name": "Made For Me - Yumbs\u2019 Amapiano Remix",
       "url": "https://open.spotify.com/track/3liiv1wmlYn2b7rnHRU2db"
+    },
+    {
+      "added_at": "2024-03-28 22:00:00",
+      "album": {
+        "name": "Ask & Receive EP",
+        "url": "https://open.spotify.com/album/3tr5ml4CiVt3T8j0BlsxgQ"
+      },
+      "artists": [
+        {
+          "name": "TNK MusiQ",
+          "url": "https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Eemoh",
+          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
+        }
+      ],
+      "duration_ms": 410792,
+      "name": "Ubuwazi (feat. Xduppy & Eemoh)",
+      "url": "https://open.spotify.com/track/7GsCckIbKZnmuy0Tw9pAgD"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1231,90 +1327,6 @@
       "duration_ms": 414386,
       "name": "Isgubhu",
       "url": "https://open.spotify.com/track/34tsYM5Z3g9dvrwLjQKDtr"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "THATA USHAKA",
-        "url": "https://open.spotify.com/album/39VFIViSgxPiIsiYvD4nzL"
-      },
-      "artists": [
-        {
-          "name": "ShaunMusiq & Ftears",
-          "url": "https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Visca",
-          "url": "https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO"
-        }
-      ],
-      "duration_ms": 385753,
-      "name": "uShaka (feat. DJ Maphorisa & Visca)",
-      "url": "https://open.spotify.com/track/0V2KZRWQ0KIUrgScO3UHyC"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Maye Maye (feat. Azana, Stixx)",
-        "url": "https://open.spotify.com/album/3oQrTJwdG81Kvwijs4Dcvh"
-      },
-      "artists": [
-        {
-          "name": "Kelvin Momo",
-          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
-        },
-        {
-          "name": "Babalwa M",
-          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
-        },
-        {
-          "name": "Azana",
-          "url": "https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5"
-        },
-        {
-          "name": "Stixx",
-          "url": "https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2"
-        }
-      ],
-      "duration_ms": 450326,
-      "name": "Maye Maye (feat. Azana, Stixx)",
-      "url": "https://open.spotify.com/track/710qLZ4WOxBj7ZaVbVJtkh"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Banike (feat. Philharmonic, LeeMcKrazy)",
-        "url": "https://open.spotify.com/album/4vsbkjnE2AWQ0tz0EqZCGA"
-      },
-      "artists": [
-        {
-          "name": "Nandipha808",
-          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
-        },
-        {
-          "name": "Ceeka RSA",
-          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        },
-        {
-          "name": "Philharmonic",
-          "url": "https://open.spotify.com/artist/5OLi7K8O3aYSV3GQRXdYmb"
-        }
-      ],
-      "duration_ms": 433397,
-      "name": "Banike (feat. Philharmonic, LeeMcKrazy)",
-      "url": "https://open.spotify.com/track/06QKSv9bjUYLEUdRpuaGeQ"
     }
   ],
   "unique_name": "AMAPIANO grooves",

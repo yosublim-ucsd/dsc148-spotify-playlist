@@ -19315,6 +19315,24 @@
     },
     {
       "album": {
+        "name": "Dubious",
+        "url": "https://open.spotify.com/album/4avEsgPYNwzAJcTYAbgsw0"
+      },
+      "artists": [
+        {
+          "name": "Florence Ada",
+          "url": "https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103902,
+      "name": "Dubious",
+      "url": "https://open.spotify.com/track/04tk407bfcM10YBLr9lzbl"
+    },
+    {
+      "album": {
         "name": "Sunny Delight",
         "url": "https://open.spotify.com/album/0BjPMKydaEuDrysMobSefT"
       },
@@ -29528,6 +29546,10 @@
         {
           "name": "Youthology",
           "url": "https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM"
+        },
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
         }
       ],
       "date_added": "2024-03-21",
@@ -44720,6 +44742,24 @@
     {
       "album": {
         "name": "Momentum",
+        "url": "https://open.spotify.com/album/4Vgr87BhO8r8a52OgfRp93"
+      },
+      "artists": [
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120375,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/77UeG2VBKxUvOsFAjMJvDz"
+    },
+    {
+      "album": {
+        "name": "Momentum",
         "url": "https://open.spotify.com/album/5goP4EhQsvTdIdzGXHJNpJ"
       },
       "artists": [
@@ -52292,7 +52332,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 103043,
       "name": "P_Optimist",
       "url": "https://open.spotify.com/track/02MFno0s2lpD3rycI7cllL"
@@ -61434,7 +61474,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 186389,
       "name": "She Is One Of A Kind Pt. III",
       "url": "https://open.spotify.com/track/0yq1K68w2o6q67XLkaG45Z"

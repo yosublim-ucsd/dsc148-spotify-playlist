@@ -1345,6 +1345,28 @@
     },
     {
       "album": {
+        "name": "Rindo Pra Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2VWc0jFhQSFZkhSKvHgWV8"
+      },
+      "artists": [
+        {
+          "name": "Naessa",
+          "url": "https://open.spotify.com/artist/4yeGmRY9a2vswZ47DGqKJH"
+        },
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168475,
+      "name": "Rindo Pra Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/0CkB7A4NFTzs8weUSVSV6q"
+    },
+    {
+      "album": {
         "name": "S de Saudade",
         "url": "https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL"
       },
@@ -1494,7 +1516,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 157202,
       "name": "Surto De Amor - Ao Vivo Em Uberl\u00e2ndia / 2018",
       "url": "https://open.spotify.com/track/4N0I8lmbLPmH8qdlFIjuOU"

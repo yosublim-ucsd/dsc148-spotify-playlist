@@ -1,15 +1,47 @@
 {
   "description": "Unearthing up-and-coming Korean acts. Cover: Zior Park",
-  "num_followers": 111029,
+  "num_followers": 111039,
   "original_name": "RADAR Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDJiY2NiNjFkMTgzN2UxYjVmNTdiNTI4NDA2YmM5OGZhMzhlNTIz",
+  "snapshot_id": "MCwyNzg1YTM4ZTU5YTMwYmE5ZTU5MjI0NTk5MmE1MmM1NmJiYWIwYTBh",
   "tracks": [
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "added_at": "2024-03-28 04:46:20",
+      "album": {
+        "name": "Fake Happy",
+        "url": "https://open.spotify.com/album/3Yrgk8MqQG9YCUls0iSLHv"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 170746,
+      "name": "Fake Happy",
+      "url": "https://open.spotify.com/track/7z45AkgscpK9Vh5WyfF3iP"
+    },
+    {
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "XXL EP",
         "url": "https://open.spotify.com/album/0EbH9upNSg6zsdFZ8g11Yl"
@@ -25,7 +57,71 @@
       "url": "https://open.spotify.com/track/05QXjyZgsAq6J84J6SlbyV"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
+      "album": {
+        "name": "The 1st Mini Album 'WE UNIS'",
+        "url": "https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim"
+      },
+      "artists": [
+        {
+          "name": "UNIS",
+          "url": "https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "SUPERWOMAN",
+      "url": "https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB"
+    },
+    {
+      "added_at": "2024-03-28 04:46:20",
+      "album": {
+        "name": "Hashtag#",
+        "url": "https://open.spotify.com/album/6QQIkAdIkRtvu8G2kzcyaB"
+      },
+      "artists": [
+        {
+          "name": "Candy Shop",
+          "url": "https://open.spotify.com/artist/47bUCJh3LXBeQtrTnWEwXn"
+        }
+      ],
+      "duration_ms": 158893,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/60g4aWGlvFq9riY0jrTdtZ"
+    },
+    {
+      "added_at": "2024-03-28 04:46:20",
+      "album": {
+        "name": "Cinema Pt. 2",
+        "url": "https://open.spotify.com/album/2CPsUAUJvUIFuqK5zlQZa9"
+      },
+      "artists": [
+        {
+          "name": "dori",
+          "url": "https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "Sketch",
+      "url": "https://open.spotify.com/track/2HXdn9Zi25cfTyjaSxoomQ"
+    },
+    {
+      "added_at": "2024-03-28 04:46:20",
+      "album": {
+        "name": "ONE HEARTED",
+        "url": "https://open.spotify.com/album/2uSqR87CUmRQcEb63HaqbR"
+      },
+      "artists": [
+        {
+          "name": "AMPERS&ONE",
+          "url": "https://open.spotify.com/artist/4T0Chh3DGxJrEs3gM0biqg"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/21j3qXlRXCDJRG1xWQt2gW"
+    },
+    {
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "FUEGO",
         "url": "https://open.spotify.com/album/6KizwQiaESv5h3FIhcr8ta"
@@ -41,7 +137,7 @@
       "url": "https://open.spotify.com/track/2iCy2qfDdWN8duitTHeHSm"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "The Most",
         "url": "https://open.spotify.com/album/0MPZZIVL9G3pbDe0UBVOjI"
@@ -57,7 +153,7 @@
       "url": "https://open.spotify.com/track/2zKE0UQw17joNPV8Miji2o"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "BXX",
         "url": "https://open.spotify.com/album/3xX7eBfa5HTqDZXepyvjfw"
@@ -73,7 +169,7 @@
       "url": "https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Default",
         "url": "https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u"
@@ -89,7 +185,7 @@
       "url": "https://open.spotify.com/track/7a9JYapvSZ6jYu2TaG7BRU"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "text me",
         "url": "https://open.spotify.com/album/2o3ha2VKOY0gbP9IThu2TY"
@@ -105,7 +201,7 @@
       "url": "https://open.spotify.com/track/7Cu3roszCR6enOjFpN9f2U"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "With You Back Then",
         "url": "https://open.spotify.com/album/7ErveJVCxFgPDk0PVqk5VR"
@@ -121,7 +217,7 @@
       "url": "https://open.spotify.com/track/1yp7CNSVBSjrXrRdS7EWUX"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "How Time Flies (feat. BIGONE & Dive)",
         "url": "https://open.spotify.com/album/6hVKC1sx3OZ8GIi4g2ernc"
@@ -145,7 +241,7 @@
       "url": "https://open.spotify.com/track/033StetXuelKeMeQ7JWEgI"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/3CDMv5m8ffHTAXidBmY2XQ"
@@ -161,7 +257,7 @@
       "url": "https://open.spotify.com/track/20zQ5Kf2lZA1awa8csGNdJ"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "XOUL DAY",
         "url": "https://open.spotify.com/album/2YZ7DBAGSwldjnLRP6zHSd"
@@ -177,7 +273,7 @@
       "url": "https://open.spotify.com/track/4F06nQOQWNVREhOU8iax6Y"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Foggy",
         "url": "https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN"
@@ -193,7 +289,7 @@
       "url": "https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "NEW CHAPTER : LUCEAT",
         "url": "https://open.spotify.com/album/3Fq9Q9R4JeietWxlin6Xiy"
@@ -209,7 +305,7 @@
       "url": "https://open.spotify.com/track/3NFerWk1oRz10rpCPqKclw"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "TEMPEST Voyage",
         "url": "https://open.spotify.com/album/5oDe8KM2IkcIVw9jhHjtkX"
@@ -225,7 +321,7 @@
       "url": "https://open.spotify.com/track/6Zv31tXdpqXPuMXIT4Pq7p"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Lucky Draw",
         "url": "https://open.spotify.com/album/33vU457wPoEegve2qevifQ"
@@ -241,7 +337,7 @@
       "url": "https://open.spotify.com/track/6jW721XvMV5SMNLAqMf4Sl"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Winter Blossom",
         "url": "https://open.spotify.com/album/0BfnFb5Q5FduZgF4qcJur0"
@@ -257,7 +353,7 @@
       "url": "https://open.spotify.com/track/4GatbexP76ZWIKLG48xMPq"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "BLESSED",
         "url": "https://open.spotify.com/album/7wTEF0FR8kVEtPTV5cjRzd"
@@ -277,7 +373,7 @@
       "url": "https://open.spotify.com/track/0KBQZCNDLOPLFNZ17Q8CQg"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Girls of the Year",
         "url": "https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG"
@@ -293,7 +389,7 @@
       "url": "https://open.spotify.com/track/03grA043a1uECo5Kyw28a0"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Un: SEEN",
         "url": "https://open.spotify.com/album/6lPOFQarc48hDHdFYcVdzQ"
@@ -309,7 +405,7 @@
       "url": "https://open.spotify.com/track/3p5SJW1Jb4EvSEXrpShQzm"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/0vLPfdVh9YuLudvHRRqXeD"
@@ -325,7 +421,7 @@
       "url": "https://open.spotify.com/track/7soqW0C2hCCblU402zUalw"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/1XOdt7of67I6i0m3UNHaEF"
@@ -341,7 +437,7 @@
       "url": "https://open.spotify.com/track/3lWNov4VlzcBZPLRgYFcHZ"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Giggles",
         "url": "https://open.spotify.com/album/38nM2l54T2K0sr7OJAoffP"
@@ -357,7 +453,7 @@
       "url": "https://open.spotify.com/track/345fxKqJCqWeQk5kuc7eKs"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "INSIDE OUT",
         "url": "https://open.spotify.com/album/791UCNthor64Y8rgUk8UaL"
@@ -373,7 +469,7 @@
       "url": "https://open.spotify.com/track/4I8UOVsfrrR1rwD5NSRLlD"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "TWS 1st Mini Album 'Sparkling Blue'",
         "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
@@ -389,7 +485,7 @@
       "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/2CEtkvdTUlrdXn93Whpzr2"
@@ -405,7 +501,7 @@
       "url": "https://open.spotify.com/track/32rfwDhSWTWp5xAIa36B72"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "WHERE DOES SASQUATCH LIVE? Pt. 2",
         "url": "https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr"
@@ -425,7 +521,7 @@
       "url": "https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Oh Mymy : 7s",
         "url": "https://open.spotify.com/album/4JxcTD9gDjCRbZPhDVoD40"
@@ -441,7 +537,7 @@
       "url": "https://open.spotify.com/track/0oasRG0i7nOHdj6sIe6B80"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Quiz",
         "url": "https://open.spotify.com/album/13gI4MN1K937wF0aqKJ1vd"
@@ -457,7 +553,7 @@
       "url": "https://open.spotify.com/track/2WvHcLvA1JVVljJH9wT5RF"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "NOMINATE",
         "url": "https://open.spotify.com/album/0Wuc3nyECbctfSVlH2eK6p"
@@ -473,7 +569,7 @@
       "url": "https://open.spotify.com/track/7Hbwi6sIkVdyLGUII5lySS"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "QUEEN",
         "url": "https://open.spotify.com/album/5WUYatYzBqFfWBdTlaCvYs"
@@ -489,7 +585,7 @@
       "url": "https://open.spotify.com/track/5qA0Ks0QbF95BLz5QegTQR"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "I KNOW YOU LOVE ME (Feat. Skinny Brown)",
         "url": "https://open.spotify.com/album/2DVTijBdYYT8c5EARXNWln"
@@ -509,7 +605,7 @@
       "url": "https://open.spotify.com/track/6RRxTalkP4ZI4oSqvI8ttW"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Somozu Fury",
         "url": "https://open.spotify.com/album/6heXgTq8fkAfzBkDRWDDL8"
@@ -525,7 +621,7 @@
       "url": "https://open.spotify.com/track/2YZ5AUwWi7ZqTsaKg4h9vi"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "BITE ME",
         "url": "https://open.spotify.com/album/64dv817pKloL1x9jzAiGl2"
@@ -541,7 +637,7 @@
       "url": "https://open.spotify.com/track/20EMzUVmpC99DaCl559ZH7"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Brilliant Seasons",
         "url": "https://open.spotify.com/album/3tjxCmGQTFo3Dg3hytdLMg"
@@ -557,7 +653,7 @@
       "url": "https://open.spotify.com/track/4pP9r6Bjx5XxPP4TI3JKIl"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "AMPERSAND ONE",
         "url": "https://open.spotify.com/album/1DgPFXEedQx7BmeLpVLcyx"
@@ -573,7 +669,7 @@
       "url": "https://open.spotify.com/track/2xeVbsz4Ab2cFX9TgOoZA0"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Thanks For Nothing",
         "url": "https://open.spotify.com/album/6bHtQUErD1RD9NWYWsyGBk"
@@ -589,7 +685,7 @@
       "url": "https://open.spotify.com/track/4U2KRmw8c5BA3P1uoheA2F"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Rise Waves",
         "url": "https://open.spotify.com/album/1lFtvYo3M1ZQrYEc1KwVVZ"
@@ -605,7 +701,7 @@
       "url": "https://open.spotify.com/track/3Q5bnaKaXC0AtkmxSgqobt"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Perfect Night",
         "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
@@ -621,7 +717,7 @@
       "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "ODD HOUR",
         "url": "https://open.spotify.com/album/7rxaLlLXefYZnfVy6ctgeN"
@@ -637,7 +733,7 @@
       "url": "https://open.spotify.com/track/7tFf0kz9htRIwe58T1D260"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Breaking the rules",
         "url": "https://open.spotify.com/album/6YpNxm9tIA0eRVrXGb2REG"
@@ -653,7 +749,7 @@
       "url": "https://open.spotify.com/track/1u0RhUf3sCx5mir8uQVCgB"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Slow (Veiled Musician X Paul Kim with Seongsan-dong)",
         "url": "https://open.spotify.com/album/5y9yhtXkkYE6vHW5KnsJ5V"
@@ -669,7 +765,23 @@
       "url": "https://open.spotify.com/track/6EIAQbasIIqEjjMctPm6dz"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
+      "album": {
+        "name": "Talk Saxy",
+        "url": "https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 190941,
+      "name": "Talk Saxy",
+      "url": "https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND"
+    },
+    {
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "WHERE DOES SASQUATCH LIVE? Pt. 1",
         "url": "https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE"
@@ -685,7 +797,7 @@
       "url": "https://open.spotify.com/track/1FBdX6uTlbunrv0bu3tFnF"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "Kiss Me Now",
         "url": "https://open.spotify.com/album/2BuIQbe2kvN5FPlv4YWkma"
@@ -701,7 +813,7 @@
       "url": "https://open.spotify.com/track/4peJedknibnj2QZMmb1e2c"
     },
     {
-      "added_at": "2024-03-21 04:22:41",
+      "added_at": "2024-03-28 04:46:20",
       "album": {
         "name": "and you",
         "url": "https://open.spotify.com/album/09eU8fwmDGBQg264AnjTS3"
@@ -719,134 +831,6 @@
       "duration_ms": 204240,
       "name": "and you (Feat. ZICO)",
       "url": "https://open.spotify.com/track/5r3VFyq4KrdCeRNUDtGfJq"
-    },
-    {
-      "added_at": "2024-03-21 04:22:41",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/5KikwWA1Iu4wRvp8HYfCnD"
-      },
-      "artists": [
-        {
-          "name": "BANG YEDAM",
-          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/6TPJUSTwkXVJTdJJZDn8Kf"
-    },
-    {
-      "added_at": "2024-03-21 04:22:41",
-      "album": {
-        "name": "I NEED",
-        "url": "https://open.spotify.com/album/73iCuuT8EGry8oXrEamIfJ"
-      },
-      "artists": [
-        {
-          "name": "lobonabeat!",
-          "url": "https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva"
-        },
-        {
-          "name": "BILL STAX",
-          "url": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD"
-        },
-        {
-          "name": "oygli",
-          "url": "https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90"
-        }
-      ],
-      "duration_ms": 117124,
-      "name": "I NEED",
-      "url": "https://open.spotify.com/track/0B6Q7MLbnu2DiGOIZQvjZc"
-    },
-    {
-      "added_at": "2024-03-21 04:22:41",
-      "album": {
-        "name": "mYmY",
-        "url": "https://open.spotify.com/album/73UpAwWuOaZPUqnsfYOO29"
-      },
-      "artists": [
-        {
-          "name": "YongYong",
-          "url": "https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK"
-        },
-        {
-          "name": "GIUK",
-          "url": "https://open.spotify.com/artist/4kuX4KeHgnN8ifEGHHUd0x"
-        }
-      ],
-      "duration_ms": 251920,
-      "name": "A girl's Panorama (feat. GIUK)",
-      "url": "https://open.spotify.com/track/3E5JbDebW0NQzafFD2xVh5"
-    },
-    {
-      "added_at": "2024-03-21 04:22:41",
-      "album": {
-        "name": "Get A Guitar",
-        "url": "https://open.spotify.com/album/2vR1RvoDaZTKVrAI06VJ3c"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 160044,
-      "name": "Get A Guitar (English Version)",
-      "url": "https://open.spotify.com/track/01It06sDuvXfxD6SM3AlTR"
-    },
-    {
-      "added_at": "2024-03-21 04:22:41",
-      "album": {
-        "name": "A Midsummer NMIXX\u2019s Dream",
-        "url": "https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 183546,
-      "name": "Party O'Clock",
-      "url": "https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH"
-    },
-    {
-      "added_at": "2024-03-21 04:22:41",
-      "album": {
-        "name": "RSVP",
-        "url": "https://open.spotify.com/album/5mJzVwaJ4ecUO1aSkpeKJM"
-      },
-      "artists": [
-        {
-          "name": "\ucf54\uc54c\ub77c KOALA",
-          "url": "https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ"
-        },
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "RSVP",
-      "url": "https://open.spotify.com/track/6XPVbbIYNhJ4N0C9npE876"
-    },
-    {
-      "added_at": "2024-03-21 04:22:41",
-      "album": {
-        "name": "Talk Saxy",
-        "url": "https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 190941,
-      "name": "Talk Saxy",
-      "url": "https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND"
     }
   ],
   "unique_name": "RADAR Korea",

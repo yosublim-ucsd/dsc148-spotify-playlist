@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 
 > Be welcome to the secret society of the midnight movie\-dwellers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,810 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,816 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 | 15 | [Daughters Of Darkness Opening](https://open.spotify.com/track/4RA7WT3dZqYUjru1lTqJXY) | [François de Roubaix](https://open.spotify.com/artist/5oyNl4KxsjkVfyvnwcl8ex) | [Les Lèvres Rouges](https://open.spotify.com/album/1w2quOcigZI2naZVONWiqr) | 1:08 |
 | 16 | [Necronomania](https://open.spotify.com/track/3cbiqfq1YOGhFYlOPZxEw5) | [Vampire Sound Inc.](https://open.spotify.com/artist/13MnV7biLgN0jfwmU62VFV), [Sigi Schwab](https://open.spotify.com/artist/76t372Lv5f0NBtyWrIw52n), [Manfred Hübler](https://open.spotify.com/artist/1tdyiPK4e8BraSSMMZCQPx) | [Vampyros Lesbos \(Sexadelic Dance Party\)](https://open.spotify.com/album/5MCpUmrzVGvsVcYHyGV2Cy) | 2:12 |
 | 17 | [Madame Arcati](https://open.spotify.com/track/6vY0R1nmvSk58Ftvj163PQ) | [Jacques Lasry](https://open.spotify.com/artist/6Hp8cEcn12Y6rFXybqm1pe) | [A Very English Murder](https://open.spotify.com/album/7DomG6u2OwPjl0W56PWqd8) | 2:09 |
-| 18 | [Valerie a Týden Divu \- Main Theme Edit](https://open.spotify.com/track/143kjcTccAOt8Wd2UzAgqk) | [Luboš Fišer](https://open.spotify.com/artist/4z6WcbsP0ZAw7UCEBuU6fk) | [Valerie and Her Week of Wonders](https://open.spotify.com/album/7kMA3RbOjYLJ2igWgihhPY) | 2:42 |
+| 18 | [The Legend](https://open.spotify.com/track/0zTLnXTdtDVJXwGm0yN4UM) | [Alessandro Alessandroni, Giulia de Mutiis](https://open.spotify.com/artist/7Ar0P16Mj2HodfpseBCePl) | [Spaghetti Western Story](https://open.spotify.com/album/6PyxF1vjI4JM5r6fntHyfk) | 2:06 |
 | 19 | [Déshominisation \(I\)](https://open.spotify.com/track/4bEA2S0bsm3L0n8WkjvjjG) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4BF1mMXkDo1NcJCgEBXKEk) | 3:50 |
-| 20 | [The Legend](https://open.spotify.com/track/0zTLnXTdtDVJXwGm0yN4UM) | [Alessandro Alessandroni, Giulia de Mutiis](https://open.spotify.com/artist/7Ar0P16Mj2HodfpseBCePl) | [Spaghetti Western Story](https://open.spotify.com/album/6PyxF1vjI4JM5r6fntHyfk) | 2:06 |
+| 20 | [Valerie a Týden Divu \- Main Theme Edit](https://open.spotify.com/track/143kjcTccAOt8Wd2UzAgqk) | [Luboš Fišer](https://open.spotify.com/artist/4z6WcbsP0ZAw7UCEBuU6fk) | [Valerie and Her Week of Wonders](https://open.spotify.com/album/7kMA3RbOjYLJ2igWgihhPY) | 2:42 |
 | 21 | [Dark World \(from "Inner Space"\)](https://open.spotify.com/track/3upYNAXYSxGZhnXUBFOGHx) | [Sven Libaek](https://open.spotify.com/artist/5mfMhhHDACKNJbXdrsbrm2) | [Inner Space: The Lost Film Music of Sven Libaek](https://open.spotify.com/album/5HF5en6DJ1Z9xhvRJKwkCq) | 4:32 |
 | 22 | [Weeping Ghost](https://open.spotify.com/track/4mqFrT3oGrx9dvSm0cbjJK) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes III: Alive After Death](https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT) | 3:33 |
 | 23 | [Flowers Of Evil](https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Flowers Of Evil](https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6) | 14:08 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 | 39 | [Extase](https://open.spotify.com/track/1PpyqHLJNBfwX4GKvr4u8s) | [Paul Bonneau](https://open.spotify.com/artist/0nhwbpIOp7m3GrBzXPhJI9) | [Further Nuggets \- Luke Vibert's Selection](https://open.spotify.com/album/54yBaur0EVEEj6O3yB0rQH) | 2:11 |
 | 40 | [Scarpe rotte](https://open.spotify.com/track/0y18MLJpA3iiLZ2ss2xNFi) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Uccellacci e uccellini \- The Hawks and the Sparrows \(Original Motion Picture Soundtrack\) \[Remastered\]](https://open.spotify.com/album/3F20sTbeXDmW3XOr3pWhW6) | 1:45 |
 | 41 | [Jeunes Filles Impudiques](https://open.spotify.com/track/1JuxmF5la5W3cmx6QB6vYu) | [Pierre Raph](https://open.spotify.com/artist/5mvn4QDfC0rOICm4VKY3o7) | [The B\-Music of Jean Rollin 1968\-1975](https://open.spotify.com/album/0Cvuf8byWjIisbPzunLwAX) | 3:25 |
-| 42 | [Tema grottesco](https://open.spotify.com/track/0D7JFydpAJjmKrcI9j32Xh) | [Giovanni Fusco](https://open.spotify.com/artist/1F5SQQuwQRm2k2V43hiWXe) | [L'avventura \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cbi2bMqJyez75J1DA5iLx) | 1:43 |
-| 43 | [Le Frisson Des Vampires](https://open.spotify.com/track/5n0bkvLJL814wM4ox5wb1R) | [Acanthus](https://open.spotify.com/artist/3RPNmyPOIU0qvwDVkCcIba) | [The B\-Music of Jean Rollin 1968\-1975](https://open.spotify.com/album/0Cvuf8byWjIisbPzunLwAX) | 2:42 |
+| 42 | [Le Frisson Des Vampires](https://open.spotify.com/track/5n0bkvLJL814wM4ox5wb1R) | [Acanthus](https://open.spotify.com/artist/3RPNmyPOIU0qvwDVkCcIba) | [The B\-Music of Jean Rollin 1968\-1975](https://open.spotify.com/album/0Cvuf8byWjIisbPzunLwAX) | 2:42 |
+| 43 | [Tema grottesco](https://open.spotify.com/track/0D7JFydpAJjmKrcI9j32Xh) | [Giovanni Fusco](https://open.spotify.com/artist/1F5SQQuwQRm2k2V43hiWXe) | [L'avventura \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cbi2bMqJyez75J1DA5iLx) | 1:43 |
 | 44 | [Tema di Andromeda \- Titoli](https://open.spotify.com/track/1sARq97rsSZCMnuO8oEOdd) | [Mario Migliardi](https://open.spotify.com/artist/4PQN5vllMoMffSTEjfvzpQ), [Edda Dell'Orso](https://open.spotify.com/artist/44oCA91Zsi73fzubIX6Sqh) | [A come Andromeda \(Original Television Soundtrack\) \[Remastered\]](https://open.spotify.com/album/3oCi1gzY2X4UdvI3LrEOp1) | 3:41 |
 | 45 | [L'incubo e il serpente](https://open.spotify.com/track/2JY0omp5QLrVHEnSp0zXS6) | [Pippo Caruso](https://open.spotify.com/artist/4aQ54nD9ENvCRKVJQwZ18o) | [Maladolescenza \(Colonna sonora originale del film\)](https://open.spotify.com/album/5XRxGOqq07jgm3P1I6Tim5) | 1:53 |
 | 46 | [The Letter \- Alternate Version](https://open.spotify.com/track/1QBdSz2Z7xhpuPu8oe66PR) | [Luboš Fišer](https://open.spotify.com/artist/4z6WcbsP0ZAw7UCEBuU6fk) | [Valerie and Her Week of Wonders](https://open.spotify.com/album/7kMA3RbOjYLJ2igWgihhPY) | 1:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 | 49 | [The Weakness of Rosalinda](https://open.spotify.com/track/4mAtx9BVRcwavz2Y8nGRE6) | [Jean\-Bernard Raiteux](https://open.spotify.com/artist/6uGnNovOj1Zm7gK3knalle) | [Les Demons](https://open.spotify.com/album/1h2odfHhZqFdLIxBva1VH7) | 4:11 |
 | 50 | [Ambroseli](https://open.spotify.com/track/0qoncpjquF5UILqO4aZtdR) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Zoo folle \(Original Television Soundtrack\)](https://open.spotify.com/album/54AO4l9TAqEH2ogpcUKdDi) | 6:49 |
 
-Snapshot ID: `MCw4ZTNlY2NlYmM2MTQxYWUwNzZhOWQxYzRjNjEyMjcxOTA0OTQ2NzNl`
+Snapshot ID: `MCw2ZWJhNmVjZjVmNjAxMDg5MTE1NWY0ZjE5YTI5M2M5M2EwNTNhOGE2`

@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Ana Bárbara
 
-384 songs - 20 hr 51 min
+385 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Solos](https://open.spotify.com/track/1oQtCWxfOZwyfy2Vl3yy6w) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Solos](https://open.spotify.com/album/4MZ3QFD6pxd9uQvjsX0SpR) | 3:06 | 2022-05-13 | 2023-01-07 |
 | [Somos Novios](https://open.spotify.com/track/6n0ASxfVk0UzVGcNU78Hu3) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Cigala Canta a México](https://open.spotify.com/album/4YI2xS7OT4btXJ4zFBxeno) | 2:56 | 2022-05-13 | 2022-06-01 |
 | [Son Amores \(That's Amore\) \(feat\. Los Macorinos\)](https://open.spotify.com/track/10HQmG706HZtAhXRypWw01) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol\. 1\)](https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt) | 3:44 | 2022-06-01 | 2023-01-07 |
+| [Soy de Parral \- Versión Acústica](https://open.spotify.com/track/6hG3rVEhKz5R9jnM49ksWl) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Pablo Vamer](https://open.spotify.com/artist/6rasbovc25yVtFyNczlrHH) | [Soy de Parral \(Versión Acústica\)](https://open.spotify.com/album/6zQOPTVMGhJMXRBBNsiTby) | 3:49 | 2024-03-08 |  |
 | [Sólo Muere Si Se Olvida](https://open.spotify.com/track/30slSV1I6iiKvFhJ4X5aFd) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Sólo Muere Si Se Olvida](https://open.spotify.com/album/06eE8AIljE3ADQbE3KSZ50) | 2:53 | 2023-08-17 | 2024-03-09 |
 | [Tanta Fortuna](https://open.spotify.com/track/73ayCgqqrWhPGJpXa4xVy7) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Tanta Fortuna](https://open.spotify.com/album/1FH2kRUZAweBlrYDMLF44I) | 3:23 | 2022-05-13 | 2022-06-01 |
 | [Tatuajes](https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:31 | 2022-05-13 | 2023-01-07 |

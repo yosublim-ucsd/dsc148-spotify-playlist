@@ -1,12 +1,12 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 238816,
+  "num_followers": 239356,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWEwNjIwZDRiYjAxZGY0ZGVlNWI4MjVjOTk2MmRiMDc5YTc2N2Mx",
+  "snapshot_id": "MCwzMWIzMTM5MTg1YmQyNTA3YTNhNmEyOTM5YzZmMTlmY2E0MGRmODdm",
   "tracks": [
     {
       "added_at": "2024-03-19 13:50:16",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-03-19 13:50:16",
       "album": {
+        "name": "The Astrud Gilberto Album",
+        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "duration_ms": 128985,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/6HOtn3ccKCgz2vQkWFIYnp"
+    },
+    {
+      "added_at": "2024-03-19 13:50:16",
+      "album": {
         "name": "The Brasil Project Vol. II",
         "url": "https://open.spotify.com/album/5UjRL6iqsJX1kRbuqQ43U7"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 216360,
       "name": "Samba de Orfeu",
       "url": "https://open.spotify.com/track/0yO7Rg00ZJiMMb8pHiBojc"
-    },
-    {
-      "added_at": "2024-03-19 13:50:16",
-      "album": {
-        "name": "The Astrud Gilberto Album",
-        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        }
-      ],
-      "duration_ms": 128985,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/6HOtn3ccKCgz2vQkWFIYnp"
     },
     {
       "added_at": "2024-03-19 13:50:16",

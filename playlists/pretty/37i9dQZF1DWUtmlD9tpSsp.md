@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtmlD9tpSsp.md) - [plain]
 
 > <a href="https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR?si=139b36be70ba4df1">「RADAR:Early Noise 2023」</a>選出アーティスト、DURDNの楽曲を一つのプレイリストで。All the essentials from RADAR: Early Noise 2023 artist, DURDN.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,127 likes - 26 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,131 likes - 26 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtmlD9tpSsp.md) - [plain]
 | 25 | [Itsuka Omoideni](https://open.spotify.com/track/2PHjxSqMkdggrr9rVBEoAP) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Itsuka Omoideni](https://open.spotify.com/album/7q2D9UdP89jvxiMWEyRM1J) | 4:18 |
 | 26 | [Boku no Yume](https://open.spotify.com/track/4PEsRQ7zM9LjUcEtdPV4er) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Boku no Yume](https://open.spotify.com/album/2ajaNIVNwUcUxKr3BrIpbF) | 3:32 |
 
-Snapshot ID: `MCxmMTQyMjcyMjlhZWM5MmVlOTZjNTU4OWJlMDdkOWViZDllYzg0OTJm`
+Snapshot ID: `MCw0NmVlZDIxZDk1NzZmYjZiOWI5ZWJhODM0ODgwNzRkOTMzNDZjODQ5`

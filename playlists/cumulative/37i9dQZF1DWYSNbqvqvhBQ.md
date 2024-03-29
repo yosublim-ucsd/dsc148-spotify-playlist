@@ -2,7 +2,7 @@
 
 ### [Stay Tuned!](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> Luister naar nieuwe songs en hits van dit moment! Cover: The Indien
+> Luister naar nieuwe songs en hits van dit moment! Cover: Hozier
 
 376 songs - 21 hr 46 min
 

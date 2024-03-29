@@ -1,13 +1,45 @@
 {
-  "description": "Are you ready for the floor? Cover: Justice, Miguel",
-  "num_followers": 30283,
+  "description": "Are you ready for the floor? Cover: 49th & Main",
+  "num_followers": 30297,
   "original_name": "Indie Dancefloor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGVhYTdhZjJmOWM4YmU1Zjk3MDMyZTc4YWNlOTdmODUxYjkwZjMw",
+  "snapshot_id": "MCxkZjAwNGM0MWU1OWZiMDVmZjUwZjE3NTQyYzgyZmY0OTViNTUxZTRi",
   "tracks": [
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Self Sabotage",
+        "url": "https://open.spotify.com/album/1xL7LvJtJlAjWPrtA7Aj0v"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 145074,
+      "name": "Self Sabotage",
+      "url": "https://open.spotify.com/track/7yYur6YhUetXZj6b2CnWrE"
+    },
+    {
+      "added_at": "2024-03-22 16:37:35",
+      "album": {
+        "name": "If You Love Her",
+        "url": "https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "If You Love Her",
+      "url": "https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486"
+    },
     {
       "added_at": "2024-03-22 16:37:35",
       "album": {
@@ -27,38 +59,6 @@
       "duration_ms": 201533,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/0czIop1Wsllu6wCktR633R"
-    },
-    {
-      "added_at": "2024-03-22 16:37:35",
-      "album": {
-        "name": "Unpredictable",
-        "url": "https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa"
-      },
-      "artists": [
-        {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
-        }
-      ],
-      "duration_ms": 197036,
-      "name": "Unpredictable",
-      "url": "https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3"
-    },
-    {
-      "added_at": "2024-03-22 16:37:35",
-      "album": {
-        "name": "If You Love Her",
-        "url": "https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "If You Love Her",
-      "url": "https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486"
     },
     {
       "added_at": "2024-03-22 16:37:35",
@@ -95,6 +95,42 @@
       "duration_ms": 300000,
       "name": "Journey (feat. Mysie)",
       "url": "https://open.spotify.com/track/3aZ8RfhiOdUJEP6h2H17y6"
+    },
+    {
+      "added_at": "2024-03-22 16:37:35",
+      "album": {
+        "name": "Unpredictable",
+        "url": "https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 197036,
+      "name": "Unpredictable",
+      "url": "https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/5xlgUGIMpZwKYMzA2tMaVy"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "duration_ms": 211323,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/2so6WzyodEY32OPAgsx1YD"
     },
     {
       "added_at": "2024-03-22 16:37:35",
@@ -269,6 +305,22 @@
       "url": "https://open.spotify.com/track/3t6YRAebaWeWHitQ05ZQZj"
     },
     {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "GAMMA",
+        "url": "https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO"
+      },
+      "artists": [
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        }
+      ],
+      "duration_ms": 114333,
+      "name": "Digital slaves",
+      "url": "https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT"
+    },
+    {
       "added_at": "2024-03-22 16:37:35",
       "album": {
         "name": "Won't Give Your Love",
@@ -325,6 +377,34 @@
       "url": "https://open.spotify.com/track/4Sj4ZeOPAcdAhYplVbezI0"
     },
     {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Back Of My Mind",
+        "url": "https://open.spotify.com/album/1rurbfn13qYyYC41BGPFEC"
+      },
+      "artists": [
+        {
+          "name": "Bodysync",
+          "url": "https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb"
+        },
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+        },
+        {
+          "name": "Giraffage",
+          "url": "https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6"
+        },
+        {
+          "name": "Dazy",
+          "url": "https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6"
+        }
+      ],
+      "duration_ms": 160951,
+      "name": "Back Of My Mind",
+      "url": "https://open.spotify.com/track/0RDAOHfHfq7QUkjmXLAVJf"
+    },
+    {
       "added_at": "2024-03-22 16:37:35",
       "album": {
         "name": "This Is A Reminder That You Are Not Behind Your Face",
@@ -355,6 +435,26 @@
       "duration_ms": 181240,
       "name": "She's On My Mind",
       "url": "https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Higher Ground (feat. Roosevelt)",
+        "url": "https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 273293,
+      "name": "Higher Ground (feat. Roosevelt)",
+      "url": "https://open.spotify.com/track/7lonJyyarYijNhlt6t6EKs"
     },
     {
       "added_at": "2024-03-22 16:37:35",
@@ -867,26 +967,6 @@
     {
       "added_at": "2024-03-22 16:37:35",
       "album": {
-        "name": "Nurture",
-        "url": "https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        },
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 285821,
-      "name": "Unfold",
-      "url": "https://open.spotify.com/track/36kCSJg8ZBwiSCUECFKGUy"
-    },
-    {
-      "added_at": "2024-03-22 16:37:35",
-      "album": {
         "name": "Dark Rain",
         "url": "https://open.spotify.com/album/0qAXFwj59i4PcQyyYMiPP5"
       },
@@ -915,54 +995,6 @@
       "duration_ms": 166958,
       "name": "Red Flashing Lights",
       "url": "https://open.spotify.com/track/7olPKz81JZoeIWZnSUkN8S"
-    },
-    {
-      "added_at": "2024-03-22 16:37:35",
-      "album": {
-        "name": "+/-",
-        "url": "https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA"
-      },
-      "artists": [
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
-          "name": "Kelsey Lu",
-          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
-        },
-        {
-          "name": "Chilly Gonzales",
-          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
-        }
-      ],
-      "duration_ms": 223658,
-      "name": "Ride Or Die (feat. Chilly Gonzales)",
-      "url": "https://open.spotify.com/track/1rP4GZ4eFK4W9c5QeFIn1Y"
-    },
-    {
-      "added_at": "2024-03-22 16:37:35",
-      "album": {
-        "name": "Opal",
-        "url": "https://open.spotify.com/album/5qCDHuUXdrQSWCjG8kkpo3"
-      },
-      "artists": [
-        {
-          "name": "Nikonn",
-          "url": "https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q"
-        },
-        {
-          "name": "Chloe Ann",
-          "url": "https://open.spotify.com/artist/1irwQnIWoD6cV6QTmN8zZ6"
-        },
-        {
-          "name": "Melllo",
-          "url": "https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc"
-        }
-      ],
-      "duration_ms": 247850,
-      "name": "Opal",
-      "url": "https://open.spotify.com/track/5sJyL8UvFs6onfikqUjUqY"
     },
     {
       "added_at": "2024-03-22 16:37:35",
@@ -1111,22 +1143,6 @@
     {
       "added_at": "2024-03-22 16:37:35",
       "album": {
-        "name": "I Still Love You",
-        "url": "https://open.spotify.com/album/2HOO0SKx71DqVJ5exvWTrY"
-      },
-      "artists": [
-        {
-          "name": "Origami Human",
-          "url": "https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "I Still Love You",
-      "url": "https://open.spotify.com/track/5ATro8iHnekyweon2xjf36"
-    },
-    {
-      "added_at": "2024-03-22 16:37:35",
-      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/5dHNiXlC7nUK0KGvWymFqs"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 245495,
       "name": "100 Percent",
       "url": "https://open.spotify.com/track/7Avn4DOfWIlZwUv1noXJnc"
-    },
-    {
-      "added_at": "2024-03-22 16:37:35",
-      "album": {
-        "name": "Jini",
-        "url": "https://open.spotify.com/album/2blDmIqLlzYOP6F2JRL0Ze"
-      },
-      "artists": [
-        {
-          "name": "Justin Faust",
-          "url": "https://open.spotify.com/artist/3txM1X4je9gqlxE9IKqVsl"
-        }
-      ],
-      "duration_ms": 260844,
-      "name": "Jini",
-      "url": "https://open.spotify.com/track/4Pmg2EBOWFZVvi3zFs3SC3"
     },
     {
       "added_at": "2024-03-22 16:37:35",

@@ -4,12 +4,13 @@
 
 > Questionable in both morals and taste.
 
-86 songs - 5 hr 7 min
+87 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Agents Of Fortune](https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt) | 5:08 | 2023-11-20 |  |
 | [134340 Pluto](https://open.spotify.com/track/4y68MbR4SBc8UcnvQgzvdA) | [Cojum Dip](https://open.spotify.com/artist/0HfXJsCfDuqowm6agu6I0i) | [Cojum Dip](https://open.spotify.com/album/5RSTrCPHo0MvHuO4BncjTw) | 3:42 | 2023-03-26 |  |
+| [1993 \(feat\. Little Ricky ZR3\)](https://open.spotify.com/track/71iA79hOFAMmwGB1w83VH1) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Little Ricky ZR3](https://open.spotify.com/artist/6GaslxycqT27V8q2H3yZ7x) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:39 | 2024-03-28 |  |
 | [A Mask of My Own Face](https://open.spotify.com/track/6ibbHAoBrdqJxo345QGumd) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Nature Tapes](https://open.spotify.com/album/4Julje5zwF2IRlSqBOQ2oJ) | 3:30 | 2022-08-01 |  |
 | [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 | 2023-03-26 | 2023-12-14 |
 | [An Unhealthy Obsession](https://open.spotify.com/track/43FkY9svV70r8PmBL7ypUh) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [An Unhealthy Obsession](https://open.spotify.com/album/4mK2uqTY0iz0rNYebd4EDd) | 2:58 | 2023-03-23 |  |

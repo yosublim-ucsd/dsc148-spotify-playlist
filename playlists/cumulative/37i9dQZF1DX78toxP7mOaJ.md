@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: mary in the junkyard
 
-1,361 songs - 3 day 2 hr 38 min
+1,362 songs - 3 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Crawling](https://open.spotify.com/track/0P4A7IE22FzgcerZuf0fTs) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Raw Emotion](https://open.spotify.com/album/5giGovo1IyngRkyi58nxtY) | 2:44 | 2022-06-29 | 2022-12-18 |
 | [Crawling](https://open.spotify.com/track/3uXRPo8BHWB3ZJIfL4PrgB) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Soft Slam](https://open.spotify.com/album/6qexqy400QLAyDIu8Cf5Fe) | 2:44 | 2022-11-30 | 2022-12-19 |
 | [Crawling](https://open.spotify.com/track/7q9CCkU2CpUodkMx02V11R) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Raw Emotion](https://open.spotify.com/album/5Xfy7lIiqneDoEf3jEQwQY) | 2:44 | 2022-11-30 | 2023-01-12 |
+| [Crimes](https://open.spotify.com/track/5HAUHSAlOOw9wyoLV2wvzO) | [Gloom Girl MFG](https://open.spotify.com/artist/2UXI5X9jhT0bwCO13Gb3LL) | [Crimes](https://open.spotify.com/album/4X2WwnZ54aV4nhTcD0BX7M) | 2:37 | 2024-03-28 |  |
 | [Crimson to Chrome](https://open.spotify.com/track/4L8vpnqvHQucS2jakCHztD) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crimson to Chrome b/w IN\_OUT](https://open.spotify.com/album/3SOjx5ALtCLxwMCeBrpZeD) | 3:28 | 2023-11-29 | 2024-01-11 |
 | [Crimson to Chrome](https://open.spotify.com/track/51z0dKznDBCOYTumpGJXoj) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crimson to Chrome](https://open.spotify.com/album/4AxFhcAdZ2mZQsijvKpcOr) | 3:28 | 2023-04-26 | 2023-06-01 |
 | [Crimson to Chrome](https://open.spotify.com/track/7Glc8vWNMAozw6DDK9KMm7) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crimson to Chrome](https://open.spotify.com/album/2QzqfzIEOEOsT5edrAyniD) | 3:28 | 2023-03-22 | 2023-04-29 |
@@ -576,7 +577,7 @@
 | [Holiday in My Head](https://open.spotify.com/track/7GrCfI8A87IekzGb37lGOX) | [The Velvet Hands](https://open.spotify.com/artist/3apmyVOBGwhnh7AwyRaF81) | [Holiday in My Head](https://open.spotify.com/album/7sNosmIEcn33uMiLOkVXEZ) | 2:23 | 2022-06-15 | 2022-08-11 |
 | [Hollow](https://open.spotify.com/track/2G9szOJ0JUpQr8n7XP3sgy) | [Grumpster](https://open.spotify.com/artist/6aUzts6HmxY9CVr6U5hILq) | [Hollow](https://open.spotify.com/album/47qoqMXsKKivWNgkk5a9MS) | 2:12 | 2023-01-11 | 2024-01-11 |
 | [Hollywood Junkyard](https://open.spotify.com/track/3Aoz4aB19nH03FkWYB50QE) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Hollywood Junkyard](https://open.spotify.com/album/6zFb0QYzgfNSIvU34gM4SN) | 3:13 | 2022-03-30 | 2022-05-19 |
-| [Homesick.](https://open.spotify.com/track/2MjVUXgZcEQ2jPoQ8RB0or) | [Easy Honey](https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj) | [Homesick.](https://open.spotify.com/album/2Beb6J2sNAI2FZyR0mQoTq) | 3:28 | 2024-03-06 |  |
+| [homesick.](https://open.spotify.com/track/2MjVUXgZcEQ2jPoQ8RB0or) | [Easy Honey](https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj) | [homesick.](https://open.spotify.com/album/2Beb6J2sNAI2FZyR0mQoTq) | 3:28 | 2024-03-06 |  |
 | [Hometown](https://open.spotify.com/track/6ZSL0bZxgGLsygQLQptyH3) | [Babytooth](https://open.spotify.com/artist/1qOs0GjofPiGwLs3hOFR4M) | [Hometown](https://open.spotify.com/album/4V7eZToUT2CCrwxHlwzizF) | 2:37 | 2023-07-26 | 2023-08-17 |
 | [Honestly](https://open.spotify.com/track/6urlg4tyPc3fG4vsWiUXzH) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Honestly](https://open.spotify.com/album/2zF2mOK0H1wRFt1gn0Hd8r) | 3:26 | 2022-05-04 | 2022-08-04 |
 | [Honey](https://open.spotify.com/track/0ighGqqk2uCRqcDUAbQHkv) | [Crystal Tides](https://open.spotify.com/artist/5a94ihfgkkItCundHIPxP4) | [Honey](https://open.spotify.com/album/0CV6bKxdpGsfim5ivxKKSc) | 3:25 | 2022-02-16 | 2022-05-12 |

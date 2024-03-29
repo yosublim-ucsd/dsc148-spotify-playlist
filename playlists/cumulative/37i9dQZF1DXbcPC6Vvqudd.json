@@ -4480,7 +4480,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 133350,
       "name": "Rain And Distant Thunder",
       "url": "https://open.spotify.com/track/4XTtqPIrBFUvDmi9PFPdSc"
@@ -6032,6 +6032,24 @@
       "duration_ms": 230597,
       "name": "Shelter From Rain And Thunder",
       "url": "https://open.spotify.com/track/6hjH2icOU51DUn09Luv3u5"
+    },
+    {
+      "album": {
+        "name": "Shinjuku Night Showers",
+        "url": "https://open.spotify.com/album/506N61I0wuYHbHUiAJ3lCu"
+      },
+      "artists": [
+        {
+          "name": "Che Dormono",
+          "url": "https://open.spotify.com/artist/0lEQ29Wf4vAjAdyK0jGTRp"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Shibuya Intense Rain",
+      "url": "https://open.spotify.com/track/67nOtJ94CRz6CpUxRPYEFH"
     },
     {
       "album": {

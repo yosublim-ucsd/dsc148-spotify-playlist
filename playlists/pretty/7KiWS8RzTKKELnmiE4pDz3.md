@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 137 songs - 7 hr 23 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 139 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,5 +145,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 135 | [Me And My Bitch](https://open.spotify.com/track/1Kz0tgMRWsbLzEuzRaU1vP) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 3:05 |
 | 136 | [Fuck Everybody Else](https://open.spotify.com/track/4UqvWxvygh6aTOXfXvvQd8) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 2:07 |
 | 137 | [The Feeling](https://open.spotify.com/track/30u6eg92jaKaY2lYQb8sFd) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 2:50 |
+| 138 | [Big Stonëz](https://open.spotify.com/track/6vmRtsvnmfABDSE7eqeNgW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2) | 2:47 |
+| 139 | [Talk 2 God](https://open.spotify.com/track/5dA0iENzuQGYKZpCKU4nnN) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2) | 2:49 |
 
-Snapshot ID: `NzI3NywwMjFmM2Q2MTNjYzY2M2I4Y2I0OWViYjczOTAxNjA1OWY5YWRiNTg0`
+Snapshot ID: `NzI3OSwxZDE3MTM4YWRjMTc0NGE0Y2YyOTZhMThjODdiNzFkNTllMWI3MmUw`

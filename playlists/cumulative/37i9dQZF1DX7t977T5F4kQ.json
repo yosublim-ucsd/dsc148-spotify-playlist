@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Ghetto Boy",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Fameye",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -214,6 +214,24 @@
       "duration_ms": 172972,
       "name": "A B C D",
       "url": "https://open.spotify.com/track/5iqTS5Ge7PwRaM0E09Cu1H"
+    },
+    {
+      "album": {
+        "name": "A POET's BOOK",
+        "url": "https://open.spotify.com/album/631de2gJdyYojP3aixNqyq"
+      },
+      "artists": [
+        {
+          "name": "Jayadi",
+          "url": "https://open.spotify.com/artist/4mfk4OCq0FQMYKEJsFjdAl"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124931,
+      "name": "A POET's BOOK",
+      "url": "https://open.spotify.com/track/4E38NnL7k4ttirYrJ7Hxve"
     },
     {
       "album": {
@@ -1726,6 +1744,24 @@
       "duration_ms": 180000,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/4o288GFXXDZIo745sGSFRJ"
+    },
+    {
+      "album": {
+        "name": "Diin",
+        "url": "https://open.spotify.com/album/1bIuBtSeDc4JpTj3akJLUe"
+      },
+      "artists": [
+        {
+          "name": "Wutah Kobby",
+          "url": "https://open.spotify.com/artist/4XdiQkB8WIPxaSdp0uRWox"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Diin",
+      "url": "https://open.spotify.com/track/6AeZAnCDzuqJm6iYgzMs1l"
     },
     {
       "album": {
@@ -4341,6 +4377,24 @@
     },
     {
       "album": {
+        "name": "Obrempong",
+        "url": "https://open.spotify.com/album/1Ha74jk2foDfMrWRVzKAHP"
+      },
+      "artists": [
+        {
+          "name": "Lord Paper",
+          "url": "https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196257,
+      "name": "Obrempong",
+      "url": "https://open.spotify.com/track/6vk0AipLoEac7RZIWkW4ZV"
+    },
+    {
+      "album": {
         "name": "Odo Aduane",
         "url": "https://open.spotify.com/album/6hGinduqEgrBCJCLjEVBj5"
       },
@@ -4352,7 +4406,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 178845,
       "name": "Odo Aduane",
       "url": "https://open.spotify.com/track/1TvtubWwwJKwTu6dnwkqfB"
@@ -4634,7 +4688,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 178076,
       "name": "Our Day",
       "url": "https://open.spotify.com/track/2mqHJQs6OXsllIjNmffAWn"
@@ -4850,6 +4904,28 @@
       "duration_ms": 207008,
       "name": "Party Of The Year (feat. Mr Drew)",
       "url": "https://open.spotify.com/track/2l7g9za5ukNtQN4h1vSCbK"
+    },
+    {
+      "album": {
+        "name": "Pasa (Remix)",
+        "url": "https://open.spotify.com/album/7IpuhVSAmSbo77kGi3vzhm"
+      },
+      "artists": [
+        {
+          "name": "Korshi T",
+          "url": "https://open.spotify.com/artist/6LYgIKATg0RJj86yCqAxnc"
+        },
+        {
+          "name": "B4bonah",
+          "url": "https://open.spotify.com/artist/533nTGirqEiUKwUcVxYWv8"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "Pasa - Remix",
+      "url": "https://open.spotify.com/track/5cp6IukocVZv2nfuC0IzIG"
     },
     {
       "album": {
@@ -5399,6 +5475,28 @@
     },
     {
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/0gmJlZaO0ZJcCF7O3krzXl"
+      },
+      "artists": [
+        {
+          "name": "Gasmilla",
+          "url": "https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3"
+        },
+        {
+          "name": "Gizmo Original",
+          "url": "https://open.spotify.com/artist/6rrtn6So9bRb6mZLTMjGMX"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/0OK6S8OsDnbBm5zbcTsb0C"
+    },
+    {
+      "album": {
         "name": "Sho (feat. Mr Drew)",
         "url": "https://open.spotify.com/album/5s7AjDdIfLDiYOBrga9T2f"
       },
@@ -5472,6 +5570,24 @@
       "duration_ms": 185183,
       "name": "Sisi Yellow",
       "url": "https://open.spotify.com/track/3RIwfMCsUiigA7EmSxibeH"
+    },
+    {
+      "album": {
+        "name": "Slay Queen",
+        "url": "https://open.spotify.com/album/5K2X26PtyTCUZmmfzIaZI2"
+      },
+      "artists": [
+        {
+          "name": "Sista Afia",
+          "url": "https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214453,
+      "name": "Slay Queen",
+      "url": "https://open.spotify.com/track/58hvxoqFo5vDqR5NmvORsh"
     },
     {
       "album": {
@@ -5552,6 +5668,28 @@
       "duration_ms": 177373,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
+    },
+    {
+      "album": {
+        "name": "Sober (Soo Bad)",
+        "url": "https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220206,
+      "name": "Sober (Soo Bad)",
+      "url": "https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8"
     },
     {
       "album": {

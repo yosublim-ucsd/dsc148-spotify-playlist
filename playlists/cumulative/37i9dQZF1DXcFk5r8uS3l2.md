@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Lizz Wright
 
-357 songs - 22 hr 28 min
+357 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Lethal Love](https://open.spotify.com/track/4w9gjumzSX5poNIZYypcZ3) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Lethal Love](https://open.spotify.com/album/0XIZh1v7SLPAow7UiJa5jZ) | 3:06 | 2023-03-24 | 2023-04-30 |
 | [Light \- Edit](https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Light \(Edit\)](https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz) | 3:05 | 2021-12-17 | 2023-03-25 |
 | [Lissa's Song](https://open.spotify.com/track/1zwnTZVdOd85R5XFpV6vqf) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Lissa's Song](https://open.spotify.com/album/2PDEbqRQ2nlVwPTuQcmvhU) | 5:07 | 2021-12-17 | 2022-07-21 |
-| [Little Heartbreak Girl](https://open.spotify.com/track/1mbtYYDO3E6kVogF9Mv9iP) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Little Heartbreak Girl](https://open.spotify.com/album/5ubfzzKMnqxjv2Wa3JGe21) | 4:34 | 2024-03-22 |  |
+| [Little Heartbreak Girl](https://open.spotify.com/track/1mbtYYDO3E6kVogF9Mv9iP) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Little Heartbreak Girl](https://open.spotify.com/album/5ubfzzKMnqxjv2Wa3JGe21) | 4:18 | 2024-03-22 |  |
 | [Little Liars](https://open.spotify.com/track/0vweB7Cfb5txX22ngBLgHJ) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Little Liars](https://open.spotify.com/album/2oEFLDrTefTIYz2RPeAoSa) | 3:55 | 2021-12-17 | 2022-07-29 |
 | [Little Liars](https://open.spotify.com/track/7lzylsUdfeuPqLO2Fmypv2) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Click Click Domino](https://open.spotify.com/album/4jZkftndOfxPCNaUyeUQfq) | 3:55 | 2022-01-28 | 2023-03-11 |
 | [Little White Lies \- Stripped Back](https://open.spotify.com/track/5zNEdMjH38ll8AmDYhRW4X) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx), [Joshua Quimby](https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0) | [Little White Lies \(Stripped Back\)](https://open.spotify.com/album/0XF5GRWo02OlsvnzXlM398) | 2:32 | 2023-03-10 | 2023-05-20 |

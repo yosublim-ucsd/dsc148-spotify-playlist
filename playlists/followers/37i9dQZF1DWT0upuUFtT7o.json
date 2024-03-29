@@ -1,7 +1,7 @@
 {
-  "2024-03-28": 211908,
+  "2024-03-29": 212389,
   "date_first_scraped": "2022-01-09",
-  "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Zsela",
+  "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Annie-Dog",
   "name": "Fresh Finds Indie",
   "tracks": [
     {
@@ -5603,7 +5603,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 198260,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/7hB2CDiCrDvWkAUQVzNB72"
@@ -5917,7 +5917,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 176880,
       "name": "Bubble Bath",
       "url": "https://open.spotify.com/track/20YR9nQbpzkgu8unaM5daZ"
@@ -7291,6 +7291,24 @@
     {
       "album": {
         "name": "Closer",
+        "url": "https://open.spotify.com/album/1AqR0VZf6nkCN4c9sNXSoO"
+      },
+      "artists": [
+        {
+          "name": "Eden Rain",
+          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198424,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1VTWCauhhZ23hDHMjsVCWb"
+    },
+    {
+      "album": {
+        "name": "Closer",
         "url": "https://open.spotify.com/album/4k5BmJCgXO50WKWhmxrBYL"
       },
       "artists": [
@@ -7901,6 +7919,24 @@
       "duration_ms": 285600,
       "name": "Corrina",
       "url": "https://open.spotify.com/track/4aaKaNFYs31Ati6tkG5uoI"
+    },
+    {
+      "album": {
+        "name": "Cosette",
+        "url": "https://open.spotify.com/album/7pdvYdg7dQsVcbWMQrwOGo"
+      },
+      "artists": [
+        {
+          "name": "Wilby",
+          "url": "https://open.spotify.com/artist/1Y6ECsGp8e5NR3v88UBIPT"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235077,
+      "name": "Cosette",
+      "url": "https://open.spotify.com/track/1e0ghRCHwjnwEY0llpODwH"
     },
     {
       "album": {
@@ -9367,7 +9403,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 139086,
       "name": "Die Your Daughter",
       "url": "https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu"
@@ -9605,6 +9641,24 @@
       "duration_ms": 199090,
       "name": "distance",
       "url": "https://open.spotify.com/track/5gBzMkmAtyn1WhZcCz7mk3"
+    },
+    {
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/0ZHJyxVXr3lbakBGtxcS8i"
+      },
+      "artists": [
+        {
+          "name": "Margaux",
+          "url": "https://open.spotify.com/artist/2ycbMlovjNV5gks2r8Vtsp"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275133,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/3O78zVX5FiJmQ9gsWfqrN2"
     },
     {
       "album": {
@@ -10750,6 +10804,24 @@
     },
     {
       "album": {
+        "name": "East to South - EP",
+        "url": "https://open.spotify.com/album/2ExMPElV0O7a6cZXzW7jpp"
+      },
+      "artists": [
+        {
+          "name": "Goldielocks",
+          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176657,
+      "name": "East to South",
+      "url": "https://open.spotify.com/track/7tqJPvmkLS3lXiNqtPSB8w"
+    },
+    {
+      "album": {
         "name": "Eastern Ave",
         "url": "https://open.spotify.com/album/1LmWeZnQSDVz1qReWHDmgF"
       },
@@ -11097,7 +11169,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 167178,
       "name": "endless questions",
       "url": "https://open.spotify.com/track/6K0xzSgP4YOTBL6kZIhuwM"
@@ -11259,7 +11331,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 241746,
       "name": "Everything Is Now",
       "url": "https://open.spotify.com/track/6laEzBd4TnyrzmMmPvGmAn"
@@ -11537,7 +11609,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 240558,
       "name": "Fade and Fading",
       "url": "https://open.spotify.com/track/740vuzO9W1FKZXO9Kf9jvP"
@@ -13155,6 +13227,24 @@
       "duration_ms": 211368,
       "name": "Funny",
       "url": "https://open.spotify.com/track/5yaNilJSIlrbIbYjQMCGpg"
+    },
+    {
+      "album": {
+        "name": "funny faces",
+        "url": "https://open.spotify.com/album/6CvNJGQHOFhbSZKALnVmVH"
+      },
+      "artists": [
+        {
+          "name": "THE BLSSM",
+          "url": "https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212164,
+      "name": "funny faces",
+      "url": "https://open.spotify.com/track/5IDCkCRCPOqpOVc42FYWxz"
     },
     {
       "album": {
@@ -18091,7 +18181,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 220280,
       "name": "I'm Not Alone (I'm Lonely)",
       "url": "https://open.spotify.com/track/6LsrXakSxOpwvsmRhrqQyq"
@@ -22703,7 +22793,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 298775,
       "name": "marmalade lover",
       "url": "https://open.spotify.com/track/3B7tnrDKZ8ZNNouishWWvE"
@@ -24492,6 +24582,24 @@
     },
     {
       "album": {
+        "name": "ALTAVAN",
+        "url": "https://open.spotify.com/album/2ufGQBENqeiHJrNUzdYyKH"
+      },
+      "artists": [
+        {
+          "name": "Blond in Car",
+          "url": "https://open.spotify.com/artist/2MpTGEyRxAUkD16X9XpLyl"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213866,
+      "name": "My High GummyGirl",
+      "url": "https://open.spotify.com/track/1iMvAqdjE0lK8ywyeQH9fS"
+    },
+    {
+      "album": {
         "name": "my life is boring",
         "url": "https://open.spotify.com/album/0tEIZbCGdcGATBeSO6rT8i"
       },
@@ -24647,7 +24755,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 153857,
       "name": "My World",
       "url": "https://open.spotify.com/track/0ZkSZo3KfEmWDVRQfkcurd"
@@ -25436,6 +25544,24 @@
     },
     {
       "album": {
+        "name": "Night Talks",
+        "url": "https://open.spotify.com/album/1XgVKm93SUFBZLTfkWmhdx"
+      },
+      "artists": [
+        {
+          "name": "Maisyn",
+          "url": "https://open.spotify.com/artist/2SQWrWZ6liOAZtLkcs2P2d"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "Night Talks",
+      "url": "https://open.spotify.com/track/3C3nxNgZ9NK2qyDPQ8Zf5h"
+    },
+    {
+      "album": {
         "name": "HIGH LIFE",
         "url": "https://open.spotify.com/album/6nMHJT2PM6gLLsCygd9FKh"
       },
@@ -25447,7 +25573,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 180141,
       "name": "NIGHT_2_GOLD",
       "url": "https://open.spotify.com/track/0llf1MxisU7j3DXIypuTyc"
@@ -25783,6 +25909,24 @@
       "duration_ms": 107333,
       "name": "North Carolina",
       "url": "https://open.spotify.com/track/3qIC976uoqMk5Ad8udiXrp"
+    },
+    {
+      "album": {
+        "name": "Nos Despedimos / Window Shopping",
+        "url": "https://open.spotify.com/album/0JAhLeKnyJ5SeRGU3F261M"
+      },
+      "artists": [
+        {
+          "name": "BEL",
+          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139805,
+      "name": "Nos Despedimos",
+      "url": "https://open.spotify.com/track/5YaRt2MFIfmp6jdabC4JTx"
     },
     {
       "album": {
@@ -26147,7 +26291,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 219680,
       "name": "NYC",
       "url": "https://open.spotify.com/track/0BdJW0Js73JMsJFyiRhDsf"
@@ -26501,6 +26645,24 @@
       "duration_ms": 158506,
       "name": "Old Ways",
       "url": "https://open.spotify.com/track/3MDKT6EcDWIpDK6Y1pzf8f"
+    },
+    {
+      "album": {
+        "name": "oldnews",
+        "url": "https://open.spotify.com/album/3Kc9BKtvZ4T1XjtMus3n6D"
+      },
+      "artists": [
+        {
+          "name": "meg elsier",
+          "url": "https://open.spotify.com/artist/4rkAMhebcdsLwZKBriNerT"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206085,
+      "name": "oldnews",
+      "url": "https://open.spotify.com/track/4GPW2IKUMthbk3GA0f2rVD"
     },
     {
       "album": {
@@ -26977,6 +27139,24 @@
       "duration_ms": 67131,
       "name": "Oscillating In Imaginary Butterflies",
       "url": "https://open.spotify.com/track/0lukljBfDuvj3I1HPe5zIE"
+    },
+    {
+      "album": {
+        "name": "ostara",
+        "url": "https://open.spotify.com/album/5LNXtOnZB6ERdI4xBxFMAj"
+      },
+      "artists": [
+        {
+          "name": "faery",
+          "url": "https://open.spotify.com/artist/7uzaNaDY7uPjwR2mTKf41a"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "ostara",
+      "url": "https://open.spotify.com/track/5JuFgpXOFteFZASjAdZRZK"
     },
     {
       "album": {
@@ -28043,7 +28223,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 139778,
       "name": "Pile Of Photos",
       "url": "https://open.spotify.com/track/0qNjyNGYQKIa0A2IEyd70r"
@@ -28841,7 +29021,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 216183,
       "name": "Profusion",
       "url": "https://open.spotify.com/track/2U1R61eI6fLxzYmgmRjdiJ"
@@ -31238,6 +31418,24 @@
     },
     {
       "album": {
+        "name": "Seeds of Evil",
+        "url": "https://open.spotify.com/album/2iXteeFOazB3q1QuJfTtjf"
+      },
+      "artists": [
+        {
+          "name": "youbet",
+          "url": "https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187171,
+      "name": "Seeds of Evil",
+      "url": "https://open.spotify.com/track/0wExq390PWRzSvpBlfjQTs"
+    },
+    {
+      "album": {
         "name": "the actor",
         "url": "https://open.spotify.com/album/16v4NJuFupxvWsCGOduCeC"
       },
@@ -31447,7 +31645,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 205000,
       "name": "Sex Sells",
       "url": "https://open.spotify.com/track/3hWYFYdFGMv14V5ZdVcS92"
@@ -35205,7 +35403,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 218762,
       "name": "Swapping Socks",
       "url": "https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga"
@@ -36178,6 +36376,24 @@
     },
     {
       "album": {
+        "name": "Thanks So Much",
+        "url": "https://open.spotify.com/album/2Wci0uRKwLR63NcvHg0vIU"
+      },
+      "artists": [
+        {
+          "name": "Cusp",
+          "url": "https://open.spotify.com/artist/07nDyiBj44NtwrqJJ54Or8"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214186,
+      "name": "The Alternative",
+      "url": "https://open.spotify.com/track/4CmPBOuhNWAA7AdaOYyTp5"
+    },
+    {
+      "album": {
         "name": "The Bad Guy (Another Version)",
         "url": "https://open.spotify.com/album/6XFuGWx0rDHECJeXTqncrV"
       },
@@ -36919,6 +37135,24 @@
       "duration_ms": 218817,
       "name": "They Don't See Us",
       "url": "https://open.spotify.com/track/7cEN0BqzxPLohVdFddS7jo"
+    },
+    {
+      "album": {
+        "name": "Things Change",
+        "url": "https://open.spotify.com/album/5JNsECdOe4ecetnjYxyjLW"
+      },
+      "artists": [
+        {
+          "name": "Venus",
+          "url": "https://open.spotify.com/artist/5yOuL4JYYs6pbud112U3Lk"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236734,
+      "name": "Things Change",
+      "url": "https://open.spotify.com/track/5UAzCfWYHNROeoFQxPcz2m"
     },
     {
       "album": {

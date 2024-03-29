@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover: Derek & The Cats, Frizzell D'souza
 
-286 songs - 16 hr 34 min
+287 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Ceilings](https://open.spotify.com/track/43AB5ow80MeDUdBL3W3sRT) | [Bashaar](https://open.spotify.com/artist/2f2lXwMWMwJn2mUy988Agu), [Emme](https://open.spotify.com/artist/4XENqirLgZx71YVNWYuEUG) | [Ceilings](https://open.spotify.com/album/3s9AOhgVdXfteJ8z9HU9bp) | 4:24 | 2023-12-15 |  |
 | [Chills](https://open.spotify.com/track/0u5RyQsiu3ImN5uUAatTuz) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Chills](https://open.spotify.com/album/1oTz9EXkj804GhKZNhmzhk) | 3:08 | 2022-10-17 | 2023-01-18 |
 | [Christmas Without You](https://open.spotify.com/track/688W2i53mwx90PvfsCxW29) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Christmas Without You](https://open.spotify.com/album/5ufq3FV3Uxrl800LPG3ba8) | 3:36 | 2022-12-21 | 2023-01-11 |
+| [Close To You](https://open.spotify.com/track/5jOWVLjOa9vWUaTU8aVJuN) | [Shivangi Bhayana](https://open.spotify.com/artist/4ALbmf4uIjKAfNdTi1kdNh) | [Close To You](https://open.spotify.com/album/6uW1DKamGdsrCpQz3MC238) | 2:55 | 2024-03-28 |  |
 | [Co2](https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:43 | 2023-10-18 |  |
 | [Cold Cold Night](https://open.spotify.com/track/4pR2qfbLapOQ5fNeVWfGnH) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Cold Cold Night](https://open.spotify.com/album/76YdfYn53GNmFJRcyO036X) | 3:21 | 2022-09-26 | 2023-08-26 |
 | [Cold Cold Night](https://open.spotify.com/track/6EQG98YQXZwX9nJSABjvDw) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Cold Cold Night](https://open.spotify.com/album/2y8RTJ5EawVOSl7h5KxKmy) | 3:21 | 2023-11-24 |  |
@@ -194,7 +195,7 @@
 | [On My Own](https://open.spotify.com/track/12jHntVUvHSFiXiLW1eaVy) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [On My Own](https://open.spotify.com/album/3IpkOKy7xlKRyJ8TNZGOz0) | 2:36 | 2022-03-25 | 2023-08-26 |
 | [On My Own](https://open.spotify.com/track/6Do6DWWS4l8HzgjP4bqasJ) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [On My Own](https://open.spotify.com/album/4KBYKAF0EO5tGfoARYB3BU) | 2:36 | 2023-12-15 | 2024-02-21 |
 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 | 2023-05-19 |  |
-| [One Day I Might Have A Say](https://open.spotify.com/track/1HlT3pKWWPPWriV2E44oEB) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [One Day I Might Have A Say](https://open.spotify.com/album/1cRFDmJbaxC3nxWmqU84TI) | 3:40 | 2023-05-19 |  |
+| [One Day I Might Have A Say](https://open.spotify.com/track/1HlT3pKWWPPWriV2E44oEB) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [One Day I Might Have A Say](https://open.spotify.com/album/1cRFDmJbaxC3nxWmqU84TI) | 3:40 | 2023-05-19 | 2024-03-29 |
 | [One Night](https://open.spotify.com/track/2DGCtqlQ5jL69b6Dlxzhgt) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [One Night](https://open.spotify.com/album/2zsAKrSY6xul6yx0nL09k9) | 3:04 | 2023-06-23 | 2023-07-11 |
 | [Only in the West](https://open.spotify.com/track/3OGMxwVIhhekvyncyXybe6) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Sebastian](https://open.spotify.com/album/49Gejn6Yza0F7v0vsVeKA7) | 3:16 | 2023-05-24 | 2023-06-27 |
 | [Ordinary Pleasure](https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 3:03 | 2023-05-24 |  |

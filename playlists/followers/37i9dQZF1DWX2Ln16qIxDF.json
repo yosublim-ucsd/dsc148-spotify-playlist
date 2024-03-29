@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 1056314,
+  "2024-03-29": 1056757,
   "date_first_scraped": "2023-05-16",
   "description": "Shakira est\u00e1 en el Top \ud83d\udd25\n",
   "name": "El Top 2024",
@@ -3802,6 +3802,32 @@
     },
     {
       "album": {
+        "name": "LA QUE PUEDE, PUEDE",
+        "url": "https://open.spotify.com/album/4DAzoHpj0GPwj05SWNGWgY"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154890,
+      "name": "LA QUE PUEDE, PUEDE",
+      "url": "https://open.spotify.com/track/3vqd0xW1QefjkRPuKSPtib"
+    },
+    {
+      "album": {
         "name": "La Serenata",
         "url": "https://open.spotify.com/album/7pFJqxrRMrCsYfZZR2yrio"
       },
@@ -4459,7 +4485,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 272727,
       "name": "M.A - Remix",
       "url": "https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ"

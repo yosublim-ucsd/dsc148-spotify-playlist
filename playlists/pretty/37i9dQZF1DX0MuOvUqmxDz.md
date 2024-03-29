@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,489 likes - 132 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,453 likes - 132 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 131 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/5BgC5vVuhfWHHawbcXRr7h) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow](https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv) | 2:18 |
 | 132 | [I'll Be Your Santa Tonight](https://open.spotify.com/track/3r0jsVshXfshN5B3NszJAc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [I'll Be Your Santa Tonight](https://open.spotify.com/album/5slwTSm2C7fPlwU2d9wqPS) | 4:24 |
 
-Snapshot ID: `MCw2Y2E0NjA3MTQ3NTI5ODk0YTNjMGJmOWE2YWM2ZGUzYzA1NWIyMTMw`
+Snapshot ID: `MCw0YzUyNDA5MmVlYjdlMDMzZTExOWY4N2FkNmMyNzI5MDkzYmEwNzg1`

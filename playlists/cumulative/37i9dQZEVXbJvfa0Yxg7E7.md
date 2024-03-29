@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,582 songs - 3 day 10 hr 16 min
+1,583 songs - 3 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1082,7 +1082,7 @@
 | [Only Love Can Hurt Like This](https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:52 | 2021-12-31 | 2022-01-01 |
 | [Ooh La La](https://open.spotify.com/track/2Uhe3lCZUHxJqxjoInQTzK) | [Juliera](https://open.spotify.com/artist/00it1bBwOIDqd6QFINlBav) | [Ooh La La](https://open.spotify.com/album/0oZ0lAft8GGuLtinZGSRGz) | 3:27 | 2023-12-04 | 2023-12-11 |
 | [oops!](https://open.spotify.com/track/6pNLHG7faQ7R3xGr51fbjc) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [oops!](https://open.spotify.com/album/3b9wDg0azxJqoNriVyG3mX) | 2:35 | 2024-03-16 |  |
-| [Operahuset](https://open.spotify.com/track/6A6RNVsEKQQJFaK4zKzevw) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [Operahuset](https://open.spotify.com/album/3JSCwYW1X9hiowxDOIUa8V) | 3:15 | 2024-03-23 |  |
+| [Operahuset](https://open.spotify.com/track/6A6RNVsEKQQJFaK4zKzevw) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [Operahuset](https://open.spotify.com/album/3JSCwYW1X9hiowxDOIUa8V) | 3:15 | 2024-03-23 | 2024-03-29 |
 | [OPP I BAKKEN](https://open.spotify.com/track/0imwUR7oy4kgX2IjMoLPDy) | [Henrik von Grogg](https://open.spotify.com/artist/2z33akYL15RgrP5P51vhvx), [Henrik Viken](https://open.spotify.com/artist/1X6PpxnCUPaBW9dFnckNO3) | [OPP I BAKKEN](https://open.spotify.com/album/5TnjCPKIXVQ4HvC4rTmZd4) | 2:31 | 2023-01-28 | 2023-03-08 |
 | [Oppmerksomhet](https://open.spotify.com/track/6b02mOA9cRfwiX69pFuXUo) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [William Gamborg](https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P) | [Oppmerksomhet](https://open.spotify.com/album/5KsGoGVrh2iLnmKUTTl133) | 2:57 | 2022-11-12 | 2023-03-05 |
 | [Oslo](https://open.spotify.com/track/4EOLup0n2Cr584xDwMzL6t) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Oslo](https://open.spotify.com/album/2EzJfJUVlocpqvLo37MCy7) | 2:37 | 2023-09-02 | 2023-09-04 |
@@ -1443,6 +1443,7 @@
 | [Tomme Tønner](https://open.spotify.com/track/3BAmsMIDJRaxbww5gUn9I4) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 5:48 | 2023-04-14 | 2023-04-30 |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-02-10 | 2024-02-12 |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-21 | 2023-10-29 |
+| [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-28 |  |
 | [TOP GUN](https://open.spotify.com/track/4gobB2WY2C6HNFITwj5IPE) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [TOP GUN](https://open.spotify.com/album/3RgXPQL8B8CoOnXTXSQk8c) | 2:20 | 2023-02-25 | 2023-02-28 |
 | [TOPIA TWINS \(feat\. Rob49 & 21 Savage\)](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 | 2023-07-29 | 2023-08-06 |
 | [Tout l'univers](https://open.spotify.com/track/3MvY2XbGYFi6p2dgmdcOYG) | [Gjon's Tears](https://open.spotify.com/artist/0RIwEP1SaALlxn9jOVqHfA) | [Tout l'univers](https://open.spotify.com/album/1UnqlxXSM5dlxZi6vLIIEH) | 3:03 | 2021-05-25 | 2021-05-30 |

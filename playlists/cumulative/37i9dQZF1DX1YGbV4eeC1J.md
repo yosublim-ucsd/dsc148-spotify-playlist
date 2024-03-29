@@ -2,7 +2,7 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> Exceptionally vivid Swahili love stories for you and yours\.  Cover: Bridget Blue
+> Exceptionally vivid Swahili love stories for you and yours\.  Cover: Phina
 
 182 songs - 10 hr 27 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Love Live! Nijigasaki High School Idol Club\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\n\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-  "num_followers": 15030,
+  "num_followers": 15053,
   "original_name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDEzYjViNmQ0Y2IxOGE2ODdhNjljYWQ1MTQwYmNjNDlmMWMzN2I4",
+  "snapshot_id": "MCwyNjdjMmVjNGJlMzhlOGFkNjk2ZjQyNmY3YzIxYTk2MzJhZTIxODY1",
   "tracks": [
     {
       "added_at": "2024-01-23 18:34:42",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-01-23 18:34:42",
       "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
-      },
-      "artists": [
-        {
-          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
-          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "\u3081\u3063\u3061\u3083Going!!",
-      "url": "https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN"
-    },
-    {
-      "added_at": "2024-01-23 18:34:42",
-      "album": {
         "name": "Fly with You!!",
         "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 242933,
       "name": "Koakuma LOVE",
       "url": "https://open.spotify.com/track/1dkFzcQjaw7YkPT83raO3j"
+    },
+    {
+      "added_at": "2024-01-23 18:34:42",
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
+          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
+        }
+      ],
+      "duration_ms": 288973,
+      "name": "\u3081\u3063\u3061\u3083Going!!",
+      "url": "https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN"
     },
     {
       "added_at": "2024-01-23 18:34:42",

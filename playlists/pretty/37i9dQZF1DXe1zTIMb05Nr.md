@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1zTIMb05Nr.md) - [plain]
 
 > Live performances by Metallica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,876 likes - 50 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,934 likes - 50 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1zTIMb05Nr.md) - [plain]
 | 49 | [When A Blind Man Cries \(Live at The Masonic, San Francisco, CA \- November 3rd, 2018\)](https://open.spotify.com/track/2NekeB2yqC2ZibAYNdncbz) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Helping Hands...Live & Acoustic at The Masonic](https://open.spotify.com/album/3KESkLVC8ivaWmZAoDinoc) | 4:34 |
 | 50 | [Confusion \(Live\)](https://open.spotify.com/track/40EPUsKIP6KMXy0tkkIhdL) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB), [San Francisco Symphony](https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ) | [S&M2](https://open.spotify.com/album/4vxkHVyS6D66Rwt0mpz0cS) | 6:41 |
 
-Snapshot ID: `MCw2OGZjMWNmYjUzN2IzYjVmMjNlNjllYWE4ODI4ZjUxM2MwMzA2Y2U1`
+Snapshot ID: `MCxhYWNiYzg1ZGRiYjY1MjYyNDVjZDY4NjJhNjhjOGQ0YTQ3ZWZjMTQy`

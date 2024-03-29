@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX?si=XjcBoKdkTjSukPx4BtylVg\"> Trio Mio</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=CEXFG5fgQZK_MEQ_CmLGvQ\"> Khaligraph Jones </a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -253,6 +253,24 @@
     },
     {
       "album": {
+        "name": "Balaclava Lover",
+        "url": "https://open.spotify.com/album/7e5RSVHDI5xnEwhYy0I4RR"
+      },
+      "artists": [
+        {
+          "name": "Favour Mutuma",
+          "url": "https://open.spotify.com/artist/7I9PKJFM19h0G1CY2FA3mf"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Balaclava Lover",
+      "url": "https://open.spotify.com/track/3QuHQFfzxrtMMRrmL2BXxH"
+    },
+    {
+      "album": {
         "name": "NDANI YA COCKPIT 3",
         "url": "https://open.spotify.com/album/3NvCDHqPpNi1y3lVhmAAsy"
       },
@@ -289,6 +307,24 @@
     },
     {
       "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/7y2QTGCGqRZxGDXDTJPOlA"
+      },
+      "artists": [
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276532,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/3F0T9sEt8GU6Y3e4X6ohy2"
+    },
+    {
+      "album": {
         "name": "basic (bass boosted)",
         "url": "https://open.spotify.com/album/1WwGCU051HFxDbdnXTbzsU"
       },
@@ -300,7 +336,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 108009,
       "name": "basic - bass boosted",
       "url": "https://open.spotify.com/track/49Y9vFlnZvL9kC8tHprxMp"
@@ -1892,7 +1928,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 113449,
       "name": "Lost Cause Rap Freestyle",
       "url": "https://open.spotify.com/track/0wWuNPHklbfVZb5ddsrhl0"

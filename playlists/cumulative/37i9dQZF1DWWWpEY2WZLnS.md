@@ -2,7 +2,7 @@
 
 ### [Dembow Pegao](https://open.spotify.com/playlist/37i9dQZF1DWWWpEY2WZLnS)
 
-> Los éxitos del Dembow\. Portada: Jhayseven
+> Los éxitos del Dembow\. Portada: Jey One
 
 343 songs - 17 hr 1 min
 

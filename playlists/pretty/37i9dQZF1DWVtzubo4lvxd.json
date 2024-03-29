@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTg5YWMyN2RhYzVhMDJhMTQzNTJjNzQzYzU4MjdhMGNhZTYwMzUw",
+  "snapshot_id": "MCxhMjJlYzQyMWI0ODJhOGM5MDRhMzgyMzU4OGJmOWUxYTc1YjcwMjk4",
   "tracks": [
     {
       "added_at": "2024-03-12 14:33:08",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/61CQz8YbOzoQMYnHoRIynv"
+      },
+      "artists": [
+        {
+          "name": "kuars0",
+          "url": "https://open.spotify.com/artist/0GHkPZdgdbVENOjwwKDVcR"
+        }
+      ],
+      "duration_ms": 150173,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/0SxuTT5deUYpfLsZzoPEU8"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
         "name": "Autumn Briefs",
         "url": "https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 145242,
       "name": "Autumn Briefs",
       "url": "https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2N5gf9IqhA8Wq7LpgsbShl"
-      },
-      "artists": [
-        {
-          "name": "Josa",
-          "url": "https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp"
-        }
-      ],
-      "duration_ms": 141803,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/798xA6Nh36kCeElGeuTHtq"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Lovesick",
-        "url": "https://open.spotify.com/album/61CQz8YbOzoQMYnHoRIynv"
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2N5gf9IqhA8Wq7LpgsbShl"
       },
       "artists": [
         {
-          "name": "kuars0",
-          "url": "https://open.spotify.com/artist/0GHkPZdgdbVENOjwwKDVcR"
+          "name": "Josa",
+          "url": "https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp"
         }
       ],
-      "duration_ms": 150173,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/0SxuTT5deUYpfLsZzoPEU8"
+      "duration_ms": 141803,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/798xA6Nh36kCeElGeuTHtq"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 113346,
-      "name": "Puff Lah",
-      "url": "https://open.spotify.com/track/21mimz3pv3JD4r8wEJJfNg"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Buttersweet",
         "url": "https://open.spotify.com/album/6GuzaGSiWBXbyRcOMAgsBJ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 177874,
       "name": "Buttersweet",
       "url": "https://open.spotify.com/track/1d5pAGQRJ9ROCOuxK52uED"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 113346,
+      "name": "Puff Lah",
+      "url": "https://open.spotify.com/track/21mimz3pv3JD4r8wEJJfNg"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
+        "name": "Time Brings Change EP",
+        "url": "https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0"
+      },
+      "artists": [
+        {
+          "name": "C4C",
+          "url": "https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr"
+        }
+      ],
+      "duration_ms": 110000,
+      "name": "It's Time",
+      "url": "https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
         "name": "Bodega",
         "url": "https://open.spotify.com/album/45vk5hApZ4h6nATFQvfoSI"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 105000,
       "name": "Bodega",
       "url": "https://open.spotify.com/track/0QROEXzx4Rkk5vupV1cCg0"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "Time Brings Change EP",
-        "url": "https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0"
-      },
-      "artists": [
-        {
-          "name": "C4C",
-          "url": "https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr"
-        }
-      ],
-      "duration_ms": 110000,
-      "name": "It's Time",
-      "url": "https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "End Of Day Bop",
-        "url": "https://open.spotify.com/album/4qP5YOgZ9UMfjhoow8a9s2"
-      },
-      "artists": [
-        {
-          "name": "Noah Park",
-          "url": "https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "End Of Day Bop",
-      "url": "https://open.spotify.com/track/2vVKIEmcqzNt3ZqBPP5EGV"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Soul Charger",
         "url": "https://open.spotify.com/album/2kRpupJ8bvHYIwqOD4oPHv"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 140029,
       "name": "Soul Charger",
       "url": "https://open.spotify.com/track/1zhyKitlqVIJcqpcFUjqWJ"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "End Of Day Bop",
+        "url": "https://open.spotify.com/album/4qP5YOgZ9UMfjhoow8a9s2"
+      },
+      "artists": [
+        {
+          "name": "Noah Park",
+          "url": "https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "End Of Day Bop",
+      "url": "https://open.spotify.com/track/2vVKIEmcqzNt3ZqBPP5EGV"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Spiritual State",
-        "url": "https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        }
-      ],
-      "duration_ms": 315453,
-      "name": "Dawn on the Side",
-      "url": "https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/5q9NOWJIvib6TFdgHgkt1W"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 161041,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/3B1CEpzdKIny47WADN2DGc"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Spiritual State",
+        "url": "https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        }
+      ],
+      "duration_ms": 315453,
+      "name": "Dawn on the Side",
+      "url": "https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/6hdbd6cq7PRKTJ1roJfe3j"
+      },
+      "artists": [
+        {
+          "name": "Lueco",
+          "url": "https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8"
+        }
+      ],
+      "duration_ms": 122769,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/4yp5yBCcbZDJcU3omA2G1w"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
         "name": "some guitar thoughts",
         "url": "https://open.spotify.com/album/7tBcuAvUiPEHtoCDfzuM9a"
       },
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/6hdbd6cq7PRKTJ1roJfe3j"
+        "name": "Colorwave Seasons",
+        "url": "https://open.spotify.com/album/1pGm9P5nsLlDBe4E6RvDtD"
       },
       "artists": [
         {
-          "name": "Lueco",
-          "url": "https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8"
+          "name": "Kid Tar\u00f4",
+          "url": "https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT"
         }
       ],
-      "duration_ms": 122769,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/4yp5yBCcbZDJcU3omA2G1w"
+      "duration_ms": 117413,
+      "name": "Clockers",
+      "url": "https://open.spotify.com/track/0Sd3s9p1TQUYuitVOpXlh4"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1083,22 +1099,6 @@
       "duration_ms": 135000,
       "name": "Da Vibe",
       "url": "https://open.spotify.com/track/2DAeyy5xuWaFGY41ci8gxW"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "Colorwave Seasons",
-        "url": "https://open.spotify.com/album/1pGm9P5nsLlDBe4E6RvDtD"
-      },
-      "artists": [
-        {
-          "name": "Kid Tar\u00f4",
-          "url": "https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT"
-        }
-      ],
-      "duration_ms": 117413,
-      "name": "Clockers",
-      "url": "https://open.spotify.com/track/0Sd3s9p1TQUYuitVOpXlh4"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "honshu island",
-        "url": "https://open.spotify.com/album/5R1Cj9GJ2Ur6AIfzjcdWIm"
-      },
-      "artists": [
-        {
-          "name": "mt. fujitive",
-          "url": "https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d"
-        }
-      ],
-      "duration_ms": 71393,
-      "name": "tequila",
-      "url": "https://open.spotify.com/track/0diOcYSPXO1jhT1XxGKfS3"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Move to safety",
         "url": "https://open.spotify.com/album/4lFydtNuS4YFMEvQfPaoP2"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 135000,
       "name": "Move to safety",
       "url": "https://open.spotify.com/track/5QQHsWjHiEtkBQU2mQWiC2"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "honshu island",
+        "url": "https://open.spotify.com/album/5R1Cj9GJ2Ur6AIfzjcdWIm"
+      },
+      "artists": [
+        {
+          "name": "mt. fujitive",
+          "url": "https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d"
+        }
+      ],
+      "duration_ms": 71393,
+      "name": "tequila",
+      "url": "https://open.spotify.com/track/0diOcYSPXO1jhT1XxGKfS3"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Invisible Walls",
-        "url": "https://open.spotify.com/album/53Mh0RRvvjFYwf4kzEAzdW"
+        "name": "long ago.",
+        "url": "https://open.spotify.com/album/63BlmEk69qFmjJbO9n4Jb6"
       },
       "artists": [
         {
-          "name": "LazyBlaze",
-          "url": "https://open.spotify.com/artist/0UU3MtrctLPXvQy6Puj7v1"
+          "name": "halberd",
+          "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB"
         }
       ],
-      "duration_ms": 104470,
-      "name": "Invisible Walls",
-      "url": "https://open.spotify.com/track/7eNKJesKFWRi4voh0xJNEd"
+      "duration_ms": 126087,
+      "name": "long ago.",
+      "url": "https://open.spotify.com/track/7BdazOnsFvAkQGyrp2djJM"
     }
   ],
   "unique_name": "Sunset Chill",

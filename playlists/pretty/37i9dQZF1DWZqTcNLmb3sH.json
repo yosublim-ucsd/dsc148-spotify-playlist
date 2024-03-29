@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57407,
+  "num_followers": 57416,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWY5ZmIyMTk3NjMwMWU5OGZjYjc4NzY5ODY2YWFiZTFhOWZhYjJk",
+  "snapshot_id": "MCwxYmE2MzQ1Njg5NzZiYzRhYWVlNzMzNDUxYjY0ODQxNjllMDYwODBh",
   "tracks": [
     {
       "added_at": "2024-01-30 12:16:19",
@@ -95,17 +95,17 @@
     {
       "added_at": "2024-03-27 08:31:33",
       "album": {
-        "name": "Manada Kitaki (From \"Lineman\") (Kannada)",
-        "url": "https://open.spotify.com/album/5kfzOQ9chuTppeplKmXRUW"
+        "name": "Manada Kitaki (From \" Lineman\")",
+        "url": "https://open.spotify.com/album/5RIzBVw3VBAsDzpagGlien"
       },
       "artists": [
         {
-          "name": "Kadri Manikanth",
-          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
-        },
-        {
           "name": "Haricharan",
           "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Kadri Manikanth",
+          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
         },
         {
           "name": "V Raghu Shastry",
@@ -113,28 +113,8 @@
         }
       ],
       "duration_ms": 198968,
-      "name": "Manada Kitaki (From \"Lineman\") (Kannada)",
-      "url": "https://open.spotify.com/track/5lRCjJMhS9C1GwJNNOGsBe"
-    },
-    {
-      "added_at": "2024-03-27 14:11:42",
-      "album": {
-        "name": "Hot Spot",
-        "url": "https://open.spotify.com/album/13g71MTaVV6LAOP3TMBiOf"
-      },
-      "artists": [
-        {
-          "name": "VAAN",
-          "url": "https://open.spotify.com/artist/3HOz7dG29IuEzLJIRR6vVj"
-        },
-        {
-          "name": "Kaber Vasuki",
-          "url": "https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb"
-        }
-      ],
-      "duration_ms": 147157,
-      "name": "Aiyayayo",
-      "url": "https://open.spotify.com/track/7E9ZvVVnADvXk3dte3dLuY"
+      "name": "Manada Kitaki (From \" Lineman\")",
+      "url": "https://open.spotify.com/track/2ZzAak06P7TdRykmiDNw53"
     },
     {
       "added_at": "2024-03-04 11:32:38",
@@ -175,6 +155,26 @@
       "duration_ms": 261523,
       "name": "Holi Hunnime Habbakka (From \"Desai\")",
       "url": "https://open.spotify.com/track/4xQwjWwyzEi265mEXBoo4L"
+    },
+    {
+      "added_at": "2024-03-28 06:05:18",
+      "album": {
+        "name": "Lineman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5nJvtkOE5xy4LNW82AJaVl"
+      },
+      "artists": [
+        {
+          "name": "Supriyaa Ram",
+          "url": "https://open.spotify.com/artist/6ZRC0Bc7Dcx49chE1ppbkp"
+        },
+        {
+          "name": "V Raghu Shastry",
+          "url": "https://open.spotify.com/artist/4HIXKu2NIlPwjhDVj9l4LA"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Suvvaali",
+      "url": "https://open.spotify.com/track/5L23yulC7t9BL7oJ4rHPXP"
     },
     {
       "added_at": "2024-03-27 08:29:33",

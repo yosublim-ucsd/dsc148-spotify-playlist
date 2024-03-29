@@ -4,7 +4,7 @@
 
 > 
 
-656 songs - 1 day 7 hr 2 min
+658 songs - 1 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Besos de Fuego](https://open.spotify.com/track/4qBobmlG6sV9C1hpZ7x4k0) | [Trio Los Jaibos](https://open.spotify.com/artist/5SVbx6F5ArKll70amV3lv7) | [Trio Los Jaibos](https://open.spotify.com/album/04djFIjUp5N8BZGihJAaoM) | 2:37 | 2024-02-14 |  |
 | [Bet](https://open.spotify.com/track/504JCx3dJov6Fi5083r4Hb) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [BPL](https://open.spotify.com/album/5gHs4xLkr2g66PRNsvSh83) | 2:22 | 2022-07-28 | 2023-04-12 |
 | [bfo2](https://open.spotify.com/track/1A60dNMbkartuzixGZt2Rc) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [What We Have](https://open.spotify.com/album/6mNYZNJ4a0tzSS3nPVnkO2) | 1:59 | 2022-07-22 | 2023-12-14 |
+| [Big Stonëz](https://open.spotify.com/track/6vmRtsvnmfABDSE7eqeNgW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2) | 2:47 | 2024-03-28 |  |
 | [Big Tipper \(feat\. Lil Keed\)](https://open.spotify.com/track/2lcJWXNJUjjL3ycoZrpU2g) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:43 | 2023-08-21 |  |
 | [bird allegiance](https://open.spotify.com/track/1fdoecpz1y8yo74NOlMVC7) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [bird allegiance](https://open.spotify.com/album/41KloqSqoao47CGew9Pucl) | 2:18 | 2022-05-08 | 2023-12-14 |
 | [Bitch Yeah](https://open.spotify.com/track/3Kzs3pxIOGsLXHBgcKltpn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 2:48 | 2023-01-06 | 2023-03-07 |
@@ -566,6 +567,7 @@
 | [Sydney Sweeney](https://open.spotify.com/track/4NE3atZAntDJAdReIar6bN) | [Ceru](https://open.spotify.com/artist/6asghv8lFCRDHUGMUPoRWe) | [Sydney Sweeney](https://open.spotify.com/album/6EJm1GLrf3LRFMotzaD1ji) | 2:17 | 2024-02-08 |  |
 | [Take Care](https://open.spotify.com/track/5sIRKku7AvqAjXhwarDo3X) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Remember Who Started The Wave](https://open.spotify.com/album/6nysREY0T9gDFJoQY1sAEr) | 2:44 | 2023-01-07 | 2023-04-12 |
 | [Take It To Trial](https://open.spotify.com/track/5oIc9JH730QeKxjtjkXv2y) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Rr](https://open.spotify.com/album/4WxOXS9ss9F4pTxXsEM3nH) | 2:04 | 2022-07-10 | 2023-12-14 |
+| [Talk 2 God](https://open.spotify.com/track/5dA0iENzuQGYKZpCKU4nnN) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2) | 2:49 | 2024-03-28 |  |
 | [Talkin Like](https://open.spotify.com/track/6atDGm94dfeC7qwmL3TFoq) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [Talkin Like](https://open.spotify.com/album/2TcwUosUrtDDQHi50Z1PCU) | 2:34 | 2022-12-01 | 2023-12-14 |
 | [Teach You To Be Lonely](https://open.spotify.com/track/1u3SbjzS20gjIePyLGZmYR) | [Sybyr](https://open.spotify.com/artist/4WVDlzQCHAIWzBP5iZwuOJ) | [Salty Sammy](https://open.spotify.com/album/0lmjWuU4ZrinYP5NW7ip61) | 4:39 | 2022-09-05 | 2023-04-24 |
 | [Teen X Babe](https://open.spotify.com/track/1HYOCC0xTD7ym5oOmP5AKz) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X : Relapsed](https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6) | 1:56 | 2022-03-07 | 2023-12-14 |

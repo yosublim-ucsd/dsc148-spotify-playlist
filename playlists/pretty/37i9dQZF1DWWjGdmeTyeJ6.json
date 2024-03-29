@@ -1,29 +1,13 @@
 {
   "description": "The best new music by independent artists and labels. Cover: SPRINTS. Artwork by Isu Kim.",
-  "num_followers": 1189396,
+  "num_followers": 1189559,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzU0MDUwMDgzZDA5ZDMzZDU5NjNkNjU1ZDQxNDRjZThhYTE2NTIw",
+  "snapshot_id": "MCw2MzQxMmEwMzQ4MWQxNTQ1ODBkYmI1MGVlYWJlNDRkMmFmZTg2Mjlh",
   "tracks": [
-    {
-      "added_at": "2024-03-06 15:59:43",
-      "album": {
-        "name": "Letter to Self",
-        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 207409,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
-    },
     {
       "added_at": "2024-03-27 15:09:20",
       "album": {
@@ -57,6 +41,22 @@
       "url": "https://open.spotify.com/track/1iHTOugH78NYT5RUNGG0wn"
     },
     {
+      "added_at": "2024-03-27 15:09:20",
+      "album": {
+        "name": "Lost In A New Era",
+        "url": "https://open.spotify.com/album/5Dk9MMNDnVI0KuCGyJV5xM"
+      },
+      "artists": [
+        {
+          "name": "Astels",
+          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "Waste No Time",
+      "url": "https://open.spotify.com/track/1BDvHdiBdRPw2QH8v0UuU5"
+    },
+    {
       "added_at": "2024-03-13 14:30:25",
       "album": {
         "name": "Bloom",
@@ -73,20 +73,20 @@
       "url": "https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4"
     },
     {
-      "added_at": "2024-03-27 15:09:20",
+      "added_at": "2024-03-06 15:59:43",
       "album": {
-        "name": "Lost In A New Era",
-        "url": "https://open.spotify.com/album/5Dk9MMNDnVI0KuCGyJV5xM"
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
       },
       "artists": [
         {
-          "name": "Astels",
-          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
         }
       ],
-      "duration_ms": 237093,
-      "name": "Waste No Time",
-      "url": "https://open.spotify.com/track/1BDvHdiBdRPw2QH8v0UuU5"
+      "duration_ms": 207409,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
     },
     {
       "added_at": "2024-03-27 15:09:20",
@@ -123,6 +123,42 @@
     {
       "added_at": "2024-03-27 15:09:20",
       "album": {
+        "name": "Need To Talk (Kordz Remix)",
+        "url": "https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go"
+      },
+      "artists": [
+        {
+          "name": "Creams",
+          "url": "https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc"
+        },
+        {
+          "name": "kordz",
+          "url": "https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN"
+        }
+      ],
+      "duration_ms": 218431,
+      "name": "Need To Talk - Kordz Remix",
+      "url": "https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz"
+    },
+    {
+      "added_at": "2024-03-27 15:09:20",
+      "album": {
+        "name": "Nos Despedimos / Window Shopping",
+        "url": "https://open.spotify.com/album/0JAhLeKnyJ5SeRGU3F261M"
+      },
+      "artists": [
+        {
+          "name": "BEL",
+          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
+        }
+      ],
+      "duration_ms": 139805,
+      "name": "Nos Despedimos",
+      "url": "https://open.spotify.com/track/5YaRt2MFIfmp6jdabC4JTx"
+    },
+    {
+      "added_at": "2024-03-27 15:09:20",
+      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/0ZHJyxVXr3lbakBGtxcS8i"
       },
@@ -151,42 +187,6 @@
       "duration_ms": 233610,
       "name": "Let's Talk",
       "url": "https://open.spotify.com/track/0yU9AgZHHg4aolSwz3eQYy"
-    },
-    {
-      "added_at": "2024-03-27 15:09:20",
-      "album": {
-        "name": "Nos Despedimos / Window Shopping",
-        "url": "https://open.spotify.com/album/0JAhLeKnyJ5SeRGU3F261M"
-      },
-      "artists": [
-        {
-          "name": "BEL",
-          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "Nos Despedimos",
-      "url": "https://open.spotify.com/track/5YaRt2MFIfmp6jdabC4JTx"
-    },
-    {
-      "added_at": "2024-03-27 15:09:20",
-      "album": {
-        "name": "Need To Talk (Kordz Remix)",
-        "url": "https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go"
-      },
-      "artists": [
-        {
-          "name": "Creams",
-          "url": "https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc"
-        },
-        {
-          "name": "kordz",
-          "url": "https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN"
-        }
-      ],
-      "duration_ms": 218431,
-      "name": "Need To Talk - Kordz Remix",
-      "url": "https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz"
     },
     {
       "added_at": "2024-03-27 15:09:20",

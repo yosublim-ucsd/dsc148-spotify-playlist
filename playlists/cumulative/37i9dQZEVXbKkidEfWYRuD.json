@@ -8982,7 +8982,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 114955,
       "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
       "url": "https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C"
@@ -15190,7 +15190,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 150160,
       "name": "\u0410\u043d\u0433\u0435\u043b",
       "url": "https://open.spotify.com/track/01J7Q2QyqNX2gFEqfoSNju"
@@ -18693,6 +18693,28 @@
     },
     {
       "album": {
+        "name": "\u0417\u0410 \u0422\u0415\u0420\u0418\u041a\u041e\u041d\u0410\u041c\u0418",
+        "url": "https://open.spotify.com/album/6jyifzmU6bzMY15qfCRyUj"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u044e\u0441\u043b\u0456 UA",
+          "url": "https://open.spotify.com/artist/2QlTrbyPWbGWNmeDCp7QNR"
+        },
+        {
+          "name": "MISHA SCORPION",
+          "url": "https://open.spotify.com/artist/7qUUu0SIH6JhGNSM1QwJsE"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170250,
+      "name": "\u0417\u0410 \u0422\u0415\u0420\u0418\u041a\u041e\u041d\u0410\u041c\u0418",
+      "url": "https://open.spotify.com/track/4IXr5Feku5VAryvp1QFEpB"
+    },
+    {
+      "album": {
         "name": "\u0417\u0430 \u0446\u0432\u0435\u0442 \u0433\u043e\u043b\u0443\u0431\u044b\u0445 \u043e\u0447\u0435\u0439 (Remix)",
         "url": "https://open.spotify.com/album/5OY5iYHi0lqdFgvKmK7dbd"
       },
@@ -20312,7 +20334,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 169130,
       "name": "\u041b\u0410\u0411\u0418\u0420\u0418\u041d\u0422",
       "url": "https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2"
@@ -23338,7 +23360,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 172094,
       "name": "\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u044b - Acoustic",
       "url": "https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26"
@@ -26592,7 +26614,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 134488,
       "name": "\u0425\u0442\u043e \u0442\u0438",
       "url": "https://open.spotify.com/track/2DHoodRL3ttSQDFLx60QPl"

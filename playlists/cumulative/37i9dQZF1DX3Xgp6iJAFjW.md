@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-168 songs - 11 hr 27 min
+169 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Fin de Semana \- Version Navideña](https://open.spotify.com/track/4he2N9NCRkMdzCcFyADnp7) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Y Es Fácil!](https://open.spotify.com/album/0hTAsUTkGytIz0jozjge3A) | 4:39 | 2022-11-25 |  |
 | [Grito En Navidad](https://open.spotify.com/track/3jWOE0Ly1Weqfl1nxlLjhc) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Navideños](https://open.spotify.com/album/7lsz6aRXUQ37WOtDz3yVOh) | 5:48 | 2022-12-18 |  |
 | [Gózate La Navidad](https://open.spotify.com/track/2JP7cYDckFDmhu8wrLGtg9) | [Sin Fronteras](https://open.spotify.com/artist/4dAnxrHLMYZbfHKyyTr5nV), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Gózate La Navidad](https://open.spotify.com/album/20Oy7Ji4W1CCrekZx4NcG5) | 4:20 | 2023-11-17 | 2024-03-22 |
-| [Hay Mucha Alegria](https://open.spotify.com/track/3sWxMI7ptGU5eq5ptxqrh1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 6:02 | 2023-11-17 |  |
+| [Gózate La Navidad](https://open.spotify.com/track/42RVNjHSOKCzWzGJygIO7s) | [Sin Fronteras](https://open.spotify.com/artist/4dAnxrHLMYZbfHKyyTr5nV), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Gózate La Navidad](https://open.spotify.com/album/5DYT72bROztD8TEnneE5PC) | 4:20 | 2023-12-19 |  |
+| [Hay Mucha Alegria](https://open.spotify.com/track/3sWxMI7ptGU5eq5ptxqrh1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 6:02 | 2023-11-17 | 2024-03-29 |
 | [Jingle Bells](https://open.spotify.com/track/596IbfViVl4ZBgC9DeWLCu) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Alegría Alegría](https://open.spotify.com/album/5I0cycBD0AJlQkx5fcJHET) | 2:24 | 2022-11-25 | 2023-08-17 |
 | [La Banda](https://open.spotify.com/track/0nzgxLkf876dcJIJWLDkUD) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 3:03 | 2022-12-18 |  |
 | [La Clave](https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Clave](https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S) | 2:17 | 2022-12-13 |  |

@@ -4,7 +4,7 @@
 
 > get into the groove
 
-288 songs - 1 day 2 hr 43 min
+289 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Motown Swagger](https://open.spotify.com/track/4wT8rqDlZPLfIN34TSibdd) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Motown Swagger](https://open.spotify.com/album/07fDbONnuIiwwmc2MaaiyV) | 7:18 | 2023-09-14 |  |
 | [Moulin Rouge \- Original Mix](https://open.spotify.com/track/1INvHCixv1JsOQhXuiWKFT) | [Stazzia](https://open.spotify.com/artist/17TOgS3UEH2wza058lRCQy) | [Groovin' Attitude EP](https://open.spotify.com/album/5jviDuz9FZI7HuifpFlL9B) | 5:00 | 2022-09-15 | 2023-01-13 |
 | [Mr Umbawa](https://open.spotify.com/track/54zanEkA6SBFcl1xJVGrXz) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Mr Umbawa](https://open.spotify.com/album/21108Crlzd9PnNWi5XJjyJ) | 7:35 | 2022-09-15 | 2023-07-08 |
+| [My Belief](https://open.spotify.com/track/0YrnSUEqpXmm2pMQYKHGUg) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [My Belief](https://open.spotify.com/album/2eSX3o5fMuX39z8cBj9C8L) | 5:49 | 2024-03-28 |  |
 | [My Buddy](https://open.spotify.com/track/5v8eYFpW8QvAHvelT7GkPM) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [My Buddy](https://open.spotify.com/album/0OX4imBNw7NMoenB3csJtj) | 6:23 | 2023-11-02 |  |
 | [My Time With You](https://open.spotify.com/track/1MqiNllDK5JEVV3FrETMQl) | [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq), [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h) | [Lost Desert & Friends III](https://open.spotify.com/album/4I0G615tBSwurLamowdpHD) | 6:49 | 2023-07-07 | 2024-03-22 |
 | [Natural Child](https://open.spotify.com/track/6LammjSAxH6zEGfvaE8wHp) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85), [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Natural Child](https://open.spotify.com/album/4OkRBDmz2Gp9u7bmsVF5jB) | 6:32 | 2023-10-12 |  |

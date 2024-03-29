@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 ### [Main Stage](https://open.spotify.com/playlist/37i9dQZF1DX7ZUug1ANKRP)
 
-> The biggest Dance hits and the ones to come\. Cover: Gabry Ponte
+> The biggest Dance hits and the ones to come\. Cover: CYRIL
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,814,144 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,814,550 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Leave The World Behind \(L'Esperanza\)](https://open.spotify.com/track/0LfaCcUnwFsfeOctUbzUCO) | [AVA CROWN](https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Leave The World Behind \(L'Esperanza\)](https://open.spotify.com/album/13f2jmZJ5yDLFicA2nOPxE) | 2:37 |
 | 50 | [Monster \(with Alok\)](https://open.spotify.com/track/3qAqbbNRC9ce1fqb7EcZed) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Monster \(with Alok\)](https://open.spotify.com/album/58KYzcUrRpFM6ycYZLKBFX) | 2:55 |
 
-Snapshot ID: `MCxkZjlkYzM5ZTc5NjNiYTEwODlmOGM3ZGY0MGExMGQyOWEzMjVjYjkz`
+Snapshot ID: `MCxiMmQxZjU3MTA3NWRlNDYxZTM3NDBiNGZjYTk4ZGZiOGYzYmQ4ZWVi`

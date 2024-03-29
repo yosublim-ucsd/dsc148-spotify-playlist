@@ -1,12 +1,12 @@
 {
   "description": "Feel the spirit of Ramadan with Amdah and Anashid songs.",
-  "num_followers": 69337,
+  "num_followers": 69670,
   "original_name": "Ramadaniyat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGE4OTQ1Yzk0NmRjYjk4YWNiM2EyZTExOWEyNjg4ZTA5ODFhZGVh",
+  "snapshot_id": "MCxiOGZlNGRmMTBlNjk5Njc1MGZiM2E1Njg3NzAxYjAwZjM3NDc5NDhl",
   "tracks": [
     {
       "added_at": "2024-03-25 12:14:49",
@@ -1055,38 +1055,6 @@
     {
       "added_at": "2024-03-25 12:14:49",
       "album": {
-        "name": "Meshwar Aldonia",
-        "url": "https://open.spotify.com/album/7HkvbF3eCjE2plwbz7t3Iu"
-      },
-      "artists": [
-        {
-          "name": "Mustafa Al Rabeii",
-          "url": "https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j"
-        }
-      ],
-      "duration_ms": 200487,
-      "name": "Meshwar Aldonia",
-      "url": "https://open.spotify.com/track/3ktAIpByTbLeOXqfAXYGmS"
-    },
-    {
-      "added_at": "2024-03-25 12:14:49",
-      "album": {
-        "name": "Anechid Al Rouh",
-        "url": "https://open.spotify.com/album/2DTE74pjdIZvohdS72yRUA"
-      },
-      "artists": [
-        {
-          "name": "Saber Rebai",
-          "url": "https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD"
-        }
-      ],
-      "duration_ms": 91520,
-      "name": "Allah Akbar Kabiran",
-      "url": "https://open.spotify.com/track/3cs1zIbg2NhspqwRiOiBrZ"
-    },
-    {
-      "added_at": "2024-03-25 12:14:49",
-      "album": {
         "name": "Ramadan",
         "url": "https://open.spotify.com/album/4arEPsmYRq7TthYzMo8kbQ"
       },
@@ -1103,22 +1071,18 @@
     {
       "added_at": "2024-03-25 12:14:49",
       "album": {
-        "name": "404",
-        "url": "https://open.spotify.com/album/39n9v8LeVS9SlDvxzj4co9"
+        "name": "Anechid Al Rouh",
+        "url": "https://open.spotify.com/album/2DTE74pjdIZvohdS72yRUA"
       },
       "artists": [
         {
-          "name": "El Waili",
-          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
-        },
-        {
-          "name": "Nada Abbas",
-          "url": "https://open.spotify.com/artist/3RMocx21tkvwgIZdBbtLBm"
+          "name": "Saber Rebai",
+          "url": "https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD"
         }
       ],
-      "duration_ms": 248000,
-      "name": "404",
-      "url": "https://open.spotify.com/track/13WYTEFm1B1nn70GViblBc"
+      "duration_ms": 91520,
+      "name": "Allah Akbar Kabiran",
+      "url": "https://open.spotify.com/track/3cs1zIbg2NhspqwRiOiBrZ"
     },
     {
       "added_at": "2024-03-25 12:14:49",
@@ -1143,6 +1107,42 @@
     {
       "added_at": "2024-03-25 12:14:49",
       "album": {
+        "name": "Meshwar Aldonia",
+        "url": "https://open.spotify.com/album/7HkvbF3eCjE2plwbz7t3Iu"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Al Rabeii",
+          "url": "https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j"
+        }
+      ],
+      "duration_ms": 200487,
+      "name": "Meshwar Aldonia",
+      "url": "https://open.spotify.com/track/3ktAIpByTbLeOXqfAXYGmS"
+    },
+    {
+      "added_at": "2024-03-25 12:14:49",
+      "album": {
+        "name": "404",
+        "url": "https://open.spotify.com/album/39n9v8LeVS9SlDvxzj4co9"
+      },
+      "artists": [
+        {
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+        },
+        {
+          "name": "Nada Abbas",
+          "url": "https://open.spotify.com/artist/3RMocx21tkvwgIZdBbtLBm"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "404",
+      "url": "https://open.spotify.com/track/13WYTEFm1B1nn70GViblBc"
+    },
+    {
+      "added_at": "2024-03-25 12:14:49",
+      "album": {
         "name": "El Ganna Fi Beyoutna",
         "url": "https://open.spotify.com/album/0wOv5sjQ2MM0rkgpX4qKFx"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-03-25 12:14:49",
       "album": {
-        "name": "Mohamed",
-        "url": "https://open.spotify.com/album/0ZZPTgbUbWNwWswex1feHB"
-      },
-      "artists": [
-        {
-          "name": "Lotfi Bouchnak",
-          "url": "https://open.spotify.com/artist/4JQG5SrE0nqGr8dhiDkc1z"
-        }
-      ],
-      "duration_ms": 418691,
-      "name": "Mohamed",
-      "url": "https://open.spotify.com/track/0xUI2k7FElQ001qkwtjyvj"
-    },
-    {
-      "added_at": "2024-03-25 12:14:49",
-      "album": {
         "name": "Habib Allah",
         "url": "https://open.spotify.com/album/1MnEwqAyo0PznggPe3f8kN"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 169933,
       "name": "Habib Allah",
       "url": "https://open.spotify.com/track/1SnQTqKUaxJRIGzYknmRyu"
+    },
+    {
+      "added_at": "2024-03-25 12:14:49",
+      "album": {
+        "name": "Mohamed",
+        "url": "https://open.spotify.com/album/0ZZPTgbUbWNwWswex1feHB"
+      },
+      "artists": [
+        {
+          "name": "Lotfi Bouchnak",
+          "url": "https://open.spotify.com/artist/4JQG5SrE0nqGr8dhiDkc1z"
+        }
+      ],
+      "duration_ms": 418691,
+      "name": "Mohamed",
+      "url": "https://open.spotify.com/track/0xUI2k7FElQ001qkwtjyvj"
     },
     {
       "added_at": "2024-03-25 12:14:49",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2024-03-25 12:14:49",
       "album": {
+        "name": "\u0648\u0627\u0642\u0641 \u0639\u0644\u0649 \u0628\u0627\u0628\u0643",
+        "url": "https://open.spotify.com/album/3SndNOO87K57fEKUPJO8do"
+      },
+      "artists": [
+        {
+          "name": "Youssef El Barbary",
+          "url": "https://open.spotify.com/artist/2kIDZgEu3dLoedZIzyCRFV"
+        }
+      ],
+      "duration_ms": 90911,
+      "name": "\u0648\u0627\u0642\u0641 \u0639\u0644\u0649 \u0628\u0627\u0628\u0643",
+      "url": "https://open.spotify.com/track/3UcUPTW36BwtD3ZOsfoo8W"
+    },
+    {
+      "added_at": "2024-03-25 12:14:49",
+      "album": {
         "name": "Kol Kheir",
         "url": "https://open.spotify.com/album/5NWPEZJw8R3MGIGLzcCO3r"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 187768,
       "name": "Kol Kheir",
       "url": "https://open.spotify.com/track/4e1HOpsszPvVswtqKU6tgU"
-    },
-    {
-      "added_at": "2024-03-25 12:14:49",
-      "album": {
-        "name": "Badaelak Be Qalb",
-        "url": "https://open.spotify.com/album/60pm8WJb7nsQUMiiAULoaS"
-      },
-      "artists": [
-        {
-          "name": "Ehab Tawfik",
-          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
-        }
-      ],
-      "duration_ms": 158324,
-      "name": "Badaelak Be Qalb",
-      "url": "https://open.spotify.com/track/52tcatQxdgFtWOeoOBXOLv"
     }
   ],
   "unique_name": "Ramadaniyat",

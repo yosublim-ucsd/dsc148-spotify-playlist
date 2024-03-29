@@ -1573,6 +1573,28 @@
     },
     {
       "album": {
+        "name": "G\u00f3zate La Navidad",
+        "url": "https://open.spotify.com/album/5DYT72bROztD8TEnneE5PC"
+      },
+      "artists": [
+        {
+          "name": "Sin Fronteras",
+          "url": "https://open.spotify.com/artist/4dAnxrHLMYZbfHKyyTr5nV"
+        },
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260048,
+      "name": "G\u00f3zate La Navidad",
+      "url": "https://open.spotify.com/track/42RVNjHSOKCzWzGJygIO7s"
+    },
+    {
+      "album": {
         "name": "Navidad en Merengue (Versi\u00f3n Editada)",
         "url": "https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M"
       },
@@ -1584,7 +1606,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 362786,
       "name": "Hay Mucha Alegria",
       "url": "https://open.spotify.com/track/3sWxMI7ptGU5eq5ptxqrh1"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-1,387 songs - 2 day 23 hr 25 min
+1,388 songs - 2 day 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [51 Party](https://open.spotify.com/track/5xNX0rpaWbesfXUHUK9kO0) | [Smack](https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7) | [Chimera Pt\. 3: Snake](https://open.spotify.com/album/2gMs1AxH9RnzJ5UzgOtnQD) | 6:13 | 2021-12-17 | 2021-12-19 |
 | [666AM](https://open.spotify.com/track/5xwOBt4llPS5HnqxJO8C8s) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [NobodyListen](https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C), [Eddie Fresco](https://open.spotify.com/artist/1GkolPy12joo7yBnlZ3t1U) | [\*PATTERN\*](https://open.spotify.com/album/0HfuXHVf6If1iG7JucFN6d) | 3:24 | 2023-07-22 | 2023-07-24 |
 | [721](https://open.spotify.com/track/5UglUCrJfKXFJwQSuDse9G) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Jsem v pohodě, sem v prdeli.](https://open.spotify.com/album/2TZX9mElJ86xfdSEGtUsLr) | 1:46 | 2021-08-01 | 2021-08-19 |
-| [777](https://open.spotify.com/track/1clon5yJC3ugtOfa6cBvOq) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [777](https://open.spotify.com/album/4C15YgXFF2CLpo4wFoAAxR) | 2:07 | 2024-03-23 |  |
+| [777](https://open.spotify.com/track/1clon5yJC3ugtOfa6cBvOq) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [777](https://open.spotify.com/album/4C15YgXFF2CLpo4wFoAAxR) | 2:07 | 2024-03-23 | 2024-03-29 |
 | [7:30 RÁNO V BRATISLAVE](https://open.spotify.com/track/5BBnjiqknqdUPBNtfJgm5W) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Otis](https://open.spotify.com/artist/6tgoVY0A9jgdei4JA2cCrF), [Luca Brassi10x](https://open.spotify.com/artist/533p900oXrV93rJupPWvF2), [SAK10DENZ](https://open.spotify.com/artist/7qIxkjhPmu8j1c8THSt8xl) | [ODSÚDENÍ NA ÚSPECH](https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2) | 4:25 | 2021-12-16 | 2021-12-17 |
 | [A já vím proč](https://open.spotify.com/track/2kyNbPyiB2rgaXqfrB0qik) | [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko) | [Růst & Prosperita](https://open.spotify.com/album/3wle41UeFFTfvbVs0qWW5v) | 3:12 | 2023-06-29 | 2023-07-01 |
 | [A Milli](https://open.spotify.com/track/5Y7IaDV7czVuIuFcbq324N) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton), [Bobo Armani](https://open.spotify.com/artist/1qlcFQMEzCTkYb6TsvirQg) | [TIMBERLAKETRAPPED 2](https://open.spotify.com/album/19O2oO9bmWV7z3O6X5WV3j) | 2:22 | 2022-12-26 | 2023-01-06 |
@@ -36,7 +36,7 @@
 | [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 | 2022-07-20 | 2023-01-03 |
 | [Adagio for Hate](https://open.spotify.com/track/0KVgSVzPwEwCYXZNDP3D1C) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Návrat na planetu Zemi](https://open.spotify.com/album/4MVM6BJQ15yt9d0fUFwzYG) | 2:22 | 2021-11-14 | 2021-11-14 |
 | [Addict](https://open.spotify.com/track/7vJms0iRb7HchMpTwxNUGl) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Make Sudety Great Again](https://open.spotify.com/album/16CWhtg43duVWGTaXlMGKt) | 3:39 | 2022-10-01 | 2022-10-03 |
-| [Adikts](https://open.spotify.com/track/6o4cDECLikccxhiW4401fN) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Adikts](https://open.spotify.com/album/29pEqr9x4I74wLGUPDq68i) | 2:42 | 2024-01-06 | 2024-03-14 |
+| [Adikts](https://open.spotify.com/track/6o4cDECLikccxhiW4401fN) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Adikts](https://open.spotify.com/album/29pEqr9x4I74wLGUPDq68i) | 2:42 | 2024-01-06 |  |
 | [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2022-07-11 | 2022-10-01 |
 | [After Dark](https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0yeP5olfo8IIu6UBGfUWHo) | 4:17 | 2023-01-17 | 2023-01-25 |
 | [After Hours](https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 6:01 | 2023-08-08 | 2023-08-10 |
@@ -1040,7 +1040,7 @@
 | [Say Don't Go \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:39 | 2023-10-28 | 2023-10-30 |
 | [Say Yes To Heaven](https://open.spotify.com/track/03wOsqNRdFZAgwo708sjw2) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven \(sim0ne & Melo Nada Remix\)](https://open.spotify.com/album/7xIg7rC6R80DJqV0001u2J) | 3:29 | 2023-06-08 | 2023-06-11 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-20 | 2023-06-09 |
-| [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-03-13 |  |
+| [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-03-13 | 2024-03-29 |
 | [Scary Movie](https://open.spotify.com/track/3keeX67vvYJ3GKbNE4lFK9) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [FLEX SYMBOL](https://open.spotify.com/album/1QDlOEwDFrc3Db7Rkrwu2I) | 3:14 | 2023-12-26 | 2023-12-31 |
 | [Se změnili](https://open.spotify.com/track/06l7bpmSrEEl2o4gULzr1g) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Detektor III](https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz) | 3:04 | 2023-02-21 | 2023-03-09 |
 | [Se změnili](https://open.spotify.com/track/6YcoxaTBaSSzEDvQEuJFG6) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Se změnili](https://open.spotify.com/album/6cH2WiCT16enngx84badsG) | 3:06 | 2022-02-03 | 2022-05-12 |
@@ -1365,6 +1365,7 @@
 | [Zeit](https://open.spotify.com/track/2KsHzM4L7ThhNJB6MHXkPx) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 5:21 | 2022-04-30 | 2022-05-21 |
 | [Zejtra mám](https://open.spotify.com/track/4Mh3ntRWHOOaor9bBY53bS) | [Ready Kirken](https://open.spotify.com/artist/3XD0bB19JwqWCn0DEB0bxB) | [Vlny](https://open.spotify.com/album/7bOvYxVajMVpT9gJCcGztw) | 3:05 | 2022-08-13 | 2022-08-17 |
 | [Zendaya](https://open.spotify.com/track/6OVXMxjbFK5FHR6wpRzjXC) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh), [Shimmi](https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck) | [Make Sudety Great Again](https://open.spotify.com/album/16CWhtg43duVWGTaXlMGKt) | 3:52 | 2022-10-01 | 2022-10-15 |
+| [Zfetovanej Superman](https://open.spotify.com/track/7HO1xEjzg2b1bGZ4MfiuOh) | [Gragys Jungle](https://open.spotify.com/artist/0g4uzvVP0P4vo00CXAmV2r) | [Zfetovanej Superman](https://open.spotify.com/album/4fORL98XngTce19k4sCHBK) | 2:53 | 2024-03-28 |  |
 | [Zick Zack](https://open.spotify.com/track/2w7Ca8DNYXBCgA6Bht7o0N) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 4:04 | 2022-04-30 | 2022-05-22 |
 | [Zick Zack](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zick Zack](https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8) | 4:04 | 2022-04-09 | 2022-04-11 |
 | [Zijeme len raz](https://open.spotify.com/track/0STHJtR9k80lQprMIxAasD) | [Ego](https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl) | [Zijeme len raz mixtape](https://open.spotify.com/album/5fwpPRRt8esgrC1LykgIsP) | 3:25 | 2022-06-19 | 2022-07-19 |

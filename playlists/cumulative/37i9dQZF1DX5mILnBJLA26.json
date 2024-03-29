@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve?si=AwtOBb97SmmKDiPyACQzQA\">Da Muziqal Chef</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=aeYgxcXXRNCrxXOFBolzrQ\">Pabi Cooper</a>",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -3236,7 +3236,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 433397,
       "name": "Banike (feat. Philharmonic, LeeMcKrazy)",
       "url": "https://open.spotify.com/track/06QKSv9bjUYLEUdRpuaGeQ"
@@ -16978,7 +16978,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 450326,
       "name": "Maye Maye (feat. Azana, Stixx)",
       "url": "https://open.spotify.com/track/710qLZ4WOxBj7ZaVbVJtkh"
@@ -26193,6 +26193,48 @@
     },
     {
       "album": {
+        "name": "THATHA BAMBA",
+        "url": "https://open.spotify.com/album/5Hun9rN7KmPkLid1TnsDcs"
+      },
+      "artists": [
+        {
+          "name": "uLazi",
+          "url": "https://open.spotify.com/artist/4XfSBTIyfJdQLhxDrUDU7l"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Mpho Spizzy",
+          "url": "https://open.spotify.com/artist/6or3L6AbGx83tADuwcS3PF"
+        },
+        {
+          "name": "Nation-365",
+          "url": "https://open.spotify.com/artist/7EtyNQtFW6fsD34PVJzXj0"
+        },
+        {
+          "name": "El-Kay MusiQ",
+          "url": "https://open.spotify.com/artist/0ia80EfsByTdnSCwJMayb4"
+        },
+        {
+          "name": "Tee Taurus",
+          "url": "https://open.spotify.com/artist/2RwRpP3FzupYZLMrD8i2Ns"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391681,
+      "name": "THATHA BAMBA",
+      "url": "https://open.spotify.com/track/2AreaGSzIlyWeOncxJGHJM"
+    },
+    {
+      "album": {
         "name": "Thatheka",
         "url": "https://open.spotify.com/album/2y2MeAwM5RbgYVIAL1eZum"
       },
@@ -26726,6 +26768,36 @@
       "duration_ms": 305868,
       "name": "Thula Mabota",
       "url": "https://open.spotify.com/track/6oUHzIheQp8cLdKdeMYl9Z"
+    },
+    {
+      "album": {
+        "name": "Thula Mabota",
+        "url": "https://open.spotify.com/album/1uPeUTP88QNapiZQGDq9UY"
+      },
+      "artists": [
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "Pabi Cooper",
+          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
+        },
+        {
+          "name": "031CHOPPA",
+          "url": "https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks"
+        },
+        {
+          "name": "Shakes & Les",
+          "url": "https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269500,
+      "name": "Thula Mabota",
+      "url": "https://open.spotify.com/track/4xXHrIiIeW7dMh5FoYI5m1"
     },
     {
       "album": {
@@ -27942,6 +28014,36 @@
       "duration_ms": 204017,
       "name": "Ubusuku Bayizolo",
       "url": "https://open.spotify.com/track/7nHBwafnRUfqyJgg53xiVY"
+    },
+    {
+      "album": {
+        "name": "Ask & Receive EP",
+        "url": "https://open.spotify.com/album/3tr5ml4CiVt3T8j0BlsxgQ"
+      },
+      "artists": [
+        {
+          "name": "TNK MusiQ",
+          "url": "https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Eemoh",
+          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410792,
+      "name": "Ubuwazi (feat. Xduppy & Eemoh)",
+      "url": "https://open.spotify.com/track/7GsCckIbKZnmuy0Tw9pAgD"
     },
     {
       "album": {
@@ -29292,7 +29394,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 385753,
       "name": "uShaka (feat. DJ Maphorisa & Visca)",
       "url": "https://open.spotify.com/track/0V2KZRWQ0KIUrgScO3UHyC"

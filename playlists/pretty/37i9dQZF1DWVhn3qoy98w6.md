@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: kepa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,074 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,081 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 69 | [Echo De Menos](https://open.spotify.com/track/3om6YHXKYFWRAu66UfMrlU) | [Radio Nostalgia](https://open.spotify.com/artist/3LpKwYWtxi8j0lPjfi6ySB) | [Echo De Menos](https://open.spotify.com/album/0E3dJBWJAiU2yrx53rz4HQ) | 4:06 |
 | 70 | [ENDEMONIADO](https://open.spotify.com/track/3eIAEdAWhwR2oDqAN5CBYQ) | [Pobres Diablos](https://open.spotify.com/artist/1ZGLd00sbAoyUk3OP5pvGt) | [ENDEMONIADO](https://open.spotify.com/album/2zdTrjVbZgD7U5kHEnGZuY) | 2:19 |
 
-Snapshot ID: `MCwyZTdkODk0MDdhZWM2NDY5N2U4NmRmN2ZhZDM5YWFmNDQ4OWNlNTNh`
+Snapshot ID: `MCwwMTgwMTY1MjJkMWYwNTczNTZiOTUxMmU2ODM3NjQyMzZmMjdhMDc1`

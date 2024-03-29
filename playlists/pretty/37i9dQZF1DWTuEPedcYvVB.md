@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 
 > The official playlist for Top Boy\. Watch the final season on Netflix
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,206 likes - 77 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,258 likes - 77 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 | 25 | [Rosé](https://open.spotify.com/track/2vfl8V78ai2lyCyFn1cPWx) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Rosé](https://open.spotify.com/album/75zIcxRfIZxxNEpSuqpCdX) | 2:46 |
 | 26 | [Innocent](https://open.spotify.com/track/4ZyFlO3nB9F7TxV5qHJNXW) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Differences / Innocent](https://open.spotify.com/album/25hqOArKlTnrVOG7yC9dmq) | 2:47 |
 | 27 | [Make Sense](https://open.spotify.com/track/0V12o5zhUxpbsEL2OxX16T) | [SD Muni](https://open.spotify.com/artist/0YFd71npsQwuqBCezSIBfA) | [Make Sense](https://open.spotify.com/album/2mlPtyG0rkdEQ46jRvVZVT) | 2:45 |
-| 28 | [Us Against the World](https://open.spotify.com/track/4TaS4giQQK01vKzBB40AEY) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [Us Against the World](https://open.spotify.com/album/5m2xRmSB1D30YZHDHr8556) | 2:19 |
+| 28 | [Us Against the World](https://open.spotify.com/track/4TaS4giQQK01vKzBB40AEY) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [Us Against the World](https://open.spotify.com/album/5m2xRmSB1D30YZHDHr8556) | 2:20 |
 | 29 | [Weakness](https://open.spotify.com/track/7aLMMLtNVCsq8kDHSRvvxV) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Weakness](https://open.spotify.com/album/0NQlTVomOos4FL3OWA4s9Q) | 3:00 |
 | 30 | [Take That Risk](https://open.spotify.com/track/0TiSUeBM7Hg0WV3YsqsF8o) | [CB](https://open.spotify.com/artist/3yKIJWQ1SY3vzCTfBWAZ74) | [A Drillers Perspective](https://open.spotify.com/album/2Wv1Qr0OTdmmXnEwhTXpA8) | 3:20 |
 | 31 | [Cutting Room I](https://open.spotify.com/track/6iQWxbUdH7SUrEOLwD45b6) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cutting Room I \(from the Netflix Series "Top Boy"\)](https://open.spotify.com/album/5VWzOEbQh7HL8HolYLWyFi) | 2:18 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 | 76 | [La Guayaba](https://open.spotify.com/track/2VeXI9CcoekqU1VGMljovo) | [Riccie Oriach](https://open.spotify.com/artist/3b12EGhDU7EhHcuZmMG3oV) | [Viaje Al Infinito](https://open.spotify.com/album/5f1r5AowWw21NMerlIwBxz) | 4:23 |
 | 77 | [Mahmoume \- Tourmenté](https://open.spotify.com/track/63TIFnEUF8mzPOVw0wYhT3) | [Nass El Ghiwane](https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL) | [Fine ghadi biya khouya](https://open.spotify.com/album/43S3rQh0r9yxCrraFFSO2n) | 3:03 |
 
-Snapshot ID: `MCwwNmY4MmI3NmU0NTQ5NDQ1ODUzZjk3MzQ4ZDMyN2JmZjA3ODU3MmVh`
+Snapshot ID: `MCw4N2NkMjU1YmM0YTBkM2UyMmJkZmU2OGFjODE1MWY3ZTdiYTYxYWIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Francis of Delirium
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,013 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,009 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 33 | [Best Laid Plans](https://open.spotify.com/track/4xpIfw6xzUcdL12Mo67SiB) | [Devon Welsh](https://open.spotify.com/artist/7yGm0QgT6pUFP7LRgsIRiC) | [Come With Me If You Want To Live](https://open.spotify.com/album/0lI2VuGSXvIhcax83psXiQ) | 4:15 |
 | 34 | [Good Torture \(with Elyanna\)](https://open.spotify.com/track/3s29qreJr2KU7BFSiDtw0U) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Good Torture \(with Elyanna\)](https://open.spotify.com/album/5xhbojvUylmbWTsaCgISZr) | 3:20 |
 | 35 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 |
-| 36 | [honey, i'm home](https://open.spotify.com/track/5kSmEV24v9UDWXMO2NZdIG) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [honey i'm home](https://open.spotify.com/album/0SQs9fGTyqCxiw5mgrR7bZ) | 2:30 |
+| 36 | [honey, i'm home](https://open.spotify.com/track/0PCCllluNN8eMSc7No98Jt) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [the life and death of a dog](https://open.spotify.com/album/3zzzsk0VzmLORaVtENlOHY) | 2:30 |
 | 37 | [Loud Bark](https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 3:03 |
 | 38 | [dance of the trees](https://open.spotify.com/track/4bG78LXku0K6bKIQ4IS5Yu) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [dance of the trees](https://open.spotify.com/album/5EE8f2rtxbQsGwVPfVNySX) | 2:31 |
 | 39 | [Les Heures](https://open.spotify.com/track/0NooWH9hVyWAZXK0RDjRNr) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT), [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Les Heures](https://open.spotify.com/album/6kRNYVhQ0Q3mWHF85jGqkO) | 3:30 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 97 | [THE RUNAROUND](https://open.spotify.com/track/5S2t7uGKhP8GjUsJeVwv57) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb) | [THE RUNAROUND](https://open.spotify.com/album/3p7WqXW7b0edoEZkgHU0gL) | 4:10 |
 | 98 | [Worth More](https://open.spotify.com/track/3CI8lCa26dBqaS2xO8SNOK) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Worth More](https://open.spotify.com/album/5MyFWcrxlpBfN6MW39mmGc) | 2:46 |
 | 99 | [Modern Woman](https://open.spotify.com/track/3OUjbRqPyGKp0IVb68nrWQ) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Modern Woman](https://open.spotify.com/album/3yr6yMwfok0uo07Nf94Qvu) | 4:09 |
-| 100 | [All The Same](https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [All The Same](https://open.spotify.com/album/2vUQi2E2j9QTU8NSRWxSjt) | 2:55 |
+| 100 | [All the Same](https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [All the Same](https://open.spotify.com/album/2vUQi2E2j9QTU8NSRWxSjt) | 2:55 |
 
-Snapshot ID: `MCw3YWI2YTE0OGQxZjBiOTMwMDMwOWQyOTZlZDdkY2M3YTAwNjk0OGIy`
+Snapshot ID: `MCwyOTNkZTY5ZWVkNmE4YzljODU4MzY5ZjlkMDQ1YmM5MzA3Yjc1ZGEx`

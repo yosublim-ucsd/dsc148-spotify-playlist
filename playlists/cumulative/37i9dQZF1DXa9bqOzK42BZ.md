@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=QOxAEPw5SfeFdIYUaljgEA">Christina Shusho</a>
 
-149 songs - 13 hr 54 min
+150 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Nifundishe Kunyamaza](https://open.spotify.com/track/5ZbqY3dSaJu5WepPqGkxbS) | [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Naiona Kesho](https://open.spotify.com/album/4On0HtZu8oqfzXWki3Vz6f) | 9:14 | 2022-06-24 |  |
 | [Niguse Tena \(Live\)](https://open.spotify.com/track/0NiEmNgV7TmOHjbZ3DdK75) | [Krystaal Music](https://open.spotify.com/artist/3Xkc3xqeLJZWgVDDIbvhNo), [Next Level Choir](https://open.spotify.com/artist/5j7HOenL3dSS981E1ARENs) | [Krystaal Live in Dar Es Salaam \(Deluxe Album\)](https://open.spotify.com/album/2pFOj4BuABj7x4y4PapIgs) | 6:39 | 2022-06-24 |  |
 | [Nikumbushe Yehova](https://open.spotify.com/track/2YTmZTaHazQYsOfC7UqWtO) | [Kurasini SDA Choir](https://open.spotify.com/artist/6iEYr3D5bI9cIgJWSYN0tM) | [Mtanitafuta Pande Zote](https://open.spotify.com/album/70wLfW5cfXi1h1JfIITRUp) | 2:45 | 2022-06-24 |  |
+| [Nimefichwa](https://open.spotify.com/track/1itH2yw2j8YpoqyVodTC2s) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Nimefichwa](https://open.spotify.com/album/6y2am1XRqcxkvDi9RCogrr) | 3:32 | 2024-03-28 |  |
 | [Nimekubali](https://open.spotify.com/track/7w8ERAOQosktc8bJkVOeql) | [Eunice Njeri](https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4) | [Bwana Yesu](https://open.spotify.com/album/1PYHRwXBXzZ4Kz60MUB6OS) | 4:29 | 2022-06-24 | 2023-11-03 |
 | [Nimekubali](https://open.spotify.com/track/7KmpoAv8SeKYh3WSNFVSas) | [Karura Voices](https://open.spotify.com/artist/1d5SkVdPJfoutTu1HdhpYT) | [There Is a Fire](https://open.spotify.com/album/5ZQBuEE8GajVv4kBx3Lm19) | 5:51 | 2023-11-10 | 2023-11-17 |
 | [Nimekubali](https://open.spotify.com/track/5Z0z3ZJyJmFBETJtBwm97K) | [Karura Voices](https://open.spotify.com/artist/1d5SkVdPJfoutTu1HdhpYT) | [Nimekubali](https://open.spotify.com/album/7uXTKSnEpRTPRGFhFOJZit) | 5:56 | 2023-10-20 |  |

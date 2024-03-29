@@ -1,12 +1,12 @@
 {
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
-  "num_followers": 218035,
+  "num_followers": 218051,
   "original_name": "Foco no Estudo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzUxNzU5OGNkYzgwYjZlNTllOWJiNzM4ODMyZjdmNjNjMmE5Mjg4",
+  "snapshot_id": "MCw1ZWM1ODNkNjVhNWU2NDkxNjdmN2RlYzZkMmRkMmY5NmUyMDNkM2M3",
   "tracks": [
     {
       "added_at": "2024-03-25 14:02:22",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
-        "name": "Release from silence",
-        "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Buote",
-          "url": "https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74"
-        }
-      ],
-      "duration_ms": 137642,
-      "name": "Release from silence",
-      "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
         "name": "Other Side of The Moon",
         "url": "https://open.spotify.com/album/1pGyYoSDbFxJ2r91ZQiLqb"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 128914,
       "name": "Other Side of The Moon",
       "url": "https://open.spotify.com/track/1qrvZZeUyb4a5knmgTM9v1"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
+        "name": "Release from silence",
+        "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Buote",
+          "url": "https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74"
+        }
+      ],
+      "duration_ms": 137642,
+      "name": "Release from silence",
+      "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
+        "name": "Before You Leave",
+        "url": "https://open.spotify.com/album/59XlugrAgS9ZEQ8UsZ5zPd"
+      },
+      "artists": [
+        {
+          "name": "Henriette Fleich",
+          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
+        }
+      ],
+      "duration_ms": 128946,
+      "name": "Before You Leave",
+      "url": "https://open.spotify.com/track/5r4tOJk4xR3J4SQS52GO4l"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
         "name": "There Is Light",
         "url": "https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 182500,
       "name": "Narrative",
       "url": "https://open.spotify.com/track/1QKnzkBw9Hb5wjQG6qV1mS"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
-        "name": "Before You Leave",
-        "url": "https://open.spotify.com/album/59XlugrAgS9ZEQ8UsZ5zPd"
-      },
-      "artists": [
-        {
-          "name": "Henriette Fleich",
-          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
-        }
-      ],
-      "duration_ms": 128946,
-      "name": "Before You Leave",
-      "url": "https://open.spotify.com/track/5r4tOJk4xR3J4SQS52GO4l"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
-        "name": "M\u00e9lange Weaved",
-        "url": "https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq"
-      },
-      "artists": [
-        {
-          "name": "Maya Sarfatto",
-          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
-        }
-      ],
-      "duration_ms": 126778,
-      "name": "M\u00e9lange Weaved",
-      "url": "https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
         "name": "The Last Goodbye",
         "url": "https://open.spotify.com/album/2iY03z9xsWzIeLkLiJ5iB7"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 170986,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
+        "name": "M\u00e9lange Weaved",
+        "url": "https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq"
+      },
+      "artists": [
+        {
+          "name": "Maya Sarfatto",
+          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
+        }
+      ],
+      "duration_ms": 126778,
+      "name": "M\u00e9lange Weaved",
+      "url": "https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
-        "name": "The Lights Around the Shore",
-        "url": "https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6"
-      },
-      "artists": [
-        {
-          "name": "Rory Lewis",
-          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "The Lights Around the Shore",
-      "url": "https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
         "name": "Rest",
         "url": "https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 174426,
       "name": "Rest",
       "url": "https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
+        "name": "The Lights Around the Shore",
+        "url": "https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6"
+      },
+      "artists": [
+        {
+          "name": "Rory Lewis",
+          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "The Lights Around the Shore",
+      "url": "https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
+        "name": "Prati",
+        "url": "https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "duration_ms": 145566,
+      "name": "Prati",
+      "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
         "name": "No Goodbye",
         "url": "https://open.spotify.com/album/2y7M4RgG4hQsa3BP3zpjLL"
       },
@@ -555,18 +571,18 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
-        "name": "Prati",
-        "url": "https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU"
+        "name": "Minor Fable",
+        "url": "https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC"
       },
       "artists": [
         {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
         }
       ],
-      "duration_ms": 145566,
-      "name": "Prati",
-      "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
+      "duration_ms": 121308,
+      "name": "Minor Fable",
+      "url": "https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -599,22 +615,6 @@
       "duration_ms": 214675,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/5N56pgOicPJjfMsYV5ppyK"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
-        "name": "Minor Fable",
-        "url": "https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC"
-      },
-      "artists": [
-        {
-          "name": "Luis Berra",
-          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
-        }
-      ],
-      "duration_ms": 121308,
-      "name": "Minor Fable",
-      "url": "https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
+        "name": "Find The Light Behind The Clouds",
+        "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
+      },
+      "artists": [
+        {
+          "name": "Muri\u00ebl Bostdorp",
+          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
+        }
+      ],
+      "duration_ms": 139884,
+      "name": "Find The Light Behind The Clouds",
+      "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
         "name": "Syllables Flow",
         "url": "https://open.spotify.com/album/3rJEjPamXwipkhDj65Fkn0"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 142500,
       "name": "Spruces and pines",
       "url": "https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
-        "name": "Find The Light Behind The Clouds",
-        "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
-      },
-      "artists": [
-        {
-          "name": "Muri\u00ebl Bostdorp",
-          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
-        }
-      ],
-      "duration_ms": 139884,
-      "name": "Find The Light Behind The Clouds",
-      "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/5WmgcLlvxLBGF0exbEyv5h"
-      },
-      "artists": [
-        {
-          "name": "Jozef De Schutter",
-          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
-        }
-      ],
-      "duration_ms": 135013,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/6a04n0DK9frDlgWEQkl2S8"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
         "name": "Au matin du magicien",
         "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5WmgcLlvxLBGF0exbEyv5h"
+      },
+      "artists": [
+        {
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+        }
+      ],
+      "duration_ms": 135013,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/6a04n0DK9frDlgWEQkl2S8"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
         "name": "A Day In June",
         "url": "https://open.spotify.com/album/7ssXeTKWZ23Y7g6CKzKrvd"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 120080,
       "name": "A Day In June",
       "url": "https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
+        "name": "The round",
+        "url": "https://open.spotify.com/album/58H4jQ4WViq58tku5lRwiK"
+      },
+      "artists": [
+        {
+          "name": "Redd Mae",
+          "url": "https://open.spotify.com/artist/06HnYHIlkitCKyiMel4rWp"
+        }
+      ],
+      "duration_ms": 148941,
+      "name": "The round",
+      "url": "https://open.spotify.com/track/6YD98m2CsK814hbBVQz9yS"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -923,22 +939,6 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
-        "name": "Toivoa",
-        "url": "https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug"
-      },
-      "artists": [
-        {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
-        }
-      ],
-      "duration_ms": 121732,
-      "name": "Toivoa",
-      "url": "https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
         "name": "Peaceful Rebellion",
         "url": "https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 139978,
       "name": "Peaceful Rebellion",
       "url": "https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
+        "name": "Toivoa",
+        "url": "https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "duration_ms": 121732,
+      "name": "Toivoa",
+      "url": "https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -975,22 +991,6 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
-        "name": "The round",
-        "url": "https://open.spotify.com/album/58H4jQ4WViq58tku5lRwiK"
-      },
-      "artists": [
-        {
-          "name": "Redd Mae",
-          "url": "https://open.spotify.com/artist/06HnYHIlkitCKyiMel4rWp"
-        }
-      ],
-      "duration_ms": 148941,
-      "name": "The round",
-      "url": "https://open.spotify.com/track/6YD98m2CsK814hbBVQz9yS"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
         "name": "Flourish",
         "url": "https://open.spotify.com/album/3ZZa5qPd2XsANxEP7Aypnp"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 151124,
       "name": "Flourish",
       "url": "https://open.spotify.com/track/64FQyOZ9XEu8BOjSLdKSxP"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
+        "name": "The hills",
+        "url": "https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "duration_ms": 172264,
+      "name": "The hills",
+      "url": "https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -1035,22 +1051,6 @@
       "duration_ms": 186708,
       "name": "Then I Saw You",
       "url": "https://open.spotify.com/track/7JdPDRXShJjWBhtZGDdgFx"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
-        "name": "The hills",
-        "url": "https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
-        }
-      ],
-      "duration_ms": 172264,
-      "name": "The hills",
-      "url": "https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/4Y5btjkWzLtRnCvZZxxaDA"
-      },
-      "artists": [
-        {
-          "name": "Lexi Bradley",
-          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
-        }
-      ],
-      "duration_ms": 124500,
-      "name": "The Beginning",
-      "url": "https://open.spotify.com/track/29cTQB5qtEyaazYqjfVIt3"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
         "name": "Just One More Time",
         "url": "https://open.spotify.com/album/0anG6601TeFBgmXTvV0tJ0"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 196312,
       "name": "Just One More Time",
       "url": "https://open.spotify.com/track/5D4IkgtTqwgA4hr0gqqeW2"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/4Y5btjkWzLtRnCvZZxxaDA"
+      },
+      "artists": [
+        {
+          "name": "Lexi Bradley",
+          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
+        }
+      ],
+      "duration_ms": 124500,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/29cTQB5qtEyaazYqjfVIt3"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
-        "name": "Autumnal",
-        "url": "https://open.spotify.com/album/7a7f6qmks202aOFuAfomMM"
-      },
-      "artists": [
-        {
-          "name": "Max Dew",
-          "url": "https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW"
-        }
-      ],
-      "duration_ms": 124416,
-      "name": "Autumnal",
-      "url": "https://open.spotify.com/track/6i653T49GCokF7aFcgG76h"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
         "name": "Kalopsia",
         "url": "https://open.spotify.com/album/3kJJgfrEqoVMQkR9cHRsm8"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 178500,
       "name": "Kalopsia",
       "url": "https://open.spotify.com/track/3XebcloY8ola1VTGRm6aLP"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
+        "name": "Autumnal",
+        "url": "https://open.spotify.com/album/7a7f6qmks202aOFuAfomMM"
+      },
+      "artists": [
+        {
+          "name": "Max Dew",
+          "url": "https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW"
+        }
+      ],
+      "duration_ms": 124416,
+      "name": "Autumnal",
+      "url": "https://open.spotify.com/track/6i653T49GCokF7aFcgG76h"
     },
     {
       "added_at": "2024-03-25 14:02:22",

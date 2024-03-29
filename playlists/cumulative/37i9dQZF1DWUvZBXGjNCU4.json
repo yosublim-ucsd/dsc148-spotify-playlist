@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Aurora Prelude",
+        "url": "https://open.spotify.com/album/6fiETmJfgbxUs0Rx3zE7Vi"
+      },
+      "artists": [
+        {
+          "name": "Serena Perez",
+          "url": "https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152678,
+      "name": "Aurora Prelude",
+      "url": "https://open.spotify.com/track/4zNrO0MmzxqlthrBhnV8d2"
+    },
+    {
+      "album": {
         "name": "Autumn Coming",
         "url": "https://open.spotify.com/album/3Q6axAHOm4KVMFJlxFRvQF"
       },

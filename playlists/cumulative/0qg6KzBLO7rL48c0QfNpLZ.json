@@ -4641,6 +4641,36 @@
     },
     {
       "album": {
+        "name": "Walking On A Dream",
+        "url": "https://open.spotify.com/album/1SPJfmyfAGNPSuA7ODwzw5"
+      },
+      "artists": [
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "Yann Muller",
+          "url": "https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        },
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119203,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/6GqARMalvyeKe5m53HnUEo"
+    },
+    {
+      "album": {
         "name": "Walking On a Dream",
         "url": "https://open.spotify.com/album/1vjLjA9LB8lyKyTuiW9Y8s"
       },

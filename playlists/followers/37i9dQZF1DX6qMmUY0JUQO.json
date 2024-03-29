@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 138721,
+  "2024-03-29": 138822,
   "date_first_scraped": "2022-04-20",
   "description": "From House & Techno to the spheres of Pop. This playlist features legendary tracks that have been produced on a TR-909 drum machine. Cover: Jeff Mills",
   "name": "909 Classics",
@@ -707,6 +707,24 @@
       "duration_ms": 255266,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/0zQnCy0NCcBmQcsl2PBNE3"
+    },
+    {
+      "album": {
+        "name": "Champs Elys\u00e9es",
+        "url": "https://open.spotify.com/album/62DMpTTW3o6sYaNVYxtq2B"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350813,
+      "name": "I Feel for You",
+      "url": "https://open.spotify.com/track/7opq9mMuTcHUXTY3EO3hym"
     },
     {
       "album": {
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 442739,
       "name": "Witch Doktor (Eddie Thoneick Remix)",
       "url": "https://open.spotify.com/track/7xHUqMQfeiPUpQOlCxTYkY"

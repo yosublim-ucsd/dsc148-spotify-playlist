@@ -5967,6 +5967,28 @@
     },
     {
       "album": {
+        "name": "Soy de Parral (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/6zQOPTVMGhJMXRBBNsiTby"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        },
+        {
+          "name": "Pablo Vamer",
+          "url": "https://open.spotify.com/artist/6rasbovc25yVtFyNczlrHH"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229343,
+      "name": "Soy de Parral - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6hG3rVEhKz5R9jnM49ksWl"
+    },
+    {
+      "album": {
         "name": "S\u00f3lo Muere Si Se Olvida",
         "url": "https://open.spotify.com/album/06eE8AIljE3ADQbE3KSZ50"
       },

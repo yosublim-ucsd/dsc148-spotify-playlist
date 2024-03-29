@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-719 songs - 1 day 8 hr 20 min
+720 songs - 1 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [blue forest](https://open.spotify.com/track/3aWloCwU0VyguYLhUBx9rH) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [blue forest](https://open.spotify.com/album/2lbnzHjf7JB8oad6alpw78) | 2:10 | 2023-08-24 | 2023-09-22 |
 | [BLUE MOON](https://open.spotify.com/track/2gt5R59niPj7cFflsCNBEI) | [DJ ZEEK](https://open.spotify.com/artist/6jX9IZnwPeKQyuAMkJE8OK) | [BLUE MOON](https://open.spotify.com/album/6wya2peFBrgmH7VhYvh9DF) | 3:05 | 2021-12-23 | 2022-02-09 |
 | [Blue Ocean](https://open.spotify.com/track/7Ez0jBEB4kzZpOxlrmnfrm) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [Blue Ocean](https://open.spotify.com/album/7eFZkyETGlx6hrzExVHplF) | 3:00 | 2022-12-01 | 2022-12-16 |
+| [blue period](https://open.spotify.com/track/12ez5gCxD7mZ1jAXhd3fNe) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [blue period](https://open.spotify.com/album/10Xi0OZkji2eSPMrcny8tD) | 2:05 | 2024-03-05 |  |
 | [Bocuk](https://open.spotify.com/track/1lTfFxZjZG3Xagd4clrCBj) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Bocuk](https://open.spotify.com/album/2n9E01iiTHEtmLZmjKWj6B) | 2:17 | 2023-07-25 | 2023-08-18 |
 | [bouquet](https://open.spotify.com/track/6DQeJ0buwVm5Y4a6ATogBn) | [Smika](https://open.spotify.com/artist/0aek9ZQsX0KemPlW7dkh2X) | [Opal](https://open.spotify.com/album/6J6EDFF8w2nRW2YGGxIMnh) | 2:25 | 2022-03-24 | 2022-04-20 |
 | [Breakin' up](https://open.spotify.com/track/3zuqP7sq9LOHeHIHJ0ElZy) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Breakin' up](https://open.spotify.com/album/5BFxVlpvsWgSV3yv0fDr5H) | 1:36 | 2021-12-23 | 2022-12-24 |
@@ -704,7 +705,7 @@
 | [Windshield Wiper](https://open.spotify.com/track/5w8T6jJQ9ikTxyOVXUDpeS) | [Bunen](https://open.spotify.com/artist/0qB2un7FwMyJARnEvG48Kh), [Ohm Guru](https://open.spotify.com/artist/7GD1ahbgKEcQkS2qIvwwKY) | [Boredom Empire](https://open.spotify.com/album/5NFcbg1dhDWtUpVfjSF5BM) | 2:56 | 2022-03-24 | 2022-04-17 |
 | [winter sunburn](https://open.spotify.com/track/2F6nw7ztr11cC4sQeE6Kcn) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [winter sunburn](https://open.spotify.com/album/5nHOhbEw2vFByKWNUgD4TF) | 2:24 | 2023-12-21 | 2024-02-02 |
 | [wooden piano](https://open.spotify.com/track/3Q6atcj3iYHcmWSS0ZYV8c) | [mimii](https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA) | [wooden piano](https://open.spotify.com/album/2qqqbBh9kX1Q93Zgk9B30Y) | 1:20 | 2021-12-23 | 2022-06-26 |
-| [wooden piano](https://open.spotify.com/track/6nZ5BZikC0DyOFpInapHCn) | [mimii](https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [wooden piano](https://open.spotify.com/album/5hwhvjxUQrZslxfCpduJZq) | 1:20 | 2022-10-20 |  |
+| [wooden piano](https://open.spotify.com/track/6nZ5BZikC0DyOFpInapHCn) | [mimii](https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [wooden piano](https://open.spotify.com/album/5hwhvjxUQrZslxfCpduJZq) | 1:20 | 2022-10-20 | 2024-03-29 |
 | [XO](https://open.spotify.com/track/7gpDUoMZKBOiszaZ8sx17F) | [Botsfuneral](https://open.spotify.com/artist/4p5E4RsC9ZcUkyoK5j2Jx0) | [XO](https://open.spotify.com/album/4GbRETxpxr4bikdN7bj5HN) | 1:58 | 2021-12-23 | 2022-01-16 |
 | [Yanagi Ni Kaze \- rework](https://open.spotify.com/track/4klOGFqYxDPRj7Q0mShllc) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG), [m.s.t.](https://open.spotify.com/artist/4tJncS5iiaOS9brNCL589G) | [Yanagi Ni Kaze \(rework\)](https://open.spotify.com/album/6iE2nDaKH19GhJKugJsqcs) | 4:34 | 2023-05-18 | 2024-03-11 |
 | [Yarden](https://open.spotify.com/track/4Y2ks8t6QoaWGQaFVrrlug) | [MADLISK](https://open.spotify.com/artist/2tWCWZuRGn0nAE8l8r4H8h) | [Yarden](https://open.spotify.com/album/31keasWCyoW2vJKMoccCh4) | 2:00 | 2022-01-06 | 2022-07-27 |

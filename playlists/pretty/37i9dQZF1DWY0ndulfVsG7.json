@@ -1,12 +1,12 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Geisha",
-  "num_followers": 52489,
+  "num_followers": 52531,
   "original_name": "Jiran Akrab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjg1NjM3Y2IwYzk0N2RiNDFkNjJhYWFjYWI5NzliOWM5ZjdmN2Y1",
+  "snapshot_id": "MCxhNGQ2NjAyYzExYjBlZDJiNzJhNjMzNTM3NDVkYmVjYjQ4YjA3ZDNl",
   "tracks": [
     {
       "added_at": "2024-01-12 06:34:07",
@@ -543,18 +543,22 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Untukmu Selamanya",
-        "url": "https://open.spotify.com/album/0JFtcuEuZqdurpqOY65Pva"
+        "name": "Seluruh Cinta",
+        "url": "https://open.spotify.com/album/0aAj6CHe9yPHglz0e0H2sW"
       },
       "artists": [
         {
-          "name": "Ungu",
-          "url": "https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5"
+          "name": "Cakra Khan",
+          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
+        },
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
         }
       ],
-      "duration_ms": 283360,
-      "name": "Cinta Dalam Hati",
-      "url": "https://open.spotify.com/track/4NOniDRyYcBjF6m1x3U8TK"
+      "duration_ms": 250920,
+      "name": "Seluruh Cinta",
+      "url": "https://open.spotify.com/track/2FKvy1aWWazofWPRD9nNnP"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -575,22 +579,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Seluruh Cinta",
-        "url": "https://open.spotify.com/album/0aAj6CHe9yPHglz0e0H2sW"
+        "name": "Untukmu Selamanya",
+        "url": "https://open.spotify.com/album/0JFtcuEuZqdurpqOY65Pva"
       },
       "artists": [
         {
-          "name": "Cakra Khan",
-          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
-        },
-        {
-          "name": "Dato' Sri Siti Nurhaliza",
-          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+          "name": "Ungu",
+          "url": "https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5"
         }
       ],
-      "duration_ms": 250920,
-      "name": "Seluruh Cinta",
-      "url": "https://open.spotify.com/track/2FKvy1aWWazofWPRD9nNnP"
+      "duration_ms": 283360,
+      "name": "Cinta Dalam Hati",
+      "url": "https://open.spotify.com/track/4NOniDRyYcBjF6m1x3U8TK"
     },
     {
       "added_at": "2024-01-12 06:34:07",

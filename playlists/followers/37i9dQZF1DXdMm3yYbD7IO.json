@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 326242,
+  "2024-03-29": 326614,
   "date_first_scraped": "2021-12-28",
   "description": "Move your body with your favorite 90s songs.",
   "name": "90's Workout",
@@ -1491,6 +1491,24 @@
     {
       "album": {
         "name": "Remember Me",
+        "url": "https://open.spotify.com/album/15ejkGAzLKHl2S1jvXWb1u"
+      },
+      "artists": [
+        {
+          "name": "Blue Boy",
+          "url": "https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423028,
+      "name": "Remember Me - Original Mix",
+      "url": "https://open.spotify.com/track/7MwPTFInd4Y3q1ZtwgzG57"
+    },
+    {
+      "album": {
+        "name": "Remember Me",
         "url": "https://open.spotify.com/album/12VFylHDX01Xw4joC9wH6Z"
       },
       "artists": [
@@ -1807,7 +1825,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 203826,
       "name": "The Bomb! (These Sound Fall into My Mind) - Radio Edit",
       "url": "https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9"

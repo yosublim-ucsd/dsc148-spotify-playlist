@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 26948,
+  "2024-03-29": 26953,
   "date_first_scraped": "2023-05-03",
   "description": "This is Krewella. The essential tracks, all in one playlist.",
   "name": "This Is Krewella",
@@ -308,6 +308,24 @@
     },
     {
       "album": {
+        "name": "The Body Never Lies",
+        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Drive Away",
+      "url": "https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT"
+    },
+    {
+      "album": {
         "name": "Drive Away (RetroVision Remix)",
         "url": "https://open.spotify.com/album/4f5xCHKOJaAPEMGTrgFRPg"
       },
@@ -323,7 +341,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 205153,
       "name": "Drive Away (RetroVision Remix)",
       "url": "https://open.spotify.com/track/1pSrJ6CpaOtoDTNgubJ6Zx"
@@ -483,7 +501,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 242758,
       "name": "In The Water",
       "url": "https://open.spotify.com/track/4CoS0uVLrNQAjCJ586HHev"
@@ -501,7 +519,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 207040,
       "name": "Killin' It",
       "url": "https://open.spotify.com/track/3rHFo3c176QQnZ3Ucdbp21"

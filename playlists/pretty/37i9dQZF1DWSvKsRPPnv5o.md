@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Saweetie
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,767 likes - 79 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,783 likes - 79 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 54 | [Pressure](https://open.spotify.com/track/6CgABqVIcFh12r257y2jey) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [Pressure](https://open.spotify.com/album/4uQm94AZIS4PBeZ4Jm2Y94) | 2:48 |
 | 55 | [The 5](https://open.spotify.com/track/0y7P5NsVwO4vRft1rY5Wt9) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Trophies](https://open.spotify.com/album/4QcAsaILcr6N6VcLmDiZkp) | 2:28 |
 | 56 | [ALLAT](https://open.spotify.com/track/1KdfIM1ZvzSWBGuk7n1Hie) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD) | [ALLAT](https://open.spotify.com/album/6Va3zluiLcnhrMfRjTArjU) | 2:23 |
-| 57 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 2:03 |
+| 57 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 1:54 |
 | 58 | [Lotta Cash](https://open.spotify.com/track/1goCHDPWXm9SJ1B04czejH) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Lotta Cash](https://open.spotify.com/album/34O6YH7aVuHHxFAOBjUcpT) | 2:24 |
 | 59 | [IF I DIE RIGHT NOW](https://open.spotify.com/track/2rIHvbvMbiQ2pjotR2rZpX) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [IF I DIE RIGHT NOW](https://open.spotify.com/album/4cAgvy7ZjVP0SxreZZulHI) | 2:41 |
 | 60 | [Where's Remble?](https://open.spotify.com/track/5SLRlF7N8a5hH2Vl15imTV) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [Where's Remble?](https://open.spotify.com/album/03vYAvDNFVS1atHZuzRs4c) | 2:49 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 78 | [Like That \(Remix\)](https://open.spotify.com/track/4UizJ3CSIkT0i8E86HmFV8) | [T.ofordawin](https://open.spotify.com/artist/2P43ik4likcOr0C9jzdLZA), [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB), [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [Like That \(Remix\)](https://open.spotify.com/album/3rE8evWpFnIT3RHAW4SdSh) | 3:37 |
 | 79 | [Wrist Cold](https://open.spotify.com/track/4y2LMDSuLaSpuyvNti2XtK) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Wrist Cold](https://open.spotify.com/album/4461MJpUXZJAxldXTcD5CY) | 2:38 |
 
-Snapshot ID: `MCxiYWU5NjBhZDMyNDJmZjc2N2VmZTY3MzNmYTk2MzJhYzIxNDE5ZDRi`
+Snapshot ID: `MCxjZDY0NzcyNjA5ZWQ3ZmU4NDMxMjA2OWI1NmJkMTNmOGY0OWYxZjk2`

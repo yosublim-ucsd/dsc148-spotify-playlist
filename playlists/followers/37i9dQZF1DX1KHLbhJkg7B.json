@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 108274,
+  "2024-03-29": 108350,
   "date_first_scraped": "2022-01-02",
   "description": "Unique versions of hit songs by other artists. Cover: Dolly Parton and Lainey Wilson",
   "name": "Country Covers",
@@ -3358,17 +3358,17 @@
     },
     {
       "album": {
-        "name": "HIXTAPE Vol. 3: DIFFTAPE (Small Batch)",
+        "name": "HIXTAPE: Vol 3: DIFFTAPE (Small Batch)",
         "url": "https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy"
       },
       "artists": [
         {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
           "name": "Joe Diffie",
           "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        },
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
         },
         {
           "name": "Morgan Wallen",
@@ -3383,7 +3383,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 267341,
-      "name": "John Deere Green (feat. Morgan Wallen & HARDY)",
+      "name": "John Deere Green",
       "url": "https://open.spotify.com/track/2yZ8YizgareeDNcqI3NbAH"
     },
     {
@@ -4654,17 +4654,17 @@
     },
     {
       "album": {
-        "name": "HIXTAPE Vol. 3: DIFFTAPE (Small Batch)",
+        "name": "HIXTAPE: Vol 3: DIFFTAPE (Small Batch)",
         "url": "https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy"
       },
       "artists": [
         {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
           "name": "Joe Diffie",
           "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        },
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
         },
         {
           "name": "Post Malone",
@@ -4675,7 +4675,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 216194,
-      "name": "Pickup Man (feat. Post Malone)",
+      "name": "Pickup Man",
       "url": "https://open.spotify.com/track/4MXqpnu9lAqqkjSHVlBVoZ"
     },
     {

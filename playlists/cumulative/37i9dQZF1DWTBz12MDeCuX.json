@@ -2481,6 +2481,24 @@
     },
     {
       "album": {
+        "name": "atlantik",
+        "url": "https://open.spotify.com/album/0Z68a7uPj7L15g2xEUPV4f"
+      },
+      "artists": [
+        {
+          "name": "Elimako",
+          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174200,
+      "name": "atlantik",
+      "url": "https://open.spotify.com/track/4xEcgqxZ1H1LwkXHLJ362C"
+    },
+    {
+      "album": {
         "name": "kleine Feuer",
         "url": "https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa"
       },
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 238000,
       "name": "Bad Advice",
       "url": "https://open.spotify.com/track/34fIQRcrws4zVxOCtD75M2"
@@ -5574,7 +5592,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 109000,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/54RB9O1La4xqSrABgVjfkc"
@@ -7666,7 +7684,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 145272,
       "name": "DOING IT AGAIN BABY",
       "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
@@ -8670,7 +8688,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 141917,
       "name": "Eislaufen 2k24",
       "url": "https://open.spotify.com/track/09sPmkKTfsWiH65SMhRrKn"
@@ -9772,6 +9790,24 @@
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "album": {
+        "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
+        "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157974,
+      "name": "Feel It - From The Original Series \u201cInvincible\u201d",
+      "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
     },
     {
       "album": {
@@ -10980,10 +11016,6 @@
         {
           "name": "RIN",
           "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
-        },
-        {
-          "name": "Malte Marten",
-          "url": "https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj"
         }
       ],
       "date_added": "2024-03-14",
@@ -16016,7 +16048,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 133874,
       "name": "Katholisch Erzogen",
       "url": "https://open.spotify.com/track/3XJWENXsyuxRwSdCT57z6f"
@@ -19212,7 +19244,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 134400,
       "name": "Meine Welt",
       "url": "https://open.spotify.com/track/2ed1DXuzNfDaNOw1CYv45T"
@@ -19278,7 +19310,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 248568,
       "name": "Memories Of The Sun",
       "url": "https://open.spotify.com/track/4TkGZqpPuh4EULBkhtg887"
@@ -20154,6 +20186,28 @@
       "duration_ms": 231566,
       "name": "MR. MEYER",
       "url": "https://open.spotify.com/track/414rOgwyJUcY49sGW5CsZy"
+    },
+    {
+      "album": {
+        "name": "MR.SWAG (feat. makko)",
+        "url": "https://open.spotify.com/album/2N9RaXmZvgLMLYGj1pQV0E"
+      },
+      "artists": [
+        {
+          "name": "Maikel",
+          "url": "https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY"
+        },
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159724,
+      "name": "MR.SWAG (feat. makko)",
+      "url": "https://open.spotify.com/track/0TsePcRp93zJXSrIufCFx9"
     },
     {
       "album": {
@@ -22053,6 +22107,24 @@
     },
     {
       "album": {
+        "name": "N\u00fcchtern",
+        "url": "https://open.spotify.com/album/4dtdOI3bLWV2DX4dfJrUmS"
+      },
+      "artists": [
+        {
+          "name": "Ritter Lean",
+          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169843,
+      "name": "N\u00fcchtern",
+      "url": "https://open.spotify.com/track/4Ih8l5VnYovzqBhdjPSdPH"
+    },
+    {
+      "album": {
         "name": "OBERK\u00d6RPERFREI",
         "url": "https://open.spotify.com/album/2sYrmnW0GKxKZGIu1etvwc"
       },
@@ -23940,6 +24012,24 @@
       "duration_ms": 133882,
       "name": "POS",
       "url": "https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL"
+    },
+    {
+      "album": {
+        "name": "Positive Vibes",
+        "url": "https://open.spotify.com/album/01gVO3S6Sker3QBtUvwQMs"
+      },
+      "artists": [
+        {
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186586,
+      "name": "Positive Vibes",
+      "url": "https://open.spotify.com/track/2RNaKhaYCeYJSqtLpxndeg"
     },
     {
       "album": {
@@ -27508,7 +27598,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 156363,
       "name": "Soho House",
       "url": "https://open.spotify.com/track/0tj5Cd8mLxAfbhM1ggMnwn"
@@ -27566,6 +27656,24 @@
       "duration_ms": 143402,
       "name": "Somebody New",
       "url": "https://open.spotify.com/track/6Se74aLQWLjOsVvg5GRQY7"
+    },
+    {
+      "album": {
+        "name": "someday i'll get it",
+        "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
+      },
+      "artists": [
+        {
+          "name": "Alek Olsen",
+          "url": "https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94750,
+      "name": "someday i'll get it",
+      "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
     },
     {
       "album": {
@@ -28700,6 +28808,24 @@
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "album": {
+        "name": "such mit mir",
+        "url": "https://open.spotify.com/album/5ZexdlWkafVGjSwGunsUpo"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134570,
+      "name": "such mit mir",
+      "url": "https://open.spotify.com/track/54fISEDtMKFkuSA2hx0mlE"
     },
     {
       "album": {
@@ -31334,10 +31460,32 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "album": {
+        "name": "Unwritten (Feel The Rain)",
+        "url": "https://open.spotify.com/album/3ZNic8NCz5bq5vlXTpoHYc"
+      },
+      "artists": [
+        {
+          "name": "Shirli",
+          "url": "https://open.spotify.com/artist/55OIH32lgBeGjYZRpw4RNv"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130007,
+      "name": "Unwritten - Feel The Rain",
+      "url": "https://open.spotify.com/track/2d4uLr5JU6zi9oYV7Ralgr"
     },
     {
       "album": {
@@ -31620,7 +31768,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 161792,
       "name": "vergessen",
       "url": "https://open.spotify.com/track/5Hel2jahEv8yxyUS2OAq6U"
@@ -33185,6 +33333,24 @@
     },
     {
       "album": {
+        "name": "Wei\u00dft du",
+        "url": "https://open.spotify.com/album/1GNaAjx5ns0ptcKNYs0wAH"
+      },
+      "artists": [
+        {
+          "name": "Rowli",
+          "url": "https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124086,
+      "name": "Wei\u00dft du",
+      "url": "https://open.spotify.com/track/6xTQUjMO5hZVrEpSNNo4eu"
+    },
+    {
+      "album": {
         "name": "Wei\u00dfwein",
         "url": "https://open.spotify.com/album/2ATvGPfZT4vz3BI7BnZoGk"
       },
@@ -34668,6 +34834,28 @@
       "duration_ms": 133152,
       "name": "Zeit Steht Still",
       "url": "https://open.spotify.com/track/4HwlV0rJqT0p7uxsO5sfHn"
+    },
+    {
+      "album": {
+        "name": "Zeit x RIN",
+        "url": "https://open.spotify.com/album/5PsxjZFVj5c1xODJDrS1pV"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        },
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135233,
+      "name": "Zeit x RIN",
+      "url": "https://open.spotify.com/track/0jGC4X9hEVr7MihAhm9ViS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: DURDN \*👉 <a href="https://spice.eplus.jp/articles/327444?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,190 likes - 72 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,247 likes - 72 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 71 | [花絨毯](https://open.spotify.com/track/7rwNT8cfHhVJ8I9M9nFy14) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [花絨毯](https://open.spotify.com/album/7yRMzg6GoHaB9EGHVGpo17) | 1:52 |
 | 72 | [Rest in Peace](https://open.spotify.com/track/6rTKps8lhair8dtsjuZprw) | [後藤正文](https://open.spotify.com/artist/7z6bGLRzEf48d1km5BU4sn) | [Recent Report I](https://open.spotify.com/album/14ce4M35YFCSo52cQARpqD) | 12:31 |
 
-Snapshot ID: `MCwyYTgxOGU3ODA2MTQ3YzA3NDI3ZTRjODdhNTRjNjVhZmQ1MDc2OTdi`
+Snapshot ID: `MCwwMDM5YzI3YzgyZDQzMmVhMjk4YzEwZjQxZTkxMmVkNjU1MWY2ZGI3`

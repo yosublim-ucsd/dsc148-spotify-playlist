@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > No es cumbia, tampoco reggaetón\. Foto: Salastkbron.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,175 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,033 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 46 | [Mío No Tuyo \(feat\. Julianno Sosa\)](https://open.spotify.com/track/2y7M3BNqkUGY0eJ9oAL55R) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Mío No Tuyo \(feat\. Julianno Sosa\)](https://open.spotify.com/album/3MsigXOlPVWg1Csy7xzPrI) | 3:07 |
 | 47 | [Rubia o Morocha](https://open.spotify.com/track/1ZDC2BKJ64JYZYhW3vGzs2) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Rubia o Morocha](https://open.spotify.com/album/1AwH6SPsNwL0TLojydqu9p) | 2:40 |
 | 48 | [Rkteando \- Remix](https://open.spotify.com/track/0EBblLqWUMgOo0LPLnszAg) | [E.C.V](https://open.spotify.com/artist/3bz89tGLK59YTBYV8577IR), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Mauri Mansilla](https://open.spotify.com/artist/5zdbvniDOPPX4mlmmimzvE) | [Rkteando \(Remix\)](https://open.spotify.com/album/0LoqDW1bluEMJkmbIwIgi2) | 2:50 |
-| 49 | [BLUNTED](https://open.spotify.com/track/7g3hQKnm7dxiEaVhZbjosm) | [sayc.latam](https://open.spotify.com/artist/6Q9Q2vf4nfpOgtKPi3Fak2) | [rkt 420](https://open.spotify.com/album/5KOBZxsUb0UsFCqN85GEBX) | 2:16 |
+| 49 | [BLUNTED 5 \- Remix](https://open.spotify.com/track/6dlW3JOpCjzLBaNLiMfmx9) | [Bruno LC](https://open.spotify.com/artist/5XUp43SjeL84EDkWoCG3qR), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [BLUNTED 5 \(Remix\)](https://open.spotify.com/album/6TkyJYlqu5RNWaIFWC8j9d) | 2:21 |
 | 50 | [Nobajoniconpasta](https://open.spotify.com/track/0iipHsVxTAx6kFqPTrfjLr) | [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Nobajoniconpasta](https://open.spotify.com/album/3oqHCxg3R1Q3Pstqd7DSk3) | 2:31 |
 | 51 | [PERRIE CON MI AMIGA \- Remix](https://open.spotify.com/track/3r1JS9R2cjddcxWgMMbnKv) | [HDR](https://open.spotify.com/artist/17c1cvfb2tkpih3xZKd50M), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [PERRIE CON MI AMIGA \(Remix\)](https://open.spotify.com/album/4tTZdKncB9KMQ6I8NtEBZx) | 3:24 |
 | 52 | [MDQ \- REMIX OFICIAL](https://open.spotify.com/track/1ACploEfZLPleQxgFQuNKU) | [RYH](https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R), [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [MDQ \(REMIX OFICIAL\)](https://open.spotify.com/album/40Lldn1SgXPKNXM2JeaQCV) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 99 | [Una Foto](https://open.spotify.com/track/4sl3IoHskl2Kbdy27gZ4yn) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Una Foto](https://open.spotify.com/album/68oJKya0ABvKQkx5Zx0KXi) | 2:02 |
 | 100 | [RAMBLA](https://open.spotify.com/track/1soC2VdbrrQjVBclBmqWwr) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [RAMBLA](https://open.spotify.com/album/0mfsAs4Z7JlVp5UvWSpR41) | 2:54 |
 
-Snapshot ID: `MCw5MGNiNTdkYWMyN2YzYzk5NWU5YzBkZTRhNjE4ZmE1MTM2NDg2YTQx`
+Snapshot ID: `MCw5ZGE1YmVjOTBmNTlhMDZiN2YwMDNkZGRkNWQ3ZjI0YTRjOGQyZTMx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: DSP",
+  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: T Breezy, Walkerboy",
   "name": "Local Hype",
   "tracks": [
     {
@@ -108,6 +108,24 @@
       "duration_ms": 209790,
       "name": "3am",
       "url": "https://open.spotify.com/track/1LYGpC6P9t7VARZxap9Kcx"
+    },
+    {
+      "album": {
+        "name": "3am in Melbourne",
+        "url": "https://open.spotify.com/album/5LAyCAtcgKnCMvd7HOpILF"
+      },
+      "artists": [
+        {
+          "name": "Moses",
+          "url": "https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158068,
+      "name": "3am in Melbourne",
+      "url": "https://open.spotify.com/track/0DvNezWZPknS0Ki7PF5mIV"
     },
     {
       "album": {
@@ -512,7 +530,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 161562,
       "name": "And We",
       "url": "https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl"
@@ -1238,7 +1256,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 148400,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/2DSYENR4O6WmowMN8ZcVmQ"
@@ -3218,7 +3236,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 199223,
       "name": "Do Sum'n",
       "url": "https://open.spotify.com/track/4TBlHSM8c4eu8sCqVEnQrC"
@@ -4624,7 +4642,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 148757,
       "name": "Gammon",
       "url": "https://open.spotify.com/track/7klZOiqWVvF6G15AkvJFed"
@@ -4990,7 +5008,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 152228,
       "name": "Good Girls Stay At Home",
       "url": "https://open.spotify.com/track/4fB3fwk7cBaCVp6NWrMeWa"
@@ -6060,6 +6078,32 @@
       "duration_ms": 161904,
       "name": "Hundred Club",
       "url": "https://open.spotify.com/track/4jBRQpvCwfWLmiassQeD5c"
+    },
+    {
+      "album": {
+        "name": "Hussle",
+        "url": "https://open.spotify.com/album/5RZjqc8Q4nxrUS9XogzW4p"
+      },
+      "artists": [
+        {
+          "name": "Fizzler",
+          "url": "https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV"
+        },
+        {
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+        },
+        {
+          "name": "Shadz",
+          "url": "https://open.spotify.com/artist/7J3RSw4BFpCcE7KMBMHAAg"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116427,
+      "name": "Hussle",
+      "url": "https://open.spotify.com/track/7ymS4PqJjHvVSKYvqcNNz6"
     },
     {
       "album": {
@@ -9831,6 +9875,28 @@
     },
     {
       "album": {
+        "name": "POWERFUL POETRY",
+        "url": "https://open.spotify.com/album/3Tu04t5KSKVNVfgGd1OAEd"
+      },
+      "artists": [
+        {
+          "name": "Chill 'D' Man",
+          "url": "https://open.spotify.com/artist/74HHus7urY7y0YsbkmqNhS"
+        },
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186496,
+      "name": "POWERFUL POETRY",
+      "url": "https://open.spotify.com/track/7Lugx7CopHvVq3Cpt97ZhJ"
+    },
+    {
+      "album": {
         "name": "PPP",
         "url": "https://open.spotify.com/album/7GhtZTi5wGQlTZtLPbrQ7o"
       },
@@ -10442,6 +10508,28 @@
       "duration_ms": 163384,
       "name": "Reminder",
       "url": "https://open.spotify.com/track/5Vv1E837CiMul7xAM9h5zC"
+    },
+    {
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/61rFSYs8bD0mkeJDSLYJ24"
+      },
+      "artists": [
+        {
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+        },
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193246,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7A0qqJw9rI5bbAttRXMFF4"
     },
     {
       "album": {
@@ -11725,6 +11813,24 @@
     },
     {
       "album": {
+        "name": "STARZ",
+        "url": "https://open.spotify.com/album/3TXRE2cXcgKG8J9FL4pcaZ"
+      },
+      "artists": [
+        {
+          "name": "Letoa",
+          "url": "https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149447,
+      "name": "STARZ",
+      "url": "https://open.spotify.com/track/1CqoOUplAH5sRdTNfPhFLz"
+    },
+    {
+      "album": {
         "name": "Steady",
         "url": "https://open.spotify.com/album/71E26CGhROyl6RCXpathME"
       },
@@ -12572,7 +12678,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 143111,
       "name": "Top",
       "url": "https://open.spotify.com/track/3XriXSvc41mFf0Nt4KBZc5"
@@ -13602,6 +13708,28 @@
       "duration_ms": 175250,
       "name": "WEH!",
       "url": "https://open.spotify.com/track/2qiHk1ydm9zXtnIvY9rKXa"
+    },
+    {
+      "album": {
+        "name": "Souths Most Wanted",
+        "url": "https://open.spotify.com/album/5RxqqLZmax9JUDet82iJhR"
+      },
+      "artists": [
+        {
+          "name": "T Breezy",
+          "url": "https://open.spotify.com/artist/1BsZ2phLGWpVR921nKHs4E"
+        },
+        {
+          "name": "Walkerboy",
+          "url": "https://open.spotify.com/artist/6zl9LGhOEuvQOHDwOKvj8r"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176680,
+      "name": "WHAT DO",
+      "url": "https://open.spotify.com/track/6k5rWswrLNxNwMyFkC3Na2"
     },
     {
       "album": {

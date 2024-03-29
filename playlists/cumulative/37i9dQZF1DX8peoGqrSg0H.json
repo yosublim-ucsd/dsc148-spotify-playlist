@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07 T-Pop \u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: GEMINI",
+  "description": "\u0e40\u0e1e\u0e25\u0e07 T-Pop \u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Billkin",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -399,6 +399,28 @@
     },
     {
       "album": {
+        "name": "BOY (Don't You Know)",
+        "url": "https://open.spotify.com/album/4FTEA2LBYfBia22bPhgvId"
+      },
+      "artists": [
+        {
+          "name": "Praesun",
+          "url": "https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7"
+        },
+        {
+          "name": "Ta Worraseth",
+          "url": "https://open.spotify.com/artist/34WJOzrugDHbqouIHKuW4N"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223846,
+      "name": "BOY (Don't You Know)",
+      "url": "https://open.spotify.com/track/6AlPVLHlqTdFV7HYoGWGwi"
+    },
+    {
+      "album": {
         "name": "Boys Like You",
         "url": "https://open.spotify.com/album/1oslIjeU0faXGgimWvmL4l"
       },
@@ -612,7 +634,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 157575,
       "name": "DON'T FALL IN LOVE (feat. PUN)",
       "url": "https://open.spotify.com/track/7JrgdbofUWR1UBHHC5n6u0"
@@ -1297,6 +1319,28 @@
     },
     {
       "album": {
+        "name": "Mr.Sea (feat. LAZYLOXY)",
+        "url": "https://open.spotify.com/album/0k0quJKuMQU2jUPrQTP1sC"
+      },
+      "artists": [
+        {
+          "name": "Tommy Sittichok",
+          "url": "https://open.spotify.com/artist/5Phq9wNCXtNt8b0ZDwuBjF"
+        },
+        {
+          "name": "LAZYLOXY",
+          "url": "https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Mr.Sea (feat. LAZYLOXY)",
+      "url": "https://open.spotify.com/track/4HvqRt04XmIwjOlnPUXm7c"
+    },
+    {
+      "album": {
         "name": "My Angel (The Original Soundtrack \u201dBoyband The Series\u201d)",
         "url": "https://open.spotify.com/album/4w1kRtxK4swO4nagj3sgOd"
       },
@@ -1370,6 +1414,24 @@
       "duration_ms": 188610,
       "name": "MY TIME",
       "url": "https://open.spotify.com/track/20qnGriaje2qZDJvMxUCwJ"
+    },
+    {
+      "album": {
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/2eCpb8KsJzBXFR2mkxiFVi"
+      },
+      "artists": [
+        {
+          "name": "Noeul Nuttarat",
+          "url": "https://open.spotify.com/artist/1FdeO1Hyc2AFlbbq2Lr0hn"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149453,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/5QoTKVSKBAVgo4RM4DyfKU"
     },
     {
       "album": {
@@ -2649,6 +2711,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e19\u0e43\u0e19\u0e43\u0e08 (My Only One)",
+        "url": "https://open.spotify.com/album/1zl24CXqPa80noECuJjxyY"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219166,
+      "name": "\u0e04\u0e19\u0e43\u0e19\u0e43\u0e08 (My Only One)",
+      "url": "https://open.spotify.com/track/05xzhSWVFhGAtLBwEQJJeL"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e40\u0e02\u0e32\u0e14\u0e39\u0e41\u0e25\u0e2d\u0e22\u0e39\u0e48",
         "url": "https://open.spotify.com/album/7uPVwd1sqU67W1sUf9oAQm"
       },
@@ -2956,7 +3036,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 223636,
       "name": "\u0e04\u0e38\u0e22\u0e41\u0e01\u0e49\u0e40\u0e2b\u0e07\u0e32 (MR. LONELY)",
       "url": "https://open.spotify.com/track/2vQjt6vAghkAHa5WObuF2W"
@@ -3614,7 +3694,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 159577,
       "name": "\u0e0b\u0e49\u0e2d\u0e21\u0e01\u0e48\u0e2d\u0e19 (Practice)",
       "url": "https://open.spotify.com/track/6pxIQcL1gzlpGh9JiGHg6V"
@@ -3994,7 +4074,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 180333,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e02\u0e32\u0e44\u0e21\u0e48\u0e14\u0e35 (Back To Me)",
       "url": "https://open.spotify.com/track/76z7LacX96wN87m6sQd4Y6"
@@ -5894,7 +5974,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 220793,
       "name": "\u0e27\u0e31\u0e14\u0e1b\u0e30\u0e2b\u0e25\u0e48\u0e30? (TEST ME)",
       "url": "https://open.spotify.com/track/4m72K740TLVYovBWJmTTt3"
@@ -6086,6 +6166,24 @@
       "duration_ms": 264444,
       "name": "\u0e2a\u0e25\u0e31\u0e01\u0e08\u0e34\u0e15",
       "url": "https://open.spotify.com/track/03Yp2uEOtPGHQ6E9XSjmyv"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21\u0e40\u0e2a\u0e21\u0e2d (Ever-Forever) [Ost. \u0e2b\u0e25\u0e32\u0e19\u0e21\u0e48\u0e32]",
+        "url": "https://open.spotify.com/album/2NLjV6ULahC8NVfjWSlsOv"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221095,
+      "name": "\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21\u0e40\u0e2a\u0e21\u0e2d (Ever-Forever) - Ost. \u0e2b\u0e25\u0e32\u0e19\u0e21\u0e48\u0e32",
+      "url": "https://open.spotify.com/track/5Bs2KbKUeNHM25x8t1DBTF"
     },
     {
       "album": {
@@ -7442,7 +7540,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 199014,
       "name": "\u0e40\u0e25\u0e48\u0e19\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14 (Thoughtless)",
       "url": "https://open.spotify.com/track/60J6AiZZcrbSIGzAJbO7YM"
@@ -7968,6 +8066,24 @@
       "duration_ms": 148505,
       "name": "\u0e41\u0e1f\u0e19\u0e01\u0e31\u0e19 1 Day (One day with you)",
       "url": "https://open.spotify.com/track/4UbwSZD8MYj18GFk25Eyr3"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e1f\u0e19\u0e09\u0e31\u0e19 (Love Ads)",
+        "url": "https://open.spotify.com/album/5XPZJ2Rh52WC9sWuRr3U5U"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172659,
+      "name": "\u0e41\u0e1f\u0e19\u0e09\u0e31\u0e19 (Love Ads)",
+      "url": "https://open.spotify.com/track/7i6avkKQTEF9g69OcNvECT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Freshest of Pakistani discoveries\. Cover \- Aashir Wajahat
 
-714 songs - 1 day 14 hr 35 min
+715 songs - 1 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,8 @@
 | [Jane Kahan](https://open.spotify.com/track/485iCfyFr7S4A9cCXc4aBB) | [Bakhtawar Ghaffar](https://open.spotify.com/artist/6x9brSsOB4jz5GOfThvp8p), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Jane Kahan](https://open.spotify.com/album/15YCbiBByTmTnKKFzRySjJ) | 3:25 | 2023-10-12 | 2023-11-11 |
 | [JANI JANI \- feat\. Alistair Alvin](https://open.spotify.com/track/1XCGFjrxtCMDUbWR7aertX) | [Madlock Gilani](https://open.spotify.com/artist/69QGbimZ7ZZJ9w02ET3kpx), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [JANI JANI \(feat\. Alistair Alvin\)](https://open.spotify.com/album/3OPezImcUAG9eeaW5gGXzb) | 2:06 | 2023-07-01 | 2024-01-05 |
 | [Je Jun](https://open.spotify.com/track/7pRAk3IrK4JGFwp7KqZAot) | [Rakae Jamil](https://open.spotify.com/artist/68ruZNGwS6xFD7IOJYUZIa), [Tun Tun Shah](https://open.spotify.com/artist/5Bsdv5NacH5n4KuZxZ5Adh) | [Je Jun](https://open.spotify.com/album/5XYqCZ3fUWiR2ZKFDR8OqX) | 4:48 | 2022-10-26 | 2022-11-18 |
-| [Je Pata Hunda](https://open.spotify.com/track/4sv3qILxSdEtZUxXb9nu5d) | [Nimra Mehra](https://open.spotify.com/artist/54CllblgtvRRY3etlxRSq2) | [Je Pata Hunda](https://open.spotify.com/album/6eJTlkrbCTnJfoXJTdcLjc) | 2:50 | 2024-01-05 |  |
+| [Je Pata Hunda](https://open.spotify.com/track/4sv3qILxSdEtZUxXb9nu5d) | [Nimra Mehra](https://open.spotify.com/artist/54CllblgtvRRY3etlxRSq2) | [Je Pata Hunda](https://open.spotify.com/album/6eJTlkrbCTnJfoXJTdcLjc) | 2:50 | 2024-01-05 | 2024-03-29 |
+| [Je Pata Hunda](https://open.spotify.com/track/5zQKrGzbELLOzgOner0ejA) | [Nimra Mehra](https://open.spotify.com/artist/54CllblgtvRRY3etlxRSq2) | [Je Pata Hunda](https://open.spotify.com/album/2wWEbbhIzS3V1hajt19Tcg) | 2:50 | 2024-03-19 |  |
 | [Jee Le Zindagi](https://open.spotify.com/track/2dGLf1chjCx1pUltOtPxYd) | [Fazeel Khan](https://open.spotify.com/artist/3530GQmL0oxC219Lphkr1h) | [Jee Le Zindagi](https://open.spotify.com/album/7MMVHPBXzTcZIdnxbVhDH2) | 3:58 | 2022-08-27 | 2023-01-11 |
 | [Jee Raha](https://open.spotify.com/track/5OeXsh9vF0dTopMNsbIshJ) | [Abdul Mutaal](https://open.spotify.com/artist/2kG4yK5bsWlIrx57FdcU45) | [Jee Raha](https://open.spotify.com/album/5YeAkgGUtI1mT3SHv7K3Lb) | 4:21 | 2022-11-30 | 2023-01-11 |
 | [Jeena](https://open.spotify.com/track/5oPD9odR2lGRZaowzaFj3P) | [Boss Menn](https://open.spotify.com/artist/6l3Cv46bf92QuX8VaIqdXz), [Faisal Akhtar](https://open.spotify.com/artist/0b3YoxB1caYmzvFgoUXhPR) | [Jeena](https://open.spotify.com/album/5y4ttJAgZgZGFBQZNiBqPM) | 3:19 | 2023-03-21 | 2023-05-06 |

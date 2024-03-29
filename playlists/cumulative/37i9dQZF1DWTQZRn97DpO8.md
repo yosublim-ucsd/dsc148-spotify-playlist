@@ -4,7 +4,7 @@
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Ocevne
 
-128 songs - 6 hr 17 min
+131 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,10 +54,12 @@
 | [Honeymoon](https://open.spotify.com/track/5TkJeNwPnc46axqIAmjI5k) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [rad cartier](https://open.spotify.com/artist/37060l8iXQAWuFo1g3RCQ6) | [Honeymoon](https://open.spotify.com/album/1A01LPGJusfzxrhuJ3JhC2) | 2:22 | 2024-02-01 | 2024-02-23 |
 | [Hot Couture \(ft\. Le Juiice\)](https://open.spotify.com/track/5sLMOCqB3zUMoEobHOSzpE) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y), [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [Hot Couture \(ft\. Le Juiice\)](https://open.spotify.com/album/2PDe64Wjn87QJRXzxKyZQZ) | 2:45 | 2024-01-25 | 2024-03-01 |
 | [HYPNOTIZE](https://open.spotify.com/track/70X9LqPXUPKJgvDYvzk0eJ) | [Sonny Rave](https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy) | [HYPNOTIZE](https://open.spotify.com/album/0mqW7McCu8MwjFAQbqRHRi) | 2:12 | 2024-01-18 |  |
+| [Incompris](https://open.spotify.com/track/1uD6NA6JPrzPY2PSZm0XZO) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Été sans fin](https://open.spotify.com/album/5ya3DUeWCWz2gtftAC3tLH) | 2:56 | 2024-03-28 |  |
 | [J'apaise](https://open.spotify.com/track/3aoGepSHtgHJdQJKomIvgz) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E), [Astrønne](https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN) | [J'apaise](https://open.spotify.com/album/7sjLPJuWjsVNAGSFAGmA2E) | 3:48 | 2023-09-28 | 2024-01-26 |
 | [J'essaie](https://open.spotify.com/track/0fKIZJgjCnOsiiQTJ8FCca) | [Anagramms](https://open.spotify.com/artist/34qei9EEgV4Pvtv1HNGtFL) | [J'essaie](https://open.spotify.com/album/0Dongpn3SfRAb9B5uHTVdX) | 2:45 | 2023-11-30 | 2023-12-22 |
 | [Je me souviens de tout](https://open.spotify.com/track/45I253r1lTUbsOFwHWVe7K) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:27 | 2023-09-28 |  |
 | [Je t'ai cherché](https://open.spotify.com/track/0oncxtG7oIZK34SWHZNe60) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Je t'ai cherché](https://open.spotify.com/album/6oEvFXLoWYTyBTMJoELPKB) | 3:31 | 2023-11-09 | 2024-02-23 |
+| [Juste une nuit](https://open.spotify.com/track/1HhJWZFlb9VJi3V5RCu4lM) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [Juste une nuit](https://open.spotify.com/album/1aosCqTLZRTo9BNLzwmwQI) | 2:41 | 2024-03-28 |  |
 | [Karma](https://open.spotify.com/track/3509Io3FyjSPoCMD1EUelJ) | [Akela](https://open.spotify.com/artist/16tQnVelLYMb0yWHxxXtEt) | [Genesis](https://open.spotify.com/album/0yC6cKV2omFGF9jXCWGIBc) | 2:35 | 2023-09-28 | 2023-10-27 |
 | [L'amour dure 6 ans](https://open.spotify.com/track/704opmBSscvN3R4nstMKCE) | [IZAYA](https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q) | [L'amour dure 6 ans](https://open.spotify.com/album/69XMsbl3gXXkTWkxdUv7Ys) | 2:54 | 2023-09-28 | 2023-10-27 |
 | [L'olivier](https://open.spotify.com/track/34oCxdqZUr1kfSQNYQJWKq) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [L'olivier](https://open.spotify.com/album/0jyKcnwfpw2ZlnooyCWz6o) | 3:23 | 2023-09-28 | 2024-01-12 |
@@ -94,6 +96,7 @@
 | [Photoshop](https://open.spotify.com/track/6zeYQPjyzz82z3wGVzyPzE) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha Venti](https://open.spotify.com/album/3ByHDNYa3Wp3ecUHYOd4ve) | 2:24 | 2024-01-25 |  |
 | [Plus la peine](https://open.spotify.com/track/11okUANe3u6NzVAL2G33So) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Plus la peine](https://open.spotify.com/album/7exJUBfgVVkKFfrnn5eqMZ) | 3:08 | 2023-12-08 | 2024-01-26 |
 | [PRADA's BIRTHDAY \- A COLORS SHOW](https://open.spotify.com/track/6q8GWj1qGBieT4fDcLV1Mo) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [PRADA’S BIRTHDAY \- A COLORS SHOW](https://open.spotify.com/album/1sTBYpKRWhZCIAcX5RjztP) | 3:14 | 2023-09-28 | 2023-10-20 |
+| [PRETTY BABY](https://open.spotify.com/track/1X9w07ZCQU1WZFOnOiD07s) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs), [Gaby](https://open.spotify.com/artist/7LlIOJgT58BCUb5YoMC42w) | [PRETTY BABY](https://open.spotify.com/album/7wQORrQHcS4IhzbFU3LRA6) | 3:14 | 2024-03-28 |  |
 | [Prédatrice](https://open.spotify.com/track/2YUGbE007BGwUEUBWRO5kk) | [Gros Mo](https://open.spotify.com/artist/7r65N4pfWPM7D0zKe86jgk) | [Prédatrice](https://open.spotify.com/album/6wftxblgo2IdoUoVDLzOfj) | 3:12 | 2024-02-22 |  |
 | [Que la nuit](https://open.spotify.com/track/5z2n55eaoZSM7KipCmIHa4) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Que la nuit](https://open.spotify.com/album/389WQhjRH4tDq72Eb7MG94) | 2:39 | 2023-11-09 | 2023-12-01 |
 | [quel type de vibe?](https://open.spotify.com/track/2aAgX2pC17FCFB9TtBKFwn) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [quel type de vibe?](https://open.spotify.com/album/4b71KrH0rd453L1aHPN57T) | 1:56 | 2023-10-12 | 2023-10-20 |
@@ -115,7 +118,7 @@
 | [Sois Pas Pressé](https://open.spotify.com/track/6MC1N4HYZJMKLj0H5deTgR) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [HOUSE OF GROOVE](https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo) | 2:45 | 2023-11-16 | 2024-03-15 |
 | [Soleil](https://open.spotify.com/track/48A49w7J6TefeUX69H737j) | [Macy Lu](https://open.spotify.com/artist/1wEZ7fUt7Mh3ZB38xrYoVB) | [Soleil](https://open.spotify.com/album/63qlum7p2IvPSvfrzXNNMH) | 4:14 | 2023-09-28 | 2023-10-27 |
 | [Sur la rive](https://open.spotify.com/track/01EU33zjVyNNaBK46wfD2X) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp), [Hedges](https://open.spotify.com/artist/4wIqXlUU7ManNDpURytYbJ) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 3:11 | 2023-09-28 | 2024-01-19 |
-| [Surface](https://open.spotify.com/track/6q1V1oYiZsRtenvhdghdgz) | [Ayelya](https://open.spotify.com/artist/0ivvGPySFFiWS9fpWJzc6c) | [Surface](https://open.spotify.com/album/3QAs5l9UklqFIkqTQdbx2l) | 2:59 | 2024-02-29 |  |
+| [Surface](https://open.spotify.com/track/6q1V1oYiZsRtenvhdghdgz) | [Ayelya](https://open.spotify.com/artist/0ivvGPySFFiWS9fpWJzc6c) | [Surface](https://open.spotify.com/album/3QAs5l9UklqFIkqTQdbx2l) | 2:59 | 2024-02-29 | 2024-03-29 |
 | [Sérénade](https://open.spotify.com/track/11gx5jgG7Pm6Y5R2Ba6RDB) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 2:39 | 2023-09-28 | 2024-02-02 |
 | [The Love We Had](https://open.spotify.com/track/4ouj2691rumr0fq3htGx1G) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [The Love We Had](https://open.spotify.com/album/75rAbP2kp7LpcHbFz3uHBj) | 3:06 | 2023-11-30 | 2024-01-19 |
 | [TOMBER](https://open.spotify.com/track/2dd9zGIh8vPvki0zVaNkaV) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [TOMBER](https://open.spotify.com/album/2ihjIrroACvpyiGkrXiZBN) | 1:51 | 2023-09-28 | 2023-11-10 |
@@ -125,7 +128,7 @@
 | [Trop parfait](https://open.spotify.com/track/2c45x4aZmQRPUmRgB0UD6I) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [Trop parfait](https://open.spotify.com/album/2urrKhxLyCvLgCcw2n8qta) | 3:06 | 2023-11-23 | 2024-01-26 |
 | [Tu m'aimes](https://open.spotify.com/track/1tUDGMd4dsqF8cFE3Z7UQq) | [Maheva Ony](https://open.spotify.com/artist/2Qrsf6B7PrwRq27zlCdS49) | [Tu m'aimes](https://open.spotify.com/album/2PpHuRVgWli4YFpDObnmNc) | 2:35 | 2023-09-28 | 2023-11-24 |
 | [Tu mens mal](https://open.spotify.com/track/50NmgRTIoJxkwnGLXhplIG) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Tu mens mal](https://open.spotify.com/album/7xkT6u3xmwFtVoBmaeH8Nh) | 3:46 | 2023-09-28 |  |
-| [Tu sais que](https://open.spotify.com/track/5CvsjxPwSteTgzyuPaCHs7) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Tu sais que](https://open.spotify.com/album/1N6CR2fwPgQ4Yco4002iJN) | 2:40 | 2024-02-01 |  |
+| [Tu sais que](https://open.spotify.com/track/5CvsjxPwSteTgzyuPaCHs7) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Tu sais que](https://open.spotify.com/album/1N6CR2fwPgQ4Yco4002iJN) | 2:40 | 2024-02-01 | 2024-03-29 |
 | [Télécommande](https://open.spotify.com/track/4i9IcJ4T5aHY4xsUaRoS1C) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [Nemir](https://open.spotify.com/artist/5f6nz3iqzrfiUfKOIKvLvd) | [Télécommande](https://open.spotify.com/album/6krz5mD2pn0ZcGsrSidtR9) | 2:55 | 2024-02-22 |  |
 | [Un autre que moi](https://open.spotify.com/track/6mW9sMSGdjjMWLAiiG6uf6) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Blessing](https://open.spotify.com/album/1EqLDQ1zxS2Sz5eCcGIRbJ) | 2:40 | 2023-09-28 | 2024-01-19 |
 | [Une erreur](https://open.spotify.com/track/7rT5EgRLRIAMf867fTHnTc) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [BTLV](https://open.spotify.com/album/0RVI6Nf64FsFvG8yZJ7JNR) | 2:41 | 2023-09-28 | 2023-11-10 |
@@ -134,7 +137,7 @@
 | [VENUS](https://open.spotify.com/track/6pWVce5c6JXqFfl7JfJBnl) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [LONGO MAÏ](https://open.spotify.com/album/1e6H42WI9oJ8rOSYDjrIcf) | 3:03 | 2023-09-28 | 2023-11-17 |
 | [Viano](https://open.spotify.com/track/6BYlMc8prfYvFoqTbIuGQf) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Viano](https://open.spotify.com/album/7dpcQRInh1WFjqcE3Llvtb) | 2:46 | 2023-10-12 | 2024-01-26 |
 | [Violence](https://open.spotify.com/track/5B6u3uSnl7aBwOrwpLxsMJ) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Jusqu'à l'aube](https://open.spotify.com/album/3cuZcv4o0IuNuxPBiq0axn) | 3:08 | 2023-09-28 | 2024-02-02 |
-| [Violence & Poésie](https://open.spotify.com/track/3yyGilBl0qbv0Sp2StCAC1) | [Siyé](https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn) | [Violence & Poésie](https://open.spotify.com/album/1ouOyVJEBm4gRkiWuZsbtv) | 3:25 | 2024-01-25 |  |
+| [Violence & Poésie](https://open.spotify.com/track/3yyGilBl0qbv0Sp2StCAC1) | [Siyé](https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn) | [Violence & Poésie](https://open.spotify.com/album/1ouOyVJEBm4gRkiWuZsbtv) | 3:25 | 2024-01-25 | 2024-03-29 |
 | [Âme soeur \(feat\. Enchantée Julia\)](https://open.spotify.com/track/0IiSb11VIooz2JYGDBFXo8) | [Prince Waly](https://open.spotify.com/artist/4Lc100wJvtsyzNuPICliGy), [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [BO Y Z Vol.2](https://open.spotify.com/album/4tXyRGC1FcO6FXdpFUGfRW) | 3:16 | 2024-01-04 |  |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

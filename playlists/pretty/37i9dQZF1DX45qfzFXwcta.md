@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,282 likes - 120 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,405 likes - 120 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 119 | [landscape 03](https://open.spotify.com/track/3VZp64bbno5bdpxMVhiN92) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [Ambrosía](https://open.spotify.com/album/3Gg0OmG9a16ZH0GcfDDBxz) | 1:54 |
 | 120 | [Tunnels](https://open.spotify.com/track/3vups9HViwfaDeYSzvwo7m) | [Garnishes](https://open.spotify.com/artist/23wVhpOrB0Ui8W5avo9f5N) | [Dream Map](https://open.spotify.com/album/5WMVLS6qiTqE21qQ3HxQpS) | 1:43 |
 
-Snapshot ID: `MCw5YWY0NWM2ZGJhNGQyZDZjNzNiYWVlNTUwNGE1ZGIzZGFjYTAxNTcy`
+Snapshot ID: `MCxlNDVjOThiNzU5OTdmMTMwNGNmYmIzZDAzYTNlODIzODRiYzYyMTBl`

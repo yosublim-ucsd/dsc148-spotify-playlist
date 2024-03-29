@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Amy Gadiaga\. Artwork: Joy Yamusangie.
 
-1,384 songs - 4 day 13 hr 22 min
+1,385 songs - 4 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Coro das meninas](https://open.spotify.com/track/1j3uSY8OujuCI9ewjcjNEa) | [Eixo do Jazz Ensemble](https://open.spotify.com/artist/2Alvq2JXwIr84Q5eD1T7Cg), [Mário Laginha](https://open.spotify.com/artist/4HIXm4z9ioPkIgCjK7EQlZ) | [Eixo do Jazz Ensemble Meets Mário Laginha](https://open.spotify.com/album/4N6GJRwFB6xoMP0rT5stWl) | 8:02 | 2022-11-09 | 2023-02-02 |
 | [Corridue](https://open.spotify.com/track/1qgaNwx2A6vihmUY97ELup) | [Stan van Dijk](https://open.spotify.com/artist/25GV3gaaXXUYzESF1TiNFS) | [Corridue](https://open.spotify.com/album/3C6tGMTruV3e6wABuGS2pt) | 2:40 | 2023-04-26 | 2023-06-29 |
 | [Cosmic Game](https://open.spotify.com/track/2fganHOSc44suBUqdJnQnj) | [AFØNK](https://open.spotify.com/artist/4VB29du3XEqCOhcLzWi4LE), [Moray Pringle](https://open.spotify.com/artist/2XxpV0Zg0H0BZWCxgZQZKW), [Lorenzo Ceci](https://open.spotify.com/artist/7o8migpxnky7QOsNC81fCM) | [Cosmic Game](https://open.spotify.com/album/6UzxeO0cnwuDBYWhKrPG5e) | 3:27 | 2023-10-11 | 2023-12-09 |
+| [Cosmic Traveler](https://open.spotify.com/track/4EqND1UdBuVqDnuzXw5J11) | [jazztek](https://open.spotify.com/artist/4wr8nT1OgCfze3mGssFJoD) | [Cosmic Traveler](https://open.spotify.com/album/7onrqJyZS6ymOxrwNbgivt) | 2:59 | 2024-03-27 |  |
 | [Could It Be You](https://open.spotify.com/track/0PNtB5N0hHE7knEiMCZece) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2) | [Could It Be You](https://open.spotify.com/album/7FhxBBsH6bRRCg9BbHfhUs) | 3:19 | 2022-02-16 | 2022-03-17 |
 | [Count Yer Pace \(feat\. Kemani Anderson\)](https://open.spotify.com/track/2T0hcwsOrlt2lFiWoY0mpT) | [Werkha](https://open.spotify.com/artist/5Mxf4advIPTDdAYqbJZBS0), [Kemani Anderson](https://open.spotify.com/artist/1Ab3viBuyjYajaG82vcMID) | [All Werk Is Play](https://open.spotify.com/album/6B90X6Q8k7gL9EIwuRCgW6) | 4:36 | 2022-05-11 | 2022-06-08 |
 | [counterfeit \- Radio Edit](https://open.spotify.com/track/4eGg1a6NbPS7Z03viLJtmr) | [FLOCKS](https://open.spotify.com/artist/3kK43vMqAED76AbsEzQssM) | [counterfeit](https://open.spotify.com/album/4OpEnRSMq0mvDftGP5QIE5) | 3:10 | 2022-06-15 | 2022-07-14 |

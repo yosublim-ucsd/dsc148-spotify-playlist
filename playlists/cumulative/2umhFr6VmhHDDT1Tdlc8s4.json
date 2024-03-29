@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Valentine (Demos)",
+        "url": "https://open.spotify.com/album/2rppdlwdpcz5FUUK14rvjW"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216280,
+      "name": "Adore You - Demo",
+      "url": "https://open.spotify.com/track/09MeKXC36yLBv5liEwRRel"
+    },
+    {
+      "album": {
         "name": "Talking Quietly of Anything With You",
         "url": "https://open.spotify.com/album/65uA55viVzKnJ3veAi180n"
       },

@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-387 songs - 19 hr 36 min
+389 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Je Moeder Heet Henk](https://open.spotify.com/track/4Ad0exLo9eeBUa380xCUsc) | [Jan Henk](https://open.spotify.com/artist/0OaG9oBiozKOxBICtrwZ1i) | [Je Moeder Heet Henk](https://open.spotify.com/album/2XSzITGoBapz1wiX3lbQmq) | 1:23 | 2023-08-31 | 2023-09-08 |
 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 | 2023-05-10 | 2023-05-24 |
 | [Jouw Liefste Wens](https://open.spotify.com/track/75KLtwkL3536HI37ko5A1c) | [De Paladijns](https://open.spotify.com/artist/6hkxtLpVtaKSHJ0Oa8NanA) | [Het Beste Van: De Paladijns](https://open.spotify.com/album/7m9P64LLeRpFAObUwWrHhj) | 3:06 | 2023-04-18 | 2023-09-07 |
+| [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-03-28 |  |
 | [Jump Around](https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\)](https://open.spotify.com/album/0hWY4eSi2bZ8tWplgjO0ph) | 3:34 | 2023-04-14 | 2023-07-05 |
 | [Just Dance](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:01 | 2023-02-23 | 2023-03-28 |
 | [Kakkerlak Met Nagellak](https://open.spotify.com/track/0drZWSUbgDvb7vS9cnNhOU) | [Michella Kox](https://open.spotify.com/artist/4XWSfTxs3oLrtq2yqpmcHU) | [Kakkerlak Met Nagellak](https://open.spotify.com/album/6hmC6NuXWwQjdQYtY4PmLf) | 1:55 | 2023-04-29 | 2023-09-01 |
@@ -359,6 +360,7 @@
 | [Toverdrank](https://open.spotify.com/track/4qidbujyhAzF3C3GdxjeN5) | [BIBI](https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi) | [Toverdrank](https://open.spotify.com/album/1vPQRObyL3AFozBuHiUggb) | 2:20 | 2023-09-04 | 2023-09-14 |
 | [Tragedy](https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Spirits Having Flown](https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm) | 5:03 | 2024-01-31 | 2024-02-27 |
 | [Trainingspak](https://open.spotify.com/track/62bNZie9JmywI2z8AAEHeL) | [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa) | [Trainingspak](https://open.spotify.com/album/5BillhOrRDiEiHDA9LIQrS) | 2:17 | 2023-05-24 | 2024-01-07 |
+| [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/track/54seQV7MCcppBrznALCdlT) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY) | 6:30 | 2024-03-28 |  |
 | [Tumblr Girls \(feat\. Christoph Andersson\)](https://open.spotify.com/track/4Fv6wNYUixnYkj3Dgfrls8) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [These Things Happen](https://open.spotify.com/album/6wDc63NhKy2PyXdbhkRmrl) | 4:15 | 2024-03-07 |  |
 | [Twee Motten](https://open.spotify.com/track/5ttRhxHIw2xddeqtlcwWzs) | [Dorus](https://open.spotify.com/artist/1pXwedNJp8Le9pKUCzr9pA) | [De singles: A & B Kanten 1956\-1969](https://open.spotify.com/album/3HrjrKXZQ8L9w42lQomn3C) | 3:06 | 2023-11-29 | 2024-01-04 |
 | [Twee Motten](https://open.spotify.com/track/4pAFPSD6s1QkrZJaQlTzpX) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Twee Motten](https://open.spotify.com/album/6AzX47mpTO8YUaZ7PHt98y) | 2:17 | 2023-12-25 | 2024-02-27 |

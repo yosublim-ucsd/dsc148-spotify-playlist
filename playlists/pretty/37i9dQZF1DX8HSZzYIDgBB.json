@@ -1,12 +1,12 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Jarina De Marco en portada.",
-  "num_followers": 36714,
+  "num_followers": 36720,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGNkY2EyMjlkNDNiNzFjODc2NjAzMjk2MjkxZmJiNDMxYThlOTY2",
+  "snapshot_id": "MCwzYWU1Mjc4MGQ5MWZiMDIyMDlmZDRkOTVmMmU0MmE4ZmZkMWE2MWZj",
   "tracks": [
     {
       "added_at": "2024-02-09 03:12:32",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "Voy Por Ella",
+        "url": "https://open.spotify.com/album/7lOmrwEBJaJ0Agg5IIZBVY"
+      },
+      "artists": [
+        {
+          "name": "Tipa Tipo",
+          "url": "https://open.spotify.com/artist/0xfUzLC0QSL3SQLrKoud24"
+        }
+      ],
+      "duration_ms": 216540,
+      "name": "Voy Por Ella",
+      "url": "https://open.spotify.com/track/53E0EchJuqWr7eDLTeiIrw"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "Noest\u00e1saqu\u00ed",
         "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
       },
@@ -1355,34 +1371,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Voy Por Ella",
-        "url": "https://open.spotify.com/album/7lOmrwEBJaJ0Agg5IIZBVY"
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
       },
       "artists": [
         {
-          "name": "Tipa Tipo",
-          "url": "https://open.spotify.com/artist/0xfUzLC0QSL3SQLrKoud24"
-        }
-      ],
-      "duration_ms": 216540,
-      "name": "Voy Por Ella",
-      "url": "https://open.spotify.com/track/53E0EchJuqWr7eDLTeiIrw"
-    },
-    {
-      "added_at": "2023-10-16 17:45:32",
-      "album": {
-        "name": "Caribbean All-Inclusive Luxury",
-        "url": "https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl"
-      },
-      "artists": [
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
         {
-          "name": "Jarina De Marco",
-          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 63488,
-      "name": "Daiquiri",
-      "url": "https://open.spotify.com/track/3zAATyIcE5Mwvi3FuXarcE"
+      "duration_ms": 197733,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
     }
   ],
   "unique_name": "tropic.alt",

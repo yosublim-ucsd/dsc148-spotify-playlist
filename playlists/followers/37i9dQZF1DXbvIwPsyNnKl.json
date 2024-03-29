@@ -1,9 +1,39 @@
 {
-  "2024-03-28": 1109221,
+  "2024-03-29": 1109995,
   "date_first_scraped": "2023-09-23",
   "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Juan Caoile, Kyleswish, Jawz",
   "name": "Kalye Hip-Hop",
   "tracks": [
+    {
+      "album": {
+        "name": "$tr33t$",
+        "url": "https://open.spotify.com/album/6EwBlz4PQtfzko9D8ibO0E"
+      },
+      "artists": [
+        {
+          "name": "Just Hush",
+          "url": "https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF"
+        },
+        {
+          "name": "Third Flo'",
+          "url": "https://open.spotify.com/artist/4oq3ZPun2GUPkUBo8BzuTW"
+        },
+        {
+          "name": "Toney Chrome",
+          "url": "https://open.spotify.com/artist/07umKW3OWa1Kul8FDGgokH"
+        },
+        {
+          "name": "Jo$h Papers",
+          "url": "https://open.spotify.com/artist/2jYpMImUc829yIVfP0azJV"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237660,
+      "name": "$tr33t$",
+      "url": "https://open.spotify.com/track/1Qksl8s59ywSHo1exDdEqd"
+    },
     {
       "album": {
         "name": "'97 Jay-Z",
@@ -113,7 +143,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 270198,
       "name": "911",
       "url": "https://open.spotify.com/track/4HB03HtBWjgkDjbpGY50vW"
@@ -135,6 +165,32 @@
       "duration_ms": 178013,
       "name": "Aba Ginoong Napupuno Ng Swag",
       "url": "https://open.spotify.com/track/7jQ3w6hGY8mdf87wLMAhC7"
+    },
+    {
+      "album": {
+        "name": "Acid Na Blue (feat. Guddhist and Kiyo)",
+        "url": "https://open.spotify.com/album/1Ezj5Dji5bKfEDbW0Qd5jG"
+      },
+      "artists": [
+        {
+          "name": "Jrldm",
+          "url": "https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB"
+        },
+        {
+          "name": "Guddhist",
+          "url": "https://open.spotify.com/artist/1kBeFZ3qUQxTi2H3OuECQQ"
+        },
+        {
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Acid Na Blue (feat. Guddhist and Kiyo)",
+      "url": "https://open.spotify.com/track/58RO6TJK7JSXkMV9HTuywS"
     },
     {
       "album": {
@@ -223,6 +279,28 @@
       "duration_ms": 217297,
       "name": "Aminin",
       "url": "https://open.spotify.com/track/58Y3alAZ4Z2zJGFJiyT9CX"
+    },
+    {
+      "album": {
+        "name": "Trifecta",
+        "url": "https://open.spotify.com/album/5NAUTZ43wAdqA346UPOEza"
+      },
+      "artists": [
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        },
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159087,
+      "name": "Angas",
+      "url": "https://open.spotify.com/track/3IIGy47BCYha6zZ3sto7Vl"
     },
     {
       "album": {
@@ -1466,6 +1544,24 @@
     },
     {
       "album": {
+        "name": "LOW",
+        "url": "https://open.spotify.com/album/6GudVvbJ370hfdYFDj97G9"
+      },
+      "artists": [
+        {
+          "name": "ALLMO$T",
+          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297678,
+      "name": "LOW",
+      "url": "https://open.spotify.com/track/0WXKTXf2dX28zbpaozHcg7"
+    },
+    {
+      "album": {
         "name": "Lulong",
         "url": "https://open.spotify.com/album/6zKXgWsUwDHFPfkna0yNeX"
       },
@@ -1477,7 +1573,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 227555,
       "name": "Lulong",
       "url": "https://open.spotify.com/track/2ILq8y45JOaFdMm3IvcAqC"
@@ -2025,7 +2121,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 208000,
       "name": "Playsafe",
       "url": "https://open.spotify.com/track/1Ni0egtEbIUHSFrgJ1AGvq"
@@ -2675,7 +2771,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 179115,
       "name": "WELCOME2DTQ",
       "url": "https://open.spotify.com/track/3gRhGExNITCqVo0mCyqp3m"

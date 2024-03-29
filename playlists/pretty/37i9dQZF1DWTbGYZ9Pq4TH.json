@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 176661,
+  "num_followers": 176670,
   "original_name": "San Valentino 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjQwZTBjZDMwNTI2YmU2YWYzMTM2NzMzYzE5OGUyNGZjODZmY2Fi",
+  "snapshot_id": "MCxlYjZjOGQ5MDkyYmFlYzgwYzU3OWJjOTE2NDJkOGI5ZjQ2ZDU4NTFi",
   "tracks": [
     {
       "added_at": "2024-02-13 14:01:38",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Non Avere Paura",
-        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
-      },
-      "artists": [
-        {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
-        }
-      ],
-      "duration_ms": 247478,
-      "name": "Non Avere Paura",
-      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "111 Centoundici",
         "url": "https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7"
       },
@@ -619,22 +603,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "This Is Elodie",
-        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
+        "name": "Non Avere Paura",
+        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
       },
       "artists": [
         {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
         }
       ],
-      "duration_ms": 177213,
-      "name": "Margarita (con Marracash)",
-      "url": "https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV"
+      "duration_ms": 247478,
+      "name": "Non Avere Paura",
+      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -655,6 +635,26 @@
       "duration_ms": 266746,
       "name": "Gli Ostacoli Del Cuore",
       "url": "https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "This Is Elodie",
+        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Margarita (con Marracash)",
+      "url": "https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Odissea",
-        "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
-      },
-      "artists": [
-        {
-          "name": "Mango",
-          "url": "https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY"
-        }
-      ],
-      "duration_ms": 270003,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "MAX 20",
         "url": "https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 253100,
       "name": "L'universo tranne noi",
       "url": "https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Odissea",
+        "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
+      },
+      "artists": [
+        {
+          "name": "Mango",
+          "url": "https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY"
+        }
+      ],
+      "duration_ms": 270003,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Il giorno dopo (Gli Indimenticabili)",
-        "url": "https://open.spotify.com/album/3EqcpKN1Quc0ihDUDSXyGG"
+        "name": "Diari Aperti",
+        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
       },
       "artists": [
         {
-          "name": "Mia Martini",
-          "url": "https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3"
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
         }
       ],
-      "duration_ms": 283893,
-      "name": "Minuetto",
-      "url": "https://open.spotify.com/track/0jjZh3fHqW2JciT1b19oAN"
+      "duration_ms": 202533,
+      "name": "Se Piovesse Il Tuo Nome",
+      "url": "https://open.spotify.com/track/0FNRyMufs8Ox03TtaoyCjH"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Diari Aperti",
-        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
+        "name": "Il giorno dopo (Gli Indimenticabili)",
+        "url": "https://open.spotify.com/album/3EqcpKN1Quc0ihDUDSXyGG"
       },
       "artists": [
         {
-          "name": "Elisa",
-          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+          "name": "Mia Martini",
+          "url": "https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3"
         }
       ],
-      "duration_ms": 202533,
-      "name": "Se Piovesse Il Tuo Nome",
-      "url": "https://open.spotify.com/track/0FNRyMufs8Ox03TtaoyCjH"
+      "duration_ms": 283893,
+      "name": "Minuetto",
+      "url": "https://open.spotify.com/track/0jjZh3fHqW2JciT1b19oAN"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3IzPzAZrnxl8nBtKh3IxIx"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        },
+        {
+          "name": "Giuliano Sangiorgi",
+          "url": "https://open.spotify.com/artist/4nVlr3WO33XWrBFDwtUlW4"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "Ti Vorrei Sollevare",
+      "url": "https://open.spotify.com/track/4wygbO6TTzMIy745rxcmdT"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "Appena prima di partire",
         "url": "https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 296040,
       "name": "Infinito",
       "url": "https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Heart (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3IzPzAZrnxl8nBtKh3IxIx"
-      },
-      "artists": [
-        {
-          "name": "Elisa",
-          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
-        },
-        {
-          "name": "Giuliano Sangiorgi",
-          "url": "https://open.spotify.com/artist/4nVlr3WO33XWrBFDwtUlW4"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "Ti Vorrei Sollevare",
-      "url": "https://open.spotify.com/track/4wygbO6TTzMIy745rxcmdT"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "S\u00ec (Deluxe)",
-        "url": "https://open.spotify.com/album/68ic1ZsRo0DIodoDYZXcM5"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217224,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/5ITi64nceMr4EgWfqmivd4"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "L'amore \u00e8",
         "url": "https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1"
       },
@@ -1671,6 +1651,22 @@
       "duration_ms": 224840,
       "name": "L'amore \u00e8",
       "url": "https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "L'Anima Vola (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6IWcTSqWt2Xd712WckzTp1"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "duration_ms": 320546,
+      "name": "A Modo Tuo",
+      "url": "https://open.spotify.com/track/3s98WLWw6xgBfibJexdImp"
     }
   ],
   "unique_name": "San Valentino 2024",

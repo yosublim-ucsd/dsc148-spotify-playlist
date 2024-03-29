@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: L\u1ec7 Quy\u00ean",
-  "num_followers": 35777,
+  "num_followers": 35791,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWM4NTQwZWExMzA4YTJiY2ZmMjY1NjNhMGNiOGRjMzE2NGQ0ODdm",
+  "snapshot_id": "MCxlYjYxYTg2N2EzODdiMzgwZTdmYTdlZmZjZjdlMGQxYzBhYWY0NjFl",
   "tracks": [
     {
       "added_at": "2024-03-12 05:56:26",
@@ -275,18 +275,22 @@
     {
       "added_at": "2024-03-12 05:56:26",
       "album": {
-        "name": "Chuy\u1ec7n Hoa Sim",
-        "url": "https://open.spotify.com/album/36j8GiZT7sD9MiZQs5gGhC"
+        "name": "Li\u00ean Kh\u00fac \u0110\u00eam Bu\u1ed3n T\u1ec9nh L\u1ebb, Nh\u1eefng \u0110\u1ed3i Hoa Sim (Asia 283)",
+        "url": "https://open.spotify.com/album/3dA8DbhPvOiIIgKgGDZXVP"
       },
       "artists": [
         {
-          "name": "Nh\u01b0 Qu\u1ef3nh",
-          "url": "https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw"
+          "name": "Ph\u01b0\u01a1ng H\u1ed3ng Qu\u1ebf",
+          "url": "https://open.spotify.com/artist/2d1ZChw4TkNWrJx6iPleap"
+        },
+        {
+          "name": "Giang T\u1eed",
+          "url": "https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW"
         }
       ],
-      "duration_ms": 339133,
-      "name": "Chuy\u1ec7n Hoa Sim",
-      "url": "https://open.spotify.com/track/65eMfaSRU0P0RuYIK84XXV"
+      "duration_ms": 286440,
+      "name": "Gi\u1ecdt bu\u1ed3n kh\u00f4ng t\u00ean",
+      "url": "https://open.spotify.com/track/6fvfC6QXhLput4cLYtxz6n"
     },
     {
       "added_at": "2024-03-12 05:56:26",
@@ -307,22 +311,18 @@
     {
       "added_at": "2024-03-12 05:56:26",
       "album": {
-        "name": "Li\u00ean Kh\u00fac \u0110\u00eam Bu\u1ed3n T\u1ec9nh L\u1ebb, Nh\u1eefng \u0110\u1ed3i Hoa Sim (Asia 283)",
-        "url": "https://open.spotify.com/album/3dA8DbhPvOiIIgKgGDZXVP"
+        "name": "Chuy\u1ec7n Hoa Sim",
+        "url": "https://open.spotify.com/album/36j8GiZT7sD9MiZQs5gGhC"
       },
       "artists": [
         {
-          "name": "Ph\u01b0\u01a1ng H\u1ed3ng Qu\u1ebf",
-          "url": "https://open.spotify.com/artist/2d1ZChw4TkNWrJx6iPleap"
-        },
-        {
-          "name": "Giang T\u1eed",
-          "url": "https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW"
+          "name": "Nh\u01b0 Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw"
         }
       ],
-      "duration_ms": 286440,
-      "name": "Gi\u1ecdt bu\u1ed3n kh\u00f4ng t\u00ean",
-      "url": "https://open.spotify.com/track/6fvfC6QXhLput4cLYtxz6n"
+      "duration_ms": 339133,
+      "name": "Chuy\u1ec7n Hoa Sim",
+      "url": "https://open.spotify.com/track/65eMfaSRU0P0RuYIK84XXV"
     },
     {
       "added_at": "2024-03-12 05:56:26",

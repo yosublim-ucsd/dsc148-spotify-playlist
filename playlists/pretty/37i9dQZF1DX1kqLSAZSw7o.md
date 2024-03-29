@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kqLSAZSw7o.md) - [plain]
 
 ### [Lagu Raya](https://open.spotify.com/playlist/37i9dQZF1DX1kqLSAZSw7o)
 
-> Koleksi Lagu Idul Fitri yang populer dan segar.
+> Lagu Raya yang kekal popular.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,671 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,068 likes - 74 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kqLSAZSw7o.md) - [plain]
 | 71 | [Di Pagi Aidilfitri](https://open.spotify.com/track/4zqQVcUEhm8770phdLyQHi) | [Rosemaria](https://open.spotify.com/artist/5JbqpFKdKkvLtnhGLhKsJb) | [Best Hit Nostalgia Hari Raya Aidilfitri Koleksi 30 Lagu Hit Nostalgia Hari Raya](https://open.spotify.com/album/3embNvDHnZxOrOHhHF2ubx) | 3:41 |
 | 72 | [Bergema Takbir Di Pagi Raya](https://open.spotify.com/track/7kwm1IWBBF2HVrS27sUxtS) | [ForUToC](https://open.spotify.com/artist/2zfuD25YsNhu8FTa07Rtzy) | [Menjelang Syawal](https://open.spotify.com/album/2VA7gBn9msAZBpFeAOkyaW) | 4:34 |
 | 73 | [Di Lebaran Yang Ini](https://open.spotify.com/track/7Di6RNAGgNexFkbHwDXu2x) | [Indah Ruhaila](https://open.spotify.com/artist/2ux93kXFgD78SLU91lqrrI) | [Seleksi Lagu \- Lagu Terbaik Hari Raya Aidilfitri](https://open.spotify.com/album/4LOumPEs59vXxiOghJQNPe) | 5:12 |
-| 74 | [Aidilfitri](https://open.spotify.com/track/1unEPNtpcl8NuSSX7n1eSL) | [Sanisah Huri](https://open.spotify.com/artist/57uWnv67tvDbc2QIXt1L62) | [Best Hit Nostalgia Hari Raya Aidilfitri Koleksi 30 Lagu Hit Nostalgia Hari Raya](https://open.spotify.com/album/3embNvDHnZxOrOHhHF2ubx) | 3:40 |
-| 75 | [Rindu Di Aidilfitri](https://open.spotify.com/track/0dW3AaWcoVC4upMqX2HT8k) | [Ajai](https://open.spotify.com/artist/1mms4GLaDr9K3H1ujMlMxN) | [Maafkan](https://open.spotify.com/album/5JSWvD1FdvRoRYbi9EkmHb) | 4:41 |
+| 74 | [Rindu Di Aidilfitri](https://open.spotify.com/track/0dW3AaWcoVC4upMqX2HT8k) | [Ajai](https://open.spotify.com/artist/1mms4GLaDr9K3H1ujMlMxN) | [Maafkan](https://open.spotify.com/album/5JSWvD1FdvRoRYbi9EkmHb) | 4:41 |
 
-Snapshot ID: `MCxkOGJjZTUyNzVmMDY1NDU0N2E2ODViOGYxNDA3M2JhNTBlZmQxZTNi`
+Snapshot ID: `MCw2M2EzY2VjN2Y4OGUwMjI4ZjFlY2YzOWQ4NWYyMGYwN2M2M2E1MmRk`

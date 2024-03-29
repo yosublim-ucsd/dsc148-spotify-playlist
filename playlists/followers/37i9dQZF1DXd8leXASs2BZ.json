@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 2166,
+  "2024-03-29": 2175,
   "date_first_scraped": "2023-12-09",
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: SugLawd Familiar",
   "name": "+81 Connect FRESH",
@@ -4287,7 +4287,7 @@
     {
       "album": {
         "name": "One Way",
-        "url": "https://open.spotify.com/album/3i0lCdzLcLoZ2GDSg0vPU3"
+        "url": "https://open.spotify.com/album/7D31nyAqGGdfwjn6QfuYtf"
       },
       "artists": [
         {
@@ -4298,6 +4298,24 @@
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 157431,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/0AgswJQHfAQd5jpoYBitji"
+    },
+    {
+      "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/3i0lCdzLcLoZ2GDSg0vPU3"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-28",
       "duration_ms": 157431,
       "name": "One Way",
       "url": "https://open.spotify.com/track/61X4zRkLsIrWKmtRTqFtdQ"
@@ -4753,6 +4771,24 @@
       "duration_ms": 172240,
       "name": "SABOLOW",
       "url": "https://open.spotify.com/track/3iD7ipMkpxFYHUsECdcCYf"
+    },
+    {
+      "album": {
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/3e0VJ3Qnq7KxMcmruMxecx"
+      },
+      "artists": [
+        {
+          "name": "Kaede",
+          "url": "https://open.spotify.com/artist/7ucQZoZtVmqJpOWXdGoViN"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251253,
+      "name": "Sachi",
+      "url": "https://open.spotify.com/track/1h8sD4MeQ2JFoNEN10GBVb"
     },
     {
       "album": {
@@ -5473,6 +5509,36 @@
       "duration_ms": 221538,
       "name": "TETSU",
       "url": "https://open.spotify.com/track/7C56vYddCPWRLR3rAfzFTE"
+    },
+    {
+      "album": {
+        "name": "The dreamer's reward",
+        "url": "https://open.spotify.com/album/6gsz26twt4M8tGx1MtFdYB"
+      },
+      "artists": [
+        {
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/27QgdEsqcHRgVAhy7zWTzw"
+        },
+        {
+          "name": "KAKKY",
+          "url": "https://open.spotify.com/artist/0Ryt5TJOtBvoRwozJDW3sC"
+        },
+        {
+          "name": "Daiki",
+          "url": "https://open.spotify.com/artist/6IhQv1vXucrd3kcngzsUpg"
+        },
+        {
+          "name": "HIBIKI",
+          "url": "https://open.spotify.com/artist/4hUkfseB97lM6qhbcfwERG"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318680,
+      "name": "The dreamer's reward",
+      "url": "https://open.spotify.com/track/0D8roiP0829CL2ZOVuklmy"
     },
     {
       "album": {
@@ -6321,7 +6387,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 318680,
       "name": "\u5922\u898b\u308b\u8005\u306e\u5831\u3044",
       "url": "https://open.spotify.com/track/3uBCLTq1gBL74dyCBLaKWu"
@@ -6339,7 +6405,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 251253,
       "name": "\u5e78",
       "url": "https://open.spotify.com/track/5zRR6GzhLpvUkBlWINQJPF"

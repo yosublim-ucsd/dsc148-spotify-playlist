@@ -3299,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "Vaanil Nila",
+        "url": "https://open.spotify.com/album/1dnXlWoQzKtze8d9Uj6zcJ"
+      },
+      "artists": [
+        {
+          "name": "Anusree Deepak",
+          "url": "https://open.spotify.com/artist/25iCaIN4jpNT7K37yeSTPa"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Vaanil Nila",
+      "url": "https://open.spotify.com/track/2RaJo1HIKjyMjxZYJ2HdME"
+    },
+    {
+      "album": {
         "name": "Vaarkadal",
         "url": "https://open.spotify.com/album/2TYy2MAcm8czR5fXD1Ayxp"
       },

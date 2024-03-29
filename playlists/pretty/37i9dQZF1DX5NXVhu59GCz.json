@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWFjY2ZlOTllYjg2NTAxOTM5ZTBkOTUyZjJiNTFhZDA0NGExYTRj",
+  "snapshot_id": "MCwxNGQ2ODYwYmMzZTY3ZjZjNjk3MmMxYTU4OTBkOWU4MzkzOTAwYWVm",
   "tracks": [
     {
       "added_at": "2018-02-28 19:55:41",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-03-28 19:25:04",
       "album": {
-        "name": "Electric Music For The Mind And Body",
-        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
-      },
-      "artists": [
-        {
-          "name": "Country Joe & The Fish",
-          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Death Sound",
-      "url": "https://open.spotify.com/track/0H0g1bov9Zf2Ebqgod7R9R"
-    },
-    {
-      "added_at": "2022-03-28 19:25:04",
-      "album": {
         "name": "Quicksilver Messenger Service",
         "url": "https://open.spotify.com/album/2jQEpak8oXYb6dh9sCZqqY"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 403533,
       "name": "Gold And Silver",
       "url": "https://open.spotify.com/track/6qwwAbxSYq9MTEIn0UMFNA"
+    },
+    {
+      "added_at": "2022-03-28 19:25:04",
+      "album": {
+        "name": "Electric Music For The Mind And Body",
+        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
+      },
+      "artists": [
+        {
+          "name": "Country Joe & The Fish",
+          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Death Sound",
+      "url": "https://open.spotify.com/track/0H0g1bov9Zf2Ebqgod7R9R"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -403,22 +403,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Power Plant",
-        "url": "https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb"
-      },
-      "artists": [
-        {
-          "name": "The Golden Dawn",
-          "url": "https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx"
-        }
-      ],
-      "duration_ms": 172946,
-      "name": "Starvation",
-      "url": "https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "The History Of Blue Cheer: Good Times Are So Hard To Find",
         "url": "https://open.spotify.com/album/7ecNoSQ9aRZnxAHwTCpVt9"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 198866,
       "name": "Good Times Are So Hard To Find",
       "url": "https://open.spotify.com/track/1RCaB8ZclzAsuw9jRi0SIx"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Power Plant",
+        "url": "https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb"
+      },
+      "artists": [
+        {
+          "name": "The Golden Dawn",
+          "url": "https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx"
+        }
+      ],
+      "duration_ms": 172946,
+      "name": "Starvation",
+      "url": "https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX"
     },
     {
       "added_at": "2022-03-28 19:25:04",

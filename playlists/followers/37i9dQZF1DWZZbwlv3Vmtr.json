@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 437665,
+  "2024-03-29": 437891,
   "date_first_scraped": "2022-04-20",
   "description": "Uptempo instrumental hip hop beats.",
   "name": "Focus Flow",
@@ -451,6 +451,24 @@
       "duration_ms": 152200,
       "name": "After Surf Sandwich",
       "url": "https://open.spotify.com/track/0PMlGvzeLrQ27h8oGyfGMV"
+    },
+    {
+      "album": {
+        "name": "Agata",
+        "url": "https://open.spotify.com/album/401am1vvW0SAIsfqTokvT2"
+      },
+      "artists": [
+        {
+          "name": "Hayde Kole",
+          "url": "https://open.spotify.com/artist/7mSzxAVpwd2cUa2llhsdwd"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Agata",
+      "url": "https://open.spotify.com/track/2Hkv4yCIOCqYBKyTNqrs4f"
     },
     {
       "album": {
@@ -3270,6 +3288,24 @@
     },
     {
       "album": {
+        "name": "Downtain Train Ride",
+        "url": "https://open.spotify.com/album/4w5oUur1wC1vdP6DPb32vr"
+      },
+      "artists": [
+        {
+          "name": "Uneven Cream",
+          "url": "https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120833,
+      "name": "Downtain Train Ride",
+      "url": "https://open.spotify.com/track/2iRY43mifdX7kbKcLuE8N4"
+    },
+    {
+      "album": {
         "name": "Downtime",
         "url": "https://open.spotify.com/album/5pWGzIP2RcutSjYAtsITyM"
       },
@@ -3339,6 +3375,24 @@
       "duration_ms": 143551,
       "name": "dreamality",
       "url": "https://open.spotify.com/track/7kFaQ5hj8WtCHB4fSNnmF8"
+    },
+    {
+      "album": {
+        "name": "dreamer",
+        "url": "https://open.spotify.com/album/4haF6AKOuLLzk36M10qPuJ"
+      },
+      "artists": [
+        {
+          "name": "misty tapes",
+          "url": "https://open.spotify.com/artist/7I09e7RWQg4vV2aGVH3dqO"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124285,
+      "name": "dreamer",
+      "url": "https://open.spotify.com/track/40AmxylqgnEOpZVbcjnDiS"
     },
     {
       "album": {
@@ -3491,7 +3545,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 153599,
       "name": "Drops",
       "url": "https://open.spotify.com/track/4bUsbn32Gk1CQHnykm6gm1"
@@ -5575,7 +5629,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 156838,
       "name": "Heaux",
       "url": "https://open.spotify.com/track/2XF3s6ycUXSJQCVMteiERI"
@@ -9524,6 +9578,24 @@
     },
     {
       "album": {
+        "name": "Nightlie",
+        "url": "https://open.spotify.com/album/0GC1DNI4n7wFxDEEGSpuqC"
+      },
+      "artists": [
+        {
+          "name": "Mos Becka",
+          "url": "https://open.spotify.com/artist/2OlHuqEXZbePEmtsVP9Xlk"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134794,
+      "name": "Nightlie",
+      "url": "https://open.spotify.com/track/1BtS1rydHXYKyGyIrrrfph"
+    },
+    {
+      "album": {
         "name": "No Problem Too Small",
         "url": "https://open.spotify.com/album/3qKy5Uvc5ru23HZ4XYW40d"
       },
@@ -13395,7 +13467,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 137000,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/2G9BBEiDmuFfd2TTFootms"
@@ -16661,7 +16733,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 228345,
       "name": "Wild poetry",
       "url": "https://open.spotify.com/track/1x0ohLWX95zrSrngK2Fa7R"

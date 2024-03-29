@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl?si=\_UdwKKPTRn6ORelUY3c2QQ"> Barry Can't Swim</a>'s favourite tracks\. Updated regularly\. Curated by Barry Can't Swim\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,221 likes - 69 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,257 likes - 69 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 | 68 | [Get Up \(It Doesn't Matter\) \- Antoine Clamaran's Remix](https://open.spotify.com/track/5WMQJVK3PvmmYnkErZJZYf) | [Antoine Clamaran](https://open.spotify.com/artist/2LTa2TleomBhi05k8khxCF), [D\-Plac](https://open.spotify.com/artist/7CJ8qKVwbch7LYnByT6RoB) | [Get Up \(It Doesn’t Matter\)](https://open.spotify.com/album/1tjfXay9CKnCq5bcE6vaJq) | 9:11 |
 | 69 | [Ayo!](https://open.spotify.com/track/56Qy96D9EjCe4f3ejHSKVH) | [Tartan](https://open.spotify.com/artist/7lvnIR0yHM8aWo2lzMuT1P) | [Ayo! / Shoes Off](https://open.spotify.com/album/6AzqoJQlTuFjy6GJbk6kS1) | 4:23 |
 
-Snapshot ID: `MCxmNTRmNmQzZGRjODA3NDMwMWJjMjU2ZDdhMjlkNWNiZjdhMjViYTc0`
+Snapshot ID: `MCxkMTVjYTExNzMyNDc3ZWJhZjUzZWM4OGRhZTNlZDBhNDNjMWQxOTBi`

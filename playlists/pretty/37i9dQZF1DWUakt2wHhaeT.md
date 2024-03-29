@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > Manifest some motivation with Broadway's best "I Want" songs\. Cover: Hamilton
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,042 likes - 65 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,067 likes - 65 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 64 | [When I Get My Name In Lights \- The Boy From Oz/Original Cast Recording/2003](https://open.spotify.com/track/0HOfoZo1MGKE2WP2Sc2er3) | [Peter Allen](https://open.spotify.com/artist/6748v9yNrbb4PPJuvfoMRa), [Mitchel David Federan](https://open.spotify.com/artist/6JT1dxFchCjHrEheFQT8fm), [Beth Fowler](https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV), [Patrick Vaccariello](https://open.spotify.com/artist/4hDUIdyQ6rY8WRf11gMIGz), [Jim Laev](https://open.spotify.com/artist/5CWMGooqjV3KZOPC1AsEEl) | [The Boy From Oz](https://open.spotify.com/album/1ZvlaGPZVUTVE4cfhZJ1Dk) | 2:24 |
 | 65 | [Waiting for Life](https://open.spotify.com/track/0SIBJD3PsOMO1QiS3TI2xm) | [Hailey Kilgore](https://open.spotify.com/artist/19Kv0f8vLqLo54a2h3OAig), [Once On This Island Storytellers](https://open.spotify.com/artist/2Am9K49DTac0Pf0YOa3qwF) | [Once on This Island \(New Broadway Cast Recording\)](https://open.spotify.com/album/6gSo70KxG1aQRLRYvptsEi) | 3:25 |
 
-Snapshot ID: `MCxlOTMxMDAxNWRiYmFiMTc2ZDllYzdlNzkwOGE5M2I0Zjg1OWJlOTc1`
+Snapshot ID: `MCwyZWMyNzcyN2RmMzRjZGM2NDhhNTJjM2UwYzgwYTA5NzU4NDg1MjMx`

@@ -4,7 +4,7 @@
 
 > Our favourite new music, updated monthly by the XL team.
 
-554 songs - 1 day 8 hr 11 min
+555 songs - 1 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Can't Be Unstuck](https://open.spotify.com/track/483ySaIg8WqouHclBXKTXR) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Can't Be Unstuck](https://open.spotify.com/album/2w1IoNFbBgABDyGEA60eX6) | 2:59 | 2023-01-18 | 2023-03-16 |
 | [candy reign \(!\)](https://open.spotify.com/track/35cVkyTqIGkwpg7OhIl5TE) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [candy reign \(!\)](https://open.spotify.com/album/0z0crJtgrHGrqPXX3BitF2) | 2:18 | 2022-10-10 | 2022-12-20 |
 | [candy reign \(!\)](https://open.spotify.com/track/4fX5F00lmUGW1tnM4DHvzd) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [homeless n\*gga pop music](https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA) | 2:18 | 2023-12-07 | 2024-03-22 |
+| [Canopy](https://open.spotify.com/track/0VTWmrljeELeuW2fcpS39H) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Canopy](https://open.spotify.com/album/6a8gfcfPLFQJ87ZMM1FPPB) | 2:31 | 2024-03-28 |  |
 | [Cars](https://open.spotify.com/track/2kH1Fh3liM8S0uzFq4zYAB) | [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Cars](https://open.spotify.com/album/4ib33yCWLwnssbHvL1Hx93) | 3:11 | 2022-09-16 | 2022-10-11 |
 | [Cash Romantic](https://open.spotify.com/track/7ohB7weILWUB5w5iHcpaQG) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Cash Romantic](https://open.spotify.com/album/3HfF5JwfEDokXfW3NvY7Cs) | 4:11 | 2022-09-16 | 2022-10-11 |
 | [Caught Me Running](https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Caught Me Running](https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP) | 3:14 | 2023-05-23 | 2023-10-20 |

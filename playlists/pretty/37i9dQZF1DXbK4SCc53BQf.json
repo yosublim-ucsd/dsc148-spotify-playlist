@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 95301,
+  "num_followers": 95340,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjY1MTI0OTllYjY4MTlmNjc0MDQzOTZkM2MwYTk5OWJhYjZiNzBh",
+  "snapshot_id": "MCw3NmNlNjE1N2Y3MGYwNjk1ODRiZjJjOGRhNWVmM2UwNDZlNmNhM2Mx",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -819,6 +819,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0qSI9KwRdzu1euqI19poAi"
+      },
+      "artists": [
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/3lzyHlwA8eLqDqHZ3FnKJp"
+        }
+      ],
+      "duration_ms": 203187,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2YhJlGNniJbAMbNUWf6iiE"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Desde Mi Alma",
         "url": "https://open.spotify.com/album/1AGbEgukntBYyagzUeuvOD"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 248840,
       "name": "Desde Mi Alma",
       "url": "https://open.spotify.com/track/4CyVYEF7Jd1PFP5TvKic0Z"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Quinto Elemento",
-        "url": "https://open.spotify.com/album/73QDJ8kDJT0SbWQJJab2Zf"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kelly",
-          "url": "https://open.spotify.com/artist/4BYn8aKDAf0keMvw8k28Kb"
-        }
-      ],
-      "duration_ms": 190611,
-      "name": "Va Cae",
-      "url": "https://open.spotify.com/track/6VnM8awfWWcXF37qbU2DHF"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -871,18 +871,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "No Vaya a Ser",
-        "url": "https://open.spotify.com/album/4LUCoUs4hhd16D350FiZ6G"
+        "name": "Quinto Elemento",
+        "url": "https://open.spotify.com/album/73QDJ8kDJT0SbWQJJab2Zf"
       },
       "artists": [
         {
-          "name": "Britt",
-          "url": "https://open.spotify.com/artist/0HwCaUS8htBIGIlRABaZIv"
+          "name": "Ariel Kelly",
+          "url": "https://open.spotify.com/artist/4BYn8aKDAf0keMvw8k28Kb"
         }
       ],
-      "duration_ms": 190800,
-      "name": "No Vaya a Ser",
-      "url": "https://open.spotify.com/track/4cxZYv0KJvw6MNHjuz8tOk"
+      "duration_ms": 190611,
+      "name": "Va Cae",
+      "url": "https://open.spotify.com/track/6VnM8awfWWcXF37qbU2DHF"
     }
   ],
   "unique_name": "Inspiraci\u00f3n Tropical",

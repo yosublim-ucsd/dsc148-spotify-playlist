@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362109,
+      "name": "Akamdinelu",
+      "url": "https://open.spotify.com/track/1w0iBUDtvyfHi3FnSMtlfA"
+    },
+    {
+      "album": {
+        "name": "SATISFIED",
         "url": "https://open.spotify.com/album/6ob1gwzBctp5HnzXhyBH3b"
       },
       "artists": [
@@ -16,7 +34,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 362109,
       "name": "Akamdinelu",
       "url": "https://open.spotify.com/track/6QBCA9NbqdPwTi2IqjGnuY"
@@ -140,7 +158,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 280424,
       "name": "Chinedum",
       "url": "https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp"
@@ -158,7 +176,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 280440,
       "name": "Chinedum",
       "url": "https://open.spotify.com/track/0HusibEdXGcG70s8Oa0gFm"
@@ -864,7 +882,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 246674,
       "name": "Onememma",
       "url": "https://open.spotify.com/track/1AeUQHTbDnBwRqhFqFPZo8"
@@ -881,12 +899,12 @@
         },
         {
           "name": "Chioma Jesus",
-          "url": "https://open.spotify.com/artist/2IFuVXPJGCErObIAp2TBuA"
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
         }
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-21",
+      "date_removed": null,
       "duration_ms": 246674,
       "name": "Onememma (feat. Chioma Jesus)",
       "url": "https://open.spotify.com/track/5B6ckleglIos5782GxMYml"

@@ -2,9 +2,9 @@
 
 ### [Portal](https://open.spotify.com/playlist/37i9dQZF1DWZaNRXtvIrDt)
 
-> a new world of alternative electronic music\. Cover: Moktar
+> a new world of alternative electronic music\. Cover: Sam Alfred
 
-582 songs - 1 day 18 hr 55 min
+586 songs - 1 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Alive](https://open.spotify.com/track/2DYFxnCylg9w08UNLG5qTr) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Alive](https://open.spotify.com/album/1kdJHSLs8tTh6g9FRRNRV5) | 4:30 | 2022-12-08 | 2023-01-27 |
 | [All Away](https://open.spotify.com/track/5NuCPZenjbGUFoU1VaxGLr) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [All Away](https://open.spotify.com/album/2rHpVUUXgtzSLs3c71qYAQ) | 3:40 | 2024-02-16 | 2024-02-23 |
 | [All Good](https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [All Good](https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI) | 4:31 | 2023-02-16 | 2023-04-21 |
+| [All I Need](https://open.spotify.com/track/3fA1ftCkI0rwc2fz09ae29) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM), [IS U IS U](https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX) | [All I Need](https://open.spotify.com/album/2pXo4k3f6Za6rFrpF7B5sI) | 2:58 | 2024-03-28 |  |
 | [All I Need](https://open.spotify.com/track/54DstnlyeCz0Zb2HDtBJaq) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [All I Need](https://open.spotify.com/album/1VsjBsi7QxD87w4dRoBc8h) | 3:35 | 2023-04-20 | 2023-06-02 |
 | [All Like That](https://open.spotify.com/track/5TU66tcM0upCqT3CD69kcg) | [moktar](https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa) | [All Like That](https://open.spotify.com/album/1fXSFy2tIIBxZfahOIWXWt) | 5:07 | 2023-06-01 | 2023-08-25 |
 | [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 | 2023-02-23 | 2023-03-25 |
@@ -151,6 +152,7 @@
 | [DESIRE96](https://open.spotify.com/track/1Isw0eYkTeBUP4uuqLNHZt) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DESIRE96](https://open.spotify.com/album/32qjzjfmDJX4lA6yAPR2fb) | 4:13 | 2023-04-13 | 2023-06-02 |
 | [Devotion](https://open.spotify.com/track/16auMK6Amhx6Uj62JzLpMA) | [Elisa Bee](https://open.spotify.com/artist/3S7HQV1qUD8yBppcFbsBfX) | [Devotion EP](https://open.spotify.com/album/6JlxoikbK1kntRGQrTAMtP) | 5:14 | 2023-10-26 |  |
 | [Did I Stutter](https://open.spotify.com/track/3ehNN1PIg2ozR6RV7qdQ2d) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Did I Stutter](https://open.spotify.com/album/7kvdFNylslSbMH4mNRvTen) | 4:57 | 2023-11-16 |  |
+| [Distance](https://open.spotify.com/track/1x9e1A8PI3Sp0dX55edTCD) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Forward Step](https://open.spotify.com/album/1IIy8SMWVCxqvLTv5u2cFQ) | 5:16 | 2024-03-28 |  |
 | [Disting](https://open.spotify.com/track/7yi4IreykbmhHBUFRtSd7J) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [Second Message](https://open.spotify.com/album/4dLy0cz5saZrAdeBizJVL4) | 5:50 | 2022-12-08 | 2023-01-27 |
 | [Dive](https://open.spotify.com/track/7lbgNGkEVbYkHBHiS0AdiY) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/3LOU5heFdUYrNutyEcHCoB) | 4:18 | 2024-02-16 |  |
 | [Dive](https://open.spotify.com/track/7oZHQbGCwosUHL1vDE5qdI) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y) | 4:18 | 2023-10-05 | 2024-02-17 |
@@ -331,6 +333,7 @@
 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-03-16 | 2023-05-26 |
 | [Magic](https://open.spotify.com/track/02IwpmWcx201kEvq51NA8s) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Magic](https://open.spotify.com/album/3JIB4mCyKaYhxuxyp31vcJ) | 4:53 | 2023-08-17 | 2023-11-10 |
 | [Make Me](https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Make Me](https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku) | 2:31 | 2023-03-27 | 2023-09-08 |
+| [Making The Beast](https://open.spotify.com/track/6p4swbIRUammCrjcpK9G1F) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Making The Beast](https://open.spotify.com/album/3DhI1gzM2t6dzfaMbrPsXq) | 4:56 | 2024-03-28 |  |
 | [MANIC](https://open.spotify.com/track/68M0lk2tYUaQf1TVsEYSXS) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MANIC](https://open.spotify.com/album/7aZzOXdbZOl9A8FL3z1c20) | 2:18 | 2023-08-10 | 2023-09-22 |
 | [Mantra](https://open.spotify.com/track/4iJ1K6IHuGKOjkmhzCK6qN) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [The Planets: Neptune](https://open.spotify.com/album/4LTPMgfqWEOJRI0TQXKBKP) | 5:22 | 2023-04-20 | 2023-07-07 |
 | [Maybe Nevermind \- D.Tiffany's Late Night Mix](https://open.spotify.com/track/5pBNGZoHP5KjABO4ydCGoP) | [Regularfantasy](https://open.spotify.com/artist/4X8qmnrVs1wkdsccBjik8z), [D\. Tiffany](https://open.spotify.com/artist/2LMaARRMktW5O2umBFaQUu) | [New Glow](https://open.spotify.com/album/730jR5hdTM6cZI10fgl7tk) | 8:49 | 2022-12-08 | 2023-01-27 |
@@ -451,6 +454,7 @@
 | [Shaker](https://open.spotify.com/track/46n0wrSJEaMogpv54UWFgi) | [Eden Burns](https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2), [Christopher Tubbs](https://open.spotify.com/artist/5KVsrGWZHHoUpsuw4sXyn9) | [Shaker](https://open.spotify.com/album/6ZVD5KmOrlu3J1i762F3my) | 7:19 | 2023-02-02 | 2023-03-18 |
 | [Shotgun Baby](https://open.spotify.com/track/0q49donmfN5VivjT9utGcq) | [KÉDU CARLÖ](https://open.spotify.com/artist/5FdNimxRznD7ZK6LR5VTJC) | [Shotgun Baby](https://open.spotify.com/album/2Y0QvT0p9gS0wcCmXK28nS) | 5:01 | 2023-04-20 | 2023-06-09 |
 | [Si Te Portas Bonito \- Edit](https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 1:57 | 2023-07-27 | 2023-10-06 |
+| [Silver](https://open.spotify.com/track/5fj3PwaRTnpDQpNWTytTgy) | [2touch](https://open.spotify.com/artist/2RikPlsCIooWbVXeFikhcq) | [Silver](https://open.spotify.com/album/2fbcY2L4Nvg5GqqDoE3trh) | 3:24 | 2024-03-28 |  |
 | [Simply Won't Do \- DJ BORING Remix](https://open.spotify.com/track/6u7QJ9AVsSzkCGJZTzHQtC) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Simply Won't Do \(DJ BORING Remix\)](https://open.spotify.com/album/75keapwOSA8CGgg6mjUXXY) | 4:55 | 2023-10-12 | 2023-11-24 |
 | [Single Breath](https://open.spotify.com/track/5DOMFonuoyCcfnEojseB9B) | [Body Corp](https://open.spotify.com/artist/47kJiM0ksgZti3nuMq1opC) | [BODYHI02](https://open.spotify.com/album/7hZbpy49j5LxG8Q7C8HL4b) | 6:44 | 2023-05-11 | 2023-07-07 |
 | [Sinkhole](https://open.spotify.com/track/7wQDLRHNGvu0ATxjrIy9O9) | [Pearson Sound](https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J) | [Red Sky EP](https://open.spotify.com/album/0iWzQ1vGm5vM8wUn51mcqG) | 4:44 | 2022-12-08 | 2023-01-13 |

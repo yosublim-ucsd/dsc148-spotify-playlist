@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 181,
+  "2024-03-29": 155,
   "date_first_scraped": "2022-07-19",
   "description": "Pi\u00e9rdete en el misterio del bosque y sus poderes sanadores.",
   "name": "Terapia de Bosque",
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "Always Sometimes",
       "url": "https://open.spotify.com/track/0CccKVvnGtDBJHfeb0IdiE"
@@ -3615,7 +3615,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 267937,
       "name": "Pampeano",
       "url": "https://open.spotify.com/track/6TZtSaF9XUFlWBoDwYuqmR"

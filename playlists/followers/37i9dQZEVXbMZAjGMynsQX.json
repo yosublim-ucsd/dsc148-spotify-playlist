@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 148952,
+  "2024-03-29": 148980,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Costa Rica.",
   "name": "Top 50 - Costa Rica",
@@ -1085,7 +1085,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 197114,
       "name": "Alucin",
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
@@ -5247,7 +5247,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 203506,
       "name": "EL BARCO",
       "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
@@ -15129,7 +15129,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 152923,
       "name": "Qu\u00e9 Agon\u00eda",
       "url": "https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m"
@@ -17871,7 +17871,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 87657,
       "name": "The Saga 2",
       "url": "https://open.spotify.com/track/6Ly66VUy2mbnuMAlMQJLJv"

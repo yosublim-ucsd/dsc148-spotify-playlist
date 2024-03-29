@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Ege Can Sal.
 
-1,278 songs - 2 day 22 hr 32 min
+1,279 songs - 2 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [April](https://open.spotify.com/track/7kKHtsQg0WF7u5KxxupNJk) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [April](https://open.spotify.com/album/672CJ3djWeBl22WRpfmhUr) | 3:04 | 2022-04-07 | 2022-08-02 |
 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 | 2022-02-10 | 2022-03-14 |
 | [Asesina](https://open.spotify.com/track/0VKzi6b1pbnfVX3oWSVvC6) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [Asesina](https://open.spotify.com/album/3eqevIkNcddbHXsnnLmLzS) | 3:32 | 2022-03-24 | 2022-04-13 |
-| [Assaji](https://open.spotify.com/track/7tq3hGN4cKQq9BSRJDtaRc) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [nobori](https://open.spotify.com/album/0CoXvmN1olFtTgZTk1txde) | 2:10 | 2024-01-12 |  |
+| [Assaji](https://open.spotify.com/track/7tq3hGN4cKQq9BSRJDtaRc) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [nobori](https://open.spotify.com/album/0CoXvmN1olFtTgZTk1txde) | 2:10 | 2024-01-12 | 2024-03-29 |
 | [Atterrissage](https://open.spotify.com/track/6IXC9VdQ03U13URwDvDi73) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Atterrissage](https://open.spotify.com/album/7JOb07lFRC4z6NsrWd4D82) | 3:33 | 2022-03-24 | 2022-04-19 |
 | [Au royaume de tes mots](https://open.spotify.com/track/4HL0P1iOuZRcAot0pa0zbE) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Lourd et délicat](https://open.spotify.com/album/50Noq1sF7XhHPSqDJv80vQ) | 2:52 | 2022-06-29 | 2022-08-02 |
 | [Autosabotear](https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Autosabotear](https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a) | 3:12 | 2023-10-13 | 2023-10-28 |
@@ -526,6 +526,7 @@
 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2022-02-03 | 2022-09-16 |
 | [Kahaani](https://open.spotify.com/track/6z0iNZXZ7xEwjQf6SXDH8P) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Sabar](https://open.spotify.com/album/44gFbG7mWYc4u0lENFlQSY) | 4:20 | 2022-03-24 | 2022-04-05 |
 | [Kalawakan](https://open.spotify.com/track/4txCTC5NOcDLwUQdFhr9XM) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Kalawakan](https://open.spotify.com/album/6YqebjnXmxFYVvLYMWv2nT) | 4:03 | 2022-03-24 | 2022-08-02 |
+| [Kaleidoscope](https://open.spotify.com/track/0FE88E5srw7mcCheEmMtBr) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII), [GIYA](https://open.spotify.com/artist/7pz3lHXjDHO7BuFQcKM8m8) | [Kaleidoscope](https://open.spotify.com/album/4tMflSstkseynCR2S55Ybg) | 4:20 | 2024-03-22 |  |
 | [Kaleidoscópica](https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:34 | 2022-12-02 | 2023-05-31 |
 | [Karaluchy](https://open.spotify.com/track/0B287gCJFWfvoCMs8ZIO1K) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE) | [Karaluchy](https://open.spotify.com/album/53H8xnW9CjDrAffFVQ6Npt) | 2:21 | 2022-04-07 | 2022-04-18 |
 | [KARMA](https://open.spotify.com/track/7r0SUODm7Wq4yTpT2KKtg8) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Part II \. Chiwoo](https://open.spotify.com/album/3t29EYNXWXk1GQcNxKZATU) | 3:56 | 2022-03-24 | 2022-04-18 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 982,
+  "2024-03-29": 982,
   "date_first_scraped": "2022-05-30",
   "description": "This is Alan Hawkshaw. The essential tracks, all in one playlist.",
   "name": "This Is Alan Hawkshaw",
@@ -1341,7 +1341,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 117228,
       "name": "Lounging at Dave's",
       "url": "https://open.spotify.com/track/5byTzKp9kbMCG5miJ7NJZe"
@@ -1435,7 +1435,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 97106,
       "name": "Meet the Family",
       "url": "https://open.spotify.com/track/3GZdcQO0QSSZGPzN7Gi8uB"
@@ -1533,7 +1533,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 169215,
       "name": "Mystique Voyage",
       "url": "https://open.spotify.com/track/4sgv8AIbpS2ABbxVtiOCCc"
@@ -1987,7 +1987,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 242125,
       "name": "Serengeti",
       "url": "https://open.spotify.com/track/06K7wmMQ4rBkOv3LRTuqiR"

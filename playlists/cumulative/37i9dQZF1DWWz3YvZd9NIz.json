@@ -329,6 +329,28 @@
     },
     {
       "album": {
+        "name": "Arabian Nights",
+        "url": "https://open.spotify.com/album/2uun19aNDXcQxa1Pa827hX"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Bram Boender",
+          "url": "https://open.spotify.com/artist/1VUCpVmcvvkZ9W65lm7Wob"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197013,
+      "name": "Arabian Nights",
+      "url": "https://open.spotify.com/track/4i4KAZzbz2LIf9AoZNqp6t"
+    },
+    {
+      "album": {
         "name": "Around the World (La la La)",
         "url": "https://open.spotify.com/album/6ZMEtCubtaVQp5q458xbgj"
       },
@@ -1867,6 +1889,32 @@
     },
     {
       "album": {
+        "name": "I Won't Let You Down (feat. Miss Geist)",
+        "url": "https://open.spotify.com/album/0YVnmtb2Wgv8Y8Ys2tAB3M"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Miss Geist",
+          "url": "https://open.spotify.com/artist/48ImEzvNyazjXPOsjaYnu2"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168876,
+      "name": "I Won't Let You Down",
+      "url": "https://open.spotify.com/track/6UgApPDQAu7C4DlMKegr07"
+    },
+    {
+      "album": {
         "name": "I'm Good",
         "url": "https://open.spotify.com/album/6Otf86kS5TF6YbFiOBDWRV"
       },
@@ -2138,7 +2186,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 248471,
       "name": "Kids",
       "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
@@ -3076,7 +3124,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 190412,
       "name": "Rhythm Of The Night",
       "url": "https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td"
@@ -3709,6 +3757,32 @@
     },
     {
       "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/37wPy2LW3iLCALxjZFIdDb"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207483,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/3wxbMFOaduop2XFO9gKihO"
+    },
+    {
+      "album": {
         "name": "The Sinner",
         "url": "https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH"
       },
@@ -3878,7 +3952,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 174400,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0"

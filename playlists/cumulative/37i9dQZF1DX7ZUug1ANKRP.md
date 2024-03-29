@@ -2,7 +2,7 @@
 
 ### [Main Stage](https://open.spotify.com/playlist/37i9dQZF1DX7ZUug1ANKRP)
 
-> The biggest Dance hits and the ones to come\. Cover: Gabry Ponte
+> The biggest Dance hits and the ones to come\. Cover: CYRIL
 
 542 songs - 1 day 1 hr 0 min
 

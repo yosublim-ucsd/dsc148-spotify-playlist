@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Valiant",
-  "num_followers": 433226,
+  "num_followers": 433324,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjAwOTFmZWUyOGZiMGU3MThlZjZiOTg5ZDg2MjAyZWQ3NTU3NWI1",
+  "snapshot_id": "MCwzYzhiZjQ3Nzk4MzA4NGQ0YjFkNjEzMWNkMzZmZWEwYjM4YzkwYTJh",
   "tracks": [
     {
       "added_at": "2023-11-17 12:46:59",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Sweat (A La La La La Long)",
+        "url": "https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg"
+      },
+      "artists": [
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Sweat (A La La La La Long)",
+      "url": "https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Operation Stackola",
         "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 253533,
       "name": "I Got 5 On It",
       "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Sweat (A La La La La Long)",
-        "url": "https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg"
-      },
-      "artists": [
-        {
-          "name": "Inner Circle",
-          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Sweat (A La La La La Long)",
-      "url": "https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Wild Out",
-        "url": "https://open.spotify.com/album/5hNuLKXmBAhBH3ViWK6c6D"
-      },
-      "artists": [
-        {
-          "name": "RajahWild",
-          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Wild Out",
-      "url": "https://open.spotify.com/track/6UkGl2XEw0zticxJugwkq5"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Many Moods Of Moses",
         "url": "https://open.spotify.com/album/5BppAD3eDsFuDPolMdcqt2"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 196000,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/4PaV16f3DUo9QxbQMUzMKH"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Wild Out",
+        "url": "https://open.spotify.com/album/5hNuLKXmBAhBH3ViWK6c6D"
+      },
+      "artists": [
+        {
+          "name": "RajahWild",
+          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Wild Out",
+      "url": "https://open.spotify.com/track/6UkGl2XEw0zticxJugwkq5"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -923,18 +923,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Rum Behavior",
-        "url": "https://open.spotify.com/album/4w52ebC95RpUq7dy9zgRgI"
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
       },
       "artists": [
         {
-          "name": "Kraff Gad",
-          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Ms. Thing",
+          "url": "https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen"
         }
       ],
-      "duration_ms": 155919,
-      "name": "Rum Behavior",
-      "url": "https://open.spotify.com/track/6kOCPyMbcQ5Xp3jSWUvTCP"
+      "duration_ms": 255360,
+      "name": "Dude",
+      "url": "https://open.spotify.com/track/746nPV2NXSoxW3imGpG8gk"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -955,22 +959,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
+        "name": "Rum Behavior",
+        "url": "https://open.spotify.com/album/4w52ebC95RpUq7dy9zgRgI"
       },
       "artists": [
         {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        },
-        {
-          "name": "Ms. Thing",
-          "url": "https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen"
+          "name": "Kraff Gad",
+          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
         }
       ],
-      "duration_ms": 255360,
-      "name": "Dude",
-      "url": "https://open.spotify.com/track/746nPV2NXSoxW3imGpG8gk"
+      "duration_ms": 155919,
+      "name": "Rum Behavior",
+      "url": "https://open.spotify.com/track/6kOCPyMbcQ5Xp3jSWUvTCP"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Art And Life",
-        "url": "https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        },
-        {
-          "name": "M\u00fda",
-          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
-        }
-      ],
-      "duration_ms": 257893,
-      "name": "Girls Dem Sugar",
-      "url": "https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Tun Di Ada Way",
         "url": "https://open.spotify.com/album/4pXA95FW7Rzo9UEdsEBvSw"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 155221,
       "name": "Tun Di Ada Way",
       "url": "https://open.spotify.com/track/24TFLvaGCWr9dLaEQHjmhy"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Art And Life",
+        "url": "https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        }
+      ],
+      "duration_ms": 257893,
+      "name": "Girls Dem Sugar",
+      "url": "https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Maestro",
-        "url": "https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Romie",
-      "url": "https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Pon Di Gaza 2.0",
         "url": "https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT"
       },
@@ -1211,22 +1195,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Dunce Cheque",
-        "url": "https://open.spotify.com/album/0hLZJMZkIlh0dSPO39HUWi"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Dunce Cheque",
-      "url": "https://open.spotify.com/track/4ifFhV3uG87Gc00h5Gn3qp"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Brik Pan Brik",
         "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
       },
@@ -1243,6 +1211,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Dunce Cheque",
+        "url": "https://open.spotify.com/album/0hLZJMZkIlh0dSPO39HUWi"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Dunce Cheque",
+      "url": "https://open.spotify.com/track/4ifFhV3uG87Gc00h5Gn3qp"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Big Deal",
         "url": "https://open.spotify.com/album/6asuHZdgBoSxKEdVZ9xQj4"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 202626,
       "name": "Cheaters Prayer",
       "url": "https://open.spotify.com/track/0antMnmr4befD0U81xPyG7"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Maestro",
+        "url": "https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Romie",
+      "url": "https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Collie Buddz",
-        "url": "https://open.spotify.com/album/2BGWnHTib774X9f7RPoato"
-      },
-      "artists": [
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 221506,
-      "name": "Come Around",
-      "url": "https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Dancehall Hero Raw: Deluxe",
         "url": "https://open.spotify.com/album/3XROPn9zW3o0RnwkZCCEbs"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 137021,
       "name": "Bicycle",
       "url": "https://open.spotify.com/track/1jUuRNEIHITr1xecjeG5So"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Collie Buddz",
+        "url": "https://open.spotify.com/album/2BGWnHTib774X9f7RPoato"
+      },
+      "artists": [
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 221506,
+      "name": "Come Around",
+      "url": "https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj"
     },
     {
       "added_at": "2023-11-17 12:46:59",

@@ -2603,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "Popolari",
+        "url": "https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139165,
+      "name": "Outro (Non Piango Pi\u00f9)",
+      "url": "https://open.spotify.com/track/05FqJW1j1cIb04S7iDDTBn"
+    },
+    {
+      "album": {
         "name": "MULA",
         "url": "https://open.spotify.com/album/3eDMLC0gVgI6K1O9oMc686"
       },

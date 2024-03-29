@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 
 > The best of Brazilian House\. Photo: Meca
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,068 likes - 71 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,070 likes - 71 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 | 24 | [Silverstone](https://open.spotify.com/track/6K3Gfbn3KK6lxSpwPN1jK0) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Odaya](https://open.spotify.com/artist/3su3dTqf9eYWR9Z9OwvZ8z) | [Silverstone](https://open.spotify.com/album/6TfU6xhKT4I7ptc5qeiG48) | 4:42 |
 | 25 | [Mind Girl](https://open.spotify.com/track/3llBeIDq8E6Zd3x87xMMzW) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Mind Girl](https://open.spotify.com/album/7DVYOA8UK7VWHMv9w3fKRw) | 3:15 |
 | 26 | [Swarm](https://open.spotify.com/track/55ojw2RLZaaUI3eVBOhR2z) | [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Sarava](https://open.spotify.com/album/32hf6dpv1rxU5OcFtsg9R8) | 3:45 |
-| 27 | [Brisa](https://open.spotify.com/track/1LvG5zrLHfYziFPjaNGpyw) | [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Jéssica Gaspar](https://open.spotify.com/artist/6ungwDo99f5ZK7aNb2UTip) | [Brisa](https://open.spotify.com/album/4Fyza19j2d7Yb3aRICfX1q) | 5:33 |
+| 27 | [Brisa](https://open.spotify.com/track/1LvG5zrLHfYziFPjaNGpyw) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Jéssica Gaspar](https://open.spotify.com/artist/6ungwDo99f5ZK7aNb2UTip) | [Brisa](https://open.spotify.com/album/4Fyza19j2d7Yb3aRICfX1q) | 5:33 |
 | 28 | [Don Billy](https://open.spotify.com/track/2SNo3iAEEBQfv3lWDU5MBg) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1) | [Don Billy](https://open.spotify.com/album/1OJSSfAoCY32OAOyr0dupE) | 3:25 |
 | 29 | [LO QUE SOY](https://open.spotify.com/track/4uQHyvzFx0vXdAeHUm7ist) | [BUENO](https://open.spotify.com/artist/6Q7Te0tazncv3sZoqOEqBh) | [LO QUE SOY](https://open.spotify.com/album/3e4Ngl6nMTk9EI98ZdR9Je) | 2:54 |
 | 30 | [Lollipop](https://open.spotify.com/track/2Pk3nfDwGDFGNvW6VKqLIP) | [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Lollipop](https://open.spotify.com/album/5ObQAuIUluz1f1lNyGnkNE) | 1:53 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 | 54 | [Bad Intention](https://open.spotify.com/track/145YdK7lQGBkjugrN1oxpj) | [Pirate Snake](https://open.spotify.com/artist/6GC33IJFo0PDw5bsazEzpj), [3Beat](https://open.spotify.com/artist/6GygHIe8zmVX42gMgFQ3z8) | [Bad Intention](https://open.spotify.com/album/5IZv5Udw5vuqezSe87X0zG) | 2:50 |
 | 55 | [Lights](https://open.spotify.com/track/2Zz9qoOFvazjM2Y9rReBvM) | [Hugo Doche](https://open.spotify.com/artist/2JejalV9S2tSy4uk3o3aiv) | [Lights](https://open.spotify.com/album/2gvvd7ICEH4iSKiPXGz3Wr) | 3:56 |
 | 56 | [There Was Heaven](https://open.spotify.com/track/0hrOwGPRbgdatrxurTEf0r) | [HNQO](https://open.spotify.com/artist/6pkEHKolF0GKjOdbbIEuUg) | [There Was Heaven](https://open.spotify.com/album/2Yq99y3KW6SWkEcnAJHAxA) | 5:37 |
-| 57 | [Banho de Folhas \- Maz Remix](https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Banho de Folhas \(Maz Remix\)](https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O) | 3:35 |
+| 57 | [Banho de Folhas \- Maz Remix](https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Banho de Folhas \(Maz Remix\)](https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O) | 3:35 |
 | 58 | [Power Of Love \- Analu Andrade Remix](https://open.spotify.com/track/1j1FHxy8rSd2Z27oHM26XO) | [Analu Andrade](https://open.spotify.com/artist/6kbz0Cjs3FsX841XRgNVfW), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Power Of Love \(Analu Andrade Remix\)](https://open.spotify.com/album/0vDKN37Cz0PWGz5NwBVbQD) | 5:27 |
 | 59 | [Cuando Vengas](https://open.spotify.com/track/1l0aHFk8ABCVRTshocDReQ) | [Blue Man](https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI) | [Cuando Vengas](https://open.spotify.com/album/1fR6tN5tfSC8r2Zmux1LGz) | 2:15 |
 | 60 | [House Baby](https://open.spotify.com/track/2n7BLpFTnoVHkcyhljDZQ7) | [Dopelerz](https://open.spotify.com/artist/7vVYsm8yfMKCaXp2nwPIL5) | [House Baby](https://open.spotify.com/album/7cIxKD6uJzGXnZ9Ho4ZN5b) | 4:58 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 | 70 | [Macaw](https://open.spotify.com/track/3IYIYvGLrVkeIcp2pSwNG2) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ) | [Macaw](https://open.spotify.com/album/21vjXg1CCyd4LCZZjZ5k2n) | 6:00 |
 | 71 | [Nosso Espaço](https://open.spotify.com/track/5CRAaaj8HsuQ9gUXFE4RqR) | [Ella De Vuono](https://open.spotify.com/artist/2PRUReyWWiCkqNISBal5sn), [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Nossa Gangue](https://open.spotify.com/album/4Hc0j4uyuMGefL33kkYmn6) | 6:16 |
 
-Snapshot ID: `MCxjZjg4Y2ZlMzRhOGY5NjdhNTFkNWUwNmJkYjI1ZjAxMDkwNTRhYjE1`
+Snapshot ID: `MCwzMTYxMWExYjZlNmIxMjZhNmQxNThjZDM4ZjllMjUyMDA4Y2ZkYzgw`

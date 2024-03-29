@@ -71891,6 +71891,24 @@
     },
     {
       "album": {
+        "name": "VERDE MENTA",
+        "url": "https://open.spotify.com/album/1wL9acTyAdPs7sEJUpQ67j"
+      },
+      "artists": [
+        {
+          "name": "Luis Aguirre",
+          "url": "https://open.spotify.com/artist/2GgVRZoZbteN3wXsqJ7uEB"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182735,
+      "name": "VERDE MENTA",
+      "url": "https://open.spotify.com/track/4tyByybfRMVugNVJ3Qw1WT"
+    },
+    {
+      "album": {
         "name": "Sobrenatural",
         "url": "https://open.spotify.com/album/0XoqQ5cb29AAJ8OhIt4b41"
       },

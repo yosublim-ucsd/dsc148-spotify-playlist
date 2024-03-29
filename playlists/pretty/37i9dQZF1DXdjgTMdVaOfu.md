@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjgTMdVaOfu.md) - [plain]
 
 > Music from "The Apothecary Diaries" /「薬屋のひとりごと」の楽曲を1つのプレイリストで。©日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,361 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,582 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjgTMdVaOfu.md) - [plain]
 | 49 | [Spring Peony](https://open.spotify.com/track/0E2XxJPZIMX3F8jGwhG94Y) | [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 1:46 |
 | 50 | [The Food Tasting Girl](https://open.spotify.com/track/1H8XPKWpYk1aMIVvzsR2aG) | [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 2:01 |
 
-Snapshot ID: `MCxjYTRkMmJlYzU1NThkYzk3MTk3NGQ3MGE4ZGQ3ZmQ4YjdhMDEzZTRl`
+Snapshot ID: `MCwxMTFlOTYwMDYyZTc4OTU4MWNlNWRlOTE1MjIxNzY3NGE4MGIxNTBi`

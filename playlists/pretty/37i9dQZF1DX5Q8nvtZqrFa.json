@@ -1,12 +1,12 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 18388,
+  "num_followers": 18411,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWJmYmJkODU1NWI1ZTljMzYyMWQyNmJmOWNhZDA1MjhjNGMzZTQ1",
+  "snapshot_id": "MCw2OWQ5ZDI1ZWE4Y2JkOTNiNWVjOGQwYjU2NmI2YzUyNWJmYmZkODFk",
   "tracks": [
     {
       "added_at": "2024-03-19 10:28:30",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-03-19 10:28:30",
       "album": {
-        "name": "\u97f3\u697d",
-        "url": "https://open.spotify.com/album/2CBL0ep4HNPCrCkQGhWJ1M"
-      },
-      "artists": [
-        {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
-        }
-      ],
-      "duration_ms": 265720,
-      "name": "\u5207\u671b",
-      "url": "https://open.spotify.com/track/7vjOo9fJElFH24nXraNRYK"
-    },
-    {
-      "added_at": "2024-03-19 10:28:30",
-      "album": {
         "name": "\u30a4\u30de",
         "url": "https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 227662,
       "name": "\u30b9\u30bf\u30fc\u30de\u30a4\u30f3",
       "url": "https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy"
+    },
+    {
+      "added_at": "2024-03-19 10:28:30",
+      "album": {
+        "name": "\u97f3\u697d",
+        "url": "https://open.spotify.com/album/2CBL0ep4HNPCrCkQGhWJ1M"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "duration_ms": 265720,
+      "name": "\u5207\u671b",
+      "url": "https://open.spotify.com/track/7vjOo9fJElFH24nXraNRYK"
     },
     {
       "added_at": "2024-03-19 10:28:30",

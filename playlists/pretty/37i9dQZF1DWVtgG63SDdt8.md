@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:6qk2W9h3eE5UtPJlIatzsY">Meredith Andrews/a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,553 likes - 99 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,625 likes - 99 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Eagles](https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Eagles](https://open.spotify.com/album/2huKs1pju9CSInbq9WFAiW) | 2:26 |
 | 99 | [IJWKY](https://open.spotify.com/track/2uicNrocSQorEbXFoJFwaZ) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [IJWKY](https://open.spotify.com/album/2t34sAEr0XKDjAbsNblaUy) | 3:05 |
 
-Snapshot ID: `MCxmMjYwNDA3OTNmZjNiOTUxZGEyNTAxYjlmZDVlMjIxZTE2MmMwMTdm`
+Snapshot ID: `MCxkMWRjMWY3NjA0ZGM3MjQ3YzM4NzNmZmY0Mzk3NjI0ZGE4Nzk5YWU3`

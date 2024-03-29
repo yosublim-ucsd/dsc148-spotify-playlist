@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Adrianne Lenker
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,232 likes - 85 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,228 likes - 85 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 84 | [Vibrator](https://open.spotify.com/track/6szoQCfVR4bgxX4tWdKbB4) | [The Baby Seals](https://open.spotify.com/artist/6dPxlBjTjehWM4VRwl2bmw) | [Vibrator](https://open.spotify.com/album/5iven2QN4UB6iSYvlOdS1h) | 2:54 |
 | 85 | [Here To Dance](https://open.spotify.com/track/2HsdZX6NDNgI7kx5HaOWYr) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Here To Dance](https://open.spotify.com/album/5x39VhgLcnKUQjekc0uZuC) | 2:05 |
 
-Snapshot ID: `MCw0ZmRhY2U3OTk4NzFjNWZmNTY3ODA3YTA5MjhiYzQ2ODk4NDA3ZWM4`
+Snapshot ID: `MCxmNmZkYmFkZTllZmM0OTM1MGZhYmM3OGE0NmIzNzU0ZWUzOTgxMWZi`

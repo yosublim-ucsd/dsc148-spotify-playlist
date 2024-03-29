@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "Barst",
+        "url": "https://open.spotify.com/album/3C3DN6AvjB685STfdKJGNT"
+      },
+      "artists": [
+        {
+          "name": "Sophie",
+          "url": "https://open.spotify.com/artist/4s5ENnBFGHPG0N6W6QKwGV"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251704,
+      "name": "Barst",
+      "url": "https://open.spotify.com/track/0Jk7KsjS1bmE72SKAs3lPA"
+    },
+    {
+      "album": {
         "name": "Bee Suits",
         "url": "https://open.spotify.com/album/61pNm3k80rVB8Iqr8sfTfQ"
       },
@@ -258,7 +276,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 182837,
       "name": "Caged Birds",
       "url": "https://open.spotify.com/track/2Kb0J8N4AG9Nn6Ew5bcEXv"
@@ -764,7 +782,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 168290,
       "name": "I Don't Know Why",
       "url": "https://open.spotify.com/track/2aAdRmDXH07MGLmyd37xIp"
@@ -902,6 +920,24 @@
       "duration_ms": 157755,
       "name": "IN THE HILLS//IN DE WEIDE",
       "url": "https://open.spotify.com/track/3JjcRAnlWFHCXR0zrV7gE5"
+    },
+    {
+      "album": {
+        "name": "insane",
+        "url": "https://open.spotify.com/album/7kPnvLJER6IwTXXZOcP4Fr"
+      },
+      "artists": [
+        {
+          "name": "ANNE",
+          "url": "https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "insane",
+      "url": "https://open.spotify.com/track/1muvuktoG1chI2mOSEf7W1"
     },
     {
       "album": {
@@ -1435,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "round and round",
+        "url": "https://open.spotify.com/album/0jkKfyJLmkKmCGYoo4GA7c"
+      },
+      "artists": [
+        {
+          "name": "DEHAZE",
+          "url": "https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202026,
+      "name": "round and round",
+      "url": "https://open.spotify.com/track/4trRNTD2vikuHOb0mJPWXe"
+    },
+    {
+      "album": {
         "name": "UI",
         "url": "https://open.spotify.com/album/27cG0rL8gIm1yQekB8ibjL"
       },
@@ -1706,7 +1760,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 214054,
       "name": "Something Somewhere",
       "url": "https://open.spotify.com/track/2iOtTIQJOuGzr9Go2rPDNp"

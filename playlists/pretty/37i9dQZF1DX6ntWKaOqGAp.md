@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > The biggest Japanese rock hits right now\.  Cover: Saba Sister \(サバシスター\)　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,724 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,899 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Heartbeat](https://open.spotify.com/track/26kGk6Ia807QHtzIftKY7s) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Heartbeat](https://open.spotify.com/album/4FbJx3hYgHNHrzfqzk9vRi) | 3:14 |
 | 100 | [LOVELY DESTRUCTION](https://open.spotify.com/track/5IvzUopWfEOxa1wGdI1PMX) | [THIS IS JAPAN](https://open.spotify.com/artist/753OhFtxllDpBJvOmxh6CD) | [LOVELY DESTRUCTION](https://open.spotify.com/album/3wAc9pRpgeaM4zSGKbiutl) | 2:52 |
 
-Snapshot ID: `MCwxOTZjYTkzNTA2MjgyOGZkOGQyZTFlNGYyMDE2ZWE5NTQ2M2Q1OGZk`
+Snapshot ID: `MCw5MWE5NzFhOGIyOTJlN2VjNjhkZGY4NTg3NzVhZjkzYWMzNDc2OGI2`

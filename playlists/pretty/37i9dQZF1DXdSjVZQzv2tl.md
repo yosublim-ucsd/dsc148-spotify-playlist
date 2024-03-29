@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Lauana Prado
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,683,482 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,684,709 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [CHEIRO NA CAMISETA](https://open.spotify.com/track/6qYTjIEgne0leltNnvpSIM) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [CHEIRO NA CAMISETA](https://open.spotify.com/album/4KtTqtXRtTk6tfozdYmgNv) | 2:35 |
 | 50 | [Leão](https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 2](https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf) | 2:46 |
 
-Snapshot ID: `MCwwNGE4YzcxMzZmNTAwOGEzYzM1NmJlZGIwNTdkMWEyZDQ2OTQ5NWQ3`
+Snapshot ID: `MCxjZjE3ZWZhZTU1NGQzYzFlNWQ5ZTIzZTk3MTY0YmU1ZjIzZDE1ZDBk`

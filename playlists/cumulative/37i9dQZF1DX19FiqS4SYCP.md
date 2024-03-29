@@ -4,7 +4,7 @@
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Gary Hobbs
 
-138 songs - 7 hr 47 min
+139 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [After Party](https://open.spotify.com/track/0fwJhJYyD9tJcroxnKd6ts) | [Sunny Sauceda Y Todo Eso](https://open.spotify.com/artist/2KXYZbOjSl5DpNSFgOqFjP) | [After Party](https://open.spotify.com/album/4OPLsWeoUhOkq1R638KQnW) | 3:51 | 2022-03-07 | 2023-03-11 |
 | [Amigo Fiel](https://open.spotify.com/track/2e57bUnVZ0zGmVzcPiZlue) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Amigo Fiel](https://open.spotify.com/album/4bFSwa77NlmSKLUNavclWx) | 3:36 | 2023-03-10 |  |
 | [Amor Condicional](https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd) | [Hilda Lamas](https://open.spotify.com/artist/1MnHZrj8MWzylwPK8gPJUG) | [Amor Condicional](https://open.spotify.com/album/3FvlHuZ5cApjPitglJEdVK) | 4:17 | 2023-03-10 |  |
-| [Amor Eterno](https://open.spotify.com/track/2eqC236uwgGhieuk0ZeK9B) | [ANGELICA](https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50), [Grupo Moneda](https://open.spotify.com/artist/6MZ41CkqrTJO9ypkLlEGx4) | [Amor Eterno](https://open.spotify.com/album/5fNv9Q7DujaEYk7DxauhKl) | 3:43 | 2023-03-10 |  |
+| [Amor Eterno](https://open.spotify.com/track/2eqC236uwgGhieuk0ZeK9B) | [ANGELICA](https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50), [Grupo Moneda](https://open.spotify.com/artist/6MZ41CkqrTJO9ypkLlEGx4) | [Amor Eterno](https://open.spotify.com/album/5fNv9Q7DujaEYk7DxauhKl) | 3:43 | 2023-03-10 | 2024-03-29 |
+| [Amor Eterno](https://open.spotify.com/track/2tSVxvzLWLgF9SuYalashf) | [ANGELICA](https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50), [Grupo Moneda](https://open.spotify.com/artist/6MZ41CkqrTJO9ypkLlEGx4) | [Karma](https://open.spotify.com/album/36gLIthSri78lkux9w1z8t) | 3:43 | 2023-09-13 |  |
 | [Amor Traicionero](https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP) | [Anjelique](https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww) | [Sweet City Style](https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb) | 2:48 | 2022-03-07 | 2023-03-11 |
 | [Anda Vuela Y Vete](https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq) | [Kamryn Ramirez](https://open.spotify.com/artist/5aymaxJUjnEDpKqnlZJ6Md) | [Anda Vuela Y Vete](https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw) | 2:45 | 2023-03-10 |  |
 | [Anhelos](https://open.spotify.com/track/4IloVueaAHDjIRuvxFOE9w) | [La Dezz](https://open.spotify.com/artist/7DayckUSebiooSMdF8C2a1), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Anhelos](https://open.spotify.com/album/6bQNxIp5ebYjjlnlZr69xd) | 4:17 | 2023-03-10 |  |

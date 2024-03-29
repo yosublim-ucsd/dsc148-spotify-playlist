@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: march-april 2024 (previous playlists archived on my profile)",
-  "num_followers": 18600,
+  "num_followers": 18602,
   "original_name": "innocence and panic",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "MjYwMixmMmQyYTE2MGU4NjgwNDdiNjIyYWY2ZTRlMzk4NjE1NzFjZGJmN2Zk",
+  "snapshot_id": "MjYwNSw2YmMyZGY1NDc3MWY3ODU4YTA4NTc4Mzg1OWQ1YTEwNGQ4ZjEwMzE0",
   "tracks": [
     {
       "added_at": "2024-03-09 23:04:11",
@@ -559,6 +559,38 @@
       "duration_ms": 170000,
       "name": "De Novo",
       "url": "https://open.spotify.com/track/0DmLfTFkLqIqiRqEMyxMXU"
+    },
+    {
+      "added_at": "2024-03-29 00:25:54",
+      "album": {
+        "name": "Tear Your Heart Out",
+        "url": "https://open.spotify.com/album/66aBhNtqG6pZvyiaqECBZi"
+      },
+      "artists": [
+        {
+          "name": "villagerrr",
+          "url": "https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5"
+        }
+      ],
+      "duration_ms": 259976,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/762nQHxV3RCum4UBgARjaW"
+    },
+    {
+      "added_at": "2024-03-28 18:49:09",
+      "album": {
+        "name": "Dribble Dribble",
+        "url": "https://open.spotify.com/album/1JWRaVRiOgvCGKOEhdW21v"
+      },
+      "artists": [
+        {
+          "name": "Amy O",
+          "url": "https://open.spotify.com/artist/6CMJF0sfcDB4ohajYpE9jb"
+        }
+      ],
+      "duration_ms": 196020,
+      "name": "Dribble Dribble",
+      "url": "https://open.spotify.com/track/0gnJmxrfTJkUALVkMRyTTP"
     }
   ],
   "unique_name": "innocence and panic",

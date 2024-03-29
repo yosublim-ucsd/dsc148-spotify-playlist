@@ -1,32 +1,52 @@
 {
   "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Yaisel LM",
-  "num_followers": 102294,
+  "num_followers": 102365,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTNkNTEyZDQzNzEyYjUwOGM2ZDY5MzIzMDQzZjYzYzUwOWM4MDNk",
+  "snapshot_id": "MCxjZjQ4N2VkYTk4NjNiY2NiYzE2OTI5ZTkxNTM0OGE0ODc0NjgyODA4",
   "tracks": [
     {
-      "added_at": "2024-03-21 19:13:50",
+      "added_at": "2024-03-28 14:23:32",
       "album": {
-        "name": "Tomala",
-        "url": "https://open.spotify.com/album/1ZhWM5Ae4AfayttWHasbkU"
+        "name": "Fulete",
+        "url": "https://open.spotify.com/album/17AXAN9SJJEA0zsF2GPU1S"
       },
       "artists": [
         {
-          "name": "Wander Love",
-          "url": "https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd"
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
         },
         {
-          "name": "El Baby R",
-          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
         }
       ],
-      "duration_ms": 126275,
-      "name": "Tomala",
-      "url": "https://open.spotify.com/track/0ZM8t0KJ30VcLv8KIs0v0m"
+      "duration_ms": 147866,
+      "name": "Fulete",
+      "url": "https://open.spotify.com/track/4L6EwdEcRJxqjWOhgtyopO"
+    },
+    {
+      "added_at": "2024-03-21 19:13:50",
+      "album": {
+        "name": "Tetere",
+        "url": "https://open.spotify.com/album/3eE9ricKdDv1I7kDK9Kn5m"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 117120,
+      "name": "Tetere",
+      "url": "https://open.spotify.com/track/6EKQWjiQPniG7zwJ9Hhc4y"
     },
     {
       "added_at": "2024-02-15 15:29:53",
@@ -49,20 +69,28 @@
       "url": "https://open.spotify.com/track/5zEElpWMDT4RddUueH27Hi"
     },
     {
-      "added_at": "2024-03-21 19:13:50",
+      "added_at": "2024-03-28 14:23:32",
       "album": {
-        "name": "Pa Q Mame",
-        "url": "https://open.spotify.com/album/0jgeR2SZsPDCAwD6ewVpjD"
+        "name": "El Singon",
+        "url": "https://open.spotify.com/album/1hYyoFGrFYevEtcGbeCreM"
       },
       "artists": [
         {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "Harryson",
+          "url": "https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm"
         }
       ],
-      "duration_ms": 129116,
-      "name": "Pa Q Mame",
-      "url": "https://open.spotify.com/track/38gUDhLP5uEfkf7MrHwsvi"
+      "duration_ms": 161000,
+      "name": "El Singon",
+      "url": "https://open.spotify.com/track/3QtkrsXH8G5CO2m4CZp3lu"
     },
     {
       "added_at": "2024-02-08 22:40:39",
@@ -87,38 +115,6 @@
       "duration_ms": 124285,
       "name": "Hoy Si",
       "url": "https://open.spotify.com/track/0psfsyaZP1MNEBiTSeTM9N"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "Agu\u00e1ntala",
-        "url": "https://open.spotify.com/album/6C7Etu8KhU0PetMLyzYZ5J"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 144672,
-      "name": "Agu\u00e1ntala",
-      "url": "https://open.spotify.com/track/0yTv8zIpgEdmqvPAteE2OY"
-    },
-    {
-      "added_at": "2024-03-21 19:13:50",
-      "album": {
-        "name": "Tetere",
-        "url": "https://open.spotify.com/album/3eE9ricKdDv1I7kDK9Kn5m"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 117120,
-      "name": "Tetere",
-      "url": "https://open.spotify.com/track/6EKQWjiQPniG7zwJ9Hhc4y"
     },
     {
       "added_at": "2024-02-01 23:53:43",
@@ -147,6 +143,102 @@
     {
       "added_at": "2023-12-22 05:09:41",
       "album": {
+        "name": "Agu\u00e1ntala",
+        "url": "https://open.spotify.com/album/6C7Etu8KhU0PetMLyzYZ5J"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "duration_ms": 144672,
+      "name": "Agu\u00e1ntala",
+      "url": "https://open.spotify.com/track/0yTv8zIpgEdmqvPAteE2OY"
+    },
+    {
+      "added_at": "2024-03-28 14:23:32",
+      "album": {
+        "name": "Te Lo Coji",
+        "url": "https://open.spotify.com/album/0z3qtcGWqV6muPrTZdmDZV"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "La Mas Doll",
+          "url": "https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK"
+        }
+      ],
+      "duration_ms": 119531,
+      "name": "Te Lo Coji",
+      "url": "https://open.spotify.com/track/0LWSYzhOlajXSaAhNXmwtg"
+    },
+    {
+      "added_at": "2024-03-21 19:13:50",
+      "album": {
+        "name": "Pa Q Mame",
+        "url": "https://open.spotify.com/album/0jgeR2SZsPDCAwD6ewVpjD"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "duration_ms": 129116,
+      "name": "Pa Q Mame",
+      "url": "https://open.spotify.com/track/38gUDhLP5uEfkf7MrHwsvi"
+    },
+    {
+      "added_at": "2024-03-28 14:23:32",
+      "album": {
+        "name": "T\u00fa Ver\u00e1",
+        "url": "https://open.spotify.com/album/6ZpYRdSifYq7O5SUixyo3t"
+      },
+      "artists": [
+        {
+          "name": "Papaa Tyga",
+          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "OG DETRUYELO",
+          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
+        }
+      ],
+      "duration_ms": 111496,
+      "name": "T\u00fa Ver\u00e1",
+      "url": "https://open.spotify.com/track/3x7RoFpq8ro2i0sy98QeUg"
+    },
+    {
+      "added_at": "2024-03-21 19:13:50",
+      "album": {
+        "name": "Tomala",
+        "url": "https://open.spotify.com/album/1ZhWM5Ae4AfayttWHasbkU"
+      },
+      "artists": [
+        {
+          "name": "Wander Love",
+          "url": "https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd"
+        },
+        {
+          "name": "El Baby R",
+          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
+        }
+      ],
+      "duration_ms": 126275,
+      "name": "Tomala",
+      "url": "https://open.spotify.com/track/0ZM8t0KJ30VcLv8KIs0v0m"
+    },
+    {
+      "added_at": "2023-12-22 05:09:41",
+      "album": {
         "name": "Frename En El Party Sin Panty",
         "url": "https://open.spotify.com/album/4CwK9U1R8rBwNPavmuzbLY"
       },
@@ -159,6 +251,30 @@
       "duration_ms": 112682,
       "name": "Frename En El Party Sin Panty",
       "url": "https://open.spotify.com/track/3h4brm7AUNiZZ7wboMkWni"
+    },
+    {
+      "added_at": "2024-03-28 14:23:32",
+      "album": {
+        "name": "Don Dimadon",
+        "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
+      },
+      "artists": [
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 184987,
+      "name": "Don Dimadon",
+      "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
     },
     {
       "added_at": "2024-02-01 23:53:43",
@@ -183,6 +299,26 @@
       "duration_ms": 161538,
       "name": "Shupamelo",
       "url": "https://open.spotify.com/track/3MnvzYz8Z8S45TvKNEblPs"
+    },
+    {
+      "added_at": "2024-03-28 14:23:32",
+      "album": {
+        "name": "Pila De Bobo",
+        "url": "https://open.spotify.com/album/1On0JZyLXH2zNLQfpA5RMf"
+      },
+      "artists": [
+        {
+          "name": "Menor Queen",
+          "url": "https://open.spotify.com/artist/1MsuHuJMhPWFbzl2KWLyzz"
+        },
+        {
+          "name": "Papera",
+          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
+        }
+      ],
+      "duration_ms": 161694,
+      "name": "Pila De Bobo",
+      "url": "https://open.spotify.com/track/0KZQRoxKu06bzjvO9Mjy8V"
     },
     {
       "added_at": "2024-03-21 19:13:50",
@@ -245,24 +381,24 @@
       "url": "https://open.spotify.com/track/2IeZQmfUHbPtzsK2RAq430"
     },
     {
-      "added_at": "2024-03-21 19:13:50",
+      "added_at": "2024-03-28 14:23:32",
       "album": {
-        "name": "3 Tre",
-        "url": "https://open.spotify.com/album/1RDKRTg33pFZdxUbRewc4Z"
+        "name": "Booty Booty",
+        "url": "https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E"
       },
       "artists": [
         {
-          "name": "El Peluche 42",
-          "url": "https://open.spotify.com/artist/7x6aLKfE82ZunWSBtjLK94"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Onguito Wa",
-          "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 128250,
-      "name": "3 Tre",
-      "url": "https://open.spotify.com/track/4jG3l6FeI3kA71a7x9kpLL"
+      "duration_ms": 150155,
+      "name": "Booty Booty",
+      "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -281,22 +417,6 @@
       "url": "https://open.spotify.com/track/2hvKoCgHW5tZ7QjtK4UqIh"
     },
     {
-      "added_at": "2024-03-21 19:13:50",
-      "album": {
-        "name": "Pampara (En Vivo)",
-        "url": "https://open.spotify.com/album/42EyUZFVuDHvOJA2wZ4mdy"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 133223,
-      "name": "Pampara - En Vivo",
-      "url": "https://open.spotify.com/track/4XNBfT3BoiF0mRhKh3FWQm"
-    },
-    {
       "added_at": "2024-02-01 23:53:43",
       "album": {
         "name": "UN VOLAO",
@@ -311,6 +431,22 @@
       "duration_ms": 99000,
       "name": "UN VOLAO",
       "url": "https://open.spotify.com/track/1QBrDmUZ28brJz8vdvxzxI"
+    },
+    {
+      "added_at": "2024-03-28 14:23:32",
+      "album": {
+        "name": "NO ME LA SUBE",
+        "url": "https://open.spotify.com/album/6JBXkVWmvPggBcK01GaCwK"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "duration_ms": 99310,
+      "name": "NO ME LA SUBE",
+      "url": "https://open.spotify.com/track/7gFiIf65iKVWUTpzhgK8w2"
     },
     {
       "added_at": "2024-03-14 20:42:59",
@@ -347,6 +483,22 @@
       "duration_ms": 125543,
       "name": "Una Clen Clen",
       "url": "https://open.spotify.com/track/7L50cnzNKCbhqXu5U1aO6q"
+    },
+    {
+      "added_at": "2024-03-21 19:13:50",
+      "album": {
+        "name": "Pampara (En Vivo)",
+        "url": "https://open.spotify.com/album/42EyUZFVuDHvOJA2wZ4mdy"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "duration_ms": 133223,
+      "name": "Pampara - En Vivo",
+      "url": "https://open.spotify.com/track/4XNBfT3BoiF0mRhKh3FWQm"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -755,30 +907,6 @@
     {
       "added_at": "2024-01-18 21:46:59",
       "album": {
-        "name": "En La Casa De Sin",
-        "url": "https://open.spotify.com/album/03CdcDsbiWnVzwPmKTXbJ1"
-      },
-      "artists": [
-        {
-          "name": "Braulio Fogon",
-          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
-        }
-      ],
-      "duration_ms": 175016,
-      "name": "En La Casa De Sin",
-      "url": "https://open.spotify.com/track/0qqRqd4xae348nMFehJXPq"
-    },
-    {
-      "added_at": "2024-01-18 21:46:59",
-      "album": {
         "name": "Frisa",
         "url": "https://open.spotify.com/album/4XKEvAGn1O2pi1xX2y5HSq"
       },
@@ -843,34 +971,6 @@
       "duration_ms": 150991,
       "name": "Oao",
       "url": "https://open.spotify.com/track/16tsUHnekjoAdvZ06yHDbI"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "Malo de Verdad (Remix)",
-        "url": "https://open.spotify.com/album/6ebWUexvroUpm8ivF1Li5F"
-      },
-      "artists": [
-        {
-          "name": "Kreizy k",
-          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
-        },
-        {
-          "name": "La Chipa RD",
-          "url": "https://open.spotify.com/artist/0tNlgOuWPXP2uYPV8L1sCJ"
-        },
-        {
-          "name": "Papera",
-          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
-        },
-        {
-          "name": "Reissel",
-          "url": "https://open.spotify.com/artist/5PBjt4OmB9jEdcuTIUu6Go"
-        }
-      ],
-      "duration_ms": 206951,
-      "name": "Malo de Verdad - Remix",
-      "url": "https://open.spotify.com/track/38pdoR7NoHEugpvIxEKhdU"
     },
     {
       "added_at": "2023-12-22 05:09:41",

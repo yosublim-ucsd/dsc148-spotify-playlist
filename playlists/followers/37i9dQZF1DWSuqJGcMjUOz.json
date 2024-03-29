@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 3826,
+  "2024-03-29": 3826,
   "date_first_scraped": "2022-06-02",
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
   "name": "Francos de Montr\u00e9al 2023",
@@ -1393,7 +1393,7 @@
     {
       "album": {
         "name": "On est encore l\u00e0",
-        "url": "https://open.spotify.com/album/5WrG6tjEad6q5cYJXuegQE"
+        "url": "https://open.spotify.com/album/36JqAK6msoqoKPAneZYGOj"
       },
       "artists": [
         {
@@ -1404,6 +1404,24 @@
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 182934,
+      "name": "De Matane \u00e0 Natashquan",
+      "url": "https://open.spotify.com/track/65M222sgedKWdcKdDpWrWX"
+    },
+    {
+      "album": {
+        "name": "On est encore l\u00e0",
+        "url": "https://open.spotify.com/album/5WrG6tjEad6q5cYJXuegQE"
+      },
+      "artists": [
+        {
+          "name": "Phil G. Smith",
+          "url": "https://open.spotify.com/artist/6YpIE8UFTcFZ5eDQVCvwz9"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-28",
       "duration_ms": 182934,
       "name": "De Matane \u00e0 Natashquan",
       "url": "https://open.spotify.com/track/6rykqHkuwL1s58P3LoqwD9"

@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\. Cover: Tyla
 
-475 songs - 1 day 1 hr 29 min
+476 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Can't Let You Go \- Remix](https://open.spotify.com/track/1jpWdlkRzrWWSg3tESHf34) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Can't Let You Go \(Remix\)](https://open.spotify.com/album/5uB7MTykLx39PBynOcJIKC) | 3:14 | 2021-09-10 | 2022-07-26 |
 | [Carefully](https://open.spotify.com/track/2PW7GDvDrSTSTDMzVCEZWH) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Carefully](https://open.spotify.com/album/1xMLYZmzlVDvMOVhXpArac) | 2:14 | 2021-09-10 | 2022-11-13 |
 | [Carry Me](https://open.spotify.com/track/2nwHKcQ5RG88Tf8RbLUYUA) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:43 | 2023-05-14 | 2024-01-26 |
+| [Casanova](https://open.spotify.com/track/6J7xEQtzvdCzEcwdDVRSR1) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Casanova](https://open.spotify.com/album/1XWnTZtP6EICZa34XlISes) | 3:03 | 2024-03-22 |  |
 | [Cast](https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Presido La Pluto](https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR) | 2:09 | 2024-01-26 |  |
 | [Champion](https://open.spotify.com/track/2fY21NO9Y9Z2pWCdMTeXkR) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:59 | 2021-09-10 | 2022-07-28 |
 | [Champion](https://open.spotify.com/track/1MgeahgsOalFDm0cdsqnMu) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Wilmer](https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc) | 3:34 | 2022-03-25 | 2022-04-21 |

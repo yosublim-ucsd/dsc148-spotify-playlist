@@ -1,12 +1,12 @@
 {
-  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: DSP",
-  "num_followers": 138896,
+  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: T Breezy, Walkerboy",
+  "num_followers": 138901,
   "original_name": "Local Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDE5M2FmZTAxMjNkOTU2NzVjYmNmNjJlNWIyYzRiZjFhZDNiNTJm",
+  "snapshot_id": "MCw4MTdkMTdjYTI4MGUwMjAzNDhmZmZmMzY5OTU0MzdjMzczYTJhMzZl",
   "tracks": [
     {
       "added_at": "2024-03-25 05:42:31",
@@ -33,6 +33,50 @@
       "url": "https://open.spotify.com/track/4fqtief1hnDKzEGg57HcG6"
     },
     {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Hussle",
+        "url": "https://open.spotify.com/album/5RZjqc8Q4nxrUS9XogzW4p"
+      },
+      "artists": [
+        {
+          "name": "Fizzler",
+          "url": "https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV"
+        },
+        {
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+        },
+        {
+          "name": "Shadz",
+          "url": "https://open.spotify.com/artist/7J3RSw4BFpCcE7KMBMHAAg"
+        }
+      ],
+      "duration_ms": 116427,
+      "name": "Hussle",
+      "url": "https://open.spotify.com/track/7ymS4PqJjHvVSKYvqcNNz6"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Souths Most Wanted",
+        "url": "https://open.spotify.com/album/5RxqqLZmax9JUDet82iJhR"
+      },
+      "artists": [
+        {
+          "name": "T Breezy",
+          "url": "https://open.spotify.com/artist/1BsZ2phLGWpVR921nKHs4E"
+        },
+        {
+          "name": "Walkerboy",
+          "url": "https://open.spotify.com/artist/6zl9LGhOEuvQOHDwOKvj8r"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "WHAT DO",
+      "url": "https://open.spotify.com/track/6k5rWswrLNxNwMyFkC3Na2"
+    },
+    {
       "added_at": "2024-03-25 05:42:31",
       "album": {
         "name": "CHAMPIONSH*T",
@@ -51,22 +95,18 @@
     {
       "added_at": "2024-03-25 05:42:31",
       "album": {
-        "name": "Next Up Australia - S1-E11",
-        "url": "https://open.spotify.com/album/1ppk8v1IHfi3CZg3ZDPTWn"
+        "name": "Get This Money",
+        "url": "https://open.spotify.com/album/48V3QRGOHau4uNtltrdYl3"
       },
       "artists": [
         {
-          "name": "DSP",
-          "url": "https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Next Up Australia - S1-E11",
-      "url": "https://open.spotify.com/track/3n1Im8So7I41RGnj2g7UHA"
+      "duration_ms": 154800,
+      "name": "Get This Money",
+      "url": "https://open.spotify.com/track/5sIrMZ6w6IFPz8a1mwVwbT"
     },
     {
       "added_at": "2024-03-25 05:42:31",
@@ -83,22 +123,6 @@
       "duration_ms": 218429,
       "name": "Drills",
       "url": "https://open.spotify.com/track/0wFPH5ExVGll8hvpFvaau5"
-    },
-    {
-      "added_at": "2024-03-25 05:42:31",
-      "album": {
-        "name": "Get This Money",
-        "url": "https://open.spotify.com/album/48V3QRGOHau4uNtltrdYl3"
-      },
-      "artists": [
-        {
-          "name": "Hooligan Hefs",
-          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Get This Money",
-      "url": "https://open.spotify.com/track/5sIrMZ6w6IFPz8a1mwVwbT"
     },
     {
       "added_at": "2024-03-25 05:42:31",
@@ -123,6 +147,166 @@
       "duration_ms": 201000,
       "name": "SAINTS.",
       "url": "https://open.spotify.com/track/5KINxCiI2Uqy4gWAyjGOyb"
+    },
+    {
+      "added_at": "2024-03-25 05:42:31",
+      "album": {
+        "name": "Next Up Australia - S1-E11",
+        "url": "https://open.spotify.com/album/1ppk8v1IHfi3CZg3ZDPTWn"
+      },
+      "artists": [
+        {
+          "name": "DSP",
+          "url": "https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Next Up Australia - S1-E11",
+      "url": "https://open.spotify.com/track/3n1Im8So7I41RGnj2g7UHA"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "POWERFUL POETRY",
+        "url": "https://open.spotify.com/album/3Tu04t5KSKVNVfgGd1OAEd"
+      },
+      "artists": [
+        {
+          "name": "Chill 'D' Man",
+          "url": "https://open.spotify.com/artist/74HHus7urY7y0YsbkmqNhS"
+        },
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        }
+      ],
+      "duration_ms": 186496,
+      "name": "POWERFUL POETRY",
+      "url": "https://open.spotify.com/track/7Lugx7CopHvVq3Cpt97ZhJ"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "STARZ",
+        "url": "https://open.spotify.com/album/3TXRE2cXcgKG8J9FL4pcaZ"
+      },
+      "artists": [
+        {
+          "name": "Letoa",
+          "url": "https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV"
+        }
+      ],
+      "duration_ms": 149447,
+      "name": "STARZ",
+      "url": "https://open.spotify.com/track/1CqoOUplAH5sRdTNfPhFLz"
+    },
+    {
+      "added_at": "2024-03-25 05:42:31",
+      "album": {
+        "name": "Back to Back",
+        "url": "https://open.spotify.com/album/5a53nDA0g6X0w2jV8xsNh0"
+      },
+      "artists": [
+        {
+          "name": "No Money Enterprise",
+          "url": "https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB"
+        }
+      ],
+      "duration_ms": 168922,
+      "name": "Back to Back",
+      "url": "https://open.spotify.com/track/1IdyeqRZL64acaATS8sK2m"
+    },
+    {
+      "added_at": "2024-03-25 05:42:31",
+      "album": {
+        "name": "LAST OF US",
+        "url": "https://open.spotify.com/album/3UOeS1PgE1qamKzVf4iG51"
+      },
+      "artists": [
+        {
+          "name": "Bad1",
+          "url": "https://open.spotify.com/artist/2kkXWYoznhCVemmiCKq2wb"
+        },
+        {
+          "name": "20th Boys",
+          "url": "https://open.spotify.com/artist/1bxhFpPAizVxyxzeaOhZZf"
+        }
+      ],
+      "duration_ms": 194429,
+      "name": "LAST OF US",
+      "url": "https://open.spotify.com/track/1HqisCi0HyHqpHbH9qBpIk"
+    },
+    {
+      "added_at": "2024-03-25 05:42:31",
+      "album": {
+        "name": "LAVISH",
+        "url": "https://open.spotify.com/album/3cDgUCAFyjCnukJy2dtKbK"
+      },
+      "artists": [
+        {
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "LAVISH",
+      "url": "https://open.spotify.com/track/17G61CQEKui4i7Os6W6xAH"
+    },
+    {
+      "added_at": "2024-03-25 05:42:31",
+      "album": {
+        "name": "Souljah",
+        "url": "https://open.spotify.com/album/6zImdzNBD90wZbAMkeoUvt"
+      },
+      "artists": [
+        {
+          "name": "SHARKY43",
+          "url": "https://open.spotify.com/artist/2hBDoKWNRWRW8Eq4vOi0do"
+        }
+      ],
+      "duration_ms": 189890,
+      "name": "Souljah",
+      "url": "https://open.spotify.com/track/7eMDp8atBVbjwSi8V9iBC5"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/61rFSYs8bD0mkeJDSLYJ24"
+      },
+      "artists": [
+        {
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+        },
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 193246,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7A0qqJw9rI5bbAttRXMFF4"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "3am in Melbourne",
+        "url": "https://open.spotify.com/album/5LAyCAtcgKnCMvd7HOpILF"
+      },
+      "artists": [
+        {
+          "name": "Moses",
+          "url": "https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs"
+        }
+      ],
+      "duration_ms": 158068,
+      "name": "3am in Melbourne",
+      "url": "https://open.spotify.com/track/0DvNezWZPknS0Ki7PF5mIV"
     },
     {
       "added_at": "2024-03-25 05:42:31",
@@ -183,22 +367,6 @@
     {
       "added_at": "2024-03-25 05:42:31",
       "album": {
-        "name": "Back to Back",
-        "url": "https://open.spotify.com/album/5a53nDA0g6X0w2jV8xsNh0"
-      },
-      "artists": [
-        {
-          "name": "No Money Enterprise",
-          "url": "https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB"
-        }
-      ],
-      "duration_ms": 168922,
-      "name": "Back to Back",
-      "url": "https://open.spotify.com/track/1IdyeqRZL64acaATS8sK2m"
-    },
-    {
-      "added_at": "2024-03-25 05:42:31",
-      "album": {
         "name": "We Up",
         "url": "https://open.spotify.com/album/7Dg1Ww7cvk176Xjsx0EiTg"
       },
@@ -231,58 +399,6 @@
       "duration_ms": 109655,
       "name": "Next Up Australia - S1-E9 - Pt.2",
       "url": "https://open.spotify.com/track/05xUGSY5lEmI3Dj4SlzKwz"
-    },
-    {
-      "added_at": "2024-03-25 05:42:31",
-      "album": {
-        "name": "Souljah",
-        "url": "https://open.spotify.com/album/6zImdzNBD90wZbAMkeoUvt"
-      },
-      "artists": [
-        {
-          "name": "SHARKY43",
-          "url": "https://open.spotify.com/artist/2hBDoKWNRWRW8Eq4vOi0do"
-        }
-      ],
-      "duration_ms": 189890,
-      "name": "Souljah",
-      "url": "https://open.spotify.com/track/7eMDp8atBVbjwSi8V9iBC5"
-    },
-    {
-      "added_at": "2024-03-25 05:42:31",
-      "album": {
-        "name": "LAST OF US",
-        "url": "https://open.spotify.com/album/3UOeS1PgE1qamKzVf4iG51"
-      },
-      "artists": [
-        {
-          "name": "Bad1",
-          "url": "https://open.spotify.com/artist/2kkXWYoznhCVemmiCKq2wb"
-        },
-        {
-          "name": "20th Boys",
-          "url": "https://open.spotify.com/artist/1bxhFpPAizVxyxzeaOhZZf"
-        }
-      ],
-      "duration_ms": 194429,
-      "name": "LAST OF US",
-      "url": "https://open.spotify.com/track/1HqisCi0HyHqpHbH9qBpIk"
-    },
-    {
-      "added_at": "2024-03-25 05:42:31",
-      "album": {
-        "name": "LAVISH",
-        "url": "https://open.spotify.com/album/3cDgUCAFyjCnukJy2dtKbK"
-      },
-      "artists": [
-        {
-          "name": "Shadow",
-          "url": "https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "LAVISH",
-      "url": "https://open.spotify.com/track/17G61CQEKui4i7Os6W6xAH"
     },
     {
       "added_at": "2024-03-25 05:42:31",
@@ -811,26 +927,6 @@
     {
       "added_at": "2024-03-25 05:42:31",
       "album": {
-        "name": "Good Girls Stay At Home",
-        "url": "https://open.spotify.com/album/07S9GQMxJywu4q14McF4zP"
-      },
-      "artists": [
-        {
-          "name": "Ay Huncho",
-          "url": "https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np"
-        },
-        {
-          "name": "wewantwraiths",
-          "url": "https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2"
-        }
-      ],
-      "duration_ms": 152228,
-      "name": "Good Girls Stay At Home",
-      "url": "https://open.spotify.com/track/4fB3fwk7cBaCVp6NWrMeWa"
-    },
-    {
-      "added_at": "2024-03-25 05:42:31",
-      "album": {
         "name": "Next Up Australia - S1-E1",
         "url": "https://open.spotify.com/album/3aUtF8qNMNW0tLLT7pQ0Jl"
       },
@@ -947,30 +1043,6 @@
       "duration_ms": 146086,
       "name": "Un Besito",
       "url": "https://open.spotify.com/track/3YpmW8NtS7jZvOc4eJR914"
-    },
-    {
-      "added_at": "2024-03-25 05:42:31",
-      "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/0vkDkHGPrIAlZ3xziYz3mF"
-      },
-      "artists": [
-        {
-          "name": "Fooligan Kevs",
-          "url": "https://open.spotify.com/artist/4bGHAmqEYRB5tsPiGjFH2g"
-        },
-        {
-          "name": "HARDIK",
-          "url": "https://open.spotify.com/artist/1xoqxlHKitOOQKSbkXa8X7"
-        },
-        {
-          "name": "King Roman",
-          "url": "https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq"
-        }
-      ],
-      "duration_ms": 148400,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/2DSYENR4O6WmowMN8ZcVmQ"
     },
     {
       "added_at": "2024-03-25 05:42:31",
@@ -1111,22 +1183,6 @@
       "duration_ms": 150093,
       "name": "Seen It All",
       "url": "https://open.spotify.com/track/26RrUQL98FDB1MnNFYxLx7"
-    },
-    {
-      "added_at": "2024-03-25 05:42:31",
-      "album": {
-        "name": "Gammon",
-        "url": "https://open.spotify.com/album/5EaXgTjOzfEw2aY3ONBDuD"
-      },
-      "artists": [
-        {
-          "name": "J-MILLA",
-          "url": "https://open.spotify.com/artist/1sQJVmNoYaMV05kdys6jy0"
-        }
-      ],
-      "duration_ms": 148757,
-      "name": "Gammon",
-      "url": "https://open.spotify.com/track/7klZOiqWVvF6G15AkvJFed"
     },
     {
       "added_at": "2024-03-25 05:42:31",
@@ -1347,22 +1403,6 @@
     {
       "added_at": "2024-03-25 05:42:31",
       "album": {
-        "name": "And We",
-        "url": "https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W"
-      },
-      "artists": [
-        {
-          "name": "Hooligan Hefs",
-          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
-        }
-      ],
-      "duration_ms": 161562,
-      "name": "And We",
-      "url": "https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl"
-    },
-    {
-      "added_at": "2024-03-25 05:42:31",
-      "album": {
         "name": "Everyone Dance",
         "url": "https://open.spotify.com/album/08Wm53or2g05J1sxTXog9T"
       },
@@ -1427,42 +1467,6 @@
       "duration_ms": 126073,
       "name": "Turn Me Up",
       "url": "https://open.spotify.com/track/5l9OQXFhZaaA80JCz0fPwr"
-    },
-    {
-      "added_at": "2024-03-25 05:42:31",
-      "album": {
-        "name": "Top",
-        "url": "https://open.spotify.com/album/0apZvQNi0IfninYMAfAMe7"
-      },
-      "artists": [
-        {
-          "name": "Sydney Yungins",
-          "url": "https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc"
-        },
-        {
-          "name": "Rico Tonga",
-          "url": "https://open.spotify.com/artist/5LApBZfdlukIonWGLzB3Gz"
-        }
-      ],
-      "duration_ms": 143111,
-      "name": "Top",
-      "url": "https://open.spotify.com/track/3XriXSvc41mFf0Nt4KBZc5"
-    },
-    {
-      "added_at": "2024-03-25 05:42:31",
-      "album": {
-        "name": "Do Sum'n",
-        "url": "https://open.spotify.com/album/1OEYOF7Snu4j7lXxmShqLe"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Vendetta",
-          "url": "https://open.spotify.com/artist/0qYhGiA7BARkaoJbklqLG7"
-        }
-      ],
-      "duration_ms": 199223,
-      "name": "Do Sum'n",
-      "url": "https://open.spotify.com/track/4TBlHSM8c4eu8sCqVEnQrC"
     },
     {
       "added_at": "2024-03-25 05:42:31",

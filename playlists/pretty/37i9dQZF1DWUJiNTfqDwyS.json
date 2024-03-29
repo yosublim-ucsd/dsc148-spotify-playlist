@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 366733,
+  "num_followers": 366844,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDMyYmJhMjgzOGFhM2VhMzAzZWRiODFiZWRiYWViYTZmNDlmZmI0",
+  "snapshot_id": "MCwzYjUxNGE1Zjc4MjBkMmE0OGE1YmEyYWFiNjAxNjBhNTg4NmU3ZmY1",
   "tracks": [
     {
       "added_at": "2023-08-23 14:56:37",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7"
-      },
-      "artists": [
-        {
-          "name": "Saint Asonia",
-          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
-        }
-      ],
-      "duration_ms": 183357,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "Winter Kills (Deluxe Version)",
         "url": "https://open.spotify.com/album/2rotrtFHZXM3QkZIiAMk5P"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 246480,
       "name": "Sail",
       "url": "https://open.spotify.com/track/2QusYlHgyVRNu05c36wWlJ"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7"
+      },
+      "artists": [
+        {
+          "name": "Saint Asonia",
+          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
+        }
+      ],
+      "duration_ms": 183357,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr"
     },
     {
       "added_at": "2023-08-23 14:56:37",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "Punk Goes Pop, Vol. 6",
-        "url": "https://open.spotify.com/album/1l6S45U20fiob98cV6siw8"
-      },
-      "artists": [
-        {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
-        }
-      ],
-      "duration_ms": 218554,
-      "name": "I Knew You Were Trouble",
-      "url": "https://open.spotify.com/track/4LtWzWV22RQJI8fCtPVunn"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "Skeletons in the Closet (Japan Edition)",
         "url": "https://open.spotify.com/album/24kO281Ejj7HwIJKibKwpd"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 200173,
       "name": "Oops!...I Did It Again",
       "url": "https://open.spotify.com/track/06wKZYu5dpve2WRS5O34MI"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "Punk Goes Pop, Vol. 6",
+        "url": "https://open.spotify.com/album/1l6S45U20fiob98cV6siw8"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        }
+      ],
+      "duration_ms": 218554,
+      "name": "I Knew You Were Trouble",
+      "url": "https://open.spotify.com/track/4LtWzWV22RQJI8fCtPVunn"
     },
     {
       "added_at": "2023-08-23 14:56:37",

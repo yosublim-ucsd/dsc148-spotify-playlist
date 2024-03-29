@@ -4,7 +4,7 @@
 
 > La casa del trap chileno al mando de Lleflight.
 
-208 songs - 11 hr 2 min
+209 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,8 @@
 | [Un Par](https://open.spotify.com/track/1P6XcdMFWrFkjyr9DmCerA) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Un Par](https://open.spotify.com/album/4YevGLk5uzxNsy9y5QqIDV) | 3:03 | 2022-01-20 | 2023-10-28 |
 | [Ups](https://open.spotify.com/track/1iA8v9AAhALHYp2rXR1Du2) | [Matu](https://open.spotify.com/artist/6cibaeswg2HD0yjbt9X1WH), [Lil Pocket](https://open.spotify.com/artist/1W0mGZKBxW6RrdVRZq7Jdw) | [Dinero Al Bolsillo](https://open.spotify.com/album/1AiGOiYFmhcA3okiR58Cxb) | 2:41 | 2022-01-20 | 2022-04-02 |
 | [Vacaciones](https://open.spotify.com/track/0vaMFncaiDlOXqTcoLW9FR) | [Felipe Dayz](https://open.spotify.com/artist/3oVTZU4pon08EiGlzHYgL7), [Lil Pocket](https://open.spotify.com/artist/1W0mGZKBxW6RrdVRZq7Jdw) | [Vacaciones](https://open.spotify.com/album/0U5MwvBCZyOlg5C4YhmiCm) | 3:01 | 2022-01-20 | 2022-03-18 |
-| [VIBRANDO ALTO](https://open.spotify.com/track/6gdXA0hjqp5B9VLilLmkRu) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [VIBRANDO ALTO](https://open.spotify.com/album/2mjGSrHDnZB0J34FM4IeFk) | 2:41 | 2023-11-30 |  |
+| [VIBRANDO ALTO](https://open.spotify.com/track/6gdXA0hjqp5B9VLilLmkRu) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [VIBRANDO ALTO](https://open.spotify.com/album/2mjGSrHDnZB0J34FM4IeFk) | 2:41 | 2023-11-30 | 2024-03-29 |
+| [VIBRANDO ALTO](https://open.spotify.com/track/7rBe1bOi4uR0Vy7AwpRDpZ) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [VERSUS](https://open.spotify.com/album/2EbnpPFchunb1mki1tjR66) | 2:41 | 2024-02-29 |  |
 | [Vibras](https://open.spotify.com/track/306litzTzjMQqyXlF9HxHd) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/3IPfkKXkW7sFz6wnj1uyCF) | 2:34 | 2022-01-20 | 2022-07-29 |
 | [Vibras](https://open.spotify.com/track/3CV6tcIs0tqW3aJtu6THaM) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:34 | 2022-07-22 |  |
 | [VILLANO](https://open.spotify.com/track/5Yoi4uDMs3HzVHUDjnLWyD) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [VILLANO](https://open.spotify.com/album/4GjRIvEBfya2EjG1OhKF4M) | 2:43 | 2022-07-22 | 2022-08-26 |

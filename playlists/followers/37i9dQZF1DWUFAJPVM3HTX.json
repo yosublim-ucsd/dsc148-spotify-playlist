@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 234718,
+  "2024-03-29": 234891,
   "date_first_scraped": "2022-01-09",
   "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh?si=rRDfEgn-TceuQnjuKCD8Kw\"> Odeal </a>. Updates every Wednesday.",
   "name": "Fresh Finds R&B",
@@ -12292,7 +12292,7 @@
         },
         {
           "name": "BlueBucksClan",
-          "url": "https://open.spotify.com/artist/2dbNDuDQiHAcS2xztVnM9X"
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
         }
       ],
       "date_added": "2024-03-08",
@@ -23107,7 +23107,7 @@
     {
       "album": {
         "name": "LSTN!",
-        "url": "https://open.spotify.com/album/6PW2h1QLRPiPaQ0O0sKsbA"
+        "url": "https://open.spotify.com/album/0aKJSf1a160L3KRDnLqu70"
       },
       "artists": [
         {
@@ -23118,6 +23118,24 @@
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 173291,
+      "name": "MNTNS",
+      "url": "https://open.spotify.com/track/52JxoWMweF9lmM4fOi5I0J"
+    },
+    {
+      "album": {
+        "name": "LSTN!",
+        "url": "https://open.spotify.com/album/6PW2h1QLRPiPaQ0O0sKsbA"
+      },
+      "artists": [
+        {
+          "name": "3ee",
+          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-28",
       "duration_ms": 173291,
       "name": "MNTNS",
       "url": "https://open.spotify.com/track/6WsynEBdML84DDlhJQ20CI"

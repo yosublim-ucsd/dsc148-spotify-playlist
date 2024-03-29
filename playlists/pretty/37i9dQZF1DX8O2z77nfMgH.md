@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,689 likes - 63 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,748 likes - 63 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 18 | [QUE SED](https://open.spotify.com/track/4GLmfc26LRlW5otKs6TewR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [QUE SED](https://open.spotify.com/album/13Uyz9aJHEkfWPtt7b9lTG) | 2:11 |
 | 19 | [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 |
 | 20 | [Tu Cárcel](https://open.spotify.com/track/6nGFs4LS1OAFisgl8TnoRP) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Tu Cárcel](https://open.spotify.com/album/7y91LphJdXnffzem6Gh6Wk) | 3:46 |
-| 21 | [Zeppelin](https://open.spotify.com/track/3p3KTjOFyRXEmObXDxn1Rx) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [Flints](https://open.spotify.com/album/2mMCpVGFSxWWAFplPEAw1W) | 3:11 |
+| 21 | [Zeppelin](https://open.spotify.com/track/3p3KTjOFyRXEmObXDxn1Rx) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Flints](https://open.spotify.com/album/2mMCpVGFSxWWAFplPEAw1W) | 3:11 |
 | 22 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 |
 | 23 | [NENA SAD \- Techengue Edit](https://open.spotify.com/track/3IAOnemu8O4r2OUwKALsp6) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [NENA SAD \(Techengue Edit\)](https://open.spotify.com/album/5hTRsTBPjSSdlT6ida7Snn) | 3:22 |
 | 24 | [Pero Qué Necesidad](https://open.spotify.com/track/2DfpEIi9o9a8IixpU0JDou) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Pero Qué Necesidad](https://open.spotify.com/album/2vaIJEvfeaTJpEemwKFcpC) | 3:08 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 62 | [Equivocada \- Ao Vivo](https://open.spotify.com/track/1Jhkk1FIV7tMH9CZATjxrf) | [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Equivocada \(Ao Vivo\)](https://open.spotify.com/album/1DtqMgoWe5pdqFUuk5Bh6n) | 3:27 |
 | 63 | [Fica Light \- Ao Vivo](https://open.spotify.com/track/5CiQPfyBYtsAhqF0CQtfrX) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Diferentão 2 \- Vol\. 1](https://open.spotify.com/album/5VM1mIyytz0CVseJph8zso) | 2:41 |
 
-Snapshot ID: `MCw3NjJjMzQ3YjcxNjYwYWI0OWQ2NWRhMTc3MWI2NGFlODZlMTlkZWZi`
+Snapshot ID: `MCxhMTI4NTliYmZiN2ZkMThiOWMwMWFiNjY0YzUwNzBjMzFiNjBkNTVl`

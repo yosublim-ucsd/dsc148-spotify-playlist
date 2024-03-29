@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,927 likes - 82 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,131 likes - 82 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 11 | [Forest Meditation](https://open.spotify.com/track/1k9IdKVscuUnbY1NDYdGId) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Forest Meditation](https://open.spotify.com/album/6QglUf9LlWfLggtxTEaiG0) | 2:57 |
 | 12 | [Treetop Whisperer](https://open.spotify.com/track/3UiDIUA8MIxeAlHKQSVi6k) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Treetop Whisperer](https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN) | 3:09 |
 | 13 | [Find A Path](https://open.spotify.com/track/7uLo6eo2ILMyZ2diKv9iMj) | [Healing Potion](https://open.spotify.com/artist/08sROjr8PALQrgskKAnmaw) | [Find A Path](https://open.spotify.com/album/0zPocc1WiMM4kyPXEF1Wq2) | 4:00 |
-| 14 | [Āryāṣṭāṅgamārga \(The Noble Eightfold Path\)](https://open.spotify.com/track/1q4Fpfl0YYEjhCL2YZrR2c) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Viṣṇu](https://open.spotify.com/album/41plsw5zfGv5DH5DGBCbDY) | 3:16 |
+| 14 | [Āryāṣṭāṅgamārga / The Noble Eightfold Path](https://open.spotify.com/track/1q4Fpfl0YYEjhCL2YZrR2c) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Viṣṇu](https://open.spotify.com/album/41plsw5zfGv5DH5DGBCbDY) | 3:16 |
 | 15 | [Bowl Presence](https://open.spotify.com/track/6AXiRk2bu8P60bZiMOVLHR) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Bowl Presence](https://open.spotify.com/album/3kvmaFF4Z1BFtNScFNGJjC) | 3:32 |
 | 16 | [Prosper](https://open.spotify.com/track/7cEjzxbTY9yOsVspJOpwme) | [Molecular Vibrations](https://open.spotify.com/artist/4oi9xtPzHVnS747jFmAftH) | [Prosper Sound Bath](https://open.spotify.com/album/3JrUh1u6YcICQ6Lfx0CE2m) | 3:29 |
 | 17 | [Slowing Rain](https://open.spotify.com/track/7vhMyCsKVbpLj66EH6ZZvr) | [Aguto Rising](https://open.spotify.com/artist/3L7kF3nc7Xv5oFW6T4sZfG) | [In Two Minds](https://open.spotify.com/album/0lOZdbwV2CkgUiOQsuEE5Z) | 4:09 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 81 | [Lullaby](https://open.spotify.com/track/5vjsIox5BJAP1YIERBLdfn) | [Alain Presencer](https://open.spotify.com/artist/1TFojWUtNPFxCm61M7TJMT) | [Singing Bowls of Tibet](https://open.spotify.com/album/1Xm1grJslIgHqR3hqe3FQk) | 2:48 |
 | 82 | [Echos Of Angels](https://open.spotify.com/track/21CRn1nc9hSAlCZomJrNhn) | [Crystal Voices](https://open.spotify.com/artist/1jFFGDV4GwVwWres1suUPC) | [Crystal Voices: The Harmonic Vibrations Of Crystal Singing Bowls](https://open.spotify.com/album/6k4BaemsQh3Aih4F2z1itg) | 4:32 |
 
-Snapshot ID: `MCxjMmFhNTdlYzFkZDRiN2Y1MWZkNTIzZTdmYzI4NTIzNzZjNThhNzk3`
+Snapshot ID: `MCxmODAyZjc1N2JkMmZiMTg1ODg0OGU0ODM4ZDI0ZWUxZjZlYTcwMDdh`

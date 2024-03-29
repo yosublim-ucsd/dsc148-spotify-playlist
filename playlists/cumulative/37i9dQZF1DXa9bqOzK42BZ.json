@@ -1507,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "Nimefichwa",
+        "url": "https://open.spotify.com/album/6y2am1XRqcxkvDi9RCogrr"
+      },
+      "artists": [
+        {
+          "name": "Enock Jonas",
+          "url": "https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212532,
+      "name": "Nimefichwa",
+      "url": "https://open.spotify.com/track/1itH2yw2j8YpoqyVodTC2s"
+    },
+    {
+      "album": {
         "name": "Bwana Yesu",
         "url": "https://open.spotify.com/album/1PYHRwXBXzZ4Kz60MUB6OS"
       },

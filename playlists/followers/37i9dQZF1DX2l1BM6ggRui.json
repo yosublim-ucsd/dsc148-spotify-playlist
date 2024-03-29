@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 6504,
+  "2024-03-29": 6503,
   "date_first_scraped": "2023-11-04",
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
   "name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 214000,
       "name": "A Perfect Ending",
       "url": "https://open.spotify.com/track/15itaSEmDZt9PVygMrIpTN"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 226346,
       "name": "For you, my sunshine",
       "url": "https://open.spotify.com/track/54oF8FdfIWO7p5F878iCsS"
@@ -988,6 +988,24 @@
     },
     {
       "album": {
+        "name": "I'll be by your side",
+        "url": "https://open.spotify.com/album/1pdxVaLPFmbKCtWKP3sfTS"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234786,
+      "name": "I\u2032ll be by your side",
+      "url": "https://open.spotify.com/track/1CjOylFGEsCzOlgd2xiEw2"
+    },
+    {
+      "album": {
         "name": "Heng:gar\u00e6",
         "url": "https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH"
       },
@@ -1111,6 +1129,24 @@
       "duration_ms": 189533,
       "name": "Lovin' Me",
       "url": "https://open.spotify.com/track/63pHo56L4k2VLXqzt1shrK"
+    },
+    {
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140021,
+      "name": "Lucky Girl Syndrome",
+      "url": "https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275"
     },
     {
       "album": {

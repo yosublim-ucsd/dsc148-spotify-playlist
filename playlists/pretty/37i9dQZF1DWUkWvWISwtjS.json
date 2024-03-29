@@ -1,12 +1,12 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 451660,
+  "num_followers": 451647,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTBhYjk4MmRkZmM3NjhkMzcwZTcxNzY5YjQ5MGEwMDQyMjJiZDJl",
+  "snapshot_id": "MCw2ZWU1MTc2NmRkOWFjYjVmNThkMTI3MGY5YTU2MGIwMWY1NDJmMzU3",
   "tracks": [
     {
       "added_at": "2023-10-13 11:44:55",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 208916,
+      "name": "Impressionando Os Anjos - Ao Vivo",
+      "url": "https://open.spotify.com/track/6tUH34SV3m9mrs4mTyo5AM"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Safad\u00e3o Amplificado",
         "url": "https://open.spotify.com/album/4I44En3hzwqNsyvNrV0gEG"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 155341,
       "name": "Ele \u00c9 Ele, Eu Sou Eu",
       "url": "https://open.spotify.com/track/2vPRrOaM3zvPwrOHoIPjcF"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 208916,
-      "name": "Impressionando Os Anjos - Ao Vivo",
-      "url": "https://open.spotify.com/track/6tUH34SV3m9mrs4mTyo5AM"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Esquenta do DVD",
-        "url": "https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 155661,
-      "name": "Sofro Onde Eu Quiser",
-      "url": "https://open.spotify.com/track/2Xr33epIjw1fbwOhrng4Pd"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Quem Ensinou Fui Eu",
         "url": "https://open.spotify.com/album/1NY84KlDbmKBDevpfRzazH"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 161152,
       "name": "Espelho Meu - Ao Vivo",
       "url": "https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Esquenta do DVD",
+        "url": "https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 155661,
+      "name": "Sofro Onde Eu Quiser",
+      "url": "https://open.spotify.com/track/2Xr33epIjw1fbwOhrng4Pd"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1511,18 +1511,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Sem Contra-Indica\u00e7\u00e3o (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/4cmnBc1SViY9M3Rgh2LgFi"
+        "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo - EP 3",
+        "url": "https://open.spotify.com/album/4vDG2NrteQOLWTpmCcyYrO"
       },
       "artists": [
         {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
         }
       ],
-      "duration_ms": 175786,
-      "name": "Prefiro Nem Perguntar - Ao Vivo",
-      "url": "https://open.spotify.com/track/35ivh85cPKwgo3pZQGXa0e"
+      "duration_ms": 190949,
+      "name": "Saudade em Gotas (feat. Wesley Safad\u00e3o) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4pnlRYoaaGu24SuC3et5Pv"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1543,22 +1547,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo - EP 3",
-        "url": "https://open.spotify.com/album/4vDG2NrteQOLWTpmCcyYrO"
+        "name": "Sem Contra-Indica\u00e7\u00e3o (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/4cmnBc1SViY9M3Rgh2LgFi"
       },
       "artists": [
         {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        },
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
         }
       ],
-      "duration_ms": 190949,
-      "name": "Saudade em Gotas (feat. Wesley Safad\u00e3o) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4pnlRYoaaGu24SuC3et5Pv"
+      "duration_ms": 175786,
+      "name": "Prefiro Nem Perguntar - Ao Vivo",
+      "url": "https://open.spotify.com/track/35ivh85cPKwgo3pZQGXa0e"
     },
     {
       "added_at": "2023-10-13 11:44:55",

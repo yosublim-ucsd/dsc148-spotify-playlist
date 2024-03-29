@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: De Beren Gieren
 
-204 songs - 17 hr 32 min
+205 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Bee Jive](https://open.spotify.com/track/0b41FogpMfqTEgGjmPjecc) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Bee Jive](https://open.spotify.com/album/2REXT0lKTL8rPIuim1Nycd) | 6:00 | 2023-03-02 | 2024-03-15 |
 | [Believe it or not](https://open.spotify.com/track/16v7VHdADS6oFZOBohb6W7) | [Marco Locurcio](https://open.spotify.com/artist/2RACMOQxnNns6xRkyhmrY4) | [Believe it or not](https://open.spotify.com/album/7mgfEI0lCUTUSMTgdprAZq) | 4:32 | 2022-09-08 |  |
 | [Bembe](https://open.spotify.com/track/5UgjCPDvwKitUi1t1Fb3MJ) | [SUWI](https://open.spotify.com/artist/5va5r5z6fJonpxQjK4CuzL) | [Bembe](https://open.spotify.com/album/6B7wVPyxmIwOIvWfw0W0zp) | 3:17 | 2022-09-08 | 2023-04-06 |
-| [Birdman](https://open.spotify.com/track/06CZmASsue66Gkp269Rqld) | [Hachoo](https://open.spotify.com/artist/63YSIh9PBCZZUzZWAJoidv) | [On a Thin Rope with a Shaky Smile](https://open.spotify.com/album/11fDYTospHQX82R2IKQFcj) | 5:05 | 2022-09-08 |  |
+| [Birdman](https://open.spotify.com/track/06CZmASsue66Gkp269Rqld) | [Hachoo](https://open.spotify.com/artist/63YSIh9PBCZZUzZWAJoidv) | [On a Thin Rope with a Shaky Smile](https://open.spotify.com/album/11fDYTospHQX82R2IKQFcj) | 5:05 | 2022-09-08 | 2024-03-29 |
 | [Bitcoins](https://open.spotify.com/track/1qMOqqSRssiThb0XUSDyvz) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc) | [Buy The Dip](https://open.spotify.com/album/0EWz9DeLZ0jF7b3kzrzA3j) | 3:22 | 2022-09-08 | 2024-03-15 |
 | [Black Chamber \(Escape To The Sun\)](https://open.spotify.com/track/3XCskMcK4GlDGoi81IL2qL) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH), [Binkbeats](https://open.spotify.com/artist/7exctwYNULoOlBmGGUwIzd) | [Black Chamber \(Escape To The Sun\)](https://open.spotify.com/album/0lx3nZ90CsYG1TyhWMKVSJ) | 6:37 | 2022-09-08 | 2024-03-15 |
 | [Blast From The Past \- Radio Edit](https://open.spotify.com/track/0OmjM4X2gdCjH23b97uUJ9) | [Reinhard Vanbergen](https://open.spotify.com/artist/6uvyWuE7z8Rv93plqNWniu) | [Blast from the Past](https://open.spotify.com/album/6YsiX79JLnYw40r4udI2uz) | 4:18 | 2022-09-08 | 2023-02-24 |
@@ -209,6 +209,7 @@
 | [Wessel](https://open.spotify.com/track/672F19pjKGG8SsqArjk1EX) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [An Arp in Tunisia](https://open.spotify.com/album/2lz6ITi3CbuZgS6TmMV6iy) | 5:03 | 2022-09-15 | 2022-10-03 |
 | [Wessel](https://open.spotify.com/track/7qmozlnwvvhUMzqKH80lfK) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Lefto presents Jazz Cats volume 2](https://open.spotify.com/album/79r34KmANs2Z6JsATAjrTx) | 5:03 | 2022-10-20 | 2022-10-24 |
 | [WGHWBH](https://open.spotify.com/track/2Gk2ojObQ0KJev9q4xANXm) | [HONEY](https://open.spotify.com/artist/4A8G43ljlPyTmgBYOzi6zc) | [WGHWBH](https://open.spotify.com/album/3IXktD0oxECWhvw7yBW8LU) | 4:45 | 2023-06-23 | 2023-12-15 |
+| [What Eludes Us](https://open.spotify.com/track/4U3D8tw3wcY6Sv3n46FQGp) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [What Eludes Us](https://open.spotify.com/album/17GR5WsqNpR9IKYquLCY4R) | 5:31 | 2024-03-28 |  |
 | [Wolk](https://open.spotify.com/track/1psgbIT91j1nQMWMG9puWg) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [Wolk](https://open.spotify.com/album/5KEYqGAofKWeCD7CZzojpB) | 3:59 | 2022-09-08 | 2024-03-15 |
 | [Yiri Yiri Boum](https://open.spotify.com/track/6iICxNg56nU4HLLNCRi1DU) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Yiri Yiri Boum](https://open.spotify.com/album/7eQPW7QK3AGerQXqtr9B3O) | 6:11 | 2024-03-14 |  |
 | [Yupla](https://open.spotify.com/track/4Bu8wvlZWNu1OdCpXFyZ3t) | [mòs ensemble](https://open.spotify.com/artist/6oqHDzHvWhsmPOt22n3wQX) | [Yupla](https://open.spotify.com/album/65PAdAMM9EtDP2WC0fT4en) | 3:48 | 2024-03-14 |  |

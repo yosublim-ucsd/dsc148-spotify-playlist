@@ -8748,7 +8748,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 220566,
       "name": "Dovidenia",
       "url": "https://open.spotify.com/track/0aBdBSOuzJKQzV011nZUqz"
@@ -13152,7 +13152,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 184000,
       "name": "Headache",
       "url": "https://open.spotify.com/track/1HtxGCsjuaokdASW95dBN3"
@@ -21326,7 +21326,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 114955,
       "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
       "url": "https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C"
@@ -28946,7 +28946,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 95002,
       "name": "scars",
       "url": "https://open.spotify.com/track/0c683aCGn2mXMU1I9Js449"
@@ -30424,6 +30424,24 @@
       "duration_ms": 150926,
       "name": "Slzy",
       "url": "https://open.spotify.com/track/3zvg1jGv8J5laammbEvkzf"
+    },
+    {
+      "album": {
+        "name": "Smart (Remixes)",
+        "url": "https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166384,
+      "name": "Smart",
+      "url": "https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ"
     },
     {
       "album": {
@@ -34952,6 +34970,24 @@
       "duration_ms": 166951,
       "name": "Ur the Moon Catier",
       "url": "https://open.spotify.com/track/543jVJIoCGTUCcCWNheFqp"
+    },
+    {
+      "album": {
+        "name": "volume 3",
+        "url": "https://open.spotify.com/album/2Z6SXBpgOJuKbw4I6jd8Po"
+      },
+      "artists": [
+        {
+          "name": "sp\u00e1nok v lese letargie",
+          "url": "https://open.spotify.com/artist/6G0h5jzjBzQw749gTYlK4q"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129720,
+      "name": "usp\u00e1vanka",
+      "url": "https://open.spotify.com/track/6h35tOujAeigtRDHQ6dcOK"
     },
     {
       "album": {

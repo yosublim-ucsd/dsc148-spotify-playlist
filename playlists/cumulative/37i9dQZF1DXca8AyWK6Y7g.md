@@ -4,7 +4,7 @@
 
 > now you're talkin' 'bout me too 📷: Zoe Ko
 
-1,995 songs - 4 day 4 hr 36 min
+1,996 songs - 4 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1071,7 +1071,7 @@
 | [Losing Sleep](https://open.spotify.com/track/7yML47qFTPnJW9gp7uurpT) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Losing Sleep](https://open.spotify.com/album/7J7FNt2SsRtvs294XWmTPd) | 2:42 | 2022-10-28 | 2022-11-12 |
 | [Lost](https://open.spotify.com/track/2P008xRvFjXgzOK7OUUVyS) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Lost](https://open.spotify.com/album/6baHRhSnqtzgOo4uPhMAVO) | 3:28 | 2021-08-19 | 2021-10-16 |
 | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/track/50pEs4BEQlgoZo6rKHNtEA) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/album/5BFBhnlWveg1RCn6Q4RX7W) | 4:01 | 2019-05-26\* | 2020-02-19 |
-| [Lost Cowboy](https://open.spotify.com/track/3tY2XzxCwgL1hBVuqlvGSw) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Lost Cowboy](https://open.spotify.com/album/0nxWcWScVWslL2btGpM5qm) | 2:36 | 2024-03-01 |  |
+| [Lost Cowboy](https://open.spotify.com/track/3tY2XzxCwgL1hBVuqlvGSw) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Lost Cowboy](https://open.spotify.com/album/0nxWcWScVWslL2btGpM5qm) | 2:36 | 2024-03-01 | 2024-03-29 |
 | [Lost Frequency](https://open.spotify.com/track/1Pj03mGat7r3TTg1L6p3pQ) | [The Swoons](https://open.spotify.com/artist/5RGUEjOuOgYjBfL9wOmoGh), [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Lost Frequency](https://open.spotify.com/album/0y8hF3mrTQWz791rFdMURB) | 3:34 | 2019-05-26\* | 2020-04-18 |
 | [Lost In Love](https://open.spotify.com/track/3ZeR4nO0QmiIP8DlNYz4wm) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Lost In Love](https://open.spotify.com/album/5wptCIda7QwzdcJ0sZhdWX) | 2:10 | 2021-05-03 | 2021-08-22 |
 | [Lost in Translation](https://open.spotify.com/track/5TUZhrb8UaaA76NhzZax2Z) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones](https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX) | 3:10 | 2021-01-23 | 2022-01-08 |
@@ -1981,6 +1981,7 @@
 | [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 | 2023-05-05 | 2023-06-03 |
 | [WOW!](https://open.spotify.com/track/2ncvbvkVzRqy2xjvge55r0) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [WOW!](https://open.spotify.com/album/36z6FDQ2tT2GTIoFSPeplG) | 2:52 | 2024-03-22 |  |
 | [WTF](https://open.spotify.com/track/7mYrw8DN9vDg1c5qqpDboC) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [WTF](https://open.spotify.com/album/5LDEHT3uGE4kS5BbbhiPTO) | 3:02 | 2022-03-18 | 2022-04-09 |
+| [Wtf u want.](https://open.spotify.com/track/0pURlXPaj5o9tXRim3kT1a) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Wtf u want.](https://open.spotify.com/album/10sX64KGtxKuFNNskErQkb) | 2:07 | 2024-03-15 |  |
 | [X's](https://open.spotify.com/track/0xgXEMA62AEMPSM0inCuLy) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Chapter 1: Things We're Not Saying](https://open.spotify.com/album/1WbnYN5xJRoNCPMQ2Ne0xn) | 2:34 | 2022-09-23 | 2022-10-29 |
 | [Xbox Luvr](https://open.spotify.com/track/23FuLOumEHvyswN9fp6Owy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Xbox Luvr](https://open.spotify.com/album/5Kv6P3Ln0Q6RvPFZYCzyi2) | 2:56 | 2021-05-03 | 2021-11-19 |
 | [XO](https://open.spotify.com/track/185Q9qHtxrovV2fA09XjAw) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [XO](https://open.spotify.com/album/47kPcIMjftKm7S60GDFAQM) | 3:32 | 2022-06-24 | 2022-09-02 |

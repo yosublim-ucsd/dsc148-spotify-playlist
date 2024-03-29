@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 1,
+  "2024-03-29": 1,
   "date_first_scraped": "2023-03-31",
   "description": "albums i plan to listen to eventually",
   "name": "Zacklog",
@@ -727,7 +727,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 254053,
       "name": "All the Trees of the Field Will Clap Their Hands",
       "url": "https://open.spotify.com/track/5OjpdQLQNF59wsZx9S9b10"
@@ -5901,7 +5901,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 208201,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/1wzwDKMN9m7NATxnsLqJAu"
@@ -6707,7 +6707,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 5650,
       "name": "Mornin'!",
       "url": "https://open.spotify.com/track/5c3OcRPB9vCgCtenGQpIUv"
@@ -6913,7 +6913,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 108986,
       "name": "New Jeans",
       "url": "https://open.spotify.com/track/7woEDtme8YkFiWeyiinIjy"
@@ -7541,7 +7541,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 246573,
       "name": "Pin It Down",
       "url": "https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI"
@@ -9380,6 +9380,24 @@
     },
     {
       "album": {
+        "name": "Disposable Everything",
+        "url": "https://open.spotify.com/album/0uDWPhORO8SgKok6AuEyAc"
+      },
+      "artists": [
+        {
+          "name": "AJJ",
+          "url": "https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237132,
+      "name": "Strawberry (Probably)",
+      "url": "https://open.spotify.com/track/0QZ10VC3xe0IsUcWBejgtF"
+    },
+    {
+      "album": {
         "name": "Ultima II Massage",
         "url": "https://open.spotify.com/album/4BBxAB26ofkXvBmlatzTpW"
       },
@@ -10957,7 +10975,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 97644,
       "name": "Voicemail",
       "url": "https://open.spotify.com/track/7sWoi73RVYkbkd8S7duNAV"

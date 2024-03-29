@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 3,
+  "2024-03-29": 3,
   "date_first_scraped": "2023-07-13",
   "description": "",
   "name": "locked tf in\ud83d\udd12",
@@ -16015,6 +16015,28 @@
       "duration_ms": 274200,
       "name": "WOW (with A$AP Rocky)",
       "url": "https://open.spotify.com/track/2RWlRSi9TthgUka2yrLnrD"
+    },
+    {
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292600,
+      "name": "WTFYM",
+      "url": "https://open.spotify.com/track/1xwvjqcwflD2NEqRCNcCo2"
     },
     {
       "album": {

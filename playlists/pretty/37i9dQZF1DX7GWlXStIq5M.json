@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Ananda",
-  "num_followers": 363825,
+  "num_followers": 363824,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzFiOWYzNmY3ODY3ZTdhNTE0ODIxZTFlYTFjNWJlNmIwMzVmMDU5",
+  "snapshot_id": "MCxjNjk5MTg2YTNiNTkwMzNlMDYxZWY1ZDcwZDkzMjNjYzI0ZDVlYmNl",
   "tracks": [
     {
       "added_at": "2024-03-22 03:00:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Piloto",
-        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Piloto",
-      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "Hotel Caro",
         "url": "https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 221857,
       "name": "Hotel Caro",
       "url": "https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Piloto",
+        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Piloto",
+      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Jardins Da Babil\u00f4nia",
-        "url": "https://open.spotify.com/album/17eUYWC6XmUTbYFQ94wP0e"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        },
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 177546,
-      "name": "Jardins Da Babil\u00f4nia",
-      "url": "https://open.spotify.com/track/6hiez1vBKYqDdPKCQOIEg0"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "Baile do Papato",
         "url": "https://open.spotify.com/album/2xReweSuwmZbdogHMILeek"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 181670,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/3Q0LWpLuhEcCCWjpfBRnzH"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Jardins Da Babil\u00f4nia",
+        "url": "https://open.spotify.com/album/17eUYWC6XmUTbYFQ94wP0e"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        },
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 177546,
+      "name": "Jardins Da Babil\u00f4nia",
+      "url": "https://open.spotify.com/track/6hiez1vBKYqDdPKCQOIEg0"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
+        "name": "Sintomas de Prazer - Live",
+        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 151103,
+      "name": "Sintomas de Prazer - Live",
+      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
         "name": "putz",
         "url": "https://open.spotify.com/album/4jHIJVCbtAKEfvLg9gbdxl"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 108307,
       "name": "putz",
       "url": "https://open.spotify.com/track/3eDcQ4Hb1C662e1iCYzxCL"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
-        "name": "Sintomas de Prazer - Live",
-        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 151103,
-      "name": "Sintomas de Prazer - Live",
-      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
+        "name": "Meu Mel",
+        "url": "https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v"
+      },
+      "artists": [
+        {
+          "name": "Bella Angel",
+          "url": "https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "Meu Mel",
+      "url": "https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
         "name": "Brigas Demais - Live",
         "url": "https://open.spotify.com/album/0vCLrwZTtam4AFmvbNN0fC"
       },
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Meu Mel",
-        "url": "https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v"
-      },
-      "artists": [
-        {
-          "name": "Bella Angel",
-          "url": "https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "Meu Mel",
-      "url": "https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "Ai, Que Calor",
         "url": "https://open.spotify.com/album/1ZdCeqypeVqs47668BjdkZ"
       },
@@ -1343,6 +1343,26 @@
       "duration_ms": 144262,
       "name": "Ai, Que Calor",
       "url": "https://open.spotify.com/track/32z2SmKSxh80H0LfnDpD1m"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Tudo Meu",
+        "url": "https://open.spotify.com/album/0JdAzfGhlWWcF3za66uSLK"
+      },
+      "artists": [
+        {
+          "name": "RUBY",
+          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        }
+      ],
+      "duration_ms": 145653,
+      "name": "Tudo Meu",
+      "url": "https://open.spotify.com/track/4R7e0VeGP4ouYYd3fJIsH9"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1407,26 +1427,6 @@
       "duration_ms": 165957,
       "name": "Serena",
       "url": "https://open.spotify.com/track/6JUytWFYcYR7KSA4kiIJoI"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
-        "name": "Tudo Meu",
-        "url": "https://open.spotify.com/album/0JdAzfGhlWWcF3za66uSLK"
-      },
-      "artists": [
-        {
-          "name": "RUBY",
-          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
-        },
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        }
-      ],
-      "duration_ms": 145653,
-      "name": "Tudo Meu",
-      "url": "https://open.spotify.com/track/4R7e0VeGP4ouYYd3fJIsH9"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Boa de Beber",
-        "url": "https://open.spotify.com/album/31VUUoX7xVUM8yZgEGMRH5"
-      },
-      "artists": [
-        {
-          "name": "Anaju Oliveira",
-          "url": "https://open.spotify.com/artist/7JPwRrClIcgOfAMB6FFfT0"
-        }
-      ],
-      "duration_ms": 128507,
-      "name": "Boa de Beber",
-      "url": "https://open.spotify.com/track/1lWQQaQZQAFKG0HYxspHXI"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "Amanh\u00e3",
         "url": "https://open.spotify.com/album/4fAOx1ZdilrOoeOl0D0d0l"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 129166,
       "name": "Amanh\u00e3",
       "url": "https://open.spotify.com/track/5NymnW8GUo8rbcpjnATBM1"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Boa de Beber",
+        "url": "https://open.spotify.com/album/31VUUoX7xVUM8yZgEGMRH5"
+      },
+      "artists": [
+        {
+          "name": "Anaju Oliveira",
+          "url": "https://open.spotify.com/artist/7JPwRrClIcgOfAMB6FFfT0"
+        }
+      ],
+      "duration_ms": 128507,
+      "name": "Boa de Beber",
+      "url": "https://open.spotify.com/track/1lWQQaQZQAFKG0HYxspHXI"
     },
     {
       "added_at": "2024-03-22 03:00:00",

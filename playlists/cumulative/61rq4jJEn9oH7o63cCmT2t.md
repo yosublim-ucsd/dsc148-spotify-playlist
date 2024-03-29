@@ -4,7 +4,7 @@
 
 > Holy fuck I&\#x27;m so tired
 
-46 songs - 2 hr 38 min
+47 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Ground Level](https://open.spotify.com/track/4OYbXIPquvyX3GIgdMzY3S) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jenny from Thebes](https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT) | 2:22 | 2023-10-30 |  |
 | [Hammer To Fall](https://open.spotify.com/track/2GCFcbxm61rSA8gzsDk6NJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works](https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43) | 4:26 | 2023-03-21 |  |
 | [Hey I Don't Work Here](https://open.spotify.com/track/3OUaTEgKLHVIb0ZMavyPY7) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Big Dumb Idiot](https://open.spotify.com/album/0bh9TnPCRsV5oJYb5K8Ytp) | 4:55 | 2023-01-04 |  |
+| [Hurt](https://open.spotify.com/track/4CIDpgIby1S9PPnDNUnxdg) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:25 | 2024-03-28 |  |
 | [I Lost Thursday](https://open.spotify.com/track/5KAs9OVZmGt6DNyGNwXoZv) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Super Cool](https://open.spotify.com/album/0QYdhxj2cOe102smrHABGF) | 3:14 | 2023-03-26 |  |
 | [I'm Gonna Win](https://open.spotify.com/track/6bWP2PGRjyRjbHTdnMRDk9) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Not a Trampoline](https://open.spotify.com/album/1Y5i7JllvK9heVzVfcEyIE) | 2:38 | 2023-08-15 |  |
 | [I've No More ..\. To Give](https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl) | [Thomas Benjamin Wild Esq](https://open.spotify.com/artist/0xlt7JpfQEvG9to5B06oPL), [Damian Clark](https://open.spotify.com/artist/47WZyqxyj2CJFc1qSOEzel) | [Awkward Encounters While Walking My Dog](https://open.spotify.com/album/0sPURcvc9VDouO1Q0mmVyc) | 3:05 | 2023-08-24 |  |

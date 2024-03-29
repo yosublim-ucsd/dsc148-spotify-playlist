@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Little Ricky ZR3",
+          "url": "https://open.spotify.com/artist/6GaslxycqT27V8q2H3yZ7x"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159832,
+      "name": "1993 (feat. Little Ricky ZR3)",
+      "url": "https://open.spotify.com/track/71iA79hOFAMmwGB1w83VH1"
+    },
+    {
+      "album": {
         "name": "Nature Tapes",
         "url": "https://open.spotify.com/album/4Julje5zwF2IRlSqBOQ2oJ"
       },

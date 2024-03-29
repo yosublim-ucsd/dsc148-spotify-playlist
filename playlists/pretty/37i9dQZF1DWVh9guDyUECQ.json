@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: <a href=\"spotify:artist:4DROs1Ye9DiLY3X8L7xvl8\">Andrez Babii</a>",
-  "num_followers": 181066,
+  "num_followers": 181138,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTUxODZiZDAxMzhmMzE5MDZhMGQ4ODNjNzVjNGE5ZDFlZDNlYzFh",
+  "snapshot_id": "MCxjZWUyOGQ1ODdiMWY4MTJkOWU3ZDVlYTNhMDFhN2IyNGM4NzI0NmQx",
   "tracks": [
     {
       "added_at": "2024-03-20 12:23:39",
@@ -115,26 +115,6 @@
     {
       "added_at": "2024-03-20 12:23:39",
       "album": {
-        "name": "Antes Y Despu\u00e9s",
-        "url": "https://open.spotify.com/album/1Xpb28A16hRgzJwSTFjHfc"
-      },
-      "artists": [
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        },
-        {
-          "name": "Travy Joe",
-          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Oy\u00e9, Mi Gente",
-      "url": "https://open.spotify.com/track/5BOcdBrvXG2ymLNGBuZUwN"
-    },
-    {
-      "added_at": "2024-03-20 12:23:39",
-      "album": {
         "name": "Dosis",
         "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 236578,
       "name": "A Ciegas",
       "url": "https://open.spotify.com/track/6yfHerzOkiXdbBmpWMNkTg"
+    },
+    {
+      "added_at": "2024-03-20 12:23:39",
+      "album": {
+        "name": "Antes Y Despu\u00e9s",
+        "url": "https://open.spotify.com/album/1Xpb28A16hRgzJwSTFjHfc"
+      },
+      "artists": [
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Oy\u00e9, Mi Gente",
+      "url": "https://open.spotify.com/track/5BOcdBrvXG2ymLNGBuZUwN"
     },
     {
       "added_at": "2024-03-20 12:23:39",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-03-20 12:23:39",
       "album": {
-        "name": "La M\u00fasica",
-        "url": "https://open.spotify.com/album/4FVYEZeWI1oCLc9aPEYq7M"
-      },
-      "artists": [
-        {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "La M\u00fasica",
-      "url": "https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx"
-    },
-    {
-      "added_at": "2024-03-20 12:23:39",
-      "album": {
         "name": "Dosis",
         "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 165698,
       "name": "No Disparo",
       "url": "https://open.spotify.com/track/7hF2EHeIpUri12J7JQ6kMg"
+    },
+    {
+      "added_at": "2024-03-20 12:23:39",
+      "album": {
+        "name": "La M\u00fasica",
+        "url": "https://open.spotify.com/album/4FVYEZeWI1oCLc9aPEYq7M"
+      },
+      "artists": [
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "La M\u00fasica",
+      "url": "https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx"
     },
     {
       "added_at": "2024-03-20 12:23:39",
@@ -879,6 +879,26 @@
     {
       "added_at": "2024-03-20 12:23:39",
       "album": {
+        "name": "Futuro Contigo",
+        "url": "https://open.spotify.com/album/4F1jlzvEXok5uEPkjorsCe"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 213033,
+      "name": "Futuro Contigo",
+      "url": "https://open.spotify.com/track/6AfHQ4B8pUmIVCBrGAyJTO"
+    },
+    {
+      "added_at": "2024-03-20 12:23:39",
+      "album": {
         "name": "Paz",
         "url": "https://open.spotify.com/album/1Gbh8zYBWiXviLjGoLV25B"
       },
@@ -903,22 +923,18 @@
     {
       "added_at": "2024-03-20 12:23:39",
       "album": {
-        "name": "Futuro Contigo",
-        "url": "https://open.spotify.com/album/4F1jlzvEXok5uEPkjorsCe"
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/6jLDlv6qLUjwVgvcq8h3NB"
       },
       "artists": [
         {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
         }
       ],
-      "duration_ms": 213033,
-      "name": "Futuro Contigo",
-      "url": "https://open.spotify.com/track/6AfHQ4B8pUmIVCBrGAyJTO"
+      "duration_ms": 200333,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3rEFHkpVayHvY6wx5Fb7a1"
     },
     {
       "added_at": "2024-03-20 12:23:39",
@@ -939,18 +955,18 @@
     {
       "added_at": "2024-03-20 12:23:39",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/6jLDlv6qLUjwVgvcq8h3NB"
+        "name": "No Existe",
+        "url": "https://open.spotify.com/album/49nTQuNx1Ofnm4Kg0vlSt6"
       },
       "artists": [
         {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
         }
       ],
-      "duration_ms": 200333,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/3rEFHkpVayHvY6wx5Fb7a1"
+      "duration_ms": 204381,
+      "name": "No Existe",
+      "url": "https://open.spotify.com/track/2rNeTNpb0GhpCZWuXelW3h"
     },
     {
       "added_at": "2024-03-20 12:23:39",
@@ -971,22 +987,6 @@
       "duration_ms": 195882,
       "name": "ECHO",
       "url": "https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY"
-    },
-    {
-      "added_at": "2024-03-20 12:23:39",
-      "album": {
-        "name": "No Existe",
-        "url": "https://open.spotify.com/album/49nTQuNx1Ofnm4Kg0vlSt6"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 204381,
-      "name": "No Existe",
-      "url": "https://open.spotify.com/track/2rNeTNpb0GhpCZWuXelW3h"
     },
     {
       "added_at": "2024-03-20 12:23:39",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2024-03-20 12:23:39",
       "album": {
-        "name": "Tumba",
-        "url": "https://open.spotify.com/album/0gAvd9iYu6hKJ3DvE9oZv2"
-      },
-      "artists": [
-        {
-          "name": "JXHN PVUL",
-          "url": "https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU"
-        },
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        }
-      ],
-      "duration_ms": 152439,
-      "name": "Tumba",
-      "url": "https://open.spotify.com/track/3pG0dfvF8vQZY10HOit7UM"
-    },
-    {
-      "added_at": "2024-03-20 12:23:39",
-      "album": {
         "name": "Solita",
         "url": "https://open.spotify.com/album/009mTdnGfMQGaPYZq3UFfl"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 221879,
       "name": "Coraz\u00f3n de Piedra",
       "url": "https://open.spotify.com/track/0PImEtenba1318UQSlkmeP"
+    },
+    {
+      "added_at": "2024-03-20 12:23:39",
+      "album": {
+        "name": "Tumba",
+        "url": "https://open.spotify.com/album/0gAvd9iYu6hKJ3DvE9oZv2"
+      },
+      "artists": [
+        {
+          "name": "JXHN PVUL",
+          "url": "https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU"
+        },
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        }
+      ],
+      "duration_ms": 152439,
+      "name": "Tumba",
+      "url": "https://open.spotify.com/track/3pG0dfvF8vQZY10HOit7UM"
     },
     {
       "added_at": "2024-03-20 12:23:39",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-03-20 12:23:39",
       "album": {
-        "name": "158",
-        "url": "https://open.spotify.com/album/4atRfdVDjejaG9x0wgiNt8"
-      },
-      "artists": [
-        {
-          "name": "Peter Metivier",
-          "url": "https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg"
-        },
-        {
-          "name": "El Philippe",
-          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
-        }
-      ],
-      "duration_ms": 191186,
-      "name": "158",
-      "url": "https://open.spotify.com/track/2r6TFHq0fbHY0WExjjAkAN"
-    },
-    {
-      "added_at": "2024-03-20 12:23:39",
-      "album": {
         "name": "Todo",
         "url": "https://open.spotify.com/album/4eddoLwIvlhjJuwP6vVkSg"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 129026,
       "name": "Todo",
       "url": "https://open.spotify.com/track/4F32nuyJZiR44CI4GcNLd1"
+    },
+    {
+      "added_at": "2024-03-20 12:23:39",
+      "album": {
+        "name": "158",
+        "url": "https://open.spotify.com/album/4atRfdVDjejaG9x0wgiNt8"
+      },
+      "artists": [
+        {
+          "name": "Peter Metivier",
+          "url": "https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg"
+        },
+        {
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+        }
+      ],
+      "duration_ms": 191186,
+      "name": "158",
+      "url": "https://open.spotify.com/track/2r6TFHq0fbHY0WExjjAkAN"
     },
     {
       "added_at": "2024-03-20 12:23:39",
@@ -1383,18 +1383,22 @@
     {
       "added_at": "2024-03-20 12:23:39",
       "album": {
-        "name": "Somos Las Voces",
-        "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
+        "name": "Gozo Yo Quer\u00eda",
+        "url": "https://open.spotify.com/album/3LDNOqzk1HF7xYhVyUFezN"
       },
       "artists": [
         {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+          "name": "Jinys",
+          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
+        },
+        {
+          "name": "Abdi",
+          "url": "https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6"
         }
       ],
-      "duration_ms": 242497,
-      "name": "Somos Las Voces",
-      "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
+      "duration_ms": 188921,
+      "name": "Gozo Yo Quer\u00eda",
+      "url": "https://open.spotify.com/track/1fzA0uEca3T0aXla9LrEeF"
     },
     {
       "added_at": "2024-03-20 12:23:39",
@@ -1415,22 +1419,18 @@
     {
       "added_at": "2024-03-20 12:23:39",
       "album": {
-        "name": "Gozo Yo Quer\u00eda",
-        "url": "https://open.spotify.com/album/3LDNOqzk1HF7xYhVyUFezN"
+        "name": "Somos Las Voces",
+        "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
       },
       "artists": [
         {
-          "name": "Jinys",
-          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
-        },
-        {
-          "name": "Abdi",
-          "url": "https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6"
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
         }
       ],
-      "duration_ms": 188921,
-      "name": "Gozo Yo Quer\u00eda",
-      "url": "https://open.spotify.com/track/1fzA0uEca3T0aXla9LrEeF"
+      "duration_ms": 242497,
+      "name": "Somos Las Voces",
+      "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
     },
     {
       "added_at": "2024-03-20 12:23:39",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2024-03-20 12:23:39",
       "album": {
+        "name": "Por un Momento",
+        "url": "https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs"
+      },
+      "artists": [
+        {
+          "name": "The cXurch",
+          "url": "https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL"
+        },
+        {
+          "name": "Villanova",
+          "url": "https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Por un Momento",
+      "url": "https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ"
+    },
+    {
+      "added_at": "2024-03-20 12:23:39",
+      "album": {
         "name": "BEST NIGHT",
         "url": "https://open.spotify.com/album/4unZ0GkcZuI9qWIdF77eiL"
       },
@@ -1555,26 +1575,6 @@
     {
       "added_at": "2024-03-20 12:23:39",
       "album": {
-        "name": "Por un Momento",
-        "url": "https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs"
-      },
-      "artists": [
-        {
-          "name": "The cXurch",
-          "url": "https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL"
-        },
-        {
-          "name": "Villanova",
-          "url": "https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Por un Momento",
-      "url": "https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ"
-    },
-    {
-      "added_at": "2024-03-20 12:23:39",
-      "album": {
         "name": "Mateo 10:16",
         "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
       },
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-03-20 12:23:39",
       "album": {
+        "name": "No, No",
+        "url": "https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 176158,
+      "name": "No, No",
+      "url": "https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw"
+    },
+    {
+      "added_at": "2024-03-20 12:23:39",
+      "album": {
         "name": "Formula 1",
         "url": "https://open.spotify.com/album/1Uc6lMxxI20pdTFG5GiJg2"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 209000,
       "name": "F\u00f3rmula 1",
       "url": "https://open.spotify.com/track/7d6nTbzPaYTY8ZoclH7lQ8"
-    },
-    {
-      "added_at": "2024-03-20 12:23:39",
-      "album": {
-        "name": "No, No",
-        "url": "https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 176158,
-      "name": "No, No",
-      "url": "https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw"
     },
     {
       "added_at": "2024-03-20 12:23:39",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-03-20 12:23:39",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/2mbyB4D1yofDtI6Sx9VwvI"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/3P09VuL6OIqf52ddF9KRWG"
-    },
-    {
-      "added_at": "2024-03-20 12:23:39",
-      "album": {
         "name": "Noches Enteras",
         "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 231008,
       "name": "Noches Enteras",
       "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
+    },
+    {
+      "added_at": "2024-03-20 12:23:39",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/2mbyB4D1yofDtI6Sx9VwvI"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 180173,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/3P09VuL6OIqf52ddF9KRWG"
     },
     {
       "added_at": "2024-03-20 12:23:39",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-03-20 12:23:39",
       "album": {
-        "name": "Flow Cristiano",
-        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
-      },
-      "artists": [
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
-        }
-      ],
-      "duration_ms": 210337,
-      "name": "Flow Cristiano",
-      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
-    },
-    {
-      "added_at": "2024-03-20 12:23:39",
-      "album": {
         "name": "Tu Siervo Pa",
         "url": "https://open.spotify.com/album/2UdbIIyXUaN65csaScYVq8"
       },
@@ -1895,22 +1879,18 @@
     {
       "added_at": "2024-03-20 12:23:39",
       "album": {
-        "name": "El Fuego",
-        "url": "https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh"
+        "name": "Flow Cristiano",
+        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
       },
       "artists": [
         {
-          "name": "Sarah La Profeta",
-          "url": "https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL"
-        },
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
         }
       ],
-      "duration_ms": 190095,
-      "name": "El Fuego",
-      "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
+      "duration_ms": 210337,
+      "name": "Flow Cristiano",
+      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
     },
     {
       "added_at": "2024-03-20 12:23:39",
@@ -1943,6 +1923,38 @@
       "duration_ms": 179999,
       "name": "Nunca Falla",
       "url": "https://open.spotify.com/track/0Oix36INA6EJ7p8KYcm4hW"
+    },
+    {
+      "added_at": "2024-03-20 12:23:39",
+      "album": {
+        "name": "Como Siempre",
+        "url": "https://open.spotify.com/album/6JTvSdp2X8Qx6nSpL8dkqh"
+      },
+      "artists": [
+        {
+          "name": "Wolandia",
+          "url": "https://open.spotify.com/artist/46eL7q4TISdKjN2px64rhu"
+        },
+        {
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
+        },
+        {
+          "name": "Jota Brother",
+          "url": "https://open.spotify.com/artist/25IVywaI7Vt98ZeVW3LrYr"
+        },
+        {
+          "name": "Rapacortes",
+          "url": "https://open.spotify.com/artist/4vpADGNWS3zDDxd2hQrOoM"
+        },
+        {
+          "name": "Simiente Incorruptible",
+          "url": "https://open.spotify.com/artist/00lO9exwxYAnFcYeWhtotT"
+        }
+      ],
+      "duration_ms": 341176,
+      "name": "Como Siempre",
+      "url": "https://open.spotify.com/track/7GJFGUpd6V1LkTrm9hgavK"
     }
   ],
   "unique_name": "Flow Cristiano",

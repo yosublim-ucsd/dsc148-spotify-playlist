@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-239 songs - 12 hr 32 min
+240 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Babaji](https://open.spotify.com/track/3lqJMMSFVVCRqcA8qqT7Ft) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [KING Returns](https://open.spotify.com/album/1jpGnXd6QupHBhWfH7wFA7) | 3:36 | 2024-01-12 | 2024-02-07 |
 | [Bad\-Nam](https://open.spotify.com/track/5yExkaHAJy1LnIPXFv8fNx) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [Swattrex](https://open.spotify.com/artist/1c4IXYT2idOski3WEtfJpW) | [Bad\-Nam](https://open.spotify.com/album/6rWhToggUTvJFynDRoBZU7) | 1:50 | 2023-03-29 | 2023-07-21 |
 | [Badan](https://open.spotify.com/track/6HZVYWwSmbYJAnntaEgFQF) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ) | [Badan](https://open.spotify.com/album/1Eh8UYxP5RphyYBbIuzXcf) | 2:54 | 2023-03-29 | 2023-04-17 |
-| [BADNAAM](https://open.spotify.com/track/3KDD0ynijMr5VaJGxxUk92) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:52 | 2023-03-29 |  |
+| [BADNAAM](https://open.spotify.com/track/3KDD0ynijMr5VaJGxxUk92) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:52 | 2023-03-29 | 2024-03-29 |
 | [Bana Hi Nahi Tha](https://open.spotify.com/track/6hEDk4meQkfuUB4MVMCsMP) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Bana Hi Nahi Tha](https://open.spotify.com/album/47tdU90RtfE3Kmz8Ocqvd9) | 3:14 | 2024-02-06 |  |
 | [Banger Pro Max](https://open.spotify.com/track/60HDV0rmiKQ9ZriK4PHdos) | [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [Banger Pro Max](https://open.spotify.com/album/0sOjlH4Z8glH3OzQItLZjk) | 2:36 | 2023-03-29 | 2023-07-21 |
 | [Bas Ke Bahar](https://open.spotify.com/track/6p6HR5HKDBLqiT4jH4dMpu) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Bas Ke Bahar](https://open.spotify.com/album/4LuJ0yiuHkZyGo5RjbE6jW) | 3:09 | 2023-03-29 | 2023-04-17 |
@@ -186,6 +186,7 @@
 | [Perfy](https://open.spotify.com/track/4RMRllyjS0K5hCOPRJmQDs) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Perfy](https://open.spotify.com/album/2LbFWGS7q1oV7zTUOQ5ZOB) | 3:03 | 2023-03-29 |  |
 | [Pind Dilli](https://open.spotify.com/track/72T5MkmOeLHSIx5XTVgqkA) | [Kuwar Virk](https://open.spotify.com/artist/0TnYVn2gCscbah7B833t5s) | [Pind Dilli](https://open.spotify.com/album/1QIEowAHIpYBVMYVv10NCt) | 2:07 | 2023-09-20 | 2023-12-15 |
 | [Players](https://open.spotify.com/track/5TjVLCESR9XIp5vDAWYfmi) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Devika Badyal](https://open.spotify.com/artist/0V8aeNb0fnR2P8eZVrx3lI) | [Players](https://open.spotify.com/album/2ap6wepv8WNqHCxJiclPIL) | 2:51 | 2023-03-29 | 2023-04-17 |
+| [Poppin Pills](https://open.spotify.com/track/1ZTk7g48SM2bz6IYbhubKy) | [Jynn](https://open.spotify.com/artist/5nDYhcu9LVnrX1MqsnT2iu) | [Poppin Pills](https://open.spotify.com/album/64UqM5WlkZzn8I7qmhqzIw) | 2:58 | 2024-03-28 |  |
 | [Posterize \- From "epbl Pre\-Season Anthem"](https://open.spotify.com/track/3UZtufO3yR0BMrt9RHxw4A) | [Ruhaan79](https://open.spotify.com/artist/5SF0jmBaNgXoDE7VuUypTL), [ATHRV](https://open.spotify.com/artist/1Qdg9IrqdbU1J2TG7ORCHx) | [Posterize \(From "epbl Pre\-Season Anthem"\)](https://open.spotify.com/album/2J2rR2osjdly1HyJIBo4oO) | 2:51 | 2023-04-16 | 2023-11-09 |
 | [Prarthana](https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd) | [FAR FROM OVER](https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh) | 3:19 | 2023-08-29 | 2023-10-17 |
 | [PSP](https://open.spotify.com/track/6GwsZZ3603QHADgD6GMXbW) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Graveyard Shift](https://open.spotify.com/album/4JANSUDMyIlEcMuM1QeFAe) | 3:10 | 2023-11-17 | 2023-12-07 |

@@ -9223,6 +9223,24 @@
     },
     {
       "album": {
+        "name": "The Legend of ABM",
+        "url": "https://open.spotify.com/album/5KwBvabWfSo1rHbFldITCS"
+      },
+      "artists": [
+        {
+          "name": "Angry Blackmen",
+          "url": "https://open.spotify.com/artist/5wgdXBYakv0C8v0b6hxnpC"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152508,
+      "name": "Stanley Kubrick",
+      "url": "https://open.spotify.com/track/7rzhQEtfMy3Xinzs0aLnaQ"
+    },
+    {
+      "album": {
         "name": "star-crossed",
         "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },

@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 306942,
+  "2024-03-29": 307073,
   "date_first_scraped": "2021-12-30",
   "description": "Tropical nature sounds for bedtime. ",
   "name": "Sleep in the Rainforest",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 126189,
       "name": "April Rain",
       "url": "https://open.spotify.com/track/7KB9VZg79SNkaBesrOOJMT"
@@ -150,6 +150,28 @@
     },
     {
       "album": {
+        "name": "Midnight Wilderness",
+        "url": "https://open.spotify.com/album/6OvDlztdFURmheHoFwdtLr"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197770,
+      "name": "Costa Rican Night Nature",
+      "url": "https://open.spotify.com/track/5mFWoPrmJxs4jS8yKmWU8Z"
+    },
+    {
+      "album": {
         "name": "When It Pours It Rains",
         "url": "https://open.spotify.com/album/20BqShqyjjbjVXMIRVGwyB"
       },
@@ -215,7 +237,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 141722,
       "name": "Crickets Singing in the Rain",
       "url": "https://open.spotify.com/track/3vZDRvQcdxROqj6E5WxK63"
@@ -395,7 +417,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 180000,
       "name": "Evening Drizzle",
       "url": "https://open.spotify.com/track/6cT7dRMHzgURq44rPtFHUB"
@@ -431,7 +453,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 175313,
       "name": "Florida Rain Storm",
       "url": "https://open.spotify.com/track/41ngfIhPv1DkwHozVjH5Yc"
@@ -593,7 +615,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 208000,
       "name": "Healing Rain",
       "url": "https://open.spotify.com/track/3MeV1PeFOCjgwXOnADJtE5"
@@ -629,7 +651,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 210000,
       "name": "Humid Trail",
       "url": "https://open.spotify.com/track/0sXVczy0THItL74ACWvRdF"
@@ -665,7 +687,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Insects in Rain",
       "url": "https://open.spotify.com/track/3Vh7Iwv7haRwZ967WwPk4C"
@@ -989,7 +1011,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 191780,
       "name": "Monsun Thunderstorm",
       "url": "https://open.spotify.com/track/63qps2UseM4TTaciTdeK59"
@@ -1068,6 +1090,28 @@
     },
     {
       "album": {
+        "name": "Midnight Wilderness",
+        "url": "https://open.spotify.com/album/6OvDlztdFURmheHoFwdtLr"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191144,
+      "name": "Nicaragua Midnight Nature",
+      "url": "https://open.spotify.com/track/72xSV2NJ2pWiuPRTMthIF4"
+    },
+    {
+      "album": {
         "name": "California Rain",
         "url": "https://open.spotify.com/album/3aOEiF4NaabKMdWbRgFXwO"
       },
@@ -1083,6 +1127,46 @@
       "duration_ms": 160000,
       "name": "Night In The Rainforest",
       "url": "https://open.spotify.com/track/2x09aarUx5kXoWuyx2taZ7"
+    },
+    {
+      "album": {
+        "name": "Colombian Late Night Nature",
+        "url": "https://open.spotify.com/album/3Gd3PQOPihs3IKqRvR1PMX"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Vozterra",
+          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150250,
+      "name": "Night Nature in Bahia Solano",
+      "url": "https://open.spotify.com/track/5x2zguWRJcv9aeLRpsPdPJ"
+    },
+    {
+      "album": {
+        "name": "Thicket Winging",
+        "url": "https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l"
+      },
+      "artists": [
+        {
+          "name": "Sounds of the Forest",
+          "url": "https://open.spotify.com/artist/1Ip11InkOnNCOLpDIw5mu6"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378751,
+      "name": "Night Rain",
+      "url": "https://open.spotify.com/track/5gLZB1i22XDHiHQwhXCYrQ"
     },
     {
       "album": {
@@ -1295,7 +1379,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 230983,
       "name": "Rain Forest Meditation",
       "url": "https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF"
@@ -1727,7 +1811,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 256079,
       "name": "The Swing of the Forest",
       "url": "https://open.spotify.com/track/6zHlA4ul8Tbgc7VKo5gEZW"
@@ -1968,6 +2052,24 @@
     },
     {
       "album": {
+        "name": "Wetland At Night",
+        "url": "https://open.spotify.com/album/0DEj6QWMqXNm5b0FnncJTA"
+      },
+      "artists": [
+        {
+          "name": "Wetland Adventures",
+          "url": "https://open.spotify.com/artist/01myJOKWFORKHtMxNWPib5"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Wetland At Night",
+      "url": "https://open.spotify.com/track/06wGShX4zK2yQMJJgjrWiB"
+    },
+    {
+      "album": {
         "name": "Nap in the Wild",
         "url": "https://open.spotify.com/album/0OCN5QxiQoRZI4Oz0IMYr9"
       },
@@ -2033,7 +2135,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 178000,
       "name": "Wild Forest Sleep",
       "url": "https://open.spotify.com/track/6yWZXCybu8fGOVOJo1mr6N"

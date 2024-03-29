@@ -4,7 +4,7 @@
 
 > 
 
-761 songs - 2 day 11 hr 38 min
+762 songs - 2 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -638,6 +638,7 @@
 | [Summertime](https://open.spotify.com/track/5zquV7va41xkZZNXWBA4Tw) | [Rosinha De Valença](https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B) | [Um Violão em Primeiro Plano](https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM) | 3:01 | 2019-12-15 |  |
 | [Sunny Wing](https://open.spotify.com/track/4vg3KGQs568DXacMJUbAaT) | [Yan Tregger](https://open.spotify.com/artist/54LPgNBQ4T81nNmvcu4Zyv) | [Catchy](https://open.spotify.com/album/1b0jYUGcifFqzvNYXDzrLJ) | 2:10 | 2023-09-14 |  |
 | [Suplica Cearese](https://open.spotify.com/track/49vp8LnUSCJpZfS5wWiJfb) | [Djosinha](https://open.spotify.com/artist/28hjsLaiGmuaVXaCn8DEda) | [Perdao](https://open.spotify.com/album/50uyv41bqWkebNNaC4EmYy) | 4:15 | 2023-02-23 |  |
+| [Sweet Dole](https://open.spotify.com/track/6R2XalnX5HjwhIhMSkxLM4) | [André Marie Tala](https://open.spotify.com/artist/7zoESCAeVJ8h0e1k62snyS) | [Beach Diggin', Vol\. 5](https://open.spotify.com/album/02vc1cQFePDzOSzt2YeFhh) | 4:36 | 2024-03-28 |  |
 | [Swinga Sambaby](https://open.spotify.com/track/3rlfQRL4gIRARv6vGawaj2) | [Trio Mocoto](https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP) | [Trio Mocotó](https://open.spotify.com/album/0Go7lwU4ezAru4cp5glWzB) | 1:34 | 2019-12-15 |  |
 | [Só Quero](https://open.spotify.com/track/6toW2W7KjT9BKTEmN4zDJj) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Cartão Postal](https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN) | 2:08 | 2023-05-16 |  |
 | [Só Tem Lugar Pra Você](https://open.spotify.com/track/2pt3cir3NSYVFSN29NAPLa) | [Brasil Aquarius](https://open.spotify.com/artist/2As8Pj7iF9KjxVWWtgAbsT) | [Aquarius](https://open.spotify.com/album/2zZ5ljHyquOlT1cA91oiNN) | 2:49 | 2021-05-11 |  |

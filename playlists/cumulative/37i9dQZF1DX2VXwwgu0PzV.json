@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=D4pTwHmKSeqlwGXjloy52Q\">Folabi Nuel</a> ",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG?si=nzQVsr2cSGiH5obcgbfZ5w\">Monaze</a> ",
   "name": "Youth Service",
   "tracks": [
     {
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 133124,
       "name": "Belongs to you",
       "url": "https://open.spotify.com/track/2XNFPtWAxuNuO3vJ0IdaLA"
@@ -1606,6 +1606,36 @@
       "duration_ms": 199940,
       "name": "Brand New Life",
       "url": "https://open.spotify.com/track/4t2rwPAr6toa2kcc6bu0zy"
+    },
+    {
+      "album": {
+        "name": "Brand New Man",
+        "url": "https://open.spotify.com/album/5hlLr2a90q3EXozHHbO1Dc"
+      },
+      "artists": [
+        {
+          "name": "Sam Jamz",
+          "url": "https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd"
+        },
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        },
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
+        },
+        {
+          "name": "Pawasonic",
+          "url": "https://open.spotify.com/artist/4JnNMhfRwpiknBp80tInQR"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193647,
+      "name": "Brand New Man",
+      "url": "https://open.spotify.com/track/416uQ0xZhuMqxkZMEACPeK"
     },
     {
       "album": {
@@ -2985,6 +3015,28 @@
     },
     {
       "album": {
+        "name": "DOH",
+        "url": "https://open.spotify.com/album/45sYATBT4cssfVcfvbpWMG"
+      },
+      "artists": [
+        {
+          "name": "Olivertherain",
+          "url": "https://open.spotify.com/artist/64E0RwV7Qxl8GSiaHHNbmh"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167549,
+      "name": "DOH",
+      "url": "https://open.spotify.com/track/1XE5UtbYDb76OWcsp8YCNe"
+    },
+    {
+      "album": {
         "name": "Doh Doh Doh",
         "url": "https://open.spotify.com/album/5rH09ZUv3nstdF2LtbPvvN"
       },
@@ -3898,7 +3950,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 192676,
       "name": "Favorite Baby",
       "url": "https://open.spotify.com/track/0buAzZBB4kPqgAenYBXEt5"
@@ -4104,7 +4156,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 240531,
       "name": "Flex",
       "url": "https://open.spotify.com/track/5TTGr68AUXXDW4oKm29oj9"
@@ -4478,7 +4530,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 186976,
       "name": "From Me To You",
       "url": "https://open.spotify.com/track/6O8OIo4C3Szr7BVIIEOgls"
@@ -7543,6 +7595,28 @@
     },
     {
       "album": {
+        "name": "Mandate",
+        "url": "https://open.spotify.com/album/4H0WD2dWnUc6Ry84mAZwIy"
+      },
+      "artists": [
+        {
+          "name": "G-Ray",
+          "url": "https://open.spotify.com/artist/55d9exmtSbHwwLLkKVUbIw"
+        },
+        {
+          "name": "Temple",
+          "url": "https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205766,
+      "name": "Mandate",
+      "url": "https://open.spotify.com/track/2BDk2tMZPa36PwTDhtUPnH"
+    },
+    {
+      "album": {
         "name": "More Than Music (Transcendent Worship)",
         "url": "https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg"
       },
@@ -8293,6 +8367,32 @@
     },
     {
       "album": {
+        "name": "My Good",
+        "url": "https://open.spotify.com/album/0j4BBFxuqcGpBS0K9WDNY7"
+      },
+      "artists": [
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        },
+        {
+          "name": "SOD MUSIQ",
+          "url": "https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175711,
+      "name": "My Good",
+      "url": "https://open.spotify.com/track/2pS3pyij0SCjKphw9TtOut"
+    },
+    {
+      "album": {
         "name": "My Lane",
         "url": "https://open.spotify.com/album/6SjrD8g9OmcNQdw8gnHAyq"
       },
@@ -8528,7 +8628,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 198461,
       "name": "Never Leave Me",
       "url": "https://open.spotify.com/track/3MNeO34tGbdk9KdCk9CuYM"
@@ -8890,7 +8990,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 170664,
       "name": "Not One Time",
       "url": "https://open.spotify.com/track/6BHr2BD9BAIitzL9fPbZjo"
@@ -9260,6 +9360,28 @@
       "duration_ms": 158537,
       "name": "On God",
       "url": "https://open.spotify.com/track/4wjGoZFssZXLlGl2z98dXr"
+    },
+    {
+      "album": {
+        "name": "ON GOD (Put it)",
+        "url": "https://open.spotify.com/album/2w2BRiiXoqfo9xEgOrR1gJ"
+      },
+      "artists": [
+        {
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165287,
+      "name": "ON GOD (Put it)",
+      "url": "https://open.spotify.com/track/2AKj9LwbvQNmr0TKe5rNFM"
     },
     {
       "album": {
@@ -11009,6 +11131,36 @@
     },
     {
       "album": {
+        "name": "Stay Happy",
+        "url": "https://open.spotify.com/album/6dpdG3lLLullQUzekDcUBK"
+      },
+      "artists": [
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        },
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194736,
+      "name": "Stay Happy",
+      "url": "https://open.spotify.com/track/4jYMsmcN9aZRNDW8g62gUV"
+    },
+    {
+      "album": {
         "name": "Stay with Me",
         "url": "https://open.spotify.com/album/6RVjIyy8mtCOMHqERrnKEF"
       },
@@ -11138,7 +11290,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 152450,
       "name": "Supa",
       "url": "https://open.spotify.com/track/0GZkn1i4yKLegfPXAjxmQw"

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu
 
-829 songs - 1 day 21 hr 5 min
+830 songs - 1 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,7 @@
 | [Kehri Gali](https://open.spotify.com/track/1paDFKGNdKWOSq8sk4Bv8u) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Tini \- EP](https://open.spotify.com/album/2ieFpeF1ll67TuqGjmOJP3) | 3:33 | 2022-09-05 | 2022-09-16 |
 | [Khabbi Seat](https://open.spotify.com/track/4aK30RcFKxsiF1gjLlH5Gt) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk) | [Khabbi Seat](https://open.spotify.com/album/0Q0QRo49mBz9zs7KKdZYrG) | 3:24 | 2021-12-02 | 2022-04-29 |
 | [Khayaal](https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Khayaal](https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG) | 2:42 | 2023-05-11 |  |
-| [Khayal Rakhunga \- From "Any How Mitti Pao"](https://open.spotify.com/track/1pZiK3peitwvY0LqRxuDcd) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP), [Khushi Pandher](https://open.spotify.com/artist/6JgrVNpfoFwE3imEDPrzqJ) | [Khayal Rakhunga \(From "Any How Mitti Pao"\)](https://open.spotify.com/album/2xGEpbUAvug9LheBHtFkGW) | 2:19 | 2023-10-25 |  |
+| [Khayal Rakhunga \- From "Any How Mitti Pao"](https://open.spotify.com/track/1pZiK3peitwvY0LqRxuDcd) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP), [Khushi Pandher](https://open.spotify.com/artist/6JgrVNpfoFwE3imEDPrzqJ) | [Khayal Rakhunga \(From "Any How Mitti Pao"\)](https://open.spotify.com/album/2xGEpbUAvug9LheBHtFkGW) | 2:19 | 2023-10-25 | 2024-03-29 |
 | [Khilona](https://open.spotify.com/track/59wY6mjaBDsLMrRXqe67Gl) | [Vibhor Parashar](https://open.spotify.com/artist/6q2TUP4nBtVhI7wyRwKXxu) | [Khilona](https://open.spotify.com/album/7FugdJh2s51qyNsFOhT5Eq) | 3:07 | 2022-05-10 | 2022-05-20 |
 | [Khoon Peendi](https://open.spotify.com/track/4GZkz4Ck4bhfWlBe2FaKe2) | [Geeta Zaildar](https://open.spotify.com/artist/78rdC4FvVaOJmEgfjlUi4a), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Khoon Peendi](https://open.spotify.com/album/7A0QuOnpRPzEAyb1KjjX0c) | 2:41 | 2022-03-10 | 2022-04-06 |
 | [Khyaal](https://open.spotify.com/track/2NSePTBNvDTrLCfa12IlbC) | [Babbal Rai](https://open.spotify.com/artist/5LFXPuKD97Sp9qdkxYBfDn) | [Khyaal](https://open.spotify.com/album/6na48949ddaO9SJwS0Jg3P) | 3:42 | 2022-04-25 | 2022-05-20 |
@@ -770,6 +770,7 @@
 | [Tu Jaanda Ae](https://open.spotify.com/track/68inwrhs0ggPlJhlqVHuCM) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Tu Jaanda Ae](https://open.spotify.com/album/1LD9gtlHV6Mh4aeke1ebOw) | 4:10 | 2022-03-29 | 2022-04-06 |
 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 | 2022-02-24 | 2022-04-06 |
 | [Tu Jinna Karda Ae](https://open.spotify.com/track/4wiu5uT2WqCR3WjKMOHQq3) | [Sajjan Adeeb](https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON) | [Tu Jinna Karda Ae](https://open.spotify.com/album/5c7kkBmbDJRcR6F8KuKzlF) | 3:58 | 2022-07-16 | 2022-08-18 |
+| [Tu Jo Mileya](https://open.spotify.com/track/7uVpBwBqSwuhSDF8HcH9Qz) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Tu Jo Mileya](https://open.spotify.com/album/3Wi3ZqFRZwbQuIxkLm2I9u) | 2:38 | 2024-03-28 |  |
 | [Tu Na Jaa](https://open.spotify.com/track/09aNHM2d7Hs6lKuCZgj4sw) | [Mansimran Sandhu](https://open.spotify.com/artist/0tt4DcVo2HdxkNOTpiUsOn) | [Tu Na Jaa](https://open.spotify.com/album/6fFZlo1ltq25MrF6GxGlKc) | 2:26 | 2022-03-14 | 2022-04-06 |
 | [Tu Tan Main](https://open.spotify.com/track/3HOxCKFFRSWfrMOM5DHsRn) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Luvdeep Saini Aka LDS](https://open.spotify.com/artist/09IBw62SGjjIOhl47qfnHs) | [Tu Tan Main](https://open.spotify.com/album/4YeDFRc1N5WobsEo0A9WSk) | 3:08 | 2022-12-15 | 2022-12-17 |
 | [Tu Tan Main](https://open.spotify.com/track/4QooqUadhw5LMMhkik7zJ8) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Luvdeep Saini Aka LDS](https://open.spotify.com/artist/09IBw62SGjjIOhl47qfnHs) | [Tu Tan Main \- Single](https://open.spotify.com/album/267NrowQgB4r2cNpLB3IWL) | 3:08 | 2022-12-16 | 2023-01-20 |

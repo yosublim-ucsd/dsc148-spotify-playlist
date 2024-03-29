@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,296 likes - 138 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,473 likes - 138 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 99 | [springtime](https://open.spotify.com/track/5UpSHFwzGWfwTRbm2m0tgh) | [Piedkies](https://open.spotify.com/artist/1dT2lRJatpaerhp5FEKEGo) | [springtime](https://open.spotify.com/album/3Mfdo7ReSOs82Lcf56PLE4) | 1:27 |
 | 100 | [orchid painting.](https://open.spotify.com/track/5SgQauUegEIkxqm5P6N26P) | [ghxsted.](https://open.spotify.com/artist/7GKvkS5THM5r8VuBEdns1r) | [orchid painting.](https://open.spotify.com/album/5FzafBmF9QRi2BbSrf22OE) | 2:18 |
 | 101 | [Ethereal Dreams](https://open.spotify.com/track/1PkO7wuVgJ9Z00M3srC3vr) | [knonzzz](https://open.spotify.com/artist/25UTkbnQgetv8B2pr3JGI7), [Aurenth](https://open.spotify.com/artist/7CM5sCDVQcnURPRMnASkBb) | [Ethereal Dreams](https://open.spotify.com/album/25jg7348O48HqaeEZmPOJT) | 2:50 |
-| 102 | [Bubble](https://open.spotify.com/track/62k6Tfmb6kUfKJisnZ6SGs) | [izumo](https://open.spotify.com/artist/6SUV9TOtiXhQQ5aniKJKKX) | [Bubble](https://open.spotify.com/album/5HVskhAGLdiasd2cdTHVRD) | 2:04 |
+| 102 | [Bubble](https://open.spotify.com/track/0jWmAveBH5Law63dOjPDai) | [Vixen](https://open.spotify.com/artist/7Blmh5MnZEPhOd6J4PC6aJ) | [Bubble](https://open.spotify.com/album/6r52bto9TjjJAfjdU3VcOW) | 2:05 |
 | 103 | [for people who strengthen our lives](https://open.spotify.com/track/0xJudXohbbnbRPwKD7nldI) | [Inan](https://open.spotify.com/artist/4oI5YoRw5Brc56oaK0JYAG), [ARTVT](https://open.spotify.com/artist/3GvxW60niLAF1diFgHtAJh) | [for people who strengthen our lives](https://open.spotify.com/album/3antUvxHcpw3Y2zPsYUXav) | 2:00 |
 | 104 | [maps to nowhere](https://open.spotify.com/track/2wvhy8OLnkBfThXvDwrAlj) | [leapyear](https://open.spotify.com/artist/6daNUvi9Bp2w8C1HoZBVIR), [FutureVille](https://open.spotify.com/artist/5YYDG8J9TC7S9FHyy9qgSE) | [maps to nowhere](https://open.spotify.com/album/4PJjDMSopK3Or8D50B4MFy) | 2:04 |
 | 105 | [Enigma](https://open.spotify.com/track/6ZjdqHlB1HYzsQybZy3Con) | [Depthscape](https://open.spotify.com/artist/4ELgf1YQ39tzJMhFgsTKh9) | [Enigma](https://open.spotify.com/album/6LJqBoX8XnhSwDfjakgVBR) | 1:54 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 137 | [overthinking \- slowed + reverb](https://open.spotify.com/track/55ksh3dybC2OPCILeeGaIg) | [coldlakes](https://open.spotify.com/artist/3jxJQ1JkYdqHNGnvIoW0nI) | [overthinking \(slowed + reverb\)](https://open.spotify.com/album/5OGZhclLbyQXjGs8y9v2Ei) | 2:51 |
 | 138 | [lost](https://open.spotify.com/track/7sTqjmUu3ju7Dbcth2TjgU) | [remind me](https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI) | [lost](https://open.spotify.com/album/4juhd8RDQF4ixb0T2cIVNM) | 2:02 |
 
-Snapshot ID: `MCwwYTZjNzY3NWU0Mzg2NWM1ZjM1YWVmMTlhOTllNDIzNzc0ZGM4ZTM5`
+Snapshot ID: `MCwxOGM3NDkxMWJkYzc5MzJkMGEwMWQxZTFmYzkxNDc2ZmQ4YzRjMzY0`

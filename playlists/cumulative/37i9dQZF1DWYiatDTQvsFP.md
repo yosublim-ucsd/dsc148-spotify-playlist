@@ -2,7 +2,7 @@
 
 ### [mid:nite storm ](https://open.spotify.com/playlist/37i9dQZF1DWYiatDTQvsFP)
 
-> you just had to be there\. cover: <a href="spotify:artist:0urTpYCsixqZwgNTkPJOJ4">Aaliyah</a>
+> you just had to be there\. cover: Brandy
 
 282 songs - 19 hr 7 min
 

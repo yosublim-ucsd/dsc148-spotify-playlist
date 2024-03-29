@@ -4,7 +4,7 @@
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-454 songs - 20 hr 17 min
+455 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [Rain Again](https://open.spotify.com/track/6SoSVRemix7GmsZZusXXhY) | [Meryl Stream](https://open.spotify.com/artist/7wU4Xw4xqmBzfy2TIej8qa) | [Leaking Clouds](https://open.spotify.com/album/6vJEQDkD0nvKBuEgWiigVh) | 2:33 | 2021-11-08 |  |
 | [Rain all day](https://open.spotify.com/track/4U3kZ08NfzuRTKIjoUzNFD) | [Rayne](https://open.spotify.com/artist/1RNXA2cIljrRol5nvV2Eoy) | [Rainy days and rainy nights](https://open.spotify.com/album/31zKedn6ADYfeacflh843e) | 3:28 | 2021-11-08 | 2024-03-22 |
 | [Rain All Year Round](https://open.spotify.com/track/4iwDUEEZHxq7ITcc7DqCCI) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [London Days](https://open.spotify.com/album/5RFrcOdX3Qzc6sTPYXtVVq) | 3:12 | 2021-11-08 | 2024-03-22 |
-| [Rain And Distant Thunder](https://open.spotify.com/track/4XTtqPIrBFUvDmi9PFPdSc) | [RainGirl](https://open.spotify.com/artist/6s2UjNnE8eTAmvTR6oV7dN) | [Rain And Distant Thunder](https://open.spotify.com/album/0tZla16mWGIqi34f65q30e) | 2:13 | 2024-03-21 |  |
+| [Rain And Distant Thunder](https://open.spotify.com/track/4XTtqPIrBFUvDmi9PFPdSc) | [RainGirl](https://open.spotify.com/artist/6s2UjNnE8eTAmvTR6oV7dN) | [Rain And Distant Thunder](https://open.spotify.com/album/0tZla16mWGIqi34f65q30e) | 2:13 | 2024-03-21 | 2024-03-29 |
 | [Rain and Thunder](https://open.spotify.com/track/4Kg4gfjDx7tj6A8YmZEA2Z) | [Beauty of Nature](https://open.spotify.com/artist/60Z6UmKsZWqsQtg0XHL4Ct) | [Rain and Thunder](https://open.spotify.com/album/6DYTv8miHf5c3zw0gUmV4u) | 2:29 | 2021-11-08 | 2023-02-14 |
 | [Rain And Thunderstorm](https://open.spotify.com/track/62MBchuJx8eDs9yxYgLTME) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Rain And Thunderstorm](https://open.spotify.com/album/2A8y4glK6KJ0z83a7rICO5) | 2:53 | 2021-11-08 | 2023-02-14 |
 | [Rain Before Dawn](https://open.spotify.com/track/6sCFjcEP2wvMkTbs6Ey85b) | [cloudcity](https://open.spotify.com/artist/0qF5CbAVNAKVP6maHHNf8G) | [Rain Before Dawn](https://open.spotify.com/album/4Dbx557skdXeYCIUBd4VHq) | 3:28 | 2022-01-21 |  |
@@ -343,6 +343,7 @@
 | [Searching For Cover](https://open.spotify.com/track/61DyLRwrghWPY9o93BoTNw) | [Peter Graham](https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv) | [Searching For Cover](https://open.spotify.com/album/5wKxqBdrmequiiLVZaDlg7) | 2:40 | 2021-11-08 |  |
 | [Seaside Harbor \- Rain](https://open.spotify.com/track/40Sbi8GwdiszUczHmym3fG) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Drizzling Days](https://open.spotify.com/album/5d0ac3jdhP8PGJehBqpHbQ) | 2:40 | 2022-02-18 |  |
 | [Shelter From Rain And Thunder](https://open.spotify.com/track/6hjH2icOU51DUn09Luv3u5) | [The Relaxation Hub](https://open.spotify.com/artist/6J2XOkGyDdC603Fmf44J5e) | [The Relaxation Hub](https://open.spotify.com/album/4yf6oR4OwkGuk0rlOGIwco) | 3:50 | 2021-11-08 | 2023-02-14 |
+| [Shibuya Intense Rain](https://open.spotify.com/track/67nOtJ94CRz6CpUxRPYEFH) | [Che Dormono](https://open.spotify.com/artist/0lEQ29Wf4vAjAdyK0jGTRp) | [Shinjuku Night Showers](https://open.spotify.com/album/506N61I0wuYHbHUiAJ3lCu) | 2:54 | 2024-03-21 |  |
 | [Sizzling Light Rain](https://open.spotify.com/track/1mRx1szA3v8VA8JOfQrCyZ) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [Sizzling Light Rain](https://open.spotify.com/album/7h38GTSwmMahkfpUXiw3IH) | 3:14 | 2024-03-21 |  |
 | [Sky Is Rumbling](https://open.spotify.com/track/3rxnLHNAstvd01Yw7rTdkX) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Sky Is Rumbling](https://open.spotify.com/album/5FEIvtKpEOGZIFFbfbiitA) | 3:36 | 2021-11-08 |  |
 | [Skyfall And Thunder](https://open.spotify.com/track/78Oreervde9fgGSIbr6ZOq) | [Clam Pass](https://open.spotify.com/artist/5tiC8V84vAB6FIDwSkGCF6) | [Thunderstorms](https://open.spotify.com/album/5eGD83pjy0yp4ekJ6q5UNw) | 2:18 | 2021-11-08 | 2024-03-22 |

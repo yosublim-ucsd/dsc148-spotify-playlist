@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative\. Cover: Sio
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,412 likes - 63 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,414 likes - 63 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 27 | [GO WITH GUT](https://open.spotify.com/track/7mRFGJZ5TUuNbOALh3tDwV) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [GO WITH GUT](https://open.spotify.com/album/01Xj382BlVU0Jlcd46b4ra) | 3:20 |
 | 28 | [Try](https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Try](https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8) | 3:44 |
 | 29 | [no more love](https://open.spotify.com/track/6TniiopBO54fiDn8AhxsYg) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [hard to be real in a world so fake](https://open.spotify.com/album/5x7JV3dbSfyVRtYCBwmxI8) | 2:53 |
-| 30 | [Le Nna](https://open.spotify.com/track/0iITdLlvevSpWBiURJirKN) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [The First Kind](https://open.spotify.com/album/2mg5e4VrqplBIt4COvJngx) | 2:35 |
+| 30 | [Le Nna](https://open.spotify.com/track/2G05ApbyxdwaQBnztn8QXU) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [The First Kind](https://open.spotify.com/album/6sY5wuXWehYOW3ysUQjSkg) | 2:35 |
 | 31 | [Care For You](https://open.spotify.com/track/1csqrGvXuxW1jU5TGWSolF) | [BuDu](https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB) | [Care For You](https://open.spotify.com/album/0N3BdFnOZ0SV2OMPb8GjiV) | 3:52 |
 | 32 | [Brasero](https://open.spotify.com/track/6NQhtmbhFzyqNKvhgtMulk) | [Takeshi HRTBRK](https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz), [Lova Lova](https://open.spotify.com/artist/6pvXW87pGB0XovnUHo8xvC) | [Brasero](https://open.spotify.com/album/61IM2wtoBycfswgVDyk4cO) | 2:54 |
 | 33 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 62 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
 | 63 | [Find You There](https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Find You There](https://open.spotify.com/album/4rn5EMuUivnnQmxccYkRe3) | 3:05 |
 
-Snapshot ID: `MCxkYTg2MjFmZGVmZmMzMDk5YTE0YjhhZTJjMTY1YTJlOWUyZGQ5NzFm`
+Snapshot ID: `MCwwMTU5Y2NmOWFkOGRlNjRkM2QwMDE0NTdjNGRhMjQxNzA4N2VhMDk2`

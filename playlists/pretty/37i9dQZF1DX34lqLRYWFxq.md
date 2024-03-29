@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly rock update\. Cover: JJ Wilde
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,106 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,107 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 51 | [Sweater Club](https://open.spotify.com/track/4nEoYjvVzrEz0IVDru6xRc) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Sweater Club](https://open.spotify.com/album/0uLHEY4gk0YYp1DHNr7Qgm) | 2:56 |
 | 52 | [Someone's Daughter, Someone's Son](https://open.spotify.com/track/2OFmXtz8iAjqhRZF4zrxb9) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Someone's Daughter, Someone's Son](https://open.spotify.com/album/1pCxbUrnRHbLMtdaFIFHtB) | 4:11 |
 | 53 | [Superstar](https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Superstar](https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae) | 3:13 |
-| 54 | [honey, i'm home](https://open.spotify.com/track/5kSmEV24v9UDWXMO2NZdIG) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [honey i'm home](https://open.spotify.com/album/0SQs9fGTyqCxiw5mgrR7bZ) | 2:30 |
+| 54 | [honey, i'm home](https://open.spotify.com/track/0PCCllluNN8eMSc7No98Jt) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [the life and death of a dog](https://open.spotify.com/album/3zzzsk0VzmLORaVtENlOHY) | 2:30 |
 | 55 | [Smoke](https://open.spotify.com/track/7bf5K9Gy7e1584TfDjagUy) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [CD Wallet](https://open.spotify.com/album/0Z41g0aFYIWD6w2VYNPUR1) | 2:59 |
 | 56 | [Girls Like You](https://open.spotify.com/track/1zN8DmlT9GwQKXwIszMPO3) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Girls Like You](https://open.spotify.com/album/6ZyjGSxG2N0XyVY4XK4nLZ) | 3:18 |
 | 57 | [Carry Me](https://open.spotify.com/track/13btErURhn1Q22pZypYkPo) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Carry Me](https://open.spotify.com/album/7hhpjORzd3SXJGoxHvrMwa) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Stray](https://open.spotify.com/track/2wb55krslcGE17P1BHeqH1) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Stray](https://open.spotify.com/album/3CCIKTCVsvEzgrU8L7sCj8) | 3:33 |
 | 100 | [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 |
 
-Snapshot ID: `MCw0MWRhMTQ2NDIxYWZmMmVhMTM0ZWI5MTJkNzlhNzQ3OTlmYjllMTUy`
+Snapshot ID: `MCxiMGY1YTY3MTA1ZjIxODRhZGIyMTlkOTc3ZWU1ZTk1ZWM0NmVkM2E0`

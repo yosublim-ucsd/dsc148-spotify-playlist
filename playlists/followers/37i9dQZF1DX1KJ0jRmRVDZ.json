@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 114719,
+  "2024-03-29": 114738,
   "date_first_scraped": "2022-06-10",
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
@@ -5011,6 +5011,24 @@
       "duration_ms": 170526,
       "name": "overload",
       "url": "https://open.spotify.com/track/3HmaH6cEq2LUiVa1SCaAOd"
+    },
+    {
+      "album": {
+        "name": "Mar6le",
+        "url": "https://open.spotify.com/album/0U3YU3OcVdATKqONecYbf4"
+      },
+      "artists": [
+        {
+          "name": "Chogakusei",
+          "url": "https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172512,
+      "name": "Overlook",
+      "url": "https://open.spotify.com/track/4DiOri4A9IVybvW9yzbfgT"
     },
     {
       "album": {
@@ -10217,7 +10235,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 172512,
       "name": "\u30aa\u30fc\u30d0\u30fc\u30eb\u30c3\u30af",
       "url": "https://open.spotify.com/track/5ykdRyAaHly1N4svXvCuen"

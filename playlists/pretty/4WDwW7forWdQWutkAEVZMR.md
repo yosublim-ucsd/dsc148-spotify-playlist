@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring  girl in red and Sabrina Carpenter, Beyoncé, Harry Styles &amp; more! Cover: girl in red and Sabrina Carpenter
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,234 likes - 65 songs - 3 hr 22 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,233 likes - 65 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

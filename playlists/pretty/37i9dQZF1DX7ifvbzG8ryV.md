@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 
 > From the LGBTQIA+ songwriters that make the music happen\. Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFHdCJiQTW4YT?si=1f331731fe084475">Wrabel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 43 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7 likes - 43 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 | 42 | [When I Dance](https://open.spotify.com/track/0Pz25UcwgrNvxEMliceJuY) | [Darkwah](https://open.spotify.com/artist/6ETe9wxXBvJockY50Pzo5A) | [When I Dance](https://open.spotify.com/album/6AmJW6QfqfUeY1SXP0Gh2f) | 2:07 |
 | 43 | [Sun Goes Down \- Edit](https://open.spotify.com/track/4o3fupxrJRng5gol1Fe5cZ) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Serotonin](https://open.spotify.com/album/1JuMVubX1aQVHPi7yF4y5T) | 3:42 |
 
-Snapshot ID: `MCxlMzk5MmEwMGQxOTIxYjJmOTkwNzhkMGM0MTdhMWQyYjUzNDM5YTFk`
+Snapshot ID: `MCw5OTcwM2EzMDdmNTg4ZDFiOTNlODliOWM5NTEyMDU1NTBhMjUyZjQy`

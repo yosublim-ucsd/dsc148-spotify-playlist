@@ -2,7 +2,7 @@
 
 ### [African Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX9lAYMw7KoAO)
 
-> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s?si=Et7S8MXZTN2doZpfcRdFEg">Mmuso Worship</a>
+> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=VsaLe1ESSSuT53CtxGU\-4Q">Theresa Phondo</a>
 
 417 songs - 1 day 12 hr 6 min
 

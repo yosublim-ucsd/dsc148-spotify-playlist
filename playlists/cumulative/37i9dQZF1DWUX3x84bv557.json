@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Amina",
+  "description": "De nieuwste Nederlandse pop! Cover: FLEUR",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 160906,
       "name": "17",
       "url": "https://open.spotify.com/track/2Y4vxLDN2mCweUrN6ZcY1i"
@@ -194,7 +194,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 170630,
       "name": "23",
       "url": "https://open.spotify.com/track/0z6xrWWeOlsxCwfvDbTuE0"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 212000,
       "name": "Altijd Op Je Wacht",
       "url": "https://open.spotify.com/track/2cabxTvClcBMWFnSskAdPo"
@@ -958,6 +958,24 @@
       "duration_ms": 151475,
       "name": "Altijd Tijd",
       "url": "https://open.spotify.com/track/3ajh68l4VNpxSIMxYjeceJ"
+    },
+    {
+      "album": {
+        "name": "Amsterdamse Student",
+        "url": "https://open.spotify.com/album/38uYDpZWoTs3vigKM0iyuK"
+      },
+      "artists": [
+        {
+          "name": "Eyah",
+          "url": "https://open.spotify.com/artist/2dQhYDhI8IWPGbwgyqMb2E"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126534,
+      "name": "Amsterdamse Student",
+      "url": "https://open.spotify.com/track/5ErWEoGybmRwHPyB6IMsi2"
     },
     {
       "album": {
@@ -1540,7 +1558,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 161785,
       "name": "Bodem Van De Fles",
       "url": "https://open.spotify.com/track/6ZfSzVtNstrFVbud4qH5RV"
@@ -3237,6 +3255,24 @@
     },
     {
       "album": {
+        "name": "Ga En Groei",
+        "url": "https://open.spotify.com/album/1hKX2VOb6eNcKk9jNAhuqA"
+      },
+      "artists": [
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Ga En Groei",
+      "url": "https://open.spotify.com/track/1sPY1rVNG2eMZRmFBDgHGr"
+    },
+    {
+      "album": {
         "name": "Gebruiksaanwijzing",
         "url": "https://open.spotify.com/album/1DEK18Z3t4U358XPdRysMP"
       },
@@ -4362,7 +4398,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 183941,
       "name": "Iemand Anders",
       "url": "https://open.spotify.com/track/25l6XW7akaVC2gldkJmTd4"
@@ -4814,7 +4850,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 184187,
       "name": "Kalmeer Me",
       "url": "https://open.spotify.com/track/6kfxfUbKtyZbAdcW3zxz0E"
@@ -8147,6 +8183,24 @@
     },
     {
       "album": {
+        "name": "Terug Naar Daar Waar De Zon Scheen",
+        "url": "https://open.spotify.com/album/6pGl5ODtnmQGoJL0BcGPjO"
+      },
+      "artists": [
+        {
+          "name": "Jim Bakkum",
+          "url": "https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180039,
+      "name": "Terug Naar Daar Waar De Zon Scheen",
+      "url": "https://open.spotify.com/track/3TVjFBmMBHig54PN1JcRQz"
+    },
+    {
+      "album": {
         "name": "Terug Naar Huis",
         "url": "https://open.spotify.com/album/5W0tOrxrXIlYI0NC9b9kB2"
       },
@@ -9235,6 +9289,28 @@
     },
     {
       "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/26ALDsugBcToHqcDvA0Bu4"
+      },
+      "artists": [
+        {
+          "name": "Fokke Simons",
+          "url": "https://open.spotify.com/artist/6bdx9tCkHEg9ff61hu7xkI"
+        },
+        {
+          "name": "Floris Keijzer",
+          "url": "https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160975,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/5A8S6jJRIeFjMHFQ66Opr7"
+    },
+    {
+      "album": {
         "name": "Wat Als De Storm Komt",
         "url": "https://open.spotify.com/album/2lLQEEFu8bzGmhqpYQ3F8Q"
       },
@@ -9575,6 +9651,24 @@
     },
     {
       "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/49Qtp4b1FhN4DNcjCW9qnJ"
+      },
+      "artists": [
+        {
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282906,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI"
+    },
+    {
+      "album": {
         "name": "Moderne Manieren",
         "url": "https://open.spotify.com/album/4BoxopluUiPxKaF7jpUOhB"
       },
@@ -9662,6 +9756,24 @@
       "duration_ms": 222642,
       "name": "Zeg Hem Dat Het Goed Gaat",
       "url": "https://open.spotify.com/track/291F9nIoCvpnDLjXCpOXbk"
+    },
+    {
+      "album": {
+        "name": "Zeg Niks",
+        "url": "https://open.spotify.com/album/7tI2nI10T5KYcE11Nt76n3"
+      },
+      "artists": [
+        {
+          "name": "Glennis Grace",
+          "url": "https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193415,
+      "name": "Zeg Niks",
+      "url": "https://open.spotify.com/track/5dBGZaXPyxlAZoGqbshZLb"
     },
     {
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Lizz Wright
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,022 likes - 101 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,086 likes - 101 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Little Heartbreak Girl](https://open.spotify.com/track/1mbtYYDO3E6kVogF9Mv9iP) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Little Heartbreak Girl](https://open.spotify.com/album/5ubfzzKMnqxjv2Wa3JGe21) | 4:34 |
+| 1 | [Little Heartbreak Girl](https://open.spotify.com/track/1mbtYYDO3E6kVogF9Mv9iP) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Little Heartbreak Girl](https://open.spotify.com/album/5ubfzzKMnqxjv2Wa3JGe21) | 4:18 |
 | 2 | [Stealing A Kiss](https://open.spotify.com/track/5kdZiJ0KIPEyQ42xLj61Gt) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Stealing A Kiss](https://open.spotify.com/album/5i9nk8WvKRe0d78UaCba9u) | 4:55 |
 | 3 | [All About the Bones](https://open.spotify.com/track/49O8sIbwsZqrm4XTYNjns6) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [All About the Bones](https://open.spotify.com/album/5ps4di2LHRX32ZMObGMb2n) | 3:16 |
 | 4 | [Trouble](https://open.spotify.com/track/6R8g4UJc2jYda4wmrtz09d) | [Pointy Features](https://open.spotify.com/artist/2juH2VRAmfRlPlu1oaGsuH) | [Trouble](https://open.spotify.com/album/2l5G5XHW8TKudAcxtgAzwU) | 3:34 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 100 | [Roll With Me](https://open.spotify.com/track/5e8EPbTXBC9nnXctV4CWB3) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Roll With Me](https://open.spotify.com/album/4kh6j2obPW8dd5SxkCWjf7) | 4:20 |
 | 101 | [Rock & Roll](https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Rock & Roll](https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm) | 4:50 |
 
-Snapshot ID: `MCwyOTk0YjRjZTk5NThhZDNlN2I1ZDgxMjE4ZmY1NWMzYjI4YTA1OGYx`
+Snapshot ID: `MCw3ODQzYjhmMjNiMmU4MmFlMzAzYTE3NWNhM2RmYjk2NWVmZjE5NDU5`

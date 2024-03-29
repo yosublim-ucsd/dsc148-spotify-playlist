@@ -4,7 +4,7 @@
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-142 songs - 9 hr 36 min
+143 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Jesus Is The Reason For The Season](https://open.spotify.com/track/1uIZzIYJFm7HpWMSZYvH1h) | [Kirk Franklin & The Family](https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd) | [Christmas](https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4) | 5:45 | 2021-12-24 |  |
 | [Jesus Oh What a Wonderful Child](https://open.spotify.com/track/6F6mzjDsaDHYxxFyWtMwTt) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT) | [Jesus Oh What a Wonderful Child](https://open.spotify.com/album/4MRqalm1uAT8EohleX3W9O) | 3:44 | 2023-11-03 |  |
 | [Jesus What a Wonderful Child](https://open.spotify.com/track/0lhWmXuHinXh3CTXOVECEC) | [Dottie Peoples](https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb) | [Christmas With Dottie](https://open.spotify.com/album/6fgwFXYGyJ6XgCtxCjLKJU) | 4:15 | 2021-12-24 |  |
+| [Jesus, Oh What A Wonderful Child](https://open.spotify.com/track/5ZSUJnyWR4cLijXtIdsuvY) | [The Collective](https://open.spotify.com/artist/4VJFjCxnsUyDyHdKGrxJIn), [Nakitta Foxx](https://open.spotify.com/artist/3O7k7XATIWSxApm2qnj7qd) | [A VGNBae Christmas](https://open.spotify.com/album/0WovQO1a1e8ZUEIFKA9oGK) | 4:41 | 2023-12-15 |  |
 | [Jesus, Oh What A Wonderful Child](https://open.spotify.com/track/7MF4wDB1bvI0QpOwIrAIuO) | [The Collective](https://open.spotify.com/artist/1MxfqwWO3lgJpvQuTxVTna), [Nakitta Foxx](https://open.spotify.com/artist/3O7k7XATIWSxApm2qnj7qd) | [A VGNBae Christmas](https://open.spotify.com/album/0U8IUFHq5HDnMOTpH5HeVj) | 4:41 | 2021-12-24 | 2023-12-24 |
 | [Jingle Bells](https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu) | [Bebe & Cece Winans](https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs) | [First Christmas](https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl) | 4:23 | 2021-12-24 |  |
 | [Joy to the World](https://open.spotify.com/track/5Ta266xo0Lzq5c4Kgm4rot) | [Chicago Mass Choir](https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla) | [Joy to the World](https://open.spotify.com/album/6Uw2K7lvvXSKZkSO8JCreM) | 4:04 | 2022-11-26 |  |
@@ -82,7 +83,7 @@
 | [Joy To The World / Joyful, Joyful](https://open.spotify.com/track/64AQwAGYH1DhgeopzyJGMB) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [A Tori Kelly Christmas](https://open.spotify.com/album/3T1Te4622DNLaTajXIkY9l) | 3:40 | 2021-12-24 |  |
 | [Joyful, Joyful](https://open.spotify.com/track/1msKaoGQtek67evpapFJAF) | [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Very McCrary Christmas](https://open.spotify.com/album/3cadYbVxIyNYQ88aWR45jg) | 3:30 | 2022-11-26 |  |
 | [Let There Be Peace on Earth](https://open.spotify.com/track/2oD7uX89PowHqD3CPFkULx) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Let There Be Peace on Earth](https://open.spotify.com/album/0hTxmgpCiExm895BIhQ6Vv) | 3:36 | 2021-12-24 |  |
-| [Let Us Adore Him](https://open.spotify.com/track/7peW5UXzirPe8Lhcsc3cxi) | [John P\. Kee & The New Life Community Choir](https://open.spotify.com/artist/04LhvDkXmA8kPyJED34IEM) | [Verity Records: The First Decade, A Celebration Of Christmas](https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx) | 3:39 | 2021-12-24 |  |
+| [Let Us Adore Him](https://open.spotify.com/track/7peW5UXzirPe8Lhcsc3cxi) | [John P\. Kee & The New Life Community Choir](https://open.spotify.com/artist/04LhvDkXmA8kPyJED34IEM) | [Verity Records: The First Decade, A Celebration Of Christmas](https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx) | 3:39 | 2021-12-24 | 2024-03-29 |
 | [Little Drummer Boy](https://open.spotify.com/track/5Xlqkwclz9W9aW8yeles2Q) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Holiday Love Sounds of Christmas](https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs) | 2:46 | 2021-12-24 |  |
 | [Love's Holiday](https://open.spotify.com/track/1CLKbZfiNy5LoSOsJtOE4c) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [Men Of Standard](https://open.spotify.com/artist/1DXIt1yDO207SmcSFAVEeS), [The Tri\-City Singers](https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn) | [Hello Christmas](https://open.spotify.com/album/3UjtKsPzVAjSrI4R3jr1Ly) | 5:21 | 2021-12-24 |  |
 | [Make Room \(feat\. AB Vital\-Herne\)](https://open.spotify.com/track/5trAlg2Ejz3ISXt50oVbP2) | [Writing Rounds](https://open.spotify.com/artist/5T2nw36a1BS7bxpvciTIve), [AB Vital\-Herne](https://open.spotify.com/artist/3slc5Z3v1tiBUP7VKGAa4I) | [Make Room \(feat\. AB Vital\-Herne\)](https://open.spotify.com/album/3dkSaBic2mMrkF1oSYN8sb) | 4:16 | 2023-12-15 |  |

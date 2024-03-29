@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 70842,
+  "2024-03-29": 70846,
   "date_first_scraped": "2022-04-16",
   "description": "Your daily update of the most viral tracks right now - Chile.",
   "name": "Viral 50 - Chile",
@@ -3243,6 +3243,32 @@
       "duration_ms": 187158,
       "name": "Avisa",
       "url": "https://open.spotify.com/track/16nItJy3LUeqGSboABfWWY"
+    },
+    {
+      "album": {
+        "name": "Ay Amor",
+        "url": "https://open.spotify.com/album/4P20qKA9md4EYY2Y4meCX3"
+      },
+      "artists": [
+        {
+          "name": "Dr. Stev",
+          "url": "https://open.spotify.com/artist/52wcA7uQEIW0jVqgd6DvUf"
+        },
+        {
+          "name": "Erika Perdomo",
+          "url": "https://open.spotify.com/artist/2Jb4ROzv0sYIJfm9D38tlf"
+        },
+        {
+          "name": "Eddy Florez",
+          "url": "https://open.spotify.com/artist/0XF67UFsO47egYH7MsaIPV"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238200,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/0xM2zt0wgxBIagiceTxg1S"
     },
     {
       "album": {
@@ -8809,7 +8835,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 198594,
       "name": "Diablita",
       "url": "https://open.spotify.com/track/6BVh7E3RrGEbj5jcx0QksO"
@@ -30817,7 +30843,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 261336,
       "name": "Soy Todo",
       "url": "https://open.spotify.com/track/57f2X9Am4tNzizcxVIcPy8"
@@ -32157,7 +32183,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 204000,
       "name": "Te Pertenezco",
       "url": "https://open.spotify.com/track/1fP2hJ8xNFP53nKHTNr9AI"
@@ -35864,6 +35890,24 @@
     },
     {
       "album": {
+        "name": "Want U",
+        "url": "https://open.spotify.com/album/3HfeRupKZBZ4VoBTaD52ek"
+      },
+      "artists": [
+        {
+          "name": "noevdv",
+          "url": "https://open.spotify.com/artist/3CL4nOf23RqGQJjcAOzork"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101440,
+      "name": "Want U",
+      "url": "https://open.spotify.com/track/1312ZAYpw7aeRQ8GMkbJux"
+    },
+    {
+      "album": {
         "name": "WARMISITAY",
         "url": "https://open.spotify.com/album/27BrKlycAoVnEUDz1v5amr"
       },
@@ -36603,7 +36647,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 156927,
       "name": "X Fin Es Viernes",
       "url": "https://open.spotify.com/track/24UxjdCYV0DS6vHF085IoF"

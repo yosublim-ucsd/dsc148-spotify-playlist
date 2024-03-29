@@ -2,7 +2,7 @@
 
 ### [Rock Classics](https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U)
 
-> Rock legends & epic songs that continue to inspire generations\. Cover: Nirvana
+> Rock legends & epic songs that continue to inspire generations\. Cover: Queen
 
 380 songs - 1 day 4 hr 0 min
 

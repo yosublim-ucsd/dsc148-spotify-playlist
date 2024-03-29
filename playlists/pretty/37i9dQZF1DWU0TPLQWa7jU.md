@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 
 > Get your energy boost for your Ramadan workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,515 likes - 37 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,537 likes - 37 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 | 36 | [أصاح رويدك](https://open.spotify.com/track/1EioceLs7WfltjunttPmg7) | [موسى العميرة](https://open.spotify.com/artist/3dW0TwrbCdU7qkPuXIvLQy) | [أصاح رويدك](https://open.spotify.com/album/7G0oINdAsvpaULeqtcgWMI) | 3:53 |
 | 37 | [Subahanallah 100](https://open.spotify.com/track/4v8TMP1xvQ05eeT89RYgbr) | [Nasheed](https://open.spotify.com/artist/09BCWz6kNuBQmMimHztLxJ) | [Islamic Dhikrs](https://open.spotify.com/album/4a4m0tBIeuHKC7Ui1imctM) | 3:35 |
 
-Snapshot ID: `MCxhNmM2OWEzMWMzNDAxMzc1MTY4MGMzY2JmN2U3OWQ2ZmE1MjExMzg5`
+Snapshot ID: `MCw1NzYxYjJlNDNjNDZhODdiZDM1OWNiZGQyNmZmZDZkZWUwZmQ2MzQ3`

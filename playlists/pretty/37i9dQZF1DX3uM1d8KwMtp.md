@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,813 likes - 53 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,846 likes - 53 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 17 | [Tocata](https://open.spotify.com/track/4XqCdYtiWx6x11aIZUGsSy) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Tocata](https://open.spotify.com/album/4H9Xvsrvqf69XIpHKi06O4) | 7:21 |
 | 18 | [7 Seconds](https://open.spotify.com/track/5jcwno0cS1H268LWyYpof1) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl), [Pape Diouf](https://open.spotify.com/artist/0aAH5CDDcmMd1vFReOPxeA) | [7 Seconds](https://open.spotify.com/album/4cjJ5asufFmCnTM5ALAlFt) | 5:15 |
 | 19 | [Ya Dam3i](https://open.spotify.com/track/6sjje7260A90a9bOR6EbYG) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 |
-| 20 | [Povoada \- Remix](https://open.spotify.com/track/4y1Xc5sjKxBRObrIfXRYpS) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Povoada \(Remix\)](https://open.spotify.com/album/0VNGzsaX62aIZjEEMNbwoi) | 4:17 |
+| 20 | [Povoada \- Remix](https://open.spotify.com/track/4y1Xc5sjKxBRObrIfXRYpS) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi), [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Povoada \(Remix\)](https://open.spotify.com/album/0VNGzsaX62aIZjEEMNbwoi) | 4:17 |
 | 21 | [Paloma \- Roderic Remix](https://open.spotify.com/track/1vxxPXB1crb7QITSqG30Zr) | [MiRET](https://open.spotify.com/artist/0DvhQq0PzDC5dyRoH5XCI5), [Tuğçe Kurtiş](https://open.spotify.com/artist/5cYodhg1fZFGKqCQmgNlZf), [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC), [Roderic](https://open.spotify.com/artist/7wSzFq5CoNoCpzazDphDJs) | [Paloma + Remixes](https://open.spotify.com/album/5LE9oiaGprQqvFtinBA73K) | 8:20 |
 | 22 | [Trinidad Dreams](https://open.spotify.com/track/62F0yfVTEnjOBWKiXEEELZ) | [Analog Sol](https://open.spotify.com/artist/0bYiRfjvg9c9wt6fuxoUVc) | [Trinidad Dreams](https://open.spotify.com/album/7vkYBAyQIfEzBOUN9DnHpx) | 3:38 |
 | 23 | [Mucho Bien \- Joezi Remix](https://open.spotify.com/track/0Ddeid0TvlJGI1d01nI2G6) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Offer Nissim](https://open.spotify.com/artist/2U5N2KMBT6aFPrQMygMkhj), [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B) | [Mucho Bien \(Joezi Remix\)](https://open.spotify.com/album/1HHowovrMxFiwwEB83Cyyo) | 3:48 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 52 | [Shikiria \- Zakem, Yescene Remix](https://open.spotify.com/track/65yxCD6MLeTiTiMLCENRhN) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25), [Zakem](https://open.spotify.com/artist/3aZZJkTAm6G2NRZ6DaiL7K), [Yescene](https://open.spotify.com/artist/2K81NzC5UFgLf1mgmHtbSt) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 7:32 |
 | 53 | [Madan](https://open.spotify.com/track/19UXAgu0PzHHWSlmzLv9Qj) | [Rialians on Earth](https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3), [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Madan](https://open.spotify.com/album/48CVbFIVq033H7ajrXaJTY) | 3:18 |
 
-Snapshot ID: `MCw3MDYzYmFiNWE3OTk1MjIyNzA4MWY4YjJmNDk2MzJjMjRhZjE3YmY4`
+Snapshot ID: `MCw3ZmI3ODE2NWQ2ZjU0ZGFjNDgwYmE0ODM3Nzc1MDMyMmE4YTI1MDBm`

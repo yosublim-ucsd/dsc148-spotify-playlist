@@ -1,13 +1,29 @@
 {
-  "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB?si=T-z6iThfTF2C-0r8mzFEcw\">Zo\u00eb Modiga</a>",
-  "num_followers": 137806,
+  "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby?si=7gMdc4znRe-FsvrV9ncWSg\">The Joy</a>",
+  "num_followers": 137913,
   "original_name": "Made In South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTFkMDJhZTM2MTc4MjgxYmRhNDA5OTMwYTM5ODk4Njg0ZmE4ZWIx",
+  "snapshot_id": "MCw5NGJhMGUzMzllMzNiN2QyMGY2YmE5MzVjZWI2MWNjOWRmODcyMDUw",
   "tracks": [
+    {
+      "added_at": "2024-03-28 22:04:03",
+      "album": {
+        "name": "You Complete Me",
+        "url": "https://open.spotify.com/album/59uox6bthXBgB0sXHMuDSw"
+      },
+      "artists": [
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "duration_ms": 146826,
+      "name": "You Complete Me",
+      "url": "https://open.spotify.com/track/18nTfySfK4zRZU9ZPk6BAi"
+    },
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {

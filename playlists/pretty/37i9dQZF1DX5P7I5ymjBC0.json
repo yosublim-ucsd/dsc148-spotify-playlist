@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 68921,
+  "num_followers": 68941,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjRiMTQ5ZWI0OTA3ZGQ1N2M2NDE4YTg1OWM1MmI0YzY1ZDExNDBj",
+  "snapshot_id": "MCxjM2NjMGFmYjZlYWNmZTc0MjgwNWQ4ZTNkMmUyZDQ0YzBkYTkwNzEz",
   "tracks": [
     {
       "added_at": "2024-03-21 10:51:08",
@@ -743,6 +743,26 @@
     {
       "added_at": "2024-03-21 10:51:08",
       "album": {
+        "name": "Purvayi",
+        "url": "https://open.spotify.com/album/7y3lqRTl2XEBhTPjemUbRi"
+      },
+      "artists": [
+        {
+          "name": "Midival Punditz",
+          "url": "https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY"
+        },
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        }
+      ],
+      "duration_ms": 310146,
+      "name": "Purvayi (feat Papon)",
+      "url": "https://open.spotify.com/track/72Aa8UNEYvnirWp8KaiKdp"
+    },
+    {
+      "added_at": "2024-03-21 10:51:08",
+      "album": {
         "name": "Jaa Kaga",
         "url": "https://open.spotify.com/album/6Rw6ZLW1qBJczNKuJu18E1"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 311186,
       "name": "Yariyaan",
       "url": "https://open.spotify.com/track/5DSFsWFoGi37SivNJAoTi4"
-    },
-    {
-      "added_at": "2024-03-21 10:51:08",
-      "album": {
-        "name": "Purvayi",
-        "url": "https://open.spotify.com/album/7y3lqRTl2XEBhTPjemUbRi"
-      },
-      "artists": [
-        {
-          "name": "Midival Punditz",
-          "url": "https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY"
-        },
-        {
-          "name": "Papon",
-          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
-        }
-      ],
-      "duration_ms": 310146,
-      "name": "Purvayi (feat Papon)",
-      "url": "https://open.spotify.com/track/72Aa8UNEYvnirWp8KaiKdp"
     },
     {
       "added_at": "2024-03-21 10:51:08",
@@ -871,6 +871,26 @@
     {
       "added_at": "2024-03-21 10:51:08",
       "album": {
+        "name": "Nirbhay Nirgun (Live)",
+        "url": "https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4"
+      },
+      "artists": [
+        {
+          "name": "The Anirudh Varma Collective",
+          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
+        },
+        {
+          "name": "Aastha Mandle",
+          "url": "https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA"
+        }
+      ],
+      "duration_ms": 380000,
+      "name": "Nirbhay Nirgun (Live)",
+      "url": "https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC"
+    },
+    {
+      "added_at": "2024-03-21 10:51:08",
+      "album": {
         "name": "Songs Of The River - Ganga",
         "url": "https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 339000,
       "name": "Natkhat Nadiya",
       "url": "https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh"
-    },
-    {
-      "added_at": "2024-03-21 10:51:08",
-      "album": {
-        "name": "Nirbhay Nirgun (Live)",
-        "url": "https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4"
-      },
-      "artists": [
-        {
-          "name": "The Anirudh Varma Collective",
-          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
-        },
-        {
-          "name": "Aastha Mandle",
-          "url": "https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA"
-        }
-      ],
-      "duration_ms": 380000,
-      "name": "Nirbhay Nirgun (Live)",
-      "url": "https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC"
     },
     {
       "added_at": "2024-03-21 10:51:08",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2024-03-21 10:51:08",
       "album": {
-        "name": "Barsan Lagi",
-        "url": "https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4"
+        "name": "Classical Unwind",
+        "url": "https://open.spotify.com/album/3hcXAorBQYX3IALCKfYOi8"
       },
       "artists": [
         {
-          "name": "Abhay Jodhpurkar",
-          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+          "name": "Ankita Joshi",
+          "url": "https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS"
         }
       ],
-      "duration_ms": 219456,
-      "name": "Barsan Lagi",
-      "url": "https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ"
+      "duration_ms": 239813,
+      "name": "Lat Ulajhi",
+      "url": "https://open.spotify.com/track/7pbF3jhnwASjMxeItgHP1S"
     }
   ],
   "unique_name": "Fusion Finds",

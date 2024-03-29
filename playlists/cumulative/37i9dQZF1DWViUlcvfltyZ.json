@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. Novit\u00e0 rock, indie e punk dall'Italia! sleap-e in cover.",
+  "description": "La playlist che \u00e8 come andare ai concerti. Novit\u00e0 rock, indie e punk dall'Italia! Lamante in cover.",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -1093,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "MADDAM",
+        "url": "https://open.spotify.com/album/0mH4CHMfWvCmjagae688X7"
+      },
+      "artists": [
+        {
+          "name": "MADDAM",
+          "url": "https://open.spotify.com/artist/3vYFIXSHzx3x9yXvmHf1VC"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157925,
+      "name": "Back in town",
+      "url": "https://open.spotify.com/track/5zTruAvOar0H7PW6g82m1j"
+    },
+    {
+      "album": {
         "name": "Back To Bangkok",
         "url": "https://open.spotify.com/album/17T80PkB923M3sQfkvkDQf"
       },
@@ -1656,6 +1674,24 @@
       "duration_ms": 198845,
       "name": "BRUCIARE",
       "url": "https://open.spotify.com/track/50K3P7uydZGdK2naBJeohX"
+    },
+    {
+      "album": {
+        "name": "Nube",
+        "url": "https://open.spotify.com/album/3LqplH643z4vbh6EAi0ssL"
+      },
+      "artists": [
+        {
+          "name": "Lua",
+          "url": "https://open.spotify.com/artist/01MhZnLxKcCvDjs03ndUnw"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Bucaneve",
+      "url": "https://open.spotify.com/track/5lFiVbg5X5k8wDMf6ts49g"
     },
     {
       "album": {
@@ -3222,6 +3258,24 @@
       "duration_ms": 392195,
       "name": "Cospiro (feat. Marta Del Grandi)",
       "url": "https://open.spotify.com/track/0gWsnd9th1H2SBotR45tEp"
+    },
+    {
+      "album": {
+        "name": "Costruirei",
+        "url": "https://open.spotify.com/album/7dZICCVCLBBxeQ9G5y6qBr"
+      },
+      "artists": [
+        {
+          "name": "Il nome \u00e8 puramente indicativo",
+          "url": "https://open.spotify.com/artist/5h8Td5L6oB3Fa8eI6mnBZN"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400000,
+      "name": "Costruirei",
+      "url": "https://open.spotify.com/track/6O5VObrsnYMTgMQjWUbUO3"
     },
     {
       "album": {
@@ -10224,7 +10278,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 168166,
       "name": "Pazza",
       "url": "https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe"
@@ -11242,6 +11296,28 @@
       "duration_ms": 164000,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3gPJiyqsPT0VeMSxoDtA0j"
+    },
+    {
+      "album": {
+        "name": "Raha",
+        "url": "https://open.spotify.com/album/7tJgc7FBSJQZ3yIP1J76gf"
+      },
+      "artists": [
+        {
+          "name": "Savana Funk",
+          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
+        },
+        {
+          "name": "Gaudi",
+          "url": "https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306880,
+      "name": "Raha",
+      "url": "https://open.spotify.com/track/2lnJEZh2IopfJ6YCeDqrGU"
     },
     {
       "album": {
@@ -12377,6 +12453,24 @@
     },
     {
       "album": {
+        "name": "Showu",
+        "url": "https://open.spotify.com/album/13luLECarR62ppW5Eou17m"
+      },
+      "artists": [
+        {
+          "name": "Kuni",
+          "url": "https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128218,
+      "name": "Showu",
+      "url": "https://open.spotify.com/track/6HGRFffsqctjlRyZX6JxzQ"
+    },
+    {
+      "album": {
         "name": "Romanzo Porno",
         "url": "https://open.spotify.com/album/0YwZo0P6EtxWSqYGynEzTx"
       },
@@ -12926,6 +13020,24 @@
       "duration_ms": 196770,
       "name": "Still Got My Time",
       "url": "https://open.spotify.com/track/1niBgFt03sHUfrBrqmZbrw"
+    },
+    {
+      "album": {
+        "name": "DR*GA!",
+        "url": "https://open.spotify.com/album/7nwHRQxuVosIMAarBREG6y"
+      },
+      "artists": [
+        {
+          "name": "INARIA",
+          "url": "https://open.spotify.com/artist/27tgtbtrHISzeyzYjsEoyf"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179194,
+      "name": "STIRPE DI FARMACI",
+      "url": "https://open.spotify.com/track/1NrLIDeifzsclWcfO7wzP2"
     },
     {
       "album": {
@@ -13768,6 +13880,24 @@
       "duration_ms": 149565,
       "name": "TI DEVI ROVINARE",
       "url": "https://open.spotify.com/track/4867uScJp6gPGEckidOWk1"
+    },
+    {
+      "album": {
+        "name": "Ti faccio un tutorial",
+        "url": "https://open.spotify.com/album/2qxQGudBokyFOnLbJtr2eY"
+      },
+      "artists": [
+        {
+          "name": "NAMIDA",
+          "url": "https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Ti faccio un tutorial",
+      "url": "https://open.spotify.com/track/2OM49PXPcHeeDqkNeyZHoC"
     },
     {
       "album": {

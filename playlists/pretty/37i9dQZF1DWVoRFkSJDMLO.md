@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: Tyla 🇿🇦
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,960 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,001 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 99 | [All We Have](https://open.spotify.com/track/3or0IsulDuhWQR9pjU4CF2) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [All We Have](https://open.spotify.com/album/1LUanQLREJVyLmfLEmwZy7) | 3:56 |
 | 100 | [Jump Off](https://open.spotify.com/track/6on03Tw14NWeIjumedTL71) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs), [Godflow](https://open.spotify.com/artist/0QsEQ9wcaW5ruKmXNWxUJC) | [Jump Off](https://open.spotify.com/album/2MNQyEcTDvGJ0qXQ975dhK) | 2:09 |
 
-Snapshot ID: `MCw1MjRhYmFkMjZmNjM3MTQ4NTk4ZTYzZTNiOGQxYTMzMjFhYmRhZDMw`
+Snapshot ID: `MCwyZWI3ZTQ1YTcyYjhlMDhjMjZkYTgyZmZlZGFmMzVhMzM3YTI3MGY3`

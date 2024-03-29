@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. Caloncho en portada.
 
-3,905 songs - 9 day 0 hr 36 min
+3,906 songs - 9 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3727,6 +3727,7 @@
 | [Verbenas](https://open.spotify.com/track/5ryuReLd1ZW0R2BCpgiG0W) | [Eva Ryjlen](https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w) | [Verbenas](https://open.spotify.com/album/7n3EUXlrYCr7fGydlXtRBC) | 4:13 | 2022-09-02 | 2022-09-10 |
 | [VERDADERO](https://open.spotify.com/track/5qRO6ppSIfny2RWaLSE4vw) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [VERDADERO](https://open.spotify.com/album/7iu7jOLEz4NnFkFAIIy3r5) | 2:34 | 2023-09-29 | 2023-10-16 |
 | [Verde Artificial](https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Verde Artificial](https://open.spotify.com/album/5uzeX8BMNL4p4jDiRDJ9dF) | 4:04 | 2022-08-26 | 2022-09-10 |
+| [VERDE MENTA](https://open.spotify.com/track/4tyByybfRMVugNVJ3Qw1WT) | [Luis Aguirre](https://open.spotify.com/artist/2GgVRZoZbteN3wXsqJ7uEB) | [VERDE MENTA](https://open.spotify.com/album/1wL9acTyAdPs7sEJUpQ67j) | 3:02 | 2024-03-22 |  |
 | [Verona](https://open.spotify.com/track/64tuMkafK35OSgXmLYi1Ph) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Sobrenatural](https://open.spotify.com/album/0XoqQ5cb29AAJ8OhIt4b41) | 3:42 | 2024-03-08 | 2024-03-23 |
 | [Verte](https://open.spotify.com/track/2aQCNOBuD81IsgT3goC56A) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP), [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [Verte](https://open.spotify.com/album/0nc4VKUR3tWPFt1K7WJwIm) | 3:45 | 2023-08-11 | 2023-08-19 |
 | [Verte Otra Vez](https://open.spotify.com/track/3cDfdnyHHHjjJGifdTaToT) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Verte Otra Vez](https://open.spotify.com/album/0VQOxV4o6TPKxF7oePOIAi) | 3:49 | 2023-02-03 | 2023-02-18 |

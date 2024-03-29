@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 115037,
+  "num_followers": 115109,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjRiNTYxZjUzYWE1YTQ2MzM0MDJkNGVmNGJkNDg2OGJmYmQ0Njg3",
+  "snapshot_id": "MCxiYzNiMGMxYjc3MTZlNmVjNjQyNDRiNGViNTU5YTQ1MjZjNWYzOTlm",
   "tracks": [
     {
       "added_at": "2024-01-12 16:17:07",
@@ -463,22 +463,18 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Paso la Vida Pensando",
-        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/3Il6rnmvc0ruO44K5uxxKp"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        },
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+          "name": "Andy El Unico",
+          "url": "https://open.spotify.com/artist/4I40qR0RmdYmHV9rDxCQla"
         }
       ],
-      "duration_ms": 242277,
-      "name": "Paso la Vida Pensando",
-      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
+      "duration_ms": 223242,
+      "name": "Perdi mi amor",
+      "url": "https://open.spotify.com/track/0JbUojx7kyiv7tSPxICWTx"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -499,18 +495,22 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/3Il6rnmvc0ruO44K5uxxKp"
+        "name": "Paso la Vida Pensando",
+        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
       },
       "artists": [
         {
-          "name": "Andy El Unico",
-          "url": "https://open.spotify.com/artist/4I40qR0RmdYmHV9rDxCQla"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
         }
       ],
-      "duration_ms": 223242,
-      "name": "Perdi mi amor",
-      "url": "https://open.spotify.com/track/0JbUojx7kyiv7tSPxICWTx"
+      "duration_ms": 242277,
+      "name": "Paso la Vida Pensando",
+      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
     },
     {
       "added_at": "2024-01-12 16:17:07",

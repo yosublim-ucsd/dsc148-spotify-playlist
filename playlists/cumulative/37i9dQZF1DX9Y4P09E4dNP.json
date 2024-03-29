@@ -706,7 +706,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 164844,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 230655,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/2wSk1MHN01QkgGEundIT0y"
@@ -2011,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "Obrempong",
+        "url": "https://open.spotify.com/album/1Ha74jk2foDfMrWRVzKAHP"
+      },
+      "artists": [
+        {
+          "name": "Lord Paper",
+          "url": "https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196257,
+      "name": "Obrempong",
+      "url": "https://open.spotify.com/track/6vk0AipLoEac7RZIWkW4ZV"
+    },
+    {
+      "album": {
         "name": "Odo Asisi Me",
         "url": "https://open.spotify.com/album/5Fjq8GcJbOebH4jU9CeJid"
       },
@@ -2629,6 +2647,46 @@
     },
     {
       "album": {
+        "name": "Slay Queen",
+        "url": "https://open.spotify.com/album/5K2X26PtyTCUZmmfzIaZI2"
+      },
+      "artists": [
+        {
+          "name": "Sista Afia",
+          "url": "https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214453,
+      "name": "Slay Queen",
+      "url": "https://open.spotify.com/track/58hvxoqFo5vDqR5NmvORsh"
+    },
+    {
+      "album": {
+        "name": "Sober (Soo Bad)",
+        "url": "https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220206,
+      "name": "Sober (Soo Bad)",
+      "url": "https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8"
+    },
+    {
+      "album": {
         "name": "The Villain I Never Was",
         "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
       },
@@ -3016,7 +3074,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 209411,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/1Yy0MCqFDgn2OYnRYzmU7K"

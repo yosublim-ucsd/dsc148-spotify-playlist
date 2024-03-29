@@ -34,10 +34,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 267363,
       "name": "A Besitos",
       "url": "https://open.spotify.com/track/7CnlBAOTtLrPoSslicvZM7"
+    },
+    {
+      "album": {
+        "name": "Vallenato Fest",
+        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
+      },
+      "artists": [
+        {
+          "name": "Grupo Vallenato",
+          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272533,
+      "name": "A Pesar de Todo",
+      "url": "https://open.spotify.com/track/54YvbepGr0JTm8rKyTkNIV"
     },
     {
       "album": {
@@ -60,7 +78,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 272533,
       "name": "A Pesar De Todo",
       "url": "https://open.spotify.com/track/6PJlqc0VY2xHVRpdG64O09"
@@ -314,7 +332,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 282827,
       "name": "Cuando Casi Te Olvidaba",
       "url": "https://open.spotify.com/track/6Fn0YHHglTA5qBVXS8yOER"
@@ -539,6 +557,28 @@
     },
     {
       "album": {
+        "name": "Imborrable",
+        "url": "https://open.spotify.com/album/1Ncdq0jK1D4HVp85ikBBP5"
+      },
+      "artists": [
+        {
+          "name": "Mono Zabaleta",
+          "url": "https://open.spotify.com/artist/2Q6L4B0awar0BWcQOWsAvu"
+        },
+        {
+          "name": "Daniel Maestre",
+          "url": "https://open.spotify.com/artist/3Kyp9mcwSXZmeXPld7I202"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240613,
+      "name": "Imborrable",
+      "url": "https://open.spotify.com/track/1X0RfkzkHU9AetJrOpUigO"
+    },
+    {
+      "album": {
         "name": "Alto Voltaje",
         "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
       },
@@ -644,7 +684,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 275774,
       "name": "Los Caminos De La Vida",
       "url": "https://open.spotify.com/track/3xMLWeaF5GejsfnUq9zzn6"
@@ -844,7 +884,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 282920,
       "name": "No Comprendi Tu Amor",
       "url": "https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z"
@@ -964,7 +1004,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 283600,
       "name": "No Voy A Llorar",
       "url": "https://open.spotify.com/track/0GeR6j3KxDNkLgjRbNgYxm"
@@ -1162,7 +1202,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 333946,
       "name": "Que pena",
       "url": "https://open.spotify.com/track/2YXvjidOJH62npeeKr2iZR"
@@ -1362,7 +1402,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 310400,
       "name": "Sirena Encantada",
       "url": "https://open.spotify.com/track/3LhmbxCgjX7E7xYBEUn30Y"
@@ -1420,7 +1460,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 294040,
       "name": "Tarde Lo Conoci",
       "url": "https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93"
@@ -1460,7 +1500,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 287346,
       "name": "Te Amo y Te Amo",
       "url": "https://open.spotify.com/track/1oGQsCmd5B0AyqX1YW0Qm7"

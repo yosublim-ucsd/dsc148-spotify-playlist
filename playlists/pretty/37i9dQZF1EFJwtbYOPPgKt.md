@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4faXS5M3wmHrYeRCoMXyUg">Katharina Emendoerfer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25 likes - 51 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 51 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 | 22 | [This Melody](https://open.spotify.com/track/5S5fBN39X06z6dCrfyc1QO) | [Rudeejay](https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K), [Da Brozz](https://open.spotify.com/artist/2jrH2DRrZ0NU395R27gal6), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [This Melody](https://open.spotify.com/album/43Cy3S3bdMlgFYbYXjaYk5) | 2:46 |
 | 23 | [Desperados](https://open.spotify.com/track/1w4Wfvt1qEfJ4Yt0CazObW) | [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7), [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Desperados](https://open.spotify.com/album/5fdrFACoOKVRsSYwP5oiLf) | 2:20 |
 | 24 | [Dark Knight](https://open.spotify.com/track/7aXKDR4IGkQ6vuIk9lju50) | [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Dark Knight](https://open.spotify.com/album/2Mfk8EdEC676OXy1LbLrQt) | 2:07 |
-| 25 | [OHNE DICH](https://open.spotify.com/track/71hdTxlg3hYTBomSwAG0mM) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [OHNE DICH](https://open.spotify.com/album/1NzY7UOkZ6uP6oz9sP8AtZ) | 2:54 |
-| 26 | [My Mind](https://open.spotify.com/track/42vvDrcD9Juk0ZL0h6gDV0) | [Rammor](https://open.spotify.com/artist/73147xL7gw2ilXfbVPzTuw) | [My Mind](https://open.spotify.com/album/7aaJ2wk8HXiBvbspLMYgWO) | 2:28 |
+| 25 | [My Mind](https://open.spotify.com/track/42vvDrcD9Juk0ZL0h6gDV0) | [Rammor](https://open.spotify.com/artist/73147xL7gw2ilXfbVPzTuw) | [My Mind](https://open.spotify.com/album/7aaJ2wk8HXiBvbspLMYgWO) | 2:28 |
+| 26 | [OHNE DICH](https://open.spotify.com/track/71hdTxlg3hYTBomSwAG0mM) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [OHNE DICH](https://open.spotify.com/album/1NzY7UOkZ6uP6oz9sP8AtZ) | 2:54 |
 | 27 | [Boys Make Me Cry](https://open.spotify.com/track/1rGnLwL6mJ7ULB19szUUfm) | [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Boys Make Me Cry](https://open.spotify.com/album/1yjPO13ze1nY2a6FmLSnWt) | 2:07 |
 | 28 | [Darkroom](https://open.spotify.com/track/5mE0T9thY86MV0xVAqMUWP) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R) | [Darkroom](https://open.spotify.com/album/2HssdyMxj7fyrjiKHIddLM) | 2:22 |
 | 29 | [Insomnia](https://open.spotify.com/track/3mwsaRe1Wl0xkdgcNk1PZb) | [G+UNENBERG](https://open.spotify.com/artist/5ArLnDL8SBzEEcVkGbDIPW) | [Insomnia](https://open.spotify.com/album/22CdFzmenmopkk0fHqgxly) | 2:39 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 | 50 | [Nobody But Me](https://open.spotify.com/track/4i9PcmhTevRokKqri21Bcz) | [AEROBIK](https://open.spotify.com/artist/6KvIFrZa8inF4QNJMLj51t) | [Nobody But Me](https://open.spotify.com/album/6PmrSyZkI96DNLj4dK0uZs) | 3:00 |
 | 51 | [One More Night to Go](https://open.spotify.com/track/4xylMnIhy4TEpsKwFW1jFd) | [Swasion](https://open.spotify.com/artist/2laSdQ3VWlxoqY1HOV6KFm) | [One More Night to Go](https://open.spotify.com/album/4MGkPbRnNQKX3aPgB6slEO) | 2:38 |
 
-Snapshot ID: `Mjg1MjY1MjAsMDAwMDAwMDBlNGEyM2NiOTJkZTQyMmEyOTgwYjdhYmM0N2FlNzYzYQ==`
+Snapshot ID: `Mjg1Mjc5NjAsMDAwMDAwMDBiNjI3NTk5MmQwNWQ0NTMxODI0YWM0ODg2Mjk0OTllNA==`

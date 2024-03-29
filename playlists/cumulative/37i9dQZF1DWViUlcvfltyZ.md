@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> La playlist che è come andare ai concerti\. Novità rock, indie e punk dall'Italia! sleap\-e in cover.
+> La playlist che è come andare ai concerti\. Novità rock, indie e punk dall'Italia! Lamante in cover.
 
-834 songs - 1 day 22 hr 12 min
+841 songs - 1 day 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [B4](https://open.spotify.com/track/471iPDomxfndXNESa4xg7C) | [Etta](https://open.spotify.com/artist/2U2hbzE2tUhswaUQipbQVB) | [Stress](https://open.spotify.com/album/4nWf8QLYNgmTLCZcyFeLJY) | 3:29 | 2022-12-08 | 2023-01-27 |
 | [BABY](https://open.spotify.com/track/7rat6YuFFrqCz7asAqQtMf) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [BABY](https://open.spotify.com/album/5znorjvZtJXTHO1fwtlXFl) | 2:15 | 2023-04-13 | 2023-06-09 |
 | [Back In The Loop](https://open.spotify.com/track/3INoRjtC6c0SZJaet3465R) | [MILANOSPORT](https://open.spotify.com/artist/5Om07vNuCtNPdkHuYKkSNl) | [Back In The Loop](https://open.spotify.com/album/6qtU0ESjKtzXKIJXABBN4C) | 3:47 | 2023-10-26 | 2023-12-22 |
+| [Back in town](https://open.spotify.com/track/5zTruAvOar0H7PW6g82m1j) | [MADDAM](https://open.spotify.com/artist/3vYFIXSHzx3x9yXvmHf1VC) | [MADDAM](https://open.spotify.com/album/0mH4CHMfWvCmjagae688X7) | 2:37 | 2024-03-28 |  |
 | [Back To Bangkok](https://open.spotify.com/track/5RrtTSB9uvPFCWFJ8ViI94) | [The Manges](https://open.spotify.com/artist/5Uop1XjzGUDG3t4uoWXooc) | [Back To Bangkok](https://open.spotify.com/album/17T80PkB923M3sQfkvkDQf) | 2:06 | 2022-07-14 | 2022-09-30 |
 | [Backrooms](https://open.spotify.com/track/1cEcfTBf5PwaZIuYFurscC) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [Backrooms](https://open.spotify.com/album/6HGpsFbI1CcOCAd73mBVuJ) | 1:51 | 2023-03-23 | 2023-04-07 |
 | [Badabum](https://open.spotify.com/track/2PEwvgXfaQpa6bY749iqfm) | [Girless](https://open.spotify.com/artist/0I43z1XvY83Y2gdmT4ZSHk) | [Los de afuera son de palo](https://open.spotify.com/album/69NJYg8iCMWraa7Pkw9fh3) | 2:29 | 2023-10-27 | 2023-11-24 |
@@ -99,6 +100,7 @@
 | [Briciole](https://open.spotify.com/track/0WsYtbZjsv4oguJtVJvevh) | [Astruso](https://open.spotify.com/artist/3KAdDKm0QZlus9E20UaZlp) | [Guardare](https://open.spotify.com/album/02UAzCAkKXBy44EbmUTEpS) | 2:29 | 2024-02-08 | 2024-03-01 |
 | [Broccoletti Goes Punk](https://open.spotify.com/track/1g8YIqdmnPl4B7YXtmWlKk) | [Marchiza](https://open.spotify.com/artist/1dyLjZ261DhTy6Qq2EmNJJ) | [Broccoletti Goes Punk](https://open.spotify.com/album/3NryFAzIjGgs8kWEdK06PR) | 2:39 | 2023-06-08 | 2023-06-30 |
 | [BRUCIARE](https://open.spotify.com/track/50K3P7uydZGdK2naBJeohX) | [Marrano](https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY) | [BRUCIARE](https://open.spotify.com/album/4b5KqaR7e6S1q7OfTbZiXV) | 3:18 | 2022-12-15 | 2023-02-17 |
+| [Bucaneve](https://open.spotify.com/track/5lFiVbg5X5k8wDMf6ts49g) | [Lua](https://open.spotify.com/artist/01MhZnLxKcCvDjs03ndUnw) | [Nube](https://open.spotify.com/album/3LqplH643z4vbh6EAi0ssL) | 4:16 | 2024-03-28 |  |
 | [BUGIARDO](https://open.spotify.com/track/6laV1EFz9b6fbs0NJ4nc92) | [LE CARIE](https://open.spotify.com/artist/2A8udj5MEQyHsfVJjXmukj), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [TRE](https://open.spotify.com/album/6KgWi7Dq7eGztZzC9ExYmn) | 3:04 | 2023-03-15 | 2023-05-04 |
 | [Buio](https://open.spotify.com/track/2lsKGcKe6FizRGPimPtBal) | [LOREN](https://open.spotify.com/artist/7i1dBxscRnTkZIVoo0F29h) | [Buio](https://open.spotify.com/album/3LwsCmNWnnlwQm5TAMFzaW) | 3:19 | 2022-07-28 | 2022-08-26 |
 | [Buio](https://open.spotify.com/track/6X1PE6tOCJa9mpXdcCIswg) | [LOREN](https://open.spotify.com/artist/7i1dBxscRnTkZIVoo0F29h) | [Buio](https://open.spotify.com/album/0SWsn6jGy0EQzBGGQysYc6) | 3:20 | 2022-07-07 | 2022-07-29 |
@@ -182,6 +184,7 @@
 | [Corny](https://open.spotify.com/track/0p9GTFfCSDseFiCEuH4GlJ) | [Grigio Scarlatto](https://open.spotify.com/artist/1tck0JaVzfb6UtiriTB6zJ) | [Corny](https://open.spotify.com/album/1RwrTlkQ5u3EE5CrnlH6yi) | 2:05 | 2022-09-15 | 2022-10-14 |
 | [COSA VA IN ME?](https://open.spotify.com/track/7CzSSJurj4jcsO8W53iz9L) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [COSA VA IN ME?](https://open.spotify.com/album/15qyqPXK3K5Z1KJvVoGVV1) | 3:01 | 2023-04-13 | 2023-06-16 |
 | [Cospiro \(feat\. Marta Del Grandi\)](https://open.spotify.com/track/0gWsnd9th1H2SBotR45tEp) | [Casino Royale](https://open.spotify.com/artist/1OavCVgu5jGDNw4YVNkfgK), [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Cospiro \(feat\. Marta Del Grandi\)](https://open.spotify.com/album/4q2qVohJviUnFTj6flvcri) | 6:32 | 2023-06-08 | 2023-10-20 |
+| [Costruirei](https://open.spotify.com/track/6O5VObrsnYMTgMQjWUbUO3) | [Il nome è puramente indicativo](https://open.spotify.com/artist/5h8Td5L6oB3Fa8eI6mnBZN) | [Costruirei](https://open.spotify.com/album/7dZICCVCLBBxeQ9G5y6qBr) | 6:40 | 2024-03-28 |  |
 | [Cpr14](https://open.spotify.com/track/0kNVayFfKaampXjb0fdOCy) | [Gazebo Penguins](https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN) | [Cpr14](https://open.spotify.com/album/1TT1RZ8aAGVy04DVcv9oBt) | 3:44 | 2022-11-24 | 2023-01-27 |
 | [Crepuscolo](https://open.spotify.com/track/2ynNY2fbbznv1JE5ePaNQ7) | [Buriana](https://open.spotify.com/artist/2xp9MuQLpCHqMuoRQ2AtHu) | [Crepuscolo](https://open.spotify.com/album/24N87ShW17h11WIXpdlGnd) | 3:15 | 2023-04-14 | 2023-06-09 |
 | [Crispy](https://open.spotify.com/track/5qThAUaX5m9rxiCrYckogG) | [Siouxie and the Skunks](https://open.spotify.com/artist/687wBZ0bSTp7AaCf2UYcOR) | [Songs About Cuddles](https://open.spotify.com/album/0ZueNLhUivQE9u5JNsUKNF) | 3:28 | 2024-03-21 |  |
@@ -558,7 +561,7 @@
 | [PASTIGLIE BLU](https://open.spotify.com/track/3S3QnIeVFa2HXKcoK4mw3U) | [INARIA](https://open.spotify.com/artist/27tgtbtrHISzeyzYjsEoyf) | [PASTIGLIE BLU](https://open.spotify.com/album/5cOBAiQSaaepDET6bWlM6k) | 2:28 | 2024-02-29 |  |
 | [Paura del buio \(feat\. Ibisco\)](https://open.spotify.com/track/5vGkxbfYamYEXYy4xbqTFP) | [APICE](https://open.spotify.com/artist/6XjatCpy0Nga62z2NWuVHd), [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [RUMORE BIANCO](https://open.spotify.com/album/7F8ogWOLuMzYh2FIikjR2a) | 5:12 | 2024-01-25 |  |
 | [Pavlov](https://open.spotify.com/track/1SowNdMmeZqbvkYdR142Zt) | [Soft Boys Club](https://open.spotify.com/artist/5fqMQgnJpNyZEB3p3fgfGZ) | [Pavlov](https://open.spotify.com/album/6Z05RE2ys7N0patRu7h8Sr) | 3:50 | 2024-01-11 | 2024-02-23 |
-| [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 | 2024-02-07 |  |
+| [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 | 2024-02-07 | 2024-03-29 |
 | [Pem Pem \(Io sono Elettra e faccio\)](https://open.spotify.com/track/406l3Gfz3GUdmbrOBhA5DH) | [Andreotti](https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ) | [Pem Pem \(Io sono Elettra e faccio\)](https://open.spotify.com/album/6kN7YHy1mqESjJ64D8YQFD) | 6:17 | 2022-12-15 | 2023-01-20 |
 | [Pensieri dal sottoscala](https://open.spotify.com/track/21CXSmO5srLQaqNGpomeRQ) | [Livido](https://open.spotify.com/artist/6ETNsyRbs4DOmry3DxAQTC) | [Pensieri dal sottoscala](https://open.spotify.com/album/1WzIKkcurHq3U8Pl4c01gH) | 3:04 | 2023-05-25 | 2023-07-14 |
 | [Pensiero magico](https://open.spotify.com/track/2Kann8MkDiYwDutctlgxyX) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Entropia Padrepio](https://open.spotify.com/album/1fs6tfBsU6HOl9Oa6IKnEN) | 3:12 | 2022-05-19 | 2022-07-01 |
@@ -612,6 +615,7 @@
 | [Quello Che Non C'è \(feat\. Manuel Agnelli\)](https://open.spotify.com/track/65ieb5XPGR2QmKWcYBMpVx) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [MOSTRO](https://open.spotify.com/album/1x8hEawwm7gHP3FZFtAfnt) | 3:55 | 2023-04-02 | 2023-04-07 |
 | [Questi giorni](https://open.spotify.com/track/0llVjRE5N3vFYieobSpQKU) | [The Fields](https://open.spotify.com/artist/061rRGCX8uEGzCQ0mhKSzp) | [Questi giorni](https://open.spotify.com/album/2Uy1zHpysPy5LGquuPhncm) | 4:47 | 2024-02-22 | 2024-03-08 |
 | [Radio](https://open.spotify.com/track/3gPJiyqsPT0VeMSxoDtA0j) | [Leanò](https://open.spotify.com/artist/0pb0sehd5pPALyoCt8B4MV) | [Radio](https://open.spotify.com/album/2JDZQBDwn6sQ5QMLolMR9o) | 2:44 | 2023-06-22 | 2023-08-24 |
+| [Raha](https://open.spotify.com/track/2lnJEZh2IopfJ6YCeDqrGU) | [Savana Funk](https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG), [Gaudi](https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP) | [Raha](https://open.spotify.com/album/7tJgc7FBSJQZ3yIP1J76gf) | 5:06 | 2024-03-28 |  |
 | [Re](https://open.spotify.com/track/2MXmns9bnMQK75QRXglbuE) | [Umberto Maria Giardini](https://open.spotify.com/artist/1jUnq1j9h7jwhefWzS8r95) | [Re](https://open.spotify.com/album/0010d1A2rC7GUI0F9yPNCz) | 3:54 | 2023-11-16 | 2024-02-02 |
 | [Receding Hairlines](https://open.spotify.com/track/1LoqsE92WXai4UkfSoCBzF) | [TA GA DA](https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5) | [This Is How We Dance](https://open.spotify.com/album/3mUOOM6v6ZPfbYmhp0iQH0) | 3:18 | 2023-11-16 | 2023-12-22 |
 | [Record](https://open.spotify.com/track/7bJJKJtXIDYsz87fpRArOs) | [clauscalmo](https://open.spotify.com/artist/0JYnmJcNn4DnQkJfHFjLnR) | [Record](https://open.spotify.com/album/6gMEYik1cWddt2je1HT0n1) | 3:30 | 2022-10-27 | 2022-11-18 |
@@ -674,6 +678,7 @@
 | [She's so differentə](https://open.spotify.com/track/3JdZ89z3ueTuc5WIDeCNs9) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [She's so differentə](https://open.spotify.com/album/7CQ0JTjZ2W5poSmG7cr1Ps) | 4:23 | 2023-03-16 | 2023-05-26 |
 | [Shhh.](https://open.spotify.com/track/1o135lY1qAAupB72BNb8jK) | [Johnny Mox](https://open.spotify.com/artist/4XzJm38kgQbtmqhXP3yfsk) | [Anni Venti](https://open.spotify.com/album/6BWEyWZY8KZfuBPh0fhVgN) | 2:29 | 2023-11-16 | 2024-01-12 |
 | [Shirly](https://open.spotify.com/track/7elf321mzsREI27HuwWWGC) | [Fiasko Leitmotiv](https://open.spotify.com/artist/7mCEKbvh7Tt4JJUkZYbkR4) | [Humblekids](https://open.spotify.com/album/3r2ghMcD9kK9hd4l3IJKNk) | 4:41 | 2022-06-30 | 2022-08-26 |
+| [Showu](https://open.spotify.com/track/6HGRFffsqctjlRyZX6JxzQ) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [Showu](https://open.spotify.com/album/13luLECarR62ppW5Eou17m) | 2:08 | 2024-03-28 |  |
 | [Siamo troppi](https://open.spotify.com/track/1x36IsGDXJmhIZwuwPFcmA) | [Boetti](https://open.spotify.com/artist/1DBR12wJQpK03Xe1M6G0vt) | [Romanzo Porno](https://open.spotify.com/album/0YwZo0P6EtxWSqYGynEzTx) | 3:13 | 2023-11-23 | 2023-12-15 |
 | [Sides](https://open.spotify.com/track/2ne1ojKyDKMMvD4VSDYvzf) | [Danxgerous](https://open.spotify.com/artist/0Gt3wzw2zPVUVVAhGkeLuT) | [Sides](https://open.spotify.com/album/2a8G9pLND6ILoopArfwy3k) | 3:06 | 2024-02-15 |  |
 | [Signorina Mani Avanti](https://open.spotify.com/track/7pljhNu1HXO2TEYg1nLxAa) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Signorina Mani Avanti](https://open.spotify.com/album/3ldHaKOt5xQ3puA16Q8Kcl) | 3:52 | 2022-06-23 | 2023-05-04 |
@@ -704,6 +709,7 @@
 | [Stati di agitazione](https://open.spotify.com/track/7bTraSxvK6F3beRP5vL17h) | [Blindur](https://open.spotify.com/artist/7LUvRhMok52Bi5G2gmQzGc), [Rodrigo D'Erasmo](https://open.spotify.com/artist/6eeTkJg6QLQ34VbYXdqpBX) | [Stati di agitazione](https://open.spotify.com/album/54BgILjJKbhtYkbpLN3Jiv) | 3:07 | 2022-06-23 | 2022-09-30 |
 | [Stefano](https://open.spotify.com/track/4x2ujpyYo1aKwZY2VdY3i2) | [le vite degli altri](https://open.spotify.com/artist/5MXyajGaB4FejUzTBE8Oyi) | [Stefano](https://open.spotify.com/album/3rOAf8bWbzAMWrWwBQRhc0) | 3:04 | 2023-11-16 | 2024-02-16 |
 | [Still Got My Time](https://open.spotify.com/track/1niBgFt03sHUfrBrqmZbrw) | [Westfalia](https://open.spotify.com/artist/1xMsdujnDYoi3k6C26k3Uh) | [We're Not Just Good at Playing](https://open.spotify.com/album/4FoyUZkBrkRdHxnAvuH0T8) | 3:16 | 2022-05-09 | 2022-06-24 |
+| [STIRPE DI FARMACI](https://open.spotify.com/track/1NrLIDeifzsclWcfO7wzP2) | [INARIA](https://open.spotify.com/artist/27tgtbtrHISzeyzYjsEoyf) | [DR\*GA!](https://open.spotify.com/album/7nwHRQxuVosIMAarBREG6y) | 2:59 | 2024-03-28 |  |
 | [Sto meglio](https://open.spotify.com/track/4Nyo7JpxB36ra3unsidb9V) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Sto meglio](https://open.spotify.com/album/2s3OPnv7HypOTPkosmlPsV) | 3:17 | 2024-03-14 |  |
 | [Stoccolma](https://open.spotify.com/track/7hsbFCXE4Q3GWHyAO8SJZE) | [Maëlys](https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ) | [Stoccolma](https://open.spotify.com/album/4eweWKEWbfTRVPwnf5AFZo) | 2:09 | 2022-10-06 | 2022-10-28 |
 | [Storia](https://open.spotify.com/track/0iqB0jQVH03FWjvoKcQkJg) | [RAGAZZAcd](https://open.spotify.com/artist/6lTvJHqB7bNnL7YCmeFNQp), [Alessandro Baronciani](https://open.spotify.com/artist/7pLL31FfCScLXL47auT67u), [Rachele Bastreghi](https://open.spotify.com/artist/3HYc75gfN9DrNB75ld2u57) | [Storia](https://open.spotify.com/album/6cb8vQtt1AVfGwRYobPcrL) | 3:07 | 2022-09-08 | 2022-10-21 |
@@ -749,6 +755,7 @@
 | [Thin Ice](https://open.spotify.com/track/4EJhnSQtPRUN5cUzaSA0ZH) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Fiesta](https://open.spotify.com/album/0rXmDvbdBuAsMVQYpfqT0u) | 2:32 | 2022-10-13 | 2022-12-02 |
 | [Ti Amerei](https://open.spotify.com/track/09EeLpRYDS8Qxk5Q7mOa1A) | [Tropea](https://open.spotify.com/artist/35EdAf21qKHNvALdF6loHX) | [Serole](https://open.spotify.com/album/4WrXBdup2TcNuo7eOLWGFG) | 3:25 | 2024-01-16 |  |
 | [TI DEVI ROVINARE](https://open.spotify.com/track/4867uScJp6gPGEckidOWk1) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [TI DEVI ROVINARE](https://open.spotify.com/album/29mSkfiTOynaVBxBp2E4Vh) | 2:29 | 2022-05-09 | 2022-05-20 |
+| [Ti faccio un tutorial](https://open.spotify.com/track/2OM49PXPcHeeDqkNeyZHoC) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [Ti faccio un tutorial](https://open.spotify.com/album/2qxQGudBokyFOnLbJtr2eY) | 2:56 | 2024-03-28 |  |
 | [Ticking](https://open.spotify.com/track/6fXZbd1rHxJvzqUzA0h1ah) | [Elli de Mon](https://open.spotify.com/artist/5cKkMwUUJG4ikwRpeynbhm) | [Ticking](https://open.spotify.com/album/0TLJkKNmpLZ7iZZKwQJH7R) | 3:27 | 2023-04-06 | 2023-04-15 |
 | [Til Life Do Us Part](https://open.spotify.com/track/2o8uFXQOFhnyKjVSYui1tN) | [The Devils](https://open.spotify.com/artist/4dr588YumnHS2BIa7QOZI8) | [Til Life Do Us Part](https://open.spotify.com/album/2LiofEjkfhdxWeLL6qqlnw) | 2:55 | 2023-12-21 | 2024-02-02 |
 | [Time and Time](https://open.spotify.com/track/5yoZ3ruzBCsMWLWrEMRb2W) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [Time and Time](https://open.spotify.com/album/4tnfYJuYrz6WOmIc0BjDAa) | 4:52 | 2023-04-13 | 2023-05-26 |

@@ -425,6 +425,28 @@
     },
     {
       "album": {
+        "name": "Faur\u00e9: Complete Music for Solo Piano",
+        "url": "https://open.spotify.com/album/3wvlEOwMQI0rujg57v9h1m"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215146,
+      "name": "9 Pr\u00e9ludes, Op. 103: No. 3 in G Minor",
+      "url": "https://open.spotify.com/track/1BOnTkDVtWwyAZt8i9TQ9X"
+    },
+    {
+      "album": {
         "name": "Smetana: Piano Works, Vol. 6",
         "url": "https://open.spotify.com/album/1bZmZSIFsRl8JJ6uY4vklZ"
       },
@@ -1494,7 +1516,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 215146,
       "name": "No. 3 in G Minor",
       "url": "https://open.spotify.com/track/0v80sWJ3dm75znzL0tFE3F"
@@ -2136,10 +2158,32 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 95386,
       "name": "V. Improvisation",
       "url": "https://open.spotify.com/track/0RC67v3YXZOVLnUF6Cvt0L"
+    },
+    {
+      "album": {
+        "name": "Faur\u00e9: Complete Music for Solo Piano",
+        "url": "https://open.spotify.com/album/3wvlEOwMQI0rujg57v9h1m"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95386,
+      "name": "V. Improvisation",
+      "url": "https://open.spotify.com/track/5xH3b0dkvIG3K6u9Nsp9yx"
     },
     {
       "album": {

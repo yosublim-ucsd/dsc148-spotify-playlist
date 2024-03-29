@@ -2,7 +2,7 @@
 
 ### [Lagu Raya](https://open.spotify.com/playlist/37i9dQZF1DX1kqLSAZSw7o)
 
-> Koleksi Lagu Idul Fitri yang populer dan segar.
+> Lagu Raya yang kekal popular.
 
 75 songs - 4 hr 44 min
 
@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [Aidilfitri](https://open.spotify.com/track/0yjaAl8K8wv22Fn7AsIimW) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Raya Yang Sempurna](https://open.spotify.com/album/4ZmcPrGvuX1QiToQbfrZEl) | 4:17 | 2023-05-03 |  |
 | [Aidilfitri](https://open.spotify.com/track/65SXgbhFSx3ptjqi182DFb) | [Sanisah Huri](https://open.spotify.com/artist/57uWnv67tvDbc2QIXt1L62) | [25 Lagu\-Lagu Hari Raya Aidilfitri](https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc) | 3:39 | 2023-05-03 |  |
-| [Aidilfitri](https://open.spotify.com/track/1unEPNtpcl8NuSSX7n1eSL) | [Sanisah Huri](https://open.spotify.com/artist/57uWnv67tvDbc2QIXt1L62) | [Best Hit Nostalgia Hari Raya Aidilfitri Koleksi 30 Lagu Hit Nostalgia Hari Raya](https://open.spotify.com/album/3embNvDHnZxOrOHhHF2ubx) | 3:40 | 2023-05-03 |  |
+| [Aidilfitri](https://open.spotify.com/track/1unEPNtpcl8NuSSX7n1eSL) | [Sanisah Huri](https://open.spotify.com/artist/57uWnv67tvDbc2QIXt1L62) | [Best Hit Nostalgia Hari Raya Aidilfitri Koleksi 30 Lagu Hit Nostalgia Hari Raya](https://open.spotify.com/album/3embNvDHnZxOrOHhHF2ubx) | 3:40 | 2023-05-03 | 2024-03-29 |
 | [Aidilfitri Di Alaf Baru](https://open.spotify.com/track/6Glf1ZDYCk4vYM3XjFf5k4) | [Siti Nurhaliza, Noraniza Idris, Liza Hanim dan Anis Suraya](https://open.spotify.com/artist/6eo1GZfvO552idbYW5aQVq) | [Senyuman Di Pagi Raya](https://open.spotify.com/album/7nvXZqasAN7eWATEJhKOnY) | 4:19 | 2023-05-03 |  |
 | [Air Mata Syawal](https://open.spotify.com/track/4v1jAfui9gHygoPSs1B6Lz) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Anugerah Aidilfitri](https://open.spotify.com/album/0NLE24UYydjx4sddYTjnIJ) | 5:03 | 2023-05-03 |  |
 | [Anugerah Aidilfitri](https://open.spotify.com/track/08ApzPVpIJddn4jL1tiJtR) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Gemilang Aidilfitri](https://open.spotify.com/album/19NthGYQW3Au63Is5AsdzD) | 3:52 | 2023-05-03 |  |

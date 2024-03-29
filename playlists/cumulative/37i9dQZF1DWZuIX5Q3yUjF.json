@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Sarah Toscano.",
+  "description": "Il meglio dell'R&B italiano. Cover: STE",
   "name": "anima R&B",
   "tracks": [
     {
@@ -646,7 +646,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 190021,
       "name": "Bagaglio",
       "url": "https://open.spotify.com/track/1KWGFSz4Zk2skURQBSrd8P"
@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 169750,
       "name": "Censura",
       "url": "https://open.spotify.com/track/1T1KvyxFWb2RB9tBKexrfA"
@@ -2239,6 +2239,24 @@
     },
     {
       "album": {
+        "name": "Difendimi",
+        "url": "https://open.spotify.com/album/1TbyJ8Eqe84uED2253c3jI"
+      },
+      "artists": [
+        {
+          "name": "Paola Pizzino",
+          "url": "https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227306,
+      "name": "Difendimi",
+      "url": "https://open.spotify.com/track/5JM5L1NLbhoaJJbOwO4TBt"
+    },
+    {
+      "album": {
         "name": "Dimmi (Pills One)",
         "url": "https://open.spotify.com/album/0iKTHZi3RigfBLoiIri2Pv"
       },
@@ -2672,7 +2690,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 195523,
       "name": "fantasia",
       "url": "https://open.spotify.com/track/0yN25EpN0006BUnUEdO01L"
@@ -2766,7 +2784,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 193745,
       "name": "Favole",
       "url": "https://open.spotify.com/track/6x0zZolR37lU4nupnEfOJ0"
@@ -3842,6 +3860,28 @@
       "duration_ms": 236307,
       "name": "Iliade",
       "url": "https://open.spotify.com/track/4pmK8N7r8tajDezvfo3wj6"
+    },
+    {
+      "album": {
+        "name": "IMPRONTE SUI VETRI (feat. Evra)",
+        "url": "https://open.spotify.com/album/1t0xcNTQdkWZsAKq5tOYhy"
+      },
+      "artists": [
+        {
+          "name": "Stone",
+          "url": "https://open.spotify.com/artist/0k9VMSXNnnVxNMY99n6DjX"
+        },
+        {
+          "name": "Evra",
+          "url": "https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152474,
+      "name": "IMPRONTE SUI VETRI (feat. Evra)",
+      "url": "https://open.spotify.com/track/1EiEeNQ3IxF1YtWenbB2KN"
     },
     {
       "album": {
@@ -5060,6 +5100,28 @@
       "duration_ms": 180086,
       "name": "LUNES",
       "url": "https://open.spotify.com/track/3ux6HhWQNXS4fjTGuyZcru"
+    },
+    {
+      "album": {
+        "name": "MA COME SI FA",
+        "url": "https://open.spotify.com/album/4YwdSpryGk4Ciu2fqc3OdL"
+      },
+      "artists": [
+        {
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        },
+        {
+          "name": "Scraby",
+          "url": "https://open.spotify.com/artist/3BgpK7ZHEWz7oX8376ngNL"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139591,
+      "name": "MA COME SI FA",
+      "url": "https://open.spotify.com/track/0NWiNpldKNulxKaVSOToBB"
     },
     {
       "album": {
@@ -9130,6 +9192,24 @@
       "duration_ms": 181764,
       "name": "tsunami",
       "url": "https://open.spotify.com/track/2Nj2I8V46TI6xIobJ2GWYn"
+    },
+    {
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/2AGrmhiCCw3bL1VmwLW9Vi"
+      },
+      "artists": [
+        {
+          "name": "VIMINE",
+          "url": "https://open.spotify.com/artist/0K1uWTds9AnxHTy8RJQxEH"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160148,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/56QVVoEWgk6EqcHJnhjQw7"
     },
     {
       "album": {

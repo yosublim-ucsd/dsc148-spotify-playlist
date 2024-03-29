@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > Shotgun Willy, born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,398,714 likes - 100 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,398,799 likes - 100 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 61 | [Ozone](https://open.spotify.com/track/6ZC74JZp5NDi6Q1ZCra1NC) | [Kid Trunks](https://open.spotify.com/artist/57SA5Qv24Vydwd6bJnV8fI) | [Ozone](https://open.spotify.com/album/2Z69mCE7augMMEWRCckD9K) | 3:54 |
 | 62 | [Get Deady \(feat\. 41\)](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady \(feat\. 41\)](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
 | 63 | [22 hours](https://open.spotify.com/track/3RdB9x6VjjxTsp3YfiBaJ3) | [b4u](https://open.spotify.com/artist/5DjaUPqQpwjqpoYKeGcULR) | [still feels like](https://open.spotify.com/album/4v0qd6jPgkGfGAKfogxCuN) | 1:36 |
-| 64 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 2:03 |
+| 64 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 1:54 |
 | 65 | [Mozzarella](https://open.spotify.com/track/6LSyrl1b9cS5Mj4Eh7dRnX) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Mozzarella](https://open.spotify.com/album/5XS2sDLBks5lLsQlD4uEuq) | 2:50 |
 | 66 | [Blue Devils](https://open.spotify.com/track/2MutiCeyax452vW5ydaizZ) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Blue Devils](https://open.spotify.com/album/6X7OCo3FJb2o0yAAsaq0fw) | 2:00 |
 | 67 | [<3x girl](https://open.spotify.com/track/0raYSZY5ca9Gu507VTvdw4) | [wrldn3ro](https://open.spotify.com/artist/2gSkItFlSf0KffnpO3yUF9) | [<3x girl](https://open.spotify.com/album/5qomU1F43TlMieaEHkGlRa) | 0:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [GREEN GOBLIN \- Spotify Singles](https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Spotify Singles](https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp) | 2:09 |
 | 100 | [BUBBLE GREEN](https://open.spotify.com/track/3geCHoatBHgpCbLmittPye) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p) | [GHOST \(DELUXE EDITION\)](https://open.spotify.com/album/5Yte8LPU5DI49QYBiMmI4E) | 1:49 |
 
-Snapshot ID: `MCwxOTQ1ODFmZjc5NzIyNWI0YzBlNzU4ZjYwMzJiY2M5YjYyOTA5NDYx`
+Snapshot ID: `MCwyNDg5NGZkNDAwMzY5YWI3OTM0ZGZmYWQzOGUxNTI2YzBiNTY1NTM2`

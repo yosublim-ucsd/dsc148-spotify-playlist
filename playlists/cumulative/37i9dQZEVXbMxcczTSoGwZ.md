@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,889 songs - 4 day 4 hr 58 min
+1,890 songs - 4 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,7 +385,7 @@
 | [Everything Beautiful](https://open.spotify.com/track/4J8fwjBs0k3KGHVMRJXgOV) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Everything Beautiful](https://open.spotify.com/album/45QLNSxcsMm59D8KHDjj00) | 2:20 | 2022-07-02 | 2022-07-10 |
 | [EveryTime I Cry](https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [EveryTime I Cry](https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw) | 2:57 | 2021-06-13 | 2021-06-20 |
 | [exes](https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [exes](https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH) | 2:39 | 2023-11-18 | 2023-11-26 |
-| [Exät](https://open.spotify.com/track/4q5Rnu71pstT3z6kklETEP) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Exät](https://open.spotify.com/album/53bEIVj0CT6OyfBQCij33B) | 2:34 | 2024-02-17 |  |
+| [Exät](https://open.spotify.com/track/4q5Rnu71pstT3z6kklETEP) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Exät](https://open.spotify.com/album/53bEIVj0CT6OyfBQCij33B) | 2:34 | 2024-02-17 | 2024-03-29 |
 | [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-03-25 | 2023-03-29 |
 | [Eyes Closed](https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 | 2023-03-28 | 2023-04-02 |
 | [F\*ck Fame \(feat\. 1.Cuz\)](https://open.spotify.com/track/1OwpLtZ5IeQrGii3q2i9W5) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [F\*ck Fame \(feat\. 1.Cuz\)](https://open.spotify.com/album/4eFABY2Ipe0L8wx93oiEXj) | 3:08 | 2023-02-04 | 2023-02-19 |
@@ -916,6 +916,7 @@
 | [Lokakuu \(feat\. Bizi\)](https://open.spotify.com/track/2xFJFJqWsQbIQFGuvNv4Yn) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Mun tapa pelata](https://open.spotify.com/album/27Khq95w5Gzg522w4It8TK) | 2:50 | 2022-10-09 | 2022-10-16 |
 | [LOL](https://open.spotify.com/track/4aghYHMXgedILJ6FaotR9O) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV) | [LOL](https://open.spotify.com/album/6ene0hC1w46LtOwHm4ZniJ) | 2:24 | 2023-02-25 | 2023-03-12 |
 | [Loppuun asti \(Vain elämää kausi 13\)](https://open.spotify.com/track/553Q54pcJMbdk1Y5s4qYKr) | [Pete Parkkonen](https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn), [Club For Five](https://open.spotify.com/artist/1gu9pTR4fuo9fSvMNWpHzW), [Rajaton](https://open.spotify.com/artist/3ZfVp9mvvJt4Zly7lxgcaR) | [Loppuun asti \(Vain elämää kausi 13\)](https://open.spotify.com/album/5E7XLRSiY2mNf3qA3EEMI0) | 4:24 | 2022-10-24 | 2022-10-25 |
+| [Lord, I Need You](https://open.spotify.com/track/5TY9nl9PqbQ0fx1piVi3R8) | [Steven Xia](https://open.spotify.com/artist/3jiV4fghGpdlbvtOTuQYtS) | [Lord, I Need You](https://open.spotify.com/album/5GmOiZkljn1rGwLis1MaPo) | 2:13 | 2024-03-28 |  |
 | [Los Blancos](https://open.spotify.com/track/3Dm6U20G6fSOeHkySBjx1w) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Los Blancos](https://open.spotify.com/album/5K5AlcRaZNQKSjBdT0eGdN) | 2:27 | 2023-04-29 | 2023-05-14 |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-02-11 | 2023-02-20 |
 | [Lost Boy \(Vain elämää kausi 13\)](https://open.spotify.com/track/01EVTBLCcWgqGnEjzD4iDz) | [Pete Parkkonen](https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn) | [Lost Boy \(Vain elämää kausi 13\)](https://open.spotify.com/album/4llKnQEPmCTKq5M9rDKmI1) | 3:48 | 2022-10-30 | 2022-11-01 |

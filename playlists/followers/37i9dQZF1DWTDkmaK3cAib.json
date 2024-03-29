@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 45059,
+  "2024-03-29": 45070,
   "date_first_scraped": "2023-02-08",
   "description": "let's get it on",
   "name": "bes\u00e1ndote <3",
@@ -1000,6 +1000,24 @@
     },
     {
       "album": {
+        "name": "Satus",
+        "url": "https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161889,
+      "name": "LQTQH",
+      "url": "https://open.spotify.com/track/7wHFAqujPAhxXt7GnzTYX6"
+    },
+    {
+      "album": {
         "name": "Malib\u00fa",
         "url": "https://open.spotify.com/album/62bGLItJa7M2TGq4WMhvlz"
       },
@@ -1263,7 +1281,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 162880,
       "name": "Naturaleza",
       "url": "https://open.spotify.com/track/2OlxJKrbyLmzAO14EgV53K"

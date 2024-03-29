@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 411966,
+  "2024-03-29": 412016,
   "date_first_scraped": "2022-12-10",
   "description": "Today's biggest Dance hits! Cover: Fred again..",
   "name": "Dance Generation",
@@ -3353,7 +3353,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 158076,
       "name": "Drums - Tita Lau & James Hype Remix",
       "url": "https://open.spotify.com/track/4eV5TQoPc0CrghBcj6AByW"
@@ -9957,6 +9957,24 @@
       "duration_ms": 234053,
       "name": "Strong",
       "url": "https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk"
+    },
+    {
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "album": {

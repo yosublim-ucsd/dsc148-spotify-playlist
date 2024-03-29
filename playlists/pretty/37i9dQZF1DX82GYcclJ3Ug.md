@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Hot Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116,269 likes - 125 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116,423 likes - 125 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 124 | [Thin Ice](https://open.spotify.com/track/6nj9M9tOnWUMhyJL6Qxh0Q) | [atlgrandma](https://open.spotify.com/artist/359MsXnylhLWcIP444SEAu) | [Thin Ice](https://open.spotify.com/album/1GyxpsPPG5KOL9R2TgTLZP) | 2:22 |
 | 125 | [Gimme](https://open.spotify.com/track/2M220rNo8EQw2qp0HWtlPf) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Gimme](https://open.spotify.com/album/3pio7v2Ug2K4qt4lIRFnza) | 2:24 |
 
-Snapshot ID: `MCwxMWFhMWViNTc4NDA5NmQ2YzBmODBhNjc1YzdkY2Y5MjJhZjg0Zjcx`
+Snapshot ID: `MCwxOWM0Y2EwNzA3NDYxZDI1ZDk1ZjI2MjkwNDY2NGE1ZTMyZWY2Nzdh`

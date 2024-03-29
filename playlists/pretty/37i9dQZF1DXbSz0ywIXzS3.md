@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 
 > welcome to your comfort zone
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,239 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,264 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,16 +23,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 13 | [North of No South \- Edit](https://open.spotify.com/track/3WorLcUF718S4k5LetzDBU) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [North Of No South \(Edit\)](https://open.spotify.com/album/71u1QkBnNqfPdz6ZUKvztb) | 3:36 |
 | 14 | [So Long, And Thanks For All The Fish](https://open.spotify.com/track/6zJ4nhJpt2wcfkITAoG4EZ) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Eat The Elephant](https://open.spotify.com/album/7nnNLD5cv828YSFxXaezRm) | 4:26 |
 | 15 | [Medicine](https://open.spotify.com/track/3R4BxYnIdB6GwbCZjk88af) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Sunday / Medicine](https://open.spotify.com/album/2q3V5Ylh479x0bTRCJeHC1) | 4:16 |
-| 16 | [Poor Aileen](https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 4:27 |
-| 17 | [Stigmata](https://open.spotify.com/track/5UiuuUpGbdCXCyqezsncFf) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 3:35 |
-| 18 | [My House](https://open.spotify.com/track/2hNxkoMR4TZ3ft4uk9zJli) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [White Noise](https://open.spotify.com/album/2POgZTMa9HwsbqB3spYCQZ) | 4:02 |
-| 19 | [Unsung](https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:56 |
-| 20 | [Where Do We Go From Here](https://open.spotify.com/track/0iU9Qfn7hoJHbBleOaMOAt) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [The Amalgamut](https://open.spotify.com/album/6QUER78AA7htCPtwe38G5X) | 5:34 |
-| 21 | [Born To Love You](https://open.spotify.com/track/5VlraWDIVsK17hropoizIO) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU) | 3:27 |
-| 22 | [In On It](https://open.spotify.com/track/0ey0KwCzoUdjvPzbLX8qSa) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 3:23 |
-| 23 | [Punisher](https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM) | 3:14 |
-| 24 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 |
-| 25 | [The Rain](https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:58 |
+| 16 | [Stigmata](https://open.spotify.com/track/5UiuuUpGbdCXCyqezsncFf) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 3:35 |
+| 17 | [My House](https://open.spotify.com/track/2hNxkoMR4TZ3ft4uk9zJli) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [White Noise](https://open.spotify.com/album/2POgZTMa9HwsbqB3spYCQZ) | 4:02 |
+| 18 | [Unsung](https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:56 |
+| 19 | [Where Do We Go From Here](https://open.spotify.com/track/0iU9Qfn7hoJHbBleOaMOAt) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [The Amalgamut](https://open.spotify.com/album/6QUER78AA7htCPtwe38G5X) | 5:34 |
+| 20 | [Born To Love You](https://open.spotify.com/track/5VlraWDIVsK17hropoizIO) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU) | 3:27 |
+| 21 | [In On It](https://open.spotify.com/track/0ey0KwCzoUdjvPzbLX8qSa) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 3:23 |
+| 22 | [Punisher](https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM) | 3:14 |
+| 23 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 |
+| 24 | [The Rain](https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:58 |
+| 25 | [Taste The Sun](https://open.spotify.com/track/0pGmOeAeuQGsFcxP928ima) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [A New Breed](https://open.spotify.com/album/5wvYWow2IFdXSdXQty500e) | 4:03 |
 | 26 | [Black Mire](https://open.spotify.com/track/41TpGLxHszelYWCBZklrsJ) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 4:12 |
 | 27 | [Shout at the Moon](https://open.spotify.com/track/5A4homy3B0FUbnNKEdw3EM) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Asymmetry \(Deluxe\)](https://open.spotify.com/album/1b6IlVlHRzbkcAWIpXaW37) | 3:27 |
 | 28 | [Sing](https://open.spotify.com/track/0DCKnmdLKh8MueVPXQ07nk) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights](https://open.spotify.com/album/4LYAbf8kMPXzghMcS9SiYm) | 3:44 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 39 | [Freak Of Nature](https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Freak of Nature](https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6) | 3:22 |
 | 40 | [respawn.](https://open.spotify.com/track/6N54fTcYiQH3gSoFChO7NS) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [respawn.](https://open.spotify.com/album/6HKEsegEdDUp45zIn3OPAr) | 2:55 |
 | 41 | [Nothing Left](https://open.spotify.com/track/6n2vkJKAyH1kvZLDESReDu) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [Feel Nothing](https://open.spotify.com/album/10GVQj9XVD3u482VNnxasM) | 2:36 |
-| 42 | [Deserve](https://open.spotify.com/track/2aZJuXom22NshQ11rbSyez) | [Upsetter](https://open.spotify.com/artist/5gXIxLXqLsKBE6SRkCiDWC) | [DOOMGAZE](https://open.spotify.com/album/0nbvYjzmCVs7iD9pBNKFcP) | 2:46 |
-| 43 | [Five Kids Go](https://open.spotify.com/track/0k2MGR19WKUc5sLIiY73q3) | [Hell Is For Heroes](https://open.spotify.com/artist/1vrwXqSGdLsWtvIev4H0WH) | [Modern Rock Explosion](https://open.spotify.com/album/0pgKFkj5BFctI9iMkMRm7Q) | 3:44 |
-| 44 | [Separate](https://open.spotify.com/track/5FjpNnEY0NQMKPGGJRLQLm) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [The Need to Separate](https://open.spotify.com/album/0gA6P28dwwf52W8fXjZRtD) | 5:06 |
+| 42 | [Machine](https://open.spotify.com/track/4Bnn0NhRWsSKPPiHPJtYjm) | [Palomino Blond](https://open.spotify.com/artist/0oNZ5XN1TT4aWlxHhx8oWe) | [Machine](https://open.spotify.com/album/0euGdd3l4XqpUWeQapjooA) | 5:30 |
+| 43 | [Deserve](https://open.spotify.com/track/2aZJuXom22NshQ11rbSyez) | [Upsetter](https://open.spotify.com/artist/5gXIxLXqLsKBE6SRkCiDWC) | [DOOMGAZE](https://open.spotify.com/album/0nbvYjzmCVs7iD9pBNKFcP) | 2:46 |
+| 44 | [Five Kids Go](https://open.spotify.com/track/0k2MGR19WKUc5sLIiY73q3) | [Hell Is For Heroes](https://open.spotify.com/artist/1vrwXqSGdLsWtvIev4H0WH) | [Modern Rock Explosion](https://open.spotify.com/album/0pgKFkj5BFctI9iMkMRm7Q) | 3:44 |
 | 45 | [Manifest Destiny](https://open.spotify.com/track/77Uh2BwkuD0WZI3hFEY3x5) | [Just a Mess](https://open.spotify.com/artist/13YkxWSBCJM3cCzAWDpYNT) | [Reservations](https://open.spotify.com/album/5Wk35QcivlilFpbG7RBPrM) | 4:10 |
 | 46 | [Whatever](https://open.spotify.com/track/62tPqo88KKEt4vBf5HPBlY) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Pollen](https://open.spotify.com/album/74nbOeJlCrxhAkyPdjqrXj) | 3:06 |
 | 47 | [Good Days Again](https://open.spotify.com/track/5jnXjIfc9DFqzfaqq9uz2O) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Good Days Again](https://open.spotify.com/album/5DuSCuARht6T3a6X1TtaJB) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 49 | [Mirrors](https://open.spotify.com/track/6ZDd9TtKIdcJj52VE7Tjde) | [Manic Days](https://open.spotify.com/artist/4jKMpFEEMrKkXswFf3NaF2) | [Mirrors](https://open.spotify.com/album/60GVwbfwo2ULcSy4IhxqgV) | 4:25 |
 | 50 | [The Plan](https://open.spotify.com/track/6aXsqO4vskXScn6EuLAvCz) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [The Plan](https://open.spotify.com/album/5Yl97xpCRkjy25qhOtNq9V) | 3:26 |
 
-Snapshot ID: `MCxkNTYzZTA3OTk5MjVjN2VhZDdiOGM1MmMxYjg4NjYyM2ZlYjEzZmQ2`
+Snapshot ID: `MCxjY2Q0NDllNTU0ZTc1ZjdjYmE3YzA3Mjk2ZDgwMjBhOWZiMjlmOTk0`

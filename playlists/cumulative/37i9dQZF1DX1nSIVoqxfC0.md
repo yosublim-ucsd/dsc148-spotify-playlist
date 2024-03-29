@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-351 songs - 1 day 0 hr 0 min
+352 songs - 1 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Escape Me \(feat\. C.C\. Sheffield\)](https://open.spotify.com/track/3OrsObfQCy9kCdbZQLT4W0) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [C.C\. Sheffield](https://open.spotify.com/artist/3ePG42BqYBIZKBxzwVwe9L) | [Kaleidoscope](https://open.spotify.com/album/3L7HojVI3ELv05boMWUKDv) | 4:17 | 2022-07-28 |  |
 | [Everything](https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Elements of Life](https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is) | 7:00 | 2020-10-20\* | 2022-07-29 |
 | [Everything](https://open.spotify.com/track/2VDUicTMbyYiFm5HXSFzXK) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Elements Of Life](https://open.spotify.com/album/3HpyFfB42wlAuhGDiUpxfF) | 7:01 | 2022-07-28 | 2023-04-20 |
+| [Explode](https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Explode](https://open.spotify.com/album/6PlqsS0firvxsrefOvbUOc) | 2:39 | 2024-03-28 |  |
 | [Faces \- Original Mix](https://open.spotify.com/track/4c6Pf3KmBLorwRP5zse7JF) | [Alex Sayz](https://open.spotify.com/artist/4U2aUIMeUkv5qICar3IFIt) | [Club Life \- Volume One Las Vegas \(Continuous DJ Mix\)](https://open.spotify.com/album/1Ufqq0yg7gEyRQ70ofgKXe) | 5:15 | 2020-10-20\* | 2023-04-20 |
 | [Faster Than A Bullet](https://open.spotify.com/track/1hjUYX7iAzvE5ifp8eiq4F) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [CLUBLIFE, VOL\. 5 \- CHINA](https://open.spotify.com/album/3pazfA2ahcJHKHP2E2QjEB) | 3:26 | 2020-10-20\* | 2022-07-29 |
 | [Faster Than A Bullet](https://open.spotify.com/track/3z3kH4Sg3MhusVawon7xYm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [CLUBLIFE, VOL\. 5: CHINA](https://open.spotify.com/album/3yyMpOkLtbcbVJFzEESLN0) | 3:26 | 2022-07-28 | 2023-04-20 |

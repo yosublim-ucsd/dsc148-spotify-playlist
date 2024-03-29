@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: SPRINTS\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189,396 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,559 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
-| 2 | [TAKE TIME FOR MYSELF](https://open.spotify.com/track/483fOSKLspJj5Lk7X7EKt8) | [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [TAKE TIME FOR MYSELF](https://open.spotify.com/album/0LtjYHJSrg3vnmeEvCWlVV) | 2:28 |
-| 3 | [JAI'S SONG \(FALLING\)](https://open.spotify.com/track/1iHTOugH78NYT5RUNGG0wn) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL: SIDE A](https://open.spotify.com/album/7lDhFYEScJqHq9UUEoxoct) | 3:10 |
+| 1 | [TAKE TIME FOR MYSELF](https://open.spotify.com/track/483fOSKLspJj5Lk7X7EKt8) | [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [TAKE TIME FOR MYSELF](https://open.spotify.com/album/0LtjYHJSrg3vnmeEvCWlVV) | 2:28 |
+| 2 | [JAI'S SONG \(FALLING\)](https://open.spotify.com/track/1iHTOugH78NYT5RUNGG0wn) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL: SIDE A](https://open.spotify.com/album/7lDhFYEScJqHq9UUEoxoct) | 3:10 |
+| 3 | [Waste No Time](https://open.spotify.com/track/1BDvHdiBdRPw2QH8v0UuU5) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Lost In A New Era](https://open.spotify.com/album/5Dk9MMNDnVI0KuCGyJV5xM) | 3:57 |
 | 4 | [Bloom](https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Bloom](https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5) | 3:53 |
-| 5 | [Waste No Time](https://open.spotify.com/track/1BDvHdiBdRPw2QH8v0UuU5) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Lost In A New Era](https://open.spotify.com/album/5Dk9MMNDnVI0KuCGyJV5xM) | 3:57 |
+| 5 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
 | 6 | [Things Change](https://open.spotify.com/track/5UAzCfWYHNROeoFQxPcz2m) | [Venus](https://open.spotify.com/artist/5yOuL4JYYs6pbud112U3Lk) | [Things Change](https://open.spotify.com/album/5JNsECdOe4ecetnjYxyjLW) | 3:56 |
 | 7 | [Cycle](https://open.spotify.com/track/0Ztt74lg0tja20ejpi3dMX) | [Peel](https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ) | [Cycle](https://open.spotify.com/album/3ehiC7eZbvKT7fXwxmA7SC) | 3:33 |
-| 8 | [DNA](https://open.spotify.com/track/3O78zVX5FiJmQ9gsWfqrN2) | [Margaux](https://open.spotify.com/artist/2ycbMlovjNV5gks2r8Vtsp) | [DNA](https://open.spotify.com/album/0ZHJyxVXr3lbakBGtxcS8i) | 4:35 |
-| 9 | [Let's Talk](https://open.spotify.com/track/0yU9AgZHHg4aolSwz3eQYy) | [Hana Effron](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [Let's Talk](https://open.spotify.com/album/2nv51HjRu41tXOxsJXk3NO) | 3:53 |
-| 10 | [Nos Despedimos](https://open.spotify.com/track/5YaRt2MFIfmp6jdabC4JTx) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Nos Despedimos / Window Shopping](https://open.spotify.com/album/0JAhLeKnyJ5SeRGU3F261M) | 2:19 |
-| 11 | [Need To Talk \- Kordz Remix](https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc), [kordz](https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN) | [Need To Talk \(Kordz Remix\)](https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go) | 3:38 |
+| 8 | [Need To Talk \- Kordz Remix](https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc), [kordz](https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN) | [Need To Talk \(Kordz Remix\)](https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go) | 3:38 |
+| 9 | [Nos Despedimos](https://open.spotify.com/track/5YaRt2MFIfmp6jdabC4JTx) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Nos Despedimos / Window Shopping](https://open.spotify.com/album/0JAhLeKnyJ5SeRGU3F261M) | 2:19 |
+| 10 | [DNA](https://open.spotify.com/track/3O78zVX5FiJmQ9gsWfqrN2) | [Margaux](https://open.spotify.com/artist/2ycbMlovjNV5gks2r8Vtsp) | [DNA](https://open.spotify.com/album/0ZHJyxVXr3lbakBGtxcS8i) | 4:35 |
+| 11 | [Let's Talk](https://open.spotify.com/track/0yU9AgZHHg4aolSwz3eQYy) | [Hana Effron](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [Let's Talk](https://open.spotify.com/album/2nv51HjRu41tXOxsJXk3NO) | 3:53 |
 | 12 | [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 |
 | 13 | [DIME EL PLAN](https://open.spotify.com/track/6htjYgjKenlA6NtEbJag5q) | [Alexia Mariel](https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn) | [DIME EL PLAN](https://open.spotify.com/album/0HyXze7xeFBbhmEwzF3kDF) | 3:15 |
 | 14 | [Y SI SOMOS NOVIOS???](https://open.spotify.com/track/3IGNEoTp4uV1HtcvdfxrSL) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [Y SI SOMOS NOVIOS???](https://open.spotify.com/album/5qKUVvVIRgD3CBa2L0x0Go) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [December Song](https://open.spotify.com/track/2zmX9ZW7OXmB5wZ7xJPssM) | [Lightning Bug](https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4) | [December Song](https://open.spotify.com/album/7busnS3ClOoXxrNPwdeSg5) | 4:25 |
 | 100 | [See the Patterns](https://open.spotify.com/track/54rKzUySpkE6LOoFniDc4e) | [nikhil](https://open.spotify.com/artist/21Nhs4mlXS9iS4wR1VV6Sp) | [See the Patterns](https://open.spotify.com/album/6OiXMsYRQaD0fCNwVEx6Xa) | 2:38 |
 
-Snapshot ID: `MCwwYzU0MDUwMDgzZDA5ZDMzZDU5NjNkNjU1ZDQxNDRjZThhYTE2NTIw`
+Snapshot ID: `MCw2MzQxMmEwMzQ4MWQxNTQ1ODBkYmI1MGVlYWJlNDRkMmFmZTg2Mjlh`

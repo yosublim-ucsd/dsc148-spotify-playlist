@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Barth
+> Les hits zouk du moment\. Photo :  LÉA CHURROS
 
-103 songs - 5 hr 30 min
+105 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Coeur Noir](https://open.spotify.com/track/2POhFt7cVOzqLYNuLOfQH0) | [T\-Stone](https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs), [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [Coeur Noir](https://open.spotify.com/album/334Q8mA07Ahjjj9nrj2TPF) | 3:39 | 2023-09-28 | 2023-10-06 |
 | [COMPLIQUÉ](https://open.spotify.com/track/2GWCVjGJ30y2hXIKIXhsxT) | [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv), [VARAINE BEN](https://open.spotify.com/artist/33VRGx12FIZw3TPLU93feY) | [COMPLIQUÉ](https://open.spotify.com/album/2ev4tDFNjbJyAetjBBzuii) | 3:28 | 2023-09-28 | 2024-03-01 |
 | [CORDIALEMENT](https://open.spotify.com/track/4tXLj5UVpzdva0qTANUrER) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L), [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [CORDIALEMENT](https://open.spotify.com/album/1C178QIX4FbI7gQfzSnotD) | 3:29 | 2023-09-28 |  |
+| [Coup de Vent](https://open.spotify.com/track/7EjDwEYLXG7p4LskwoWdjJ) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9), [Young Chang MC](https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1) | [Siwo](https://open.spotify.com/album/0xpfEtfYK8t7p4fAkMqxsb) | 2:49 | 2024-03-28 |  |
 | [Dangereuse](https://open.spotify.com/track/6ECdldILAeIdILsuvX6C8D) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Dangereuse](https://open.spotify.com/album/74gssChBg7pHuz31u2LayX) | 2:58 | 2024-02-29 |  |
 | [Dimension \- Radio edit](https://open.spotify.com/track/7FR3FUSLOLHtN8RjFs6kQY) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Dimension](https://open.spotify.com/album/67C9O2mvhwm5IzinjXT3ns) | 3:38 | 2023-09-28 | 2023-12-08 |
 | [Dis\-moi](https://open.spotify.com/track/4NxvcmdBmR04g4nsfrhMsO) | [Kueena](https://open.spotify.com/artist/2N8ozOg61bquXNTapBfdm7), [Nayane](https://open.spotify.com/artist/2fphOBIhmkJp2O5Gqxlj4t) | [Dis\-moi](https://open.spotify.com/album/77QQGSVPna5U1nwnARigxr) | 3:28 | 2024-01-25 |  |
@@ -29,7 +30,7 @@
 | [Doucement](https://open.spotify.com/track/2488TlZqyBhCGguo7Vuufm) | [Kailyn](https://open.spotify.com/artist/4xErERAoqrxnCgLiSz4uV4), [Rohane](https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4) | [Doucement](https://open.spotify.com/album/4COlUkMnr9hAg2AoveGDId) | 4:01 | 2024-01-25 |  |
 | [Doudou](https://open.spotify.com/track/4jxoCg2Jl4GLqafbR57DOe) | [Manise](https://open.spotify.com/artist/7lmDLnNHkUvxWJCpqDtdf9) | [Doudou](https://open.spotify.com/album/2ZoUm0yBjaLMlmBCD3VDGc) | 2:42 | 2023-10-05 | 2023-12-22 |
 | [Doudou](https://open.spotify.com/track/07MUZzeKyEIw5iTRJYK4YQ) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [Blicassty](https://open.spotify.com/artist/1MbUL0JryiwgLoPNX8esk6) | [Doudou](https://open.spotify.com/album/4ptvCJd4nK0GDF7EPB7XC3) | 3:30 | 2023-09-28 | 2024-01-26 |
-| [DOUX](https://open.spotify.com/track/2kxYhc00snAqzYVhQMOmFn) | [LOANA](https://open.spotify.com/artist/7v79OklJLpETja35YteNgT) | [DOUX](https://open.spotify.com/album/27haWl4XrngKEoMiDP8yAY) | 3:31 | 2024-02-08 |  |
+| [DOUX](https://open.spotify.com/track/2kxYhc00snAqzYVhQMOmFn) | [LOANA](https://open.spotify.com/artist/7v79OklJLpETja35YteNgT) | [DOUX](https://open.spotify.com/album/27haWl4XrngKEoMiDP8yAY) | 3:31 | 2024-02-08 | 2024-03-29 |
 | [En sang](https://open.spotify.com/track/0uUF8ZLICJbqW0WrnGpbqj) | [ADJA](https://open.spotify.com/artist/4f8FFKe4ZyOO8tNMxz3Ijp) | [En sang](https://open.spotify.com/album/5PB3y3i9V2mkvHU3P3jTbP) | 3:07 | 2023-10-26 | 2023-12-01 |
 | [Encore](https://open.spotify.com/track/6VZtYtLfOUO9wh28TgY1Zz) | [lucas seb](https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM), [Dro](https://open.spotify.com/artist/00YhAYuIQwWPYsEO8VSQDm) | [Encore](https://open.spotify.com/album/5GdFNApbLpunZ2FsdkpUO7) | 3:49 | 2024-02-29 |  |
 | [Faut doser](https://open.spotify.com/track/0x2VefZ4j8ruCDXjJQxZMm) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk), [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv) | [Faut doser](https://open.spotify.com/album/5XgOnjM0YeiEBXRPsrXkP6) | 3:56 | 2023-10-26 | 2024-02-16 |
@@ -57,7 +58,7 @@
 | [Ma dose](https://open.spotify.com/track/6uZezXA1pDL4NcwxLdrnGD) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Ma dose](https://open.spotify.com/album/2LFPrhcBAXLKzl99gVgj7z) | 2:55 | 2024-02-08 |  |
 | [Ma Vie](https://open.spotify.com/track/0NaxyxpoxUugFeGx4B2YW3) | [Axel Tony](https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh), [Princess' Lover](https://open.spotify.com/artist/2MR0CohJ0bX97VcvgcIhsl) | [En Boucle \(Deluxe\)](https://open.spotify.com/album/2zNXO3bjMY3VJI1ASnhqNs) | 3:06 | 2023-09-28 | 2023-12-22 |
 | [Madame](https://open.spotify.com/track/6RcTLTiuhMr7ufrehTkT47) | [Maiko](https://open.spotify.com/artist/2Q9GRYHW7SsDdDrZghr3Sd) | [Madame](https://open.spotify.com/album/1kzwySJHeTPXZ5Ryqj6fcE) | 3:12 | 2023-11-23 |  |
-| [Manipulé](https://open.spotify.com/track/6KvXJAHMZipMjJBjNKWMjB) | [Dj M'sy](https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c), [Dyrone](https://open.spotify.com/artist/5trdUVj6RsRdpcyCHaIiJa) | [Manipulé](https://open.spotify.com/album/6cDP1xGVhDtpdGn8nbuy64) | 2:57 | 2024-02-01 |  |
+| [Manipulé](https://open.spotify.com/track/6KvXJAHMZipMjJBjNKWMjB) | [Dj M'sy](https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c), [Dyrone](https://open.spotify.com/artist/5trdUVj6RsRdpcyCHaIiJa) | [Manipulé](https://open.spotify.com/album/6cDP1xGVhDtpdGn8nbuy64) | 2:57 | 2024-02-01 | 2024-03-29 |
 | [MAYDAY](https://open.spotify.com/track/4JaiYhTtUQN4TkwafnrEjn) | [Vayb](https://open.spotify.com/artist/1hYA6XyhYOEKo90klGeh4H), [Jude Deslouches](https://open.spotify.com/artist/1cJ3F8DO47enupBg2kOatt) | [MAYDAY](https://open.spotify.com/album/0IgWJsKDLI0mffAHWRUhI6) | 5:06 | 2023-09-28 | 2024-02-09 |
 | [Mon Ame](https://open.spotify.com/track/1pBlTfWf1jNFlSXxhu7a7p) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [Mon Ame](https://open.spotify.com/album/5D04obr5kvJyT6OfekEVVz) | 2:50 | 2023-12-21 | 2024-01-26 |
 | [MON PÉCHÉ](https://open.spotify.com/track/3EMCirXKIv5oztM29ZqqDe) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN), [RM'N PROD](https://open.spotify.com/artist/43r0w2IY7M8mujZbclCzKM) | [MON PÉCHÉ](https://open.spotify.com/album/3NcbXib1tE0AgbzdeIqWhf) | 3:28 | 2023-09-28 | 2024-02-09 |
@@ -85,6 +86,7 @@
 | [Résignée](https://open.spotify.com/track/6dilPsFJWBb7UiyLVOYY7n) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [Résignée](https://open.spotify.com/album/1AW1TKdEei7KQRYmjsLcNs) | 3:15 | 2023-09-28 | 2023-12-08 |
 | [Serre\-moi fort](https://open.spotify.com/track/1TfH1H8BmFn81hwWmPtRef) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Serre\-moi fort](https://open.spotify.com/album/5su35ho6QuT12QzASVupHO) | 3:36 | 2024-01-25 |  |
 | [SERRER CONTRE MOI](https://open.spotify.com/track/11KzpAtpu1YW79xeU4kSJ1) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [SERRER CONTRE MOI](https://open.spotify.com/album/7rr5vAOEmBosZyFFR3B4hw) | 3:08 | 2023-09-28 |  |
+| [Si Seulement \- Radio Edit](https://open.spotify.com/track/5LDhw86tEleNLulijDdLRh) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52) | [Si Seulement \(Radio Edit\)](https://open.spotify.com/album/6Vpyyc4Q21LLX8ZVJ9ANYa) | 2:14 | 2024-03-28 |  |
 | [Sonje Mwen](https://open.spotify.com/track/4moodqGELYeoH8KJuJAMJy) | [Dasha](https://open.spotify.com/artist/4Sax4M4m7npP5miYc4T8vd), [Tayoo](https://open.spotify.com/artist/5cuJlJjmnzoiLcqYJ9Z0gn), [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT) | [Sonje Mwen](https://open.spotify.com/album/5oKlINDbr58NjRWqtVONzC) | 3:34 | 2023-09-28 | 2023-10-20 |
 | [Sonner](https://open.spotify.com/track/0OoMMMYlXD9kQIAeB8h7Ti) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF), [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Sonner](https://open.spotify.com/album/0MPp8KxL9KpCYuXSFxF1s2) | 2:55 | 2023-09-28 |  |
 | [Sorry](https://open.spotify.com/track/0rzy01OJW2dioLxXZKAyjY) | [DJ Eladji](https://open.spotify.com/artist/0n417By3ZUnFwtll0nx0kV), [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK) | [Sorry](https://open.spotify.com/album/4kzvsd7djGQxiyqv8uK3MG) | 3:12 | 2024-02-08 |  |

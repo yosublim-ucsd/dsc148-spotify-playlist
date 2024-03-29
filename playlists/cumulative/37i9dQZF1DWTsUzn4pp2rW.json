@@ -458,7 +458,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 195601,
       "name": "And Time Froze",
       "url": "https://open.spotify.com/track/5iHOWdd8kt00RUGRp56Den"
@@ -834,7 +834,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 189688,
       "name": "Best Time Of The Year",
       "url": "https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW"
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 209600,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/6lLbk4fLDbI5WYf4dLLKQt"
@@ -1920,7 +1920,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 215352,
       "name": "Heaven's King",
       "url": "https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX"
@@ -2647,6 +2647,28 @@
     },
     {
       "album": {
+        "name": "In My Craft or Sullen Art",
+        "url": "https://open.spotify.com/album/4OvXZKvxKuG586cvembeGH"
+      },
+      "artists": [
+        {
+          "name": "Josefine Lindstrand",
+          "url": "https://open.spotify.com/artist/6qDDOhdKv4LfJT8kUctI9g"
+        },
+        {
+          "name": "Marius Neset",
+          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277506,
+      "name": "In My Craft or Sullen Art",
+      "url": "https://open.spotify.com/track/5ThjhKc0mU6KW16uL0eYqD"
+    },
+    {
+      "album": {
         "name": "The Best of George White Group",
         "url": "https://open.spotify.com/album/2Gyht2Z72A6pCwP8vQaw4P"
       },
@@ -2680,7 +2702,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 389983,
       "name": "Infant Eyes - Edit",
       "url": "https://open.spotify.com/track/0Vp28wPW0x7uV2nIgvzrQ1"
@@ -2724,6 +2746,24 @@
       "duration_ms": 293453,
       "name": "Inner City Blues",
       "url": "https://open.spotify.com/track/5lpoNwYR4ZIUEHiWSWdzmJ"
+    },
+    {
+      "album": {
+        "name": "Meaning to Tell Ya",
+        "url": "https://open.spotify.com/album/6NwhjITXuMudk25inP4Dt9"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293457,
+      "name": "Inner City Blues",
+      "url": "https://open.spotify.com/track/0SUhtgukXUdxVHGviYdiXc"
     },
     {
       "album": {
@@ -4436,7 +4476,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 208013,
       "name": "Softer Than You Know",
       "url": "https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS"
@@ -4662,6 +4702,24 @@
       "duration_ms": 153573,
       "name": "Spaceman",
       "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
+    },
+    {
+      "album": {
+        "name": "Star of Spring",
+        "url": "https://open.spotify.com/album/2zFinT2UymplfUHZ3cF5k2"
+      },
+      "artists": [
+        {
+          "name": "Anna Gr\u00e9ta",
+          "url": "https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185335,
+      "name": "Star of Spring",
+      "url": "https://open.spotify.com/track/5FKn5RZKdftQLJW5n5PUR0"
     },
     {
       "album": {
@@ -5570,6 +5628,24 @@
       "duration_ms": 247800,
       "name": "Wherever You're Going",
       "url": "https://open.spotify.com/track/2U2CqVG9M78eJM9kLDz1oO"
+    },
+    {
+      "album": {
+        "name": "Aspects",
+        "url": "https://open.spotify.com/album/0JDjSDgxKY0HkKKpY11H1Q"
+      },
+      "artists": [
+        {
+          "name": "\u00d8yunn",
+          "url": "https://open.spotify.com/artist/0h2Fx0No5huvQ7liqFOobL"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252049,
+      "name": "Why Am I Doubting",
+      "url": "https://open.spotify.com/track/1QJS8rCr4SvVunqh9fGTQw"
     },
     {
       "album": {

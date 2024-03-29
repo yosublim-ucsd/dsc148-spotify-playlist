@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 18600,
+  "2024-03-29": 18602,
   "date_first_scraped": "2024-02-12",
   "description": "what i&#x27;m listening to: march-april 2024 (previous playlists archived on my profile)",
   "name": "innocence and panic",
@@ -381,6 +381,24 @@
       "duration_ms": 191000,
       "name": "Cozy",
       "url": "https://open.spotify.com/track/6WTEo1YkpHsOIg0CH638Z0"
+    },
+    {
+      "album": {
+        "name": "Tech Duinn",
+        "url": "https://open.spotify.com/album/71Y6SuqeTUnuDa3V0v25cv"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "De Novo",
+      "url": "https://open.spotify.com/track/0DmLfTFkLqIqiRqEMyxMXU"
     },
     {
       "album": {

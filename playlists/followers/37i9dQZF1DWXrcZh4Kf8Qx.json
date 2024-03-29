@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 258837,
+  "2024-03-29": 258960,
   "date_first_scraped": "2022-04-19",
   "description": "All 70s, all ballads. Cover: Barbra Streisand",
   "name": "70s Ballads",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 143333,
       "name": "All I Have to Do Is Dream",
       "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 233506,
       "name": "Honesty",
       "url": "https://open.spotify.com/track/34E0Higz6fFVXlbVsn6TIW"

@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 55,
+  "2024-03-29": 55,
   "date_first_scraped": "2024-01-03",
   "description": "This is Qlank. The essential tracks, all in one playlist.",
   "name": "This Is Qlank",
@@ -251,7 +251,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 170880,
       "name": "Cell Phone",
       "url": "https://open.spotify.com/track/4vrxiotFxYfjEB11oRAfqN"
@@ -1115,6 +1115,28 @@
       "duration_ms": 229333,
       "name": "Questions",
       "url": "https://open.spotify.com/track/0u4YBL97IRfISyZfhto6is"
+    },
+    {
+      "album": {
+        "name": "Rotate",
+        "url": "https://open.spotify.com/album/539q4mYHRuSFHlak3Cz9Tz"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        },
+        {
+          "name": "CYMN",
+          "url": "https://open.spotify.com/artist/1WJ5N2Ld3BdB4y0bEvCuRO"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238110,
+      "name": "Rotate",
+      "url": "https://open.spotify.com/track/1xpBxE9fYN4J9GEpuJsvwH"
     },
     {
       "album": {

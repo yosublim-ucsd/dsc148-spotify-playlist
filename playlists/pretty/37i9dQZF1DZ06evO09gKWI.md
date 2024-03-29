@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 | 39 | [Dose Dupla](https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d) | [Fanieh](https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Dose Dupla](https://open.spotify.com/album/1Y8ohMLIYUy5Vr0SlxFX5N) | 3:14 |
 | 40 | [Anjo](https://open.spotify.com/track/0ANO7mhTiJZE77U7J7pXqB) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 1:59 |
 
-Snapshot ID: `Mjg1MjU3NDAsMDAwMDAwMDA1ZmJhZDczNjc5OGE4NmU3MDczYmI3OTY0M2Y4YjZkNA==`
+Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDBjOTA2ZjgwNDVjMjlhZDA4MTMxMzBjNDAzZWMyYjFlMw==`

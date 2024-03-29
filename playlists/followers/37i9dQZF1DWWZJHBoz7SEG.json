@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 833053,
+  "2024-03-29": 833392,
   "date_first_scraped": "2022-02-09",
   "description": "El calor est\u00e1 con todo, pero estas nuevas rolitas te van a subir a\u00fan m\u00e1s la temperatura \ud83e\udd75\ud83d\udd25 Xavi en portada.",
   "name": "Novedades Viernes MX",
@@ -54977,10 +54977,32 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 152600,
       "name": "Loquera",
       "url": "https://open.spotify.com/track/3XcS1eK277s6aSn3P3cGku"
+    },
+    {
+      "album": {
+        "name": "KEVIN P\u00d3RTATE BIEN",
+        "url": "https://open.spotify.com/album/78MQL4LdKOTHCyCoElZQhN"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152600,
+      "name": "Loquera",
+      "url": "https://open.spotify.com/track/5OlspCona9qgcuBuMI7rOD"
     },
     {
       "album": {

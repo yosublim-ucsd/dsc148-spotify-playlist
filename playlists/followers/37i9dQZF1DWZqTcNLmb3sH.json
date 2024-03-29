@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 57407,
+  "2024-03-29": 57416,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
   "name": "Latest Kannada",
@@ -625,7 +625,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 202335,
       "name": "Aaram Aravinda Swamy (From \"Aaram Aravinda Swamy\")",
       "url": "https://open.spotify.com/track/0nlZkaJG7P5Y9NFxG7u5Vh"
@@ -865,6 +865,28 @@
       "duration_ms": 283865,
       "name": "Ailoo Pailoo",
       "url": "https://open.spotify.com/track/3znNSNFvuv8lUnuPxdQ8Ty"
+    },
+    {
+      "album": {
+        "name": "Hot Spot",
+        "url": "https://open.spotify.com/album/13g71MTaVV6LAOP3TMBiOf"
+      },
+      "artists": [
+        {
+          "name": "VAAN",
+          "url": "https://open.spotify.com/artist/3HOz7dG29IuEzLJIRR6vVj"
+        },
+        {
+          "name": "Kaber Vasuki",
+          "url": "https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147157,
+      "name": "Aiyayayo",
+      "url": "https://open.spotify.com/track/7E9ZvVVnADvXk3dte3dLuY"
     },
     {
       "album": {
@@ -2675,7 +2697,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 183337,
       "name": "Back Bencherz Promotional Song (from \"Back Bencherz\" )",
       "url": "https://open.spotify.com/track/7FqHCguKhIjeGs59nfebrC"
@@ -5629,7 +5651,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 61375,
       "name": "Dhairyam Sarvatra Sadhanam \"Theme Music\" - From \"Dhairyam Sarvatra Sadhanam\"",
       "url": "https://open.spotify.com/track/3ip6B4XdPufrwgHx76NVj2"
@@ -8599,7 +8621,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 242360,
       "name": "Gunu Gunugu (from \"Ondu Sarala Prema Kathe\")",
       "url": "https://open.spotify.com/track/3j6jE75zIdCeQWTWENvwgd"
@@ -8647,7 +8669,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 231965,
       "name": "Haadada Haadu (From \"Mehbooba\")",
       "url": "https://open.spotify.com/track/7rig2O6TcRfWrlDzrLeymN"
@@ -9783,6 +9805,50 @@
       "duration_ms": 248299,
       "name": "Hogatlaga (From \"Ranga Samudra\")",
       "url": "https://open.spotify.com/track/3waY6CRqXEoulHkwXopgLM"
+    },
+    {
+      "album": {
+        "name": "The Holi Haadu (From \"Back Bencherz\")",
+        "url": "https://open.spotify.com/album/3cNwX3Vit7Sf0mRyqyMdEI"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197275,
+      "name": "Holi Haadu (From \"Back Bencherz\")",
+      "url": "https://open.spotify.com/track/12t33lO0TdN4xUGeAewnQK"
+    },
+    {
+      "album": {
+        "name": "Holi Hunnime Habbakka (From \"Desai\")",
+        "url": "https://open.spotify.com/album/0x76hVNPjKHtNObtTh00DX"
+      },
+      "artists": [
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        },
+        {
+          "name": "Sai Karthic",
+          "url": "https://open.spotify.com/artist/3qOZhVWn12jqbtW4MYQrc0"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261523,
+      "name": "Holi Hunnime Habbakka (From \"Desai\")",
+      "url": "https://open.spotify.com/track/4xQwjWwyzEi265mEXBoo4L"
     },
     {
       "album": {
@@ -13231,7 +13297,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 223823,
       "name": "Kreyologix Engineers (From \"Switch { case n:\")",
       "url": "https://open.spotify.com/track/63Tr4IY7GMKUieflLjsWCM"
@@ -14602,6 +14668,32 @@
     },
     {
       "album": {
+        "name": "Manada Kitaki (From \"Lineman\") (Kannada)",
+        "url": "https://open.spotify.com/album/5kfzOQ9chuTppeplKmXRUW"
+      },
+      "artists": [
+        {
+          "name": "Kadri Manikanth",
+          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "V Raghu Shastry",
+          "url": "https://open.spotify.com/artist/4HIXKu2NIlPwjhDVj9l4LA"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198968,
+      "name": "Manada Kitaki (From \"Lineman\") (Kannada)",
+      "url": "https://open.spotify.com/track/5lRCjJMhS9C1GwJNNOGsBe"
+    },
+    {
+      "album": {
         "name": "Manada Mele Banna Eseda Maaye Nee (from \"Marichi\")",
         "url": "https://open.spotify.com/album/2eQyNlIdKnZu6HmZ7uE8RJ"
       },
@@ -15101,6 +15193,36 @@
       "duration_ms": 92250,
       "name": "Master the Blaster (From \"Master\")",
       "url": "https://open.spotify.com/track/2cVJDlu9jmkPUeuJxA6v8i"
+    },
+    {
+      "album": {
+        "name": "Mathigu Mathigu (From \"Bad\") - Single",
+        "url": "https://open.spotify.com/album/686ap6JfzmQyXcbvB0Nmkq"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Kaviraj",
+          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
+        },
+        {
+          "name": "Prithwi Bhat",
+          "url": "https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21"
+        },
+        {
+          "name": "Sunil Gujagonda",
+          "url": "https://open.spotify.com/artist/18x9LlrhDJHREB5uTuLPux"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160111,
+      "name": "Mathigu Mathigu (From \"Bad\")",
+      "url": "https://open.spotify.com/track/4VR3spsw6DLLVzSEi2MBaC"
     },
     {
       "album": {
@@ -16817,7 +16939,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 172020,
       "name": "Nanage Yenaagide Indu ( From \"Gangster Alla Prankster\" )",
       "url": "https://open.spotify.com/track/09FHQjJvTHGz0xwN3dLuBW"
@@ -18222,6 +18344,28 @@
     },
     {
       "album": {
+        "name": "Ninagage Midiyuvudu (From \"Matinee\")",
+        "url": "https://open.spotify.com/album/2Nqu6usQ92Cv47mhi2bKi3"
+      },
+      "artists": [
+        {
+          "name": "Sadhvini Koppa",
+          "url": "https://open.spotify.com/artist/4cb4Bt5aFGyYKNheEdqber"
+        },
+        {
+          "name": "Poornachandra Tejaswi S.V.",
+          "url": "https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237383,
+      "name": "Ninagage Midiyuvudu (From \"Matinee\")",
+      "url": "https://open.spotify.com/track/5Ph3v520HAYcGUXf9RdqIE"
+    },
+    {
+      "album": {
         "name": "Ninage Sigalu Eedina (From \"Pranayam\")",
         "url": "https://open.spotify.com/album/0AqZBeTmunjZ805n9kBSX9"
       },
@@ -18775,7 +18919,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 113386,
       "name": "Nooraru (Soul Version)",
       "url": "https://open.spotify.com/track/58ORbd6adFpA1nhnCLiD4M"
@@ -24459,7 +24603,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 271291,
       "name": "Thumbane Kelalaare (from\"Mafia\")",
       "url": "https://open.spotify.com/track/1hLgsE5vtSB4WGa6G254md"
@@ -24915,7 +25059,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 206120,
       "name": "Ujjadbitlu (From \"Bisi-Bisi Ice-Cream\")",
       "url": "https://open.spotify.com/track/3VhYtrijtNJH1J0YHLe4JC"

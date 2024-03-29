@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 53425,
+  "2024-03-29": 53506,
   "date_first_scraped": "2022-09-15",
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
   "name": "This Is Montell Fish",
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 128000,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/3A1XomhhNVD16MmJ24nK1Q"
@@ -1437,6 +1437,28 @@
       "duration_ms": 103384,
       "name": "Slipping Away",
       "url": "https://open.spotify.com/track/66pCTcRfozirdS9mQvMwv2"
+    },
+    {
+      "album": {
+        "name": "Summer/Spring Lofi Compilation",
+        "url": "https://open.spotify.com/album/2zT0rgijDSLbiuQkD0iFvT"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223973,
+      "name": "space helmets",
+      "url": "https://open.spotify.com/track/5EWBmXdxdWljoh8SAdxLy4"
     },
     {
       "album": {

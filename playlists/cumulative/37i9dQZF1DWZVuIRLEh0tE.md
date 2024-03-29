@@ -4,7 +4,7 @@
 
 > Porque no to' e' Dembow en RD loco\. Portada: Yomel El Meloso
 
-314 songs - 15 hr 19 min
+315 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [DOGGY DOGGY](https://open.spotify.com/track/5CY9UF2QwwqSLZXruLrKif) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [EL REY DEL DEMBOW](https://open.spotify.com/album/6JPOiUKS6Ei5Aq43PBQ1El) | 4:08 | 2023-07-18 | 2024-01-06 |
 | [Doggy Doggy](https://open.spotify.com/track/5WOzZJJJIEuh0thdCS0LkF) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Doggy Doggy](https://open.spotify.com/album/4meeL0ZVvnYmaEjA8iz7HX) | 4:08 | 2023-03-17 | 2023-06-29 |
 | [Doggy Doggy](https://open.spotify.com/track/5kDydFz5HSjsjAZFbj31Sp) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Doggy Doggy](https://open.spotify.com/album/39sExcZ7IdTppqyviPg2s8) | 4:08 | 2023-07-18 | 2024-01-12 |
-| [Dáñalo](https://open.spotify.com/track/1TB3c1a7LlmWBcNC8Qdmck) | [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Dáñalo](https://open.spotify.com/album/09ufU7M4BHMoLfsY0zzPjB) | 3:08 | 2023-09-29 |  |
+| [Dáñalo](https://open.spotify.com/track/1TB3c1a7LlmWBcNC8Qdmck) | [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Dáñalo](https://open.spotify.com/album/09ufU7M4BHMoLfsY0zzPjB) | 3:08 | 2023-09-29 | 2024-03-29 |
+| [Dáñalo Rap](https://open.spotify.com/track/6ZnkClcM1zfA1NhnCVkeW5) | [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Dáñalo Rap](https://open.spotify.com/album/1Z9x8S66QQTJz5MgTNwjAf) | 3:08 | 2023-09-29 |  |
 | [E'ta Niña](https://open.spotify.com/track/2QwxBdBlYO9fIc7ggzu3r4) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [MelyMel](https://open.spotify.com/artist/4tM8sp8yDce3Km1pYHQb6Y) | [E'ta Niña](https://open.spotify.com/album/3YbxIXdJvyyi031W3nF8EF) | 2:24 | 2022-03-15 | 2022-04-15 |
 | [El Anillo el Reloj](https://open.spotify.com/track/07oEiX9E5kBARkQuPlhj4m) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [El Anillo el Reloj](https://open.spotify.com/album/2DPU1QXFXARqUAPWtdSrIy) | 2:52 | 2023-02-17 | 2023-05-18 |
 | [El Anillo el Reloj](https://open.spotify.com/track/5Nj2GgTU78oXnqoZXQooDw) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [El Anillo el Reloj](https://open.spotify.com/album/4oQk366EGQWn2nmkBrFt8X) | 2:52 | 2023-03-17 | 2023-09-30 |

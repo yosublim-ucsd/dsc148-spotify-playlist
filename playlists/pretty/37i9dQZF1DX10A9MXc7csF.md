@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Manuel Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,768 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,824 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 74 | [Cayó La Noche](https://open.spotify.com/track/0hzrI3RR06WIldw5TZFa2O) | [Alonso Ortiz](https://open.spotify.com/artist/7cxq5jTv6N3KjPehEhnlXG) | [Cayó La Noche](https://open.spotify.com/album/2RZLuIiQROoiw4IHCfyhXl) | 2:46 |
 | 75 | [Pa' No Sentir](https://open.spotify.com/track/7dF25WcmGa1W6hCsCf9BJx) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Pa' No Sentir](https://open.spotify.com/album/0rgzvqKl0UHlmc5Rx3r68D) | 3:22 |
 
-Snapshot ID: `MCw1ZDM5NDZlNzcxNjNiOTA1OTI4MjE4OTUwZDAzZDU2MjM4NWNiZjcz`
+Snapshot ID: `MCxjNGVlNGRhOWFhYzU4MjE2OTNhMDJlNGM1NGJhMjljNDlhYWYwMGQw`

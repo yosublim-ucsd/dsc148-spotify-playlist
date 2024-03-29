@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: Yomel El Meloso
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,015 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,100 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 68 | [Microphone Check \- All Star](https://open.spotify.com/track/709TwQltBD5C7wA5grutpN) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [EL YALA](https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [Maky RD](https://open.spotify.com/artist/3MULKixXskQCyOaAFwaO95), [Breyco En Producidera](https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp) | [Microphone Check \(All Star\)](https://open.spotify.com/album/6XeW9Yb0uOZyPHRaWnm5zS) | 4:17 |
 | 69 | [Baddu](https://open.spotify.com/track/1R5eXm20wsrLP9jDtPipy8) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [La Demente](https://open.spotify.com/artist/7C56RAv2RXvLeRc8r9Yz7o) | [Baddu](https://open.spotify.com/album/6jU2huoNSRXf4CmU61iXzd) | 2:47 |
 | 70 | [Daraum](https://open.spotify.com/track/3KHbTvOU9u0HYcYYClGJWj) | [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC), [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug) | [Daraum](https://open.spotify.com/album/5LMaxp9oJ3hFXhibn0XQ6i) | 2:17 |
-| 71 | [Dáñalo](https://open.spotify.com/track/1TB3c1a7LlmWBcNC8Qdmck) | [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Dáñalo](https://open.spotify.com/album/09ufU7M4BHMoLfsY0zzPjB) | 3:08 |
+| 71 | [Dáñalo Rap](https://open.spotify.com/track/6ZnkClcM1zfA1NhnCVkeW5) | [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Dáñalo Rap](https://open.spotify.com/album/1Z9x8S66QQTJz5MgTNwjAf) | 3:08 |
 | 72 | [NA CONMIGO?](https://open.spotify.com/track/6n1ZXoxoYUWCV649hii6Hu) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [NA CONMIGO?](https://open.spotify.com/album/3v8GkvjImN2Kw7rfEp2keg) | 2:39 |
 | 73 | [Te Estudiamos](https://open.spotify.com/track/02qjedAfRU0kjEfoCUDg6h) | [Dylan](https://open.spotify.com/artist/6MNDsKmYfRubMvFbKaIZiL), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Te Estudiamos](https://open.spotify.com/album/7yY5UUXII2ghOBsoaptppF) | 2:44 |
 | 74 | [EL REY](https://open.spotify.com/track/1ENSnQofaPvagAqI8yCrI9) | [La Manta](https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV) | [EL REY](https://open.spotify.com/album/7pYauh6QDeM7ntQe3CtCir) | 2:38 |
 | 75 | [EL REGRESO](https://open.spotify.com/track/284ZJpHBxr8FVxPG9pZ1Is) | [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [LAPIZ HISTORIAS, Vol\. 2](https://open.spotify.com/album/7yIJjWqAwObs7a7aNYe5ng) | 7:13 |
 
-Snapshot ID: `MCxiMzZjMTllZWNhM2RkMzFiMTM3MGViZjZhM2YwNWYxZGY2Nzc1NmZi`
+Snapshot ID: `MCw2YTY4NGE0M2NkY2NmNjFjNGI3NmM0ZGRkNGEyYTk4ZjUxMjA0ZjI1`

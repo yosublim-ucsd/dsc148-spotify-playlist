@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB?si=T\-z6iThfTF2C\-0r8mzFEcw">Zoë Modiga</a>
+> Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby?si=7gMdc4znRe\-FsvrV9ncWSg">The Joy</a>
 
-539 songs - 1 day 14 hr 41 min
+540 songs - 1 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,6 +537,7 @@
 | [Ya Costa](https://open.spotify.com/track/4JYITrghft32zlpjuYhYDA) | [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Lizwi Wokuqala](https://open.spotify.com/artist/6IYozrt74PPhQ409pE583w) | [Ya Costa](https://open.spotify.com/album/3P11k6EZ5pZA8zpRABT5h5) | 4:00 | 2023-04-14 | 2023-06-30 |
 | [Yelele](https://open.spotify.com/track/2FRbe1TC626TxkVeufmNsa) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Yelele](https://open.spotify.com/album/2R6tuyZ91QkYAJJuvfyEWA) | 3:42 | 2021-06-24 | 2022-07-01 |
 | [Yitshoni](https://open.spotify.com/track/7C1c8Epr55mrNcj4y89y8i) | [Zimbini](https://open.spotify.com/artist/3M4itkRJx8TOJCvyw63tiD) | [Ndiyehlela](https://open.spotify.com/album/74auQhsM98zKG619UaEFav) | 1:32 | 2024-01-11 |  |
+| [You Complete Me](https://open.spotify.com/track/18nTfySfK4zRZU9ZPk6BAi) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [You Complete Me](https://open.spotify.com/album/59uox6bthXBgB0sXHMuDSw) | 2:26 | 2024-03-28 |  |
 | [You Live On](https://open.spotify.com/track/5qez4U03yulzkie5u20lJf) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [You Live On](https://open.spotify.com/album/1HQ7HQbfGxsVDMX2PoOQ8a) | 3:46 | 2023-11-23 |  |
 | [You're Special \- Ralf Gum Radio Edit](https://open.spotify.com/track/5X2P4CiV1nvQ64nQvBuPUQ) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Ayanda Jiya](https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl) | [You're Special](https://open.spotify.com/album/1GUG1uN3ohEAJqL1H9VYE5) | 3:25 | 2023-06-22 | 2023-07-21 |
 | [Your Figure](https://open.spotify.com/track/1Cjs5h9o9cE81TSzF8E2EX) | [Nkanyezi Kubheka](https://open.spotify.com/artist/0APN22F7fuIUq8X5FIAEEu), [Leo B](https://open.spotify.com/artist/2q8GwVCQ8APjhA0tbwFPay), [DJ KAYSMART](https://open.spotify.com/artist/44RAWv4e52G2F8RoEQYswt) | [Your Figure](https://open.spotify.com/album/0p8Zz7jxyH5tx8GK5wiagJ) | 3:12 | 2023-07-07 | 2023-08-25 |

@@ -2,12 +2,13 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB?si=5bh4QtisQReUTmiq4LW7cw">Shekhinah</a>
+> Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf?si=\-K7t4\-FuSmK22E74drnYrQ>Mikhalé Jones</a>
 
-199 songs - 10 hr 31 min
+201 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [24/7](https://open.spotify.com/track/5y93qwHuziDlh2cD9Cnk5S) | [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf), [Hersh](https://open.spotify.com/artist/5dAvLMQBZsRlXgFvzOI3C2) | [24/7](https://open.spotify.com/album/59mclmdFtn44CNaWzsDEON) | 3:29 | 2024-03-28 |  |
 | [4am](https://open.spotify.com/track/0a5z5IAC1kssY9gKvBDsW9) | [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [4am](https://open.spotify.com/album/12Xqw4xIfcWk6ESdetl9YD) | 3:11 | 2024-01-25 |  |
 | [90's Anxiety](https://open.spotify.com/track/3iYTB2ma1aRFQQUrfCnhy8) | [Ava like Lava](https://open.spotify.com/artist/2L7QE83MaWKPuIwaxSyEfk), [Imanemun](https://open.spotify.com/artist/6NY0pmZsboMa0qoHDswbdv) | [90's Anxiety](https://open.spotify.com/album/50Y1QCfzap5t0VdTZwEn7p) | 3:23 | 2023-10-12 | 2023-10-20 |
 | [All About You](https://open.spotify.com/track/4GmaFkiZ2TFVcztCeCvbQY) | [Naye Ayla](https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW) | [All About You](https://open.spotify.com/album/6REE4bY6T3SMMBlniNrPmX) | 2:36 | 2024-02-14 | 2024-02-23 |
@@ -21,6 +22,7 @@
 | [Attention](https://open.spotify.com/track/0N8c3AlYRcgJ0RcCmZjbCV) | [Shalate](https://open.spotify.com/artist/52XowYt0U9ZWvAbKVZ0HaK) | [Love Is...](https://open.spotify.com/album/40XbmQcytzVV35HGy7bonG) | 2:50 | 2023-10-12 | 2023-10-20 |
 | [Back 2 U](https://open.spotify.com/track/45GqiF1tr66MeXBeJztwdX) | [Adrienne Foo](https://open.spotify.com/artist/5lsaKDXCs0VHVJ5UxMFqSA), [Phiwo](https://open.spotify.com/artist/1aMVkMfK9Wo0rd7TfBymHY) | [Back 2 U](https://open.spotify.com/album/2pvijmArToNkuu9VWUASxo) | 5:10 | 2023-10-20 | 2024-01-26 |
 | [bebé](https://open.spotify.com/track/1VzRSPZngDzfXHZNFtKYsW) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Tron Pyre](https://open.spotify.com/artist/3pi8AlHZo5bq0mFi3wZDW8) | [bebé](https://open.spotify.com/album/7iIlZFq4OfdFkEJaPZjl4y) | 3:20 | 2023-10-26 | 2023-12-23 |
+| [Birds](https://open.spotify.com/track/1Jy2MJzzfP6FHF9TeeMHtd) | [Shannon](https://open.spotify.com/artist/0cpRAqLFfaS1wgflVWtd4S) | [Birds](https://open.spotify.com/album/1tbzDVXgaVVE4PsM9uEOEy) | 2:30 | 2024-03-28 |  |
 | [BIRTHDAY DANCE](https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO \(SCRATCHED UP\)](https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3) | 2:24 | 2024-02-08 |  |
 | [Bittersweet](https://open.spotify.com/track/1xVncI2PZc9wHHiThpnl6i) | [Yung Tyran](https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX), [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq) | [Bittersweet](https://open.spotify.com/album/4slWIbVvyPiIdaS8qnLjSj) | 2:06 | 2023-10-12 | 2024-01-26 |
 | [Blame Yourself](https://open.spotify.com/track/4Zxpy4Fy5U6AZC2WTEovDu) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Blame Yourself](https://open.spotify.com/album/6vTOLZuBKqosKg2lSUKcR6) | 4:09 | 2023-10-12 | 2023-10-20 |
@@ -106,7 +108,7 @@
 | [KARMA](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [KARMA](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 | 2024-02-26 |  |
 | [King.](https://open.spotify.com/track/2p764iXYTC6DjmN4Go8OCF) | [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [King.](https://open.spotify.com/album/3M9HZFxTf9xR7fMHhg5u6U) | 2:37 | 2023-10-12 | 2024-01-26 |
 | [Know Me](https://open.spotify.com/track/7vkRrTEyZZ71DAPk6ItG2M) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [Roho](https://open.spotify.com/artist/2Rej3KxSUUiNplmlnfNdUd) | [Know Me](https://open.spotify.com/album/0rSAPCKrf4mzerV2m3mJAK) | 2:40 | 2024-02-08 |  |
-| [Lets Get Away](https://open.spotify.com/track/0Hlv5uMHBia2JJ64X7THhL) | [Magana](https://open.spotify.com/artist/6CDDLh64XGNFrOG90xeO31) | [Lets Get Away](https://open.spotify.com/album/6WSbwrHIQmr6FOInnFMXEi) | 3:45 | 2024-01-12 |  |
+| [Lets Get Away](https://open.spotify.com/track/0Hlv5uMHBia2JJ64X7THhL) | [Magana](https://open.spotify.com/artist/6CDDLh64XGNFrOG90xeO31) | [Lets Get Away](https://open.spotify.com/album/6WSbwrHIQmr6FOInnFMXEi) | 3:45 | 2024-01-12 | 2024-03-29 |
 | [Looking Good](https://open.spotify.com/track/5xzmxRIdBaPGp1y6kJa7Hh) | [Crunchy Sweater](https://open.spotify.com/artist/2D3HVUBLvAhDjdTwXQhNQY) | [Looking Good](https://open.spotify.com/album/6Dd965EGQECoAvxXS7phpI) | 2:33 | 2023-10-12 | 2023-10-27 |
 | [Love Letters](https://open.spotify.com/track/6OM5yjhSYR68YwS4fADK3O) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Asali \(Sweeter\)](https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R) | 2:38 | 2023-10-26 | 2024-03-15 |
 | [Love Will Lead You There](https://open.spotify.com/track/1OOCFtb1mAr8cGOt1PCwr0) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:35 | 2024-02-14 | 2024-02-23 |
@@ -154,7 +156,7 @@
 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 | 2024-02-08 |  |
 | [Right In My Arms](https://open.spotify.com/track/73EQ7rfD4uN4MhTLeVwWae) | [The Woodź](https://open.spotify.com/artist/1b4yg5JOwp7Dr4Ko0Jwol1) | [Right In My Arms](https://open.spotify.com/album/1ybAA9ffzon9NTEDk14UDd) | 3:47 | 2024-02-14 | 2024-02-23 |
 | [Risk \(feat\. Moliy\)](https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Risk \(feat\. Moliy\)](https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh) | 2:47 | 2024-03-21 |  |
-| [Roboto](https://open.spotify.com/track/6kGuzD6SGSCjMzpgNHX6Eu) | [Melo B Jones](https://open.spotify.com/artist/2Mua4FDd97dhJAfLNE5E3O), [Ntatao](https://open.spotify.com/artist/65AL7DNBWa4m5Y94PPATUE) | [Roboto](https://open.spotify.com/album/2fHwBnIZJdNHrAEYrZBZ3W) | 4:05 | 2024-01-12 |  |
+| [Roboto](https://open.spotify.com/track/6kGuzD6SGSCjMzpgNHX6Eu) | [Melo B Jones](https://open.spotify.com/artist/2Mua4FDd97dhJAfLNE5E3O), [Ntatao](https://open.spotify.com/artist/65AL7DNBWa4m5Y94PPATUE) | [Roboto](https://open.spotify.com/album/2fHwBnIZJdNHrAEYrZBZ3W) | 4:05 | 2024-01-12 | 2024-03-29 |
 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 | 2024-02-08 |  |
 | [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 | 2024-02-08 |  |
 | [SAME MISTAKE](https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [SAME MISTAKE](https://open.spotify.com/album/41EmgJAJQInxILfagQ608k) | 2:58 | 2024-02-08 |  |

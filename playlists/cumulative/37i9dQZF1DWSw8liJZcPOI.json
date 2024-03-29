@@ -4470,6 +4470,24 @@
     {
       "album": {
         "name": "Origins",
+        "url": "https://open.spotify.com/album/0q1vjlDPgJ0atlFChSf24O"
+      },
+      "artists": [
+        {
+          "name": "Austin Fray",
+          "url": "https://open.spotify.com/artist/6uQUVNwgLKs0M1GxBzZSAd"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270100,
+      "name": "Kindred",
+      "url": "https://open.spotify.com/track/3OCVlE2SajdElQt0HI3wbq"
+    },
+    {
+      "album": {
+        "name": "Origins",
         "url": "https://open.spotify.com/album/6gUSb65QUI3MHljzUm1J0N"
       },
       "artists": [
@@ -8720,7 +8738,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 256005,
       "name": "Upstream Dream",
       "url": "https://open.spotify.com/track/36nGeAgQbzIgtvhTbOAA0S"

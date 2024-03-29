@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 860270,
+  "2024-03-29": 860279,
   "date_first_scraped": "2021-12-21",
   "description": "The best indie dance tracks of the moment. Cover: jigitz",
   "name": "metropolis",
@@ -3571,6 +3571,24 @@
       "duration_ms": 206000,
       "name": "Casita",
       "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
+    },
+    {
+      "album": {
+        "name": "Inner Circuitry",
+        "url": "https://open.spotify.com/album/2vHPBoZuIIBBsfHjRZdoAA"
+      },
+      "artists": [
+        {
+          "name": "Familiar Faces",
+          "url": "https://open.spotify.com/artist/2faJegxkyWRI7AMI9pyWZo"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221102,
+      "name": "Cause Of U",
+      "url": "https://open.spotify.com/track/1VxXo9KogHyccmoXcwqqCc"
     },
     {
       "album": {

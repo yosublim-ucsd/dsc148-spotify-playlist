@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 281650,
+  "2024-03-29": 281701,
   "date_first_scraped": "2022-05-11",
   "description": "The biggest rock bands/artists in Japan right now!  Cover: Porno Graffitti (\u30dd\u30eb\u30ce\u30b0\u30e9\u30d5\u30a3\u30c6\u30a3)",
   "name": "Big in Japan",
@@ -17813,7 +17813,7 @@
     {
       "album": {
         "name": "\u89e3\u653e\u533a",
-        "url": "https://open.spotify.com/album/74KxSiODn8PWwQ2el59TT8"
+        "url": "https://open.spotify.com/album/2iTeXS6y9RYmgq5U3fN0L2"
       },
       "artists": [
         {
@@ -17824,6 +17824,24 @@
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 236093,
+      "name": "\u89e3\u653e\u533a",
+      "url": "https://open.spotify.com/track/0twL0D0qGzNJM9QHx0Hp5x"
+    },
+    {
+      "album": {
+        "name": "\u89e3\u653e\u533a",
+        "url": "https://open.spotify.com/album/74KxSiODn8PWwQ2el59TT8"
+      },
+      "artists": [
+        {
+          "name": "PornoGraffitti",
+          "url": "https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-28",
       "duration_ms": 236093,
       "name": "\u89e3\u653e\u533a",
       "url": "https://open.spotify.com/track/52dfm26rDnoqFCmCNam7ex"

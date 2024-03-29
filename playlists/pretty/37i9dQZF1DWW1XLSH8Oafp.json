@@ -1,13 +1,33 @@
 {
   "description": "ur on the list bb \ud83e\ude90 featuring Two Shell",
-  "num_followers": 247097,
+  "num_followers": 247157,
   "original_name": "planet rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDZmMWNkM2NjZTczNzAyMDAxMzA3YTYxN2JlOTk3ZDI3MGU5ODVl",
+  "snapshot_id": "MCxhYmZhNWE5ZGJmOWU2M2I2ZmFiMGE5NTQzYWY1ZGEwZGNiMmYwOWQ0",
   "tracks": [
+    {
+      "added_at": "2024-03-25 18:50:25",
+      "album": {
+        "name": "Forever 2 (Crush Mix)",
+        "url": "https://open.spotify.com/album/2TbQ4UscdZOQCTNas8MAhR"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "duration_ms": 222621,
+      "name": "Forever 2 (Crush Mix)",
+      "url": "https://open.spotify.com/track/2QmEZAW1zKzoeA5hkheo8L"
+    },
     {
       "added_at": "2024-03-25 18:50:25",
       "album": {
@@ -59,6 +79,26 @@
     {
       "added_at": "2024-03-25 18:50:25",
       "album": {
+        "name": "Wasting Time With You",
+        "url": "https://open.spotify.com/album/1nADZ50z704vj7HtopGgXC"
+      },
+      "artists": [
+        {
+          "name": "Denham Audio",
+          "url": "https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1"
+        },
+        {
+          "name": "Triple Point",
+          "url": "https://open.spotify.com/artist/4k2HXxbrXKfNyu9vBuKapQ"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Wasting Time with You",
+      "url": "https://open.spotify.com/track/1LRw2qwjFCwntxtUp2QPqi"
+    },
+    {
+      "added_at": "2024-03-25 18:50:25",
+      "album": {
         "name": "Go Ghost",
         "url": "https://open.spotify.com/album/4VfduOex5EZQ75OrgUdlBm"
       },
@@ -95,42 +135,62 @@
     {
       "added_at": "2024-03-25 18:50:25",
       "album": {
-        "name": "Wasting Time With You",
-        "url": "https://open.spotify.com/album/1nADZ50z704vj7HtopGgXC"
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/1ca9y7OQxBv0bXUXGKIFYP"
       },
       "artists": [
         {
-          "name": "Denham Audio",
-          "url": "https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1"
+          "name": "Glimji",
+          "url": "https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc"
         },
         {
-          "name": "Triple Point",
-          "url": "https://open.spotify.com/artist/4k2HXxbrXKfNyu9vBuKapQ"
+          "name": "Elphi",
+          "url": "https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY"
+        },
+        {
+          "name": "Soak XP",
+          "url": "https://open.spotify.com/artist/6SuyywE4h5N9XvfPzfwACl"
         }
       ],
-      "duration_ms": 176800,
-      "name": "Wasting Time with You",
-      "url": "https://open.spotify.com/track/1LRw2qwjFCwntxtUp2QPqi"
+      "duration_ms": 160587,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/3y8Vm5FfhIxMaacpS2IShA"
     },
     {
       "added_at": "2024-03-25 18:50:25",
       "album": {
-        "name": "Forever 2 (Crush Mix)",
-        "url": "https://open.spotify.com/album/2TbQ4UscdZOQCTNas8MAhR"
+        "name": "How I Fell in Love",
+        "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
       },
       "artists": [
         {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        },
-        {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
         }
       ],
-      "duration_ms": 222621,
-      "name": "Forever 2 (Crush Mix)",
-      "url": "https://open.spotify.com/track/2QmEZAW1zKzoeA5hkheo8L"
+      "duration_ms": 112551,
+      "name": "How I Fell in Love",
+      "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
+    },
+    {
+      "added_at": "2024-03-25 18:50:25",
+      "album": {
+        "name": "Need To Talk (Kordz Remix)",
+        "url": "https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go"
+      },
+      "artists": [
+        {
+          "name": "Creams",
+          "url": "https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc"
+        },
+        {
+          "name": "kordz",
+          "url": "https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN"
+        }
+      ],
+      "duration_ms": 218431,
+      "name": "Need To Talk - Kordz Remix",
+      "url": "https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz"
     },
     {
       "added_at": "2024-03-25 18:50:25",
@@ -173,24 +233,40 @@
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
     },
     {
-      "added_at": "2024-03-25 18:50:25",
+      "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Need To Talk (Kordz Remix)",
-        "url": "https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go"
+        "name": "Wait Right Here",
+        "url": "https://open.spotify.com/album/4kmb9XZ2gi52pyaV71NlVW"
       },
       "artists": [
         {
-          "name": "Creams",
-          "url": "https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc"
+          "name": "Sam Girling",
+          "url": "https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS"
         },
         {
-          "name": "kordz",
-          "url": "https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN"
+          "name": "Theo Bleak",
+          "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
         }
       ],
-      "duration_ms": 218431,
-      "name": "Need To Talk - Kordz Remix",
-      "url": "https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz"
+      "duration_ms": 195903,
+      "name": "Wait Right Here",
+      "url": "https://open.spotify.com/track/2BoY6boRLXRwbz2RZ9ItQ6"
+    },
+    {
+      "added_at": "2024-03-25 18:50:25",
+      "album": {
+        "name": "Seek Everything",
+        "url": "https://open.spotify.com/album/0E74Su86PyauXUPgAFG3Bm"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        }
+      ],
+      "duration_ms": 173201,
+      "name": "Seek Everything",
+      "url": "https://open.spotify.com/track/4gVSIXTL67QoAmNXnu3rqF"
     },
     {
       "added_at": "2024-03-25 18:50:25",
@@ -211,22 +287,6 @@
       "duration_ms": 187271,
       "name": "The Thrill Of It - NOISY Remix - Hyper Edit",
       "url": "https://open.spotify.com/track/1hk6eGwHS9u0pZCLPUPEa6"
-    },
-    {
-      "added_at": "2024-03-25 18:50:25",
-      "album": {
-        "name": "How I Fell in Love",
-        "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
-      },
-      "artists": [
-        {
-          "name": "CH4YN",
-          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
-        }
-      ],
-      "duration_ms": 112551,
-      "name": "How I Fell in Love",
-      "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
     },
     {
       "added_at": "2024-03-25 18:50:25",
@@ -311,6 +371,22 @@
     {
       "added_at": "2024-03-25 18:50:25",
       "album": {
+        "name": "It's Only True",
+        "url": "https://open.spotify.com/album/7lMqUt8qan03Qz50U4bkLs"
+      },
+      "artists": [
+        {
+          "name": "Ollie Lishman",
+          "url": "https://open.spotify.com/artist/266LAiHzDxPPRJldh2CPX0"
+        }
+      ],
+      "duration_ms": 180145,
+      "name": "It's Only True",
+      "url": "https://open.spotify.com/track/2LBJbL1wHC4BuUiSuH9j6u"
+    },
+    {
+      "added_at": "2024-03-25 18:50:25",
+      "album": {
         "name": "Arintintin",
         "url": "https://open.spotify.com/album/18WiTeK26yzhOpIYSHDA4T"
       },
@@ -329,44 +405,20 @@
       "url": "https://open.spotify.com/track/0gExQivfnTQxzD85envbyy"
     },
     {
-      "added_at": "2024-03-25 18:50:25",
+      "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "It's Only True",
-        "url": "https://open.spotify.com/album/7lMqUt8qan03Qz50U4bkLs"
+        "name": "YOU WERE THERE",
+        "url": "https://open.spotify.com/album/0olrDJLwdnkHSYNoJ4uhmS"
       },
       "artists": [
         {
-          "name": "Ollie Lishman",
-          "url": "https://open.spotify.com/artist/266LAiHzDxPPRJldh2CPX0"
+          "name": "KE-YEN",
+          "url": "https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE"
         }
       ],
-      "duration_ms": 180145,
-      "name": "It's Only True",
-      "url": "https://open.spotify.com/track/2LBJbL1wHC4BuUiSuH9j6u"
-    },
-    {
-      "added_at": "2024-03-25 18:50:25",
-      "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/1ca9y7OQxBv0bXUXGKIFYP"
-      },
-      "artists": [
-        {
-          "name": "Glimji",
-          "url": "https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc"
-        },
-        {
-          "name": "Elphi",
-          "url": "https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY"
-        },
-        {
-          "name": "Soak XP",
-          "url": "https://open.spotify.com/artist/6SuyywE4h5N9XvfPzfwACl"
-        }
-      ],
-      "duration_ms": 160587,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/3y8Vm5FfhIxMaacpS2IShA"
+      "duration_ms": 182779,
+      "name": "YOU WERE THERE",
+      "url": "https://open.spotify.com/track/4XeFRoMkWSEWN4uJmmqbVA"
     },
     {
       "added_at": "2024-03-25 18:50:25",
@@ -389,20 +441,20 @@
       "url": "https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx"
     },
     {
-      "added_at": "2024-03-25 18:50:25",
+      "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Seek Everything",
-        "url": "https://open.spotify.com/album/0E74Su86PyauXUPgAFG3Bm"
+        "name": "mmm k. x",
+        "url": "https://open.spotify.com/album/1AztldyBTmME4wJKof8iWi"
       },
       "artists": [
         {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+          "name": "cell m8",
+          "url": "https://open.spotify.com/artist/7y2p7RZViBzJimqtS1xW1c"
         }
       ],
-      "duration_ms": 173201,
-      "name": "Seek Everything",
-      "url": "https://open.spotify.com/track/4gVSIXTL67QoAmNXnu3rqF"
+      "duration_ms": 186213,
+      "name": "mmm k. x",
+      "url": "https://open.spotify.com/track/1qtipT5dLzLRnepGkttTN8"
     },
     {
       "added_at": "2024-03-25 18:50:25",
@@ -435,6 +487,26 @@
       "duration_ms": 124686,
       "name": "you'll come back",
       "url": "https://open.spotify.com/track/12AUL8xZVqnq75tvmZs085"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "wishing well",
+        "url": "https://open.spotify.com/album/3hzcBFb7iuuYShvvCHXBn9"
+      },
+      "artists": [
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "wishing well",
+      "url": "https://open.spotify.com/track/7Fwp8SLqJ3NU6L8ZitD6AY"
     },
     {
       "added_at": "2024-03-25 18:50:25",
@@ -485,6 +557,30 @@
       "url": "https://open.spotify.com/track/1z4tjw3djJImBlGUbFjAOb"
     },
     {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "MYCELiUM (UTOPIA Remixes)",
+        "url": "https://open.spotify.com/album/2oqCKGQTfy3ft0UGzpuzRg"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "SONIKKU",
+          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
+        }
+      ],
+      "duration_ms": 253814,
+      "name": "Kiss It Better - Sonikku Remix",
+      "url": "https://open.spotify.com/track/7rI5RC7FRUYNv6qbKH7Vq0"
+    },
+    {
       "added_at": "2024-03-25 18:50:25",
       "album": {
         "name": "2special",
@@ -531,6 +627,26 @@
       "duration_ms": 274447,
       "name": "Want Me",
       "url": "https://open.spotify.com/track/2PKEGiGJAeEOaSaOZsQhCH"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "HARDC0RE DR3AMZ",
+        "url": "https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 155685,
+      "name": "H.O.T.",
+      "url": "https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB"
     },
     {
       "added_at": "2024-03-25 18:50:25",
@@ -1115,22 +1231,6 @@
     {
       "added_at": "2024-03-25 18:50:25",
       "album": {
-        "name": "NewJeans 'Super Shy'",
-        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Super Shy",
-      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
-    },
-    {
-      "added_at": "2024-03-25 18:50:25",
-      "album": {
         "name": "Mosquito",
         "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
       },
@@ -1591,26 +1691,6 @@
     {
       "added_at": "2024-03-25 18:50:25",
       "album": {
-        "name": "Turn Your Phone Off",
-        "url": "https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Turn Your Phone Off",
-      "url": "https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z"
-    },
-    {
-      "added_at": "2024-03-25 18:50:25",
-      "album": {
         "name": "1, 2 Step (DJ HEARTSTRING Remix)",
         "url": "https://open.spotify.com/album/4hQkp4wrJ62GnxujArUkQ5"
       },
@@ -1871,22 +1951,6 @@
       "duration_ms": 173488,
       "name": "twice as fast",
       "url": "https://open.spotify.com/track/3v6Jt4W6kD3IYV5H52sExE"
-    },
-    {
-      "added_at": "2024-03-25 18:50:25",
-      "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 274677,
-      "name": "Sun Showers",
-      "url": "https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6"
     },
     {
       "added_at": "2024-03-25 18:50:25",
@@ -2479,22 +2543,6 @@
     {
       "added_at": "2024-03-25 18:50:25",
       "album": {
-        "name": "Yesterday (Digital Underground)",
-        "url": "https://open.spotify.com/album/23TzcfGtCrzy83yLYNSWPe"
-      },
-      "artists": [
-        {
-          "name": "Scuba",
-          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
-        }
-      ],
-      "duration_ms": 217655,
-      "name": "Yesterday (Digital Underground)",
-      "url": "https://open.spotify.com/track/6WFR383k5UwdWg6JuINlrm"
-    },
-    {
-      "added_at": "2024-03-25 18:50:25",
-      "album": {
         "name": "4ever1",
         "url": "https://open.spotify.com/album/07D2Gq848vkcj5T1Gpfoyl"
       },
@@ -2683,42 +2731,6 @@
       "duration_ms": 211764,
       "name": "red blue and green lights",
       "url": "https://open.spotify.com/track/4ukDpDWiKtqT4RYQzdrYte"
-    },
-    {
-      "added_at": "2024-03-25 18:50:25",
-      "album": {
-        "name": "Incredibly Annoying (Safety Trance Remix)",
-        "url": "https://open.spotify.com/album/1GwE2IJL9Q3ez73dDQcPlg"
-      },
-      "artists": [
-        {
-          "name": "VTSS",
-          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
-        },
-        {
-          "name": "Safety Trance",
-          "url": "https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF"
-        }
-      ],
-      "duration_ms": 174937,
-      "name": "Incredibly Annoying - Safety Trance Remix",
-      "url": "https://open.spotify.com/track/1Q0gzmihIHWXV2Z2Dgr0Mr"
-    },
-    {
-      "added_at": "2024-03-25 18:50:25",
-      "album": {
-        "name": "ULTRANCE",
-        "url": "https://open.spotify.com/album/0eqxXDKHDPPYIUs59r6Vvv"
-      },
-      "artists": [
-        {
-          "name": "NZIRIA",
-          "url": "https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe"
-        }
-      ],
-      "duration_ms": 339999,
-      "name": "ULTRANCE",
-      "url": "https://open.spotify.com/track/11O2CGvvumz63FcH4VYUMx"
     },
     {
       "added_at": "2024-03-25 18:50:25",

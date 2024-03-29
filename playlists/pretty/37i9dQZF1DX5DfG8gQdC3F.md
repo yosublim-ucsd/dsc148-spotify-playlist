@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Tyla, Olivia Rodrigo, Future & Metro Boomin, LOONY and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,363 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,395 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Show Me Love](https://open.spotify.com/track/0WQpEXZGwvdt91WB1VSKXF) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [I Need to Stay Here](https://open.spotify.com/album/6ViPAxxhRt4On7JSILjIhp) | 4:03 |
 | 100 | [Curtain Call](https://open.spotify.com/track/1McaBph49HIifhnGMg4a1f) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock, Knock \(Extended Version\)](https://open.spotify.com/album/1OyYinHCauMPSic0CuCBeE) | 3:29 |
 
-Snapshot ID: `MCw4ZmJjZTViMGQ0OWY2M2NlMjhlNjExOTExZTkzMGFhZmU2OGZiNGQ3`
+Snapshot ID: `MCwxNDIyNWVhN2RkYmIxYjZmNzhkMTM1YTM4OGQzYjQ1ZmYxOTIxZjQy`

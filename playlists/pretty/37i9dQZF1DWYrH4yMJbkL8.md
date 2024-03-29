@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by FONTINE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,867 likes - 30 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,893 likes - 30 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 29 | [Snowblind](https://open.spotify.com/track/4F6C1k9TfEEzCo86m4K1Bu) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Snowblind](https://open.spotify.com/album/3EX2pi3FS9thuxBfv9s6C3) | 3:50 |
 | 30 | [There I Wander](https://open.spotify.com/track/4VOrdRpCaxWjFPo6XZyILP) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Motewolonuwok](https://open.spotify.com/album/0GSKrVvb8FZlMfsBpTLFjL) | 3:35 |
 
-Snapshot ID: `MCw2MjYwNzZiNjFhNWEzMjdiNWRlODhkYzVhM2UxNjM5YjEyNDUwM2Zm`
+Snapshot ID: `MCxmMjY5YjE0YTA0MDFhYmQ1NTI0MDdlMzI2YTYzMzcyNjllYzk4MDRl`

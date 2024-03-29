@@ -4,7 +4,7 @@
 
 > okayy hop lige på <a href="spotify:album:4oExjnLMuvThxFs2UR80R8">Noahs Ark</a> ⛵️
 
-150 songs - 6 hr 30 min
+151 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [NO MONEY NO FUNNY \(feat\. Branco\)](https://open.spotify.com/track/7ME4hi8iUI8ppwRpIGbKg4) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [NO MONEY NO FUNNY \(feat\. Branco\)](https://open.spotify.com/album/26JQ7MSTG8tAdJbLVU7ZMN) | 2:16 | 2023-09-21 |  |
 | [Noget Med Noget](https://open.spotify.com/track/256J9I7Vp9SiPrUaxPqAw7) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Noget Med Noget](https://open.spotify.com/album/1AD9rLclpmI9abg4LMYYNH) | 2:21 | 2023-09-21 | 2023-11-11 |
 | [North Face \(feat\. Lamin\)](https://open.spotify.com/track/5WfPaCdvCn5UhXKtEbGSb3) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [North Face \(feat\. Lamin\)](https://open.spotify.com/album/4JG2B8OtZHx2Q8s4HGHnkz) | 2:40 | 2024-01-04 |  |
+| [OT](https://open.spotify.com/track/1erc6T5ojSwOiuNc7i2AFA) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [OT](https://open.spotify.com/album/6fqud5SMiWILs4EQIJtgjQ) | 2:50 | 2024-03-28 |  |
 | [Ousside \(feat\. Benny Jamz\)](https://open.spotify.com/track/6gGN8KHsJL5Yw9PunS8TA8) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Ousside \(feat\. Benny Jamz\)](https://open.spotify.com/album/3pirHD0zqwlGkb0QS4UsIU) | 2:53 | 2024-02-15 | 2024-03-27 |
 | [Ousside \(feat\. Benny Jamz\)](https://open.spotify.com/track/7fwFV39b75w52PrBqM7OAT) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 2:53 | 2024-03-21 |  |
 | [Palermo \(feat\. KESI\)](https://open.spotify.com/track/7a2ZJ7zftM3SkQ0sDvI4Aa) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Ny Sejr](https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ) | 2:43 | 2023-09-21 | 2023-12-14 |

@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto: Bryant Myers, Jhayco & Luar La L.
 
-426 songs - 1 day 0 hr 18 min
+427 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,8 @@
 | [Vancouver](https://open.spotify.com/track/002SgZv1jiRDxvpXjKiVX7) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno) | [Vancouver](https://open.spotify.com/album/3GVj38FjMR7NK2pbnzILmC) | 3:05 | 2023-04-28 | 2023-06-24 |
 | [Veo Veo](https://open.spotify.com/track/7dm2eWzZsI3mW1oKgF21qV) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Rapeton Approved](https://open.spotify.com/artist/2Tdsb1uIuHJrG5SllTLyCw) | [Veo Veo](https://open.spotify.com/album/6axheBYNM1GRM1aMxZpDN0) | 2:53 | 2022-03-11 | 2022-05-11 |
 | [Vestido da Fendi](https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Vestido da Fendi](https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y) | 2:44 | 2022-06-03 | 2022-10-29 |
-| [VIBRANDO ALTO](https://open.spotify.com/track/6gdXA0hjqp5B9VLilLmkRu) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [VIBRANDO ALTO](https://open.spotify.com/album/2mjGSrHDnZB0J34FM4IeFk) | 2:41 | 2023-11-24 |  |
+| [VIBRANDO ALTO](https://open.spotify.com/track/6gdXA0hjqp5B9VLilLmkRu) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [VIBRANDO ALTO](https://open.spotify.com/album/2mjGSrHDnZB0J34FM4IeFk) | 2:41 | 2023-11-24 | 2024-03-29 |
+| [VIBRANDO ALTO](https://open.spotify.com/track/7rBe1bOi4uR0Vy7AwpRDpZ) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [VERSUS](https://open.spotify.com/album/2EbnpPFchunb1mki1tjR66) | 2:41 | 2024-03-22 |  |
 | [VICE](https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [VICE](https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy) | 2:41 | 2023-03-03 | 2023-05-06 |
 | [VITALICIO](https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [VITALICIO](https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161) | 2:00 | 2024-02-09 |  |
 | [Volando Bajito](https://open.spotify.com/track/6IUgGn3GEWOR7cxW1SxzLn) | [Andre TG](https://open.spotify.com/artist/2OHDHtDUjiP1K0rUXDC3vm), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Volando Bajito](https://open.spotify.com/album/5Zq8u3hmKSyFRQkxhOXKCy) | 3:08 | 2022-08-12 | 2022-12-10 |

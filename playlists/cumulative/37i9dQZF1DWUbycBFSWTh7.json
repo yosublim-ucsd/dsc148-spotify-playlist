@@ -3223,6 +3223,24 @@
     },
     {
       "album": {
+        "name": "My Belief",
+        "url": "https://open.spotify.com/album/2eSX3o5fMuX39z8cBj9C8L"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349846,
+      "name": "My Belief",
+      "url": "https://open.spotify.com/track/0YrnSUEqpXmm2pMQYKHGUg"
+    },
+    {
+      "album": {
         "name": "My Buddy",
         "url": "https://open.spotify.com/album/0OX4imBNw7NMoenB3csJtj"
       },

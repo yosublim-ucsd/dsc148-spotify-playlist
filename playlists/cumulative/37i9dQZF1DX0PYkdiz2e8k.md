@@ -2,7 +2,7 @@
 
 ### [do rockeeee](https://open.spotify.com/playlist/37i9dQZF1DX0PYkdiz2e8k)
 
-> Explode! is out! Foto: Mother Mother
+> Explode! is out Foto: Mother Mother
 
 86 songs - 4 hr 22 min
 

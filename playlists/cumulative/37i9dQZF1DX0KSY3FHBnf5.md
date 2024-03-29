@@ -4,7 +4,7 @@
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-172 songs - 6 hr 51 min
+173 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [before winter's call](https://open.spotify.com/track/2fjDbaKZyssMrgjAfCXxNG) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Headphone Activist](https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk) | [before winter's call](https://open.spotify.com/album/56sJTZ8VE5PrKVZN997433) | 2:20 | 2023-10-13 |  |
 | [big dreams](https://open.spotify.com/track/35ebR4DqVFQuKKEbfVy5QB) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Memory Tapes](https://open.spotify.com/album/6n6WGu7D7xqEzOD96kXb3N) | 2:56 | 2023-08-14 |  |
 | [blue horizon](https://open.spotify.com/track/6A6uOOalIOEI7tCR8xPdMh) | [auroratønes](https://open.spotify.com/artist/25xv3luiiLhzEWDSk0SOmy), [Geego Boy](https://open.spotify.com/artist/4lYlJVXSRFSmHOrRct5HsK) | [blue horizon](https://open.spotify.com/album/3t80nbRPyOcY8QF9yqW70O) | 2:08 | 2023-09-22 |  |
-| [Bubble](https://open.spotify.com/track/62k6Tfmb6kUfKJisnZ6SGs) | [izumo](https://open.spotify.com/artist/6SUV9TOtiXhQQ5aniKJKKX) | [Bubble](https://open.spotify.com/album/5HVskhAGLdiasd2cdTHVRD) | 2:04 | 2023-08-14 |  |
+| [Bubble](https://open.spotify.com/track/62k6Tfmb6kUfKJisnZ6SGs) | [izumo](https://open.spotify.com/artist/6SUV9TOtiXhQQ5aniKJKKX) | [Bubble](https://open.spotify.com/album/5HVskhAGLdiasd2cdTHVRD) | 2:04 | 2023-08-14 | 2024-03-29 |
+| [Bubble](https://open.spotify.com/track/0jWmAveBH5Law63dOjPDai) | [Vixen](https://open.spotify.com/artist/7Blmh5MnZEPhOd6J4PC6aJ) | [Bubble](https://open.spotify.com/album/6r52bto9TjjJAfjdU3VcOW) | 2:05 | 2023-12-01 |  |
 | [calling](https://open.spotify.com/track/4PdZEuLt1pg4Z1MXDvoCjN) | [widx.](https://open.spotify.com/artist/0coIXI6j3BgwYiTxbhu5Un) | [calling](https://open.spotify.com/album/41eAhMGDnysndH55WIa3RV) | 2:03 | 2023-09-22 |  |
 | [Catch Me](https://open.spotify.com/track/0Jge1mK0sGA5mH1OXYow2s) | [Inan](https://open.spotify.com/artist/4oI5YoRw5Brc56oaK0JYAG), [auroratønes](https://open.spotify.com/artist/25xv3luiiLhzEWDSk0SOmy) | [Catch Me](https://open.spotify.com/album/2QKa6NPD8EdKBiHe5d2k4F) | 2:01 | 2023-09-22 |  |
 | [Chamber Stone](https://open.spotify.com/track/1nVNYYdWWRSWIwsfzjkKfr) | [Peter Ries](https://open.spotify.com/artist/1aEmlVUsELFecVCxatIeR6) | [Chamber Stone](https://open.spotify.com/album/2bh5620JHTz8LcBJvTB8ow) | 2:11 | 2023-08-14 |  |

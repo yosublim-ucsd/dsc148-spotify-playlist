@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 83856,
+  "2024-03-29": 83905,
   "date_first_scraped": "2022-01-02",
   "description": "Fresh country music by independent artists every Wednesday. Cover: Sheyna Gee, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
@@ -717,6 +717,24 @@
       "duration_ms": 238138,
       "name": "A New Set of Reasons",
       "url": "https://open.spotify.com/track/3IEOMpH46AzVNloo0CP1i7"
+    },
+    {
+      "album": {
+        "name": "A Song Will Bring You Back",
+        "url": "https://open.spotify.com/album/3cByc3X0HxgAh5RwmebM2c"
+      },
+      "artists": [
+        {
+          "name": "Adam Wainwright",
+          "url": "https://open.spotify.com/artist/0pLXBL13fiGoq8No1Ub3pm"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218189,
+      "name": "A Song Will Bring You Back",
+      "url": "https://open.spotify.com/track/5pWhoes9LoDbj2Pv2ECaSO"
     },
     {
       "album": {
@@ -1571,7 +1589,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 183013,
       "name": "Always Be Mine",
       "url": "https://open.spotify.com/track/7wHt2YAHvKN0dlE0xhQrTw"
@@ -2465,7 +2483,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 262226,
       "name": "Back to My Place",
       "url": "https://open.spotify.com/track/6WbgsfXOLb2BzOwKVinrOL"
@@ -3071,7 +3089,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 200906,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/1ZDgWqqQU172dhoKJ2AOqw"
@@ -4158,6 +4176,24 @@
     },
     {
       "album": {
+        "name": "Blame It on You",
+        "url": "https://open.spotify.com/album/4fU8CG5w7GlvQfe4xmmyba"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Lamb",
+          "url": "https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185466,
+      "name": "Blame It on You",
+      "url": "https://open.spotify.com/track/6sYqIcZB4g0vtX98XLjF6n"
+    },
+    {
+      "album": {
         "name": "Bless Your Heart",
         "url": "https://open.spotify.com/album/19zD01caEU9VGY3N6HmP5n"
       },
@@ -4169,7 +4205,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 196797,
       "name": "Bless Your Heart",
       "url": "https://open.spotify.com/track/2yMb4xvIW5r7mji09NikXW"
@@ -4227,6 +4263,24 @@
       "duration_ms": 217527,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/5ZeEDEtJfqZhjJFe55xsdc"
+    },
+    {
+      "album": {
+        "name": "Blow The Speakers",
+        "url": "https://open.spotify.com/album/37BE6mAIhvCxp0QaHVOLWw"
+      },
+      "artists": [
+        {
+          "name": "Robbie Mortimer",
+          "url": "https://open.spotify.com/artist/3oa0tGFnDuTzsk7dP2qoDj"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Blow The Speakers",
+      "url": "https://open.spotify.com/track/0wosIPMTDHCig0pl0kgeMc"
     },
     {
       "album": {
@@ -5148,6 +5202,24 @@
     },
     {
       "album": {
+        "name": "Bright Side Of Blue",
+        "url": "https://open.spotify.com/album/3MarLkAR0t6kPSlZikelbi"
+      },
+      "artists": [
+        {
+          "name": "Abby Anderson",
+          "url": "https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176967,
+      "name": "Bright Side Of Blue",
+      "url": "https://open.spotify.com/track/2364toHdid4HEDBf19wh2A"
+    },
+    {
+      "album": {
         "name": "Bring It On Back",
         "url": "https://open.spotify.com/album/71l7PuX6JXjJhN5aY3qEef"
       },
@@ -5757,7 +5829,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 185142,
       "name": "California King",
       "url": "https://open.spotify.com/track/5feUZNUx5YAfWTA5giyyWS"
@@ -10484,6 +10556,24 @@
     },
     {
       "album": {
+        "name": "Emotion Sick",
+        "url": "https://open.spotify.com/album/2qxn0rfOCuCkOTNutA1V7J"
+      },
+      "artists": [
+        {
+          "name": "Brooke Butler",
+          "url": "https://open.spotify.com/artist/7tamx6m94YSh41p6IX25Th"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160169,
+      "name": "Emotion Sick",
+      "url": "https://open.spotify.com/track/29Qc2HNJZxQkOcqRqNhPnr"
+    },
+    {
+      "album": {
         "name": "Empty Bottles",
         "url": "https://open.spotify.com/album/4VJnWnMTiQUF5eaRKmL7uo"
       },
@@ -10535,7 +10625,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 176464,
       "name": "End of the Line (feat. Makena Hartlin)",
       "url": "https://open.spotify.com/track/5q0sUOIMSVigoEGsTrtOJL"
@@ -12829,7 +12919,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 160086,
       "name": "Girl Next Door",
       "url": "https://open.spotify.com/track/3WVDA3Gqfz4l7lvBCKWdfe"
@@ -12905,7 +12995,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 213517,
       "name": "girls at the bar (ft. Alli Walker)",
       "url": "https://open.spotify.com/track/0R0YOsO3yxQuWkVPwz1Wd8"
@@ -13107,6 +13197,24 @@
       "duration_ms": 180066,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/3Pazi0v8BKtpwp2qjkh3ra"
+    },
+    {
+      "album": {
+        "name": "God's Gotta Be a Country Boy",
+        "url": "https://open.spotify.com/album/3ikw3kBSJPk7szrfJARytA"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rowe",
+          "url": "https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213295,
+      "name": "God's Gotta Be a Country Boy",
+      "url": "https://open.spotify.com/track/60EwTHBN6Du26Z7tDWpZXE"
     },
     {
       "album": {
@@ -13871,7 +13979,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 244679,
       "name": "Greatest Story",
       "url": "https://open.spotify.com/track/34TUPfDE0mwk8iqRgy1iKJ"
@@ -14865,6 +14973,24 @@
       "duration_ms": 195290,
       "name": "HEADSTART",
       "url": "https://open.spotify.com/track/3TCAS8pPrXZpuzeWaDxhJc"
+    },
+    {
+      "album": {
+        "name": "Heard You Said Goodbye",
+        "url": "https://open.spotify.com/album/10Nw2Tftp7OMx7Au5cCFCU"
+      },
+      "artists": [
+        {
+          "name": "Mike Parker",
+          "url": "https://open.spotify.com/artist/3hzCzAwJH36Ia5R5MIaW8m"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170486,
+      "name": "Heard You Said Goodbye",
+      "url": "https://open.spotify.com/track/6183gLi8IL5KiCZsvQgAtU"
     },
     {
       "album": {
@@ -19706,6 +19832,24 @@
     },
     {
       "album": {
+        "name": "Keep You Around",
+        "url": "https://open.spotify.com/album/1KIPnoqKZIfMqNjqpeMJqr"
+      },
+      "artists": [
+        {
+          "name": "Ashlie Amber",
+          "url": "https://open.spotify.com/artist/10uZfqpZrD77s8GhJyEaEA"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Keep You Around",
+      "url": "https://open.spotify.com/track/4Kp1NMyG6MZzbGtmNnTbXq"
+    },
+    {
+      "album": {
         "name": "Had To Be Wrote",
         "url": "https://open.spotify.com/album/5wKlNknqRlcQzkCpJi0UnY"
       },
@@ -19775,6 +19919,24 @@
       "duration_ms": 229505,
       "name": "Kentucky Sky",
       "url": "https://open.spotify.com/track/4GBHsMtMopYUNZP6pRI6Dn"
+    },
+    {
+      "album": {
+        "name": "Kick off Your Boots",
+        "url": "https://open.spotify.com/album/2qXiMLO6PQmFcQk7OQKbUS"
+      },
+      "artists": [
+        {
+          "name": "Hayley Payne",
+          "url": "https://open.spotify.com/artist/7HDvUJmcXXT0jsg6Z0pj29"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219150,
+      "name": "Kick off Your Boots",
+      "url": "https://open.spotify.com/track/3qoOZ49KN5cp6TVV066Qc8"
     },
     {
       "album": {
@@ -20243,6 +20405,24 @@
       "duration_ms": 221826,
       "name": "Late",
       "url": "https://open.spotify.com/track/31EsY9FZ4tOhN1SxzPgupn"
+    },
+    {
+      "album": {
+        "name": "Late Bloomer",
+        "url": "https://open.spotify.com/album/4ZGD0UokrjuvJGB7gOyLK7"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209113,
+      "name": "Late Bloomer",
+      "url": "https://open.spotify.com/track/6sd6ivmgEL3ql7v4mfTGz5"
     },
     {
       "album": {
@@ -21555,7 +21735,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 323315,
       "name": "Long Haired Country Boy",
       "url": "https://open.spotify.com/track/1RojBUomor7A7lHEbkAlbR"
@@ -22131,7 +22311,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 204500,
       "name": "Love Songs",
       "url": "https://open.spotify.com/track/2yqMupsh6bFwS7KevYhd0o"
@@ -22203,7 +22383,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 175472,
       "name": "Love You On My Mind",
       "url": "https://open.spotify.com/track/4ioDT0NAIiEFC2f6ICbk9F"
@@ -23137,7 +23317,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 195640,
       "name": "Me and Jesus",
       "url": "https://open.spotify.com/track/1DO13adsHaFTJsSmgYwtCP"
@@ -23407,7 +23587,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 158040,
       "name": "Mighta Met A Girl",
       "url": "https://open.spotify.com/track/0fxUny3hynUSDTloLen03Q"
@@ -25947,7 +26127,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 163584,
       "name": "One of Mine",
       "url": "https://open.spotify.com/track/0BBtQTW7InGLloLnluXXVA"
@@ -28604,6 +28784,24 @@
     },
     {
       "album": {
+        "name": "Runaway Cowboy",
+        "url": "https://open.spotify.com/album/7h9d4MsQ8ZJdCzMQplRgxc"
+      },
+      "artists": [
+        {
+          "name": "HALIE",
+          "url": "https://open.spotify.com/artist/1u1Iv4ZAFm0Hm2fpII41s4"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234293,
+      "name": "Runaway Cowboy",
+      "url": "https://open.spotify.com/track/6F2edmDJZ64d02fwVsS9yU"
+    },
+    {
+      "album": {
         "name": "Little Miss",
         "url": "https://open.spotify.com/album/3bUlRlYn6QN7sOgUp6CF2o"
       },
@@ -28637,6 +28835,24 @@
       "duration_ms": 186341,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/7jWXoYMa2fd6xrIJ1AOcjb"
+    },
+    {
+      "album": {
+        "name": "Runnin'",
+        "url": "https://open.spotify.com/album/56oJtTIsaH3Lt3XNyvC3pg"
+      },
+      "artists": [
+        {
+          "name": "Scotty Hasting",
+          "url": "https://open.spotify.com/artist/3OMqr8AGspLxIcHEwPCOl7"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202667,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/4X4V7f9f14hzvUSqzcFaQy"
     },
     {
       "album": {
@@ -28885,7 +29101,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 177893,
       "name": "Same Mistake Twice",
       "url": "https://open.spotify.com/track/39bzybw83bhqxDX81VyBkc"
@@ -29181,7 +29397,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 182669,
       "name": "Second Chances",
       "url": "https://open.spotify.com/track/0d177hWsiCYil2FF3nJ3lR"
@@ -30765,7 +30981,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 189048,
       "name": "smoke & a light",
       "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
@@ -33773,7 +33989,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 226519,
       "name": "Thank You for the Music",
       "url": "https://open.spotify.com/track/1hh9bpvDAaF2qGEF36bWxC"
@@ -33935,7 +34151,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 198503,
       "name": "The Boat",
       "url": "https://open.spotify.com/track/5reDApt4fyHM09WU16yM9D"
@@ -34652,6 +34868,24 @@
     },
     {
       "album": {
+        "name": "The Summer That Got Away",
+        "url": "https://open.spotify.com/album/44YdEhnz623Oy7gCXI8mSq"
+      },
+      "artists": [
+        {
+          "name": "Lily Grace",
+          "url": "https://open.spotify.com/artist/36C2hXqhxu8S68awyDaGQD"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178485,
+      "name": "The Summer That Got Away",
+      "url": "https://open.spotify.com/track/1Obt0ahEG2Avv4KAOHM7qm"
+    },
+    {
+      "album": {
         "name": "The Thing About Things",
         "url": "https://open.spotify.com/album/3EETCbffOESZLgHMkGWtWn"
       },
@@ -34980,6 +35214,24 @@
     },
     {
       "album": {
+        "name": "Think Like A Man",
+        "url": "https://open.spotify.com/album/1vYDtqGoe72TIlambhTo7N"
+      },
+      "artists": [
+        {
+          "name": "Tyra Madison",
+          "url": "https://open.spotify.com/artist/6QJWnamgxenwynyhKuRnrh"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188710,
+      "name": "Think Like A Man",
+      "url": "https://open.spotify.com/track/7cLCkXaWzisQwDLkGBXSu5"
+    },
+    {
+      "album": {
         "name": "Think of Me Don't",
         "url": "https://open.spotify.com/album/62mY9Ewnp3Mae6ifX15a0F"
       },
@@ -35297,7 +35549,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 185239,
       "name": "This Town",
       "url": "https://open.spotify.com/track/6ZMj1fQsu45eenH28stI1w"
@@ -37419,7 +37671,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 153070,
       "name": "What Happens Now?",
       "url": "https://open.spotify.com/track/6Pof690ci3aferHd9VVQwO"
@@ -37984,6 +38236,24 @@
     },
     {
       "album": {
+        "name": "Where I Come To Drink",
+        "url": "https://open.spotify.com/album/7rvgeZoM0N7bcPJydCyYO3"
+      },
+      "artists": [
+        {
+          "name": "Justin Mattock",
+          "url": "https://open.spotify.com/artist/7e07oKBtQcO00WCqVM34Lc"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180806,
+      "name": "Where I Come To Drink",
+      "url": "https://open.spotify.com/track/2lsSOEFUuW6vNi1IHYsgTe"
+    },
+    {
+      "album": {
         "name": "Where I Wanna Be",
         "url": "https://open.spotify.com/album/4TmN0rs6mech186KcXhPON"
       },
@@ -38193,7 +38463,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 223974,
       "name": "Whiskey Girl",
       "url": "https://open.spotify.com/track/1vsigaFFJ95LGRopttcrjg"
@@ -38949,7 +39219,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 166343,
       "name": "Wine Into Whiskey",
       "url": "https://open.spotify.com/track/2DVHIJA2bLas9cGLmHmUsY"
@@ -40001,7 +40271,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 215210,
       "name": "You Left Me",
       "url": "https://open.spotify.com/track/53z0W6inhxvtx0OWspvIAF"

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,478 likes - 100 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,481 likes - 100 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 |
 | 2 | [That's Fine](https://open.spotify.com/track/6sCSk3cy0AtcXlzgIOaDjA) | [Mateo Dufour](https://open.spotify.com/artist/5BhU8yBWfPZN2J2OCefip6) | [Check This Sound](https://open.spotify.com/album/3tsNoGi5b4uXsX5yyQQDgO) | 6:40 |
 | 3 | [Mantra](https://open.spotify.com/track/6T9Rie6HYLSlFFM8nNgQzG) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Mantra](https://open.spotify.com/album/2uyDY44RGw1IGmYW6BZZhM) | 7:45 |
-| 4 | [Banho de Folhas \- Maz Remix](https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Banho de Folhas \(Maz Remix\)](https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O) | 3:35 |
+| 4 | [Banho de Folhas \- Maz Remix](https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Banho de Folhas \(Maz Remix\)](https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O) | 3:35 |
 | 5 | [Elastrik](https://open.spotify.com/track/4YMWv3XtU6qjdUmrvrw9OI) | [Gaiser](https://open.spotify.com/artist/0zNtdoyO2ZA7hhYMNLh48Y) | [Some Slip](https://open.spotify.com/album/6dUopkCPdpDZoUknLuQy0c) | 6:18 |
 | 6 | [A Black Man in Space \- Sax Mix](https://open.spotify.com/track/1Zwv3mD1RuF0Wcp8kAtyg6) | [Son Of Raw](https://open.spotify.com/artist/2pOhC26lLz9bmTRJKuymKe) | [A Black Man in Space](https://open.spotify.com/album/3dd7fWPJd9Xbj2Ahw9BKRp) | 7:28 |
 | 7 | [Mami \- SOSA Remix](https://open.spotify.com/track/3BelLDoNYxRWMJQ8fImu55) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI \(SOSA Remix\)](https://open.spotify.com/album/5sgZhu2akIrxRl5xB7iaom) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 99 | [Groove Dealer](https://open.spotify.com/track/15DbcMMMTNN9RmK50FmnmR) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Groove Dealer EP](https://open.spotify.com/album/51gGEMAk03iyIcxlvrFnmd) | 6:58 |
 | 100 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 |
 
-Snapshot ID: `MCw2ZjMzNzY1ZjliZjNiMmMwN2E5ZDY0NmQxOWE5YzlhODk1ZGNiZjk2`
+Snapshot ID: `MCwyODFiYmQ4ZGNjYTJiMWI5NDhhZTNhYTlmNDY5NWMyZDhiZTA2ODU3`

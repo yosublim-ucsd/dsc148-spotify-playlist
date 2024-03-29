@@ -3561,6 +3561,24 @@
     },
     {
       "album": {
+        "name": "Magnet",
+        "url": "https://open.spotify.com/album/3Qby5b5433xma3rFRsCapw"
+      },
+      "artists": [
+        {
+          "name": "Maaya Uchida",
+          "url": "https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198720,
+      "name": "Magnet",
+      "url": "https://open.spotify.com/track/3PPYJUWuuV3ezNaQsqWEYN"
+    },
+    {
+      "album": {
         "name": "Maihime / Around and Around",
         "url": "https://open.spotify.com/album/50w6AeGNRJxIeq9pouT0oY"
       },

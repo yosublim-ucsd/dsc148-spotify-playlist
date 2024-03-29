@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 153901,
+  "2024-03-29": 154232,
   "date_first_scraped": "2022-05-11",
   "description": "The state of shoegaze. Gazing at pedals, soaring celestially high. Cover: Wisp",
   "name": "Shoegaze Now",
@@ -1051,7 +1051,7 @@
     {
       "album": {
         "name": "anything else",
-        "url": "https://open.spotify.com/album/3XxhfN0qjvOg9Q6LPIC1Fg"
+        "url": "https://open.spotify.com/album/7i9BS4uTVcB8Noibnwssjm"
       },
       "artists": [
         {
@@ -1062,6 +1062,24 @@
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 206680,
+      "name": "between",
+      "url": "https://open.spotify.com/track/1CrEJ3qMtljP0562ry3Ucz"
+    },
+    {
+      "album": {
+        "name": "anything else",
+        "url": "https://open.spotify.com/album/3XxhfN0qjvOg9Q6LPIC1Fg"
+      },
+      "artists": [
+        {
+          "name": "Kraus",
+          "url": "https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-28",
       "duration_ms": 206680,
       "name": "between",
       "url": "https://open.spotify.com/track/4R6KQd4LPht1GQauuZACcM"

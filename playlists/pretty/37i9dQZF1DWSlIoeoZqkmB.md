@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlIoeoZqkmB.md) - [plain]
 
 > 2024年5月11日\(土\)＆12日\(日\)Kアリーナ横浜にて開催される「<a href="https://kingsuperlive.jp/">KING SUPER LIVE2024</a>」公式プレイリスト予習編！
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124 likes - 39 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,131 likes - 39 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlIoeoZqkmB.md) - [plain]
 | 38 | [KING SUPER LIVE 2024　RISE（Extreme Hearts）葉山陽和役・野口瑠璃子　スペシャルメッセージ！](https://open.spotify.com/track/6PXtQia2OqJtH2H9N03YG1) | [RISE（Extreme Hearts）葉山陽和役　野口瑠璃子](https://open.spotify.com/artist/6hhlKgWCQeLPXZgcdvQ6Bi) | [KING SUPER LIVE 2024　RISE（Extreme Hearts）葉山陽和役・野口瑠璃子　スペシャルメッセージ！](https://open.spotify.com/album/3xeWasd9ESalVLqht4r1L0) | 1:43 |
 | 39 | [SUNRISE\(ver.RISE\)](https://open.spotify.com/track/1W9CD10txny7JOhZoyrUJ3) | [RISE\(葉山陽和\(CV.野口瑠璃子\)](https://open.spotify.com/artist/6VJ01ToSd28Lr9NcsdP0dU), [小鷹咲希\(CV.岡咲美保\)](https://open.spotify.com/artist/6V2ZGs5KhUWjl6d1aAYDde), [前原純華\(CV.優木かな\)](https://open.spotify.com/artist/5BWX5JNIdKaCXuiHDH1l8b), [橘 雪乃\(CV.福原綾香\)](https://open.spotify.com/artist/5cvEB9jDl8ILH5GKPefBwX), [小日向理瀬\(CV.小澤亜李\)\)](https://open.spotify.com/artist/7yRuqeYigTvl5ejYnYZSSn) | [SUNRISE\(ver.RISE\)](https://open.spotify.com/album/7KXacsct0862UliD8sOIPl) | 4:56 |
 
-Snapshot ID: `MCxhMzY1YTZlNzg3M2JmOTcxYmM4YzI1N2NkYWQwNTgyMWE0MDNhNDUy`
+Snapshot ID: `MCxmODdkNjc2OTE2ZjU3MjcwNzUwM2EzYTEwMDY4OTZkZmM4ODczMjY3`

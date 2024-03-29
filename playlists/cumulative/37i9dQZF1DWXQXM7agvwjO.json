@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. cover: ena mori (Philippines)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. cover: BANK (Indonesia)",
   "name": ".ORG",
   "tracks": [
     {
@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 212321,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/3yTGAK7FrfENOOIqz8hetj"
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 226843,
       "name": "Around the Corner",
       "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
@@ -2250,6 +2250,24 @@
       "duration_ms": 181052,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/00v0tTZNJYfXZzINHWQcvN"
+    },
+    {
+      "album": {
+        "name": "Bite you",
+        "url": "https://open.spotify.com/album/7p1zPjZwJJA9sYTqw7lmpm"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182815,
+      "name": "Bite you",
+      "url": "https://open.spotify.com/track/0HQY3oa2908qhJwIPtiYHE"
     },
     {
       "album": {
@@ -3276,7 +3294,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 236965,
       "name": "Chaos Calls",
       "url": "https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX"
@@ -5860,7 +5878,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 199662,
       "name": "FAKE MOON",
       "url": "https://open.spotify.com/track/44O74u3HNTWVEebEGLAoOk"
@@ -5896,7 +5914,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 183104,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4KX40h6wiFJO8akB69e6ww"
@@ -5944,6 +5962,24 @@
       "duration_ms": 221550,
       "name": "Faltu Pyar",
       "url": "https://open.spotify.com/track/1yFryDjhXXIIaJA1dKqrab"
+    },
+    {
+      "album": {
+        "name": "Fana",
+        "url": "https://open.spotify.com/album/4hvZXIyD1dcy1EAr5G6CcS"
+      },
+      "artists": [
+        {
+          "name": "Bank",
+          "url": "https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254015,
+      "name": "Fana",
+      "url": "https://open.spotify.com/track/26s9aTmkOYRzSAQfNOFJkD"
     },
     {
       "album": {
@@ -6970,7 +7006,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 202500,
       "name": "Girl, let's dance",
       "url": "https://open.spotify.com/track/5nywwZ634HioYXawXsujaZ"
@@ -7772,7 +7808,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 233640,
       "name": "His Way",
       "url": "https://open.spotify.com/track/4WWeTzsyYWKlMMyHJtKlya"
@@ -9242,7 +9278,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 167000,
       "name": "In Love",
       "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
@@ -11169,6 +11205,24 @@
     },
     {
       "album": {
+        "name": "Loves Hates Loves",
+        "url": "https://open.spotify.com/album/2YlmaTrBUXKPZfz9MvKfUE"
+      },
+      "artists": [
+        {
+          "name": "Girl and Her Bad Mood",
+          "url": "https://open.spotify.com/artist/6OrXXlULRd9rXVeFIzLbFr"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184315,
+      "name": "Loves Hates Loves",
+      "url": "https://open.spotify.com/track/43PIMXRQK8LD8rVPZHm1m6"
+    },
+    {
+      "album": {
         "name": "Loveyou!",
         "url": "https://open.spotify.com/album/51nE6CxDXoAo9GeGSsC6Qa"
       },
@@ -11394,7 +11448,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 173452,
       "name": "Make My Day",
       "url": "https://open.spotify.com/track/0szJsvxiqEDeffWCKSRs0w"
@@ -11437,6 +11491,24 @@
     },
     {
       "album": {
+        "name": "blank",
+        "url": "https://open.spotify.com/album/0EJiS68X3eMoUx5bggiPLc"
+      },
+      "artists": [
+        {
+          "name": "babychair",
+          "url": "https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216098,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/7plWPKFiIFsLylrUGjQLK9"
+    },
+    {
+      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/6e8C1Rjpj52RjDVVblWkcD"
       },
@@ -11456,6 +11528,24 @@
       "duration_ms": 159910,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/2vwExhH3TLXR33fDKHbqKf"
+    },
+    {
+      "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/2yIKE7vkAxLWkdFKovD8R6"
+      },
+      "artists": [
+        {
+          "name": "Luby Sparks",
+          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227980,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/5hxUOg5wlXt8JNGlcC6heR"
     },
     {
       "album": {
@@ -11564,7 +11654,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 221490,
       "name": "maybe",
       "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
@@ -12480,7 +12570,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 159617,
       "name": "My Dear",
       "url": "https://open.spotify.com/track/38dyoMgDMotr4qX8qlL17j"
@@ -12872,7 +12962,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 263612,
       "name": "never again",
       "url": "https://open.spotify.com/track/5q8TU6abcmfC6VfmRnEGkF"
@@ -14087,6 +14177,24 @@
     },
     {
       "album": {
+        "name": "Perfection",
+        "url": "https://open.spotify.com/album/304gqm9oLjUSdzr6BsSYlR"
+      },
+      "artists": [
+        {
+          "name": "Turbokidz",
+          "url": "https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204616,
+      "name": "Perfection",
+      "url": "https://open.spotify.com/track/2m2cnm4l2sDblgypxPurxz"
+    },
+    {
+      "album": {
         "name": "Nightvision (Love Is God 13/16 Edition)",
         "url": "https://open.spotify.com/album/4MhBkAPrf0TSioJv7b2Re1"
       },
@@ -14414,6 +14522,24 @@
       "duration_ms": 145333,
       "name": "Precious",
       "url": "https://open.spotify.com/track/12UXsRRYiWscqQWp4oV53F"
+    },
+    {
+      "album": {
+        "name": "Pretend",
+        "url": "https://open.spotify.com/album/06QUCNgUMQuniwmCmlQtya"
+      },
+      "artists": [
+        {
+          "name": "Sake by the Water",
+          "url": "https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/5FrRc247Vd0xAZpIw0wNyH"
     },
     {
       "album": {
@@ -15513,6 +15639,24 @@
     },
     {
       "album": {
+        "name": "Second Gear",
+        "url": "https://open.spotify.com/album/21vErs9lrBQ3JRhwvXq5fI"
+      },
+      "artists": [
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186711,
+      "name": "Second Gear",
+      "url": "https://open.spotify.com/track/4rt9bnHdMk636bZk80yX4M"
+    },
+    {
+      "album": {
         "name": "Secret",
         "url": "https://open.spotify.com/album/0cAtpcytnB6u6whusgiH1Y"
       },
@@ -15658,6 +15802,28 @@
       "duration_ms": 183680,
       "name": "Sera",
       "url": "https://open.spotify.com/track/5fJyD0EG6uBxcExhUlYZZq"
+    },
+    {
+      "album": {
+        "name": "SEX TAPE",
+        "url": "https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        },
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255287,
+      "name": "SEX TAPE",
+      "url": "https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr"
     },
     {
       "album": {
@@ -16670,7 +16836,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 274238,
       "name": "stay away go!",
       "url": "https://open.spotify.com/track/40Ud4qavLWVlzy0oFgvo71"
@@ -17188,6 +17354,24 @@
       "duration_ms": 180326,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/3UlUNQIwYz8o2IPkcnksjp"
+    },
+    {
+      "album": {
+        "name": "Sunday Song",
+        "url": "https://open.spotify.com/album/3QuIuCr8XwSA5xjqG6CYlb"
+      },
+      "artists": [
+        {
+          "name": "Ricecooker",
+          "url": "https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210972,
+      "name": "Sunday Song",
+      "url": "https://open.spotify.com/track/1uJvtc4QPyockQgGuQxZ0r"
     },
     {
       "album": {
@@ -18452,7 +18636,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/2xW9Wlw6oKVCyzo9IhQaAh"
@@ -19460,7 +19644,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 187922,
       "name": "Wanna be my",
       "url": "https://open.spotify.com/track/2rXpdfLf7MJmFWU9eDK2tD"
@@ -19482,6 +19666,24 @@
       "duration_ms": 200933,
       "name": "Wanna Talk",
       "url": "https://open.spotify.com/track/0RA9MuqRHxpjYibbH9sJ1h"
+    },
+    {
+      "album": {
+        "name": "Wannabesad Song",
+        "url": "https://open.spotify.com/album/7GPhrj2rvTB4wwqLX8UnzQ"
+      },
+      "artists": [
+        {
+          "name": "Door Plant",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185368,
+      "name": "Wannabesad Song",
+      "url": "https://open.spotify.com/track/4yqxny2mF54hWTaYaixHt3"
     },
     {
       "album": {
@@ -20042,6 +20244,24 @@
       "duration_ms": 228560,
       "name": "Whatchu Gonna...?",
       "url": "https://open.spotify.com/track/7x4mAxUxBwcHd0VpMOnKsV"
+    },
+    {
+      "album": {
+        "name": "whatis<3?",
+        "url": "https://open.spotify.com/album/4U0HyRNG9NCCq4vCaZxCbJ"
+      },
+      "artists": [
+        {
+          "name": "Chefwest",
+          "url": "https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "whatis<3?",
+      "url": "https://open.spotify.com/track/6fQTD5r77ZujlMXsC0Jyht"
     },
     {
       "album": {
@@ -21507,6 +21727,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e15\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21 (Changed)",
+        "url": "https://open.spotify.com/album/6k0Frmgoclu4EIJnLlP9vQ"
+      },
+      "artists": [
+        {
+          "name": "AYLA's",
+          "url": "https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e15\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21 (Changed)",
+      "url": "https://open.spotify.com/track/69nkOVHSHgN2AyZRXHfAeD"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e1b\u0e25\u0e48\u0e32\u0e40\u0e25\u0e22 (\u306a\u3093\u306b\u3082)",
         "url": "https://open.spotify.com/album/452kf0oED6IcdUW6bD7yF9"
       },
@@ -22746,7 +22984,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 251254,
       "name": "\u7425\u73c0",
       "url": "https://open.spotify.com/track/2cyLtPHD0SwHjYJGvD7z2V"

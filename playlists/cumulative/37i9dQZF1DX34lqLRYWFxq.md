@@ -4,7 +4,7 @@
 
 > Your weekly rock update\. Cover: JJ Wilde
 
-972 songs - 2 day 5 hr 53 min
+973 songs - 2 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,8 @@
 | [Home Haircut](https://open.spotify.com/track/7141NXqWJ8HaO406GMcozw) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost \(10 Year Anniversary Edition\)](https://open.spotify.com/album/5TOhNGKg7g4jiVcWYvI7JQ) | 3:43 | 2023-12-15 | 2024-01-27 |
 | [Home Where](https://open.spotify.com/track/3GRAyz3IthDwutYpdeicDa) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Home Where](https://open.spotify.com/album/5M6KfuWFJdMO7bZkxF58gL) | 2:56 | 2023-11-03 | 2024-01-06 |
 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2023-09-01 | 2023-10-07 |
-| [honey, i'm home](https://open.spotify.com/track/5kSmEV24v9UDWXMO2NZdIG) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [honey i'm home](https://open.spotify.com/album/0SQs9fGTyqCxiw5mgrR7bZ) | 2:30 | 2024-03-08 |  |
+| [honey, i'm home](https://open.spotify.com/track/0PCCllluNN8eMSc7No98Jt) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [the life and death of a dog](https://open.spotify.com/album/3zzzsk0VzmLORaVtENlOHY) | 2:30 | 2024-03-22 |  |
+| [honey, i'm home](https://open.spotify.com/track/5kSmEV24v9UDWXMO2NZdIG) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [honey i'm home](https://open.spotify.com/album/0SQs9fGTyqCxiw5mgrR7bZ) | 2:30 | 2024-03-08 | 2024-03-29 |
 | [Hope is a Dangerous Little Thing](https://open.spotify.com/track/089lW2lTDsHUDsNlzim7Qc) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Some Of It Was True](https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ) | 3:12 | 2023-10-20 | 2023-12-09 |
 | [Hope is a Dangerous Little Thing](https://open.spotify.com/track/5AXCGDpDg4rOdf3xg2Y939) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Hope is a Dangerous Little Thing](https://open.spotify.com/album/13JTf9C01ApbfehYZoc7lX) | 3:12 | 2023-10-13 | 2023-10-22 |
 | [hostage](https://open.spotify.com/track/4NK5e074Va0Iy5kou2PbmY) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [hostage](https://open.spotify.com/album/3ZYIsv7e4991HN4dsKO7Hc) | 2:43 | 2024-01-19 | 2024-03-02 |

@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 428659,
+  "num_followers": 428742,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjcwYTEwZjZjOThiZjljNjkzNjNmMDhhNWRjNWQ1MDExMThiZDZl",
+  "snapshot_id": "MCwyMDA5YzE3MjNjNTdkNTUxODRjNmVlNWIyY2YwMGRiN2JlOTBhM2Uz",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Deceiver",
-        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Taker",
-      "url": "https://open.spotify.com/track/1RlstRnDWwqLhOWtL16Iqy"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Deep Divine",
         "url": "https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 239519,
       "name": "Undress",
       "url": "https://open.spotify.com/track/3vHTp0PSVjgnqocdLHCk19"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Deceiver",
+        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Taker",
+      "url": "https://open.spotify.com/track/1RlstRnDWwqLhOWtL16Iqy"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Sleeping In Your Garden",
-        "url": "https://open.spotify.com/album/2am9dGCCUrwCw1DOX4wiXX"
-      },
-      "artists": [
-        {
-          "name": "Gia Ford",
-          "url": "https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX"
-        }
-      ],
-      "duration_ms": 204029,
-      "name": "Sleeping In Your Garden",
-      "url": "https://open.spotify.com/track/1eG48OpdY0FRJcDlBwqzRi"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "The Waves Pt. 1",
         "url": "https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 262040,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Sleeping In Your Garden",
+        "url": "https://open.spotify.com/album/2am9dGCCUrwCw1DOX4wiXX"
+      },
+      "artists": [
+        {
+          "name": "Gia Ford",
+          "url": "https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX"
+        }
+      ],
+      "duration_ms": 204029,
+      "name": "Sleeping In Your Garden",
+      "url": "https://open.spotify.com/track/1eG48OpdY0FRJcDlBwqzRi"
     },
     {
       "added_at": "2023-11-03 23:08:22",

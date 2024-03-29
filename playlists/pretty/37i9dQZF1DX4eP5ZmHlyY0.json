@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTIwOGQ5YzlkMDAyYjFiMGQxYTJmODBhODYyZDdhYmIzZDcwZjc5",
+  "snapshot_id": "MCw3MmQ1ZGRmMjYzMjM4Yjk2MWRjYWVjMzUwYWY0ZTIwNDljNjY5YWY3",
   "tracks": [
     {
       "added_at": "2024-03-26 17:50:13",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-03-26 17:50:13",
       "album": {
-        "name": "Glorious",
-        "url": "https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa"
+        "name": "T.G.I. Friday Night",
+        "url": "https://open.spotify.com/album/6r5guvSqZvKWNlSNtyJqRT"
       },
       "artists": [
         {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+          "name": "Travis Japan",
+          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
         }
       ],
-      "duration_ms": 281426,
-      "name": "Glorious",
-      "url": "https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE"
+      "duration_ms": 215233,
+      "name": "T.G.I. Friday Night",
+      "url": "https://open.spotify.com/track/6ZDtOm65oJeSWTigzZjMdI"
     },
     {
       "added_at": "2024-03-26 17:50:13",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-03-26 17:50:13",
       "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "duration_ms": 281426,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE"
+    },
+    {
+      "added_at": "2024-03-26 17:50:13",
+      "album": {
         "name": "THE SOUND",
         "url": "https://open.spotify.com/album/6MZOLMj926Ee5L8SzFFeEE"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 180733,
       "name": "THE SOUND",
       "url": "https://open.spotify.com/track/0q8bRAh9BktYFcsFfXOOWI"
-    },
-    {
-      "added_at": "2024-03-26 17:50:13",
-      "album": {
-        "name": "T.G.I. Friday Night",
-        "url": "https://open.spotify.com/album/6r5guvSqZvKWNlSNtyJqRT"
-      },
-      "artists": [
-        {
-          "name": "Travis Japan",
-          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
-        }
-      ],
-      "duration_ms": 215233,
-      "name": "T.G.I. Friday Night",
-      "url": "https://open.spotify.com/track/6ZDtOm65oJeSWTigzZjMdI"
     },
     {
       "added_at": "2024-03-26 17:50:13",

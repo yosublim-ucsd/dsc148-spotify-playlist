@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : St Graal",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Luther",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -327,7 +327,7 @@
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 314091,
+      "duration_ms": 313120,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/0EmKhO8Mnd4o4ErUfFDPdC"
     },
@@ -528,6 +528,24 @@
       "duration_ms": 181666,
       "name": "Cl0ckW0rk",
       "url": "https://open.spotify.com/track/5w8XK7wdcdsIp76zLtc3aR"
+    },
+    {
+      "album": {
+        "name": "Clairi\u00e8re",
+        "url": "https://open.spotify.com/album/089lVl2UqcXFCc6Xy87WCP"
+      },
+      "artists": [
+        {
+          "name": "VISCERAL",
+          "url": "https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169333,
+      "name": "Clairi\u00e8re",
+      "url": "https://open.spotify.com/track/2oMkFzQlvWaJBYjJPcHiMU"
     },
     {
       "album": {
@@ -985,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "J'ai plus peur",
+        "url": "https://open.spotify.com/album/1epUOG9NbeV7YydZYFmV7p"
+      },
+      "artists": [
+        {
+          "name": "TERRIER",
+          "url": "https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192289,
+      "name": "J'ai plus peur",
+      "url": "https://open.spotify.com/track/23A5YxiaHkz2pT7KOesZBN"
+    },
+    {
+      "album": {
         "name": "Adulescent Fluorescent",
         "url": "https://open.spotify.com/album/7CN4CQaAH8OlV2vEFGNXhf"
       },
@@ -1299,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "Le saut du tigre",
+        "url": "https://open.spotify.com/album/66OhazmOAiQAUw4kJ3R7GN"
+      },
+      "artists": [
+        {
+          "name": "Aquaserge",
+          "url": "https://open.spotify.com/artist/1XOKresOiQtBmduOEskf4s"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190374,
+      "name": "Le saut du tigre",
+      "url": "https://open.spotify.com/track/2HWc8pXCVL3D3INJshlyYp"
+    },
+    {
+      "album": {
         "name": "Le soleil",
         "url": "https://open.spotify.com/album/6YLBbcCJyHaH8XhQOYr3R8"
       },
@@ -1418,7 +1472,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 171765,
       "name": "Mauvais Gar\u00e7on",
       "url": "https://open.spotify.com/track/0b9cs1WibgvzNh6zIaljzw"
@@ -1512,7 +1566,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 194600,
       "name": "My Way (with Creams)",
       "url": "https://open.spotify.com/track/5WvApuKcoXZL1FinExKsRq"
@@ -1530,7 +1584,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 174040,
       "name": "M\u00c9TA DEUIL",
       "url": "https://open.spotify.com/track/0NyCKpKgai5U3iU5MazIld"
@@ -1897,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "Revoir le monde",
+        "url": "https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk"
+      },
+      "artists": [
+        {
+          "name": "Michelle & Les Gar\u00e7ons",
+          "url": "https://open.spotify.com/artist/4pkiINtgqRjnKwflzhlH2z"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168680,
+      "name": "Revoir le monde",
+      "url": "https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN"
+    },
+    {
+      "album": {
         "name": "Rock 2000",
         "url": "https://open.spotify.com/album/2d8zNgpsZsTPZ17rKM2NWV"
       },
@@ -2186,7 +2258,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 244626,
       "name": "STUPID CUNT IN THE MALL",
       "url": "https://open.spotify.com/track/2Up0DUfJRoRkA7ynD50Xtl"

@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: Zerb, Sofiya Nzau
 
-203 songs - 13 hr 34 min
+204 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [7 Seconds](https://open.spotify.com/track/5jcwno0cS1H268LWyYpof1) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl), [Pape Diouf](https://open.spotify.com/artist/0aAH5CDDcmMd1vFReOPxeA) | [7 Seconds](https://open.spotify.com/album/4cjJ5asufFmCnTM5ALAlFt) | 5:15 | 2024-01-19 |  |
 | [7elm B3eed](https://open.spotify.com/track/4t3BgID893bIAXxcCdux4y) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [7elm B3eed](https://open.spotify.com/album/5itc02N01J4NlNf6NNxzSH) | 5:16 | 2022-03-30 | 2022-11-26 |
 | [Abu Simbel](https://open.spotify.com/track/1Y3yJHrBkkfj3GZKv1MVhF) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Abu Simbel](https://open.spotify.com/album/3HVXzuVnuaWJyflpsF8MWj) | 3:46 | 2023-06-23 | 2023-08-17 |
+| [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 | 2024-03-29 |  |
 | [Ahla El Nas](https://open.spotify.com/track/0c2nyNf2jerD605LfOCqE6) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Mn Alby Baghani](https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7) | 4:45 | 2022-03-30 | 2022-08-23 |
 | [Ahwak \(Deeper Remix\)](https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Ahwak \(Deeper Remix\)](https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90) | 5:00 | 2023-08-16 |  |
 | [Akhedni Maak](https://open.spotify.com/track/1Z08bNXzoSDyzyIp8Sf3Pj) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Akhedni Maak](https://open.spotify.com/album/0ao8ZKXGvdzrvT0MoLM5em) | 2:35 | 2022-03-30 | 2023-11-17 |
@@ -123,7 +124,7 @@
 | [Malha](https://open.spotify.com/track/7CbQfLg4og45pK84irlEd7) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP), [Douae El Rhiouane](https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki) | [Malha](https://open.spotify.com/album/14CyRqR7av8LvM8OfyaBMa) | 4:29 | 2022-03-30 | 2023-06-24 |
 | [Marrakech](https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Kun](https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D) | 5:14 | 2022-03-30 | 2022-08-23 |
 | [Matwasouneesh](https://open.spotify.com/track/6s3phzT9lHW1viznchr3lu) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [Matwasouneesh](https://open.spotify.com/album/1kfpSqYp8c4zttZGgExC8z) | 4:42 | 2022-03-30 | 2022-08-23 |
-| [Mawal](https://open.spotify.com/track/13yJKMCV044A6WDfNQnL1K) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Mawal](https://open.spotify.com/album/5PWaUTA0ezATBmK2AnNJbe) | 2:49 | 2023-06-24 |  |
+| [Mawal](https://open.spotify.com/track/13yJKMCV044A6WDfNQnL1K) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Mawal](https://open.spotify.com/album/5PWaUTA0ezATBmK2AnNJbe) | 2:49 | 2023-06-24 | 2024-03-29 |
 | [Mawjou3 Galbi](https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [Najwa Farouk](https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq) | [Mawjou3 Galbi](https://open.spotify.com/album/450bx2egvP32rGdLekadr0) | 3:18 | 2022-03-30 | 2023-06-24 |
 | [Mbarka](https://open.spotify.com/track/1Nb3n0i8SkrdHJmFZ8UvYo) | [Ismailovic](https://open.spotify.com/artist/7eafY5MVTDx6MZCKNRvkt8) | [Mbarka](https://open.spotify.com/album/0NDIU1tmuW2N794nt3yEBd) | 6:15 | 2023-09-13 | 2023-10-07 |
 | [Mbarka \- Original Mix](https://open.spotify.com/track/55uwSianyiBX7CAwPY5Jnf) | [Ismailovic](https://open.spotify.com/artist/4RB42AM4VqzdHRQiVbzDU1), [M.Ali](https://open.spotify.com/artist/2h1ioVI51vRKxXyhrCs6et) | [Mbarka \(Original Mix\)](https://open.spotify.com/album/0Dh2vSHSdz59MyhTt5Zuox) | 6:15 | 2023-08-04 | 2023-09-29 |

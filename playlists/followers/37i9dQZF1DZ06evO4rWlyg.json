@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 132107,
+  "2024-03-29": 132141,
   "date_first_scraped": "2023-11-11",
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
   "name": "This Is Bj\u00f6rk",
@@ -2075,7 +2075,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 160200,
       "name": "Sun In My Mouth",
       "url": "https://open.spotify.com/track/4mhuw0kAHPdZeidq1UIAQP"
@@ -2137,6 +2137,24 @@
       "duration_ms": 244213,
       "name": "Triumph Of A Heart",
       "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
+    },
+    {
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338400,
+      "name": "Undo",
+      "url": "https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI"
     },
     {
       "album": {

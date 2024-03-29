@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 537509,
+  "2024-03-29": 537539,
   "date_first_scraped": "2022-01-01",
   "description": "The biggest hits in country music. Cover: Zach Bryan & Kacey Musgraves",
   "name": "All About Country",
@@ -7650,17 +7650,17 @@
     },
     {
       "album": {
-        "name": "HIXTAPE Vol. 3: DIFFTAPE (Small Batch)",
+        "name": "HIXTAPE: Vol 3: DIFFTAPE (Small Batch)",
         "url": "https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy"
       },
       "artists": [
         {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
           "name": "Joe Diffie",
           "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        },
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
         },
         {
           "name": "Post Malone",
@@ -7671,7 +7671,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 216194,
-      "name": "Pickup Man (feat. Post Malone)",
+      "name": "Pickup Man",
       "url": "https://open.spotify.com/track/4MXqpnu9lAqqkjSHVlBVoZ"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 542050,
+  "2024-03-29": 542135,
   "date_first_scraped": "2023-11-11",
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
   "name": "This Is Santa Fe Klan",
@@ -371,7 +371,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 165000,
       "name": "El \u00c1ngel Que Te Cuida",
       "url": "https://open.spotify.com/track/2Biy7WyvcK7PWHtv6H23Ms"
@@ -1113,6 +1113,28 @@
       "duration_ms": 266866,
       "name": "Prohibida",
       "url": "https://open.spotify.com/track/5UewY28SGGLjJkNPtcV2Mt"
+    },
+    {
+      "album": {
+        "name": "Estilo Fino",
+        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "R8",
+      "url": "https://open.spotify.com/track/3a7qCKAsriTv30qXsh2zV9"
     },
     {
       "album": {

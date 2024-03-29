@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-299 songs - 1 day 0 hr 25 min
+300 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [In You](https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [In You](https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY) | 6:13 | 2024-02-09 |  |
 | [Inertia](https://open.spotify.com/track/6kcysA1uaHhFBv9vu1Lt3f) | [GRRL](https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg), [Made of Oak](https://open.spotify.com/artist/6dWVt38ueCw46cGnWDbTl8) | [Inertia](https://open.spotify.com/album/4iM8Xi48cQyUyizWfoGb1I) | 3:32 | 2022-07-08 | 2022-07-29 |
 | [Into The Hood](https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG) | [Into The Hood](https://open.spotify.com/album/2wlhcGHzVyQD3LksH4wSOp) | 6:02 | 2023-06-30 | 2023-11-12 |
+| [It's Alright](https://open.spotify.com/track/05p0F0sC8Ym7BZKG79hTKK) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Focus \- EP](https://open.spotify.com/album/42xO3MNl7t5rdhSBoqiC79) | 5:47 | 2024-03-22 |  |
 | [Its Time to Move](https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Its Time to Move](https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya) | 2:42 | 2023-09-22 |  |
 | [Jump In](https://open.spotify.com/track/7KPM73DEawK8fsogmx87HX) | [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [Jump In](https://open.spotify.com/album/07BxOVzzyMBEkff8GEczSG) | 2:46 | 2024-02-02 | 2024-03-13 |
 | [Jump Ship](https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp) | 6:21 | 2022-06-03 | 2023-10-15 |
@@ -216,7 +217,7 @@
 | [Scrap](https://open.spotify.com/track/3PjcHWlpdtwQzut2MtXDZ4) | [Jump Source](https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc), [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [JS04](https://open.spotify.com/album/2SMTDzqLo6MAThic9FnCrL) | 5:46 | 2024-03-01 |  |
 | [Sete \- Carlita Remix](https://open.spotify.com/track/5jhpcEksB86jVuf71FRXHS) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Sete \(Carlita Remix\)](https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh) | 3:42 | 2023-03-03 |  |
 | [Sete \- Carlita Remix](https://open.spotify.com/track/1N3bxA8qfSfaaPnsG3PGe0) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete \(Carlita Remix\)](https://open.spotify.com/album/4SMYDx604fGDZsaRuMznWb) | 3:42 | 2022-09-16 | 2023-02-26 |
-| [Shake It](https://open.spotify.com/track/72Ri6rmuWUuf10a3Vg6v2X) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma), [The Saunderson Brothers](https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR) | [Shake It](https://open.spotify.com/album/0Bg7QNJQrlWzyXIKuOoV3h) | 3:09 | 2024-02-09 |  |
+| [Shake It](https://open.spotify.com/track/72Ri6rmuWUuf10a3Vg6v2X) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma), [The Saunderson Brothers](https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR) | [Shake It](https://open.spotify.com/album/0Bg7QNJQrlWzyXIKuOoV3h) | 3:09 | 2024-02-09 | 2024-03-29 |
 | [Shoot the Shot](https://open.spotify.com/track/6LEd9JLKmViufFYI0JfLDL) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Shoot the Shot](https://open.spotify.com/album/4zD4CujteqFDt6lpVrTPmT) | 5:59 | 2023-04-07 | 2023-05-24 |
 | [Sin City](https://open.spotify.com/track/2rdMlVRtuImJXZhUHQjjj9) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Miami MMW](https://open.spotify.com/album/7oNOJ2vYMskdtGToAqloUs) | 5:58 | 2022-06-10 | 2022-07-29 |
 | [Single Kiss](https://open.spotify.com/track/1mSQFLT4CEEdJdtby96FUL) | [Salomé Le Chat](https://open.spotify.com/artist/1ClOAC5th0n8BGUD22KpIV) | [Single Kiss](https://open.spotify.com/album/4la24fDXi6Mvc0HMmHijhf) | 3:52 | 2023-11-24 |  |

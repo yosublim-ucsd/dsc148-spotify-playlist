@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > driving in a convertible to Remi's new song / pulling over for a cry to Adrianne's
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,362 likes - 108 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,462 likes - 108 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 107 | [All Night](https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [All Night](https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t) | 3:15 |
 | 108 | [Hater's Anthem](https://open.spotify.com/track/6zNDaCnyrI3uUuvYqLpnAO) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Hater's Anthem](https://open.spotify.com/album/55cVPdr31Rh54Oq2HX0c4x) | 2:51 |
 
-Snapshot ID: `MCxjMGI4NDQzYmIxNTdkNjdmZDRkZTNhNmUxYzlhZmQwOTc5MzkxMzQ4`
+Snapshot ID: `MCw4OGQwMWE1OTQzZGI3ODg2NWU3MzdjN2Y1NTExOGNhM2Q3MTY4MmQ1`

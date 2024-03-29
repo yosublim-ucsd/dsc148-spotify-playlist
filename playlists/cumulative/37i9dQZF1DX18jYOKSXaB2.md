@@ -4,11 +4,11 @@
 
 > consider this an RSVP to littest wedding parties
 
-102 songs - 5 hr 20 min
+103 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [14:02](https://open.spotify.com/track/0rIDiFRgtsNB81roHxRPx6) | [Kholi](https://open.spotify.com/artist/2XPwSOeBvqlG5J5qFl4Eze) | [14:02](https://open.spotify.com/album/3NAOgVCijgJpyauvqHis0a) | 3:12 | 2024-02-09 |  |
+| [14:02](https://open.spotify.com/track/0rIDiFRgtsNB81roHxRPx6) | [Kholi](https://open.spotify.com/artist/2XPwSOeBvqlG5J5qFl4Eze) | [14:02](https://open.spotify.com/album/3NAOgVCijgJpyauvqHis0a) | 3:12 | 2024-02-09 | 2024-03-29 |
 | [Abena](https://open.spotify.com/track/4lICAx8Aqp6rRV2jfklUYu) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:04 | 2022-02-11 | 2022-09-02 |
 | [Adiepena](https://open.spotify.com/track/4wIhfF7Vfuku8za0g1sZge) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Sugar](https://open.spotify.com/album/4kVDoG1DZEIyLsULmAosQX) | 3:15 | 2022-02-11 | 2023-03-25 |
 | [Ahoufe](https://open.spotify.com/track/4XU0t33ITYzP8D0YroWBRV) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [Ahoufe](https://open.spotify.com/album/6eYHMWlLzFeUZChXI7raVY) | 2:58 | 2023-08-11 | 2024-02-03 |
@@ -110,5 +110,6 @@
 | [woman](https://open.spotify.com/track/1IU8Sx9ZEKa3tuowb8R3ut) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/673wWns8iuEBeBLRAQU68A) | 2:48 | 2022-05-19 | 2022-11-13 |
 | [woman](https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:48 | 2022-05-19 |  |
 | [World In My Hands](https://open.spotify.com/track/5bYIDjsBb5mjKQdNfFj0fJ) | [LAVI$H](https://open.spotify.com/artist/0bW7J4hzno0eMC5TFZfDou) | [World In My Hands](https://open.spotify.com/album/7mQHiL0qIDYoHqUiBQ5ImB) | 3:18 | 2022-08-18 | 2022-09-02 |
+| [Ụwa](https://open.spotify.com/track/1kUzzhUpK7SbcJSaby03OD) | [Ugoccie](https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN), [Umu Obiligbo](https://open.spotify.com/artist/2d3JopSFur0Ywm6KQdkUeH) | [Voice of the East](https://open.spotify.com/album/6vf8dgYzchJ7Fk3ZIhWavR) | 2:53 | 2024-03-29 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

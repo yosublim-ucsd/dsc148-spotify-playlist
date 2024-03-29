@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Aashir Wajahat
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,869 likes - 84 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,872 likes - 84 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 33 | [Yaaden](https://open.spotify.com/track/0hTrRRWATfIHjJ9OSMlsDI) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [Hussain Ajani](https://open.spotify.com/artist/4TZi2SKhuNXEyRa7sOLa9H) | [Yaaden](https://open.spotify.com/album/7G26cHP8uiJb7Dy9B6llJA) | 2:38 |
 | 34 | [Yaadein Teri](https://open.spotify.com/track/15RnJMUkiOyDJwVjkCfgri) | [Mubeen Butt](https://open.spotify.com/artist/3V31XUiNbWuxPmFuZVCDmF) | [Yaadein Teri](https://open.spotify.com/album/1HFEZH0LEZnjjfatiYUvb8) | 4:04 |
 | 35 | [Dhanak](https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8) | 2:39 |
-| 36 | [Je Pata Hunda](https://open.spotify.com/track/4sv3qILxSdEtZUxXb9nu5d) | [Nimra Mehra](https://open.spotify.com/artist/54CllblgtvRRY3etlxRSq2) | [Je Pata Hunda](https://open.spotify.com/album/6eJTlkrbCTnJfoXJTdcLjc) | 2:50 |
+| 36 | [Je Pata Hunda](https://open.spotify.com/track/5zQKrGzbELLOzgOner0ejA) | [Nimra Mehra](https://open.spotify.com/artist/54CllblgtvRRY3etlxRSq2) | [Je Pata Hunda](https://open.spotify.com/album/2wWEbbhIzS3V1hajt19Tcg) | 2:50 |
 | 37 | [Teri Yaad](https://open.spotify.com/track/0dopnHIPsGFWZHk3ZNdWG5) | [Sanan Khalid](https://open.spotify.com/artist/0NDyAM1Wxd2yKhm5XAybTN), [Mubeen Butt](https://open.spotify.com/artist/3V31XUiNbWuxPmFuZVCDmF), [Jayyke](https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw) | [Teri Yaad](https://open.spotify.com/album/5RTUuUnkQDwdyIZHCMmR91) | 3:26 |
 | 38 | [Fida](https://open.spotify.com/track/7aYea105daJfoZQT88uMhR) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP) | [Fida](https://open.spotify.com/album/7b7Eiz2q9J6H9iQRmHRH18) | 3:02 |
 | 39 | [Zakhmi Seena](https://open.spotify.com/track/1JcV6mXCw6OIRdDhvZmDy6) | [Sarah Baig](https://open.spotify.com/artist/5A34YpQqReAFYBD1PafxaB) | [Zakhmi Seena](https://open.spotify.com/album/0tcXLvmVGlfscmOswlTiCH) | 3:47 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 83 | [Khushi](https://open.spotify.com/track/7uEFslk7REdahSCkcBlB4W) | [Arsalan Hasan](https://open.spotify.com/artist/1uyfPuXn3J7LMOYh39lLv2) | [Khushi](https://open.spotify.com/album/2zML24DAsHmf5pd0icMpy3) | 3:16 |
 | 84 | [Channa](https://open.spotify.com/track/6VuwpdZ0mA8x8CMAfuc7xr) | [Shany Haider](https://open.spotify.com/artist/0oNaaHupBSFSQHZPXiGICF) | [Channa](https://open.spotify.com/album/5rXwPdtt73hvH9xJof0Pbv) | 2:49 |
 
-Snapshot ID: `MCxhYzkzMWVlMjY0ZjdhNWI3MWMxOThjZjFiM2I2YzVlYTg2ZGFlODhi`
+Snapshot ID: `MCw4OGM0OTZmNGEyZTk3M2MwZjllZWU4NWM5MjE1ZmYwNDIzZGY5NGUy`

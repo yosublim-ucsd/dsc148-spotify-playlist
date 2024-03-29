@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Billy Choi, East City, Ki Chan, Fatty Tai
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  erdocia
 
-956 songs - 2 day 6 hr 9 min
+962 songs - 2 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [breathe](https://open.spotify.com/track/27zQHWADjPPzRwJLBaSmyQ) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [could you call me tonight?](https://open.spotify.com/album/0E4ALjSiina3AimCCQr9tg) | 3:24 | 2023-05-11 | 2023-09-01 |
 | [Broken Promise](https://open.spotify.com/track/4q8H4RpARg1R2CQYt4jukc) | [Tang.](https://open.spotify.com/artist/4Mfts7DF4fV8MgUJQIwVLx) | [Broken Promise](https://open.spotify.com/album/7oas2rVf2wUa6tur5mezAf) | 4:20 | 2022-05-26 | 2022-06-10 |
 | [Brown Liquor 2.0](https://open.spotify.com/track/3nNB3Ty4RH3gutOJOkBxEw) | [Wesley Jamison](https://open.spotify.com/artist/12GNxIR2n8u96v6Gyji4uy), [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A), [Tommy Grooves](https://open.spotify.com/artist/1FFfMlrZrpn9wDWMRmNKQi) | [Still Going Through It \(Deluxe\)](https://open.spotify.com/album/3MzruzLrsSNyr4r5JyXkrS) | 3:40 | 2022-08-04 | 2022-11-04 |
+| [Bubbly](https://open.spotify.com/track/0ZSecsVGKiK4sl5i79jUS0) | [Timfaye](https://open.spotify.com/artist/7nQa2cROizYQz5dNBypXNt) | [Bubbly](https://open.spotify.com/album/5k2QRno7BLBHN1iu2a2QZ4) | 3:19 | 2024-03-28 |  |
 | [Bump Chance](https://open.spotify.com/track/7s9kXjvE8tnNaAckDB7Qog) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [don't you go running off now](https://open.spotify.com/album/4sazwDC5NcUnWufKAVMlDR) | 3:03 | 2023-06-22 | 2023-11-03 |
 | [Bunker Song](https://open.spotify.com/track/6SmLKD0TYw99C9qQvBKhYt) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [Bunker Song](https://open.spotify.com/album/36Tug4vZn1tvyBvcszvrbf) | 5:22 | 2022-05-26 | 2022-06-10 |
 | [burn blister](https://open.spotify.com/track/6osnNgkB3IkVFYeeDJqi88) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [burn blister](https://open.spotify.com/album/2shLrT8Uep0RA7uDq2GxEY) | 3:09 | 2024-02-01 |  |
@@ -105,6 +106,7 @@
 | [CLOSURE.](https://open.spotify.com/track/2qejNLONLg5VtrFkCNTABb) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [CLOSURE.](https://open.spotify.com/album/3b8Qjk41F8wpiNGlMA1HiO) | 2:59 | 2023-05-04 | 2023-09-01 |
 | [Coastline](https://open.spotify.com/track/2Z66x9wDJt86pFAbXbPR6C) | [lwl.](https://open.spotify.com/artist/6PYHaynPn267y1UtD257V4) | [Coastline](https://open.spotify.com/album/6P1Gca2FGs2Z8zqdFxwkxV) | 4:20 | 2023-11-30 | 2024-02-16 |
 | [Coffee or tea](https://open.spotify.com/track/05dIejxjljs2szxWX3PKLV) | [AKIKO](https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ) | [Coffee or tea](https://open.spotify.com/album/5cYa0ENtyWPMnfCGEBXVje) | 2:32 | 2022-08-18 | 2023-02-03 |
+| [cold hands](https://open.spotify.com/track/5di3aBPDWVWOqWv8re4B9D) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX) | [cold hands](https://open.spotify.com/album/4JDyppzh6NsiPUOX56qb0E) | 4:51 | 2024-03-28 |  |
 | [Come Back To Me](https://open.spotify.com/track/3M3p5VOaMl2o9vgo0hweok) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [Come Back To Me](https://open.spotify.com/album/2fj9Ys2JNrWhEbWEQ8O5xX) | 3:20 | 2023-01-12 | 2023-05-26 |
 | [Come Out & Play](https://open.spotify.com/track/31Brs2Z8uq7QEfsx44o8r0) | [r.a.g.s.](https://open.spotify.com/artist/2BpkEwGtXVEr5xejFjXkdn), [julian.](https://open.spotify.com/artist/2OF4DfPj0RD76W3kUyfHNl) | [Come Out & Play](https://open.spotify.com/album/3ljFFhpoOUvTqpBeQ9FRAq) | 2:55 | 2024-01-25 |  |
 | [confidence](https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:25 | 2022-05-26 | 2022-07-29 |
@@ -436,6 +438,7 @@
 | [Pocket Ace](https://open.spotify.com/track/7EVzF5KAzsdPn1OkclaS2q) | [Novel Flash](https://open.spotify.com/artist/5XYIw1a2PQZH59E7h5XVwx), [Lay\-zG](https://open.spotify.com/artist/4NH6YkxBQW8mfgNLPwnzgE) | [Pocket Ace](https://open.spotify.com/album/5uAup8XzfMmZv3zji3gKeg) | 2:34 | 2023-11-16 | 2024-01-05 |
 | [poison ivy!](https://open.spotify.com/track/0YqCIpNWeKlQQ1XUvllmWr) | [Sake by the Water](https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ) | [poison ivy!](https://open.spotify.com/album/4UrbrGPvXxIfHXOA0P4Gjb) | 2:44 | 2024-01-11 |  |
 | [POP THAT SHIT](https://open.spotify.com/track/1UFVCU3yUSbTFpDGITkBs6) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1), [YINJ](https://open.spotify.com/artist/1lo7i3t2LzfZ4GED38acoK) | [POP THAT SHIT](https://open.spotify.com/album/0nTzfNhyvIKE7AybqRgfGt) | 2:23 | 2023-09-14 | 2023-12-01 |
+| [Pretend](https://open.spotify.com/track/5FrRc247Vd0xAZpIw0wNyH) | [Sake by the Water](https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ) | [Pretend](https://open.spotify.com/album/06QUCNgUMQuniwmCmlQtya) | 3:08 | 2024-03-28 |  |
 | [Pretending To Be Somebody Else](https://open.spotify.com/track/1xmCOkRdfGkGuOa0TLRD7d) | [TheTitle](https://open.spotify.com/artist/0lko9k40FRPGgYHS3srLXq) | [Pretending To Be Somebody Else](https://open.spotify.com/album/68UShtWizNHmHZE4r7MkgO) | 3:57 | 2023-05-25 | 2023-09-01 |
 | [pretty little thing](https://open.spotify.com/track/4t5z1bcLAZ1ZEUTlmt4Fd0) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [pretty little thing](https://open.spotify.com/album/2CX19aISe9sNqcyxtU56WU) | 3:32 | 2022-05-26 | 2022-06-10 |
 | [Priceless 無價](https://open.spotify.com/track/4KMKzIyYTNxiSVqsjkKCiY) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [Priceless 無價](https://open.spotify.com/album/1JTfSgo1NMsVuuPjwDMSR7) | 2:56 | 2023-02-02 | 2023-07-14 |
@@ -542,6 +545,7 @@
 | [The Island \- Night Version](https://open.spotify.com/track/6lDHh74XhmqpeLQxR7H0Gf) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [The Island](https://open.spotify.com/album/5OkCkb5ryHTLNxOQeduzAz) | 4:08 | 2022-09-15 | 2023-02-03 |
 | [The Last Time](https://open.spotify.com/track/732UTatg7YG7n43h0hiiuG) | [Midnight Wander](https://open.spotify.com/artist/16aA3k0WYzwW4vbxhIZUYe) | [The Last Time](https://open.spotify.com/album/3w9UnQ5XPxnkJ91HyAqJ4F) | 2:21 | 2024-01-05 |  |
 | [The Night](https://open.spotify.com/track/2OjYBLpax4gAZpcrlLF0rI) | [DEADHEIR](https://open.spotify.com/artist/3kUjUAQE2usKTo1Gt2MZBU) | [Tidalwave](https://open.spotify.com/album/4VAgZzba5bzKaLRail3YNK) | 3:01 | 2024-02-01 |  |
+| [The Risk of Driving](https://open.spotify.com/track/3H0LmVeF0URHGKLCu8v6RH) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [The Risk of Driving](https://open.spotify.com/album/0DSpzXiLBWhFm47l15ioX6) | 2:54 | 2024-03-28 |  |
 | [The Sea \(feat\. Peace Lo\)](https://open.spotify.com/track/7nDzjK7VTX20ZEK87DJt22) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC), [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [The Sea \(feat\. Peace Lo\)](https://open.spotify.com/album/3mXyrQE4KOxpmYsEoh0yBQ) | 2:24 | 2022-05-26 | 2022-07-29 |
 | [The Villain](https://open.spotify.com/track/6SPwG3tIxVJG9DffsfAnaS) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [She Is Joya](https://open.spotify.com/album/5U6XUeQKu9KJ3p5eTV1i65) | 2:23 | 2023-11-16 | 2024-01-05 |
 | [the world is coming to an end](https://open.spotify.com/track/04u0czCxTt1vRve8X8IuKb) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [the world is coming to an end](https://open.spotify.com/album/3YIpYfQ6CbfJT0eUunUwMP) | 3:55 | 2022-06-24 | 2022-09-09 |
@@ -599,6 +603,7 @@
 | [WHAT DID YOU SAY](https://open.spotify.com/track/4UQ7Ycg36lTG5OVqwSaszG) | [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [ULTRA UNTITLED](https://open.spotify.com/album/5zUuAOxJQyyICxgYfgh8MB) | 2:42 | 2023-05-18 | 2023-09-01 |
 | [what would you say to your lost self](https://open.spotify.com/track/07jgeBRRxIA2FICXUouW5v) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [DVRLENE](https://open.spotify.com/artist/1Rc0NV88mREBY1ZOP2lYq1) | [what would you say to your lost self](https://open.spotify.com/album/6qOGpqm3j0NzEhtHCJ9Law) | 2:50 | 2022-08-25 | 2022-11-04 |
 | [What You Want](https://open.spotify.com/track/6laWVq4vMUw4WCcfWycxdt) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [What You Want](https://open.spotify.com/album/2bNEli5cvYnjyXBRliqQv0) | 4:13 | 2024-02-22 |  |
+| [whatis<3?](https://open.spotify.com/track/6fQTD5r77ZujlMXsC0Jyht) | [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee) | [whatis<3?](https://open.spotify.com/album/4U0HyRNG9NCCq4vCaZxCbJ) | 2:22 | 2024-03-28 |  |
 | [When I Dream of Grapes Turning Blue](https://open.spotify.com/track/1kBZCCJpZGooNNALj2LcKt) | [So It Goes H.K](https://open.spotify.com/artist/20CPqsSBGSEECOrIakaBQT) | [Three](https://open.spotify.com/album/7vuIX2SrGXFpDAccHaFW8g) | 4:20 | 2022-06-16 | 2022-09-09 |
 | [when i think of you](https://open.spotify.com/track/0AvCI19l8HiGzDeJpLQeqx) | [TEANSH](https://open.spotify.com/artist/323Gqsf7KGFaRchopjSVDD) | [when i think of you](https://open.spotify.com/album/4Wuy8yZITKjUg5nJS7xitX) | 3:56 | 2024-02-15 |  |
 | [when the lights are out](https://open.spotify.com/track/2hMK2gJTcXQA1I0101FCsz) | [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR) | [slow walks to the movies](https://open.spotify.com/album/4C1WlzyM8JttiUJt537bxI) | 3:02 | 2022-05-26 | 2022-07-29 |
@@ -667,6 +672,7 @@
 | [人若海](https://open.spotify.com/track/3OkPxR6SOO8QKGS1brNmWN) | [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [人若海](https://open.spotify.com/album/0t5tBgasdVVPco3oTbhyJb) | 3:09 | 2023-12-14 | 2024-02-16 |
 | [今晚](https://open.spotify.com/track/0qN15f6cdC8fCY8tPkFCE8) | [老尷工作室](https://open.spotify.com/artist/262xGvvV3B1o5LeiexnPDp) | [今晚](https://open.spotify.com/album/51G1anUupDtWHAGIfT8MVc) | 4:19 | 2023-01-19 | 2023-05-26 |
 | [今晚好想好想打俾你 \- Band Version](https://open.spotify.com/track/77FKiP4vL0u00kzmmoZvIn) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [今晚好想好想打俾你 \- Band Version](https://open.spotify.com/album/39haq2Mw9apQ1qaPMDdQuy) | 3:49 | 2022-11-03 | 2023-02-03 |
+| [今次動真格](https://open.spotify.com/track/43TAdcNSQwqX5kfXiwvbzG) | [Teddy Fan](https://open.spotify.com/artist/2xcfjDx4F8seDu5jN0geQH) | [今次動真格](https://open.spotify.com/album/0EAiKz8T1MvS8G6EcV5bxF) | 3:19 | 2024-03-28 |  |
 | [以後我哋雲上見。](https://open.spotify.com/track/0RPpegE2YhCM0MZxQF8uG7) | [NTopic](https://open.spotify.com/artist/3MUbd9Eo7TQznhqjzxSVuQ) | [以後我哋雲上見。](https://open.spotify.com/album/73DFH6KerjLm8D2Anh7xYM) | 2:13 | 2023-02-09 | 2023-07-14 |
 | [低調系 \(feat\. Novel Fergus\)](https://open.spotify.com/track/3jfn6a5nJ1Arc0xWuvsYmi) | [SoWhat](https://open.spotify.com/artist/2BBk96s2DUCSwIdaANtH9d), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [低調系 \(feat\. Novel Fergus\)](https://open.spotify.com/album/2QL7B3R6G4TWXHWOyHHOLd) | 3:38 | 2022-05-26 | 2022-07-29 |
 | [你離開以後](https://open.spotify.com/track/63p1gPCHMMoE3HcC3OvMMY) | [HeartShine](https://open.spotify.com/artist/2N77bYeH8lzQ2jfhSiqNDB) | [你離開以後](https://open.spotify.com/album/2b81UhACmfpsjzFUfPheLu) | 4:17 | 2022-08-04 | 2022-11-04 |

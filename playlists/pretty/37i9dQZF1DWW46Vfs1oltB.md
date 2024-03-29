@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Kid Milli\(키드밀리\)\) \(가장 핫한 최신 국내 힙합 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,946 likes - 124 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,104 likes - 124 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 11 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 |
 | 12 | [NOSAE NOSAE](https://open.spotify.com/track/2SBnYX6QFYotZEeVgxr0nv) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [YAINS](https://open.spotify.com/album/2sdAsii9EScLqXidDLmMg5) | 2:48 |
 | 13 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 |
-| 14 | [세상 따위 F\*\*\*\*\*\* World \(Feat\. BewhY\)](https://open.spotify.com/track/39MGKenCfPdkFkEfa2PYyX) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Fake Origin](https://open.spotify.com/album/0bTAws5dNnOb9bhxh6RTol) | 2:47 |
+| 14 | [세상 따위 F\*\*\*\*\*\* World \(Feat\. BewhY\)](https://open.spotify.com/track/39MGKenCfPdkFkEfa2PYyX) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [래원 Fake Origin](https://open.spotify.com/album/0bTAws5dNnOb9bhxh6RTol) | 2:47 |
 | 15 | [Smoke \(Prod\. Dynamicduo, Padi\) \- Remix](https://open.spotify.com/track/0sedpruW5fiIKDyDNKa6rp) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5) | [Smoke \(Remix\)](https://open.spotify.com/album/395Tpq1Ak19oGniHdQjOSk) | 4:43 |
 | 16 | [HUH?! \(feat\. j\-hope\)](https://open.spotify.com/track/6XrPzwKeGzEvtan3acn7VH) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 3:03 |
 | 17 | [harmless \(Feat\. CHANMINA\)](https://open.spotify.com/track/7cvtsCXaLRyBmDgrtDCfxa) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Sir.Robert](https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE) | 3:03 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 123 | [Heels](https://open.spotify.com/track/4x6nunPhR0Clk682Vi2N4Y) | [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK), [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q), [Y2K92 simo](https://open.spotify.com/artist/1FkDkDzIU5TduleinIYkm5) | [Heels](https://open.spotify.com/album/6joXsPfxEwSPHxLa4fjSGC) | 3:49 |
 | 124 | [KrOWN\_Loco](https://open.spotify.com/track/1o73PCNhaz5VhjNxnrBzef) | [AOMG](https://open.spotify.com/artist/2bWTeElstVp9PUGLyIU8Uk) | [KrOWN audio liner](https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn) | 0:01 |
 
-Snapshot ID: `MCw4NjFmMTAyYzM0OTEyZjUyNmRiZDI2M2I0NWIxYzQwODAyYmY5OTJk`
+Snapshot ID: `MCw1YjRkN2YzYjM2MzU0OTE0N2E0NWYwMTgxYTYwYWE4MDNjZGYwYmJi`

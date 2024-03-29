@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: Candy Bleakz",
+  "description": "From the trenches. Through the streets.\nCover: Spyro",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -712,7 +712,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 154960,
       "name": "Casa",
       "url": "https://open.spotify.com/track/3SW8UsHMfohqWOo2PGb9SM"
@@ -1028,6 +1028,28 @@
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
+    },
+    {
+      "album": {
+        "name": "ONE OR TWO",
+        "url": "https://open.spotify.com/album/0awAIfbKXs6Q3x9tBwPrBQ"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "AXAD",
+          "url": "https://open.spotify.com/artist/1zfpuNNxBF5qjwbi4LCXig"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146753,
+      "name": "Do Me",
+      "url": "https://open.spotify.com/track/1pd769gfOAPejYvIkvr74C"
     },
     {
       "album": {
@@ -1370,7 +1392,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 143300,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/2d3hsKUez4aoqs5E0uPyS0"
@@ -3062,7 +3084,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 152880,
       "name": "One or Two",
       "url": "https://open.spotify.com/track/39677hmgIO3QESf9ensp8p"
@@ -3723,6 +3745,28 @@
     },
     {
       "album": {
+        "name": "Shutdown",
+        "url": "https://open.spotify.com/album/5KfqTov6TpsIfY0wRrBNbC"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179272,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/3WBq1rpt6WVIQmGBBNAIBE"
+    },
+    {
+      "album": {
         "name": "Soapy",
         "url": "https://open.spotify.com/album/1v9gHXqfKMRyEb1i64KJW3"
       },
@@ -3926,7 +3970,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 196179,
       "name": "Things on Things",
       "url": "https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE"

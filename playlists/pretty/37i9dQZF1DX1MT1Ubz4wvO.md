@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Caballo Prieto Azabache en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,649 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,673 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 39 | [El sol no regresa](https://open.spotify.com/track/6pIGuE8MffZRng9ww5hSVG) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c) | [El sol no regresa](https://open.spotify.com/album/176qi0cMLk8vFGrr5fekiH) | 3:49 |
 | 40 | [Sed De La Mala](https://open.spotify.com/track/6XcI07Xih3lRq25M0zP9VJ) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [Sed De La Mala](https://open.spotify.com/album/0muDy18cU5nzXd84CW0W0H) | 2:52 |
 | 41 | [Ké Más Nos Da](https://open.spotify.com/track/1JurgyjeCTcDyZErghSV0y) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopía](https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02) | 3:20 |
-| 42 | [Su Lado De La Cama](https://open.spotify.com/track/5r53r4b1xm3sx9CwccXsCb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Su Lado De La Cama](https://open.spotify.com/album/4dX5k6uiEEQs3QozWytbpO) | 3:09 |
+| 42 | [Su Lado De La Cama](https://open.spotify.com/track/5r53r4b1xm3sx9CwccXsCb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Su Lado De La Cama](https://open.spotify.com/album/4dX5k6uiEEQs3QozWytbpO) | 3:10 |
 | 43 | [No Puedo Más](https://open.spotify.com/track/6gyBpkG5GWjVpOFKQQPABa) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [No Puedo Más](https://open.spotify.com/album/13aW25Drx8llhhDCv5tz3a) | 3:09 |
 | 44 | [Mira, sí](https://open.spotify.com/track/2SQumrdtxb8fDFfzGQ80zp) | [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Mira, sí](https://open.spotify.com/album/6x9BpZhUAn2Wp2s2xfhkmk) | 1:57 |
 | 45 | [Meu Cariño](https://open.spotify.com/track/4UITA4ilKbjmekZ2Qys6OD) | [The Rapants](https://open.spotify.com/artist/6n9E45r5Ewzy1qXMqSVMA7) | [La Máquina Del Buen Rollo](https://open.spotify.com/album/3IjzjTNCTLxybVKTdNfqQ1) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Cuando Todo Daba Igual](https://open.spotify.com/track/2TBlxrvQuDvr8v7p0SGw8H) | [Porretas](https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk) | [Cuando Todo Daba Igual](https://open.spotify.com/album/4OEBDiH3XzxgmqPJSYNWqG) | 3:15 |
 | 50 | [Hasta la polla](https://open.spotify.com/track/6qCgAfcOxKpbUlelzJKupr) | [Becarios](https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU) | [Hasta la polla](https://open.spotify.com/album/4JcRs3OrWNz2cxwlPDoFvg) | 3:17 |
 
-Snapshot ID: `MCw0NmE1YmIzZWI4ZWYwMDNjZjE1OWZiY2ZjYjcyN2ZiZGE0MTIwMzUy`
+Snapshot ID: `MCw5ZmE4YjljOGQzZTYyZWQzY2IxOWM0OGRlYWUzN2RiMGZhMDJiNDU5`

@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 493785,
+  "2024-03-29": 493789,
   "date_first_scraped": "2022-01-10",
   "description": "Fresh Latin Indie. Cover: Conociendo Rusia",
   "name": "el nuevo indie",
@@ -317,7 +317,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 250000,
       "name": "Ac\u00e1",
       "url": "https://open.spotify.com/track/1Y1ZjDVV24xDdnK2WiVsjc"
@@ -6969,6 +6969,24 @@
       "duration_ms": 234493,
       "name": "Nostalgic Vibrations",
       "url": "https://open.spotify.com/track/7s0enDMJqctv0FNPo655ib"
+    },
+    {
+      "album": {
+        "name": "NSQD",
+        "url": "https://open.spotify.com/album/0JL4oHOY2RHnPBLUoVqi2c"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "NSQD",
+      "url": "https://open.spotify.com/track/2M6cqvG7RlSswImTO5jX4B"
     },
     {
       "album": {

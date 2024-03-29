@@ -2,7 +2,7 @@
 
 ### [Hot Hits Ghana](https://open.spotify.com/playlist/37i9dQZF1DWSHg3zCMrBDf)
 
-> The hottest tracks in Ghana\. Cover: King Promise
+> The hottest tracks in Ghana\. Cover: OlivetheBoy
 
 251 songs - 12 hr 50 min
 

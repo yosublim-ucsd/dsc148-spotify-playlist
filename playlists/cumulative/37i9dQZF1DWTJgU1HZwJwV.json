@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/5US6Ejo1xkfRpR3YSnKEQr"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/4qWbRktWWHXHGJb1uhWq8m"
+    },
+    {
+      "album": {
         "name": "Calme et Paisible",
         "url": "https://open.spotify.com/album/2E92OD1lGuIQEla85kYKvY"
       },
@@ -1508,6 +1526,24 @@
       "duration_ms": 141045,
       "name": "Confidencen",
       "url": "https://open.spotify.com/track/2uqvdSTgEvXtKc8AutVTfc"
+    },
+    {
+      "album": {
+        "name": "County Clare",
+        "url": "https://open.spotify.com/album/7KYYW1IeQvD3SjcDgEbMBA"
+      },
+      "artists": [
+        {
+          "name": "Fabian Lombardi",
+          "url": "https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184748,
+      "name": "County Clare",
+      "url": "https://open.spotify.com/track/0NetSB2EidrnN9AxQUuj8s"
     },
     {
       "album": {
@@ -3637,6 +3673,24 @@
     },
     {
       "album": {
+        "name": "Into Motion",
+        "url": "https://open.spotify.com/album/1ZcPD4YUAnPcbVUgGOpTz4"
+      },
+      "artists": [
+        {
+          "name": "Oceane Bardot",
+          "url": "https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157659,
+      "name": "Into Motion",
+      "url": "https://open.spotify.com/track/0bu1XZGQadPRJLf8F7hv6p"
+    },
+    {
+      "album": {
         "name": "Into the Quiet",
         "url": "https://open.spotify.com/album/13KZ26PPs5g1D2btIOuXUr"
       },
@@ -3688,6 +3742,24 @@
       "duration_ms": 133645,
       "name": "Isle of Skye",
       "url": "https://open.spotify.com/track/3rxo4jNntMRi6KHJkFHjNR"
+    },
+    {
+      "album": {
+        "name": "Jardim do Sanhos",
+        "url": "https://open.spotify.com/album/1JOtzNZElA13WhFttvVm5h"
+      },
+      "artists": [
+        {
+          "name": "Valencia Torres",
+          "url": "https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171547,
+      "name": "Jardim do Sanhos",
+      "url": "https://open.spotify.com/track/5nG1fgUDpAhD6vHkMzvMYj"
     },
     {
       "album": {
@@ -5297,6 +5369,24 @@
     },
     {
       "album": {
+        "name": "Only Briefly",
+        "url": "https://open.spotify.com/album/4v16VnIVhC9FWgRWHluvLG"
+      },
+      "artists": [
+        {
+          "name": "Sven Simons",
+          "url": "https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127210,
+      "name": "Only Briefly",
+      "url": "https://open.spotify.com/track/1ZdHCofnzXzQG262Z0sNyb"
+    },
+    {
+      "album": {
         "name": "Onschuldig",
         "url": "https://open.spotify.com/album/4CO5kHoKQocEwUeEMt2Cue"
       },
@@ -5971,6 +6061,24 @@
     },
     {
       "album": {
+        "name": "Remembering",
+        "url": "https://open.spotify.com/album/0jzL2BPcDgMmVFnzhXKYRr"
+      },
+      "artists": [
+        {
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138487,
+      "name": "Remembering",
+      "url": "https://open.spotify.com/track/2KbLzZgHUCGNifpbDlQVur"
+    },
+    {
+      "album": {
         "name": "Repos profond",
         "url": "https://open.spotify.com/album/5zZlYMoFYienIwLSKEHqUp"
       },
@@ -5986,6 +6094,24 @@
       "duration_ms": 164426,
       "name": "Repos profond",
       "url": "https://open.spotify.com/track/0FEsDGbGZ6lYqITAot0zeN"
+    },
+    {
+      "album": {
+        "name": "Resolve",
+        "url": "https://open.spotify.com/album/7CFTnTVuiu6Bz3iupotMsN"
+      },
+      "artists": [
+        {
+          "name": "Amalia Booth",
+          "url": "https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160095,
+      "name": "Resolve",
+      "url": "https://open.spotify.com/track/6YKeEQOMBRxrv9kY5A4pON"
     },
     {
       "album": {
@@ -7087,6 +7213,24 @@
     },
     {
       "album": {
+        "name": "Tears but Not of Pain",
+        "url": "https://open.spotify.com/album/49im8S6HBvYk0BHPHWDYh6"
+      },
+      "artists": [
+        {
+          "name": "R.B James",
+          "url": "https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201429,
+      "name": "Tears but Not of Pain",
+      "url": "https://open.spotify.com/track/27mzQDNLtakxvsBJXk4vzT"
+    },
+    {
+      "album": {
         "name": "Tears of an Angel",
         "url": "https://open.spotify.com/album/2MMTFk6cmPIrNPw17aLaB2"
       },
@@ -7880,6 +8024,24 @@
       "duration_ms": 145589,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/4PGf1PPQKYIeAaOd3ESpMH"
+    },
+    {
+      "album": {
+        "name": "View From an Ocean Window",
+        "url": "https://open.spotify.com/album/1WfvFKykwlwVx8VeuMdcVE"
+      },
+      "artists": [
+        {
+          "name": "Staffan Carl\u00e9n",
+          "url": "https://open.spotify.com/artist/1KBpWE9XJDISBwQ0PKkf0g"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174250,
+      "name": "View From an Ocean Window",
+      "url": "https://open.spotify.com/track/5wDqNmiNn05olf0aavPjfy"
     },
     {
       "album": {

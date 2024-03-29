@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 70,602 likes - 54 songs - 3 hr 38 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 70,603 likes - 54 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 30 | [Forget](https://open.spotify.com/track/4zdb5AL7M1UznaVTxJRZix) | [Moonpools](https://open.spotify.com/artist/1eD5LHUXByotygvcu8axHn) | [Forget](https://open.spotify.com/album/4B43tDNxGjIj1x0iKPMwIC) | 4:30 |
 | 31 | [Evening Mood](https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Evening Mood](https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu) | 6:24 |
 | 32 | [Flowers](https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Daniel](https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd) | 2:48 |
-| 33 | [All The Same \- Mandy, Indiana Remix](https://open.spotify.com/track/29pmTqAgwWmOPnvfu1J918) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe), [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [All The Same \(Mandy, Indiana Remix\)](https://open.spotify.com/album/4Zrv5qWt0Ux02mynONQSyy) | 4:31 |
+| 33 | [All the Same \- Mandy, Indiana Remix](https://open.spotify.com/track/29pmTqAgwWmOPnvfu1J918) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe), [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [All the Same \(Mandy, Indiana Remix\)](https://open.spotify.com/album/4Zrv5qWt0Ux02mynONQSyy) | 4:31 |
 | 34 | [Home Alone](https://open.spotify.com/track/3L4xlzfNLq2F3NaGasKc9i) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:30 |
 | 35 | [Funeral for Justice](https://open.spotify.com/track/6jRkPX7aziy9qweRaBloXF) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Funeral for Justice](https://open.spotify.com/album/2TEqu1Bvm8jFijAybw6S38) | 3:08 |
 | 36 | [Milky Max](https://open.spotify.com/track/3W01BtdX8jFwHaqudhTC50) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [Milky Max](https://open.spotify.com/album/3syXhcHE5q9MImhpBtNzCY) | 2:30 |

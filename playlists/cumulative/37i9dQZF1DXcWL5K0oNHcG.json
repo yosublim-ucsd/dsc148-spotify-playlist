@@ -5225,6 +5225,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Traveler",
+        "url": "https://open.spotify.com/album/7onrqJyZS6ymOxrwNbgivt"
+      },
+      "artists": [
+        {
+          "name": "jazztek",
+          "url": "https://open.spotify.com/artist/4wr8nT1OgCfze3mGssFJoD"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179560,
+      "name": "Cosmic Traveler",
+      "url": "https://open.spotify.com/track/4EqND1UdBuVqDnuzXw5J11"
+    },
+    {
+      "album": {
         "name": "Could It Be You",
         "url": "https://open.spotify.com/album/7FhxBBsH6bRRCg9BbHfhUs"
       },

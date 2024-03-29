@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 4608,
+  "2024-03-29": 4608,
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
@@ -8749,7 +8749,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 220566,
       "name": "Dovidenia",
       "url": "https://open.spotify.com/track/0aBdBSOuzJKQzV011nZUqz"
@@ -21327,7 +21327,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 114955,
       "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
       "url": "https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C"
@@ -23259,7 +23259,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 169853,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy"
@@ -28947,7 +28947,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 95002,
       "name": "scars",
       "url": "https://open.spotify.com/track/0c683aCGn2mXMU1I9Js449"
@@ -30827,7 +30827,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
@@ -32613,6 +32613,28 @@
       "duration_ms": 251733,
       "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
       "url": "https://open.spotify.com/track/77Oww6V7jooOd7aNEMnFJ3"
+    },
+    {
+      "album": {
+        "name": "Gal\u00e9ria du\u0161evn\u00e9ho zdravia",
+        "url": "https://open.spotify.com/album/0F0Wb6rL7Eof2VNA3PZ4nS"
+      },
+      "artists": [
+        {
+          "name": "Billy Barman",
+          "url": "https://open.spotify.com/artist/3hqXJzw9ubKNcvVhZV03gQ"
+        },
+        {
+          "name": "The Curly Simon",
+          "url": "https://open.spotify.com/artist/7GsNgX9QerOLjuHC6JABcz"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208887,
+      "name": "Tak\u00e1to si / V\u00e4zni predst\u00e1v",
+      "url": "https://open.spotify.com/track/7bW7WM8m6Vy2P6BnWUCedU"
     },
     {
       "album": {
@@ -35287,6 +35309,24 @@
       "duration_ms": 188000,
       "name": "Ve\u013ea Ginu, R\u00e1no Hlad 2",
       "url": "https://open.spotify.com/track/06IeMRkIhGUJY5kvhvYiT9"
+    },
+    {
+      "album": {
+        "name": "volume 3",
+        "url": "https://open.spotify.com/album/2Z6SXBpgOJuKbw4I6jd8Po"
+      },
+      "artists": [
+        {
+          "name": "sp\u00e1nok v lese letargie",
+          "url": "https://open.spotify.com/artist/6G0h5jzjBzQw749gTYlK4q"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144696,
+      "name": "ve\u013eryby",
+      "url": "https://open.spotify.com/track/4p8f8DUwVIr3UrsTZPDTG3"
     },
     {
       "album": {
@@ -38809,7 +38849,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 238595,
       "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6... (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/0DRky0I9vrl7UPCQofTXVW"

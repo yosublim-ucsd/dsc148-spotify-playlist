@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,956 likes - 59 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,068 likes - 59 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 20 | [People Of Wakanda](https://open.spotify.com/track/0CayT7yqlJOVWyFByeSDsb) | [Mr Joe](https://open.spotify.com/artist/79FhvDnJD146q8X3kYtXmG) | [People Of Wakanda](https://open.spotify.com/album/1qomkIOUO411sbHSLYjCTt) | 5:41 |
 | 21 | [Yaze Yamnandi](https://open.spotify.com/track/1KvukmWKoW88NnECROFg2y) | [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Deep Narratives](https://open.spotify.com/artist/0H929hRKMr7lbGcVOx4Q4c), [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f) | [Yaze Yamnandi](https://open.spotify.com/album/7qhOVWZl80LdsOpAsc5eHc) | 7:19 |
 | 22 | [Hurt Beings](https://open.spotify.com/track/4rSb2gKoVZhVNbyjk8cGfB) | [DJ NAHH](https://open.spotify.com/artist/3hunruCNd05udCVHOLBhbs) | [Worries of Betrayal](https://open.spotify.com/album/0mcFgwZsqnh40pK9llRoJy) | 5:25 |
-| 23 | [Banho de Folhas \- Maz Remix](https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Banho de Folhas \(Maz Remix\)](https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O) | 3:35 |
+| 23 | [Banho de Folhas \- Maz Remix](https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Banho de Folhas \(Maz Remix\)](https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O) | 3:35 |
 | 24 | [Jenifa](https://open.spotify.com/track/5dEzH5AV2LaW7S0Oqv5Mqu) | [Atamu](https://open.spotify.com/artist/7BgiiPIqegqRbaDPKN6h8G) | [Jenifa](https://open.spotify.com/album/3v4SnWhBYI4xCvyLtaNg31) | 7:36 |
 | 25 | [Ouria Deka \- Urmet K Remix Edit](https://open.spotify.com/track/1CtzjonrreTn0QfLoVa8Kq) | [Touzani](https://open.spotify.com/artist/6GXSO2YzZ9ioZT4Wkwyvez), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Urmet K](https://open.spotify.com/artist/46YPQGXkvn7QooB0XJvkdb) | [Ouria Deka \(Urmet K Remix Edit\)](https://open.spotify.com/album/4g5miV05hyuYWotRmhumED) | 4:00 |
 | 26 | [Fulufhelo](https://open.spotify.com/track/5m21eKVdcgzZloWfRnG0H5) | [Vuscare](https://open.spotify.com/artist/7C1LihDHAPTUCMmUELa0os), [Tangi](https://open.spotify.com/artist/3XOmUD6KOc81Gt1jC6SqT9) | [Fulufhelo](https://open.spotify.com/album/0G1pocVQXTI6PfLHst9Sbi) | 8:00 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 58 | [Flava \(feat\. Una Rams & Tellaman\)](https://open.spotify.com/track/4I5RFixXyhu6Bb43S2gchs) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 4:29 |
 | 59 | [I'm Fallin \(feat\. RY X\) \(feat\. RY X\)](https://open.spotify.com/track/5QnQSKDvXTvJzfHQDikskY) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 7:42 |
 
-Snapshot ID: `MCw2MGZlMjllYTJlZWYyNTFhZWViNTdlZGU5NzlmZmJlMjI1NTI1OTY3`
+Snapshot ID: `MCw4YjU2YmMyNDI2OWU5NmE2NGExZGIzZjllYTkyMDFkMzM4YjczZjhj`

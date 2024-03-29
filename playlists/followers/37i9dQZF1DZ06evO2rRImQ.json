@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 191496,
+  "2024-03-29": 191523,
   "date_first_scraped": "2022-06-02",
   "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
   "name": "This Is Banda Los Recoditos",
@@ -327,7 +327,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 178613,
       "name": "El Cigarrito",
       "url": "https://open.spotify.com/track/4jxhkcdt00M3Iy5dH9fQfw"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 145613,
       "name": "Lo Que Hacemos En Tu Cama",
       "url": "https://open.spotify.com/track/6Wg40tUtPPacPNVgY22xRH"

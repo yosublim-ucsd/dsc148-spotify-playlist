@@ -4,7 +4,7 @@
 
 > Soothing sounds of gentle rain.
 
-326 songs - 15 hr 4 min
+327 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Raining After Midnight](https://open.spotify.com/track/0ngmRlW9zdGf52YSsZfhbM) | [Ray N.Y](https://open.spotify.com/artist/6QOi0WtxrycnPENvP8Rhvz) | [Heavy Rain](https://open.spotify.com/album/5yz3wrR41kYNUrYoQeIzzs) | 2:20 | 2021-11-10 |  |
 | [Raining Coma](https://open.spotify.com/track/3Iz6G9HAuoh31yBriwzMMw) | [Precip](https://open.spotify.com/artist/2MvLKa31qeJOBzobqE10FX) | [Heavy Due](https://open.spotify.com/album/3RcTFyLySVy1aRt1ah2Ytx) | 3:00 | 2021-11-10 |  |
 | [Raining Down](https://open.spotify.com/track/3b5GwseBHdsd2vTMK3uN4k) | [Bibula](https://open.spotify.com/artist/1KxJnRAxBzshncVMcGKtHZ) | [Raining Down](https://open.spotify.com/album/61XGQ4kAHEoMLyqrnMotZV) | 3:32 | 2021-11-10 |  |
+| [Raining For Hours](https://open.spotify.com/track/60uoiqXyQpKkbRtPSs8nAF) | [Rain Story](https://open.spotify.com/artist/5sDGFYfzqLSGypFQUMtf2u) | [Raining For Hours](https://open.spotify.com/album/6j07pWZ67sAkRUIOxwICYT) | 2:10 | 2024-03-22 |  |
 | [Raining Force](https://open.spotify.com/track/3bJu4wU7VYdjlxQnG6z2ud) | [Nue](https://open.spotify.com/artist/4zPX6V2gCI5nf46EQTpRr9) | [Raining Force](https://open.spotify.com/album/1MSTsZLkWuOOAePWFDQTFV) | 3:32 | 2021-11-10 |  |
 | [Raining Me Softly](https://open.spotify.com/track/4CTDJG3F26MUJEwnJ2fhJh) | [Epiphonema](https://open.spotify.com/artist/7zVXfjqG8yM5gVp8WLab5s) | [Cloudburst](https://open.spotify.com/album/4U0en0trmZzCyst9IvCvDA) | 2:09 | 2021-11-10 |  |
 | [Raining Through The Night](https://open.spotify.com/track/0EVnTfAZHE6wWkCnxugHmq) | [The Nightgate](https://open.spotify.com/artist/5Q3USAuNC7NpbhO9JqN2uK) | [Raining Through The Night](https://open.spotify.com/album/0HaCBoTn0tHkCGe0ArR7nH) | 3:04 | 2024-03-22 |  |
@@ -326,7 +327,7 @@
 | [Wake Up Rain](https://open.spotify.com/track/726a7JkoT1DetZYi6dGnMF) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H), [Rain Recorders](https://open.spotify.com/artist/5GNSiWmGlKoycbxC8htQaH) | [Non Stop Rain](https://open.spotify.com/album/1SXdfBOoIPb094UtbsLjvP) | 2:10 | 2021-11-10 |  |
 | [Wapusk \- Rain](https://open.spotify.com/track/43OUokavvYcYMCBSfZzcbU) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Wapusk \(Rain\)](https://open.spotify.com/album/20knIs0Ex5k1NkGegLsbFT) | 3:56 | 2024-03-22 |  |
 | [Warm Summer Rain](https://open.spotify.com/track/4PYcFKKiVUp92libw3naT1) | [Criollo Clouds](https://open.spotify.com/artist/2oV0NR81ygDpyfMqZoC4Wz) | [Warm Summer Rain](https://open.spotify.com/album/6yZFQrqbtGNymHCzkczaux) | 3:02 | 2024-03-22 |  |
-| [Washington Rain Reverie](https://open.spotify.com/track/1AfbsmFhOpX9GZHFd8Cb9l) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Nature's Rainfall Melodies](https://open.spotify.com/album/2L4ZTUZNAvkyo3d1G3Nu5c) | 3:12 | 2024-03-22 |  |
+| [Washington Rain Reverie](https://open.spotify.com/track/1AfbsmFhOpX9GZHFd8Cb9l) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/6zFCcsGRJaALSvGj9VuHh5) | [Nature's Rainfall Melodies](https://open.spotify.com/album/2L4ZTUZNAvkyo3d1G3Nu5c) | 3:12 | 2024-03-22 |  |
 | [White Noise Rain Sound](https://open.spotify.com/track/7KDDKunLTkqnGp5nmo8QSZ) | [Samples QHD](https://open.spotify.com/artist/4yPaJjWtrGMogTzwi0JWVx) | [Relaxing Spring Rain](https://open.spotify.com/album/5T4eAq7CQUROmOIXJE8jCg) | 1:49 | 2021-11-10 | 2023-10-12 |
 | [Windy Showers](https://open.spotify.com/track/0EFyu4Ayh58pnqFGJXIwij) | [Parapluie](https://open.spotify.com/artist/33DMGJpBsidzfijvdAG8b4) | [Storm Rains](https://open.spotify.com/album/5tepCQ5QVZ5WXF0806PinZ) | 3:04 | 2021-11-10 |  |
 | [Wonderful Rain](https://open.spotify.com/track/4KCIoTO0Wyesf9Ia4VwGgn) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [Stratus](https://open.spotify.com/album/1aOS5vAC50EyCWfEhrAPmX) | 2:31 | 2022-11-21 |  |

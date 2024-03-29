@@ -524,7 +524,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 269893,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/4FmIRmhnvySm1rL5NV4E10"
@@ -780,6 +780,24 @@
       "duration_ms": 225080,
       "name": "In Between the Heartaches",
       "url": "https://open.spotify.com/track/16pids01DZBwCLo1JAQvjY"
+    },
+    {
+      "album": {
+        "name": "I Refuse To Be Lonely",
+        "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252346,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/2FCbFUE0hMKvHje3DX8LYf"
     },
     {
       "album": {

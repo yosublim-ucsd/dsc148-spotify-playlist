@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 3756,
+  "2024-03-29": 3819,
   "date_first_scraped": "2023-09-07",
   "description": "A groovy and soulful house collection. Cover: Calvin Harris, Eliza Rose",
   "name": "House is a Feeling",
@@ -297,10 +297,32 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 304615,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0t7ahpke8UKi61ikrSh5sd"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/62sLTTuUdEYDnVHCdp3poe"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Shadow Child",
+          "url": "https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304615,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/7K2yIbJIanAThF37SlxPey"
     },
     {
       "album": {

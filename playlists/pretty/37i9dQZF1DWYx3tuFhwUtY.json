@@ -1,12 +1,12 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 140417,
+  "num_followers": 140419,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDAzMjNlMjhmMjA1OGQyNmUxY2ZmYzIwN2MyMGM4N2EwOWNjNzQ2",
+  "snapshot_id": "MCwxYTAwY2EyYTBjOTdiZGU1ZWJiZTExMjliMjA4NmFiMGQzZDQ3Y2Vj",
   "tracks": [
     {
       "added_at": "2023-10-23 19:19:23",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Layup IV",
-        "url": "https://open.spotify.com/album/2iltpSD2W7R7xwveMqF5ti"
-      },
-      "artists": [
-        {
-          "name": "Layup",
-          "url": "https://open.spotify.com/artist/3fGhNTTL2CbmVAkGWpcJAA"
-        }
-      ],
-      "duration_ms": 201817,
-      "name": "Every Mile",
-      "url": "https://open.spotify.com/track/2tWWWNbPwoP6A3C1eIMeGh"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/4GD61YplOsyg4GV7tPH2KF"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 93470,
       "name": "Time Walk",
       "url": "https://open.spotify.com/track/2GmJzA4SwQityiYlFS7mCJ"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Layup IV",
+        "url": "https://open.spotify.com/album/2iltpSD2W7R7xwveMqF5ti"
+      },
+      "artists": [
+        {
+          "name": "Layup",
+          "url": "https://open.spotify.com/artist/3fGhNTTL2CbmVAkGWpcJAA"
+        }
+      ],
+      "duration_ms": 201817,
+      "name": "Every Mile",
+      "url": "https://open.spotify.com/track/2tWWWNbPwoP6A3C1eIMeGh"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 233146,
-      "name": "Creep in a T-Shirt",
-      "url": "https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Things Take Time, Take Time",
         "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Kiss Ur Face Forever",
-        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 166556,
-      "name": "Kiss Ur Face Forever",
-      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+      "duration_ms": 233146,
+      "name": "Creep in a T-Shirt",
+      "url": "https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -931,6 +915,22 @@
       "duration_ms": 154893,
       "name": "The Lightning II",
       "url": "https://open.spotify.com/track/4hgobGfWedCMII3bdualzM"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Kiss Ur Face Forever",
+        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 166556,
+      "name": "Kiss Ur Face Forever",
+      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
     },
     {
       "added_at": "2023-10-23 19:19:23",

@@ -2,7 +2,7 @@
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> Rap napoletano e il meglio della scena campana\. Kid Lost in cover.
+> Rap napoletano e il meglio della scena campana\. Vale Lambo e Geolier in cover.
 
 299 songs - 13 hr 51 min
 

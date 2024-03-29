@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-467 songs - 1 day 14 hr 38 min
+468 songs - 1 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Ascent \- Rebūke Remix](https://open.spotify.com/track/6600D9sZObhQUcmAw8osH0) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Ascent \(Rebūke Remix\)](https://open.spotify.com/album/7uGGt7zDGBY00AaGf3Pk8s) | 6:16 | 2023-01-13 | 2023-03-04 |
 | [Ashes in Paradise](https://open.spotify.com/track/2aa3mL5s2oZ5Z8irf9lDoI) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Ashes in Paradise](https://open.spotify.com/album/0GTW43ocEzYd18jSbdNU8z) | 6:30 | 2023-11-30 |  |
 | [Atomic Heart](https://open.spotify.com/track/2IDz0jj2IrqSjkB3SCcDn8) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Yana Blinder](https://open.spotify.com/artist/79EE54kxCNXUGNtEkgo12R) | [Atomic Heart](https://open.spotify.com/album/0luQU7YFJBr05uS279ifqf) | 7:13 | 2023-02-27 |  |
-| [Aylyak](https://open.spotify.com/track/0iofhe3HgUtzq8yiPDKp1Z) | [Victor Garde](https://open.spotify.com/artist/0bC87PglfzQGdIUKnSDWa5) | [Aylyak](https://open.spotify.com/album/2HFA0eMSuzqqxFY1y3wMGr) | 3:31 | 2023-05-31 |  |
+| [Aylyak](https://open.spotify.com/track/0iofhe3HgUtzq8yiPDKp1Z) | [Victor Garde](https://open.spotify.com/artist/0bC87PglfzQGdIUKnSDWa5) | [Aylyak](https://open.spotify.com/album/2HFA0eMSuzqqxFY1y3wMGr) | 3:31 | 2023-05-31 | 2024-03-29 |
 | [Azurblau](https://open.spotify.com/track/5x6sZ6mz23tTf7lCCa7F7A) | [GIGEE](https://open.spotify.com/artist/7mqebOCOql0RKtn1bGUdOd) | [Berlin](https://open.spotify.com/album/58Mt8Tv2EEMupogXTFC9pB) | 6:51 | 2022-12-28 | 2023-01-06 |
 | [Back Up](https://open.spotify.com/track/28tiVC1tvvPwG4jajq63pJ) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Back Up](https://open.spotify.com/album/10yJevvqETfkqxVtKIL2Pd) | 6:11 | 2023-02-27 | 2023-03-04 |
 | [BE ARTIST OF YOUR LIFE](https://open.spotify.com/track/2UXz0Tcg2THbgbYTvXqSEF) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [BE ARTIST OF YOUR LIFE](https://open.spotify.com/album/4ZqEV0pL6IxmnIq3dguj4g) | 6:12 | 2024-02-01 | 2024-03-01 |
@@ -355,6 +355,7 @@
 | [Samum \- 8Kays Remix](https://open.spotify.com/track/1h7E73gjm0VELmrT4TcLHo) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p), [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [Samum \(8Kays Remix\)](https://open.spotify.com/album/52VrTYzvEmiccQ8vMacUvM) | 6:27 | 2023-04-28 | 2023-10-16 |
 | [Save Me](https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:09 | 2023-08-11 |  |
 | [Say Love \- Radio Mix](https://open.spotify.com/track/5Wlpy9LzfhRnZgeUcXkUXh) | [Airsand](https://open.spotify.com/artist/4rlSlj2XnxKA05eZ7sLWSC), [TuraniQa](https://open.spotify.com/artist/7kXkMWoPg5UfAc4LQmfI9V) | [Say Love](https://open.spotify.com/album/0ZvWPjOwDxNRAqubn8b1u7) | 4:24 | 2022-12-28 | 2023-01-06 |
+| [Seraph](https://open.spotify.com/track/3Z6qOqLlTF1oVlfKmcPNab) | [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn) | [Seraph](https://open.spotify.com/album/4q7mS5e4vm1lgjkEHKhp6M) | 4:09 | 2024-03-22 |  |
 | [Serenade](https://open.spotify.com/track/3Qci4QoZJOKqT7p3CatSd6) | [Dsnt Matter](https://open.spotify.com/artist/6kkot1U0JuuGTYEPEh2FXW) | [Serenade](https://open.spotify.com/album/6phk4oiZpo977U2FvIMu1B) | 4:17 | 2023-05-31 | 2023-09-19 |
 | [Shades Of Night](https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shades Of Night](https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp) | 6:49 | 2023-02-27 | 2023-04-23 |
 | [Shake This World](https://open.spotify.com/track/2oRrosZu67qZ1g0FvxFVBS) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 5:44 | 2022-11-23 | 2023-10-17 |

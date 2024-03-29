@@ -2,9 +2,9 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB?si=JtoVxGGLRaqTdSS46bGHxg"> اسلام كابونج </a>
+> أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu?si=wH1M\-7yZQCGXxYg6WLgI\-w"> عصام صاصا </a>
 
-230 songs - 14 hr 7 min
+231 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Weyyak](https://open.spotify.com/track/1hCT1bsFmcuqi9HRP1ilf0) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [Weyyak](https://open.spotify.com/album/4Hy7xGPu9rQ3qSv6dWNrym) | 2:54 | 2021-12-16 | 2022-07-31 |
 | [آسلك \- مسلم و حوده بندق](https://open.spotify.com/track/1QWvSRoOK0VfHXEIyZLRG3) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [آسلك \- مسلم و حوده بندق](https://open.spotify.com/album/45nZf869o02m4pCL39AJVb) | 3:53 | 2023-07-03 | 2023-07-30 |
 | [إحلويتي](https://open.spotify.com/track/6jr1OcQ7lF6gyNVAupJ97z) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [إحلويتي](https://open.spotify.com/album/6zlU10l2gCp6QfdKKL49Sq) | 2:48 | 2022-10-27 | 2023-02-01 |
+| [اتنين بمقام ملايين](https://open.spotify.com/track/0TchhsYsdtIsY6HCJ0YQWL) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اتنين بمقام ملايين](https://open.spotify.com/album/19CKrkJEOEKlPHId6Sex76) | 2:53 | 2024-03-28 |  |
 | [احلي واحدة](https://open.spotify.com/track/5zPoA6xtqHtm7nfVzNy7rf) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [احلي واحدة](https://open.spotify.com/album/2LdxWsXOsPVsknLFbXX2YH) | 3:03 | 2022-10-16 | 2023-03-18 |
 | [احنا اللي مننا التراب بجد اشتكي](https://open.spotify.com/track/1EMaJKcQU0qjNyLEUQZIIg) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Mostafa Elgen](https://open.spotify.com/artist/6waWgmPILhG345nVwJfb4N) | [احنا اللي مننا التراب بجد اشتكي](https://open.spotify.com/album/6D9STyIeYzS4NuZrqTHuEX) | 5:24 | 2022-07-30 | 2023-04-21 |
 | [اخرس عمك جالك](https://open.spotify.com/track/7xY05LQHDQJFxvZrEzStsY) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt) | [اخرس عمك جالك](https://open.spotify.com/album/6FaNLCBZEMml6pu9shmRPc) | 5:44 | 2022-02-01 | 2022-07-29 |
@@ -170,7 +171,7 @@
 | [قمر التيكتوكايه](https://open.spotify.com/track/4hqilOlBqh1gM1MJ6y7VUa) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Ali Adora](https://open.spotify.com/artist/1YBCglSx16gpk34ayxU5Dp), [Nour El Tot](https://open.spotify.com/artist/1SfTMO63F7PCdKmBQao1kq) | [قمر التيكتوكايه](https://open.spotify.com/album/5NWO8i853mA4oyHwwzCfgs) | 4:23 | 2021-12-16 | 2022-07-29 |
 | [قمر التيكتوكايه](https://open.spotify.com/track/4NLFg43DInhC8Fik0bp88e) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Ali Adora](https://open.spotify.com/artist/1YBCglSx16gpk34ayxU5Dp), [Nour El Tot](https://open.spotify.com/artist/1SfTMO63F7PCdKmBQao1kq) | [قمر التيكتوكايه](https://open.spotify.com/album/3dI09CzSY6Z3MOCRdsurIn) | 4:24 | 2022-07-19 | 2022-10-17 |
 | [قموصه \( لو مدايق \)](https://open.spotify.com/track/3PZuWYrm3p78Sx96HNWusd) | [Mostafa el Degwy](https://open.spotify.com/artist/58Aady92Ax4EADOATwDJWC) | [قموصه \( لو مدايق \)](https://open.spotify.com/album/58agffHGyi4ojubltavq6Z) | 3:17 | 2021-12-16 | 2022-09-28 |
-| [كل ليله دموع \( بتشاف ضعيف مانا حبيتك \)](https://open.spotify.com/track/2cwwNrIG3cSvsHjeMYK3ec) | [Kimo El Deep](https://open.spotify.com/artist/1W836Zmt4TaE29DVRF5zKF), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [كل ليله دموع \( بتشاف ضعيف مانا حبيتك \)](https://open.spotify.com/album/3Fy4VeKs4RUzZ2cgmFZl5T) | 3:32 | 2024-03-08 |  |
+| [كل ليله دموع \( بتشاف ضعيف مانا حبيتك \)](https://open.spotify.com/track/2cwwNrIG3cSvsHjeMYK3ec) | [Kimo El Deep](https://open.spotify.com/artist/1W836Zmt4TaE29DVRF5zKF), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [كل ليله دموع \( بتشاف ضعيف مانا حبيتك \)](https://open.spotify.com/album/3Fy4VeKs4RUzZ2cgmFZl5T) | 3:32 | 2024-03-08 | 2024-03-29 |
 | [كلك غرام](https://open.spotify.com/track/6CVM9gIrpVJyoYdwfMAE2G) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI) | [كلك غرام](https://open.spotify.com/album/25YIcugrVu5yzMt8Tmfeq5) | 2:35 | 2023-01-06 | 2023-05-11 |
 | [كله بألف وش](https://open.spotify.com/track/2xa1lKFfSDDEBeJURGDXf6) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كله بألف وش](https://open.spotify.com/album/3LmFEyUvrTZcfGANGcEX2L) | 3:20 | 2023-08-08 | 2023-12-14 |
 | [كله طار فالمطار](https://open.spotify.com/track/4Ie7oOIUQkXvh1fHBsSlOg) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Mohamed Chahine](https://open.spotify.com/artist/4d9QeHQF7jBlI2ijrgjZux) | [كله طار فالمطار](https://open.spotify.com/album/6Fao9AJIiam6uKwM7YtEcJ) | 3:44 | 2021-12-16 | 2022-02-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > Visual artist, resilient, powerful ✨ Cristina Martinez nos inspira.
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,301 likes - 25 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,306 likes - 25 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 24 | [CHICKY TA](https://open.spotify.com/track/3EELEIkaOtCQZ84LwU8dWK) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:44 |
 | 25 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
 
-Snapshot ID: `MCxkZjMwOTMyY2FkNzQ1YTY0MmU1ZmQ4YmIyY2RmYmI0YWE0ZDM0ZTA5`
+Snapshot ID: `MCwzZjBhNWM3MmI4NzYwM2Y1NzRlNTU1ZGQ1MjY4YjVlM2IwNGIyODg4`

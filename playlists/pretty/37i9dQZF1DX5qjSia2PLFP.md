@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,707 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,874 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 38 | [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/track/2EA5h6XD8KB070waaoclje) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/album/1fOnjWaTMtIgKfFxNq78e2) | 3:11 |
 | 39 | [UKRAINE](https://open.spotify.com/track/1ZAUJfeyXVwmcqu5qX7A0e) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [Jay5ive](https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l) | [UKRAINE](https://open.spotify.com/album/4EzS3KcSeRTnbBJqcTakh6) | 2:10 |
 | 40 | [No Extensions](https://open.spotify.com/track/0ehvurNppjZfd1Cy73sHIQ) | [Lil Dre6o](https://open.spotify.com/artist/3HT9jbDp89eu9Dxi3vAZzG), [Lil RT](https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H) | [Taking It There 2](https://open.spotify.com/album/3KUVvQfGYo8004QbyoF5zO) | 1:53 |
-| 41 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 2:03 |
+| 41 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 1:54 |
 | 42 | [Pose For Me](https://open.spotify.com/track/1sgTUndxucoDRXlJds4fZ9) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Pose For Me](https://open.spotify.com/album/1V8F5yi1IO7cmAVD6e7Dfw) | 1:28 |
 | 43 | [Touchin' \(feat\. Kaliii\)](https://open.spotify.com/track/6y9XZjgz78wjamOPRi5031) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Touchin’ \(The Pack\)](https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw) | 3:34 |
 | 44 | [Bleed about it](https://open.spotify.com/track/0bXXaPEsRIHpzvxw6JPo6u) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5) | [Kenny World Deluxe](https://open.spotify.com/album/186G03iM52cPFJdKvgDjRd) | 2:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 74 | [100 MILLION \(feat\. Tiwa Savage\)](https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [100 MILLION](https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju) | 2:16 |
 | 75 | [Get Off The Wall](https://open.spotify.com/track/6SlztBVfIbknPYVxJBGATZ) | [Philly Goats](https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U) | [Philly Goats](https://open.spotify.com/album/5kXDgdgqs9gqqKfcxZ9wVz) | 2:58 |
 
-Snapshot ID: `MCxmMDI5ZWU0YTk5MDM1OTk1ZmViODRiMmI2NTFjNDNmYjU1NTE1MTUx`
+Snapshot ID: `MCw5YTBjM2M0ZTIxOWU4ZGVjMDQxYzRiNTI1M2YyNmJlNmUyNTcwODVi`

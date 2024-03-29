@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1555788,
+  "num_followers": 1556271,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWQ1ZWM1NjQ0ZGJhOWM3YTFhODNhMDZmZTkxMWY2MjcxN2NiM2Q2",
+  "snapshot_id": "MCxkOTY3MGY4NDc4YmExMDc0ODExZmY2YWI3YzM4MmU0NGE4ZDk3YTZi",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5djOwKQnkgTv6eUgCtdFAz"
+      },
+      "artists": [
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "Together - Radio Edit",
+      "url": "https://open.spotify.com/track/4PQCrz4sk00dIEmkwmmJCr"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "The Sound of Goodbye, Pt. 2",
         "url": "https://open.spotify.com/album/5bCAsnDwc633FM025XeWeP"
       },
@@ -1235,22 +1255,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5djOwKQnkgTv6eUgCtdFAz"
+        "name": "It's Too Late",
+        "url": "https://open.spotify.com/album/4eIaAaqb84HRhdBWonGK5Q"
       },
       "artists": [
         {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+          "name": "Dirty South",
+          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
         },
         {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+          "name": "Evermore",
+          "url": "https://open.spotify.com/artist/5VWIuZAPbBdtFHdbDyYeHQ"
         }
       ],
-      "duration_ms": 211533,
-      "name": "Together - Radio Edit",
-      "url": "https://open.spotify.com/track/4PQCrz4sk00dIEmkwmmJCr"
+      "duration_ms": 181230,
+      "name": "It's Too Late - Dirty South Radio Edit",
+      "url": "https://open.spotify.com/track/2WMur8xCATjMHLgpPHdosc"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1271,26 +1291,6 @@
       "duration_ms": 524933,
       "name": "Just Be",
       "url": "https://open.spotify.com/track/6SDy0CHEvHB591MeizBrqY"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "It's Too Late",
-        "url": "https://open.spotify.com/album/4eIaAaqb84HRhdBWonGK5Q"
-      },
-      "artists": [
-        {
-          "name": "Dirty South",
-          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
-        },
-        {
-          "name": "Evermore",
-          "url": "https://open.spotify.com/artist/5VWIuZAPbBdtFHdbDyYeHQ"
-        }
-      ],
-      "duration_ms": 181230,
-      "name": "It's Too Late - Dirty South Radio Edit",
-      "url": "https://open.spotify.com/track/2WMur8xCATjMHLgpPHdosc"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1327,6 +1327,26 @@
       "duration_ms": 205920,
       "name": "Carry Me Away (feat. Emma Hewitt) - Radio Edit",
       "url": "https://open.spotify.com/track/3vVdNuzFHL0hmT8Xq4vbhY"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Western Dream",
+        "url": "https://open.spotify.com/album/2kscq6zA1a9vFQy8MsWFM0"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "duration_ms": 401360,
+      "name": "World, Hold On (Children of the Sky)",
+      "url": "https://open.spotify.com/track/04jZqMtDNKGjIsRdf5vHtK"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1399,26 +1419,6 @@
       "duration_ms": 207066,
       "name": "I Am Free - Radio Edit",
       "url": "https://open.spotify.com/track/1cSOchpDSHvJjtBHLVrxT1"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Western Dream",
-        "url": "https://open.spotify.com/album/2kscq6zA1a9vFQy8MsWFM0"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        }
-      ],
-      "duration_ms": 401360,
-      "name": "World, Hold On (Children of the Sky)",
-      "url": "https://open.spotify.com/track/04jZqMtDNKGjIsRdf5vHtK"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Don't Stop!",
+        "url": "https://open.spotify.com/album/2lN1TfOytRsnosYBm70kZ6"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        }
+      ],
+      "duration_ms": 163004,
+      "name": "Don't Stop! - X-Cabs Radio Edit",
+      "url": "https://open.spotify.com/track/2U8kSj6bS0IUdMD8JSxOm3"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Worldwide Dance Hits",
         "url": "https://open.spotify.com/album/6dfX6cEQ7MuTMY0Ldp7qup"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 217500,
       "name": "Another Place",
       "url": "https://open.spotify.com/track/6FrchQ8NDHUI8ucAvz5zha"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Don't Stop!",
-        "url": "https://open.spotify.com/album/2lN1TfOytRsnosYBm70kZ6"
-      },
-      "artists": [
-        {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        }
-      ],
-      "duration_ms": 163004,
-      "name": "Don't Stop! - X-Cabs Radio Edit",
-      "url": "https://open.spotify.com/track/2U8kSj6bS0IUdMD8JSxOm3"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Nervous Rewind 2008",
-        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "Only One (Radio Edit)",
-      "url": "https://open.spotify.com/track/1Dj7hbBEco5ZT0DqY7Q2IV"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Toys Are Nuts Remixes",
         "url": "https://open.spotify.com/album/5V2OID9LYLcd84BGiCYHhx"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 306000,
       "name": "Toys Are Nuts - Hardwell & Rehab Remix",
       "url": "https://open.spotify.com/track/7fvkfIQ4AsdNxDd45yR02F"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Nervous Rewind 2008",
+        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "Only One (Radio Edit)",
+      "url": "https://open.spotify.com/track/1Dj7hbBEco5ZT0DqY7Q2IV"
     },
     {
       "added_at": "2023-03-22 14:00:00",

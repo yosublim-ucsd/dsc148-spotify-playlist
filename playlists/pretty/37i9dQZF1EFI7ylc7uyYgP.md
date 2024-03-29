@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LTWvs1eqq4r0Qln13AssN">Phil Bentley</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23 likes - 132 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 24 likes - 132 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 63 | [Flavor \(feat\. Vikina\)](https://open.spotify.com/track/3nNmvyxfIb1Mf3lGnlmyqY) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [teamwork.](https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe), [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Bettie James Gold Edition](https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V) | 2:56 |
 | 64 | [Cracked](https://open.spotify.com/track/7C3YncdMDWBEqDLluiDOtQ) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Lonely Generation](https://open.spotify.com/album/6DT9TEg5f9j7WVarEXemYY) | 2:37 |
 | 65 | [Fighting with Yourself](https://open.spotify.com/track/026eW4z5Obgw0rENV11IlY) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Dizzyonatightrope](https://open.spotify.com/album/2InVsPk7FnDASgJHAeOu3Y) | 3:39 |
-| 66 | [Crowded Room](https://open.spotify.com/track/1pN7P7Av89Gr18gDON2wx8) | [Christina Grimmie](https://open.spotify.com/artist/0Cav8jyZKAHMFbAusOmjku) | [All Is Vanity](https://open.spotify.com/album/5JRaWKXVpU3K3JqbcDIZAb) | 4:29 |
-| 67 | [Dazzle Girl and Dragonfly](https://open.spotify.com/track/3b1tM3TLa65Ez7ErWI94Nl) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:42 |
+| 66 | [Dazzle Girl and Dragonfly](https://open.spotify.com/track/3b1tM3TLa65Ez7ErWI94Nl) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:42 |
+| 67 | [Crowded Room](https://open.spotify.com/track/1pN7P7Av89Gr18gDON2wx8) | [Christina Grimmie](https://open.spotify.com/artist/0Cav8jyZKAHMFbAusOmjku) | [All Is Vanity](https://open.spotify.com/album/5JRaWKXVpU3K3JqbcDIZAb) | 4:29 |
 | 68 | [busy](https://open.spotify.com/track/7kdmDLwyzFL8jYLzfMvPwQ) | [Kira Kosarin](https://open.spotify.com/artist/7jksCPW6uDQiTDVbcyLV79) | [Something New](https://open.spotify.com/album/5pQLIMOOfKQlTufpnkV49Q) | 3:03 |
 | 69 | [Spotlight](https://open.spotify.com/track/78LXmc1UKXYFkZvoCu3x1z) | [Victor Magan](https://open.spotify.com/artist/6alFyA4PruPsPkMVpXgKdO), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Spotlight](https://open.spotify.com/album/5q4GvIGU8ND0R5F6Plv83J) | 3:22 |
 | 70 | [illusion](https://open.spotify.com/track/2rjk35AnLTFkyD3h4RxOqy) | [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [yes & no](https://open.spotify.com/album/7oq0WKmeG97JxVBn3ggwp4) | 3:33 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 131 | [Lion's Den](https://open.spotify.com/track/1E94YM2HPqbRdVP8gW7s42) | [Punch !nc](https://open.spotify.com/artist/0iRdgcSMVRBHPqEXWdqMkl) | [The High L!fe](https://open.spotify.com/album/6AkxONHcB8l41HvWInyF7q) | 3:52 |
 | 132 | [Earthquake](https://open.spotify.com/track/19h8d5HremCgEauVczVnRk) | [Tisno van Diemen](https://open.spotify.com/artist/10Uzu9lJidelQ1duiV8kvb) | [Dance Bangerz, Vol\. 4](https://open.spotify.com/album/50LlNy1XkPd4cymjIcuKH2) | 3:09 |
 
-Snapshot ID: `Mjg1MjY1MzAsMDAwMDAwMDBjM2UyMzY3NWU5NjRjNTNiOWViZTYxMzhhYjVjYzU5Mg==`
+Snapshot ID: `Mjg1Mjc5NzAsMDAwMDAwMDA4YzBjNmVlNzRkMDE3MzJiNTM3ZDRlZjRjMzBmMjg0NA==`

@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Black Spygo, C4 Pedro & Bruna Amado.
 
-356 songs - 21 hr 14 min
+357 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Jeito Dela](https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Jeito Dela](https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1) | 3:28 | 2021-12-10 |  |
 | [Já Deu](https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Já Deu](https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G) | 3:47 | 2021-12-10 |  |
 | [Já Não Sei](https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Já Não Sei](https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO) | 4:21 | 2021-12-10 | 2024-03-16 |
+| [Já Não Sei](https://open.spotify.com/track/59FhY6j1jchU3WGZ2BxuGx) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Já Não Sei](https://open.spotify.com/album/2iXz4njIp9glteqBnOHNnv) | 4:25 | 2024-03-29 |  |
 | [Já Te Conheço \(feat\. Bruna Tatiana\) \- Remix](https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Bruna Tatiana](https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H) | [Já Te Conheço \(feat\. Bruna Tatiana\) \[Remix\]](https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n) | 3:57 | 2021-12-10 |  |
 | [Ka Ta Importa](https://open.spotify.com/track/4xt4lAUBCPRYtIIWmm9XPk) | [Felishia](https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm), [Oliver](https://open.spotify.com/artist/056V8xAmMi81LgOJZhjTob) | [Ka Ta Importa](https://open.spotify.com/album/0j6nUQtgHdtcCdYhgs6eJJ) | 3:50 | 2022-08-25 | 2022-09-30 |
 | [Karma \- Kriolu Version](https://open.spotify.com/track/37OwL4VPwKjyqu0VaqEizD) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Karma \(Kriolu Version\)](https://open.spotify.com/album/0Eqgq0Pm3WTzcFM79X2CiN) | 3:05 | 2023-03-03 |  |
@@ -357,7 +358,7 @@
 | [Viaja](https://open.spotify.com/track/2DDBsczCQqIQ09t7Uf2uG2) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Viaja](https://open.spotify.com/album/5PasfkH4nK8fillN3pAZRR) | 3:45 | 2022-05-26 |  |
 | [Vibra](https://open.spotify.com/track/4Puvx015SEBAgnvPFi3yGq) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU) | [Vibra](https://open.spotify.com/album/3y3l6JbXvuBAKP5TGY7Fu2) | 2:50 | 2022-08-04 | 2023-05-04 |
 | [Você Me Kuia](https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Longe de Ti](https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1) | 4:08 | 2022-02-14 |  |
-| [Vou Arriscar](https://open.spotify.com/track/7kVndwoIjvzkYxxbuoV2UM) | [Chelsy Shantel](https://open.spotify.com/artist/7KO8A7idPh9D7zwd52QW44), [Nsoki](https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH) | [Vou Arriscar](https://open.spotify.com/album/7AnHcW2hu73RuWTdWD9pmh) | 3:43 | 2021-12-10 |  |
+| [Vou Arriscar](https://open.spotify.com/track/7kVndwoIjvzkYxxbuoV2UM) | [Chelsy Shantel](https://open.spotify.com/artist/7KO8A7idPh9D7zwd52QW44), [Nsoki](https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH) | [Vou Arriscar](https://open.spotify.com/album/7AnHcW2hu73RuWTdWD9pmh) | 3:43 | 2021-12-10 | 2024-03-29 |
 | [Vou Ter Saudades](https://open.spotify.com/track/3LV7JsBzte182GK1p6wOUX) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Vou Ter Saudades](https://open.spotify.com/album/66lpG91jKZ7VUHNQRqD9Ks) | 3:11 | 2022-03-25 | 2022-04-21 |
 | [Waridu \- LBEATZ Sessions \#1](https://open.spotify.com/track/6D1rnxTxNfHCtD3KlXcy4m) | [LBEATZ](https://open.spotify.com/artist/5KxNau7gSEhC7NhCNLjJBi), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Waridu \(LBEATZ Sessions \#1\)](https://open.spotify.com/album/2QBRALabDdpMzrE0Jd7gRT) | 3:10 | 2023-07-13 | 2023-08-04 |
 | [Water](https://open.spotify.com/track/2YGCbj4HPFKc40ow5Ica9X) | [Derick Banks](https://open.spotify.com/artist/6i82JFbfMvOi01V8M937aK), [P\. Lowe](https://open.spotify.com/artist/5iwOutOAetaUm6Yg14BRTu), [Archie & Sizzle](https://open.spotify.com/artist/6GYBds9JOCUmcooVni808I) | [Water](https://open.spotify.com/album/0iP0x5PfiePxWk18TMjoGf) | 4:21 | 2021-12-10 | 2022-12-17 |

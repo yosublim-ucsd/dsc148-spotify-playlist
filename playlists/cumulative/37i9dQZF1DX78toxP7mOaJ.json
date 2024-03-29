@@ -4977,6 +4977,24 @@
     },
     {
       "album": {
+        "name": "Crimes",
+        "url": "https://open.spotify.com/album/4X2WwnZ54aV4nhTcD0BX7M"
+      },
+      "artists": [
+        {
+          "name": "Gloom Girl MFG",
+          "url": "https://open.spotify.com/artist/2UXI5X9jhT0bwCO13Gb3LL"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157487,
+      "name": "Crimes",
+      "url": "https://open.spotify.com/track/5HAUHSAlOOw9wyoLV2wvzO"
+    },
+    {
+      "album": {
         "name": "Crimson to Chrome b/w IN_OUT",
         "url": "https://open.spotify.com/album/3SOjx5ALtCLxwMCeBrpZeD"
       },
@@ -10341,7 +10359,7 @@
     },
     {
       "album": {
-        "name": "Homesick.",
+        "name": "homesick.",
         "url": "https://open.spotify.com/album/2Beb6J2sNAI2FZyR0mQoTq"
       },
       "artists": [
@@ -10354,7 +10372,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208014,
-      "name": "Homesick.",
+      "name": "homesick.",
       "url": "https://open.spotify.com/track/2MjVUXgZcEQ2jPoQ8RB0or"
     },
     {

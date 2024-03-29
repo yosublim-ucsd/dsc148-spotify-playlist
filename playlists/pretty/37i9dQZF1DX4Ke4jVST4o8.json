@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 112204,
+  "num_followers": 112289,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTFiNmJmZDQ2YmRiMTdjZjAxODM3ODJmMWJjOWVhYWQ3ZmEwMTY1",
+  "snapshot_id": "MCwzYzNhM2I4MTIzYzQ2NDcyZDEwMDI5YzgzNjI1M2U4ZDE1NTdhNzc0",
   "tracks": [
     {
       "added_at": "2022-10-14 00:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "The Princess, Pt. Two",
-        "url": "https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        }
-      ],
-      "duration_ms": 197506,
-      "name": "Booty Swing",
-      "url": "https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "#willpower (Deluxe)",
         "url": "https://open.spotify.com/album/0VWYRbEcvJcPrqMGJirO6q"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 279026,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/7IohFKIwrb75c4XaqX7WWo"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "The Princess, Pt. Two",
+        "url": "https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 197506,
+      "name": "Booty Swing",
+      "url": "https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "DJ Central Groove Vol, 15",
-        "url": "https://open.spotify.com/album/0vJgZZgkoZE372ZjV6a38c"
-      },
-      "artists": [
-        {
-          "name": "Ben Pearce",
-          "url": "https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "What I Might Do",
-      "url": "https://open.spotify.com/track/4Rnfx020sYy3YoxvA3oMS2"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Hot Right Now (Remixes) (feat. RITA ORA)",
         "url": "https://open.spotify.com/album/40mKp2q5A9Kq0vnsAvMsXz"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 182333,
       "name": "Hot Right Now (feat. RITA ORA) - Radio Edit",
       "url": "https://open.spotify.com/track/7uHw9gnuf6Fq8nKYFg4p1E"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "DJ Central Groove Vol, 15",
+        "url": "https://open.spotify.com/album/0vJgZZgkoZE372ZjV6a38c"
+      },
+      "artists": [
+        {
+          "name": "Ben Pearce",
+          "url": "https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "What I Might Do",
+      "url": "https://open.spotify.com/track/4Rnfx020sYy3YoxvA3oMS2"
     },
     {
       "added_at": "2022-10-14 00:00:00",

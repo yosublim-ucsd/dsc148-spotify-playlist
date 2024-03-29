@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,991 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,997 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [W4VES](https://open.spotify.com/track/0329gW7HDc2WXI9KvQanPw) | [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1), [Kuro](https://open.spotify.com/artist/1pvdS8wUgkkSZNPwkb6qg0) | [W4VES](https://open.spotify.com/album/6CFOurA899HEzpLEpwgLO6) | 3:33 |
 | 80 | [卒業](https://open.spotify.com/track/1oJDg61q75stSOb8Pz6Czv) | [Misato Watanabe](https://open.spotify.com/artist/3ySOHOGVeGm9qQuEmWDa1k) | [卒業](https://open.spotify.com/album/0cNP7LaX8x5WGY92mAy9GA) | 5:27 |
 
-Snapshot ID: `MCwyZDZiMWU0MjUxYmVkMzc1Y2I1ZWQ3NTZhMDQ1NDJhMzMyZjQwYmYx`
+Snapshot ID: `MCxlYWNlMzc4NDRhMWI2OTg2NmViYjE4MmUzOGM4OTY5YjY5NWZhZTM2`

@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "4 Days",
+        "url": "https://open.spotify.com/album/3GWcWfl1e0JYX4Wg6vMwxn"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154199,
+      "name": "4 Days",
+      "url": "https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74"
+    },
+    {
+      "album": {
         "name": "M\u00e9lange des genres",
         "url": "https://open.spotify.com/album/3FRGCpysHMtNdKsg7f8yVy"
       },
@@ -1608,7 +1626,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 189873,
       "name": "Demain",
       "url": "https://open.spotify.com/track/6lMQd3dNLrCpY5a8yTLGbe"
@@ -2770,7 +2788,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 206657,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4RtUyJA9AXqBHG0QeqJfkl"
@@ -4144,7 +4162,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 160000,
       "name": "MARADONA",
       "url": "https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya"
@@ -4494,6 +4512,24 @@
       "duration_ms": 164334,
       "name": "Mysterious",
       "url": "https://open.spotify.com/track/3X5X93xYL8Qwd6l0DuajPT"
+    },
+    {
+      "album": {
+        "name": "M\u00e9lodie c\u00e9leste",
+        "url": "https://open.spotify.com/album/4sRmxScgAB6P8FMpPxJ0MR"
+      },
+      "artists": [
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186484,
+      "name": "M\u00e9lodie c\u00e9leste",
+      "url": "https://open.spotify.com/track/218nzWjXyhtYlAlUXT329G"
     },
     {
       "album": {
@@ -6220,6 +6256,28 @@
       "duration_ms": 190953,
       "name": "Sudwe",
       "url": "https://open.spotify.com/track/0Tl1zTPLYvHAL5oOjbhUZf"
+    },
+    {
+      "album": {
+        "name": "Sugar Daddy",
+        "url": "https://open.spotify.com/album/34Gb5eOfcHAH49HgMtU6rD"
+      },
+      "artists": [
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        },
+        {
+          "name": "Lhiroyd",
+          "url": "https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142736,
+      "name": "Sugar Daddy",
+      "url": "https://open.spotify.com/track/09JPIuZzcWastEmRcUEKCI"
     },
     {
       "album": {

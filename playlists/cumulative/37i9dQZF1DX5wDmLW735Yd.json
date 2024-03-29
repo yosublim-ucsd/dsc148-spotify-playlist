@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Luude\n",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Charlotte Haining\n",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -760,7 +760,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 248275,
       "name": "Awake",
       "url": "https://open.spotify.com/track/6pEQUJelejN4xL3bhE4Khk"
@@ -6387,6 +6387,28 @@
     },
     {
       "album": {
+        "name": "Kenny",
+        "url": "https://open.spotify.com/album/52or3DpjweGn975r6FxzKi"
+      },
+      "artists": [
+        {
+          "name": "Slay",
+          "url": "https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M"
+        },
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186098,
+      "name": "Kenny",
+      "url": "https://open.spotify.com/track/0Cn7uPxAxMUcdZ9HVtpfik"
+    },
+    {
+      "album": {
         "name": "Kill Switch",
         "url": "https://open.spotify.com/album/1v2BE1IeMvFrTwb0SO2QCc"
       },
@@ -8388,6 +8410,28 @@
       "duration_ms": 188813,
       "name": "Never Let You Down (feat. Penny Ivy)",
       "url": "https://open.spotify.com/track/21Wm6Hm4dkYb7NKUMr4T8G"
+    },
+    {
+      "album": {
+        "name": "Never Seen Never Heard",
+        "url": "https://open.spotify.com/album/6F70A20mW1FHZaAd0Ydfis"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153735,
+      "name": "Never Seen Never Heard",
+      "url": "https://open.spotify.com/track/3A7VS6MzbpVI2bYtNVTNlM"
     },
     {
       "album": {
@@ -13698,7 +13742,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 178604,
       "name": "What It Seems",
       "url": "https://open.spotify.com/track/7dPpBcmpNGxWST0UXZaZhL"

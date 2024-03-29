@@ -2,7 +2,7 @@
 
 ### [New Pop Hits](https://open.spotify.com/playlist/0t5sCAa21rb3bjm4Yl7xDv)
 
-> The hottest tracks you want to hear, all in one playlist! Cover: Olivia Rodrigo
+> The hottest tracks you want to hear, all in one playlist! Cover: Camila Cabello
 
 268 songs - 13 hr 46 min
 

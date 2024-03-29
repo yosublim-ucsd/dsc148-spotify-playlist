@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 1265435,
+  "2024-03-29": 1266068,
   "date_first_scraped": "2022-02-11",
   "description": "Entering my reputation era...",
   "name": "Villain Mode",
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 162769,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/7mo91mH70LRf4NMUs717c3"
@@ -3179,7 +3179,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 168096,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/5BsGmbPJyupA70FlD7NtbS"
@@ -4296,6 +4296,24 @@
     },
     {
       "album": {
+        "name": "Something Blue",
+        "url": "https://open.spotify.com/album/46aNsiacKvNKDOQP535ORt"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186137,
+      "name": "Something Blue",
+      "url": "https://open.spotify.com/track/1XQecFY99zarSryU7dS1RN"
+    },
+    {
+      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -4509,7 +4527,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 204887,
       "name": "Teeth",
       "url": "https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6"

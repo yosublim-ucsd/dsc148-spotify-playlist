@@ -1,12 +1,12 @@
 {
   "description": "God, I'm so boring, and I'm so rude!",
-  "num_followers": 2163614,
+  "num_followers": 2163843,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjNmZjMyZWQxZGRjYjkxYzM0NWJmNzg3MDc3NmUwZDdmNWFiZWIz",
+  "snapshot_id": "MCwxZTY2ZWRjNTZhZWU2MDM5N2IyNmI5NGYzMDkzYzNlMzNiOTk4ZDE3",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 169717,
       "name": "so american",
       "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"
+    },
+    {
+      "added_at": "2024-03-28 18:02:12",
+      "album": {
+        "name": "I LUV IT (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 174880,
+      "name": "I LUV IT (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
     },
     {
       "added_at": "2024-03-22 04:00:00",

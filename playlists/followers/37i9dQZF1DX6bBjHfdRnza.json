@@ -1,5 +1,5 @@
 {
-  "2024-03-28": 171064,
+  "2024-03-29": 171159,
   "date_first_scraped": "2021-12-21",
   "description": "The best new dance & electronic by independent artists and labels. Cover: Nicky Elisabeth. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
@@ -1580,6 +1580,24 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/5Pe7Zs0lvgMV5FlQmmQc5Z"
+      },
+      "artists": [
+        {
+          "name": "JAYC",
+          "url": "https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246719,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/6f0Ra2Z8iVhpRWCoLjxRQ6"
+    },
+    {
+      "album": {
         "name": "Always Dancin'",
         "url": "https://open.spotify.com/album/5xAip5ulkGcPu1xQJqrfTy"
       },
@@ -2089,6 +2107,32 @@
       "duration_ms": 205581,
       "name": "Around Me",
       "url": "https://open.spotify.com/track/4KcxmDSHOMr8lvsRIV5yIT"
+    },
+    {
+      "album": {
+        "name": "AROUND THE WORLD (Centre Court Remix)",
+        "url": "https://open.spotify.com/album/5WNCKc0KPAPfWrNIhbeXlv"
+      },
+      "artists": [
+        {
+          "name": "DR. GRECO",
+          "url": "https://open.spotify.com/artist/22uGhIsOwooTmZ5uPXOeSb"
+        },
+        {
+          "name": "XTN",
+          "url": "https://open.spotify.com/artist/4p3wJme3f00F5YVVS3lRBM"
+        },
+        {
+          "name": "Centre Court",
+          "url": "https://open.spotify.com/artist/5CyxC6fwavhoRAf1n9n7wh"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170118,
+      "name": "AROUND THE WORLD - Centre Court Remix",
+      "url": "https://open.spotify.com/track/6hoDmwV5D2hs7zxQQDErd7"
     },
     {
       "album": {
@@ -4029,7 +4073,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 210695,
       "name": "Bongos - Radio Mix",
       "url": "https://open.spotify.com/track/6kAzB54th01evhvcffSei9"
@@ -4633,7 +4677,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 180920,
       "name": "Bringing Me Joy",
       "url": "https://open.spotify.com/track/3Tbuy3xoK5dS5tvUZ2kDpi"
@@ -5803,6 +5847,24 @@
       "duration_ms": 196153,
       "name": "Chasing Rush",
       "url": "https://open.spotify.com/track/7y8wA3pddCab0JULlglVV1"
+    },
+    {
+      "album": {
+        "name": "cheap sunset",
+        "url": "https://open.spotify.com/album/2PrPJggT9T4jIccc8qTLkI"
+      },
+      "artists": [
+        {
+          "name": "foyn",
+          "url": "https://open.spotify.com/artist/0MSrBB3HIgO3n2xdmxJYJy"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216393,
+      "name": "cheap sunset",
+      "url": "https://open.spotify.com/track/5eDYhm8wmwu36e7BBvjLnr"
     },
     {
       "album": {
@@ -8577,7 +8639,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 189792,
       "name": "Disco Party Baby - Original Mix",
       "url": "https://open.spotify.com/track/5IAaxB9xyH0T4JwQY2fg3W"
@@ -10097,7 +10159,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 259510,
       "name": "E Tu",
       "url": "https://open.spotify.com/track/5thlXjvNrM6XVugoLOUz0a"
@@ -12097,7 +12159,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 258013,
       "name": "Finally",
       "url": "https://open.spotify.com/track/5S7xGgvd4RWejVhj6mZHMq"
@@ -12975,6 +13037,24 @@
       "duration_ms": 305794,
       "name": "Freaktopia",
       "url": "https://open.spotify.com/track/7Dv5UuERhdpYIgQ8RUx1Ty"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7vwmPbiCeBhHkZA5RGjSNY"
+      },
+      "artists": [
+        {
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3TyQK5VFsgW1oFsFilQpwJ"
     },
     {
       "album": {
@@ -14211,7 +14291,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 204179,
       "name": "Go Through Everything",
       "url": "https://open.spotify.com/track/4OzmkADqSbUFs6gUtcJp8l"
@@ -15269,7 +15349,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 185987,
       "name": "Her",
       "url": "https://open.spotify.com/track/16Vvd690cYoxmMvqaiTBwz"
@@ -15287,7 +15367,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 291762,
       "name": "Hercules",
       "url": "https://open.spotify.com/track/18HGXRxYTX0NE2v5J5h3F6"
@@ -16115,6 +16195,28 @@
       "duration_ms": 398766,
       "name": "Hotwing",
       "url": "https://open.spotify.com/track/38GxnU3s0zz0VGUwQrjBYS"
+    },
+    {
+      "album": {
+        "name": "House Nation",
+        "url": "https://open.spotify.com/album/4slzbNHmXSCEcDqMtA8jwq"
+      },
+      "artists": [
+        {
+          "name": "DJ BLIK",
+          "url": "https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE"
+        },
+        {
+          "name": "DJ POLKOMTEL",
+          "url": "https://open.spotify.com/artist/1VuAnQWU5OzXL7Yf57bn70"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "House Nation",
+      "url": "https://open.spotify.com/track/19z4ja0tzdakFYAxLGvird"
     },
     {
       "album": {
@@ -17953,7 +18055,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 356687,
       "name": "Irie",
       "url": "https://open.spotify.com/track/1u95ONwOFaN37MJCWmeL5g"
@@ -19761,6 +19863,24 @@
       "duration_ms": 208500,
       "name": "Lift You Up",
       "url": "https://open.spotify.com/track/7AWbSAaYHMb82k4HF1Hb4J"
+    },
+    {
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/3ib9CGIQOVy6up6PmMEzxo"
+      },
+      "artists": [
+        {
+          "name": "Peace Bringa",
+          "url": "https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/3znoDo4pQe84sKpFPRKZ2G"
     },
     {
       "album": {
@@ -24773,7 +24893,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 218880,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/7M4gsXulRg122cHm6bEFLh"
@@ -24975,6 +25095,24 @@
       "duration_ms": 188000,
       "name": "One Last Chance",
       "url": "https://open.spotify.com/track/74BL6RN1npPtJIuy9kCMND"
+    },
+    {
+      "album": {
+        "name": "Inner Circuitry",
+        "url": "https://open.spotify.com/album/2vHPBoZuIIBBsfHjRZdoAA"
+      },
+      "artists": [
+        {
+          "name": "Familiar Faces",
+          "url": "https://open.spotify.com/artist/2faJegxkyWRI7AMI9pyWZo"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "One More Chance",
+      "url": "https://open.spotify.com/track/5RWaoorATy51bTcKH4iEuF"
     },
     {
       "album": {
@@ -25316,6 +25454,24 @@
     },
     {
       "album": {
+        "name": "OUT Of TiME",
+        "url": "https://open.spotify.com/album/06MMGTEEmLPaeWGTthiT70"
+      },
+      "artists": [
+        {
+          "name": "Forrest Taylor",
+          "url": "https://open.spotify.com/artist/65B2wTz12IA9U4ydyGHXP2"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "OUT Of TiME",
+      "url": "https://open.spotify.com/track/2SzOqvhFUxICiUZuLMYNl1"
+    },
+    {
+      "album": {
         "name": "Out There",
         "url": "https://open.spotify.com/album/3eae86ngTES2NdFjffBlTM"
       },
@@ -25421,6 +25577,24 @@
       "duration_ms": 312614,
       "name": "overgrown",
       "url": "https://open.spotify.com/track/6QqguQTORFhJmRXbXxUde3"
+    },
+    {
+      "album": {
+        "name": "Oxygn",
+        "url": "https://open.spotify.com/album/2G2Olyu8iGW7Bd59L5hqAb"
+      },
+      "artists": [
+        {
+          "name": "YAOB",
+          "url": "https://open.spotify.com/artist/1E2EOI7vULMnFTX1pC7Uju"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153926,
+      "name": "Oxygn",
+      "url": "https://open.spotify.com/track/0WuABxcSEkrj5cjkxaeiXG"
     },
     {
       "album": {
@@ -27002,6 +27176,24 @@
     },
     {
       "album": {
+        "name": "push / above",
+        "url": "https://open.spotify.com/album/4Gzd09NSaDOzrsNQMAmPd7"
+      },
+      "artists": [
+        {
+          "name": "glittr",
+          "url": "https://open.spotify.com/artist/2a5e4bQS4bNov080O3zTFJ"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "push",
+      "url": "https://open.spotify.com/track/70rHOpWK2D0T4unIzANPL0"
+    },
+    {
+      "album": {
         "name": "Push This Groove",
         "url": "https://open.spotify.com/album/5rhSg4tCHHiJPv2b26DS2l"
       },
@@ -27125,7 +27317,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 240127,
       "name": "RAINY DAY ROMANCE",
       "url": "https://open.spotify.com/track/0110RTFHQRxuAY8VhrzjyI"
@@ -28205,7 +28397,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 391694,
       "name": "Rom Pom Pom",
       "url": "https://open.spotify.com/track/6EtrlEk6AQAOnCBmnxmWRQ"
@@ -28671,7 +28863,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 280546,
       "name": "Sarvam",
       "url": "https://open.spotify.com/track/4FyCnlOAQMePEDUI0PyVXR"
@@ -30321,7 +30513,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-28",
       "duration_ms": 298953,
       "name": "Soft Fascination",
       "url": "https://open.spotify.com/track/1KaokZCMPCHHH4ehnS0knL"
@@ -33442,6 +33634,24 @@
     },
     {
       "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/4O1m3mETlK0lRMplIfbcDe"
+      },
+      "artists": [
+        {
+          "name": "Love,Shaun",
+          "url": "https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136087,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/1so4GFCujGNaWimi1IDUk4"
+    },
+    {
+      "album": {
         "name": "The Island",
         "url": "https://open.spotify.com/album/0XZ5lnCz1SbPTVK3yiC9AU"
       },
@@ -35826,6 +36036,24 @@
     },
     {
       "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
+    },
+    {
+      "album": {
         "name": "Verde",
         "url": "https://open.spotify.com/album/4oXLvrJLs0TgvJgNL1KpxF"
       },
@@ -36417,6 +36645,24 @@
       "duration_ms": 255926,
       "name": "want_from_me_",
       "url": "https://open.spotify.com/track/6MUxAavp7dckUYZq9njGcr"
+    },
+    {
+      "album": {
+        "name": "Warm The Room EP",
+        "url": "https://open.spotify.com/album/6XHIfFyCpIKW4eaKSfm9MY"
+      },
+      "artists": [
+        {
+          "name": "Vales",
+          "url": "https://open.spotify.com/artist/4ivi3u9exYoKCz1c01QfqE"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "Warm The Room",
+      "url": "https://open.spotify.com/track/3o3RBrOBpe1OkJpoSRwDqo"
     },
     {
       "album": {
@@ -38439,6 +38685,24 @@
       "duration_ms": 286451,
       "name": "Your Soul",
       "url": "https://open.spotify.com/track/6M4nNbVYQZteVhtqBtS1h3"
+    },
+    {
+      "album": {
+        "name": "your time.",
+        "url": "https://open.spotify.com/album/2Gh4GCz4caky2PQQ4JP12f"
+      },
+      "artists": [
+        {
+          "name": "deadkidd.",
+          "url": "https://open.spotify.com/artist/4BQpjKJzKKA4yyZWZ2tCcf"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198661,
+      "name": "your time.",
+      "url": "https://open.spotify.com/track/6d09KzTfgjNGHlN2d3UcyM"
     },
     {
       "album": {

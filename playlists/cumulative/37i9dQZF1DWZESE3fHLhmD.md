@@ -2,7 +2,7 @@
 
 ### [Frühlingsgefühle](https://open.spotify.com/playlist/37i9dQZF1DWZESE3fHLhmD)
 
-> Endlich Frühling!
+> Endlich Frühling, Sonne und freie Tage zu Ostern!
 
 171 songs - 9 hr 1 min
 
